@@ -1,0 +1,17 @@
+In a very recent experiment, an exotic Mott insulating phase has been observed in the ABC-stacked
+trilayer graphene-boron nitride Moire superlattice at half-filling. Based on symmetry analysis
+and effective band structure calculation, we propose a valley-contrasting chiral tight-binding
+model with a local inter-valley Coulomb interaction. By matching the positions of van Hove points
+in the low-energy effective band structure, the valley-contrasting flux is determined to be around
+$~\pi /2$ per a triangle, which is crucial for the valley correlated physics. From the weak coupling
+approach, such a flux induces a perfect nesting between the 1/2 filled Fermi-surfaces, leading
+to the inter-valley-spiral order. Moreover, in the strong coupling limit, a Mott gap divides the
+valence band into two sub-bands. When the lower sub-bands is fully filled, the flux serves the minimization
+of the valley exchange energy. Hence, the ground state at 1/2 filling is characterized by a valley
+pseudo-spin 120$^{\circ }$ ordered Mott insulator, which is adiabatically connected to the inter-valley
+spiral order state. Furthermore, upon lightly hole doping, the $U(1)_{v}$-symmetric valley exchange
+interaction leads to inter-valley topological superconductivity with a mixed order parameter
+of valley singlet and triplet pairs. But the pairing symmetry could be either $p\pm ip$ or $d\mp id$,
+depending on the detailed structure of the Fermi surfaces. In addition, our minimal model with a
+varying flux can also be extended to describe the more general multilayer-graphene Moire superlattices
+with a perpendicular electric field. 

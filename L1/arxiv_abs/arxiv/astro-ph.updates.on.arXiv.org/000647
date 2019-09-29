@@ -1,0 +1,16 @@
+In this paper, the detectability of habitable exomoons orbiting around giant planets in M-dwarf
+systems using Transit Timing Variations (TTVs) and Transit Timing Durations (TDVs) with Kepler-class
+photometry is investigated. Light curves of systems with various configurations were simulated
+around M-dwarf hosts of mass 0.5 Msun and radius 0.55 Rsun. Jupiter-like giant planets which offer
+the best potential for hosting habitable exomoons were considered with rocky super-Earth-mass
+moons. The detectability is measured by using the phase-correlation between TTV and TDV signals.
+Since the TDV signal is typically weaker than the TTV signal, confirmation of an exomoon detection
+will depend on being able to detect a TDV signal. We find that exomoons around planets orbiting within
+the habitable zone of an M-dwarf host star can produce both detectable TTV and TDV signatures with
+Kepler-class photometry. While aliasing between the planet period and moon period may hinder exomoon
+detection, we also find some strong correlation signatures in our simulation (eg. correlation:
+>0.7) which would provide convincing exomoon signatures. With the addition of red noise stellar
+variability, correlations generally weaken. However simulated examples with planet masses less
+than around 25 Mearth, moons of mass 8-10 Mearth and specific values of planet and moon periods still
+yield detectable correlation in 25-50% of cases. Our simulation indicates that Kepler provides
+one of the best available opportunities for exomoon detection. 

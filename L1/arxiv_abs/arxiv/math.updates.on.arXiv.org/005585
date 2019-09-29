@@ -1,0 +1,17 @@
+We introduce a second-order numerical scheme for compressible atmospheric motions at small to
+planetary scales. The collocated finite volume method treats the advection of mass, momentum,
+and mass-weighted potential temperature in conservation form while relying on Exner pressure
+for the pressure gradient term. It discretises the rotating compressible equations by evolving
+full variables rather than perturbations around a background state, and operates with time steps
+constrained by the advection speed only. Perturbation variables are only used as auxiliary quantities
+in the formulation of the elliptic problem. Borrowing ideas on forward-in-time differencing,
+the algorithm reframes the authors' previously proposed schemes into a sequence of implicit midpoint,
+advection, and implicit trapezoidal steps that allows for a time integration unconstrained by
+the internal gravity wave speed. Compared with existing approaches, results on a range of benchmarks
+of nonhydrostatic- and hydrostatic-scale dynamics are competitive. The test suite includes a
+new planetary-scale inertia-gravity wave test highlighting the properties of the scheme and its
+large time step capabilities. In the hydrostatic-scale cases the model is run in pseudo-incompressible
+and hydrostatic mode with simple switching within a uniform discretization framework. The differences
+with the compressible runs return expected relative magnitudes. By providing seamless access
+to soundproof and hydrostatic dynamics, the developments represent a necessary step towards an
+all-scale blended multimodel solver. 

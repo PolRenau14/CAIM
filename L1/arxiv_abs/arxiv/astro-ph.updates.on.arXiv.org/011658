@@ -1,0 +1,16 @@
+We study the effects of Kelvin-Helmholtz instability (KHI) on the cold streams that feed high-redshift
+galaxies through their hot haloes, generalizing our earlier analyses of a 2D slab to a 3D cylinder,
+but still limiting our analysis to the adiabatic case with no gravity. We combine analytic modeling
+and numerical simulations in the linear and non-linear regimes. For subsonic or transonic streams
+with respect to the halo sound speed, the instability in 3D is qualitatively similar to 2D, but progresses
+at a faster pace. For supersonic streams, the instability grows much faster in 3D and can be qualitatively
+different due to azimuthal modes, which introduce a strong dependence on the initial width of the
+stream-background interface. Using analytic toy models and approximations supported by high-resolution
+simulations, we apply our idealized hydrodynamical analysis to the astrophysical scenario. The
+upper limit for the radius of a stream that disintegrates prior to reaching the central galaxy is
+~70% larger than the 2D estimate; it is in the range (0.5-5)% of the halo virial radius, decreasing
+with increasing stream density and velocity. Stream disruption generates a turbulent mixing zone
+around the stream with velocities at the level of ~20% of the initial stream velocity. KHI can cause
+significant stream deceleration and energy dissipation in 3d, contrary to 2D estimates. For typical
+streams, up to (10-50)% of the gravitational energy gained by inflow down the dark-matter halo potential
+can be dissipated, capable of powering Lyman-alpha blobs if most of it is dissipated into radiation.

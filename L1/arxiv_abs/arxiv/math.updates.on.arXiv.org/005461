@@ -1,0 +1,17 @@
+We establish error bounds of the finite difference time domain (FDTD) methods for the long time dynamics
+of the nonlinear Klein-Gordon equation (NKGE) with a cubic nonlinearity, while the nonlinearity
+strength is characterized by $\varepsilon^2$ with $0 <\varepsilon \leq 1$ a dimensionless parameter.
+When $0 < \varepsilon \ll 1$, it is in the weak nonlinearity regime and the problem is equivalent to
+the NKGE with small initial data, while the amplitude of the initial data (and the solution) is at
+$O(\varepsilon)$. Four different FDTD methods are adapted to discretize the problem and rigorous
+error bounds of the FDTD methods are established for the long time dynamics, i.e. error bounds are
+valid up to the time at $O(1/\varepsilon^{\beta})$ with $0 \le \beta \leq 2$, by using the energy
+method and the techniques of either the cut-off of the nonlinearity or the mathematical induction
+to bound the numerical approximate solutions. In the error bounds, we pay particular attention
+to how error bounds depend explicitly on the mesh size $h$ and time step $\tau$ as well as the small
+parameter $\varepsilon\in (0,1]$, especially in the weak nonlinearity regime when $0 < \varepsilon
+\ll 1$. Our error bounds indicate that, in order to get ``correct'' numerical solutions up to the
+time at $O(1/\varepsilon^{\beta})$, the $\varepsilon$-scalability (or meshing strategy) of
+the FDTD methods should be taken as: $h = O(\varepsilon^{\beta/2})$ and $\tau = O(\varepsilon^{\beta/2})$.
+Extensive numerical results are reported to confirm our error bounds and to demonstrate that they
+are sharp. 

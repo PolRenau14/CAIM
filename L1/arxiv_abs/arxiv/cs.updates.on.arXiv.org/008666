@@ -1,0 +1,16 @@
+In contrast to graph-based models for complex networks, hypergraphs are more general structures
+going beyond binary relations of graphs. For graphs, statistics gauging different aspects of their
+structures have been devised and there is undergoing research for devising them for hypergraphs.
+Forman-Ricci curvature is a statistics for graphs, which is based on Riemannian geometry, and that
+stresses the relational character of vertices in a network through the analysis of edges rather
+than vertices. In spite of the different applications of this curvature, it has not yet been formulated
+for hypergraphs. Here we devise the Forman-Ricci curvature for directed and undirected hypergraphs,
+where the curvature for graphs is a particular case. We report its upper and lower bounds and the respective
+bounds for the graph case. The curvature quantifies the trade-off between hyperedge(arc) size
+and the degree of participation of hyperedge(arc) vertices in other hyperedges(arcs). We calculated
+the curvature for two large networks: Wikipedia vote network and \emph{Escherichia coli} metabolic
+network. In the first case the curvature is ruled by hyperedge size, while in the second by hyperedge
+degree. We found that the number of users involved in Wikipedia elections goes hand-in-hand with
+the participation of experienced users. The curvature values of the metabolic network allowed
+detecting redundant and bottle neck reactions. It is found that ADP phosphorilation is the metabolic
+bottle neck reaction but that the reverse reaction is not that central for the metabolism. 

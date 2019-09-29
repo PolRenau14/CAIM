@@ -1,0 +1,16 @@
+We develop a Clifford algebra approach for 3D Ising model. By utilizing some mathematical facts
+of the direct product of matrices and their trace, we expand the dimension of the transfer matrices
+V of the 3D Ising system by adding unit matrices I (with compensation of a factor) and adjusting their
+sequence, which do not change the trace of the transfer matrices V (Theorem I: Trace Invariance Theorem).
+It allows us to perform a linearization process on sub-transfer-matrices (Theorem II: Linearization
+Theorem). It is found that locally for each site j, the internal factor Wj in the transfer matrices
+can be treated as a boundary factor, which can be dealt with by a procedure similar to the Onsager-Kaufman
+approach for the boundary factor U in the 2D Ising model. This linearization process splits each
+sub-transfer matrix into 2n sub-spaces (and the whole system into 2nl sub-spaces). Furthermore,
+a local transformation is employed on each of the sub-transfer matrices (Theorem III: Local Transformation
+Theorem). The local transformation trivializes the non-trivial topological structure, while
+it generalizes the topological phases on the eigenvectors. This is induced by a gauge transformation
+in the Ising gauge lattice that is dual to the original 3D Ising model. The non-commutation of operators
+during the processes of linearization and local transformation can be dealt with to be commutative
+in the framework of the Jordan-von Neumann-Wigner procedure, in which the multiplication in Jordan
+algebras is applied instead of the usual matrix multiplication AB (Theorem IV: Commutation Theorem).

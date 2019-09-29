@@ -1,0 +1,16 @@
+In this paper, we revisit the parameter learning problem, namely the estimation of model parameters
+for Dynamic Bayesian Networks (DBNs). DBNs are directed graphical models of stochastic processes
+that encompasses and generalize Hidden Markov models (HMMs) and Linear Dynamical Systems (LDSs).
+Whenever we apply these models to economics and finance, we are forced to make some modeling assumptions
+about the state dynamics and the graph topology (the DBN structure). These assumptions may be incorrectly
+specified and contain some additional noise compared to reality. Trying to use a best fit approach
+through maximum likelihood estimation may miss this point and try to fit at any price these models
+on data. We present here a new methodology that takes a radical point of view and instead focus on the
+final efficiency of our model. Parameters are hence estimated in terms of their efficiency rather
+than their distributional fit to the data. The resulting optimization problem that consists in
+finding the optimal parameters is a hard problem. We rely on Covariance Matrix Adaptation Evolution
+Strategy (CMA-ES) method to tackle this issue. We apply this method to the seminal problem of trend
+detection in financial markets. We see on numerical results that the resulting parameters seem
+less error prone to over fitting than traditional moving average cross over trend detection and
+perform better. The method developed here for algorithmic trading is general. It can be applied
+to other real case applications whenever there is no physical law underlying our DBNs. 

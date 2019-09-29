@@ -1,0 +1,15 @@
+Recently an unidentified emission line at 3.55 keV has been detected in X-ray spectra of clusters
+of galaxies. The line has been discussed as a possible decay signature of 7.1 keV sterile neutrinos,
+which have been proposed as a dark matter (DM) candidate. We aim to further constrain the line strength
+and its implied mixing angle under the assumption that all DM is made of sterile neutrinos. The X-ray
+observations of the Limiting Window (LW) towards the Galactic bulge (GB) offer a unique dataset
+for exploring DM lines. We characterize the systematic uncertainties of the observation and the
+fitted models with simulated X-ray spectra. In addition we discuss uncertainties of indirect DM
+column density constraints towards the GB to understand systematic uncertainties in the assumed
+DM mass in the field of view of the observation. We found tight constraints on the allowed flux for
+an additional line at 3.55 keV with a positive ($\mathrm{\sim1.5\sigma}$) best fit value $\mathrm{F_X^{3.55keV}\approx(4.5\pm3.5)\times10^{-7}~cts~cm^{-2}~s^{-1}}$.
+This would translate into a mixing angle of $\mathrm{sin^{2}(2\Theta)\approx(2.3\pm1.8)\times10^{-11}}$
+which, while consistent with some recent results, is in tension with earlier detections. We used
+a very deep dataset with well understood systematics to derive tight constraints on the mixing angle
+of a 7.1 keV sterile neutrino DM. The results highlight that the inner Milky Way will be a good target
+for DM searches with upcoming missions like eROSITA, XRISM, and ATHENA. 

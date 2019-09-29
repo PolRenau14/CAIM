@@ -1,0 +1,16 @@
+We present a theoretical study of photo-absorption in n-doped two-dimensional (2D) and quasi-2D
+semiconductors that takes into account the interaction of the photocreated exciton with Fermi-sea
+(FS) electrons through (i) Pauli blocking, (ii) Coulomb screening, and (iii) excitation of FS electron-hole
+pairs---that we here restrict to one. The system we tackle is thus made of one exciton plus zero or
+one FS electron-hole pair. At low doping, the system ground state is predominantly made of a "trion-hole"---a
+trion (two opposite-spin electrons plus a valence hole) weakly bound to a FS hole---with a small
+exciton component. As the trion is poorly coupled to photon, the intensity of the lowest absorption
+peak is weak; it increases with doping, thanks to the growing exciton component, due to a larger coupling
+between 2-particle and 4-particle states. Under a further doping increase, the trion-hole complex
+is less bound because of Pauli blocking by FS electrons, and its energy increases. The lower peak
+then becomes predominantly due to an exciton dressed by FS electron-hole pairs, that is, an exciton-polaron.
+As a result, the absorption spectra of $n$-doped semiconductor quantum wells show two prominent
+peaks, the nature of the lowest peak turning from trion-hole to exciton-polaron under a doping increase.
+Our work also nails down the physical mechanism behind the increase with doping of the energy separation
+between the trion-hole peak and the exciton-polaron peak, even before the anti-crossing, as experimentally
+observed. 

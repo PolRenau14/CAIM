@@ -1,0 +1,16 @@
+Myocardial infarction (MI), also known as a cardiac attack, is one of the common cardiac disorders
+occurs when one or more coronary arteries are blocked. Hence, early detection of MI is critical for
+the reduction of the rising of the death rate. The cardiologists use the electrocardiogram (ECG)
+as a diagnostic tool to monitor and reveal the MI signals. However, all the MI signals are not constant
+and noisy, so it is tough to detect or observe these signals manually. Several computer-aided diagnosis
+systems (CADs) have been suggested to solve these difficulties. In this paper, we have proposed
+an effective CAD system to detect MI signals using the two-dimensional convolution neural network
+(CNN). In this study, we have employed two ways of the transfer learning technique to retrain the
+pre-trained VGG-Net and obtained two new networks VGG-MI1 and VGG-MI2. Moreover, the heartbeat
+data augmentation techniques are employed to increase the classification performance. We have
+utilized two-second ECG signals from the PTB database, which has been widely employed in MI detection
+studies. In case of using VGG-MI1, we achieved an accuracy, sensitivity, and specificity of 99.02%,
+98.76%, and 99.17% respectively and we achieved an accuracy of 99.22%, a sensitivity of 99.15%,
+and a specificity of 99.49% when using VGG-MI2. Results showed that the proposed algorithm is more
+efficient than the state-of-the-art methods in terms of accuracy sensitivity, and specificity.
+Finally, the proposed algorithm can assist the specialists to detect the MI signals more precisely.

@@ -1,0 +1,17 @@
+Voice conversion (VC) aims at conversion of speaker characteristic without altering content.
+Due to training data limitations and modeling imperfections, it is difficult to achieve believable
+speaker mimicry without introducing processing artifacts; performance assessment of VC, therefore,
+usually involves both speaker similarity and quality evaluation by a human panel. As a time-consuming,
+expensive, and non-reproducible process, it hinders rapid prototyping of new VC technology. We
+address artifact assessment using an alternative, objective approach leveraging from prior work
+on spoofing countermeasures (CMs) for automatic speaker verification. Therein, CMs are used for
+rejecting `fake' inputs such as replayed, synthetic or converted speech but their potential for
+automatic speech artifact assessment remains unknown. This study serves to fill that gap. As a supplement
+to subjective results for the 2018 Voice Conversion Challenge (VCC'18) data, we configure a standard
+constant-Q cepstral coefficient CM to quantify the extent of processing artifacts. Equal error
+rate (EER) of the CM, a confusability index of VC samples with real human speech, serves as our artifact
+measure. Two clusters of VCC'18 entries are identified: low-quality ones with detectable artifacts
+(low EERs), and higher quality ones with less artifacts. None of the VCC'18 systems, however, is
+perfect: all EERs are < 30 % (the `ideal' value would be 50 %). Our preliminary findings suggest potential
+of CMs outside of their original application, as a supplemental optimization and benchmarking
+tool to enhance VC technology. 

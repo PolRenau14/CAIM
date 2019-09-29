@@ -1,0 +1,16 @@
+Explicitly correlated calculations of interaction energies with wave functions that include
+all interparticle distances have suffered so far from the lack of size-consistency resulting from
+the difficulty to define monomer energies corresponding to the applied dimer basis. As a consequence
+it has not been possible to obtain interaction energies vanishing at infinite intermonomer distance
+$R$. This has dramatically reduced the accuracy of calculations at distances where the error in
+the dimer energy was comparable with the interaction energy itself. The same problem occurs in calculations
+of interaction-induced properties. In this communication we show how to circumvent this difficulty
+and obtain interaction energies or interaction-induced properties that vanish at large $R$. This
+is achieved by relaxing the Pauli principle in the diagonalization of the Hamiltonian of noninteracting
+monomers. The basis functions used for this diagonalization belong to the representation of the
+permutation group of the dimer induced by the product of representations appropriate for the monomer
+spin states. Nonlinear parameters of the basis set are optimized only for the dimer in the Pauli-allowed
+sector of the Hilbert space. In this way, one obtains $R$-dependent energy of noninteracting monomers
+and the corresponding interaction energy includes a counterpoise correction for the basis set
+superposition error. The efficiency of this procedure is demonstrated for the interaction of two
+hydrogen atoms where accurate reference data are known. 

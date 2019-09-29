@@ -1,0 +1,16 @@
+The variation in atmospheric pressure is due to changes in mass of the air column above, which in turn
+resembles the density variation of atmosphere and will affect the decay of secondary particles
+of cosmic rays. The ground based cosmic ray detectors observe pressure dependent variation in their
+flux. The High Altitude Water Cherenkov (HAWC) gamma ray observatory is a great detector of secondary
+particles because of its high altitude, high uptime, and large area (including total photo-cathode
+area), which makes the HAWC scaler system an ideal instrument for solar modulation studies. Although,
+in order to perform these studies it is necessary to isolate and remove the atmospheric modulations.
+The observed rate in each PMT has signatures of both the solar and atmospheric modulations, which
+makes it difficult to measure the pressure coefficient ($\beta_P$ ). The pressure at the HAWC site
+shows a periodic behavior ($\sim$ 12 hours), which also reflects in the scalar rates. This periodic
+property was used to isolate the pressure modulation and $\beta_P$ were estimated with accuracy.
+Since the pressure dependence is a physical phenomenon, the estimated coefficients for PMTs should
+be identical, any deviation from this can be due to malfunction of the PMT. This make this method a
+useful tool to identify the malfunctioning PMTs and help us to isolate them from the analysis. In
+this analysis we are presenting the method of estimation of the pressure coefficients and its usage
+to correct the HAWC scalar data to make it suitable for the solar modulations studies. 

@@ -1,0 +1,17 @@
+Sadi Carnot's theorem regarding the maximum efficiency of heat engines is considered to be of fundamental
+importance in thermodynamics. This theorem famously states that the maximum efficiency depends
+only on the temperature of the heat baths used by the engine, but not on the specific structure of baths.
+Here, we show that when the heat baths are finite in size, and when the engine operates in the quantum
+nanoregime, a revision to this statement is required. We show that one may still achieve the Carnot
+efficiency, when certain conditions on the bath structure are satisfied; however if that is not
+the case, then the maximum achievable efficiency can reduce to a value which is strictly less than
+Carnot. We derive the maximum efficiency for the case when one of the baths is composed of qubits.
+Furthermore, we show that the maximum efficiency is determined by either the standard second law
+of thermodynamics, analogously to the macroscopic case, or by the non increase of the max relative
+entropy, which is a quantity previously associated with the single shot regime in many quantum protocols.
+This relative entropic quantity emerges as a consequence of additional constraints, called generalized
+free energies, that govern thermodynamical transitions in the nanoregime. Our findings imply
+that in order to maximize efficiency, further considerations in choosing bath Hamiltonians should
+be made, when explicitly constructing quantum heat engines in the future. This understanding of
+thermodynamics has implications for nanoscale engineering aiming to construct small thermal
+machines. 

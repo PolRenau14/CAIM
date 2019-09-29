@@ -1,0 +1,16 @@
+We present nested-grid, high-resolution hydrodynamic simulations of gas and particle dynamics
+in the vicinity of Mars- to Earth-mass planetary embryos. The simulations extend from the surface
+of the planetary embryo to a few vertical disk scale heights, with a vertical dynamic range of $L_z/\Delta
+z$ of $\sim\! 1.4\times 10^5$. Our results confirm that "pebble"-sized particles can be easily
+accreted, with accretion rates continuing to increase to meter size for our nominal 10\% MMSN surface
+density model. The gas mass flux in and out through the Hill sphere is consistent with the Hill rate,
+$\Sigma\Omega R_{\rm H}^2$. While smaller size particles mainly follow the gas flow out again,
+a net accretion rate of $\approx 7 \ 10^{-5}$ M$_{\oplus}$ yr$^{-1}$ is reached for 0.3 -- 1 cm particles,
+with still a significant fraction leaving the Hill sphere again. Effectively all pebble-sized
+particles that cross the Bondi sphere are accreted. The resolution of these simulations is sufficient
+to resolve accretion-driven convection. Convection driven by a nominal accretion of $10^{-6}$
+\ME yr$^{-1}$ does not significantly alter the pebble accretion rate. We find that, because of cancellation
+effects, accretion rates of pebble sized particles are nearly independent of disk surface density.
+Because of this we can estimate accurate growth times for specified particle sizes. For particles
+of size 0.3 -- 1 cm, the growth time would be about 0.4 million years for a 1 earth mass planet at 1 AU,
+with about 1.2 million years for an 0.1 earth mass planet at 1.5 AU. 

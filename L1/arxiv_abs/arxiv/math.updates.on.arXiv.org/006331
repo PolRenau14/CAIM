@@ -1,0 +1,16 @@
+Numerous multi-objective evolutionary algorithms have been designed for constrained optimisation
+in last two decades. This method is to transform a constrained optimisation problem into a multi-objective
+optimisation problem, then solve it by an evolutionary algorithm. In this paper, we propose a new
+multi-objective method for constrained optimisation, which is to convert a constrained optimisation
+problem into a problem with helper and equivalent objectives. An equivalent objective means that
+its optimal solution set is the same as that to the constrained problem but a helper objective not.
+Then this multi-objective optimisation problem is decomposed into a group of sub-problems using
+the weighted sum approach. Weights are dynamically adjusted so that each subproblem eventually
+tends to a problem with an equivalent objective. We theoretically analyse the computation time
+of the helper and equivalent objective method on a hard problem called "wide gap". The "wide gap"
+problem means that an algorithm needs exponential time to cross between two fitness levels. We prove
+that using helper and equivalent objectives may shorten the time of crossing the "wide gap". We conduct
+a case study for validating our method. An algorithm with helper and equivalent objectives is implemented.
+Experimental results show that its overall performance is ranked first when compared with other
+eight state-of-art evolutionary algorithms. The case study proves the efficiency of the helper
+and equivalent objective method for constrained optimisation. 

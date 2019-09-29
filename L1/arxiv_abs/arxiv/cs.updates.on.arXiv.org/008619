@@ -1,0 +1,16 @@
+Remembering our day-to-day social interactions is challenging even if you aren't a blue memory
+challenged fish. The ability to automatically detect and remember these types of interactions
+is not only beneficial for individuals interested in their behavior in crowded situations, but
+also of interest to those who analyze crowd behavior. Currently, detecting social interactions
+is often performed using a variety of methods including ethnographic studies, computer vision
+techniques and manual annotation-based data analysis. However, mobile phones offer easier means
+for data collection that is easy to analyze and can preserve the user's privacy. In this work, we present
+a system for detecting stationary social interactions inside crowds, leveraging multi-modal
+mobile sensing data such as Bluetooth Smart (BLE), accelerometer and gyroscope. To inform the development
+of such system, we conducted a study with 24 participants, where we asked them to socialize with each
+other for 45 minutes. We built a machine learning system based on gradient-boosted trees that predicts
+both 1:1 and group interactions with 77.8% precision and 86.5% recall, a 30.2% performance increase
+compared to a proximity-based approach. By utilizing a community detection-based method, we further
+detected the various group formation that exist within the crowd. Using mobile phone sensors already
+carried by the majority of people in a crowd makes our approach particularly well suited to real-life
+analysis of crowd behavior and influence strategies. 

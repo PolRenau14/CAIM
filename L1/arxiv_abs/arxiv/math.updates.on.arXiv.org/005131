@@ -1,0 +1,17 @@
+Let $\Omega\subset\mathbb{R}^{N}$ ($N\geq1$) be a smooth bounded domain and $a\in C(\overline{\Omega})$
+be a sign-changing function. We investigate the Robin problem \begin{equation} (P_{\alpha})
+\quad -\Delta u=a(x)u^{q} \ \mbox{ in $\Omega$}, \quad u\geq0 \ \mbox{ in $\Omega$}, \quad \partial_{\nu}u=\alpha
+u \ \mbox{ on $\partial \Omega$}, \end{equation} where $0\leq q<1$, $\alpha\in\lbrack-\infty,\infty)$
+and $\nu$ is the unit outward normal to $\partial\Omega$. Due to the lack of strong maximum principle
+structure, it is well-known that this problem may have \textit{dead core} solutions. However,
+for a large class of weights $a$ we recover a \textit{positivity} property when $q$ is close to $1$,
+which considerably simplifies the structure of the solution set. Such property, combined with
+a bifurcation analysis and a suitable change of variables, enables us to show the following exactness
+result for these values of $q$: $(P_{\alpha})$ has \textit{exactly} one nontrivial solution for
+$\alpha\leq0$, \textit{exactly} two nontrivial solutions for $\alpha>0$ small, and \textit{no}
+such solution for $\alpha>0$ large. Assuming some further conditions on $a$, we show that these
+solutions lie on a subcontinuum. These results rely partially on (and extend) our previous work
+\cite{KRQU16}, where the cases $\alpha=-\infty$ (Dirichlet) and $\alpha=0$ (Neumann) have been
+considered. We also obtain some results for an arbitrary $q\in\left[ 0,1\right) $. Our approach
+combines mainly bifurcation techniques, the sub-supersolutions method, and \textit{a priori}
+lower and upper bounds. 

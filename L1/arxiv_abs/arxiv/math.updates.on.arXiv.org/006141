@@ -1,0 +1,16 @@
+In this paper, we provide a system theoretic treatment of a new class of multilinear time invariant
+(MLTI) systems in which the states, inputs and outputs are tensors, and the system evolution is governed
+by multilinear operators. The MLTI system representation is based on the Einstein product and even-order
+paired tensors. There is a particular tensor unfolding which gives rise to an isomorphism from this
+tensor space to the general linear group, i.e. group of invertible matrices. By leveraging this
+unfolding operation, one can extend classical linear time invariant (LTI) system notions including
+stability, reachability and observability to MLTI systems. While the unfolding based formulation
+is a powerful theoretical construct, the computational advantages of MLTI systems can only be fully
+realized while working with the tensor form, where hidden patterns/structures (e.g. redundancy/correlations)
+can be exploited for efficient representations and computations. Along these lines, we establish
+new results which enable one to express tensor unfolding based stability, reachability and observability
+criteria in terms of more standard notions of tensor ranks/decompositions. In addition, we develop
+the generalized CANDECOMP/PARAFAC decomposition and tensor train decomposition based model
+reduction framework, which can significantly reduce the number of MLTI system parameters. Further,
+we provide a review of relevant tensor numerical methods to facilitate computations associated
+with MLTI systems without requiring unfolding. We demonstrate our framework with numerical examples.

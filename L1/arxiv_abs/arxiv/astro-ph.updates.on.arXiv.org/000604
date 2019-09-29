@@ -1,0 +1,16 @@
+Observational studies show that there is a strong link between the formation and evolution of galaxies
+and the growth of supermassive black holes (SMBH) at their centers. However, the underlying physics
+of this observed relation is poorly understood. In order to study the effects of X-ray radiation
+on the surroundings of the black hole, we implement X-ray Dominated Region (XDR) physics into Enzo
+and use the radiation transport module Moray to calculate the radiative transfer for a polychromatic
+spectrum. In this work, we investigate the effects of X-ray irradiation, produced by a central massive
+black hole (MBH) with a mass of M = 5x10^4 M_(solar), on ambient gas with solar and zero metallicity.
+We find that in the solar metallicity case, due to high opacity of the metals, the energy deposition
+rate in the central region (< 20 pc) is high and hence the temperatures in the center are on the order
+of 10^(5-7) K. Moreover, due to the cooling ability and high intrinsic opacity of solar metallicity
+gas, column densities of 10^(24) cm^(-2) are reached at a radius of 20 pc from the MBH. These column
+densities are about 3 orders of magnitudes higher than in the zero metallicity case. Furthermore,
+in the zero metallicity case an X-ray induced H II region is formed already after 5.8 Myr. This causes
+a significant outflow of gas (~8x10^6 M_(solar) from the central region, with the gas reaching outflow
+velocities up to ~100 km s^(-1). At later times, ~23 Myr after we insert the MBH, we find that the solar
+metallicity case also develops an X-ray induced H II region, but delayed by ~17 Myr. 

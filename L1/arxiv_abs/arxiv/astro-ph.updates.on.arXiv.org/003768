@@ -1,0 +1,16 @@
+The cosmic spacetime is often described in terms of the FRW metric, though the adoption of this elegant
+and convenient solution to Einstein's equations does not tell us much about the equation of state,
+p=w rho, in terms of the total energy density rho and pressure p of the cosmic fluid. LCDM and the R_h=ct
+Universe are both FRW cosmologies that partition rho into (at least) three components, matter rho_m,
+radiation rho_r, and a poorly understood dark energy rho_de, though the latter goes one step further
+by also invoking the constraint w=-1/3. This condition is required by the simultaneous application
+of the Cosmological principle and Weyl's postulate. Model selection tools in one-on-one comparisons
+favor R_h=ct with a likelihood of ~90% versus only ~10% for LCDM. Nonetheless, the predictions of
+LCDM often come quite close to those of R_h=ct, suggesting that its parameters are optimized to mimic
+the w=-1/3 equation of state. In this paper, we demonstrate that the equation of state in R_h=ct helps
+us to understand why the optimized fraction Omega_m=rho_m/rho in LCDM must be ~0.27, an otherwise
+seemingly random variable. We show that when one forces LCDM to satisfy the equation of state w=(rho_r/3-rho_de)/rho,
+the value of the Hubble radius today, c/H_0, can equal its measured value ct_0 only with Omega_m~0.27
+when the equation of state for dark energy is w_de=-1. This peculiar value of Omega_m therefore appears
+to be a direct consequence of trying to fit the data with the equation of state w=(rho_r/3-rho_de)/rho
+in a Universe whose principal constraint is instead R_h=ct or, equivalently, w=-1/3. 

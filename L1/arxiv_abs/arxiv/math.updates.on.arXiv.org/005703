@@ -1,0 +1,16 @@
+We prove the existence, uniqueness, and strict positivity of ground states of the possibly massless
+renormalized Nelson operator under an infrared regularity condition and for Kato decomposable
+electrostatic potentials fulfilling a binding condition. If the infrared regularity condition
+is violated, then we show non-existence of ground states of the massless renormalized Nelson operator
+with an arbitrary Kato decomposable potential. Furthermore, we prove the existence, uniqueness,
+and strict positivity of ground states of the massless renormalized Nelson operator in a non-Fock
+representation where the infrared condition is unnecessary. Exponential and superexponential
+estimates on the pointwise spatial decay and the decay with respect to the boson number for elements
+of spectral subspaces below localization thresholds are provided. Moreover, some continuity
+properties of ground state eigenvectors are discussed. Byproducts of our analysis are a hypercontractivity
+bound for the semigroup and a new remark on Nelson's operator theoretic renormalization procedure.
+Finally, we construct path measures associated with ground states of the renormalized Nelson operator.
+Their analysis entails improved boson number decay estimates for ground state eigenvectors, as
+well as upper and lower bounds on the Gaussian localization with respect to the field variables in
+the ground state. As our results on uniqueness, positivity, and path measures exploit the ergodicity
+of the semigroup, we restrict our attention to one matter particle. All results are non-perturbative.

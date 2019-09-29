@@ -1,0 +1,17 @@
+Let $G$ be a multiplicative finite group and $S=a_1\cdot\ldots\cdot a_k$ a sequence over $G$. We
+call $S$ a product-one sequence if $1=\prod_{i=1}^ka_{\tau(i)}$ holds for some permutation $\tau$
+of $\{1,\ldots,k\}$. The small Davenport constant $\mathsf d(G)$ is the maximal length of a product-one
+free sequence over $G$. For a subset $L\subset \mathbb N$, let $\mathsf s_L(G)$ denote the smallest
+$l\in\mathbb N_0\cup\{\infty\}$ such that every sequence $S$ over $G$ of length $|S|\ge l$ has
+a product-one subsequence $T$ of length $|T|\in L$. Denote $\mathsf e(G)=\max\{\text{ord}(g):
+g\in G\}$. Some classical product-one (zero-sum) invariants including $\mathsf D(G):=\mathsf
+s_{\mathbb N}(G)$ (when $G$ is abelian), $\mathsf E(G):=\mathsf s_{\{|G|\}}(G)$, $\mathsf s(G):=\mathsf
+s_{\{\mathsf e(G)\}}(G)$, $\eta(G):=\mathsf s_{[1,\mathsf e(G)]}(G)$ and $\mathsf s_{d\mathbb
+N}(G)$ ($d\in\mathbb N$) have received a lot of studies. The Noether number $\beta(G)$ which is
+closely related to zero-sum theory is defined to be the maximal degree bound for the generators of
+the algebra of polynomial invariants. Let $G\cong C_m\ltimes_{\varphi} C_{mn}$, in this paper,
+we prove that $$\mathsf E(G)=\mathsf d(G)+|G|=m^2n+m+mn-2$$ and $\beta(G)=\mathsf d(G)+1=m+mn-1$.
+We also prove that $\mathsf s_{mn\mathbb N}(G)=m+2mn-2$ and provide the upper bounds of $\eta(G)$,
+$\mathsf s(G)$. Moreover, if $G$ is a non-cyclic nilpotent group and $p$ is the smallest prime divisor
+of $|G|$, we prove that $\beta(G)\le \frac{|G|}{p}+p-1$ except if $p=2$ and $G$ is a dicyclic group,
+in which case $\beta(G)=\frac{1}{2}|G|+2$. 

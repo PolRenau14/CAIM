@@ -1,0 +1,16 @@
+We study LHC signatures of displaced vertices and long-lived charged particles within the context
+of the Next-to-Minimal Supersymmetric Standard Model with right-handed (RH) sneutrinos. In this
+construction the RH neutrino can be produced directly from Higgs decays or in association with a
+RH sneutrino when the latter is the lightest supersymmetric particle. The RH neutrino is generally
+long-lived, since its decay width is proportional to the neutrino Yukawa, a parameter which is predicted
+to be small. The RH neutrino late decay can therefore give rise to displaced vertices at the LHC, which
+can be identified through the decay products, which involve two leptons (2l+ MET) or a lepton with
+two jets (ljj). We simulate this signal for the current LHC configuration (a centre of mass of 8 TeV
+and an integrated luminosity of L=20 fb^-1), and a future one (13 TeV and L=100 fb^-1). We show that
+a region of the parameter space of this model can be probed and that the RH neutrino mass can be reconstructed
+from the end-point of the two-lepton invariant mass distribution or the central value of the mass
+distribution for two jets plus one lepton. Another exotic signature of this construction is the
+production of a long-lived stau. If the stau is the next-to-lightest supersymmetric particle,
+it can decay through diagrams involving the small neutrino Yukawa, and would escape the detector
+leaving a characteristic trail. We also simulate this signal for various benchmark points and show
+that the model can be within the reach of the future run of the LHC. 

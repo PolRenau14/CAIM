@@ -1,0 +1,16 @@
+We consider a system of two coupled Tomonaga-Luttinger liquids (TLL) on parallel chains and study
+the Renyi entanglement entropy $S_n$ between the two chains. Here the entanglement cut is introduced
+between the chains, not along the perpendicular direction as used in previous studies of one-dimensional
+systems. The limit $n\to1$ corresponds to the von Neumann entanglement entropy. The system is effectively
+described by two-component bosonic field theory with different TLL parameters in the symmetric/antisymmetric
+channels as far as the coupled system remains in a gapless phase. We argue that in this system, $S_n$
+is a linear function of the length of the chains (boundary law) followed by a universal subleading
+constant $\gamma_n$ determined by the ratio of the two TLL parameters. The formulae of $\gamma_n$
+for integer $n\ge 2$ are derived using (a) ground-state wave functionals of TLLs and (b) boundary
+conformal field theory, which lead to the same result. These predictions are checked in a numerical
+diagonalization analysis of a hard-core bosonic model on a ladder. Although the analytic continuation
+of $\gamma_n$ to $n\to 1$ turns out to be a difficult problem, our numerical result suggests that
+the subleading constant in the von Neumann entropy is also universal. Our results may provide useful
+characterization of inherently anisotropic quantum phases such as the sliding Luttinger liquid
+phase via qualitatively different behaviors of the entanglement entropy with the entanglement
+partitions along different directions. 

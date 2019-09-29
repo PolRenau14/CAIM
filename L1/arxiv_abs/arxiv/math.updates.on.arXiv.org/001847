@@ -1,0 +1,16 @@
+Let $M$ be a complete non-compact manifold satisfying the volume doubling condition, with doubling
+index $N$ and reverse doubling index $n$, $n\le N$, both for large balls. Assume a Gaussian upper
+bound for the heat kernel, and an $L^2$-Poincar\'e inequality for balls $B$ with $2B\cap M_0=\emptyset$,
+where $M_0$ is a fixed compact set. For $p>2$ consider the following properties: $(G_p)$: $L^p$-boundedness
+of the gradient of the heat semigroup; $(RH_p)$: reverse $L^p$-H\"older inequality for the gradient
+of harmonic functions; $(R_p)$: $L^p$-boundedness of the Riesz transform. For $p\in (\max\{N,2\},\infty)$,
+we show that $(R_p)$, $(G_p)$ and $(RH_p)$ are equivalent; moreover, if $M$ is non-parabolic, then
+any of these conditions implies that $M$ has only one end. If $2<n$, then we show that for $p\in (2,n)$,
+$(R_p)$, $(G_p)$ and $(RH_p)$ are equivalent. This substantially extends the well known equivalence
+of $(R_p)$ and $(G_p)$ from [4] to much more general settings, and is optimal since $(R_p)$ does not
+hold for any $p\ge n>2$ on manifolds having at leat two Euclidean ends of dimension $n$. Our characterization
+implies for $p\in (2,n)$ an open ended property of $(R_p)$ and stability of $(R_p)$ under gluing
+operations. This provides a partial solution to [13,Open problem 8.2], and a complete solution
+to [13,Open problem 8.3]. For the proof, we develop a new criteria for boundedness of the Riesz transform,
+which was nontrivially adapted from [4], and make an essential application of results from [20].
+Our result allows extensions to non-smooth settings. 

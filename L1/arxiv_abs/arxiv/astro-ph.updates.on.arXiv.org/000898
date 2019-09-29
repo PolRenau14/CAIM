@@ -1,0 +1,17 @@
+We assume a scenario in which transition discs (i.e. discs around young stars that have signatures
+of cool dust but lack significant near infra-red emission from warm dust) are associated with the
+presence of planets (or brown dwarfs). These are assumed to filter the dust content of any gas flow
+within the planetary orbit and produce an inner `opacity hole'. In order to match the properties
+of transition discs with the largest (~50 A.U. scale) holes, we place such `planets' at large radii
+in massive discs and then follow the evolution of the tidally coupled disc-planet system, comparing
+the system's evolution in the plane of mm flux against hole radius with the properties of observed
+transition discs. We find that, on account of the high disc masses in these systems, all but the most
+massive `planets' (100 Jupiter masses) are conveyed to small radii by Type II migration without
+significant fading at millimetre wavelengths. Such behaviour would contradict the observed lack
+of mm bright transition discs with small (<10 A.U.) holes. On the other hand, imaging surveys
+clearly rule out the presence of such massive companions in transition discs. We conclude that this
+is a serious problem for models that seek to explain transition discs in terms of planetary companions
+unless some mechanism can be found to halt inward migration and/or suppress mm flux production.
+We suggest that the dynamical effects of substantial accretion on to the planet/through the gap
+may offer the best prospect for halting such migration but that further long term simulations are
+required to clarify this issue. 

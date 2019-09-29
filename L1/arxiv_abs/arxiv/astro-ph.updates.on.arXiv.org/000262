@@ -1,0 +1,16 @@
+We present the sub-millimeter spectra from 450 GHz to 1550 GHz of eleven nearby active galaxies observed
+with the SPIRE Fourier Transform Spectrometer (SPIRE/FTS) onboard Herschel. We detect CO transitions
+from J_up = 4 to 12, as well as the two [CI] fine structure lines at 492 and 809 GHz and the [NII] 461 GHz
+line. We used radiative transfer models to analyze the observed CO spectral line energy distributions
+(SLEDs). The FTS CO data were complemented with ground-based observations of the low-J CO lines.
+We found that the warm molecular gas traced by the mid-J CO transitions has similar physical conditions
+(n_H2 ~ 10^3.2 - 10^3.9 cm^-3 and T_kin ~ 300 - 800 K) in most of our galaxies. Furthermore, we found
+that this warm gas is likely producing the mid-IR rotational H2 emission. We could not determine
+the specific heating mechanism of the warm gas, however it is possibly related to the star-formation
+activity in these galaxies. Our modeling of the [CI] emission suggests that it is produced in cold
+(T_kin < 30 K) and dense (n_H2 > 10^3 cm^-3) molecular gas. Transitions of other molecules
+are often detected in our SPIRE/FTS spectra. The HF J=1-0 transition at 1232 GHz is detected in absorption
+in UGC05101 and in emission in NGC7130. In the latter, near-infrared pumping, chemical pumping,
+or collisional excitation with electrons are plausible excitation mechanisms likely related
+to the AGN of this galaxy. In some galaxies few H2O emission lines are present. Additionally, three
+OH+ lines at 909, 971, and 1033 GHz are identified in NGC7130. 

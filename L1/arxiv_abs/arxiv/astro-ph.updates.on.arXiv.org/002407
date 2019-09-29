@@ -1,0 +1,16 @@
+The BICEP2 instrument was designed to measure the polarization of the cosmic microwave background
+(CMB) on angular scales of 1 to 5 degrees ($\ell$=40-200), near the expected peak of the B-mode polarization
+signature of primordial gravitational waves from cosmic inflation. Measuring B-modes requires
+dramatic improvement in sensitivity combined with exquisite control of systematics. We have built
+on the successful strategy of BICEP1, which achieved the most sensitive limit on B-modes at these
+scales. The telescope had a 26 cm aperture and cold, on-axis, refractive optics, and it observed
+from a three-axis mount at the South Pole. BICEP2 adopted a new detector design in which beam-defining
+slot antenna arrays couple to transition-edge sensor (TES) bolometers, all fabricated monolithically
+on a common substrate. BICEP2 took advantage of this design's scalable fabrication and multiplexed
+SQUID readout to field more detectors than BICEP1, improving mapping speed by more than a factor
+of ten. In this paper we report on the design and performance of the instrument and on the three-year
+data set. BICEP2 completed three years of observation with 500 detectors at 150 GHz. After optimization
+of detector and readout parameters BICEP2 achieved an instrument noise equivalent temperature
+of 15.8 $\mu$K sqrt(s) and the full data set reached Stokes Q and U map depths of 87.8 nK in square-degree
+pixels (5.3 $\mu$K arcmin) over an effective area of 390.3 square degrees within a 1000 square degree
+field. These are the deepest CMB polarization maps at degree angular scales. 

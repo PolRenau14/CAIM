@@ -1,0 +1,16 @@
+At the exceptional point where two eigenstates coalesce in open quantum systems, the usual diagonalization
+scheme breaks down and the Hamiltonian can only be reduced to Jordan block form. Most of the studies
+on the exceptional point appearing in the literature introduce a phenomenological effective Hamiltonian
+that essentially reduces the problem to that of a finite non-Hermitian matrix for which it is straightforward
+to obtain the Jordan form. In this paper, we demonstrate how the Hamiltonian of an open quantum system
+reduces to Jordan block form at an exceptional point in an exact manner that treats the continuum
+without any approximation. Our method relies on the Brillouin-Wigner-Feshbach projection method
+according to which we can obtain a finite dimensional effective Hamiltonian that shares the discrete
+sector of the spectrum with the original Hamiltonian. While owing to its eigenvalue dependence
+this effective Hamiltonian cannot be used to write the Jordan block directly, we show that by formally
+extending the problem to include eigenstates with complex eigenvalues that reside outside the
+usual Hilbert space, we can obtain the Jordan block form at the exceptional point without introducing
+any approximation. We also introduce an extended Jordan form basis away from the exceptional point,
+which provides an alternative way to obtain the Jordan block at an exceptional point. The extended
+Jordan block connects continuously to the Jordan block exactly at the exceptional point implying
+that the observable quantities are continuous at the exceptional point. 

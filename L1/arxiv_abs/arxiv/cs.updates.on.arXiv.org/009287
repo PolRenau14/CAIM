@@ -1,0 +1,16 @@
+We consider the scenario where a sender periodically sends a batch of data to a receiver over a multi-hop
+network using multiple paths. Our objective is to minimize peak/average Age-of-Information (AoI)
+subject to both a minimum and a maximum throughput requirement, by jointly optimizing throughput
+and multi-path routing strategy. The consideration of batch generation and multi-path communication
+differentiate us from existing studies. First, we show that our AoI minimization problems are NP-hard,
+but only in the weak sense as we develop an optimal algorithm with a pseudo-polynomial time complexity.
+Next we show that minimizing AoI and minimizing maximum delay for a batch of data are "largely" compatible.
+In particular, we show that any optimal solution of minimizing maximum delay is an approximate solution
+of minimizing AoI with bounded optimality loss. We leverage this understanding to develop a framework
+to adapt any polynomial-time $\alpha$-approximation algorithm of the existing maximum delay
+minimization problem to develop a polynomial-time algorithm for our AoI minimization problems
+with an approximation ratio of $\alpha+\beta$, where $\beta$ is a constant determined by input
+minimum and maximum throughput requirement. The framework suggests a new avenue for designing
+approximation algorithms for minimizing AoI in multi-path communications. Extensive simulations
+that compare our approximation framework and our optimal algorithm over various network topologies
+validate the effectiveness of our proposed approaches. 

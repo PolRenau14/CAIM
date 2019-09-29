@@ -1,0 +1,16 @@
+Reduced-order modeling (ROM) commonly refers to the construction, based on a few solutions (referred
+to as snapshots) of an expensive discretized partial differential equation (PDE), and the subsequent
+application of low-dimensional discretizations of partial differential equations (PDEs) that
+can be used to more efficiently treat problems in control and optimization, uncertainty quantification,
+and other settings that require multiple approximate PDE solutions. In this work, a ROM is developed
+and tested for the treatment of nonlinear PDEs whose solutions bifurcate as input parameter values
+change. In such cases, the parameter domain can be subdivided into subregions, each of which corresponds
+to a different branch of solutions. Popular ROM approaches such as proper orthogonal decomposition
+(POD), results in a global low-dimensional basis that does no respect not take advantage of the often
+large differences in the PDE solutions corresponding to different subregions. Instead, in the
+new method, the k-means algorithm is used to cluster snapshots so that within cluster snapshots
+are similar to each other and are dissimilar to those in other clusters. This is followed by the construction
+of local POD bases, one for each cluster. The method also can detect which cluster a new parameter
+point belongs to, after which the local basis corresponding to that cluster is used to determine
+a ROM approximation. Numerical experiments show the effectiveness of the method both for problems
+for which bifurcation cause continuous and discontinuous changes in the solution of the PDE. 

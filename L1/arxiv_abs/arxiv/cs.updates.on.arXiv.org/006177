@@ -1,0 +1,16 @@
+With the rising popularity of machine learning and the ever increasing demand for computational
+power, there is a growing need for hardware optimized implementations of neural networks and other
+machine learning models. As the technology evolves, it is also plausible that machine learning
+or artificial intelligence will soon become consumer electronic products and military equipment,
+in the form of well-trained models. Unfortunately, the modern fabless business model of manufacturing
+hardware, while economic, leads to deficiencies in security through the supply chain. In this paper,
+we illuminate these security issues by introducing hardware Trojan attacks on neural networks,
+expanding the current taxonomy of neural network security to incorporate attacks of this nature.
+To aid in this, we develop a novel framework for inserting malicious hardware Trojans in the implementation
+of a neural network classifier. We evaluate the capabilities of the adversary in this setting by
+implementing the attack algorithm on convolutional neural networks while controlling a variety
+of parameters available to the adversary. Our experimental results show that the proposed algorithm
+could effectively classify a selected input trigger as a specified class on the MNIST dataset by
+injecting hardware Trojans into $0.03\%$, on average, of neurons in the 5th hidden layer of arbitrary
+7-layer convolutional neural networks, while undetectable under the test data. Finally, we discuss
+the potential defenses to protect neural networks against hardware Trojan attacks. 

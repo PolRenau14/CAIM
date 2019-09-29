@@ -1,0 +1,17 @@
+The emulation task of a nonlinear autoregressive moving average model, i.e., the NARMA10 task,
+has been widely used as a benchmark task for recurrent neural networks, especially in reservoir
+computing. However, the type and quantity of computational capabilities required to emulate the
+NARMA10 model remain unclear, and, to date, the NARMA10 task has been utilized blindly. Therefore,
+in this study, we have investigated the properties of the NARMA10 model from a dynamical system perspective.
+We revealed its bifurcation structure and basin of attraction, as well as the system's Lyapunov
+spectra. Furthermore, we have analyzed the computational capabilities required to emulate the
+NARMA10 model by decomposing it into multiple combinations of orthogonal nonlinear polynomials
+using Legendre polynomials, and we directly evaluated its information processing capacity together
+with its dependencies on some system parameters. The result demonstrates that the NARMA10 model
+contains an unstable region in the phase space that makes the system diverge according to the selection
+of the input range and initial conditions. Furthermore, the information processing capacity of
+the model varies according to the input range. These properties prevent safe application of this
+model and fair comparisons among experiments, which are unfavorable for a benchmark task. As result,
+we propose a benchmark model that can clearly evaluate equivalent computational capacity using
+NARMA10. Compared to the original NARMA10 model, the proposed model is highly stable and robust
+against the input range settings. 

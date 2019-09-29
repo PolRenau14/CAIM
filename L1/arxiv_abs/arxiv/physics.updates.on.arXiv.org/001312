@@ -1,0 +1,17 @@
+With a large spatiotemporal coverage, the satellite-derived aerosol optical depth (AOD) has been
+widely used to estimate ground-level PM2.5 concentrations (AOD-PM modeling). However, the retrieval
+errors exit in the AOD products, and they will be accumulated in PM2.5 estimation. To avoid the intermediate
+error/process, a novel solution to estimate PM2.5 directly from satellite top-of-atmosphere
+(TOA) reflectance (denoted as Ref-PM modeling) is proposed. Using multiple linear regression,
+neural networks, and deep learning to establish the specific relationship between PM2.5, satellite
+reflectance, and other predictors, the Ref-PM modeling is validated with data from Wuhan Metropolitan
+Area in 2016. Furthermore, the geographical correlation is incorporated into deep belief network
+(Geoi-DBN) to better estimate PM2.5 concentrations. The results show that the performance of Ref-PM
+modeling (cross-validation R2=0.64 for DBN) has a competitive advantage than that of conventional
+AOD-PM modeling (cross-validation R2=0.46 for DBN). Moreover, the out-of-sample cross-validation
+R2 and RMSE for Geoi-DBN in Ref-PM modeling are 0.87 and 9.89 ug/m3, respectively. On this basis,
+the daily distributions of PM2.5 with a resolution of 0.01 degree are mapped, and they have similar
+spatial patterns with ground station measurements. These results demonstrate that the proposed
+Ref-PM modeling is effective for estimating ground-level PM2.5 concentrations from satellite
+reflectance. This study will significantly promote the application of satellite remote sensing
+in environmental monitoring. 

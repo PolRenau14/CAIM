@@ -1,0 +1,16 @@
+This paper provides a model to investigate information spreading over cyber-social network of
+agents communicating with each other. The cyber-social network considered here comprises individuals
+and news agencies. Each individual holds a belief represented by a scalar. Individuals receive
+information from news agencies that are closer to their belief, confirmation bias is explicitly
+incorporated into the model. The proposed dynamics of cyber-social networks is adopted from DeGroot-Friedkin
+model, where the individual's opinion update mechanism is a convex combination of his innate opinion,
+his neighbors' opinions at the previous time step (obtained from the social network), and the opinions
+passed along by news agencies from cyber layer which he follows. The characteristics of the interdependent
+social and cyber networks are radically different here: the social network relies on trust and hence
+static while the news agencies are highly dynamic since they are weighted as a function of the distance
+between an individual state and the state of news agency to account for confirmation bias. The conditions
+for convergence of the aforementioned dynamics to a unique equilibrium are characterized. The
+estimation and exact computation of the steady-state values under non-linear and linear state-dependent
+weight functions are provided. Finally, the impact of polarization in the opinions of news agencies
+on the public opinion evolution is numerically analyzed in the context of the well-known Krackhardt's
+advice network. 

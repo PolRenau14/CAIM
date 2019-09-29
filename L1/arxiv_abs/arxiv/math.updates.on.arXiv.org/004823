@@ -1,0 +1,16 @@
+Recent technological advances in microgrids powered by Distributed Energy Resources (DERs) make
+them an attractive response mechanism for improving the resilience of electricity distribution
+networks (DNs) to reliability and security failures. This paper presents an approach to evaluate
+the value of implementing a timely response using microgrid operations and DER dispatch in the aftermath
+of a disruption event, which involves strategic compromise of multiple DN components. Firstly,
+we refine the modeling and resiliency assessment framework in \cite{part1} and develop a sequential
+(bilevel) formulation which models attacker-operator interactions on a radial DN with one or more
+microgrids. Particularly, the operator response model includes microgrid operations under various
+islanding configurations (regimes), and single- or multi-master operation of DERs in providing
+grid-forming services as well as frequency and voltage regulation. Secondly, we introduce a restoration
+problem in which the operator gradually reconnects the disrupted components over multiple periods
+to restore the nominal performance of the DN. The first problem, formulated as a bilevel mixed-integer
+problem, is solved using Benders decomposition method. The second problem, formulated as a multi-period
+mixed-integer problem, can be solved using a greedy algorithm. Our computational results illustrate
+the benefit of using microgrids in reducing the post-contingency losses, both immediately after
+the disruption event and during the restoration process. 

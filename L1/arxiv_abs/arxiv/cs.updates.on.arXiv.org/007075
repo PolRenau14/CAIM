@@ -1,0 +1,16 @@
+The advanced development of the Internet facilitates efficient information exchange while also
+been exploited by adversaries. Intrusion detection system (IDS) as an important defense component
+of network security has always been widely studied in security research. However, research on intrusion
+prediction, which is more critical for network security, is received less attention. We argue that
+the advanced anticipation and timely impede of invasion is more vital than simple alarms in security
+defenses. General research methods regarding prediction are analyzing short term of system-calls
+to predict forthcoming abnormal behaviors. In this paper we take advantages of the remarkable performance
+of recurrent neural networks (RNNs) in dealing with long sequential problem, introducing the sequence-to-sequence
+model into our intrusion prediction work. By semantic modeling system-calls we build a robust system-call
+sequence-to-sequence prediction model. With taking the system-call traces invoked during the
+program running as known prerequisite, our model predicts sequence of system-calls that is most
+likely to be executed in a near future period of time that enabled the ability of monitoring system
+status and prophesying the intrusion behaviors. Our experiments show that the predict method proposed
+in this paper achieved well prediction performance on ADFALD intrusion detection test data set.
+Moreover, the predicted sequence, combined with the known invoked traces of system, significantly
+improves the performance of intrusion detection verified on various classifiers. 

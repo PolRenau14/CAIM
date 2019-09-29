@@ -1,0 +1,16 @@
+Modern embedded technology is a driving factor in satellite miniaturization, contributing to
+a massive boom in satellite launches and a rapidly evolving new space industry. Miniaturized satellites
+however suffer from low reliability, as traditional hardware-based fault-tolerance (FT) concepts
+are ineffective for on-board computers (OBCs) utilizing modern systems-on-a-chip (SoC). Larger
+satellites therefore continue to rely on proven processors with large feature sizes. Software-based
+concepts have largely been ignored by the space industry as they were researched only in theory,
+and have not yet reached the level of maturity necessary for implementation. In related work, we
+presented the first integral, real-world solution to enable fault-tolerant general-purpose
+computing with modern multiprocessor-SoCs (MPSoCs) for spaceflight, thereby enabling their
+use in future high-priority space missions. The presented multi-stage approach consists of three
+FT stages, combining coarse-grained thread-level distributed self-validation, FPGA reconfiguration,
+and mixed criticality to assure long-term FT and excellent scalability for both resource constrained
+and critical high-priority space missions. As part of the ongoing implementation effort towards
+a hardware prototype, several software implementations were achieved and tested. This document
+contains an outline of the conducted tests, performance evaluation results, and supplementary
+information not included in the actual paper. It is being continuously expanded and updated. 

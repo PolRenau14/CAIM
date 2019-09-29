@@ -1,0 +1,16 @@
+The time dependent master equation from the seminal article by Ragazzini, Randall and Russell [J.
+R. Ragazzini, R. H. Randall and F. A. Russell, "Analysis of Problems in Dynamics by Electronic Circuits",
+Proc. of the I.R.E., Vol. 35, pp. 11--19, (1947)] is recovered as necessary tool for the analysis
+of contemporary circuits with operational amplifiers. This equation gives the relation between
+time dependent the output voltage $U_0(t)$ and the difference between the input voltages ($U_{+}(t)$
+and $U_{-}(t)$). The crossover frequency $f_0$ is represented the time constant $\tau_{_0}$ of
+this equation. The work of the master equation is illustrated by two typical examples: a) the stability
+criterion of the devices with negative impedance converters, which we consider as a new result b)
+the frequency dependence of the amplifiers with operational amplifiers given in the technical
+specifications without citations of time dependent equation. A simple circuit for determination
+of $f_0$ is suggested and the method is illustrated by determination of crossover frequency for
+the low-noise and high speed ADA4898 operational amplifier. It is concluded that for an exact calculation
+of the pass bandwidth of amplifiers with active filters the 70 years old master equation is a useful
+technique implicitly included in the contemporary software. The frequency dependent formulae
+for the amplification coefficient of inverting and non-inverting amplifiers are given for the
+case of non-zero conductivity between the inputs of the operational amplifiers. 

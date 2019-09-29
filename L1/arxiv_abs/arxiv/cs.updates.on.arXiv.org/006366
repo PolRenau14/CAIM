@@ -1,0 +1,16 @@
+A cache-aided $K$-user Gaussian broadcast channel (BC) is studied. The transmitter has a library
+of $N$ files, from which each user requests one. The users are equipped with caches of different sizes,
+which are filled without the knowledge of the user requests in a centralized manner. Differently
+from the literature, it is assumed that each file can be delivered to different users at different
+rates, which may correspond to different quality representations of the underlying content, e.g.,
+scalable coded video segments. Accordingly, instead of a single achievable rate, the system performance
+is characterized by a rate tuple, which corresponds to the vector of rates users' requests can be
+delivered at. The goal is to characterize the set of all achievable rate tuples for a given total cache
+capacity by designing joint cache and channel coding schemes together with cache allocation across
+users. Assuming that the users are ordered in increasing channel quality, each file is coded into
+$K$ layers, and only the first $k$ layers of the requested file are delivered to user $k$, $k=1,...,K$.
+Three different coding schemes are proposed, which differ in the way they deliver the coded contents
+over the BC; in particular, time-division, superposition, and dirty paper coding schemes are studied.
+Corresponding achievable rate regions are characterized, and compared with a novel outer bound.
+To the best of our knowledge, this is the first work studying the delivery of files at different rates
+over a cache-aided noisy BC. 

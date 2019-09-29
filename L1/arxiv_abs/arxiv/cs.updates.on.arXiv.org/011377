@@ -1,0 +1,17 @@
+The dissemination of vehicle position data all over the network is a fundamental task in Vehicular
+Ad Hoc Network (VANET) operations, as applications often need to know the position of other vehicles
+over a large area. In such cases, inter-vehicular communications should be exploited to satisfy
+application requirements, although congestion control mechanisms are required to minimize the
+packet collision probability. In this work, we face the issue of achieving accurate vehicle position
+estimation and prediction in a VANET scenario. State of the art solutions to the problem try to broadcast
+the positioning information periodically, so that vehicles can ensure that the information their
+neighbors have about them is never older than the inter-transmission period. However, the rate
+of decay of the information is not deterministic in complex urban scenarios: the movements and maneuvers
+of vehicles can often be erratic and unpredictable, making old positioning information inaccurate
+or downright misleading. To address this problem, we propose to use the Quality of Information (QoI)
+as the decision factor for broadcasting. We implement a threshold-based strategy to distribute
+position information whenever the positioning error passes a reference value, thereby shifting
+the objective of the network to limiting the actual positioning error and guaranteeing quality
+across the VANET. The threshold-based strategy can reduce the network load by avoiding the transmission
+of redundant messages, as well as improving the overall positioning accuracy by more than 20% in
+realistic urban scenarios. 

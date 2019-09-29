@@ -1,0 +1,16 @@
+Machine learning has been successfully applied to complex network analysis in various areas, and
+graph neural networks (GNNs) based methods outperform others. Recently, adversarial attack on
+networks has attracted special attention since carefully crafted adversarial networks with slight
+perturbations on clean network may invalid lots of network applications, such as node classification,
+link prediction, and community detection etc. Such attacks are easily constructed with serious
+security threat to various analyze methods, including traditional methods and deep models. To
+the best of our knowledge, it is the first time that defense method against network adversarial attack
+is discussed. In this paper, we are interested in the possibility of defense against adversarial
+attack on network, and propose defense strategies for GNNs against attacks. First, we propose novel
+adversarial training strategies to improve GNNs' defensibility against attacks. Then, we analytically
+investigate the robustness properties for GNNs granted by the use of smooth defense, and propose
+two special smooth defense strategies: smoothing distillation and smoothing cross-entropy loss
+function. Both of them are capable of smoothing gradient of GNNs, and consequently reduce the amplitude
+of adversarial gradients, which benefits gradient masking from attackers. The comprehensive
+experiments show that our proposed strategies have great defensibility against different adversarial
+attacks on four real-world networks in different network analyze tasks. 

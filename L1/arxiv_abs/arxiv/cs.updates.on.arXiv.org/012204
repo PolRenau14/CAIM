@@ -1,0 +1,17 @@
+When security bugs are detected, they should be (a)~discussed privately by security software engineers;
+and (b)~not mentioned to the general public until security patches are available. Software engineers
+usually report bugs to bug tracking system, and label them as security bug reports (SBRs) or not-security
+bug reports (NSBRs), while SBRs have a higher priority to be fixed before exploited by attackers
+than NSBRs. Yet suspected security bug reports are often publicly disclosed because the mislabelling
+issues ( i.e., mislabel security bug reports as not-security bug report). The goal of this paper
+is to aid software developers to better classify bug reports that identify security vulnerabilities
+as security bug reports through parameter tuning of learners and data pre-processor. Previous
+work has applied text analytics and machine learning learners to classify which reported bugs are
+security related. We improve on that work, as shown by our analysis of five open source projects.
+We apply hyperparameter optimization to (a)~the control parameters of a learner; and (b)~the data
+pre-processing methods that handle the case where the target class is a small fraction of all the
+data. We show that optimizing the pre-processor is more useful than optimizing the learners. We
+also show that improvements gained from our approach can be very large. For example, using the same
+data sets as recently analyzed by our baseline approach, we show that adjusting the data pre-processing
+results in improvements to classification recall of 35% to 65% (median to max) with moderate increment
+of false positive rate. 

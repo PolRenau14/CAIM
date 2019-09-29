@@ -1,0 +1,16 @@
+Kinetic Monte-Carlo (KMC) simulations are a well-established numerical tool to investigate the
+time-dependent surface morphology in molecular beam epitaxy (MBE) experiments. One drawback
+of the KMC method, however, is the high computational cost at growth conditions, where particle
+diffusion dominates over particle adsorption. As an alternative, we introduce in this study a limited
+mobility (LM) model to realistically simulate the low-temperature regime (where detachment processes
+can be neglected). The model is based on the stochastic transition rules of the so-called Das Sarma-Tamborena
+(DT) model, but differs from the latter via a variable diffusion length. A first guess for this length
+can be extracted from the mean-squared displacement calculated from short KMC simulations. Comparing
+the resulting surface morphologies in the submonolayer growth regime to those obtained from KMC
+simulations, we find deviations which can be cured by adding fluctuations to the diffusion length.
+This mimics the stochastic nature of particle diffusion on a substrate, an aspect which is usually
+neglected in LM models. We propose to add fluctuations to the diffusion length by choosing this quantity
+for each adsorbed particle from a Gaussian distribution. The analysis of the surface morphologies
+(on one-dimensional substrates) in the sub- and multilayer growth regime shows that the LM model
+is capable of producing structures that are indistinguishable to the ones from KMC simulations
+at arbitrary growth conditions. Our method can be generalized to two-dimensional calculations.

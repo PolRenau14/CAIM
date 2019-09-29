@@ -1,0 +1,17 @@
+As discussed in the fundamental solid-state text-book by Neil W. Ashcroft and N. David Mermin, a
+general and rigorous (i.e. quantum-mechanical) derivation of the standard semiclassical charge-transport
+theory constitutes a formidable task; indeed, while for homogeneous systems such derivation may
+be partially simplified, in the general case of a space-dependent carrier system additional approximations
+are needed, and the validity limits of such a semiclassical description may become highly questionable.
+Our primary goal is to provide a rigorous treatment of scattering nonlocality in semiconductor
+nanostructures. On the one hand, starting from the conventional density-matrix formulation and
+employing as ideal instrument for the study of the semiclassical limit the well-known Wigner-function
+picture, we shall perform a fully quantum-mechanical derivation of the space-dependent Boltzmann
+equation. On the other hand, we shall examine the validity limits of such semiclassical framework,
+pointing out, in particular, regimes where scattering-nonlocality effects may play a relevant
+role; to this end we shall supplement our analytical investigation with a number of simulated experiments,
+discussing and further expanding preliminary studies of scattering-induced quantum diffusion
+in GaN-based nanomaterials. As for the case of carrier-carrier relaxation in photoexcited semiconductors,
+our analysis will show the failure of simplified dephasing models in describing phonon-induced
+scattering nonlocality, pointing out that such limitation is particularly severe for the case
+of quasielastic dissipation processes. 

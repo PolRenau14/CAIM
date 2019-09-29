@@ -1,0 +1,16 @@
+Massive device connectivity is a crucial communication challenge for Internet of Things (IoT)
+networks, which consist of a large number of devices with sporadic traffic. In each coherence block,
+the serving base station needs to identify the active devices and estimate their channel state information
+for effective communication. By exploiting the sparsity pattern of data transmission, we develop
+a structured group sparsity estimation method to simultaneously detect the active devices and
+estimate the corresponding channels. This method significantly reduces the signature sequence
+length while supporting massive IoT access. To determine the optimal signature sequence length,
+we study \emph{the phase transition behavior} of the group sparsity estimation problem. Specifically,
+user activity can be successfully estimated with a high probability when the signature sequence
+length exceeds a threshold; otherwise, it fails with a high probability. The location and width
+of the phase transition region are characterized via the theory of conic integral geometry. We further
+develop a smoothing method to solve the high-dimensional structured estimation problem with a
+given limited time budget. This is achieved by sharply characterizing the convergence rate in terms
+of the smoothing parameter, signature sequence length and estimation accuracy, yielding a trade-off
+between the estimation accuracy and computational cost. Numerical results are provided to illustrate
+the accuracy of our theoretical results and the benefits of smoothing techniques. 

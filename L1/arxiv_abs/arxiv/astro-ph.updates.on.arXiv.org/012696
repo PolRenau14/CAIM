@@ -1,0 +1,16 @@
+VLBI and JVLA observations revealed that GW170817 involved a narrow jet ($ \theta_j \approx 4^\circ
+$) that dominated the afterglow peak at our viewing angle, $ \theta_{\rm obs} \approx 20^\circ $.
+This implies that at the time of the afterglow peak, the observed signal behaved like an afterglow
+of a top-hat jet seen at $ \theta_{\rm obs} \gg \theta_j $, and it can be modeled by analytic expressions
+that describe such jets. We use a set of numerical simulations to calibrate these analytic relations
+and obtain generic equations for the peak time and flux of such an afterglow as seen from various observing
+angles. Using the calibrated equations and the estimated parameters of GW170817, we estimate the
+detectability of afterglows from future double neutron star mergers during the Advanced LIGO/Virgo
+observation run O3. GW170817 took place at a relatively low-density environment. Afterglows of
+similar events will be detectable only at small viewing angles, $ \theta_{\rm obs} \lesssim 20^\circ
+$, and only $\sim 20\% $ of the GW detections of these events will be accompanied by a detectable afterglow.
+At higher densities, more typical to sGRB sites, up to $ 70\% $ of the GW detections are expected to
+be followed by a detectable afterglow, typically at $ \theta_{\rm obs} \sim 30^\circ $. We also provide
+the latest time one should expect an afterglow detection. We find that for typical parameters, if
+the jet emission had not been detected within about a year after the merger, it is unlikely to be detected
+ever. 

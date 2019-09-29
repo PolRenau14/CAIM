@@ -1,0 +1,17 @@
+Numerical simulations of brittle fracture using phase-field approaches often employ a discrete
+approximation framework that applies the same order of interpolation for the displacement and
+phase-field variables. Most common is to use linear finite elements to discretize the linear momentum
+and phase-field equations. However the use of $P_1$ Lagrange shape functions to model the phase-field
+is not optimal, since the latter develops cusps for fully developed cracks that in turn occur at locations
+correspoding to Gauss points of the associated FE model for the mechanics. Such feature is challenging
+to reproduce accurately with low order elements, and consequently element sizes must be made very
+small relative to the phase-field regularization parameter in order to achieve convergence of
+results with respect to the mesh. In this paper, we combine the standard $P_1$ FE discretization
+of stress equilibrium with a cell-centered finite volume approximation of the phase-field evolution
+equation based on the two-point flux approximation that is constructed on the same simplex mesh.
+Compared to a pure FE formulation utilizing linear elements, the proposed framework results in
+looser restrictions on mesh refinement with respect to the phase-field length scale. Furthermore,
+initialization of the history field is straightforward and accomplished through a local procedure.
+The ability to employ a coarser mesh relative to the traditional implementation is shown for several
+numerical examples, demonstrating savings in computational cost on the order of 50 to 80 percent
+for the studied cases. 

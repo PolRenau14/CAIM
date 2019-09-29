@@ -1,0 +1,16 @@
+This paper studies systems of polynomial equations that provide information about orientability
+of matroids. First, we study systems of linear equations over GF(2), originally alluded to by Bland
+and Jensen in their seminal paper on weak orientability. The Bland-Jensen linear equations for
+a matroid M have a solution if and only if M is weakly orientable. We use the Bland-Jensen system to
+determine weak orientability for all matroids on at most nine elements and all matroids between
+ten and twelve elements having rank three. Our experiments indicate that for small rank, about half
+the time, when a simple matroid is not orientable, it is already non-weakly orientable. Thus, about
+half of the small simple non-orientable matroids of rank three are not representable over fields
+having order congruent to three modulo four. For binary matroids, the Bland-Jensen linear systems
+provide a practical way to check orientability. Second, we present two extensions of the Bland-Jensen
+equations to slightly larger systems of non-linear polynomial equations. Our systems of polynomial
+equations have a solution if and only if the associated matroid M is orientable. The systems come
+in two versions, one directly extending the Bland-Jensen system for GF(2), and a different system
+working over other fields. We study some basic algebraic properties of these systems. Finally,
+we present an infinite family of non-weakly-orientable matroids, with growing rank and co-rank.
+We conjecture that these matroids are minor-minimal non-weakly-orientable matroids. 

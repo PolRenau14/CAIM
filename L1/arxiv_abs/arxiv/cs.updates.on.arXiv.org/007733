@@ -1,0 +1,17 @@
+Existential rules, long known as tuple-generating dependencies in database theory, have been
+intensively studied in the last decade as a powerful formalism to represent ontological knowledge
+in the context of ontology-based query answering. A knowledge base is then composed of an instance
+that contains incomplete data and a set of existential rules, and answers to queries are logically
+entailed from the knowledge base. This brought again to light the fundamental chase tool, and its
+different variants that have been proposed in the literature. It is well-known that the problem
+of determining, given a chase variant and a set of existential rules, whether the chase will halt
+on any instance, is undecidable. Hence, a crucial issue is whether it becomes decidable for known
+subclasses of existential rules. In this work, we consider linear existential rules, a simple yet
+important subclass of existential rules that generalizes inclusion dependencies. We show the
+decidability of the all instance chase termination problem on linear rules for three main chase
+variants, namely semi-oblivious, restricted and core chase. To obtain these results, we introduce
+a novel approach based on so-called derivation trees and a single notion of forbidden pattern. Besides
+the theoretical interest of a unified approach and new proofs, we provide the first positive decidability
+results concerning the termination of the restricted chase, proving that chase termination on
+linear existential rules is decidable for both versions of the problem: Does every fair chase sequence
+terminate? Does some fair chase sequence terminate? 

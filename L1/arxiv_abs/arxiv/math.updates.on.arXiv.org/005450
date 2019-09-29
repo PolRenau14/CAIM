@@ -1,0 +1,16 @@
+Let $P$ be a monic polynomial of degree $D \geq 3$ whose filled Julia set $K_P$ has a non-degenerate
+periodic component $K$ of period $k \geq 1$ and renormalization degree $2 \leq d<D$. Let $I=I_K$
+denote the set of angles $\theta$ on the circle ${\mathbb T}={\mathbb R}/{\mathbb Z}$ for which
+the (smooth or broken) external ray $R^P_\theta$ for $P$ accumulates on $\partial K$. We prove the
+following: $\bullet$ $I$ is a compact set of Hausdorff dimension $<1$ and there is an essentially
+unique degree $1$ monotone map $\Pi: I \to {\mathbb T}$ which semiconjugates $\theta \mapsto D^k
+\theta$ (mod 1) on $I$ to $\theta \mapsto d \theta$ (mod 1) on $\mathbb T$. $\bullet$ Any hybrid conjugacy
+$\varphi$ between a renormalization of $P^{\circ k}$ on a neighborhood of $K$ and a monic degree
+$d$ polynomial $Q$ induces a semiconjugacy $\Pi: I \to {\mathbb T}$ with the property that for every
+$\theta \in I$ the external ray $R^P_\theta$ has the same accumulation set as the curve $\varphi^{-1}(R^Q_{\Pi(\theta)})$.
+In particular, $R^P_\theta$ lands at $z \in \partial K$ if and only if $R^Q_{\Pi(\theta)}$ lands
+at $\varphi(z) \in \partial K_Q$. $\bullet$ The ray correspondence established by the above result
+is finite-to-one. In fact, the cardinality of each fiber of $\Pi$ is $\leq D-d+2$, and the inequality
+is strict when the component $K$ has period $k=1$. Using a new type of quasiconformal surgery we construct
+a class of examples with $k=1$ for which the upper bound $D-d+1$ is realized and the set $I$ has isolated
+points. 

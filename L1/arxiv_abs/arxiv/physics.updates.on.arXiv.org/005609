@@ -1,0 +1,16 @@
+The GERDA experiment searches for the neutrinoless double beta ($0\nu\beta\beta$) decay in $^{76}$Ge
+in order to probe whether the neutrino is a Majorana particle and to shed light on the neutrino mass
+ordering. For investigating such a rare decay it is necessary to minimize the background of the experiment.
+In Phase II of the GERDA experiment the scintillation light of liquid argon (LAr) is used as an additional
+background veto. In order to estimate the efficiency of such a LAr veto it has to be known how far the
+scintillation light can travel within the LAr. A dedicated setup was built to measure the attenuation
+length of the scintillation light in the LAr in-situ within the cryostat of GERDA. The setup is composed
+of a steel tube with a photomultiplier tube (PMT) at one side and a moveable $^{90}$Sr source at the
+other side to measure the light intensity at different distances between source and PMT. Furthermore,
+a sophisticated simulation was developed in order to determine the solid angle correction as well
+as the background for this measurement, both are needed for the analysis. Additionally, a set of
+simulation data was generated to confirm the analysis which is performed for the measured data afterwards
+and to find a combination of simulation parameters that matches the measured data. The analysis
+results in an absorption length of $15.79 \pm 0.70$ (stat) $^{+1.42}_{-3.14}$ (syst) cm under the
+assumption of a scattering length of 70 cm at 128 nm. The simulation matching best was produced with
+an absorption length of 18 cm and a light yield of 2500 $\gamma$/MeV. 

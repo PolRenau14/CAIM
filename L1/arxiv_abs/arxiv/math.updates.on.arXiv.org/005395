@@ -1,0 +1,16 @@
+Compositional data consists of vectors of proportions whose components sum to 1. Such vectors lie
+in the standard simplex, which is a manifold with boundary. One issue that has been rather controversial
+within the field of compositional data analysis is the choice of metric on the simplex. One popular
+possibility has been to use the metric implied by logtransforming the data, as proposed by Aitchison
+[1, 2]; and another popular approach has been to use the standard Euclidean metric inherited from
+the ambient space. Tsagris et al. [21] proposed a one-parameter family of power transformations,
+the $\alpha$-transformations, which include both the metric implied by Aitchison's transformation
+and the Euclidean metric as particular cases. Our underlying philosophy is that, with many datasets,
+it may make sense to use the data to help us determine a suitable metric. A related possibility is to
+apply the $\alpha$-transformations to a parametric family of distributions, and then estimate
+a along with the other parameters. However, as we shall see, when one follows this last approach with
+the Dirichlet family, some care is needed in a certain limiting case which arises $(\alpha \neq 0)$,
+as we found out when fitting this model to real and simulated data. Specifically, when the maximum
+likelihood estimator of a is close to 0, the other parameters tend to be large. The main purpose of
+the paper is to study this limiting case both theoretically and numerically and to provide insight
+into these numerical findings. 

@@ -1,0 +1,17 @@
+To understand the spatial deployment of base stations (BSs) is the first step to analyze the performance
+of cellular networks and further design efficient networking protocols. Poisson point process
+(PPP), which has been widely adopted to characterize the deployment of BSs and established the reputation
+to give tractable results in the stochastic geometry analyses, usually assumes a static BS deployment
+density in homogeneous PPP (HPPP) models or delicately designed location-dependent density functions
+in in-homogeneous PPP (IPPP) models. However, the simultaneous existence of attractiveness and
+repulsiveness among BSs practically deployed in a large-scale area defies such an assumption,
+and the $\alpha$-stable distribution, one kind of heavy-tailed distributions, has recently demonstrated
+superior accuracy to statistically model the varying BS density in different areas. In this paper,
+we start with these new findings and investigate the intrinsic feature (i.e., the spatial self-similarity)
+embedded in the BSs. Afterwards, we refer to a generalized PPP setup with $\alpha$-stable distributed
+density and theoretically derive the related coverage probability. In particular, we give an upper
+bound of the derived coverage probability for high signal-to-interference-plus-noise ratio
+(SINR) thresholds and show the monotonically decreasing property of this bound with respect to
+the variance of BS density. Besides, we prove that our model could reduce to the single-tier HPPP
+for some special cases, and demonstrate the superior accuracy of the $\alpha$-stable model to approach
+the real environment. 

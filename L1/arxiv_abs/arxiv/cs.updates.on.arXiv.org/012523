@@ -1,0 +1,16 @@
+Over recent years, devising classification algorithms that are robust to adversarial perturbations
+has emerged as a challenging problem. In particular, deep neural nets (DNNs) seem to be susceptible
+to small imperceptible changes over test instances. In this work, we study whether there is any learning
+task for which it is possible to design classifiers that are only robust against polynomial-time
+adversaries. Indeed, numerous cryptographic tasks (e.g. encryption of long messages) are only
+be secure against computationally bounded adversaries, and are indeed mpossible for computationally
+unbounded attackers. Thus, it is natural to ask if the same strategy could help robust learning.
+We show that computational limitation of attackers can indeed be useful in robust learning by demonstrating
+a classifier for a learning task in which computational and information theoretic adversaries
+of bounded perturbations have very different power. Namely, while computationally unbounded
+adversaries can attack successfully and find adversarial examples with small perturbation, polynomial
+time adversaries are unable to do so unless they can break standard cryptographic hardness assumptions.
+Our results, therefore, indicate that perhaps a similar approach to cryptography (relying on computational
+hardness) holds promise for achieving computationally robust machine learning. We also show that
+the existence of such learning task in which computational robustness beats information theoretic
+robustness implies (average case) hard problems in $\mathbf{NP}$. 

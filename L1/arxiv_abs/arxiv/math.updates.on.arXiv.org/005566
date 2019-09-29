@@ -1,0 +1,16 @@
+We study the problem of variable selection for linear models under the high-dimensional asymptotic
+setting, where the number of observations $n$ grows at the same rate as the number of predictors $p$.
+We consider two-stage variable selection techniques (TVS) in which the first stage uses bridge
+estimators to obtain an estimate of the regression coefficients, and the second stage simply thresholds
+this estimate to select the "important" predictors. The asymptotic false discovery proportion
+(AFDP) and true positive proportion (ATPP) of these TVS are evaluated. We prove that for a fixed ATPP,
+in order to obtain a smaller AFDP, one should pick a bridge estimator with smaller asymptotic mean
+square error in the first stage of TVS. Based on such principled discovery, we present a sharp comparison
+of different TVS, via an in-depth investigation of the estimation properties of bridge estimators.
+Rather than "order-wise" error bounds with loose constants, our analysis focuses on precise error
+characterization. Various interesting signal-to-noise ratio and sparsity settings are studied.
+Our results offer new and thorough insights into high-dimensional variable selection. For instance,
+we prove that a TVS with Ridge in its first stage outperforms TVS with other bridge estimators in large
+noise settings; two-stage LASSO becomes inferior when the signal is rare and weak. As a by-product,
+we show that two-stage methods outperform some standard variable selection techniques, such as
+LASSO and Sure Independence Screening, under certain conditions. 

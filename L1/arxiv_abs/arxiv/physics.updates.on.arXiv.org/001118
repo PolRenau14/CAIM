@@ -1,0 +1,16 @@
+The vertical heat transfer in B\'enard-Marangoni convection of a fluid layer with infinite Prandtl
+number is studied by means of upper bounds on the Nusselt number $Nu$ as a function of the Marangoni
+number $Ma$. Using the background method for the temperature field, it has recently been proven
+by Hagstrom & Doering that $ Nu\leq 0.838\,Ma^{2/7}$. In this work we extend previous background
+method analysis to include balance parameters and derive a variational principle for the bound
+on $Nu$, expressed in terms of a scaled background field, that yields a better bound than Hagstrom
+& Doering's formulation at a given $Ma$. Using a piecewise-linear, monotonically decreasing profile
+we then show that $Nu \leq 0.803\,Ma^{2/7}$, lowering the previous prefactor by 4.2%. However,
+we also demonstrate that optimisation of the balance parameters does not affect the asymptotic
+scaling of the optimal bound achievable with Hagstrom & Doering's original formulation. We subsequently
+utilise convex optimisation to optimise the bound on $Nu$ over all admissible background fields,
+as well as over two smaller families of profiles constrained by monotonicity and convexity. The
+results show that $Nu \leq O(Ma^{2/7}(\ln Ma)^{-1/2})$ when the background field has a non-monotonic
+boundary layer near the surface, while a power-law bounds with exponent 2/7 is optimal within the
+class of monotonic background fields. Further analysis of our upper-bounding principle reveals
+the role of non-monotonicity, and how it may be exploited in a rigorous mathematical argument. 

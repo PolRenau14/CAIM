@@ -1,0 +1,17 @@
+In previous work, Boemer et al. introduced nGraph-HE, an extension to the Intel nGraph deep learning
+(DL) compiler, that enables data scientists to deploy models with popular frameworks such as TensorFlow
+and PyTorch with minimal code changes. However, the class of supported models was limited to relatively
+shallow networks with polynomial activations. Here, we introduce nGraph-HE2, which extends nGraph-HE
+to enable privacy-preserving inference on standard, pre-trained models using their native activation
+functions and number fields (typically real numbers). The proposed framework leverages the CKKS
+scheme, whose support for real numbers is friendly to data science, and a client-aided model using
+a two-party approach to compute activation functions. We first present CKKS-specific optimizations,
+enabling a 3x-88x runtime speedup for scalar encoding, and doubling the throughput through a novel
+use of CKKS plaintext packing into complex numbers. Second, we optimize ciphertext-plaintext
+addition and multiplication, yielding 2.6x-4.2x runtime speedup. Third, we exploit two graph-level
+optimizations: lazy rescaling and depth-aware encoding, which allow us to significantly improve
+performance. Together, these optimizations enable state-of-the-art throughput of 1,998 images/s
+on the CryptoNets network. Using the client-aided model, we also present homomorphic evaluation
+of (to our knowledge) the largest network to date, namely, pre-trained MobileNetV2 models on the
+ImageNet dataset, with 60.4\percent/82.7\percent\ top-1/top-5 accuracy and an amortized runtime
+of 381 ms/image. 

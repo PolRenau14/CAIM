@@ -1,0 +1,16 @@
+Although magnesium alloys deform extensively through shear strains and crystallographic re-orientations
+associated with the growth of twins, little is known about the strengthening mechanisms associated
+with this deformation mode. A crystal plasticity based phase field model for twinning is employed
+in this work to study the strengthening mechanisms resulting from the interaction between twin
+growth and precipitates. The full-field simulations reveal in great detail the pinning and de-pinning
+of a twin boundary at individual precipitates, resulting in a maximum resistance to twin growth
+when the precipitate is partially embedded in the twin. Furthermore, statistically representative
+precipitate distributions are used to systematically investigate the influence of key microstructural
+parameters such as precipitate orientation, volume fraction, size, and aspect ratio on the resistance
+to twin growth. The results indicate that the effective critical resolved shear stress (CRSS) for
+twin growth increases linearly with precipitate volume fraction and aspect ratio. For a constant
+volume fraction of precipitates, reduction of the precipitate size below a critical level produces
+a strong increase in the CRSS due to the Orowan-like strengthening mechanism between the twin interface
+and precipitates. Above this level the CRSS is size independent. The results are quantitatively
+and qualitatively comparable with experimental measurements and predictions of mean-field strengthening
+models. Based on the results, guidelines for the design of high strength magnesium alloys are discussed.

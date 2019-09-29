@@ -1,0 +1,17 @@
+When many clones are detected in software programs, not all clones are equally important to developers.
+To help developers refactor code and improve software quality, various tools were built to recommend
+clone-removal refactorings based on the past and the present information, such as the cohesion
+degree of individual clones or the co-evolution relations of clone peers. The existence of these
+tools inspired us to build an approach that considers as many factors as possible to more accurately
+recommend clones. This paper introduces CREC, a learning-based approach that recommends clones
+by extracting features from the current status and past history of software projects. Given a set
+of software repositories, CREC first automatically extracts the clone groups historically refactored
+(R-clones) and those not refactored (NR-clones) to construct the training set. CREC extracts 34
+features to characterize the content and evolution behaviors of individual clones, as well as the
+spatial, syntactical, and co-change relations of clone peers. With these features, CREC trains
+a classifier that recommends clones for refactoring. We designed the largest feature set thus far
+for clone recommendation, and performed an evaluation on six large projects. The results show that
+our approach suggested refactorings with 83% and 76% F-scores in the within-project and cross-project
+settings. CREC significantly outperforms a state-of-the-art similar approach on our data set,
+with the latter one achieving 70% and 50% F-scores. We also compared the effectiveness of different
+factors and different learning algorithms. 

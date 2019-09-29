@@ -1,0 +1,17 @@
+The 21-cm signal from the epoch of reionization is non-Gaussian. Current radio telescopes are focused
+on detecting the 21-cm power spectrum, but in the future the Square Kilometre Array is anticipated
+to provide a first measurement of the bispectrum. Previous studies have shown that the position-dependent
+power spectrum is a simple and efficient way to probe the squeezed-limit bispectrum. In this approach,
+the survey is divided into subvolumes and the correlation between the local power spectrum and the
+corresponding mean density of the subvolume is computed. This correlation is equivalent to an integral
+of the bispectrum in the squeezed limit, but is much simpler to implement than the usual bispectrum
+estimators. It also has a clear physical interpretation: it describes how the small-scale power
+spectrum of tracers such as galaxies and the 21-cm signal respond to a large-scale environment.
+Reionization naturally couples large and small scales as ionizing radiation produced by galactic
+sources can travel up to tens of Megaparsecs through the intergalactic medium during this process.
+Here we apply the position-dependent power spectrum approach to fluctuations in the 21-cm background
+from reionization. We show that this statistic has a distinctive evolution in time that can be understood
+with a simple analytic model. We also show that the statistic can easily distinguish between simple
+"inside-out" and "outside-in" models of reionization. The position-dependent power spectrum
+is thus a promising method to validate the reionization signal and to extract higher-order information
+on this process. 

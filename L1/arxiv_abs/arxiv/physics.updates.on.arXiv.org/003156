@@ -1,0 +1,16 @@
+Archetypal scenarios for change detection generally consider two images acquired through sensors
+of the same modality. However, in some specific cases such as emergency situations, the only images
+available may be those acquired through sensors with different characteristics. This paper addresses
+the problem of unsupervisedly detecting changes between two observed images acquired by different
+sensors. These sensor dissimilarities introduce additional issues in the context of operational
+change detection that are not addressed by most of classical methods. This paper introduces a novel
+framework to effectively exploit the available information by modeling the two observed images
+as a sparse linear combination of atoms belonging to an overcomplete pair of coupled dictionaries
+learnt from each observed image. As they cover the same geographical location, codes are expected
+to be globally similar except for possible changes in sparse spatial locations. Thus, the change
+detection task is envisioned through a dual code estimation which enforces spatial sparsity in
+the difference between the estimated codes associated with each image. This problem is formulated
+as an inverse problem which is iteratively solved using an efficient proximal alternating minimization
+algorithm accounting for nonsmooth and nonconvex functions. The proposed method is applied to
+real multisensor images with simulated yet realistic and real images. A comparison with state-of-the-art
+change detection methods evidences the accuracy of the proposed strategy. 

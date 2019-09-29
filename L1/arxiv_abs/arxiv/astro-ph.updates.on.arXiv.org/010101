@@ -1,0 +1,17 @@
+The enormous sizes and variability of emission of radio-loud AGNs arise from the relativistic flows
+of plasma along two oppositely directed jets. We use the Athena hydrodynamics code to simulate an
+extensive suite of 54 propagating three-dimensional relativistic jets with wide ranges of input
+jet velocities and jet-to-ambient matter density ratios. We determine which parameter sets yield
+unstable jets that produce jet dominated FR I type radio galaxy morphologies and which tend to produce
+stable jets with hot-spots and FR II morphologies. Nearly all our simulations involve jets with
+internal pressures matched to those of the ambient medium but we also consider over-pressured jets
+and discuss differences from the standard ones. We also show that the results are not strongly dependent
+on the adiabatic index of the fluid. We focus on simulations that remain stable for extended distances
+(60-240) times the initial jet radius. Scaled to the much smaller sizes probed by VLBI observations,
+the fluctuations in such simulated flows yield variability in observed emissivity on timescales
+from months. Adopting results for the densities, pressures and velocities from these simulations
+we estimate normalized rest frame synchrotron emissivities from individual cells in the jets.
+The observed emission from each cell is strongly dependent upon its variable Doppler boosting factor.
+We sum the fluxes from thousands of zones around the primary reconfinement shock. The light curves
+an power-spectra, with red-noise slopes between -2.1 and -2.5, so produced are similar to those
+observed from blazars. 

@@ -1,0 +1,17 @@
+This volume contains the proceedings of the Combined 24th International Workshop on Expressiveness
+in Concurrency and the 14th Workshop on Structural Operational Semantics (EXPRESS/SOS 2017) which
+was held on 04 September 2017 in Berlin, Germany, as an affiliated workshop of CONCUR 2017, the 28th
+International Conference on Concurrency Theory. The EXPRESS workshops aim at bringing together
+researchers interested in the expressiveness of various formal systems and semantic notions,
+particularly in the field of concurrency. Their focus has traditionally been on the comparison
+between programming concepts (such as concurrent, functional, imperative, logic and object-oriented
+programming) and between mathematical models of computation (such as process algebras, Petri
+nets, event structures, modal logics, and rewrite systems) on the basis of their relative expressive
+power. The EXPRESS workshop series has run successfully since 1994 and over the years this focus
+has become broadly construed. The SOS workshops aim at being a forum for researchers, students and
+practitioners interested in new developments, and directions for future investigation, in the
+field of structural operational semantics. One of the specific goals of the SOS workshop series
+is to establish synergies between the concurrency and programming language communities working
+on the theory and practice of SOS. Since 2012, the EXPRESS and SOS communities have organized an annual
+combined EXPRESS/SOS workshop on the expressiveness of mathematical models of computation and
+the formal semantics of systems and programming concepts. 

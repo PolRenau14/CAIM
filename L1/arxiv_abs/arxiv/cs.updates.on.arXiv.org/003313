@@ -1,0 +1,16 @@
+Biological systems can share and collectively process information to yield emergent effects,
+despite inherent noise in communication. While man-made systems often employ intricate structural
+solutions to overcome noise, the structure of many biological systems is more amorphous. It is not
+well understood how communication noise may affect the computational repertoire of such groups.
+To approach this question we consider the basic collective task of rumor spreading, in which information
+from few knowledgeable sources must reliably flow into the rest of the population. In order to study
+the effect of communication noise on the ability of groups that lack stable structures to efficiently
+solve this task, we consider a noisy version of the uniform PULL model. We prove a lower bound which
+implies that, in the presence of even moderate levels of noise that affect all facets of the communication,
+no scheme can significantly outperform the trivial one in which agents have to wait until directly
+interacting with the sources. Our results thus show an exponential separation between the uniform
+PUSH and PULL communication models in the presence of noise. Such separation may be interpreted
+as suggesting that, in order to achieve efficient rumor spreading, a system must exhibit either
+some degree of structural stability or, alternatively, some facet of the communication which is
+immune to noise. We corroborate our theoretical findings with a new analysis of experimental data
+regarding recruitment in Cataglyphis niger desert ants. 

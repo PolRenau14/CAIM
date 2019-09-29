@@ -1,0 +1,16 @@
+In quadratic-order degenerate higher-order scalar-tensor (DHOST) theories compatible with
+gravitational-wave constraints, we derive the most general Lagrangian allowing for tracker solutions
+characterized by $\dot{\phi}/H^p={\rm constant}$, where $\dot{\phi}$ is the time derivative
+of a scalar field $\phi$, $H$ is the Hubble expansion rate, and $p$ is a constant. While the tracker
+is present up to the cubic-order Horndeski Lagrangian $L=c_2X-c_3X^{(p-1)/(2p)} \square \phi$,
+where $c_2, c_3$ are constants and $X$ is the kinetic energy of $\phi$, the DHOST interaction breaks
+this structure for $p \neq 1$. Even in the latter case, however, there exists an approximate tracker
+solution in the early cosmological epoch with the nearly constant field equation of state $w_{\phi}=-1-2p\dot{H}/(3H^2)$.
+The scaling solution, which corresponds to $p=1$, is the unique case in which all the terms in the
+field density $\rho_{\phi}$ and the pressure $P_{\phi}$ obey the scaling relation $\rho_{\phi}
+\propto P_{\phi} \propto H^2$. Extending the analysis to the coupled DHOST theories with the field-dependent
+coupling $Q(\phi)$ between the scalar field and matter, we show that the scaling solution exists
+for $Q(\phi)=1/(\mu_1 \phi+\mu_2)$, where $\mu_1$ and $\mu_2$ are constants. For the constant
+$Q$, i.e., $\mu_1=0$, we derive fixed points of the dynamical system by using the general Lagrangian
+with scaling solutions. This result can be applied to the model construction of late-time cosmic
+acceleration preceded by the scaling $\phi$-matter-dominated epoch. 

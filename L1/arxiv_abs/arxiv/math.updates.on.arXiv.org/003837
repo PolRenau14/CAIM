@@ -1,0 +1,16 @@
+In the recent paper `Well-posedness and regularity for a generalized fractional Cahn-Hilliard
+system' (arXiv:1804.11290) by the same authors, general well-posedness results have been established
+for a a class of evolutionary systems of two equations having the structure of a viscous Cahn-Hilliard
+system, in which nonlinearities of double-well type occur. The operators appearing in the system
+equations are fractional versions in the spectral sense of general linear operators A,B having
+compact resolvents, which are densely defined, unbounded, selfadjoint, and monotone in a Hilbert
+space of functions defined in a smooth domain. In this work we complement the results given in arXiv:1804.11290
+by studying a distributed control problem for this evolutionary system. The main difficulty in
+the analysis is to establish a rigorous Frechet differentiability result for the associated control-to-state
+mapping. This seems only to be possible if the state stays bounded, which, in turn, makes it necessary
+to postulate an additional global boundedness assumption. One typical situation, in which this
+assumption is satisfied, arises when B is the negative Laplacian with zero Dirichlet boundary conditions
+and the nonlinearity is smooth with polynomial growth of at most order four. Also a case with logarithmic
+nonlinearity can be handled. Under the global boundedness assumption, we establish existence
+and first-order necessary optimality conditions for the optimal control problem in terms of a variational
+inequality and the associated adjoint state system. 

@@ -1,0 +1,17 @@
+The complexity of physico-chemical models of star formation is increasing, with models that take
+into account new processes and more realistic setups. These models allow astrochemists to compute
+the evolution of chemical species throughout star formation. Hence, comparing the outputs of such
+models to observations allows to bring new constraints on star formation. The work presented in
+this paper is based on the recent public release of a database of radiation hydrodynamical low-mass
+star formation models. We used this database as physical parameters to compute the time dependent
+chemical composition of collapsing cores with a 3-phase gas-grain model. The results are analyzed
+to find chemical tracers of the initial physical parameters of collapse such as the mass, radius,
+temperature, density, and free-fall time. They are also compared to observed molecular abundances
+of Class 0 protostars. We find numerous tracers of the initial parameters of collapse, except for
+the initial mass. More particularly, we find that gas phase CH3CN, NS and OCS trace the initial temperature,
+while H2CS trace the initial density and free-fall time of the parent cloud. The comparison of our
+results with a sample of 12 Class 0 low mass protostars allows us to constrain the initial parameters
+of collapse of low-mass prestellar cores. We find that low-mass protostars are preferentially
+formed within large cores with radii greater than 20000 au, masses between 2 and 4 Msol, temperatures
+lower or equal to 15 K, and densities between 6e4 and 2.5e5 part.cm-3, corresponding to free-fall
+times between 100 and 200 kyrs. 

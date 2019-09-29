@@ -1,0 +1,16 @@
+We determine the total dynamical matter density in the solar neighbourhood using the second Gaia
+data release (DR2). The dynamical matter density distribution is inferred in a framework of a Bayesian
+hierarchical model, which accounts for position and velocity of all individual stars, as well as
+the full error covariance matrix of astrometric observables, in a joint fit of the vertical velocity
+distribution and stellar number density distribution. This is done for eight separate data samples,
+with different cuts in observed absolute magnitude, each containing about 25,000 stars. The model
+for the total matter density does not rely on any underlying baryonic model, although we assume that
+it is symmetrical, smooth, and monotonically decreasing with distance from the mid-plane. We infer
+a density distribution which is strongly peaked in the region close to the Galactic plane ($\lesssim
+60$ pc), for all eight stellar samples. Assuming a baryonic model and a dark matter halo of constant
+density, this corresponds to a surplus surface density of approximately 5--9 M$_\odot$/pc$^2$.
+For the Sun's position and vertical velocity with respect to the Galactic plane, we infer $Z_\odot
+= 4.76\pm 2.27$ pc and $W_\odot = 7.24\pm 0.19$ km/s. These results suggest a surplus of matter close
+to the Galactic plane, possibly explained by an underestimated density of cold gas. We discuss possible
+systematic effects that could bias our result, for example unmodelled non-equilibrium effects,
+and how to account for such effects in future extensions of this work. 

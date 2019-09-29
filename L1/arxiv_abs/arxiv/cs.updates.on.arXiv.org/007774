@@ -1,0 +1,16 @@
+Randomized Controlled Trials (RCTs) are the gold standard for comparing the effectiveness of a
+new treatment to the current one (the control). Most RCTs allocate the patients to the treatment
+group and the control group by repeated tosses of a fair coin. We show that this procedure can be highly
+sub-optimal if -- as is often the case -- patients can be recruited in cohorts (rather than all at once),
+the effects on each cohort can be observed before recruiting the next cohort, and the effects are
+heterogeneous across groups of patients. We formulate the patient allocation problem as a finite
+stage Markov Decision Process in which the objective is to minimize a given weighted combination
+of type-I and type-II errors. Because finding the exact solution to this Markov Decision Process
+is computationally intractable, we propose an algorithm -- Knowledge Gradient for Randomized
+Controlled Trials (RCT-KG) -- that yields an approximate solution. We illustrate our algorithm
+on a synthetic dataset with Bernoulli outcomes, showing that it is significantly more efficient
+than repeated fair coin tossing. For a given size of trial our method achieves significant reduction
+in error, and to achieve a prescribed level of confidence (in identifying whether the treatment
+is superior to the control), our method requires many fewer patients. Our approach uses what has
+been learned from the effects on previous cohorts to allocate patients in succeeding cohorts, and
+allocates more patients to subgroups for which the uncertainty is greater. 

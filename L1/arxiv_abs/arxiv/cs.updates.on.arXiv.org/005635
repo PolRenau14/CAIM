@@ -1,0 +1,16 @@
+In this paper, we study the following robust optimization problem. Given an independence system
+and candidate objective functions, we choose an independent set, and then an adversary chooses
+one objective function, knowing our choice. Our goal is to find a randomized strategy (i.e., a probability
+distribution over the independent sets) that maximizes the expected objective value. To solve
+the problem, we propose two types of schemes for designing approximation algorithms. One scheme
+is for the case when objective functions are linear. It first finds an approximately optimal aggregated
+strategy and then retrieves a desired solution with little loss of the objective value. The approximation
+ratio depends on a relaxation of an independence system polytope. As applications, we provide approximation
+algorithms for a knapsack constraint or a matroid intersection by developing appropriate relaxations
+and retrievals. The other scheme is based on the multiplicative weights update method. A key technique
+is to introduce a new concept called $(\eta,\gamma)$-reductions for objective functions with
+parameters $\eta, \gamma$. We show that our scheme outputs a nearly $\alpha$-approximate solution
+if there exists an $\alpha$-approximation algorithm for a subproblem defined by $(\eta,\gamma)$-reductions.
+This improves approximation ratio in previous results. Using our result, we provide approximation
+algorithms when the objective functions are submodular or correspond to the cardinality robustness
+for the knapsack problem. 

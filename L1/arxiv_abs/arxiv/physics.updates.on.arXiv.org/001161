@@ -1,0 +1,16 @@
+Turbulence remains an unsolved multidisciplinary science problem. As one of the most well-known
+examples in turbulent flows, knowledge of the logarithmic mean velocity profile (MVP), so called
+the log law of the wall, plays an important role everywhere turbulent flow meets the solid wall, such
+as fluids in any kind of channels, skin friction of all types of transportations, the atmospheric
+wind on a planetary ground, and the oceanic current on the seabed. However, the mechanism of how this
+log-law MVP is formed under the multiscale nature of turbulent shears remains one of the greatest
+interests of turbulence puzzles. To untangle the multiscale coupling of turbulent shear stresses,
+we explore for a known fundamental tool in physics. Here we present how to reproduce the log-law MVP
+with the even harmonic modes of fixed-end standing waves. We find that when these harmonic waves
+of same magnitude are considered as the multiscale turbulent shear stresses, the wave envelope
+of their superposition simulates the mean shear stress profile of the wall-bounded flow. It implies
+that the log-law MVP is not expectedly related to the turbulent scales in the inertial subrange associated
+with the Kolmogorov energy cascade, revealing the dissipative nature of all scales involved. The
+MVP with reduced harmonic modes also shows promising connection to the understanding of flow transition
+to turbulence. The finding here suggests the simple harmonic waves as good agents to help unravel
+the complex turbulent dynamics in wall-bounded flow. 

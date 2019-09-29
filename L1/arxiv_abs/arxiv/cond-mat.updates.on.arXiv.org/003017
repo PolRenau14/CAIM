@@ -1,0 +1,17 @@
+Janus MoSSe monolayers were recently synthesised by replacing S by Se on one side of MoS$_2$ (or vice
+versa for MoSe$_2$). Due to the different electronegativity of S and Se these structures carry a
+finite out-of-plane dipole moment. As we show here by means of density functional theory (DFT) calculations,
+this intrinsic dipole leads to the formation of built-in electric fields when the monolayers are
+stacked to form $N$-layer structures. For sufficiently thin structures ($N<4$) the dipoles add
+up and shift the vacuum level on the two sides of the film by $\sim N \cdot 0.7$ eV. However, for thicker
+films charge transfer occurs between the outermost layers forming atomically thin n- and p-doped
+electron gasses at the two surfaces. The doping concentration can be tuned between about $5\cdot
+10^{12}$ e/cm$^{2}$ and $2\cdot 10^{13}$ e/cm$^{2}$ by varying the film thickness. The surface
+charges counteract the static dipoles leading to saturation of the vacuum level shift at around
+2.2 eV for $N>4$. Based on band structure calculations and the Mott-Wannier exciton model, we compute
+the energies of intra- and interlayer excitons as a function of film thickness suggesting that the
+Janus multilayer films are ideally suited for achieving ultrafast charge separation over atomic
+length scales without chemical doping or applied electric fields. Finally, we explore a number
+of other potentially synthesisable 2D Janus structures with different band gaps and internal dipole
+moments. Our results open new opportunities for ultrathin opto-electronic components such as
+tunnel diodes, photo-detectors, or solar cells. 

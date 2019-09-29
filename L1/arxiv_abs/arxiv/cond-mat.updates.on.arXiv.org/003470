@@ -1,0 +1,16 @@
+To develop next-generation electronics and high efficiency energy-harvesting devices, it is
+crucial to understand how charge and heat are transported at the nanoscale. Metallic atomic-size
+contacts are ideal systems to probe the quantum limits of transport. The thermal and electrical
+conductance of gold atomic contacts has been recently proven to be quantized at room temperature.
+However, a big experimental challenge in such measurements is represented by the fast breaking
+dynamics of metallic junctions at room temperature, which can exceed the typical response time
+of the thermal measurement. Here we use a break-junction setup that combines Scanning Tunneling
+Microscopy with suspended micro electro-mechanical systems with a gold-covered membrane and
+an integrated heater acting also as thermometer. By using other metals as tip materials, namely
+Pt, PtIr and W, we show heat transport measurements through single gold atomic contacts. The dependence
+of the thermal conductance is analysed as function of contact size and material used. We find that
+by using Pt and Pt-Ir tips we can maximize the mechanical stability and probability of forming single
+Au atomic contacts. We then show the quantization of the electrical and thermal conductance with
+the verification of the Wiedemann-Franz law at the atomic scale. We expect these findings to increase
+the flexibility of experimental techniques probing heat transport in metallic quantum point contacts
+and to enable the investigation of thermal properties of molecular junctions. 

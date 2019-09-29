@@ -1,0 +1,17 @@
+We present a study on the robustness of the covariance matrix estimation for galaxy clustering measurements
+depending on the cosmological parameters and galaxy bias. To this end, we have produced 9000 galaxy
+mock catalogues relying on the effective Zel'dovich approximation implemented in the EZmocks
+computer code, using different input cosmological models and bias parameters. The reference catalogue
+has also been produced with this code making our study insensitive to the approximation at least
+on a relative-qualitative level. Our findings indicate that the covariance matrix is insensitive
+to the input power spectrum (including $\sigma_8$), as long as the 2- and 3-point galaxy clustering
+measurements agree with the given data. In fact, the covariance matrix shows a bias at small scales
+($r\lesssim40 h^{-1}$Mpc) when the chosen galaxy bias parameters yield a 3-point statistics,
+which is not compatible with the reference one within the error bars, even though the 2-point statistics
+agree within 1%. Nevertheless, the error becomes negligible at large scales making the covariance
+matrix still reliable for data analysis using only measurements in that regime (e.g., measuring
+baryon acoustic oscillations). High precision in cosmological parameter estimation is expected
+for covariance matrices extracted from mock galaxy catalogues which take accurately into account
+both the 2- and the 3- point statistics. This is independent of whether this is achieved by using the
+right cosmology and galaxy bias (which are not a priori known) or just any combination of both fitting
+the net observed galaxy clustering. 

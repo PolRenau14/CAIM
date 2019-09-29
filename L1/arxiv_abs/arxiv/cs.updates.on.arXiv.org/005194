@@ -1,0 +1,16 @@
+We often have to rank items with multiple attributes in a dataset. A typical method to achieve this
+is to compute a goodness score for each item as a weighted sum of its attribute values, and then to rank
+by sorting on this score. Clearly, the ranking obtained depends on the weights used for this summation.
+Ideally, we would want the ranked order not to change if the weights are changed slightly. We call
+this property {\em stability} of the ranking. A consumer of a ranked list may trust the ranking more
+if it has high stability. A producer of a ranked list prefers to choose weights that result in a stable
+ranking, both to earn the trust of potential consumers and because a stable ranking is intrinsically
+likely to be more meaningful. In this paper, we develop a framework that can be used to assess the stability
+of a provided ranking and to obtain a stable ranking within an "acceptable" range of weight values
+(called "the region of interest"). We address the case where the user cares about the rank order of
+the entire set of items, and also the case where the user cares only about the top-$k$ items. Using
+a geometric interpretation, we propose the algorithms for producing the stable rankings. We also
+propose a randomized algorithm that uses Monte-Carlo estimation. To do so, we first propose an unbiased
+sampler for sampling the rankings (or top-$k$ results) uniformly at random from the region of interest.
+In addition to the theoretical analyses, we conduct extensive experiments on real datasets that
+validate our proposal. 

@@ -1,0 +1,17 @@
+Carbon dioxide (CO2) capture and subsurface storage is one method for reducing anthropogenic CO2
+emissions to mitigate climate change. It is well known that large-scale fluid injection into the
+subsurface leads to a buildup in pressure that gradually spreads and dissipates through lateral
+and vertical migration of water. This dissipation can have an important feedback on the shape of
+the CO2 plume during injection, and the impact of vertical pressure dissipation, in particular,
+remains poorly understood. Here, we investigate the impact of lateral and vertical pressure dissipation
+on the injection of CO2 into a layered aquifer system. We develop a compressible, two-phase model
+that couples vertical water leakage to the propagation of a CO2 gravity current. We show that our
+vertically integrated, sharp-interface model is capable of efficiently and accurately capturing
+water migration in a layered aquifer system with an arbitrary number of aquifers. We identify two
+limiting cases --- `no leakage' and `strong leakage' --- in which we derive analytical expressions
+for the water pressure field for the corresponding single-phase injection problem. We demonstrate
+that pressure dissipation acts to suppress the formation of an advancing CO2 tongue during injection,
+resulting in a plume with a reduced lateral extent. The properties of the seals and the number of aquifers
+determine the strength of pressure dissipation and subsequent coupling with the CO2 plume. The
+impact of pressure dissipation on the shape of the CO2 plume is likely to be important for storage
+efficiency and security. 

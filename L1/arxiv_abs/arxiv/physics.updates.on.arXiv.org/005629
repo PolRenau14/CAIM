@@ -1,0 +1,16 @@
+{\bf Direct} transition from low Reynolds number "weak" Gaussian turbulence to fully developed
+"strong" turbulence at a critical Reynolds number $R^{tr}_{\lambda}\approx 8.91$ has recently
+been theoretically predicted and tested in high resolution numerical simulations of V. Yakhot
+\& D. A. Donzis, Phys. Rev. Lett. {\bf 119}, 044501 (2017) \& PhysicaD, {\bf 384-385}, 12 (2018) on
+an example of a flow excited by a Gaussian random force. The matching between the low-Reynolds number
+Gaussian asymptotic ($Re<<Re^{tr}$) and the multi-scaling one, dominating the high-Re limit
+($Re>>Re^{tr}$), led to closed approximate equation for exponents of moments of derivatives in
+a good agreement with experimental data. In this paper we study transition to turbulence in Benard
+(RB) convection where, depending on the Rayleigh number, turbulence is produced by both weak instabilities
+of the bulk flow and, the plume-generating instabilities of the wall boundary layers. The developed
+theory explains non-monotonic behavior of the low-Reynolds - number moments of velocity derivatives
+$M_{2n (Re)=\frac{\overline{(\partial_{x}v_{x})^{2n}}}{[\overline{(\partial_{x}v_{x})^{2}}]^{n}}$
+observed in direct numerical simulations of Schumacher et.al (Phys.Rev.E, {\bf 98},033120 (2018)).
+In the high-Reynolds number limit, the moments are given by $M_{2n}\propto Re^{\rho_{2n}}$ with
+the exponents $\rho_{2n}$ slightly different from those in a Gaussian-stirring case of Refs. [3]-[4].
+This may be related to universality classes defined by production mechanisms. 

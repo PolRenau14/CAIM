@@ -1,0 +1,16 @@
+Visinelli and Gondolo (2015, hereafter VG15) derived analytic expressions for the evolution of
+the dark matter temperature in a generic cosmological model. They then calculated the dark matter
+kinetic decoupling temperature $T_{\mathrm{kd}}$ and compared their results to the Gelmini and
+Gondolo (2008, hereafter GG08) calculation of $T_{\mathrm{kd}}$ in an early matter-dominated
+era (EMDE), which occurs when the Universe is dominated by either a decaying oscillating scalar
+field or a semistable massive particle before Big Bang nucleosynthesis. VG15 found that dark matter
+decouples at a lower temperature in an EMDE than it would in a radiation-dominated era, while GG08
+found that dark matter decouples at a higher temperature in an EMDE than it would in a radiation-dominated
+era. VG15 attributed this discrepancy to the presence of a matching constant that ensures that the
+dark matter temperature is continuous during the transition from the EMDE to the subsequent radiation-dominated
+era and concluded that the GG08 result is incorrect. We show that the disparity is due to the fact that
+VG15 compared $T_\mathrm{kd}$ in an EMDE to the decoupling temperature in a radiation-dominated
+universe that would result in the same dark matter temperature at late times. Since decoupling during
+an EMDE leaves the dark matter colder than it would be if it decoupled during radiation domination,
+this temperature is much higher than $T_\mathrm{kd}$ in a standard thermal history, which is indeed
+lower than $T_{\mathrm{kd}}$ in an EMDE, as stated by GG08. 

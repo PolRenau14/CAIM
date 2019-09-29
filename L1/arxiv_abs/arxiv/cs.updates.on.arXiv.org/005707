@@ -1,0 +1,16 @@
+In this study, a novel computer aided diagnosis (CADx) framework is devised to investigate interpretability
+for classifying breast masses. Recently, a deep learning technology has been successfully applied
+to medical image analysis including CADx. Existing deep learning based CADx approaches, however,
+have a limitation in explaining the diagnostic decision. In real clinical practice, clinical decisions
+could be made with reasonable explanation. So current deep learning approaches in CADx are limited
+in real world deployment. In this paper, we investigate interpretability in CADx with the proposed
+interpretable CADx (ICADx) framework. The proposed framework is devised with a generative adversarial
+network, which consists of interpretable diagnosis network and synthetic lesion generative network
+to learn the relationship between malignancy and a standardized description (BI-RADS). The lesion
+generative network and the interpretable diagnosis network compete in an adversarial learning
+so that the two networks are improved. The effectiveness of the proposed method was validated on
+public mammogram database. Experimental results showed that the proposed ICADx framework could
+provide the interpretability of mass as well as mass classification. It was mainly attributed to
+the fact that the proposed method was effectively trained to find the relationship between malignancy
+and interpretations via the adversarial learning. These results imply that the proposed ICADx
+framework could be a promising approach to develop the CADx system. 

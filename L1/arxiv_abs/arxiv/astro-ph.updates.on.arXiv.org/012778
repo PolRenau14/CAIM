@@ -1,0 +1,16 @@
+The impact of 2-body scattering on the innermost density profiles of dark matter haloes is well established.
+We use a suite of cosmological simulations and idealised numerical experiments to show that 2-body
+scattering is exacerbated in situations where there are two species of unequal mass. This is a consequence
+of mass segregation and reflects a flow of kinetic energy from the more to less massive particles.
+This has important implications for the interpretation of galaxy sizes in cosmological hydrodynamic
+simulations which nearly always model stars with less massive particles than are used for the dark
+matter. We compare idealised models as well as simulations from the EAGLE project that differ only
+in the mass resolution of the dark matter component, but keep sub-grid physics, baryonic mass resolution
+and gravitational force softening fixed. If the dark matter particle mass exceeds the mass of stellar
+particles, then galaxy sizes--quantified by their projected half-mass radii, ${\rm R_{50}}$--increase
+systematically with time until ${\rm R_{50}}$ exceeds a small fraction of the redshift-dependent
+mean inter-particle separation, $l$ (${\rm R_{50}}\geq 0.05\times l$). Our conclusions should
+also apply to simulations that adopt different hydrodynamic solvers, subgrid physics or adaptive
+softening, but in that case may need quantitative revision. Any simulation employing a stellar-to-dark
+matter particle mass ratio greater than unity will escalate spurious energy transfer from dark
+matter to baryons on small scales. 

@@ -1,0 +1,17 @@
+Data centres that use consumer-grade disks drives and distributed peer-to-peer systems are unreliable
+environments to archive data without enough redundancy. Most redundancy schemes are not completely
+effective for providing high availability, durability and integrity in the long-term. We propose
+alpha entanglement codes, a mechanism that creates a virtual layer of highly interconnected storage
+devices to propagate redundant information across a large scale storage system. Our motivation
+is to design flexible and practical erasure codes with high fault-tolerance to improve data durability
+and availability even in catastrophic scenarios. By flexible and practical, we mean code settings
+that can be adapted to future requirements and practical implementations with reasonable trade-offs
+between security, resource usage and performance. The codes have three parameters. Alpha increases
+storage overhead linearly but increases the possible paths to recover data exponentially. Two
+other parameters increase fault-tolerance even further without the need of additional storage.
+As a result, an entangled storage system can provide high availability, durability and offer additional
+integrity: it is more difficult to modify data undetectably. We evaluate how several redundancy
+schemes perform in unreliable environments and show that alpha entanglement codes are flexible
+and practical codes. Remarkably, they excel at code locality, hence, they reduce repair costs and
+become less dependent on storage locations with poor availability. Our solution outperforms Reed-Solomon
+codes in many disaster recovery scenarios. 

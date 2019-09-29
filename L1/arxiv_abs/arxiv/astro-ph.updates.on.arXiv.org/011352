@@ -1,0 +1,16 @@
+In a recent paper (Gond\'an et al. 2018), we determined the measurement accuracy of physical parameters
+for eccentric, precessing, non-spinning, inspiraling, stellar-mass BH-BH binaries for the upcoming
+second-generation LIGO/VIRGO/KAGRA detector network at design sensitivity using the Fisher
+matrix method. Here we extend that study to a wide range of binary masses including NS-NS, NS-BH,
+and BH-BH binaries with BH masses up to $110 \, M_{\odot}$. The measurement error of eccentricity
+$e_{10 \,\rm Hz}$ at a GW frequency of $10 \, {\rm Hz}$ is in the range $(10^{-4}-10^{-3}) \times (D_L/
+100\,\rm Mpc)$ for NS-NS, NS-BH, and BH-BH binaries at a luminosity distance of $D_L$ if $e_{10 \,\rm
+Hz} \gtrsim 0.1 $. For events with masses and distances similar to the detected ten GW transients,
+we show that nonzero orbital eccentricities may be detected if $0.081 \lesssim e_{10 \,\rm Hz}$.
+Consequently, the LIGO/VIRGO/KAGRA detector network at design sensitivity will have the capability
+to distinguish between eccentric waveforms and circular waveforms. In comparison to circular
+inspirals, we find that the chirp mass measurement precision can improve by up to a factor of $\sim
+20$ and $\sim 50-100$ for NS-NS and NS-BH binaries with BH companion masses $\lesssim 40 \, M_{\odot}$,
+respectively, the identification of eccentric sources may give information on their astrophysical
+origin; it would indicate merging binaries in triple or higher multiplicity systems or dynamically
+formed binaries in dense stellar systems such as globular clusters or galactic nuclei. 

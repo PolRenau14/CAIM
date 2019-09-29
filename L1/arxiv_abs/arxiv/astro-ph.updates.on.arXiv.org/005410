@@ -1,0 +1,16 @@
+We use the multi-epoch radial velocities acquired by the APOGEE survey to perform a large scale statistical
+study of stellar multiplicity for field stars in the Milky Way, spanning the evolutionary phases
+between the main sequence and the red clump. We show that the distribution of maximum radial velocity
+shifts ($\Delta RV_{max}$) for APOGEE targets is a strong function of log(g), with main sequence
+stars showing $\Delta RV_{max}$ as high as $\sim$300 $km\,s^{-1}$, and steadily dropping down
+to $\sim$30 $km\,s^{-1}$ for log(g)$\sim$0, as stars climb up the Red Giant Branch (RGB). Red clump
+stars show a distribution of $\Delta RV_{max}$ values comparable to that of stars at the tip of the
+RGB, implying they have similar multiplicity characteristics. The observed attrition of high
+$\Delta RV_{max}$ systems in the RGB is consistent with a lognormal period distribution in the main
+sequence and a multiplicity fraction of 0.35, which is truncated at an increasing period as stars
+become physically larger and undergo Case B mass transfer after Roche Lobe Overflow. The $\Delta
+RV_{max}$ distributions also show that the multiplicity characteristics of field stars are metallicity
+dependent, with metal-poor ([Fe/H]$\lesssim-0.5$) stars having a multiplicity fraction a factor
+2-3 higher than metal-rich ([Fe/H]$\gtrsim0.0$) stars. This has profound implications for the
+formation rates of interacting binaries observed by astronomical transient surveys and gravitational
+wave detectors, as well as the habitability of circumbinary planets. 

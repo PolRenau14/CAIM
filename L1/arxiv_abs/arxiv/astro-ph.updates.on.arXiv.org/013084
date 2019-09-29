@@ -1,0 +1,16 @@
+X-ray emission from AGN is believed to be produced via Comptonization of optical/UV seed photons
+emitted by the accretion disk, up-scattered by hot electrons in a corona surrounding the black hole.
+A critical compactness vs. temperature threshold is predicted above which any increase in the source
+luminosity, for a fixed size, would then generate positron-electron pairs rather than continue
+heating the coronal plasma. Current observations seem to confirm that all AGN populate the region
+below this critical line. These models, however, have never been probed by observations in the high-luminosity
+regime, where the critical line is expected to reach low temperatures. To fill this observational
+gap, we selected two luminous ($log(L_{bol})>47.5$ erg/s) quasars, 2MASSJ1614346+470420 ($z=1.86$)
+and B1422+231 ($z=3.62$), and obtained XMM-Newton and NuSTAR deep observations for them. We performed
+detailed spectral analysis of their quasi-simultaneous soft and hard X-ray data, in order to constrain
+the parameters of their coronae. Using a phenomenological cut-off power-law model, with the inclusion
+of a reflection component, we derived rest-frame values of the high energy cut-off of $E_{cut}=106^{+102}_{-37}$
+keV and $E_{cut}=66^{+17}_{-12}$ keV, respectively. Comptonization models consistently give
+as best-fit parameters electron temperatures of $\sim45$ keV and $\sim28$ keV, respectively,
+and optically thick coronae ($\tau>1$). These low coronal temperatures fall in the limited region
+allowed at these luminosities to avoid runaway pair production. 

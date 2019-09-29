@@ -1,0 +1,17 @@
+Mathematical models for physiological processes aid qualitative understanding of the impact
+of various parameters on the underlying process. We analyse two such models for human physiological
+processes: the Mackey-Glass and the Lasota equations, which model the change in the concentration
+of blood cells in the human body. We first study the local stability of these models, and derive bounds
+on various model parameters and the feedback delay for the concentration to equilibrate. We then
+deduce conditions for non-oscillatory convergence of the solutions, which could ensure that the
+blood cell concentration does not oscillate. Further, we define the convergence characteristics
+of the solutions which govern the rate at which the concentration equilibrates when the system is
+stable. Owing to the possibility that physiological parameters can seldom be estimated precisely,
+we also derive bounds for robust stability\textemdash which enable one to ensure that the blood
+cell concentration equilibrates despite parametric uncertainty. We also highlight that when
+the necessary and sufficient condition for local stability is violated, the system transits into
+instability via a Hopf bifurcation, leading to limit cycles in the blood cell concentration. We
+then outline a framework to characterise the type of the Hopf bifurcation and determine the asymptotic
+orbital stability of limit cycles. The analysis is complemented with numerical examples, stability
+charts and bifurcation diagrams. The insights into the dynamical properties of the mathematical
+models may serve to guide the study of dynamical diseases. 

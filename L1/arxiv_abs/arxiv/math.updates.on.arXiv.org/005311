@@ -1,0 +1,16 @@
+Recent innovations in Information and Communication Technologies (ICT) provide new opportunities
+and challenges for integration of distributed energy resources (DERs) into the energy supply system
+as active market players. By increasing integration of DERs, novel market platform should be designed
+for these new market players. The designed electricity market should maximize market surplus for
+consumers and suppliers and provide correct incentives for them to join the market and follow market
+rules. In this paper, a feeder-based market is proposed for local energy trading among prosumers
+and consumers in the distribution system. In this market, market players are allowed to share energy
+with other players in the local market and with neighborhood areas. A Two-StepMarket Clearing (2SMC)
+mechanism is proposed for market clearing, in which in the first step, each local market is cleared
+independently to determine the market clearing price and in the second step, players can trade energy
+with neighborhood areas. In comparison to a centralized market, the proposed method is scalable
+and reduces computation overheads, because instead of clearing market for a large number of players,
+the market is cleared for a fewer number of players. Also, by applying distributed method and Lagrangian
+multipliers for market clearing, there is no need for a central computation centre and private information
+of market players. Case studies demonstrate the efficiency and effectiveness of the proposed market
+clearing method in increasing social welfare and reducing computation time. 

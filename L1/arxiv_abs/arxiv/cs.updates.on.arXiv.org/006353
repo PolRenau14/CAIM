@@ -1,0 +1,16 @@
+Ever-increasing amounts of data are created and processed in internet-scale companies such as
+Google, Facebook, and Amazon. The efficient storage of such copious amounts of data has thus become
+a fundamental and acute problem in modern computing. No single machine can possibly satisfy such
+immense storage demands. Therefore, distributed storage systems (DSS), which rely on tens of thousands
+of storage nodes, are the only viable solution. Such systems are broadly used in all modern internet-scale
+systems. However, the design of a DSS poses a number of crucial challenges, markedly different from
+single-user storage systems. Such systems must be able to reconstruct the data efficiently, to
+overcome failure of servers, to correct errors, etc. Lots of research was done in the last few years
+to answer these challenges and the research is increasing in parallel to the increasing amount of
+stored data. The main goal of this paper is to consider codes which have two of the most important features
+of distributed storage systems, namely, locality and availability. Our codes are array codes which
+are based on subspaces of a linear space over a finite field. We present several constructions of
+such codes which are $q$-analog to some of the known block codes. Some of these codes possess independent
+intellectual merit. We examine the locality and availability of the constructed codes. In particular
+we distinguish between two types of locality and availability, node vs.~symbol, locality and availability.
+To our knowledge this is the first time that such a distinction is given in the literature. 

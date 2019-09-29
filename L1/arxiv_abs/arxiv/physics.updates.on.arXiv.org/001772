@@ -1,0 +1,16 @@
+We study the force production dynamics of undulating elastic plates as a model for fish-like inertial
+swimmers. Using a beam model coupled with Lighthill's large-amplitude elongated-body theory,
+we explore different localised actuations at one extremity of the plate (heaving, pitching, and
+a combination of both) in order to quantify the reactive and resistive contributions to the thrust.
+The latter has the form of a quadratic drag in large Reynolds number swimmers and has recently been
+pointed out as a crucial element in the thrust force balance. We validate the output of a weakly nonlinear
+solution to the fluid--structure model using thrust force measurements from an experiment with
+flexible plates subjected to the three different actuation types. The model is subsequently used
+in a self-propelled configuration ---with a skin friction model that balances thrust to produce
+a constant cruising speed--- to map the reactive versus resistive thrust production in a parameter
+space defined by the aspect ratio and the actuation frequency. We show that this balance is modified
+as the frequency of excitation changes and the response of the elastic plate shifts between different
+resonant modes, the pure heaving case being the most sensitive to the modal response with drastic
+changes in the reactive/resistive contribution ratio along the frequency axis. We analyse also
+the role of the phase lag between the heaving and pitching components in the case of combined actuation,
+showing in particular a non-trivial effect on the propulsive efficiency. 

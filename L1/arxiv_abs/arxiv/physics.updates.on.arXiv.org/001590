@@ -1,0 +1,17 @@
+The expedient design of precision components in aerospace and other high-tech industries requires
+simulations of physical phenomena often described by partial differential equations (PDEs) without
+exact solutions. Modern design problems require simulations with a level of resolution difficult
+to achieve in reasonable amounts of time---even in effectively parallelized solvers. Though the
+scale of the problem relative to available computing power is the greatest impediment to accelerating
+these applications, significant performance gains can be achieved through careful attention
+to the details of memory communication and access. The swept time-space decomposition rule reduces
+communication between sub-domains by exhausting the domain of influence before communicating
+boundary values. Here we present a GPU implementation of the swept rule, which modifies the algorithm
+for improved performance on this processing architecture by prioritizing use of private (shared)
+memory, avoiding interblock communication, and overwriting unnecessary values. It shows significant
+improvement in the execution time of finite-difference solvers for one-dimensional unsteady
+PDEs, producing speedups of 2--9$\times$ for a range of problem sizes, respectively, compared
+with simple GPU versions and 7--300$\times$ compared with parallel CPU versions. However, for
+a more sophisticated one-dimensional system of equations discretized with a second-order finite-volume
+scheme, the swept rule performs 1.2--1.9$\times$ worse than a standard implementation for all
+problem sizes. 

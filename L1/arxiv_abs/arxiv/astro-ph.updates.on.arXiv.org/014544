@@ -1,0 +1,16 @@
+Einstein's gravity has undergone extensive tests in the weak field gravitational limit, with results
+in agreement with theoretical predictions. There exist theories beyond general relativity (GR)
+which modify gravity in the strong field regime but agree with GR in the weak field. Astrophysical
+black holes are believed to be described by the Kerr metric and serve as suitable candidates to test
+strong gravity with electromagnetic radiation. We perform such a test by fitting one Suzaku dataset
+of the narrow-line Seyfert 1 (NLS1) galaxy Mrk 335 with X-ray reflection spectroscopy, using the
+Johannsen metric to model the black hole spacetime and test for deviations from Kerr. We find the
+data is best modeled with a hybrid model that includes both partial covering absorption and a reflection
+component. This is the first time such a model has been proposed for a high-flux (low reflection)
+Mrk 335 dataset. We constrain the Johannsen deformation parameter $\alpha_{13}$ to $-1.5<\alpha_{13}<0.6$
+with spin parameter $a_{*}>0.8$, and the $\alpha_{22}$ parameter to $-0.4<\alpha_{22}<2.1$
+with $a_{*}>0.7$, both at the 99% confidence level. Although additional solutions at large deviations
+from the Kerr metric show statistical similarity with the ones above, further analysis suggests
+these solutions may be manifestations of uncertainties beyond our control and do not represent
+the data. Hence, our results are in agreement with the idea that the supermassive compact object
+at the center of Mrk 335 is described by the Kerr metric. 

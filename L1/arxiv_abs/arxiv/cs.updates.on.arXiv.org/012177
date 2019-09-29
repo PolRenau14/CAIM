@@ -1,0 +1,16 @@
+Local Differential Privacy (LDP) is popularly used in practice for privacy-preserving data collection.
+Although existing LDP protocols offer high data utility for large user populations (100,000 or
+more users), they perform poorly in scenarios with small user populations (such as those in the cybersecurity
+domain) and lack perturbation mechanisms that are effective for both ordinal and non-ordinal item
+sequences while protecting sequence length and content simultaneously. In this paper, we address
+the small user population problem by introducing the concept of Condensed Local Differential Privacy
+(CLDP) as a specialization of LDP, and develop a suite of CLDP protocols that offer desirable statistical
+utility while preserving privacy. Our protocols support different types of client data, ranging
+from ordinal data types in finite metric spaces (numeric malware infection statistics), to non-ordinal
+items (OS versions, transaction categories), and to sequences of ordinal and non-ordinal items.
+Extensive experiments are conducted on multiple datasets, including datasets that are an order
+of magnitude smaller than those used in existing approaches, which show that proposed CLDP protocols
+yield higher utility compared to existing LDP protocols. Furthermore, case studies with Symantec
+datasets demonstrate that our protocols outperform existing protocols in key cybersecurity-focused
+tasks of detecting ransomware outbreaks, identifying targeted and vulnerable OSs, and inspecting
+suspicious activities on infected machines. 

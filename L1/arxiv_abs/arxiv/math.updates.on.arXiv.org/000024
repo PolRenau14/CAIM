@@ -1,0 +1,16 @@
+We develop a several variables analog of the Jordan blocks of the Hardy space. In this consideration,
+we obtain a complete characterization of the doubly commuting quotient modules of the Hardy module
+H^2(\mathbb{D}^n). We prove that a quotient module \clq of H^2(\mathbb{D}^n) (n \geq 2) is doubly
+commuting if and only if \[\clq = \clq_{\Theta_1} \otimes \cdots \otimes \clq_{\Theta_n},\]where
+each $\clq_{\Theta_i}$ is either a one variable Jordan block $H^2(\mathbb{D})/\Theta_i H^2(\mathbb{D})$
+for some inner function $\Theta_i$ or the Hardy module $H^2(\mathbb{D})$ on the unit disk. We say
+that a submodule S of $H^2(\mathbb{D}^n)$ is a co-doubly commuting if the quotient module $H^2(\mathbb{D}^n)/S$
+is doubly commuting. We obtain a Beurling like theorem for the class of co-doubly commuting submodules
+of $H^2(\mathbb{D}^n)$. We prove that a submodule $\cls$ of $H^2(\mathbb{D}^n)$ is co-doubly
+commuting if and only if S = \mathop{\sum}_{i=1}^m \Theta_i H^2(\mathbb{D}^n),for some integer
+$m \leq n$ and one variable inner functions $\{\Theta_i\}_{i=1}^m$. Moreover, we obtain an explicit
+representation of the Beurling-Lax-Halmos inner functions of those submodules $\cls$ of $H^2_{H^2(\mathbb{D}^{n-1})}(\mathbb{D})$
+for which $\cls$ is co-doubly commuting when realized as a subspace of $H^2(\mathbb{D}^n)$. We
+also obtain a complete characterization of essentially normal co-doubly commuting submodules
+of $H^2(\mathbb{D}^n)$. Finally, we obtain a rigidity theorem for co-doubly commuting submodules
+of the Hardy module $H^2(\mathbb{D}^n)$. 

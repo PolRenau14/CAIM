@@ -1,0 +1,16 @@
+A generalized Newtonian potential is derived from the geodesic motion of test particles in Schwarzschild
+spacetime. This potential reproduces several relativistic features with higher accuracy than
+other commonly used pseudo-Newtonian approaches. The new potential reproduces the exact location
+of the marginally stable, marginally bound, and photon circular orbits, as well as the exact radial
+dependence of the binding energy and the angular momentum of these orbits. Moreover, it reproduces
+the orbital and epicyclic angular frequencies to better than 6%. In addition, the spatial projection
+of general trajectories coincide with their relativistic counterparts, while the time evolution
+of parabolic-like trajectories and the pericentre advance of elliptical-like trajectories are
+both reproduced exactly. We apply this approach to a standard thin accretion disc and find that the
+efficiency of energy extraction agrees within 3% with the exact relativistic value, while the energy
+flux per unit area as a function of radius is reproduced everywhere to better than 7%. As a further
+astrophysical application we implement the new approach into a smoothed particle hydrodynamics
+code and study the tidal disruption of a main sequence star by a supermassive black hole. The obtained
+results are in very good agreement with previous relativistic simulations of tidal disruptions
+in Schwarzschild spacetime. The equations of motion derived from this potential can be easily implemented
+into existing Newtonian hydrodynamics codes at virtually zero additional computational effort.

@@ -1,0 +1,17 @@
+We present an analysis of the transient electronic and transport properties of a nanojunction in
+the presence of electron-electron and electron-phonon interactions. We introduce a novel numerical
+approach which allows for an efficient evaluation of the non-equilibrium Green functions in the
+time domain. Within this approach we implement different self-consistent diagrammatic approximations
+in order to analyze the system evolution after a sudden connection to the leads and its convergence
+to the steady state. In the electron-electron interaction case we show how the inclusion of correlation
+effects beyond a mean-field approximation relaxes the appearance of magnetic steady state solutions.
+In the zero-bias case we analyze the Kondo resonance formation time, finding good agreement with
+NRG results for the steady state spectral density. In the voltage biased case the obtained transient
+and steady state currents exhibit good agreement with available Quantum Monte Carlo results. In
+the electron-phonon case we find that a proper description of the phonon dynamics is essential to
+get accurate results. We implement self-consistent diagrammatic approaches for this case, showing
+that correlation effects tend to remove the possible appearance of bistability. As in the electron-electron
+interaction case the long time spectral density and the transient currents exhibit good agreement
+with numerically exact calculations for moderate electron-phonon coupling strenghts. Finally
+we analyze the situation where both interactions are present comparing the results with available
+NRG calculations. 

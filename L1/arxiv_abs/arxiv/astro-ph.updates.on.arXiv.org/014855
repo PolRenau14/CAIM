@@ -1,0 +1,16 @@
+The time delay between the arrival of photons of multiple images of time variable sources can be used
+to constrain absolute distances in the Universe (Refsdal 1964), and in turn obtain a direct estimate
+of the Hubble constant and other cosmological parameters. To convert the time delay into distances,
+it is well known that the gravitational potential of the main deflector and the contribution of the
+matter along the line-of-sight need to be known to a sufficient level of precision. In this paper,
+we discuss a new astrometric requirement that is becoming important as time-delay cosmography
+improves in precision and accuracy with larger samples, and better data and modelling techniques.
+We derive an analytic expression for the propagation of astrometric uncertainties on the multiple
+image positions into the inference of the Hubble constant and derive requirements depending on
+image separation and relative time delay. We note that this requirement applies equally to the image
+position measurements and to the accuracy of the model in reproducing them. To illustrate the requirement,
+we discuss some example lensing configurations and highlight that, especially for time delays
+of order 10 days or shorter, the relative astrometric requirement is of order milli-arcseconds,
+setting a tight requirement on both measurements and models. With current optical infrared technology,
+astrometric uncertainties may be the dominant limitation for strong lensing cosmography in the
+small image-separation regime when high-precision time-delays become accessible. 

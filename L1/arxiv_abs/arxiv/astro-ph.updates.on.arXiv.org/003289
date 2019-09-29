@@ -1,0 +1,16 @@
+Canonization of F(R) theory of gravity to explore Noether symmetry is performed treating R - 6(\frac{\ddot
+a}{a} + \frac{\dot a^2}{a^2} + \frac{k}{a^2}) = 0 as a constraint of the theory in Robertson-Walker
+space-time, which implies that R is taken as an auxiliary variable. Although it yields correct field
+equations, Noether symmetry does not allow linear term in the action, and as such does not produce
+a viable cosmological model. Here, we show that this technique of exploring Noether symmetry does
+not allow even a non-linear form of F(R), if the configuration space is enlarged by including a scalar
+field in addition, or taking anisotropic models into account. Surprisingly enough, it does not
+reproduce the symmetry that already exists in the literature (A. K. Sanyal, B. Modak, C. Rubano and
+E. Piedipalumbo, Gen.Relativ.Grav.37, 407 (2005), arXiv:astro-ph/0310610 ) for scalar tensor
+theory of gravity in the presence of R^2 term. Thus, R can not be treated as an auxiliary variable and
+hence Noether symmetry of arbitrary form of F(R) theory of gravity remains obscure. However, there
+exists in general, a conserved current for F(R) theory of gravity in the presence of a non-minimally
+coupled scalar-tensor theory (A. K. Sanyal, Phys.Lett.B624, 81 (2005), arXiv:hep-th/0504021
+and Mod.Phys.Lett.A25, 2667 (2010), arXiv:0910.2385 [astro-ph.CO]). Here, we briefly expatiate
+the non-Noether conserved current and cite an example to reveal its importance in finding cosmological
+solution for such an action, taking F(R) \propto R^{3/2}. 

@@ -1,0 +1,17 @@
+We develop a model for the strahl population in the solar wind -- a narrow, low-density and high-energy
+electron beam centered on the magnetic field direction. Our model is based on the solution of the
+electron drift-kinetic equation at heliospheric distances where the plasma density, temperature,
+and the magnetic field strength decline as power-laws of the distance along a magnetic flux tube.
+Our solution for the strahl depends on a number of parameters that, in the absence of the analytic
+solution for the full electron velocity distribution function (eVDF), cannot be derived from the
+theory. We however demonstrate that these parameters can be efficiently found from matching our
+solution with observations of the eVDF made by the Wind satellite's SWE strahl detector. The model
+is successful at predicting the angular width (FWHM) of the strahl for the Wind data at 1 AU, in particular
+by predicting how this width scales with particle energy and background density. We find the strahl
+distribution is largely determined by the local temperature Knudsen number $\gamma \sim |T dT/dx|/n$,
+which parametrizes solar wind collisionality. We compute averaged strahl distributions for typical
+Knudsen numbers observed in the solar wind, and fit our model to these data. The model can be matched
+quite closely to the eVDFs at 1 AU, however, it then overestimates the strahl amplitude at larger
+heliocentric distances. This indicates that our model may be improved through the inclusion of
+additional physics, possibly through the introduction of "anomalous diffusion" of the strahl
+electrons. 

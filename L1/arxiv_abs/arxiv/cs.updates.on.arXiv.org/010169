@@ -1,0 +1,17 @@
+Modern microprocessors are equipped with Single Instruction Multiple Data (SIMD) or vector instructions
+which expose data level parallelism at a fine granularity. Programmers exploit this parallelism
+by using low-level vector intrinsics in their code. However, once programs are written using vector
+intrinsics of a specific instruction set, the code becomes non-portable. Modern compilers are
+unable to analyze and retarget the code to newer vector instruction sets. Hence, programmers have
+to manually rewrite the same code using vector intrinsics of a newer generation to exploit higher
+data widths and capabilities of new instruction sets. This process is tedious, error-prone and
+requires maintaining multiple code bases. We propose Revec, a compiler optimization pass which
+revectorizes already vectorized code, by retargeting it to use vector instructions of newer generations.
+The transformation is transparent, happening at the compiler intermediate representation level,
+and enables performance portability of hand-vectorized code. Revec can achieve performance improvements
+in real-world performance critical kernels. In particular, Revec achieves geometric mean speedups
+of 1.160$\times$ and 1.430$\times$ on fast integer unpacking kernels, and speedups of 1.145$\times$
+and 1.195$\times$ on hand-vectorized x265 media codec kernels when retargeting their SSE-series
+implementations to use AVX2 and AVX-512 vector instructions respectively. We also extensively
+test Revec's impact on 216 intrinsic-rich implementations of image processing and stencil kernels
+relative to hand-retargeting. 

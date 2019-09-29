@@ -1,0 +1,17 @@
+Late bloomers are massive ($M_* > 10^{10}\,M_\odot$) galaxies that formed the majority of their
+stars within $\sim$2 Gyr of the epoch of observation. Our improved methodology for deriving star
+formation histories (SFHs) of galaxies at redshifts $0.45 < z < 0.75$ from the Carnegie-Spitzer-IMACS
+Survey includes confidence intervals that robustly distinguish late bloomers from "old" galaxies.
+We use simulated SFHs to test for "false positives" and contamination from old galaxies to demonstrate
+that the late bloomer population is not an artifact of our template modeling technique. We show that
+late bloomers account for $\sim$20% of $z\sim0.6$ galaxies with masses of the modern Milky Way,
+with a moderate dependence on mass. We take advantage of a 1% overlap of our sample with HST (CANDELS)
+imaging to construct a "gold standard" catalog of 74 galaxies with high-confidence SFHs, SEDs,
+basic data, and HST images to facilitate comparison with future studies by others. This small subset
+suggests that galaxies with both old and young SFHs cover the full range of morphology and environment
+(excluding rich groups or clusters), albeit with a mild but suggestive correlation with local environment.
+We begin the investigation of whether late bloomers of sufficient mass and frequency are produced
+in current-generation $\Lambda$CDM-based semi-analytic models of galaxy formation. In terms
+of halo growth, we find a late-assembling halo fraction within a factor-of-two of our late bloomer
+fraction. However, sufficiently delaying star formation in such halos may be a challenge for the
+baryon component of such models. 

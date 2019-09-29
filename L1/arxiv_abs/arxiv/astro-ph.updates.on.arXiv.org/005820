@@ -1,0 +1,16 @@
+We present the largest submillimeter images that have been made of the extragalactic sky. The Herschel
+Astrophysical Terahertz Large Area Survey (H-ATLAS) is a survey of 660 deg$^2$ with the PACS and
+SPIRE cameras in five photometric bands: 100, 160, 250, 350, and 500{\mu}m. In this paper we present
+the images from our two largest fields which account for ~75% of the survey. The first field is 180.1
+deg$^2$ in size centered on the North Galactic Pole (NGP) and the second field is 317.6 deg$^2$ in
+size centered on the South Galactic Pole. The NGP field serendipitously contains the Coma cluster.
+Over most (~80%) of the images, the pixel noise, including both instrumental noise and confusion
+noise, is approximately 3.6, and 3.5 mJy/pix at 100 and 160{\mu}m, and 11.0, 11.1 and 12.3 mJy/beam
+at 250, 350 and 500{\mu}m, respectively, but reaches lower values in some parts of the images. If
+a matched filter is applied to optimize point-source detection, our total 1{\sigma} map sensitivity
+is 5.7, 6.0, and 7.3 mJy at 250, 350, and 500{\mu}m, respectively. We describe the results of an investigation
+of the noise properties of the images. We make the most precise estimate of confusion in SPIRE maps
+to date finding values of 3.12+/-0.07, 4.13+/-0.02 and 4.45+/-0.04 mJy/beam at 250, 350, and 500{\mu}m
+in our un-convolved maps. For PACS we find an estimate of the confusion noise in our fast-parallel
+observations of 4.23 and 4.62 mJy/beam at 100 and 160{\mu}m. Finally, we give recipes for using these
+images to carry out photometry, both for unresolved and extended sources. 

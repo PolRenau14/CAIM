@@ -1,0 +1,16 @@
+Group-based sparse representation has shown great potential in image denoising. However, most
+existing methods only consider the nonlocal self-similarity (NSS) prior of noisy input image.
+That is, the similar patches are collected only from degraded input, which makes the quality of image
+denoising largely depend on the input itself. However, such methods often suffer from a common drawback
+that the denoising performance may degrade quickly with increasing noise levels. In this paper
+we propose a new prior model, called group sparsity residual constraint (GSRC). Unlike the conventional
+group-based sparse representation denoising methods, two kinds of prior, namely, the NSS priors
+of noisy and pre-filtered images, are used in GSRC. In particular, we integrate these two NSS priors
+through the mechanism of sparsity residual, and thus, the task of image denoising is converted to
+the problem of reducing the group sparsity residual. To this end, we first obtain a good estimation
+of the group sparse coefficients of the original image by pre-filtering, and then the group sparse
+coefficients of the noisy image are used to approximate this estimation. To improve the accuracy
+of the nonlocal similar patch selection, an adaptive patch search scheme is designed. Furthermore,
+to fuse these two NSS prior better, an effective iterative shrinkage algorithm is developed to solve
+the proposed GSRC model. Experimental results demonstrate that the proposed GSRC modeling outperforms
+many state-of-the-art denoising methods in terms of the objective and the perceptual metrics.

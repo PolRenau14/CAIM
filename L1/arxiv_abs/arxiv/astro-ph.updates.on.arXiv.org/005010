@@ -1,0 +1,16 @@
+We present a Bayesian hierarchical inference formalism to study the relation between the properties
+of dark matter halos and those of their central galaxies using weak gravitational lensing. Unlike
+traditional methods, this technique does not resort to stacking the weak lensing signal in bins,
+and thus allows for a more efficient use of the information content in the data. Our method is particularly
+useful for constraining scaling relations between two or more galaxy properties and dark matter
+halo mass, and can also be used to constrain the intrinsic scatter in these scaling relations. We
+show that, if observational scatter is not properly accounted for, the traditional stacking method
+can produce biased results when exploring correlations between multiple galaxy properties and
+halo mass. For example, this bias can affect studies of the joint correlation between galaxy mass,
+halo mass, and galaxy size, or galaxy color. In contrast, our method easily and efficiently handles
+the intrinsic and observational scatter in multiple galaxy properties and halo mass. We test our
+method on mocks with varying degrees of complexity. We find that we can recover the mean halo mass
+and concentration, each with a $0.1$ dex accuracy, and the intrinsic scatter in halo mass with a $0.05$
+dex accuracy. In its current version, our method will be most useful for studying the weak lensing
+signal around central galaxies in groups and clusters, as well as massive galaxies samples with
+$\log{M_*} > 11$, which have low satellite fractions. 

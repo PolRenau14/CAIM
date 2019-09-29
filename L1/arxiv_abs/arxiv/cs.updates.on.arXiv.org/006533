@@ -1,0 +1,17 @@
+Neural Machine Translation (NMT) has been widely adopted over recent years due to its advantages
+on various translation tasks. However, NMT systems can be error-prone due to the intractability
+of natural languages and the design of neural networks, bringing issues to their translations.
+These issues could potentially lead to information loss, wrong semantics, and low readability
+in translations, compromising the usefulness of NMT and leading to potential non-trivial consequences.
+Although there are existing approaches, such as using the BLEU score, on quality assessment and
+issue detection for NMT, such approaches face two serious limitations. First, such solutions require
+oracle translations, i.e., reference translations, which are often unavailable, e.g., in production
+environments. Second, such approaches cannot pinpoint the issue types and locations within translations.
+To address such limitations, we propose a new approach aiming to precisely detect issues in translations
+without requiring oracle translations. Our approach focuses on two most prominent issues in NMT
+translations by including two detection algorithms. Our experimental results show that our new
+approach could achieve high effectiveness on real-world datasets. Our successful experience
+on deploying the proposed algorithms in both the development and production environments of WeChat,
+a messenger app with over one billion of monthly active users, helps eliminate numerous defects
+of our NMT model, monitor the effectiveness on real-world translation tasks, and collect in-house
+test cases, producing high industry impact. 

@@ -1,0 +1,16 @@
+Reaction networks are often used to model interacting species in fields such as biochemistry and
+ecology. When the counts of the species are sufficiently large, the dynamics of their concentrations
+are typically modeled via a system of differential equations. However, when the counts of some species
+are small, the dynamics of the counts are typically modeled stochastically via a discrete state,
+continuous time Markov chain. A key quantity of interest for such models is the probability mass
+function of the process at some fixed time. Since paths of such models are relatively straightforward
+to simulate, we can estimate the probabilities by constructing an empirical distribution. However,
+the support of the distribution is often diffuse across a high-dimensional state space, where the
+dimension is equal to the number of species. Therefore generating an accurate empirical distribution
+can come with a large computational cost. We present a new Monte Carlo estimator that fundamentally
+improves on the "classical" Monte Carlo estimator described above. It also preserves much of classical
+Monte Carlo's simplicity. The idea is basically one of conditional Monte Carlo. Our conditional
+Monte Carlo estimator has two parameters, and their choice critically affects the performance
+of the algorithm. Hence, a key contribution of the present work is that we demonstrate how to approximate
+optimal values for these parameters in an efficient manner. Moreover, we provide a central limit
+theorem for our estimator, which leads to approximate confidence intervals for its error. 

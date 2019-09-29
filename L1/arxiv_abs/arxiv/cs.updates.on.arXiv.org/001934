@@ -1,0 +1,17 @@
+In this work we study the behavior of a full-duplex (FD) and amplify-and-forward (AF) relay with
+multiple antennas, where hardware impairments of the FD relay transceiver is taken into account.
+Due to the inter-dependency of the transmit relay power on each antenna and the residual self-interference
+in an FD-AF relay, we observe a distortion loop that degrades the system performance when the relay
+dynamic range is not high. In this regard, we analyze the relay function in presence of the hardware
+inaccuracies and an optimization problem is formulated to maximize the signal to distortion-plus-noise
+ratio (SDNR), under relay and source transmit power constraints. Due to the problem complexity,
+we propose a gradient-projection-based (GP) algorithm to obtain an optimal solution. Moreover,
+a nonalternating sub-optimal solution is proposed by assuming a rank-1 relay amplification matrix,
+and separating the design of the relay process into multiple stages (MuStR1). The proposed MuStR1
+method is then enhanced by introducing an alternating update over the optimization variables,
+denoted as AltMuStR1 algorithm. It is observed that compared to GP, (Alt)MuStR1 algorithms significantly
+reduce the required computational complexity at the expense of a slight performance degradation.
+Finally, the proposed methods are evaluated under various system conditions, and compared with
+the methods available in the current literature. In particular, it is observed that as the hardware
+impairments increase, or for a system with a high transmit power, the impact of applying a distortion-aware
+design is significant. 

@@ -1,0 +1,16 @@
+In the kSUM problem we are given an array of numbers $a_1,a_2,...,a_n$ and we are required to determine
+if there are $k$ different elements in this array such that their sum is 0. This problem is a parameterized
+version of the well-studied SUBSET-SUM problem, and a special case is the 3SUM problem that is extensively
+used for proving conditional hardness. Several works investigated the interplay between time
+and space in the context of SUBSET-SUM. Recently, improved time-space tradeoffs were proven for
+kSUM using both randomized and deterministic algorithms. In this paper we obtain an improvement
+over the best known results for the time-space tradeoff for kSUM. A major ingredient in achieving
+these results is a general self-reduction from kSUM to mSUM where $m<k$, and several useful observations
+that enable this reduction and its implications. The main results we prove in this paper include
+the following: (i) The best known Las Vegas solution to kSUM running in approximately $O(n^{k-\delta\sqrt{2k}})$
+time and using $O(n^{\delta})$ space, for $0 \leq \delta \leq 1$. (ii) The best known deterministic
+solution to kSUM running in approximately $O(n^{k-\delta\sqrt{k}})$ time and using $O(n^{\delta})$
+space, for $0 \leq \delta \leq 1$. (iii) A space-time tradeoff for solving kSUM using $O(n^{\delta})$
+space, for $\delta>1$. (iv) An algorithm for 6SUM running in $O(n^4)$ time using just $O(n^{2/3})$
+space. (v) A solution to 3SUM on random input using $O(n^2)$ time and $O(n^{1/3})$ space, under the
+assumption of a random read-only access to random bits. 

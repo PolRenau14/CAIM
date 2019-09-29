@@ -1,0 +1,16 @@
+L dwarfs exhibit low-level, rotationally-modulated photometric variability generally associated
+with heterogeneous, cloud-covered atmospheres. The spectral character of these variations yields
+insight into the particle sizes and vertical structure of the clouds. Here we present the results
+of a high precision, ground-based, near-infrared, spectral monitoring study of two mid-type L
+dwarfs that have variability reported in the literature, 2MASS J08354256-0819237 and 2MASS J18212815+1414010,
+using the SpeX instrument on the Infrared Telescope Facility. By simultaneously observing a nearby
+reference star, we achieve <0.15% per-band sensitivity in relative brightness changes across
+the 0.9--2.4um bandwidth. We find that 2MASS J0835-0819 exhibits marginal (< ~0.5% per band) variability
+with no clear spectral dependence, while 2MASS J1821+1414 varies by up to +/-1.5% at 0.9 um, with
+the variability amplitude declining toward longer wavelengths. The latter result extends the
+variability trend observed in prior HST/WFC3 spectral monitoring of 2MASS J1821+1414, and we show
+that the full 0.9-2.4 um variability amplitude spectrum can be reproduced by Mie extinction from
+dust particles with a log-normal particle size distribution with a median radius of 0.24 um. We do
+not detect statistically significant phase variations with wavelength. The different variability
+behavior of 2MASS J0835-0819 and 2MASS J1821+1414 suggests dependencies on viewing angle and/or
+overall cloud content, underlying factors that can be examined through a broader survey. 

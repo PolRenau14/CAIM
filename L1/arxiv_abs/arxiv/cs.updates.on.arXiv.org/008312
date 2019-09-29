@@ -1,0 +1,17 @@
+Computationally efficient matrix multiplication is a fundamental requirement in various fields,
+including and particularly in data analytics. To do so, the computation task of a large-scale matrix
+multiplication is typically outsourced to multiple servers. However, due to data misusage at the
+servers, security is typically of concern. In this paper, we study the two-sided secure matrix multiplication
+problem, where a user is interested in the matrix product $\boldsymbol{AB}$ of two finite field
+private matrices $\boldsymbol{A}$ and $\boldsymbol{B}$ from an information-theoretic perspective.
+In this problem, the user exploits the computational resources of $N$ servers to compute the matrix
+product, but simultaneously tries to conceal the private matrices from the servers. Our goal is
+twofold: (i) to maximize the communication rate, and, (ii) to minimize the effective number of server
+observations needed to determine $\boldsymbol{AB}$, while preserving security, where we allow
+for up to $\ell\leq N$ servers to collude. To this end, we propose a general aligned secret sharing
+scheme for which we optimize the matrix partition of matrices $\boldsymbol{A}$ and $\boldsymbol{B}$
+in order to either optimize objective (i) or (ii) as a function of the system parameters (e.g., $N$
+and $\ell$). A proposed inductive approach gives us analytical, close-to-optimal solutions for
+both (i) and (ii). With respect to (i), our scheme significantly outperforms the existing scheme
+of Chang and Tandon in terms of (a) communication rate, (b) maximum tolerable number of colluding
+servers and (c) computational complexity. 

@@ -1,0 +1,17 @@
+This paper highlights the significance of the rotor dynamics in control design for small-scale
+aerobatic helicopters, and proposes two singularity free robust attitude tracking controllers
+based on the available states for feedback. 1. The first, employs the angular velocity and the flap
+angle states (a variable that is not easy to measure) and uses a backstepping technique to design
+a robust compensator (BRC) to \textbf{\textit{actively}} suppress the disturbance induced tracking
+error. 2. The second exploits the inherent damping present in the helicopter dynamics leading to
+a structure preserving, \textbf{\textit{passively}} robust controller (SPR), which is free
+of angular velocity and flap angle feedback. The BRC controller is designed to be robust in the presence
+of two types of uncertainties: structured and unstructured. The structured disturbance is due
+to uncertainty in the rotor parameters, and the unstructured perturbation is modeled as an exogenous
+torque acting on the fuselage. The performance of the controller is demonstrated in the presence
+of both types of disturbances through numerical simulations. In contrast, the SPR tracking controller
+is derived such that the tracking error dynamics inherits the natural damping characteristic of
+the helicopter. The SPR controller is shown to be almost globally asymptotically stable and its
+performance is evaluated experimentally by performing aggressive flip maneuvers. Throughout
+the study, a nonlinear coupled rotor-fuselage helicopter model with first order flap dynamics
+is used. 

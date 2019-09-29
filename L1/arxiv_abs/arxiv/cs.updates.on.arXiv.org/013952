@@ -1,0 +1,16 @@
+The web has become a ubiquitous application development platform for mobile systems. Yet, energy-efficient
+mobile web browsing remains an outstanding challenge. Prior work in the field mainly focuses on
+the initial page loading stage but fails to exploit the opportunities for energy-efficiency optimization
+while the user is interacting with a loaded page. This paper presents a novel approach for performing
+energy optimization for interactive mobile web browsing. At the heart of our approach is a set of
+machine learning models, which estimate at runtime the frames per second for a given user interaction
+input by running the computation-intensive web render engine on a specific processor core under
+a given clock speed. We use the learned predictive models as a utility function to quickly search
+for the optimal processor setting to carefully trade responsive time for reduced energy consumption.
+We integrate our techniques to the open-source Chromium browser and apply it to two representative
+mobile user events: scrolling and pinching (i.e., zoom in and out). We evaluate the developed system
+on the landing pages of the top-100 hottest websites and two big.LITTLE heterogeneous mobile platforms.
+Our extensive experiments show that the proposed approach reduces system-wide energy consumption
+by over 36% on average and up to 70%. This translates to an over 17% improvement on energy-efficiency
+over a state-of-the-art event-based web browser scheduler, but with significantly fewer violations
+on the quality of service. 

@@ -1,0 +1,16 @@
+A graphic sequence $\pi$ is potentially $H$-graphic if there is some realization of $\pi$ that contains
+$H$ as a subgraph. The Erd\H{o}s-Jacobson-Lehel problem asks to determine $\sigma(H,n)$, the
+minimum even integer such that any $n$-term graphic sequence $\pi$ with sum at least $\sigma(H,n)$
+is potentially $H$-graphic. The parameter $\sigma(H,n)$ is known as the potential function of
+$H$, and can be viewed as a degree sequence variant of the classical extremal function ${\rm ex}(n,H)$.
+Recently, Ferrara, LeSaulnier, Moffatt and Wenger [On the sum necessary to ensure that a degree
+sequence is potentially $H$-graphic, Combinatorica 36 (2016), 687--702] determined $\sigma(H,n)$
+asymptotically for all $H$, which is analogous to the Erd\H{o}s-Stone-Simonovits Theorem that
+determines ${\rm ex}(n,H)$ asymptotically for nonbipartite $H$. In this paper, we investigate
+a stability concept for the potential number, inspired by Simonovits' classical result on the stability
+of the extremal function. We first define a notion of stability for the potential number that is a
+natural analogue to the stability given by Simonovits. However, under this definition, many families
+of graphs are not $\sigma$-stable, establishing a stark contrast between the extremal and potential
+functions. We then give a sufficient condition for a graph $H$ to be stable with respect to the potential
+function, and characterize the stability of those graphs $H$ that contain an induced subgraph of
+order $\alpha(H)+1$ with exactly one edge. 

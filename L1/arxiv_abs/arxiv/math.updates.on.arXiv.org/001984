@@ -1,0 +1,17 @@
+We study the transmission over a network in which users send information to a remote destination
+through relay nodes that are connected to the destination via finite-capacity error-free links,
+i.e., a cloud radio access network. The relays are constrained to operate without knowledge of the
+users' codebooks, i.e., they perform oblivious processing. The destination, or central processor,
+however, is informed about the users' codebooks. We establish a single-letter characterization
+of the capacity region of this model for a class of discrete memoryless channels in which the outputs
+at the relay nodes are independent given the users' inputs. We show that both relaying \`a-la Cover-El
+Gamal, i.e., compress-and-forward with joint decompression and decoding, and "noisy network
+coding", are optimal. The proof of the converse part establishes, and utilizes, connections with
+the Chief Executive Officer (CEO) source coding problem under logarithmic loss distortion measure.
+Extensions to general discrete memoryless channels are also investigated. In this case, we establish
+inner and outer bounds on the capacity region. For memoryless Gaussian channels within the studied
+class of channels, we characterize the capacity region when the users are constrained to time-share
+among Gaussian codebooks. We also discuss the suboptimality of separate decompression-decoding
+and the role of time-sharing. Furthermore, we study the related distributed information bottleneck
+problem and characterize optimal tradeoffs between rates (i.e., complexity) and information
+(i.e., accuracy) in the vector Gaussian case. 

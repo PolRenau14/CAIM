@@ -1,0 +1,16 @@
+This paper studies lower bounds for fundamental optimization problems in the CONGEST model. We
+show that solving problems exactly in this model can be a hard task, by providing $\tilde{\Omega}(n^2)$
+lower bounds for cornerstone problems, such as minimum dominating set (MDS), Hamiltonian path,
+Steiner tree and max-cut. These are almost tight, since all of these problems can be solved optimally
+in $O(n^2)$ rounds. Moreover, we show that even in bounded-degree graphs and even in simple graphs
+with maximum degree 5 and logarithmic diameter, it holds that various tasks, such as finding a maximum
+independent set (MaxIS) or a minimum vertex cover, are still difficult, requiring a near-tight
+number of $\tilde{\Omega}(n)$ rounds. Furthermore, we show that in some cases even approximations
+are difficult, by providing an $\tilde{\Omega}(n^2)$ lower bound for a $(7/8+\epsilon)$-approximation
+for MaxIS, and a nearly-linear lower bound for an $O(\log{n})$-approximation for the $k$-MDS problem
+for any constant $k \geq 2$, as well as for several variants of the Steiner tree problem. Our lower
+bounds are based on a rich variety of constructions that leverage novel observations, and reductions
+among problems that are specialized for the CONGEST model. However, for several additional approximation
+problems, as well as for exact computation of some central problems in $P$, such as maximum matching
+and max flow, we show that such constructions cannot be designed, by which we exemplify some limitations
+of this framework. 

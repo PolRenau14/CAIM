@@ -1,0 +1,16 @@
+The treatment of atomic anions with Kohn-Sham density functional theory (DFT) has long been controversial
+since the highest occupied molecular orbital (HOMO) energy, $E_{HOMO}$, is often calculated to
+be positive with most approximate density functionals. We assess the accuracy of orbital energies
+and electron affinities for all three rows of elements in the periodic table (H-Ar) using a variety
+of theoretical approaches and customized basis sets. Among all of the theoretical methods studied
+here, we find that a non-empirically tuned range-separated approach (constructed to satisfy DFT-Koopmans'
+theorem for the anionic electron system) provides the best accuracy for a variety of basis sets -
+even for small basis sets where most functionals typically fail. Previous approaches to solve this
+conundrum of positive $E_{HOMO}$ values have utilized non-self-consistent methods; however
+electronic properties, such as electronic couplings/gradients (which require a self-consistent
+potential and energy), become ill-defined with these approaches. In contrast, the non-empirically
+tuned range-separated procedure used here yields well-defined electronic couplings/gradients
+and correct $E_{HOMO}$ values since both the potential and resulting electronic energy are computed
+self-consistently. Orbital energies and electron affinities are further analyzed in the context
+of the electronic energy as a function of electronic number (including fractional numbers of electrons)
+to provide a stringent assessment of self-interaction errors for these complex anion systems.

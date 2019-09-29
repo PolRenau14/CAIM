@@ -1,0 +1,16 @@
+Digital radio arrays are widely used for the low-frequency radio astronomy as well as for detection
+of air-showers induced by high-energy cosmic rays and neutrinos. Since the radio emission from
+air-showers forms short broadband pulses with duration of tens nanoseconds, the data acquisition
+strategies of cosmic-ray and astronomical arrays have significant differences. To perform precise
+measurement of cosmic rays, the radio array should have absolute amplitude calibration and record
+the entire electric field on the antenna in the broad frequency range. These requirements are similar
+to ones defined for the experiments aimed at the detection of weak signal from neutral hydrogen at
+redshifts of $z$>10, what led us to the application of our experience with Tunka-Rex to this problem.
+We are developing new experimental setup comprising of four antenna stations, placed on the area
+of 100 sq.m. Each antenna station consists of two perpendicular loop antennas measuring electric
+field in the frequency band of 30-80 MHz. The setup records electric fields from all antennas in portions
+of 50 $\mu$s reaching the spectral resolution of 20 kHz. We expect a flow of redundant data of about
+10 GB/day, and plan to exploit this redundancy in order to decrease systematic uncertainty of the
+measurements by application of digital beam-forming, matched filtering and RFI suppression with
+neural networks. In the present contribution we describe the design and calibration of the setup,
+expected performance and data analysis techniques. 

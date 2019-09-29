@@ -1,0 +1,16 @@
+In the brain, the membrane potential of many neurons oscillates in a subthreshold damped fashion
+and fire when excited by an input frequency that nearly equals their eigen frequency. In this work,
+we investigate theoretically the artificial implementation of such "resonate-and-fire" neurons
+by utilizing the magnetization dynamics of a fixed magnetic skyrmion in the free layer of a magnetic
+tunnel junction (MTJ). To realize firing of this nanomagnetic implementation of an artificial
+neuron, we propose to employ voltage control of magnetic anisotropy or voltage generated strain
+as an input (spike or sinusoidal) signal, which modulates the perpendicular magnetic anisotropy
+(PMA). This results in continual expansion and shrinking (i.e. breathing) of a skyrmion core that
+mimics the subthreshold oscillation. Any subsequent input pulse having an interval close to the
+breathing period or a sinusoidal input close to the eigen frequency drives the magnetization dynamics
+of the fixed skyrmion in a resonant manner. The time varying electrical resistance of the MTJ layer
+due to this resonant oscillation of the skyrmion core is used to drive a Complementary Metal Oxide
+Semiconductor (CMOS) buffer circuit, which produces spike outputs. By rigorous micromagnetic
+simulation, we investigate the interspike timing dependence and response to different excitatory
+and inhibitory incoming input pulses. Finally, we show that such resonate and fire neurons have
+potential application in coupled nanomagnetic oscillator based associative memory arrays. 

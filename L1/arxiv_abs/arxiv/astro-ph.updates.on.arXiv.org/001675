@@ -1,0 +1,16 @@
+Population III stars are the first stars in the Universe to form at z=20-30 out of a pure hydrogen and
+helium gas in minihalos of 10^5-10^6 M$_\odot$ . Cooling and fragmentation is thus regulated via
+molecular hydrogen. At densities above 10^8 cm$^{-3}$, the three-body H2 formation rates are particularly
+important for making the gas fully molecular. These rates were considered to be uncertain by at least
+a few orders of magnitude. We explore the impact of new accurate three-body H2 formation rates derived
+by Forrey (2013) for three different minihalos, and compare to the results obtained with three-body
+rates employed in previous studies. The calculations are performed with the cosmological hydrodynamics
+code ENZO (release 2.2) coupled with the chemistry package KROME (including a network for primordial
+chemistry), which was previously shown to be accurate in high resolution simulations. While the
+new rates can shift the point where the gas becomes fully molecular, leading to a different thermal
+evolution, there is no trivial trend in how this occurs. While one might naively expect the results
+to be inbetween the calculations based on Palla et al. (1983) and Abel et al. (2002), the behavior
+can be close to the former or the latter depending on the dark matter halo that is explored. We conclude
+that employing the correct three-body rates is about as equally important as the use of appropriate
+initial conditions, and that the resulting thermal evolution needs to be calculated for every halo
+individually. 

@@ -1,0 +1,17 @@
+A massive number of devices are expected to fulfill the missions of sensing, processing and control
+in cyber-physical Internet-of-Things (IoT) systems with new applications and connectivity requirements.
+In this context, scarce spectrum resources must accommodate a high traffic volume with stringent
+requirements of low latency, high reliability and energy efficiency. Conventional centralized
+network architectures may not be able to fulfill these requirements due to congestion in backhaul
+links. This article presents a novel design of a robust dynamic edge network architecture (RDNA)
+for IoT which leverages the latest advances of mobile devices (e.g., their capability to act as access
+points, storing and computing capabilities) to dynamically harvest unused resources and mitigate
+network congestion. However, traffic dynamics may compromise the availability of terminal access
+points and channels and, thus, network connectivity. The proposed design embraces solutions at
+physical, access, networking, application, and business layers to improve network robustness.
+The high density of mobile devices provides alternatives for close connectivity which reduces
+interference and latency, and thus, increases reliability and energy efficiency. Moreover, the
+computing capabilities of mobile devices project smartness onto the edge which is desirable for
+autonomous and intelligent decision making. A case study is included to illustrate the performance
+of RDNA. Potential applications of this architecture in the context of IoT are outlined. Finally,
+some challenges for future research are presented. 

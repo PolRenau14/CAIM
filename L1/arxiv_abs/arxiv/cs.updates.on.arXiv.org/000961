@@ -1,0 +1,16 @@
+The distributed computing infrastructure (DCI) on the basis of BOINC and EDGeS-bridge technologies
+for high-performance distributed computing is used for porting the sequential molecular dynamics
+(MD) application to its parallel version for DCI with Desktop Grids (DGs) and Service Grids (SGs).
+The actual metrics of the working DG-SG DCI were measured, and the normal distribution of host performances,
+and signs of log-normal distributions of other characteristics (CPUs, RAM, and HDD per host) were
+found. The practical feasibility and high efficiency of the MD simulations on the basis of DG-SG
+DCI were demonstrated during the experiment with the massive MD simulations for the large quantity
+of aluminum nanocrystals ($\sim10^2$-$10^3$). Statistical analysis (Kolmogorov-Smirnov test,
+moment analysis, and bootstrapping analysis) of the defect density distribution over the ensemble
+of nanocrystals had shown that change of plastic deformation mode is followed by the qualitative
+change of defect density distribution type over ensemble of nanocrystals. Some limitations (fluctuating
+performance, unpredictable availability of resources, etc.) of the typical DG-SG DCI were outlined,
+and some advantages (high efficiency, high speedup, and low cost) were demonstrated. Deploying
+on DG DCI allows to get new scientific $\it{quality}$ from the simulated $\it{quantity}$ of numerous
+configurations by harnessing sufficient computational power to undertake MD simulations in a
+wider range of physical parameters (configurations) in a much shorter timeframe. 

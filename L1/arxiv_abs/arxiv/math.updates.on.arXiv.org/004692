@@ -1,0 +1,16 @@
+Mobile-edge computing (MEC) is an emerging technology for enhancing the computational capabilities
+of mobile devices and reducing their energy consumption via offloading complex computation tasks
+to the nearby servers. Multiuser MEC at servers is widely realized via parallel computing based
+on virtualization. Due to finite shared I/O resources, interference between virtual machines
+(VMs), called I/O interference, degrades the computation performance. In this paper, we study
+the problem of joint radio-and-computation resource allocation (RCRA) in multiuser MEC systems
+in the presence of I/O interference. Specifically, offloading scheduling algorithms are designed
+targeting two system performance metrics: sum offloading throughput maximization and sum mobile
+energy consumption minimization. Their designs are formulated as non-convex mixed-integer programming
+problems, which account for latency due to offloading, result downloading and parallel computing.
+A set of low-complexity algorithms are designed based on a decomposition approach and leveraging
+classic techniques from combinatorial optimization. The resultant algorithms jointly schedule
+offloading users, control their offloading sizes, and divide time for communication (offloading
+and downloading) and computation. They are either optimal or can achieve close-to-optimality
+as shown by simulation. Comprehensive simulation results demonstrate considering of I/O interference
+can endow on an offloading controller robustness against the performance-degradation factor.

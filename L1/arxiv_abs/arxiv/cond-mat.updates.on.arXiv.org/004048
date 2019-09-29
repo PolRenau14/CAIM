@@ -1,0 +1,17 @@
+We present a nonlocal statistical field theory of a diluted solution of dipolar particles which
+are capable of forming chain-like clusters in accordance with the 'head-to-tail' mechanism. As
+in our previous study [Yu.A. Budkov 2018 J. Phys.: Condens. Matter 30 344001], we model dipolar particles
+as dimers comprised of oppositely charged point-like groups, separated by fluctuating distance.
+For the special case of the Yukawa-type distribution function of distance between the charged groups
+of dipolar particles we obtain an analytical expression for the electrostatic free energy of solution
+within the random phase approximation. We show that an increase in the association constant leads
+to a decrease in the absolute value of the electrostatic free energy of solution, preventing its
+phase separation which is in agreement with the former computer simulations and theoretical results.
+We obtain a non-linear integro-differential equation for the self-consistent field potential
+created by the fixed external charges in a solution medium, taking into account the association
+of dipolar particles. As a consequence of the derived self-consistent field equation, in regime
+of weak electrostatic interactions, we obtain an analytical expression for the electrostatic
+potential of the point-like test ion, surrounded by the chain-like clusters of the dipolar particles.
+We show that in the mean-field approximation the association does not change the bulk dielectric
+permittivity of the solution, but increases the solvation radius of the point-like charge, relative
+to the theory of non-associating dipolar particles. 

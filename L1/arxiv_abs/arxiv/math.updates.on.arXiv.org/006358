@@ -1,0 +1,16 @@
+Generically, the singular complex analytic vector fields $X$ on the Riemann sphere $\widehat{\mathbb{C}}_{z}$
+belonging to the family $$ \mathscr{E}(r,d)=\Big\{ X(z)=\frac{1}{P(z)}\ \text{e}^{E(z)}\frac{\partial}{\partial
+z} \ \big\vert \ P, E\in\mathbb{C}[z], \ deg(P)=r, \ deg(E)=d \Big\}, $$ have an essential singularity
+of finite 1-order at infinity and a finite number of poles on the complex plane. We describe $X$, particularly
+the singularity at $\infty\in\widehat{\mathbb{C}}_{z}$. In order to do so, we use the natural
+$correspondence$ between $X\in\mathscr{E}(r,d)$, a global singular analytic distinguished
+parameter $\Psi_X=\int \omega_X$, and the Riemann surface $\mathcal{R}_X$ of the distinguished
+parameter. We introduce $(r,d)$-$configuration\ trees$ $\Lambda_X$: combinatorial objects
+that completely encode the Riemann surfaces $\mathcal{R}_X$ and singular flat metrics associated
+to $X\in\mathscr{E}(r,d)$. This provides an alternate `dynamical' coordinate system and an analytic
+classification of $\mathscr{E}(r,d)$. Furthermore, the phase portrait of $\mathscr{Re}(X)$
+on $\mathbb{C}$ is decomposed into $\mathscr{Re}(X)$-invariant regions: half planes and finite
+height strip flows. The germ of $X$ at $\infty \in \widehat{\mathbb{C}}$ is described as an admissible
+word (equivalent to certain canonical angular sectors). The structural stability of the phase
+portrait of $\mathscr{Re}(X)$ is characterized by using $\Lambda_X$ and the number of topologically
+equivalent phase portraits of $\mathscr{Re}(X)$ is bounded. 

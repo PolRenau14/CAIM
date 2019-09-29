@@ -1,0 +1,16 @@
+In two previous papers [arXiv:1508.03269, arXiv:1701.05419] we described the techniques we employed
+for reconstructing the whole move sequence of a Go game. That task was at first accomplished by means
+of a series of photographs, manually shot, as explained during the scientific conference held within
+the LIX European Go Congress (Liberec, CZ). The photographs were subsequently replaced by a possibly
+unattended video live stream (provided by webcams, videocameras, smartphones and so on) or, were
+the live stream not available, by means of a pre-recorded video of the game itself, on condition that
+the goban and the stones were clearly visible more often than not. As we hinted in the latter paper,
+in the last two years we have improved both the algorithms employed for reconstructing the grid and
+detecting the stones, making extensive usage of the multicore capabilities offered by modern CPUs.
+Those capabilities prompted us to develop some asynchronous routines, capable of double-checking
+the position of the grid and the number and colour of any stone previously detected, in order to get
+rid of minor errors possibly occurred during the main analysis, and that may pass undetected especially
+in the course of an unattended live streaming. Those routines will be described in details, as they
+address some problems that are of general interest when reconstructing the move sequence, for example
+what to do when large movements of the whole goban occur (deliberate or not) and how to deal with captures
+of dead stones $-$ that could be wrongly detected and recorded as "fresh" moves if not promptly removed.

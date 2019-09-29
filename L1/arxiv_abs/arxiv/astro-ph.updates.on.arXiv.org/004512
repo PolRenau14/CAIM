@@ -1,0 +1,16 @@
+We present SkyFACT (Sky Factorization with Adaptive Constrained Templates), a new approach for
+studying, modeling and decomposing diffuse gamma-ray emission. Like most previous analyses,
+the approach relies on predictions from cosmic-ray propagation codes like GALPROP and DRAGON.
+However, in contrast to previous approaches, we account for the fact that models are not perfect
+and allow for a very large number ($\gtrsim10^5$) of nuisance parameters to parameterize these
+imperfections. We combine methods of image reconstruction and adaptive spatio-spectral template
+regression in one coherent hybrid approach. To this end, we use penalized Poisson likelihood regression,
+with regularization functions that are motivated by the maximum entropy method. We introduce methods
+to efficiently handle the high dimensionality of the convex optimization problem as well as the
+associated semi-sparse covariance matrix, using the L-BFGS-B algorithm and Cholesky factorization.
+We test the method both on synthetic data as well as on gamma-ray emission from the inner Galaxy, $|\ell|<90^\circ$
+and $|b|<20^\circ$, as observed by the Fermi Large Area Telescope. We finally define a simple reference
+model that removes most of the residual emission from the inner Galaxy, based on conventional diffuse
+emission components as well as components for the Fermi bubbles, the Fermi Galactic center excess,
+and extended sources along the Galactic disk. Variants of this reference model can serve as basis
+for future studies of diffuse emission in and outside the Galactic disk. 

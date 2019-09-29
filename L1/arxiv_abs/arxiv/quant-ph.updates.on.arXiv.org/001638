@@ -1,0 +1,16 @@
+Many applications of quantum simulation require to prepare and then characterize quantum states
+by performing an efficient partial tomography to estimate observables corresponding to $k$-body
+reduced density matrices ($k$-RDMs). For instance, variational algorithms for the quantum simulation
+of chemistry usually require that one measure the fermionic 2-RDM. While such marginals provide
+a tractable description of quantum states from which many important properties can be computed,
+their determination often requires a prohibitively large number of circuit repetitions. Here
+we describe a method by which all elements of $k$-body qubit RDMs acting on $N$ qubits can be sampled
+with a number of circuits scaling as ${\cal O}(3^{k} \log^{k-1}\! N)$, an exponential improvement
+in $N$ over prior art. Next, we show that if one is able to implement a linear depth circuit on a linear
+array prior to measurement, then one can sample all elements of the fermionic 2-RDM using only ${\cal
+O}(N^2)$ circuits. We prove that this result is asymptotically optimal, thus establishing an exponential
+separation between the number of circuits required to sample all elements of qubit versus fermion
+RDMs. We further demonstrate a technique to estimate the expectation value of any linear combination
+of fermionic 2-RDM elements using ${\cal O}(N^4 / \omega)$ circuits, each with only ${\cal O}(\omega)$
+gates on a linear array where $\omega \leq N$ is a free parameter. We expect these results will improve
+the viability of many proposals for near-term quantum simulation. 

@@ -1,0 +1,16 @@
+We derive a model for Sunyaev--Zel'dovich data from a galaxy cluster which uses an Einasto profile
+to model the cluster's dark matter component. This model is similar to the physical models for clusters
+previously used by the Arcminute Microkelvin Imager (AMI) consortium, which model the dark matter
+using a Navarro-Frenk-White (NFW) profile, but the Einasto profile provides an extra degree of
+freedom. We thus present a comparison between two physical models which differ only in the way they
+model dark matter: one which uses an NFW profile (PM I) and one that uses an Einasto profile (PM II).
+We illustrate the differences between the models by plotting physical properties of clusters as
+a function of cluster radius. We generate AMI simulations of clusters which are \textit{created}
+and \textit{analysed} with both models. From this we find that for 14 of the 16 simulations, the Bayesian
+evidence gives no preference to either of the models according to the Jeffreys scale, and for the
+other two simulations, weak preference in favour of the correct model. However, for the mass estimates
+obtained from the analyses, the values were within $1\sigma$ of the input values for 14 out of 16 of
+the clusters when using the correct model, but only in 6 out of 16 cases when the incorrect model was
+used to analyse the data. Finally we apply the models to real data from cluster A611 obtained with
+AMI, and find the mass estimates to be consistent with one another except in the case of when PM II is
+applied using an extreme value for the Einasto shape parameter. 

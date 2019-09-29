@@ -1,0 +1,16 @@
+We discovered 2.8 s pulsations in the X-ray emission of the ultraluminous X-ray source (ULX) M51
+ULX-7 within the UNSEeN project, which was designed to hunt for new pulsating ULXs (PULXs) with XMM-Newton.
+The pulse shape is sinusoidal and large variations of its amplitude were observed even within single
+exposures (pulsed fraction from less than 5% to 20%). M51 ULX-7 is a variable source, generally observed
+at an X-ray luminosity between $10^{39}$ and $10^{40}$ erg s$^{-1}$, located in the outskirts of
+the spiral galaxy M51a at a distance of 8.6 Mpc. According to our analysis, the X-ray pulsar orbits
+in a 2-d binary with a projected semi-major axis $a_\mathrm{X} \sin i \simeq$ 28 lt-s. For a neutron
+star (NS) of 1.4 $M_{\odot}$, this implies a lower limit on the companion mass of 8 $M_{\odot}$, placing
+the system hosting M51 ULX-7 in the high-mass X-ray binary class. The barycentric pulse period decreased
+by $\simeq$0.4 ms in the 31 d spanned by our May -- June 2018 observations, corresponding to a spin-up
+rate $\dot{P} \simeq -1.5\times10^{-10}\text{s s}^{-1}$. In an archival 2005 XMM-Newton exposure,
+we measured a spin period of $\sim$3.3 s, indicating a secular spin-up of $\dot{P}_{\mathrm{sec}}\simeq
+-10^{-9}\text{ s s}^{-1}$, a value in the range of other known PULXs. Our findings suggest that the
+system consists of an OB giant and a moderately magnetic (dipole field component in the range $10^{12}$
+G $\lesssim B_{\mathrm{dip}}\lesssim 10^{13}$G) accreting NS with weakly beamed emission ($1/12\lesssim
+b\lesssim1/4$). 

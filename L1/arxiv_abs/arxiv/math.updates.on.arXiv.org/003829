@@ -1,0 +1,16 @@
+Consider a germ $C$ of reduced curve on a smooth germ $S$ of complex analytic surface. Assume that
+$C$ contains a smooth branch $L$. Using the Newton-Puiseux series of $C$ relative to any coordinate
+system $(x,y)$ on $S$ such that $L$ is the $y$-axis, one may define the {\em Eggers-Wall tree} $\Theta_L(C)$
+of $C$ relative to $L$. Its ends are labeled by the branches of $C$ and it is endowed with three natural
+functions measuring the characteristic exponents of the previous Newton-Puiseux series, their
+denominators and contact orders. The main objective of this paper is to embed canonically $\Theta_L(C)$
+into Favre and Jonsson's valuative tree $\mathbb{P}(\mathcal{V})$ of real-valued semivaluations
+of $S$ up to scalar multiplication, and to show that this embedding identifies the three natural
+functions on $\Theta_L(C)$ as pullbacks of other naturally defined functions on $\mathbb{P}(\mathcal{V})$.
+As a consequence, we prove an inversion theorem generalizing the well-known Abhyankar-Zariski
+inversion theorem concerning one branch: if $L'$ is a second smooth branch of $C$, then the valuative
+embeddings of the Eggers-Wall trees $\Theta_{L'}(C)$ and $\Theta_L(C)$ identify them canonically,
+their associated triples of functions being easily expressible in terms of each other. We prove
+also that the space $\mathbb{P}(\mathcal{V})$ is the projective limit of Eggers-Wall trees over
+all choices of curves $C$. As a supplementary result, we explain how to pass from $\Theta_L(C)$ to
+an associated splice diagram. 

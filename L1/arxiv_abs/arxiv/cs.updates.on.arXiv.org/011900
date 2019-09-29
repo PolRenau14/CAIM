@@ -1,0 +1,16 @@
+Electronic circuits can be separated into two groups, digital and analog circuits. Analog circuits
+operate on analog quantities that are continuous in value, whereas digital circuits operate on
+digital quantities that are discrete in value and limited in precision. In practice, most digital
+systems contain combinational circuits along with memory; these systems are known as sequential
+circuits. Sequential circuits are of two types: synchronous and asynchronous. In a synchronous
+sequential circuit, a clock signal is used at discrete instants of time to synchronize desired operations.
+Asynchronous sequential circuits do not require synchronizing clock pulses; however, the completion
+of an operation signals the start of the next operation in sequence. The basic logic design steps
+are generally identical for sequential and combinational circuits; these are specification,
+formulation, optimization, and the implementation of the optimized equations using a suitable
+hardware technology. The differences between sequential and combinational design steps appear
+in the details of each step. The minimization (optimization) techniques used in logic design range
+from simple (manual) to complex (automated). An example of manual optimization methods is the Karnough
+map (K-map). Indeed, hardware implementation technology has been growing faster than the ability
+of designers to produce hardware designs. Hence, there has been a growing interest in developing
+techniques and tools that facilitate the process of logic design. 

@@ -1,0 +1,17 @@
+We consider two optimization problems in planar graphs. In Maximum Weight Independent Set of Objects
+we are given a graph $G$ and a family $\mathcal{D}$ of objects, each being a connected subgraph of
+$G$ with a prescribed weight, and the task is to find a maximum-weight subfamily of $\mathcal{D}$
+consisting of pairwise disjoint objects. In Minimum Weight Distance Set Cover we are given an edge-weighted
+graph $G$, two sets $\mathcal{D},\mathcal{C}$ of vertices of $G$, where vertices of $\mathcal{D}$
+have prescribed weights, and a nonnegative radius $r$. The task is to find a minimum-weight subset
+of $\mathcal{D}$ such that every vertex of $\mathcal{C}$ is at distance at most $r$ from some selected
+vertex. Via simple reductions, these two problems generalize a number of geometric optimization
+tasks, notably Maximum Weight Independent Set for polygons in the plane and Weighted Geometric
+Set Cover for unit disks and unit squares. We present quasi-polynomial time approximation schemes
+(QPTASs) for both of the above problems in planar graphs: given an accuracy parameter $\epsilon>0$
+we can compute a solution whose weight is within multiplicative factor of $(1+\epsilon)$ from the
+optimum in time $2^{\mathrm{poly}(1/\epsilon,\log |\mathcal{D}|)}\cdot n^{\mathcal{O}(1)}$,
+where $n$ is the number of vertices of the input graph. Our main technical contribution is to transfer
+the techniques used for recursive approximation schemes for geometric problems due to Adamaszek,
+Har-Peled, and Wiese to the setting of planar graphs. In particular, this yields a purely combinatorial
+viewpoint on these methods. 

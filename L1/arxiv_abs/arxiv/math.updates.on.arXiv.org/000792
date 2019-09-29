@@ -1,0 +1,16 @@
+We examine the semicrossed products of a semigroup action by $*$-endomorphisms on a C*-algebra,
+or more generally of an action on an arbitrary operator algebra by completely contractive endomorphisms.
+The choice of allowable representations affects the corresponding universal algebra. We seek
+quite general conditions which will allow us to show that the C*-envelope of the semicrossed product
+is (a full corner of) a crossed product of an auxiliary C*-algebra by a group action. Our analysis
+concerns a case-by-case dilation theory on covariant pairs. In the process we determine the C*-envelope
+for various semicrossed products of (possibly nonselfadjoint) operator algebras by spanning
+cones and lattice-ordered abelian semigroups. In particular, we show that the C*-envelope of the
+semicrossed product of C*-dynamical systems by doubly commuting representations of $\mathbb{Z}^n_+$
+(by generally non-injective endomorphisms) is the full corner of a C*-crossed product. In consequence
+we connect the ideal structure of C*-covers to properties of the actions. In particular, when the
+system is classical, we show that the C*-envelope is simple if and only if the action is injective
+and minimal. The dilation methods that we use may be applied to non-abelian semigroups. We identify
+the C*-envelope for actions of the free semigroup $\mathbb{F}_+^n$ by automorphisms in a concrete
+way, and for injective systems in a more abstract manner. We also deal with C*-dynamical systems
+over Ore semigroups when the appropriate covariance relation is considered. 

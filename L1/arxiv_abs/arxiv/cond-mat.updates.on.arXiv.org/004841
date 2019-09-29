@@ -1,0 +1,16 @@
+Superposition states of circular currents of exciton-polaritons mimic the superconducting flux
+qubits. The current states are formed by a macroscopic number of bosonic quasiparticles that compose
+a single quantum state of a many-body condensate. The essential difference between a polariton
+fluid and a superconducting current comes from the fact that in contrast to Cooper pairs polaritons
+are electrically neutral, and the magnetic field would not have a significant effect on a polariton
+flow. Nevertheless, the phase of a polariton condensate must change by an integer number of 2$\pi$,
+when going around the ring. If one introduces a $\pi$-phase delay line in the ring, the system is obliged
+to propagate a clockwise or anticlockwise circular current to reduce the total phase gained over
+one round-trip to zero or to build it up to $2\pi$. We show that such a $\pi$-delay line can be provided
+by a dark soliton embedded into a ring condensate and pinned to a potential well created by a C-shape
+non-resonant pump-spot. The physics of resulting split-ring polariton condensates is essentially
+similar to the physics of flux qubits. In particular, they exhibit pronounced coherent oscillations
+passing periodically through clockwise and anticlockwise current states. We predict that these
+oscillations may persist far beyond the coherence time of polariton condensates. As a consequence,
+the qubits based on split-ring polariton condensates are expected to possess very high figures
+of merit that makes them a valuable alternative to superconducting qubits. 

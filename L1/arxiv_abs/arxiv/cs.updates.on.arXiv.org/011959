@@ -1,0 +1,16 @@
+This work presents a new network optimization framework for cellular networks using neighborhood-based
+optimization. Under this optimization framework resources are allocated within virtual cells
+encompassing several base-stations and the users within their coverage areas. We form the virtual
+cells using hierarchical clustering with a minimax linkage criterion given a particular number
+of such cells. Once the virtual cells are formed, we consider an interference coordination model
+in which base-stations in a virtual cell jointly allocate the channels and power to users within
+the virtual cell. We propose two new schemes for solving this mixed integer NP-hard resource allocation
+problem. The first scheme transforms the problem into a continuous variables problem; the second
+scheme proposes a new channel allocation method and then alternately solves the channel allocation
+problem using this new method, and the power allocation problem. We evaluate the average system
+sum rate of these schemes for a variable number of virtual cells. These results quantify the sum-rate
+along a continuum of fully-centralized versus fully-distributed optimization for different
+clustering and resource allocation strategies. These results indicate that the penalty of fully-distributed
+optimization versus fully-centralized (cloud RAN) can be as high as 50%. However, if designed properly,
+a few base stations within a virtual cell using neighborhood-based optimization have almost the
+same performance as fully-centralized optimization. 

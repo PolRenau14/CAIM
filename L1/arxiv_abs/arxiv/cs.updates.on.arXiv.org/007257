@@ -1,0 +1,16 @@
+Pipelined Krylov subspace methods avoid communication latency by reducing the number of global
+synchronization bottlenecks and by hiding global communication behind useful computational
+work. In exact arithmetic pipelined Krylov subspace algorithms are equivalent to classic Krylov
+subspace methods and generate identical series of iterates. However, as a consequence of the reformulation
+of the algorithm to improve parallelism, pipelined methods may suffer from severely reduced attainable
+accuracy in a practical finite precision setting. This work presents a numerical stability analysis
+that describes and quantifies the impact of local rounding error propagation on the maximal attainable
+accuracy of the multi-term recurrences in the preconditioned pipelined BiCGStab method. Theoretical
+expressions for the gaps between the true and computed residual as well as other auxiliary variables
+used in the algorithm are derived, and the elementary dependencies between the gaps on the various
+recursively computed vector variables are analyzed. The norms of the corresponding propagation
+matrices and vectors provide insights in the possible amplification of local rounding errors throughout
+the algorithm. Stability of the pipelined BiCGStab method is compared numerically to that of pipelined
+CG on a symmetric benchmark problem. Furthermore, numerical evidence supporting the effectiveness
+of employing a residual replacement type strategy to improve the maximal attainable accuracy for
+the pipelined BiCGStab method is provided. 

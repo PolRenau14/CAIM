@@ -1,0 +1,16 @@
+Secondary CMB polarization is induced by the late-time scattering of CMB photons by free electrons
+on our past light cone. This polarized Sunyaev Zel'dovich (pSZ) effect is sensitive to the electrons'
+locally observed CMB quadrupole, which is sourced primarily by long wavelength inhomogeneities.
+By combining the remote quadrupoles measured by free electrons throughout the Universe after reionization,
+the pSZ effect allows us to obtain additional information about large scale modes beyond what can
+be learned from our own last scattering surface. Here we determine the power of pSZ tomography, in
+which the pSZ effect is cross-correlated with the density field binned at several redshifts, to
+provide information about the long wavelength Universe. The signal we explore here is a power asymmetry
+in the cross-correlation between $E$ or $B$ mode CMB polarization and the density field. We compare
+this to the cosmic variance limited noise: the random chance to get a power asymmetry in the absence
+of a large scale quadrupole field. By computing the necessary transfer functions and cross-correlations,
+we compute the signal-to-noise ratio attainable by idealized next generation CMB experiments
+and galaxy surveys. We find that a signal-to-noise ratio of $\sim 1-10$ is in principle attainable
+over a significant range of power multipoles, with the strongest signal coming from the first multipoles
+in the lowest redshift bins. These results prompt further assessment of realistically measuring
+the pSZ signal and the potential impact for constraining cosmology on large scales. 

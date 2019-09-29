@@ -1,0 +1,17 @@
+Mitigating Supply-Demand mismatch is critical for smooth power grid operation. Traditionally,
+load curtailment techniques such as Demand Response (DR) have been used for this purpose. However,
+these cannot be the only component of a net-load balancing framework for Smart Grids with high PV
+penetration. These grids can sometimes exhibit supply surplus causing over-voltages. Supply
+curtailment techniques such as Volt-Var Optimizations are complex and computationally expensive.
+This increases the complexity of net-load balancing systems used by the grid operator and limits
+their scalability. Recently new technologies have been developed that enable the rapid and selective
+connection of PV modules of an installation to the grid. Taking advantage of these advancements,
+we develop a unified optimal net-load balancing framework which performs both load and solar curtailment.
+We show that when the available curtailment values are discrete, this problem is NP-hard and develop
+bounded approximation algorithms for minimizing the curtailment cost. Our algorithms produce
+fast solutions, given the tight timing constraints required for grid operation. We also incorporate
+the notion of fairness to ensure that curtailment is evenly distributed among all the nodes. Finally,
+we develop an online algorithm which performs net-load balancing using only data available for
+the current interval. Using both theoretical analysis and practical evaluations, we show that
+our net-load balancing algorithms provide solutions which are close to optimal in a small amount
+of time. 

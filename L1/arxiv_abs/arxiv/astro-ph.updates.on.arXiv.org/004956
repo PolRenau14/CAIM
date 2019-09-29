@@ -1,0 +1,16 @@
+In symmetric gravitating systems experiencing rapid mass loss, particle orbits change almost
+instantaneously, which can lead to the development of a sharply contoured density profile, including
+singular caustics for collisionless systems. This framework can be used to model a variety of dynamical
+systems, such as accretion disks following a massive black hole merger and dwarf galaxies following
+violent early star formation feedback. Particle interactions in the high-density peaks seem a
+promising source of observable signatures of these mass loss events (i.e. a possible EM counterpart
+for black hole mergers or strong gamma-ray emission from dark matter annihilation around young
+galaxies), because the interaction rate depends on the square of the density. We study post-mass-loss
+density profiles, both analytic and numerical, in idealised cases and present arguments and methods
+to extend to any general system. An analytic derivation is presented for particles on Keplerian
+orbits responding to a drop in the central mass. We argue that this case, with initially circular
+orbits, gives the most sharply contoured profile possible. We find that despite the presence of
+a set of singular caustics, the total particle interaction rate is reduced compared to the unperturbed
+system; this is a result of the overall expansion of the system dominating over the steep caustics.
+Finally we argue that this result holds more generally, and the loss of central mass decreases the
+particle interaction rate in any physical system. 

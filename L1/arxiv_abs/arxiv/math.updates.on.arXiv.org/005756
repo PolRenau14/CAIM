@@ -1,0 +1,16 @@
+The vibration of a solid elastic cylinder is one of the classical applied problems of elastodynamics.
+Many fundamental forced-vibration problems involving solid elastic cylinders have not yet been
+studied or solved using the full three-dimensional (3D) theory of linear elasticity. One such problem
+is the steady-state forced-vibration response of a simply-supported isotropic solid elastic
+circular cylinder subjected to two-dimensional harmonic standing-wave excitations on its curved
+surface. In this paper, we exploit certain previously-obtained particular solutions to the Navier-Lam\'{e}
+equation of motion and exact matrix algebra to construct an exact closed-form 3D elastodynamic
+solution to the problem. The method of solution is direct and demonstrates a general approach that
+can be applied to solve other similar forced-vibration problems involving elastic cylinders.
+Two complete analytical solutions are in fact constructed corresponding to two different but closely-related
+families of harmonic standing-wave excitations. The second of these analytical solutions is evaluated
+numerically in order to study the steady-state frequency response in some example excitation cases.
+In each case, the solution generates a series of resonances that are in correspondence with a subset
+of the natural frequencies of the simply-supported cylinder. The considered problem is of general
+interest both as an exactly-solvable 3D elastodynamics problem and as a benchmark forced-vibration
+problem involving a solid elastic cylinder. 

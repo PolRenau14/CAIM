@@ -1,0 +1,16 @@
+The high spatial resolution and precise astrometry and photometry of the Gaia mission should make
+it particularly apt at discovering and resolving transients occurring in, or near, the centres
+of galaxies. Indeed, some nuclear transients are reported by the Gaia Science Alerts (GSA) team,
+but not a single confirmed Tidal Disruption Event has been published. In order to explore the sensitivity
+of GSA, we performed an independent and systematic search for nuclear transients using Gaia observations.
+Our transient search is driven from an input galaxy catalogue (derived from the Sloan Digital Sky
+Survey Release 12). We present a candidate detection metric which is independent from the existing
+GSA methodology, to see if Gaia Alerts are biased against the discovery of nuclear transients, and
+in particular which steps may have an impact. Our technique does require significant manual vetting
+of candidates, making implementation in the GSA system impractical for daily operations, although
+it could be run weekly, which for month-to-year long transients would make a scientifically valuable
+addition. Our search yielded ~480 nuclear transients, 5 of which were alerted and published by GSA.
+The list of (in some cases ongoing) transients includes candidates for events related to enhanced
+accretion onto a super-massive black hole and TDEs. An implementation of the detection methodology
+and criteria used in this paper as an extension of GSA could open up the possibility for Gaia to fulfil
+the role as a main tool to find transient nuclear activity as predicted in the literature. 

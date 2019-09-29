@@ -1,0 +1,17 @@
+We study the gamma-ray emission patterns and light curves in dissipative pulsar magnetospheres.
+We produce the gamma-ray light curves by using the geometric method and the particle trajectory
+method. For the geometric method, assuming the gamma-ray emission originates in a finite-width
+layer along the last closed lines, we generate the gamma-ray light curves based on the uniform emissivity
+along the magnetic field lines in the comoving frame (CF). For the particle trajectory method, we
+consider the spatial distribution of conductivity $\sigma$ by assuming a very high conductivity
+within the light cylinder and a finite conductivity outside the light cylinder (LC). Assuming that
+all the $\gamma$-ray emission originates in the outer magnetosphere outside the LC, we generate
+the gamma-ray light curves by computing realistic particle trajectories and Lorentz factors,
+taking into account both the accelerating electric field and curvature radiation loss. Further,
+we compare the modeling light curves to the observed light curves at $>0.1\, \rm GeV$ energies for
+Vela pulsar. Our results show that the magnetosphere with the low $\sigma$ value is more preferred
+for the geometric method. However, the magnetosphere with a near force-free regime within the LC
+and a high $\sigma$ value outside the LC is more favored for the particle trajectory method. It is
+noted that the particle trajectory method uses the parallel electric fields that are self-consistent
+with the magnetic fields of the magnetosphere. We suggest that the results from the particle trajectory
+method are more supported on the physical ground. 

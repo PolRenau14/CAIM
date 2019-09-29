@@ -1,0 +1,16 @@
+The Bertrand theorem concluded that; the Kepler potential, and the isotropic harmonic oscillator
+potential are the only systems under which all the orbits are closed. It was never stressed enough
+in the physical or mathematical literature that this is only true when the potentials are independent
+of the initial conditions of motion, which, as we know, determine the values of the constants of motion
+$E$ and $L$. In other words, the Bertrand theorem is correct only when $V\equiv V(r)\neq V(r,E,L)$.
+It has been derived in this work an alternative orbit equation, which is a substitution to the Newton's
+orbit equation. Through this equation, it was proved that there are infinitely many energy angular
+momentum dependent potentials $V(r,E,L)$ that lead to closed orbits. The study was done by generalizing
+the well known substitution $r=1/u$ in Newton's orbit equation to the substitution $r=1/s(u,E,L)$
+in the equation of motion. This have led to a new orbit equation that was called the alternative orbit
+equation. From this equation the results from Bertrand theorem can be derived. The equation was
+used to study different orbits with different periodicity like second order linear differential
+equation periodicity orbits and Weierstrasse periodicity orbits, where interestingly it has
+been shown that the energy must be discrete so that the orbits can be closed. By this approach countless
+of solvable system can be found with closed orbits. Further application was discussed, like applications
+in Bohr-Sommerfeld quantization, and in stellar kinematics. 

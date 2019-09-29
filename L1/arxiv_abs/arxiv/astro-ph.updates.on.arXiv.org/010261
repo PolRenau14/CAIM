@@ -1,0 +1,16 @@
+Order of magnitude variability has been observed in the blazar sub-class of Active Galactic Nuclei
+on minute timescales. Such fast high energy flares are often difficult to explain with conventional
+shock acceleration models due to the small size of the emitting region inferred by the light crossing
+time. Recent particle-in-cell (PIC) simulations have shown that magnetic reconnection may offer
+a viable explanation. In this paper, we present a macroscopic emission model physically motivated
+by PIC simulations, where the energy for particle acceleration originates from the reconnecting
+magnetic field. We track the radial growth and relative velocity of a reconnecting plasmoid, modelling
+particle acceleration and radiative losses, which occur via synchrotron and synchrotron self-Compton
+(SSC) emission. We assume the reconnection layer consists of merging plasmoids, which grow as they
+merge. We use our model to successfully fit to the 2016 TeV flare of BL Lacertae, demonstrating that
+reconnection is able to produce TeV flares on the observed timescales. We find that the flaring light
+curve depends on the merge timescale and the magnetisation of the emitting plasma. However, the
+SEDs produced by our model are all synchrotron-dominated, and observable reconnection plasmoids
+have radii comparable to the jet radius. We conclude that while reconnection powered SSC flares
+can produce flares on the correct timescale, the primary source of emission cannot be SSC and the
+size of plasmoids required may be implausibly large. 

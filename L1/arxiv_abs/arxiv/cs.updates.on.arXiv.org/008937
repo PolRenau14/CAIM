@@ -1,0 +1,17 @@
+This paper proposes a new computational method for solving structured least squares problems that
+arise in the process of identification of coherent structures in fluid flows. It is deployed in combination
+with dynamic mode decomposition (DMD) which provides a non-orthogonal set of modes --- corresponding
+to particular temporal frequencies --- a subset of which is used to represent time snapshots of the
+underlying dynamics. The coefficients of the representation are determined from a solution of
+a structured linear least squares problem with the matrix that involves the Khatri--Rao product
+of a triangular and a Vandermonde matrix. Such a structure allows a very efficient normal equation
+based least squares solution, which is used in state of the art CFD tools such as the sparsity promoting
+DMD (DMDSP). A new numerical analysis of the normal equations approach provides insights about
+its applicability and its limitations. Relevant condition numbers that determine numerical robustness
+are identified and discussed. Further, the paper offers a corrected semi-normal solution and QR
+factorization based algorithms. It is shown how to use the Vandermonde--Khatri--Rao structure
+to efficiently compute the QR factorization of the least squares coefficient matrix, thus providing
+a new computational tool for the ill-conditioned cases where the normal equations may fail to compute
+a sufficiently accurate solution. Altogether, the presented material provides a firm numerical
+linear algebra framework for a class of structured least squares problems arising in a variety of
+applications. 

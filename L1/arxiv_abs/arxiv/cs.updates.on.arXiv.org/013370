@@ -1,0 +1,16 @@
+The famous Watts-Strogatz (WS) small-world network model does not approach the Erd\H{o}s-R\'enyi
+(ER) random graph model in the limit of total randomization which can lead to confusion and complicates
+certain analyses. In this paper we discuss a simple alternative which was first introduced by Song
+and Wang, where instead of rewiring, edges are drawn between pairs of nodes with a distance-based
+connection probability. We show that this model is simpler to analyze, approaches the true ER random
+graph model in the completely randomized limit, and demonstrate that the WS model and the alternative
+model may yield different quantitative results using the example of a random walk temporal observable.
+An efficient sampling algorithm for the alternative model is proposed. Analytic results regarding
+the degree distribution, degree variance, number of two-stars per node, number of triangles per
+node, clustering coefficient, and random walk mixing time are presented. Subsequently, the small-world
+effect is illustrated by showing that the clustering coefficient decreases much slower than an
+upper bound on the message delivery time with increasing long-range connection probability which
+generalizes the small-world effect from informed searches to random search strategies. Due to
+its accessibility for analytic evaluations, we propose that this modified model should be used
+as an alternative reference model for studying the influence of small-world topologies on dynamic
+systems as well as a simple model to introduce numerous topics when teaching network science. 

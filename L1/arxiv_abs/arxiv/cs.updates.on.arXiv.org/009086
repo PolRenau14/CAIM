@@ -1,0 +1,16 @@
+We give an algebraic characterization of the syntax and operational semantics of a class of simply-typed
+languages, such as the language PCF: we characterize simply-typed syntax with variable binding
+and equipped with reduction rules via a universal property, namely as the initial object of some
+category of models. For this purpose, we employ techniques developed in two previous works: in the
+first work we model syntactic translations between languages over different sets of types as initial
+morphisms in a category of models. In the second work we characterize untyped syntax with reduction
+rules as initial object in a category of models. In the present work, we combine the techniques used
+earlier in order to characterize simply-typed syntax with reduction rules as initial object in
+a category. The universal property yields an operator which allows to specify translations---that
+are semantically faithful by construction---between languages over possibly different sets
+of types. As an example, we upgrade a translation from PCF to the untyped lambda calculus, given in
+previous work, to account for reduction in the source and target. Specifically, we specify a reduction
+semantics in the source and target language through suitable rules. By equipping the untyped lambda
+calculus with the structure of a model of PCF, initiality yields a translation from PCF to the lambda
+calculus, that is faithful with respect to the reduction semantics specified by the rules. This
+paper is an extended version of an article published in the proceedings of WoLLIC 2012. 

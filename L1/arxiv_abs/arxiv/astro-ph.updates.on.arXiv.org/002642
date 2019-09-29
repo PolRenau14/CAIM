@@ -1,0 +1,16 @@
+M-dwarfs are discussed as promising targets for detecting planet at the lower mass end of the planetary
+mass distribution. An important step in this process is to accurately estimate the stellar parameters
+of the M-dwarf host star for which the results of stellar model atmosphere simulations are used.
+We present a comparison of the ATLAS9, MARCS, PHOENIX and Drift-PHOENIX model atmosphere families
+in the M-dwarf parameter space. We examine the differences in the (T$_{\rm gas}$, p$_{\rm gas}$)-structures,
+in synthetic photometric fluxes and in colour indices. We compiled the broad-band synthetic photometric
+fluxes for all available M-dwarf model atmospheres for the UKIRT WFCAM ZYJHK, 2MASS JHKs and Johnson
+UBVRI filters, and calculated related colour indices. We find that the synthetic colours in the
+IR wavelengths diverge by no more than 0.15 dex amongst all model families. For all bands considered,
+discrepancies in colour diminish for the higher T$_{\rm eff}$-end of model atmosphere grids. We
+notice significant differences in colours between all model families and observed data, incl.
+Kepler 42 and GJ1214 as examples. We explore the impact of these uncertainties of the atmosphere
+models on the planet's equilibrium temperatures and on the location of the habitable zone. For GJ1214,
+an uncertainty of 100K in T$_{\rm eff}$ causes a change of 17K in the planet's equilibrium temperature.
+The location of the habitable zone is in good agreement between Drift-PHOENIX and MARCS, a deviation
+of 0.01 - 0.02 AU occurs for PHOENIX model atmospheres. 

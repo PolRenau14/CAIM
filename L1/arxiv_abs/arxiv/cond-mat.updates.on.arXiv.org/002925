@@ -1,0 +1,16 @@
+The out-of-time-ordered correlator (OTOC) has been proposed as an indicator of chaos in quantum
+systems due to its simple interpretation in the semiclassical limit. In particular, its rate of
+possible exponential growth at $\hbar \to 0$ is closely related to the classical Lyapunov exponent.
+Here we explore how this approach to quantum chaos relates to the random-matrix theoretical description.
+To do so, we introduce and study the level statistics of the logarithm of the out-of-time-ordered
+operator, $\hat{\Lambda}(t) = \ln \left(-\left[\hat{x}(t),\hat{p}(0) \right]^2 \right)/(2t)$,
+that we dub the "Lyapunovian" or "Lyapunov operator" for brevity. The Lyapunovian's level statistics
+is calculated explicitly for the quantum stadium billiard. It is shown that in the bulk of the filtered
+spectrum, this statistics perfectly aligns with the Wigner-Dyson distribution. One of the advantages
+of looking at the spectral statistics of this operator is that it has a well defined semiclassical
+limit where it reduces to the matrix of uncorrelated classical finite-time Lyapunov exponents
+in a partitioned phase space. We provide a heuristic picture interpolating these two limits using
+Moyal quantum mechanics. Our results show that the Lyapunov operator may serve as a useful tool to
+characterize quantum chaos and in particular quantum-to-classical correspondence in chaotic
+systems, by connecting the semiclassical Lyapunov growth at early times, when the quantum effects
+are weak, to universal level repulsion that hinges on strong quantum interference effects. 

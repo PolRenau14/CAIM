@@ -1,0 +1,16 @@
+In this paper, we investigate the physical layer security of a full-duplex base station (BS) aided
+system in the worst case, where an uplink transmitter (UT) and a downlink receiver (DR) are both equipped
+with a single antenna, while a powerful eavesdropper is equipped with multiple antennas. For securing
+the confidentiality of signals transmitted from the BS and UT, an artificial noise (AN) aided secrecy
+beamforming scheme is proposed, which is robust to the realistic imperfect state information of
+both the eavesdropping channel and the residual self-interference channel. Our objective function
+is that of maximizing the worst-case sum secrecy rate achieved by the BS and UT, through jointly optimizing
+the beamforming vector of the confidential signals and the transmit covariance matrix of the AN.
+However, the resultant optimization problem is non-convex and non-linear. In order to efficiently
+obtain the solution, we transform the non-convex problem into a sequence of convex problems by adopting
+the block coordinate descent algorithm. We invoke a linear matrix inequality for finding its Karush-Kuhn-Tucker
+(KKT) solution. In order to evaluate the achievable performance, the worst-case secrecy rate is
+derived analytically. Furthermore, we construct another secrecy transmission scheme using the
+projection matrix theory for performance comparison. Our simulation results show that the proposed
+robust secrecy transmission scheme achieves substantial secrecy performance gains, which verifies
+the efficiency of the proposed method. 

@@ -1,0 +1,17 @@
+A model for terrestrial planets, inclusive of viscous fluid behavior and featuring finite normal
+stress differences, is developed. This work offers new insights for the interpretation of planetary
+survey data. Evolution equations for poloidal and toroidal motions include gradients of density,
+viscosity, and two normal stress moduli. The poloidal field exhibits gradients in the cubic dilation,
+which couple non-isotropic pressures to the combined deformation field. In contrast, the toroidal
+field exhibits vorticity gradients with magnitudes proportional to the natural time. This holds
+even in the absence of material gradients. Consequently, viscosity gradients are not required
+to drive toroidal motions. The toroidal field is governed by an inhomogeneous diharmonic equation,
+exhibiting dynamic shear localization. The strain-energy density for this model, as a function
+of temperature, is found via thermodynamics. Assuming heat transfer with characteristic diffusivity,
+a radial model parameterized by thermomechanical competence is found. Shear dislocations, admissible
+for thermomechanical competence greater than 1/2, are found to coincide with supershear rupture
+speeds for in-plane (Mode II) cracks. This range of thermomechanical competence coincides with
+depths in the crust, upper mantle and transition zone where earthquake foci are observed. Consequently,
+all seismic sources must exhibit some supershearing component. Observed variations in Earth's
+gravity-topography admittance and correlation spectra, and earthquake moment-depth release
+are interpreted in light of this hypothetical structure. 

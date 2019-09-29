@@ -1,0 +1,16 @@
+We consider a variant of the NP-hard problem of assigning jobs to machines to minimize the completion
+time of the last job. Usually, precedence constraints are given by a partial order on the set of jobs,
+and each job requires all its predecessors to be completed before it can start. In his seminal paper,
+Graham (1966) presented a simple 2-approximation algorithm, and, more than 40 years later, Svensson
+(2010) proved that 2 is essentially the best approximation ratio one can hope for in general. In this
+paper, we consider a different type of precedence relation that has not been discussed as extensively
+and is called OR-precedence. In order for a job to start, we require that at least one of its predecessors
+is completed - in contrast to all its predecessors. Additionally, we assume that each job has a release
+date before which it must not start. We prove that Graham's algorithm has an approximation guarantee
+of 2 also in this setting, and present a polynomial-time algorithm that solves the problem to optimality,
+if preemptions are allowed. The latter result is in contrast to classical precedence constraints,
+for which Ullman (1975) showed that the preemptive variant is already NP-hard. Our algorithm generalizes
+a result of Johannes (2005) who gave a polynomial-time algorithm for unit processing time jobs subject
+to OR-precedence constraints, but without release dates. The performance guarantees presented
+here match the best-known ones for special cases where classical precedence constraints and OR-precedence
+constraints coincide. 

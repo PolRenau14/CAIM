@@ -1,0 +1,17 @@
+Bootstrap percolation is a wide class of monotone cellular automata with random initial state.
+In this work we develop tools for studying in full generality one of the three `universality' classes
+of bootstrap percolation models in two dimensions, termed subcritical. We introduce the new notion
+of `critical densities' serving the role of `difficulties' for critical models, but adapted to
+subcritical ones. We characterise the critical probability in terms of these quantities and successfully
+apply this link to prove new and old results for concrete models such as DTBP and Spiral as well as a
+general non-trivial upper bound. Our approach establishes and exploits a tight connection between
+subcritical bootstrap percolation and a suitable generalisation of classical oriented percolation,
+which will undoubtedly be the source of more results and could provide an entry point for general
+percolationists to bootstrap percolation. Furthermore, we prove that above a certain critical
+probability there is exponential decay of the probability of a one-arm event, while below it the
+event has positive probability and the expected infection time is infinite. We also identify this
+as the transition of the spectral gap and mean infection time of the corresponding kinetically constrained
+model. Finally, we essentially characterise the noise sensitivity properties at fixed density
+for the two natural one-arm events. In doing so we answer fully or partially most of the open questions
+asked by Balister, Bollob\'as, Przykucki and Smith (2016) -- namely we are concerned with their
+Questions 11, 12, 13, 14 and 17. 

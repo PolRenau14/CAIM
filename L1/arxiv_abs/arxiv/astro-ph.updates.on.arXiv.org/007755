@@ -1,0 +1,17 @@
+We examine whether various characteristics of planet-driven spiral arms can be used to constrain
+the masses of unseen planets and their positions within their disks. By carrying out two-dimensional
+hydrodynamic simulations varying planet mass and disk gas temperature, we find that a larger number
+of spiral arms form with a smaller planet mass and a lower disk temperature. A planet excites two or
+more spiral arms interior to its orbit for a range of disk temperature characterized by the disk aspect
+ratio $0.04\leq(h/r)_p\leq0.15$, whereas exterior to a planet's orbit multiple spiral arms can
+form only in cold disks with $(h/r)_p \lesssim 0.06$. Constraining the planet mass with the pitch
+angle of spiral arms requires accurate disk temperature measurements that might be challenging
+even with ALMA. However, the property that the pitch angle of planet-driven spiral arms decreases
+away from the planet can be a powerful diagnostic to determine whether the planet is located interior
+or exterior to the observed spirals. The arm-to-arm separations increase as a function of planet
+mass, consistent with previous studies; however, the exact slope depends on disk temperature as
+well as the radial location where the arm-to-arm separations are measured. We apply these diagnostics
+to the spiral arms seen in MWC 758 and Elias 2-27. As shown in Bae et al. (2017), planet-driven spiral
+arms can create concentric rings and gaps, which can produce more dominant observable signature
+than spiral arms under certain circumstances. We discuss the observability of planet-driven spiral
+arms versus rings and gaps. 

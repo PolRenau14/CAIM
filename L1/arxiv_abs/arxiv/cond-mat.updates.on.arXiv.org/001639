@@ -1,0 +1,16 @@
+It is highly desirable to combine the full spin polarization of carriers with modern semiconductor
+technology for spintronic applications. For this purpose, one needs good crystalline ferromagnetic
+(or ferrimagnetic) semiconductors with high Curie temperatures. Rutile CrO$_2$ is a half-metallic
+spintronic material with Curie temperature 394 K and can have nearly-full spin polarization at
+room temperature. Here, we find through first-principles investigation that when a biaxial compressive
+stress is applied on rutile CrO$_2$, the density of states at the Fermi level decreases with the in-plane
+compressive strain, there is a structural phase transition to an orthorhombic phase at the strain
+of -5.6\%, and then appears an electronic phase transition to a semiconductor phase at -6.1\%. Further
+analysis shows that this structural transition, accompanying the tetragonal symmetry breaking,
+is induced by the stress-driven distortion and rotation of the oxygen octahedron of Cr, and the half-metal-semiconductor
+transition originates from the enhancement of the crystal field splitting due to the structural
+change. Importantly, our systematic total-energy comparison indicates the ferromagnetic Curie
+temperature remains almost independent of the strain, near 400 K. This biaxial stress can be realized
+by applying biaxial pressure or growing the CrO$_2$ epitaxially on appropriate substrates. These
+results should be useful for realizing full (100\%) spin polarization of controllable carriers
+as one uses in modern semiconductor technology. 

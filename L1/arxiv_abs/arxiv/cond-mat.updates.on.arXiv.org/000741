@@ -1,0 +1,16 @@
+Relations of simulated annealing and quantum annealing are studied by a mapping from the transition
+matrix of classical Markovian dynamics of the Ising model to a quantum Hamiltonian and vice versa.
+It is shown that these two operators, the transition matrix and the Hamiltonian, share the eigenvalue
+spectrum. Thus, if simulated annealing with slow temperature change does not encounter a difficulty
+caused by an exponentially long relaxation time at a first-order phase transition, the same is true
+for the corresponding process of quantum annealing in the adiabatic limit. One of the important
+differences between the classical-to-quantum mapping and the converse quantum-to-classical
+mapping is that the Markovian dynamics of a short-range Ising model is mapped to a short-range quantum
+system, but the converse mapping from a short-range quantum system to a classical one results in
+long-range interactions. This leads to a difference in efficiencies that simulated annealing
+can be efficiently simulated by quantum annealing but the converse is not necessarily true. We conclude
+that quantum annealing is easier to implement and is more flexible than simulated annealing. We
+also point out that the present mapping can be extended to accommodate explicit time dependence
+of temperature, which is used to justify the quantum-mechanical analysis of simulated annealing
+by Somma, Batista, and Ortiz. Additionally, an alternative method to solve the non-equilibrium
+dynamics of the one-dimensional Ising model is provided through the classical-to-quantum mapping.

@@ -1,0 +1,17 @@
+We use deep \textit{Hubble Space Telescope} spectroscopy to constrain the metallicities and (\editone{light-weighted})
+ages of massive ($\log M_\ast/M_\odot\gtrsim10$) galaxies selected to have quiescent stellar
+populations at $1.0<z<1.8$. The data include 12--orbit depth coverage with the WFC3/G102 grism
+covering $\sim$ $8,000<\lambda<11,500$~\AA\, at a spectral resolution of $R\sim 210$ taken as
+part of the CANDELS Lyman-$\alpha$ Emission at Reionization (CLEAR) survey. At $1.0<z<1.8$, the
+spectra cover important stellar population features in the rest-frame optical. We simulate a suite
+of stellar population models at the grism resolution, fit these to the data for each galaxy, and derive
+posterior likelihood distributions for metallicity and age. We stack the posteriors for subgroups
+of galaxies in different redshift ranges that include different combinations of stellar absorption
+features. Our results give \editone{light-weighted ages of $t_{z \sim 1.1}= 3.2\pm 0.7$~Gyr,
+$t_{z \sim 1.2}= 2.2\pm 0.6$~Gyr, $t_{z\sim1.3}= 3.1\pm 0.6$~Gyr, and $t_{z\sim1.6}= 2.0 \pm
+0.6$~Gyr, \editone{for galaxies at $z\sim 1.1$, 1.2, 1.3, and 1.6. This} implies that most of the
+massive quiescent galaxies at $1<z<1.8$ had formed $>68$\% of their stellar mass by a redshift of
+$z>2$}. The posteriors give metallicities of \editone{$Z_{z\sim1.1}=1.16 \pm 0.29$~$Z_\odot$,
+$Z_{z\sim1.2}=1.05 \pm 0.34$~$Z_\odot$, $Z_{z\sim1.3}=1.00 \pm 0.31$~$Z_\odot$, and $Z_{z\sim1.6}=0.95
+\pm 0.39$~$Z_\odot$}. This is evidence that massive galaxies had enriched rapidly to approximately
+Solar metallicities as early as $z\sim3$. 

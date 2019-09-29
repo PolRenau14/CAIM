@@ -1,0 +1,17 @@
+Amorphous solids, as well as many other disordered materials, display remarkable universality
+in their low temperature acoustic properties. This universality is attributed to the attenuation
+of phonons by tunneling two-level systems (TLSs), facilitated by the interaction of the TLSs with
+the phonon field. Recently a Two-TLS model was introduced, where it was shown that inversion symmetric
+TLSs, i.e. TLSs having their two states related by local inversion symmetry, dictate phonon attenuation
+at low temperatures, and are responsible for the universal phenomena. The Two-TLS model suggests
+resolution to some long standing questions regarding the universal phenomena, such as the smallness
+and universality of the tunneling strength, and the energy scale of 3K below which universality
+is observed. A crucial part of the Two-TLS model lies in the magnitude and spatial dependence of effective
+TLS-TLS interactions involving inversion symmetric TLSs. Here we calculate numerically, using
+conjugate gradients method, the effective elastic TLS-TLS interactions for inversion symmetric
+and asymmetric TLSs, for pure and disordered solids, in two and three dimensions. We verify analytical
+estimates used in the Two-TLS model. We further show that the disorder induced power reduction of
+the spatial dependence of the interaction persists to short distances, not much larger than the
+interatomic distance. Our results provide strong support to the Two-TLS model, and contribute
+to the better understanding of the microscopic structure of amorphous solids and the low temperature
+properties of glasses. 

@@ -1,0 +1,16 @@
+Studying surfaces with nuclear magnetic resonance (NMR) is challenging because of its low sensitivity,
+but can reveal the atomic environments of both crystalline and amorphous materials. Dynamic nuclear
+polarization (DNP) can be used to enhance the NMR signal, and overcome this limitation. However,
+the standard practice for DNP involves wetting of the surface of the particles using exogenous radicals
+dissolved in a solvent, which can alter the surface. An alternative to this method is using endogenous
+unpaired electrons such as defects that are intrinsic to the microparticles, or metals as a source
+of enhancement, thus leaving the surface intact and unaltered. Here, we study the surface of silicon
+microparticles by detecting $^{1}$H nuclei on their surface. We take advantage of defect unpaired
+electrons close to the surface of the particles to enhance the surface $^{1}$H nuclei as a first step
+towards improving endogenous surface-DNP methods. This study involves both static liquid Helium
+$^{1}$H-DNP at 3.3 T using a homebuilt DNP spectrometer and $^{1}$H-$^{29}$Si-DNP using a commercial
+Bruker DNP-MAS spectrometer at 14.2 T and at 100 K. At 3.3 T and 4 K, we identify two resonance peaks
+corresponding to two different proton environments, one of which is much more labile than the other.
+A single resonance is detected in the high field case. At both fields, the $^{1}$H nuclei are enhanced
+by a factor of 10-50 without the need for added radicals in solvent. We also explore the use of MW frequency
+modulation during the static DNP experiments to selectively enhance only one $^{1}$H peak. 

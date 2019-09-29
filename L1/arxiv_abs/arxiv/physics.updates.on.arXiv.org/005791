@@ -1,0 +1,16 @@
+Microwave frequency acousto-optic modulation is realized by exciting high overtone bulk acoustic
+wave resonances (HBAR resonances) in the photonic stack. These confined mechanical stress waves
+transmit exhibit vertically transmitting, high quality factor (Q) acoustic Fabry Perot resonances
+that extend into the Gigahertz domain, and offer stress-optical interaction with the optical modes
+of the microresonator. Although HBAR are ubiquitously used in modern communication, and often
+exploited in superconducting circuits, this is the first time they have been incorporated on a photonic
+circuit based chip. The electro-acousto-optical interaction observed within the optical modes
+exhibits high actuation linearity, low actuation power and negligible crosstalk. Using the electro-acousto-optic
+interaction, fast optical resonance tuning is achieved with sub-nanosecond transduction time.
+By removing the silicon backreflection, broadband acoustic modulation at 4.1 and 8.7 GHz is realized
+with a 3 dB bandwidth of 250 MHz each. The novel hybrid HBAR nanophotonic platform demonstrated here,
+allowing on chip integration of micron-scale acoustic and photonic resonators, can find immediate
+applications in tunable microwave photonics, high bandwidth soliton microcomb stabilization,
+compact opto-electronic oscillators, and in microwave to optical conversion schemes. Moreover
+the hybrid platform allows implementation of momentum biasing, which allows realization of on
+chip non-reciprocal devices such as isolators or circulators and topological photonic bandstructures.

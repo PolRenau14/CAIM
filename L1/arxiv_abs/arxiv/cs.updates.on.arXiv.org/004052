@@ -1,0 +1,16 @@
+The problem of detecting bots, automated social media accounts governed by software but disguising
+as human users, has strong implications. For example, bots have been used to sway political elections
+by distorting online discourse, to manipulate the stock market, or to push anti-vaccine conspiracy
+theories that caused health epidemics. Most techniques proposed to date detect bots at the account
+level, by processing large amount of social media posts, and leveraging information from network
+structure, temporal dynamics, sentiment analysis, etc. In this paper, we propose a deep neural
+network based on contextual long short-term memory (LSTM) architecture that exploits both content
+and metadata to detect bots at the tweet level: contextual features are extracted from user metadata
+and fed as auxiliary input to LSTM deep nets processing the tweet text. Another contribution that
+we make is proposing a technique based on synthetic minority oversampling to generate a large labeled
+dataset, suitable for deep nets training, from a minimal amount of labeled data (roughly 3,000 examples
+of sophisticated Twitter bots). We demonstrate that, from just one single tweet, our architecture
+can achieve high classification accuracy (AUC > 96%) in separating bots from humans. We apply the
+same architecture to account-level bot detection, achieving nearly perfect classification accuracy
+(AUC > 99%). Our system outperforms previous state of the art while leveraging a small and interpretable
+set of features yet requiring minimal training data. 

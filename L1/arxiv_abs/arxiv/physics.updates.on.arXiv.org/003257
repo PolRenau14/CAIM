@@ -1,0 +1,16 @@
+The desire for higher sensitivity has driven ground-based cosmic microwave background (CMB) experiments
+to employ ever larger focal planes, which in turn require larger reimaging optics. Practical limits
+to the maximum size of these optics motivates the development of quasi-optically-coupled (lenslet-coupled),
+multi-chroic detectors. These detectors can be sensitive across a broader bandwidth compared
+to waveguide-coupled detectors. However, the increase in bandwidth comes at a cost: the lenses
+(up to $\sim$700 mm diameter) and lenslets ($\sim$5 mm diameter, hemispherical lenses on the focal
+plane) used in these systems are made from high-refractive-index materials (such as silicon or
+amorphous aluminum oxide) that reflect nearly a third of the incident radiation. In order to maximize
+the faint CMB signal that reaches the detectors, the lenses and lenslets must be coated with an anti-reflective
+(AR) material. The AR coating must maximize radiation transmission in scientifically interesting
+bands and be cryogenically stable. Such a coating was developed for the third generation camera,
+SPT-3G, of the South Pole Telescope (SPT) experiment, but the materials and techniques used in the
+development are general to AR coatings for mm-wave optics. The three-layer polytetrafluoroethylene-based
+AR coating is broadband, inexpensive, and can be manufactured with simple tools. The coating is
+field tested; AR coated focal plane elements were deployed in the 2016-2017 austral summer and AR
+coated reimaging optics were deployed in 2017-2018. 

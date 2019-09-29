@@ -1,0 +1,16 @@
+In this paper, we investigate efficient resource allocation for the uplink transmission of wireless
+powered IoT networks. LoRa is adopted as an example network of focus, however the work can be easily
+generalized to other radios. Allocating limited resources, like spectrum and energy resources,
+among massive numbers of users faces critical challenges. We consider grouping wireless powered
+users first, and for users assigned to the same channel, power allocation is investigated to improve
+the throughput of each user. Specifically, a user grouping problem has been formulated as a many-to-one
+matching game by treating users and channels as two sets of selfish players aiming to maximize their
+respective utilities. A low-complexity efficient channel allocation algorithm (ECAA) is proposed
+for user grouping. Additionally, a Markov Decision Process (MDP) is adopted to model the unpredictable
+energy arrival and channel conditions uncertainty, and a power allocation algorithm is proposed
+to maximize the accumulative throughput over a finite-horizon of time slots. By doing so, we can
+distribute the channel access and dynamic power allocation decision making local to users. Simulation
+results demonstrate that the proposed ECAA scheme can achieve near-optimal performance with much
+lower computational complexity than brute force exhaustive-search approach. Moreover, simulations
+show that the distributed optimal power allocation policy for each user is obtained with better
+performance than a centralized offline scheme. 

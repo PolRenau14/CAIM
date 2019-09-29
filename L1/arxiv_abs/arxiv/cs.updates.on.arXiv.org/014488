@@ -1,0 +1,16 @@
+Circadian rhythms govern most essential biological processes in the human body; they influence
+multiple biological activities including sleep, performance, mood, skin temperature, hormone
+production, and nutrient absorption. The dim light melatonin onset (DLMO) is the current gold standard
+for measuring human circadian phase (or timing). The collection of DLMO is expensive and time consuming
+since multiple saliva or blood samples are required from nighttime studies in specialized environmental
+conditions. In the past few years, several non-invasive approaches have been designed for estimating
+DLMO values. These methods collect daily sampled data (e.g., sleep onset/offset times) or frequently
+sampled data (e.g., light exposure, skin temperature, physical activity collected every minute)
+to train learning models for estimating DLMO, therefore previous studies only leveraged one time
+scale. In this paper, we propose a two-step framework for estimating DLMO using the data of both time
+scales. The first step summarizes the data prior to the current day, while the second step combines
+this summary with frequently sampled data of the current day. We evaluate several variants of moving
+average model which input sleep timing data as the first step and recurrent neural network models
+as the second step for estimating DLMO. The experimental results show that our two-step model with
+two-time-scale features has statistically significantly lower root-mean-square errors than
+the models that use either daily sampled data or frequently sampled data alone. 

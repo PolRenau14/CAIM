@@ -1,0 +1,17 @@
+Recording of flash-ADC traces is challenging from both the transmission bandwidth and storage
+cost perspectives. This paper presents a configuration-free lossless compression algorithm
+which addresses both limitations, by compressing the data on-the-fly in the controlling field-programmable
+gate array (FPGA). Thus the difference predicted trace compression (DPTC) can easily be used directly
+in front-end electronics. The method first computes the differences between consecutive samples
+in the traces, thereby concentrating the most probable values around zero. The values are then stored
+as groups of four, with only the necessary least-significant bits in a variable-length code, packed
+in a stream of 32-bit words. To evaluate the efficiency, the storage cost of compressed traces is
+modeled as a baseline cost including the ADC noise, and a cost for pulses that depends on their amplitude
+and width. The free parameters and the validity of the model are determined by comparing it with the
+results of compressing a large set of artificial traces with varying characteristics. The compression
+method was also applied to actual data from different types of detectors, thereby demonstrating
+its general applicability. The compression efficiency is found to be comparable to popular general-purpose
+compression methods, while available for FPGA implementation using limited resources. A typical
+storage cost is around 4 to 5 bits per sample. Code for the FPGA implementation in VHDL and for the CPU
+decompression routine in C of DPTC are available as open source software, both operating at multi-100
+Msamples/s speeds. 

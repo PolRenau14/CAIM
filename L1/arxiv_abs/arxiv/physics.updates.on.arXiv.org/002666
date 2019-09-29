@@ -1,0 +1,16 @@
+Due to the rapid growth in demand for power for sensing devices located in remote locations, scientists'
+attention has been drawn to vibration energy harvesting as an alternative to batteries. As a result
+of over two decades of micro-scale vibration energy harvester research, the use of mechanical nonlinearity
+in the dynamic behavior of the piezoelectric power generating structures had been recognized as
+one of the promising solutions to the challenges presented by chaotic, low-frequency vibration
+sources found in common application environments. In this study, the design and performance of
+a unique MEMS-scale nonlinear vibration energy harvester based on coupled component structures
+and bi-stable states are investigated. The coupled-components within the device consist of a main
+buckled beam bonded with piezoelectric layers, a torsional rod, and two cantilever arms with tip
+masses at their ends. These arms are connected to the main beam through the torsional rod and are designed
+to help the main beam snap between its buckled stable states when subjected to sufficient vibration
+loading. The fabrication of the device will be discussed, including use of plasma-enhanced chemical
+vapor deposition (PECVD) of silicon nitride under an alternating power field to control compressive
+stress development within the main buckled beam. After completing the fabrication process, the
+next step would be testing the device under a variety of vibration loading conditions for its potential
+use as a vibration energy harvester. 

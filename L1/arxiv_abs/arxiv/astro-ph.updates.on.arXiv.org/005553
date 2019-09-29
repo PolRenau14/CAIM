@@ -1,0 +1,17 @@
+The Interstellar Boundary EXplorer (IBEX) mission has recently studied the flow of interstellar
+neutral He atoms through the solar system, and discovered the existence of a secondary He flow likely
+originating in the outer heliosheath. We find evidence for this secondary component in Ulysses
+data. By coadding hundreds of Ulysses He beam maps together to maximize signal-to-noise, we identify
+a weak signal that is credibly associated with the secondary component. Assuming a laminar flow
+from infinity, we infer the following He flow parameters: V=12.8+/-1.9 km/s, lambda=74.4+/-1.8
+deg, beta=-10.5+/-4.1 deg, and T=3000+/-1100 K; where lambda and beta are the ecliptic longitude
+and latitude direction in J2000 coordinates. The secondary component has a density that is 4.9+/-0.9%
+that of the primary component. These measurements are reasonably consistent with measurements
+from IBEX, with the exception of temperature, where our temperature is much lower than IBEX's T=9500
+K. Even the higher IBEX temperature is suspiciously low compared to expectactions for the outer
+heliosheath source region. The implausibly low temperatures are due to the incorrect assumption
+of a laminar flow instead of a diverging one, given that the flow in the outer heliosheath source region
+will be deflecting around the heliopause. As for why the IBEX and Ulysses T values are different,
+difficulties with background subtraction in the Ulysses data are a potential source of concern,
+but the discrepancy may also be another effect of the improper laminar flow assumption, which could
+affect the IBEX and Ulysses analyses differently. 

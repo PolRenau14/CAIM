@@ -1,0 +1,16 @@
+Adversarial attacks add perturbations to the input features with the intent of changing the classification
+produced by a machine learning system. Small perturbations can yield adversarial examples which
+are misclassified despite being virtually indistinguishable from the unperturbed input. Classifiers
+trained with standard neural network techniques are highly susceptible to adversarial examples,
+allowing an adversary to create misclassifications of their choice. We introduce a new type of network
+unit, called MWD (max of weighed distance) units that have a built-in resistant to adversarial attacks.
+These units are highly non-linear, and we develop the techniques needed to effectively train them.
+We show that simple interval techniques for propagating perturbation effects through the network
+enables the efficient computation of robustness (i.e., accuracy guarantees) for MWD networks
+under any perturbations, including adversarial attacks. MWD networks are significantly more
+robust to input perturbations than ReLU networks. On permutation invariant MNIST, when test examples
+can be perturbed by 20% of the input range, MWD networks provably retain accuracy above 83%, while
+the accuracy of ReLU networks drops below 5%. The provable accuracy of MWD networks is superior even
+to the observed accuracy of ReLU networks trained with the help of adversarial examples. In the absence
+of adversarial attacks, MWD networks match the performance of sigmoid networks, and have accuracy
+only slightly below that of ReLU networks. 

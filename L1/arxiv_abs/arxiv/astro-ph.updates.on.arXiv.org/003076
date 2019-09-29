@@ -1,0 +1,16 @@
+We present results from a new set of 30 cosmological simulations of galaxy clusters, including the
+effects of radiative cooling, star formation, supernova feedback, black hole growth and AGN feedback.
+We first demonstrate that our AGN model is capable of reproducing the observed cluster pressure
+profile at redshift, z~0, once the AGN heating temperature of the targeted particles is made to scale
+with the final virial temperature of the halo. This allows the ejected gas to reach larger radii in
+higher-mass clusters than would be possible had a fixed heating temperature been used. Such a model
+also successfully reduces the star formation rate in brightest cluster galaxies and broadly reproduces
+a number of other observational properties at low redshift, including baryon, gas and star fractions;
+entropy profiles outside the core; and the X-ray luminosity-mass relation. Our results are consistent
+with the notion that the excess entropy is generated via selective removal of the densest material
+through radiative cooling; supernova and AGN feedback largely serve as regulation mechanisms,
+moving heated gas out of galaxies and away from cluster cores. However, our simulations fail to address
+a number of serious issues; for example, they are incapable of reproducing the shape and diversity
+of the observed entropy profiles within the core region. We also show that the stellar and black hole
+masses are sensitive to numerical resolution, particularly the gravitational softening length;
+a smaller value leads to more efficient black hole growth at early times and a smaller central galaxy.

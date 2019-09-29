@@ -1,0 +1,17 @@
+Mean field games (MFGs) describe the limit, as $n$ tends to infinity, of stochastic differential
+games with $n$ players interacting with one another through their common empirical distribution.
+Under suitable smoothness assumptions that guarantee uniqueness of the MFG equilibrium, a form
+of law of large of numbers (LLN), also known as propagation of chaos, has been established to show
+that the MFG equilibrium arises as the limit of the sequence of empirical measures of the $n$-player
+game Nash equilibria, including the case when player dynamics are driven by both idiosyncratic
+and common sources of noise. The proof of convergence relies on the so-called master equation for
+the value function of the MFG, a partial differential equation on the space of probability measures.
+In this work, under additional assumptions, we establish a functional central limit theorem (CLT)
+that characterizes the limiting fluctuations around the LLN limit as the unique solution of a linear
+stochastic PDE. The key idea is to use the solution to the master equation to construct an associated
+McKean-Vlasov interacting $n$-particle system that is sufficiently close to the Nash equilibrium
+dynamics of the $n$-player game for large $n$. We then derive the CLT for the latter from the CLT for
+the former. Along the way, we obtain a new multidimensional CLT for McKean-Vlasov systems. We also
+illustrate the broader applicability of our methodology by applying it to establish a CLT for a specific
+linear-quadratic example that does not satisfy our main assumptions, and we explicitly solve the
+resulting stochastic PDE in this case. 

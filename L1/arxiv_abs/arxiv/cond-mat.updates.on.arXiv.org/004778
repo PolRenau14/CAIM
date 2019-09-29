@@ -1,0 +1,16 @@
+A model of superconducting computer memory exploiting the orthogonal spin transfer (OST) in the
+pseudospin valve (PS) that is controlled by the three-terminal Josephson superconducting-ferromagnetic
+transistor (SFT) is developed. The building blocks of the memory are hybrid PS and SFT structures.
+The memory model is formulated in terms of the equation-defined PS and SFT devices integrated into
+the PS/SFT memory cell (MC) circuit. Logical units "0" and "1" are associated with the two PS states
+respectively characterized by two different values of resistance. Elementary logical operations
+comprising the read/write processes occur when a word pulse applied to the SFT's injector coincides
+with the respective bit pulse acting on MC. Physically, a word pulse triggers SFT to a resistive state,
+causing the PS switching between the logical "0" and "1" states. Thus, the whole switching dynamics
+of MC depends on the non-equilibrium and nonstationary properties of PS and SFT. Modeling the single
+MC as well as the larger MC-based circuits comprising respectively twelve and thirty elements suggest
+that such the memory cells can undergo ultrafast switching (sub-ns) and low energy consumption
+per operation (sub-100 fJ). The suggested model allows studying the influence of noises, punch-through
+effect, crosstalk, parasitic, etc. The obtained results suggest that the hybrid PS/SFT structures
+are well-suited to superconducting computing circuits as they are built of magnetic and non-magnetic
+transition metals and therefore have low impedances (1-30 Ohm). 

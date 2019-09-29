@@ -1,0 +1,16 @@
+We investigate a variety of problems of finding tours and cycle covers with minimum turn cost. Questions
+of this type have been studied in the past, with complexity and approximation results as well as open
+problems dating back to work by Arkin et al. in 2001. A wide spectrum of practical applications have
+renewed the interest in these questions, and spawned variants: for full coverage, every point has
+to be covered, for subset coverage, specific points have to be covered, and for penalty coverage,
+points may be left uncovered by incurring an individual penalty. We make a number of contributions.
+We first show that finding a minimum-turn (full) cycle cover is NP-hard even in 2-dimensional grid
+graphs, solving the long-standing open Problem 53 in The Open Problems Project edited by Demaine,
+Mitchell and O'Rourke. We also prove NP-hardness of finding a subset cycle cover of minimum turn
+cost in thin grid graphs, for which Arkin et al. gave a polynomial-time algorithm for full coverage;
+this shows that their boundary techniques cannot be applied to compute exact solutions for subset
+and penalty variants. On the positive side, we establish the first constant-factor approximation
+algorithms for all considered subset and penalty problem variants, making use of LP/IP techniques.
+For full coverage in more general grid graphs (e.g., hexagonal grids), our approximation factors
+are better than the combinatorial ones of Arkin et al. Our approach can also be extended to other geometric
+variants, such as scenarios with obstacles and linear combinations of turn and distance costs.

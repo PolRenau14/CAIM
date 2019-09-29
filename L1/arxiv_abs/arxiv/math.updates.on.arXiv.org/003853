@@ -1,0 +1,16 @@
+The main results of this paper provide a polynomial time algorithm for approximating the logarithm
+of the number of maximal near perfect matchings in dense graphs. By dense we mean that $|E(G)|\geq\alpha|V(G)|^2$
+for some fixed $\alpha>0$, and a maximal $\varepsilon$-near perfect matching is a maximal matching
+which covers at least $(1-\varepsilon)|V(G)|$ vertices. More precisely, we provide a deterministic
+algorithm that for a given (dense) graph $G$ of order $n$ and a real number $\varepsilon>0$, returns
+either a conclusion that $G$ has no $\varepsilon$-near perfect matching, or a positive real number
+$m\leq1/2$, such that the logarithm of the number of maximal $\varepsilon$-near perfect matchings
+in $G$ is at least $mn\log n$. The upper bound of such graphs is always $1/2(n\log n)$. The running
+time of this algorithm is $O(f(\varepsilon)n^{5/2})$, where $f(\cdot)$ is an explicit function.
+Additionally, for a special class of dense graphs, we show that $(1+\varepsilon)mn\log n$ is an
+upper bound on the number of maximal near perfect matchings. Our algorithm is based on analysis of
+counting the number of maximal near perfect matchings of generalized quasirandom graphs. We start
+with an algorithmic version of the Szemer\'edi Regularity Lemma, then we partition our graph into
+bounded number of quasirandom subgraphs. The way we partition the graph is determined by solving
+a system of linear inequalities whose size is bounded by $f^\prime(\varepsilon)$ depending only
+on $\varepsilon$. The proof of this result is of independent interest in graph theory. 

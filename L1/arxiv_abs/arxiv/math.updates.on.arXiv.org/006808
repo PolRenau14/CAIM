@@ -1,0 +1,16 @@
+Permutation patterns and pattern avoidance have been intensively studied in combinatorics and
+computer science, going back at least to the seminal work of Knuth on stack-sorting (1968). Perhaps
+the most natural algorithmic question in this area is deciding whether a given permutation of length
+$n$ contains a given pattern of length $k$. In this work we give two new algorithms for this well-studied
+problem, one whose running time is $n^{k/4 + o(k)}$, and a polynomial-space algorithm whose running
+time is the better of $O(1.6181^n)$ and $O(n^{k/2 + 1})$. These results improve the earlier best
+bounds of $n^{0.47k + o(k)}$ and $O(1.79^n)$ due to Ahal and Rabinovich (2000) resp. Bruner and Lackner
+(2012) and are the fastest algorithms for the problem when $k \in \Omega(\log{n})$. We show that
+both our new algorithms and the previous exponential-time algorithms in the literature can be viewed
+through the unifying lens of constraint-satisfaction. Our algorithms can also count, within the
+same running time, the number of occurrences of a pattern. We show that this result is close to optimal:
+solving the counting problem in time $f(k) \cdot n^{o(k/\log{k})}$ would contradict the exponential-time
+hypothesis (ETH). For some special classes of patterns we obtain improved running times. We further
+prove that $3$-increasing and $3$-decreasing permutations can, in some sense, embed arbitrary
+permutations of almost linear length, which indicates that an algorithm with sub-exponential
+running time is unlikely, even for patterns from these restricted classes. 

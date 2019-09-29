@@ -1,0 +1,16 @@
+We consider identical quantum bosons with weak contact interactions in a two-dimensional isotropic
+harmonic trap. When the interactions are turned off, the energy levels are equidistant and highly
+degenerate. At linear order in the coupling parameter, these degenerate levels split, and we study
+the patterns of this splitting. It turns out that the problem is mathematically identical to diagonalizing
+the quantum resonant system of the two-dimensional Gross-Pitaevskii equation, whose classical
+counterpart has been previously studied in the mathematical literature on turbulence. Enhanced
+symmetry structures are known for this resonant system, and our purpose is to report on powerful
+implications these symmetries have for the level splitting in the quantum case. In particular,
+the symmetries relate energy shifts of different unperturbed levels so that infinitely many exactly
+integer energy differences survive at linear order in the interaction strength. The highest energy
+state emanating from each unperturbed level is explicitly described by our analytics. Considerable
+simplifications in computing the spectrum numerically result from exploiting the symmetries.
+We furthermore discuss the energy level spacing distributions in the spirit of quantum chaos theory.
+After separating the eigenvalues into blocks with respect to the known conservation laws, we observe
+the Wigner-Dyson statistics within such individual blocks, which suggests that no integrable
+structures beyond the symmetries we display should be expected in the problem. 

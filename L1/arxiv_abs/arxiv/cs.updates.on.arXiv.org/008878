@@ -1,0 +1,17 @@
+Magnetoresistive random access memory (MRAM) technologies with thermally unstable nanomagnets
+are leveraged to develop an intrinsic stochastic neuron as a building block for restricted Boltzmann
+machines (RBMs) to form deep belief networks (DBNs). The embedded MRAM-based neuron is modeled
+using precise physics equations. The simulation results exhibit the desired sigmoidal relation
+between the input voltages and probability of the output state. A probabilistic inference network
+simulator (PIN-Sim) is developed to realize a circuit-level model of an RBM utilizing resistive
+crossbar arrays along with differential amplifiers to implement the positive and negative weight
+values. The PIN-Sim is composed of five main blocks to train a DBN, evaluate its accuracy, and measure
+its power consumption. The MNIST dataset is leveraged to investigate the energy and accuracy tradeoffs
+of seven distinct network topologies in SPICE using the 14nm HP-FinFET technology library with
+the nominal voltage of 0.8V, in which an MRAM-based neuron is used as the activation function. The
+software and hardware level simulations indicate that a $784\times200\times10$ topology can
+achieve less than 5% error rates with $\sim400 pJ$ energy consumption. The error rates can be reduced
+to 2.5% by using a $784\times500\times500\times500\times10$ DBN at the cost of $\sim10\times$
+higher energy consumption and significant area overhead. Finally, the effects of specific hardware-level
+parameters on power dissipation and accuracy tradeoffs are identified via the developed PIN-Sim
+framework. 

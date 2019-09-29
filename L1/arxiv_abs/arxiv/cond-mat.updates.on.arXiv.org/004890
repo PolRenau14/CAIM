@@ -1,0 +1,17 @@
+We present and compare three distinct atomistic models -- based on first principles and semi-empirical
+approaches -- of the structural and electronic properties of Ge$_{1-x}$Sn$_{x}$ alloys. Density
+functional theory calculations incorporating Heyd-Scuseria-Ernzerhof (HSE) and modified Becke-Johnson
+(mBJ) exchange-correlation functionals are used to perform structural relaxation and electronic
+structure calculations for a series of Ge$_{1-x}$Sn$_{x}$ alloy supercells. Based on HSE calculations,
+a semi-empirical valence force field (VFF) potential and $sp^{3}s^{\ast}$ tight-binding (TB)
+Hamiltonian are parametrised. Comparing the HSE, mBJ and TB models, and using the HSE results as
+a benchmark, we demonstrate that: (i) mBJ calculations provide an accurate first principles description
+of the electronic structure at reduced computational cost, (ii) the VFF potential is sufficiently
+accurate to circumvent the requirement to perform first principles structural relaxation, and
+(iii) TB calculations provide a good quantitative description of the alloy electronic structure
+in the vicinity of the band edges. Our results also emphasise the importance of Sn-induced band mixing
+in determining the nature of the conduction band structure of Ge$_{1-x}$Sn$_{x}$ alloys. The theoretical
+models and benchmark calculations we present inform and enable predictive, computationally efficient
+and scalable atomistic calculations for disordered alloys and nanostructures. This provides
+a suitable platform to underpin further theoretical investigations of the properties of this emerging
+semiconductor alloy. 

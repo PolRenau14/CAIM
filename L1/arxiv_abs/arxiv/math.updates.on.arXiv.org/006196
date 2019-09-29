@@ -1,0 +1,13 @@
+We prove a plethora of boundedness property of the Adams type for bilinear fractional integral operators
+of the form $$B_{\alpha}(f,g)(x)=\int_{\mathbb{R}^{n}}\frac{f(x-y)g(x+y)}{|y|^{n-\alpha}}dy,\qquad
+0<\alpha<n.$$ For $1<t\leq s<\infty$, we prove the non-weighted case through the known Adams type
+result. And we show that these results of Adams type is optimal. For $0<t\leq s<\infty$ and $0<t\leq1$,
+we obtain new result of a weighted theory describing Morrey boundedness of above form operators
+if two weights $(v,\vec{w})$ satisfy $$ [v,\vec{w}]_{t,\vec{q}/{a}}^{r,as}=\mathop{\sup_{Q,Q^{\prime}\in\mathscr{D}}}_{Q\subset
+Q^{\prime}}\left(\frac{|Q|}{|Q^{\prime}|}\right)^{\frac{1-s}{as}}|Q^{\prime}|^{\frac{1}{r}}\left(\fint_{Q}v^{\frac{t}{1-t}}\right)^{\frac{1-t}{t}}\prod_{i=1}^{2}\left(\fint_{Q^{\prime}}w_{i}^{-(q_{i}/a)^{\prime}}\right)^{\frac{1}{(q_{i}/a)^{\prime}}}<\infty,\,\,\,
+0<t<s<1 $$ and $$ [v,\vec{w}]_{t,\vec{q}/{a}}^{r,as}:=\mathop{\sup_{Q,Q^{\prime}\in\mathscr{D}}}_{Q\subset
+Q^{\prime}}\left(\frac{|Q|}{|Q^{\prime}|}\right)^{\frac{1-as}{as}}|Q^{\prime}|^{\frac{1}{r}}\left(\fint_{Q}v^{\frac{t}{1-t}}\right)^{\frac{1-t}{t}}\prod_{i=1}^{2}\left(\fint_{Q^{\prime}}w_{i}^{-(q_{i}/a)^{\prime}}\right)^{\frac{1}{(q_{i}/a)^{\prime}}}<\infty,
+\,\,\,s\geq1 $$ where $\|v\|_{L^{\infty}(Q)}=\sup_{Q}v$ when $t=1$, $a$, $r$, $s$, $t$ and $\vec{q}$
+satisfy proper conditions. As some applications we formulate a bilinear version of the Olsen inequality,
+the Fefferman-Stein type dual inequality and the Stein-Weiss inequality on Morrey spaces for fractional
+integrals. 

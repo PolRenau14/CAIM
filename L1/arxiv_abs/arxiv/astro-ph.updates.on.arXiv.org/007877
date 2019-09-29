@@ -1,0 +1,16 @@
+Individual mode frequencies have been detected in thousands of individual solar-like oscillators
+on the red giant branch (RGB). Fitting stellar models to these mode frequencies, however, is more
+difficult than in main-sequence stars. This is partly because of the uncertain magnitude of the
+surface effect: the systematic difference between observed and modelled frequencies caused by
+poor modelling of the near-surface layers. We aim to study the magnitude of the surface effect in
+RGB stars. Surface effect corrections used for main-sequence targets are potentially large enough
+to put the non-radial mixed modes in RGB stars out of order, which is unphysical. Unless this can be
+circumvented, model-fitting of evolved RGB stars is restricted to the radial modes, which reduces
+the number of available modes. Here, we present a method to suppress gravity modes (g-modes) in the
+cores of our stellar models, so that they have only pure pressure modes (p-modes). We show that the
+method gives unbiased results and apply it to three RGB solar-like oscillators in double-lined
+eclipsing binaries: KIC 8410637, KIC 9540226 and KIC 5640750. In all three stars, the surface effect
+decreases the model frequencies consistently by about 0.1--0.3 $\mu$Hz at the frequency of maximum
+oscillation power $\nu_\mathrm{max}$, which agrees with existing predictions from three-dimensional
+radiation hydrodynamics simulations. Though our method in essence discards information about
+the stellar cores, it provides a useful step forward in understanding the surface effect in RGB stars.

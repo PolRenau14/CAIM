@@ -1,0 +1,16 @@
+$\mathcal{PT}$-symmetry --- invariance with respect to combined space reflection $\mathcal{P}$
+and time reversal $\mathcal{T}$ --- provides a weaker condition than (Dirac) Hermiticity for ensuring
+a real energy spectrum of a general non-Hermitian Hamiltonian. $\mathcal{PT}$-symmetric Hamiltonians
+therefore form an intermediate class between Hermitian and non-Hermitian Hamiltonians. In this
+work, we derive the conditions for $\mathcal{PT}$-symmetry in the context of electronic structure
+theory, and specifically, within the Hartree-Fock (HF) approximation. We show that the HF orbitals
+are symmetric with respect to the $\mathcal{PT}$ operator \textit{if and only if} the effective
+Fock Hamiltonian is $\mathcal{PT}$-symmetric, and \textit{vice versa}. By extension, if an optimal
+self-consistent solution is invariant under $\mathcal{PT}$, then its eigenvalues and corresponding
+HF energy must be real. Moreover, we demonstrate how one can construct explicitly $\mathcal{PT}$-symmetric
+Slater determinants by forming $\mathcal{PT}$ doublets (i.e.~pairing each occupied orbital
+with its $\mathcal{PT}$-transformed analogue), allowing $\mathcal{PT}$-symmetry to be conserved
+throughout the self-consistent process. Finally, considering the \ce{H2} molecule as an illustrative
+example, we observe $\mathcal{PT}$-symmetry in the HF energy landscape and find that the symmetry-broken
+unrestricted HF wave functions (i.e.~diradical configurations) are $\mathcal{PT}$-symmetric,
+while the symmetry-broken restricted HF wave functions (i.e.~ionic configurations) break $\mathcal{PT}$-symmetry.

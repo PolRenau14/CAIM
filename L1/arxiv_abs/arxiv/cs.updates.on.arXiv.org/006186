@@ -1,0 +1,16 @@
+Image captioning models are becoming increasingly successful at describing the content of images
+in restricted domains. However, if these models are to function in the wild - for example, as aids
+for the visually impaired - a much larger number and variety of visual concepts must be understood.
+In this work, we teach image captioning models new visual concepts with partial supervision, such
+as available from object detection and image label datasets. As these datasets contain text fragments
+rather than complete captions, we formulate this problem as learning from incomplete data. To flexibly
+characterize our uncertainty about the unobserved complete sequence, we represent each incomplete
+training sequence with its own finite state automaton encoding acceptable complete sequences.
+We then propose a novel algorithm for training sequence models, such as recurrent neural networks,
+on incomplete sequences specified in this manner. In the context of image captioning, our method
+lifts the restriction that previously required image captioning models to be trained on paired
+image-sentence corpora only, or otherwise required specialized model architectures to take advantage
+of alternative data modalities. Applying our approach to an existing neural captioning model,
+we achieve state of the art results on the novel object captioning task using the COCO dataset. We
+further show that we can train a captioning model to describe new visual concepts from the Open Images
+dataset while maintaining competitive COCO evaluation scores. 

@@ -1,0 +1,17 @@
+Periodically driven parametric oscillators offer a convenient way to simulate classical Ising
+spins. When many parametric oscillators are coupled dissipatively, they can be analogous to networks
+of Ising spins, forming an effective coherent Ising machine (CIM) that efficiently solves computationally
+hard optimization problems. In the companion paper, we studied experimentally the minimal realization
+of a CIM, i.e. two coupled parametric oscillators [L. Bello, M. Calvanese Strinati, E. G. Dalla Torre,
+and A. Pe'er, Phys. Rev. Lett. 123, 083901 (2019)]. We found that the presence of an energy-conserving
+coupling between the oscillators can dramatically change the dynamics, leading to everlasting
+beats, which transcend the Ising description. Here, we analyze this effect theoretically by solving
+numerically and, when possible, analytically the equations of motion of two parametric oscillators.
+Our main tools include: (i) a Floquet analysis of the linear equations, (ii) a multi-scale analysis
+based on a separation of time scales between the parametric oscillations and the beats, and (iii)
+the numerical identification of limit cycles and attractors. Using these tools, we fully determine
+the phase boundaries and critical exponents of the model, as a function of the intensity and the phase
+of the coupling and of the pump. Our study highlights the universal character of the phase diagram
+and its independence on the specific type of nonlinearity present in the system. Furthermore, we
+identify new phases of the model with more than two attractors, possibly describing a larger spin
+algebra. 

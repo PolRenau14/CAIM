@@ -1,0 +1,16 @@
+Consider a random access communication scenario over a channel whose operation is defined for any
+number of possible transmitters. Inspired by the model recently introduced by Polyanskiy for the
+Multiple Access Channel (MAC) with a fixed, known number of transmitters, we assume that the channel
+is invariant to permutations on its inputs, and that all active transmitters employ identical encoders.
+Unlike Polyanskiy, we consider a scenario where neither the transmitters nor the receiver know
+which transmitters are active. We refer to this agnostic communication setup as the Random Access
+Channel, or RAC. Limited feedback is used to ensure that the collection of active transmitters remains
+fixed during each epoch. The decoder is tasked with determining from the channel output the number
+of active transmitters $(k)$ and their messages but not which transmitter sent which message. The
+decoding procedure occurs at a time $n_t$ depending on the decoder's estimate $t$ of the number of
+active transmitters, thereby achieving a rate that varies with the number of active transmitters.
+Single-bit feedback at each time $n_i, i \leq t$, enables all transmitters to determine the end of
+one coding epoch and the start of the next. The central result of this work demonstrates the achievability
+on a RAC of performance that is first-order optimal for the MAC in operation during each coding epoch.
+While prior multiple access schemes for a fixed number of transmitters require $2^k - 1$ simultaneous
+threshold rules, the proposed scheme uses a single threshold rule and achieves the same dispersion.

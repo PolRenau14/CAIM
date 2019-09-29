@@ -1,0 +1,17 @@
+The classical setting of optimal control theory assumes full knowledge of the process dynamics
+and the costs associated with every control strategy. The problem becomes much harder if the controller
+only knows a finite set of possible running cost functions, but has no way of checking which of these
+running costs is actually in place. In this paper we address this challenge for a class of evasive
+path planning problems on a continuous domain, in which an Evader needs to reach a target while minimizing
+his exposure to an enemy Observer, who is in turn selecting from a finite set of known surveillance
+plans. Our key assumption is that both the evader and the observer need to commit to their (possibly
+probabilistic) strategies in advance and cannot immediately change their actions based on any
+newly discovered information about the opponent's current position. We consider two types of evader
+behavior: in the first one, a completely risk-averse evader seeks a trajectory minimizing his {\em
+worst-case} cumulative observability, and in the second, the evader is concerned with minimizing
+the {\em average-case} cumulative observability. The latter version is naturally interpreted
+as a semi-infinite strategic game, and we provide an efficient method for approximating its Nash
+equilibrium. The proposed approach draws on methods from game theory, convex optimization, optimal
+control, and multiobjective dynamic programming. We illustrate our algorithm using numerical
+examples and discuss the computational complexity, including for the generalized version with
+multiple evaders. 

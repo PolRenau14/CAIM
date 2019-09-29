@@ -1,0 +1,16 @@
+We study revenue optimization learning algorithms for repeated posted-price auctions where a
+seller interacts with a single strategic buyer that holds a fixed private valuation for a good and
+seeks to maximize his cumulative discounted surplus. For this setting, first, we propose a novel
+algorithm that never decreases offered prices and has a tight strategic regret bound in $\Theta(\log\log
+T)$ under some mild assumptions on the buyer surplus discounting. This result closes the open research
+question on the existence of a no-regret horizon-independent weakly consistent pricing. The proposed
+algorithm is inspired by our observation that a double decrease of offered prices in a weakly consistent
+algorithm is enough to cause a linear regret. This motivates us to construct a novel transformation
+that maps a right-consistent algorithm to a weakly consistent one that never decreases offered
+prices. Second, we outperform the previously known strategic regret upper bound of the algorithm
+PRRFES, where the improvement is achieved by means of a finer constant factor $C$ of the principal
+term $C\log\log T$ in this upper bound. Finally, we generalize results on strategic regret previously
+known for geometric discounting of the buyer's surplus to discounting of other types, namely: the
+optimality of the pricing PRRFES to the case of geometrically concave decreasing discounting;
+and linear lower bound on the strategic regret of a wide range of horizon-independent weakly consistent
+algorithms to the case of arbitrary discounts. 

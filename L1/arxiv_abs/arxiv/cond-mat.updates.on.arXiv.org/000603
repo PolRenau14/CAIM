@@ -1,0 +1,16 @@
+Yield stress materials flow if a sufficiently large shear stress is applied. Although such materials
+are ubiquitous and relevant for industry, there is no accepted microscopic description of how they
+yield, even in the simplest situations where temperature is negligible and where flow inhomogeneities
+such as shear bands or fractures are absent. Here we propose a scaling description of the yielding
+transition in amorphous solids made of soft particles at zero temperature. Our description makes
+a connection between the Herschel-Bulkley exponent characterizing the singularity of the flow
+curve near the yield stress $\Sigma_c$, the statistics and length scale of avalanches of plasticity
+at $\Sigma_c$, and the density $P(x)$ of soft spots, or shear transformation zones, as a function
+of the stress increment $x$ beyond which they yield. We propose three scaling relations, and argue
+that all exponents characterizing these properties can be expressed in terms of three exponents
+$\theta$, $d_f$ and $z$, characterizing respectively the density of soft spots, the fractal dimension
+of the avalanches, and their duration. Our description shares some similarity with the depinning
+transition that occurs when an elastic manifold is driven through a random potential, but also presents
+some striking differences. We test our three scaling relations in an elasto-plastic model, an automaton
+model similar to those used in depinning, but with a different interaction kernel, and find satisfying
+agreement with our predictions both in two and three dimensions. 

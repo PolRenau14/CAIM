@@ -1,0 +1,17 @@
+Learning Ising or Potts models from data has become an important topic in statistical physics and
+computational biology, with applications to predictions of structural contacts in proteins and
+other areas of biological data analysis. The corresponding inference problems are challenging
+since the normalization constant (partition function) of the Ising/Potts distributions cannot
+be computed efficiently on large instances. Different ways to address this issue have hence given
+size to a substantial methodological literature. In this paper we investigate how these methods
+could be used on much larger datasets than studied previously. We focus on a central aspect, that
+in practice these inference problems are almost always severely under-sampled, and the operational
+result is almost always a small set of leading (largest) predictions. We therefore explore an approach
+where the data is pre-filtered based on empirical correlations, which can be computed directly
+even for very large problems. Inference is only used on the much smaller instance in a subsequent
+step of the analysis. We show that in several relevant model classes such a combined approach gives
+results of almost the same quality as the computationally much more demanding inference on the whole
+dataset. We also show that results on whole-genome epistatic couplings that were obtained in a recent
+computation-intensive study can be retrieved by the new approach. The method of this paper hence
+opens up the possibility to learn parameters describing pair-wise dependencies in whole genomes
+in a computationally feasible and expedient manner. 

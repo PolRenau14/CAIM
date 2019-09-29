@@ -1,0 +1,16 @@
+In this paper, we study the photo-production of Higgs boson at the LHeC. The process can be used as
+a complementary precision measurement for Higgs to di-photon partial decay width $\Gamma({h\to\gamma\gamma})$,
+and it has a clean final state without additional colored particles in the central rapidity region
+other than the decay products of the Higgs. However, there are some non-photon-fusion processes
+with final states of this feature, for example, Higgs gluon fusion production from $\gamma g$ scattering.
+These processes may be indistinguishable from and thus contaminate the photo-production in the
+detector. We compute the scattering amplitudes for all these processes and estimate their cross
+sections through Monte Carlo phase space integration. Different photon-PDF sets lead to rather
+different photo-production cross sections, while give very close results for contaminating processes.
+We also study the phenomenology of the photo-production at the LHeC via various Higgs decay channels.
+The signal significance in the standard model can be close to or over $2\sigma$ for $E_{e}=60~\text{GeV}$
+or $E_{e}=120~\text{GeV}$ respectively. However, the photo-production and other contaminating
+processes are hard to distinguish at the detector level, and are hence combined into one signal,
+to which the photo-production only contributes less than 10\%. Therefore, even though the significance
+of this signal reaches an observable level, it does not imply that the Higgs photo-production can
+be observed with the assumed experimental conditions in our analysis. 

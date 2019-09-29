@@ -1,0 +1,16 @@
+Introduction: Machine learning provides fundamental tools both for scientific research and for
+the development of technologies with significant impact on society. It provides methods that facilitate
+the discovery of regularities in data and that give predictions without explicit knowledge of the
+rules governing a system. However, a price is paid for exploiting such flexibility: machine learning
+methods are typically black-boxes where it is difficult to fully understand what the machine is
+doing or how it is operating. This poses constraints on the applicability and explainability of
+such methods. Methods: Our research aims to open the black-box of recurrent neural networks, an
+important family of neural networks used for processing sequential data. We propose a novel methodology
+that provides a mechanistic interpretation of behaviour when solving a computational task. Our
+methodology uses mathematical constructs called excitable network attractors, which are invariant
+sets in phase space composed of stable attractors and excitable connections between them. Results
+and Discussion: As the behaviour of recurrent neural networks depends both on training and on inputs
+to the system, we introduce an algorithm to extract network attractors directly from the trajectory
+of a neural network while solving tasks. Simulations conducted on a controlled benchmark task confirm
+the relevance of these attractors for interpreting the behaviour of recurrent neural networks,
+at least for tasks that involve learning a finite number of stable states. 

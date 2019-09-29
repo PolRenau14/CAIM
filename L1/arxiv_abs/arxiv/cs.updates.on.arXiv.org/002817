@@ -1,0 +1,17 @@
+Vertex separators, that is, vertex sets whose deletion disconnects two distinguished vertices
+in a graph, play a pivotal role in algorithmic graph theory. For instance, the concept of tree decompositions
+of graphs is tightly connected to the separator concept. For many realistic models of the real world,
+however, it is necessary to consider graphs whose edge set changes with time. More specifically,
+the edges are labeled with time stamps. In the literature, these graphs are referred to as temporal
+graphs, temporal networks, time-varying networks, edge-scheduled networks, etc. While there
+is an extensive literature on separators in "static" graphs, much less is known for the temporal
+setting. Building on previous work (e.g., Kempe et al. [STOC '00]), for the first time we systematically
+investigate the (parameterized) complexity of finding separators in temporal graphs. Doing so,
+we discover a rich landscape of computationally (fixed-parameter) tractable and intractable
+cases. In particular, we shed light on the so far seemingly overlooked fact that two frequently used
+models of temporal separation may lead to quite significant differences in terms of computational
+complexity. More specifically, considering paths in temporal graphs one may distinguish between
+strict paths (the time stamps along a path are strictly increasing) and non-strict paths (the time
+stamps along a path are monotonically non-decreasing). We observe that the corresponding strict
+case of temporal separators leads to several computationally much easier to handle cases than the
+non-strict case does. 

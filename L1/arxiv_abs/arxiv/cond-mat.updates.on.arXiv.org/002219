@@ -1,0 +1,16 @@
+We present the analysis of the impedance spectra for a binary electrolyte confined between blocking
+electrodes with dielectric layers. An expression for the impedance is derived from Poisson-Nernst-Planck
+equations in the linear approximation taking into account the voltage drop on the dielectric layer.
+The analysis shows, that characteristic features of the frequency dependence of the impedance
+are determined by the ratio of the Debay length and the effective thickness of the dielectric layer.
+The impact of the dielectric layer is especially strong in the case of high concentrated electrolytes,
+where the Debay length is small and thus comparable to the effective thickness of the dielectric
+layer. To verify the model, measurements of the impedance spectra and transient currents in a liquid
+crystal 4-n-pentyl-4'-cyanobiphenyl (5CB) confined between polymer-coated electrodes in cells
+of different thicknesses are performed. The estimates for the diffusion coefficient and ion concentration
+in 5CB obtained from the analysis of the impedance spectra and the transient currents are consistent
+and agree with previously reported data. We demonstrate that calculations of the ion parameters
+from the impedance spectra without taking into account the dielectric layer contribution lead
+in most cases to incorrect results. Application of the model to analyze violations of the low-frequency
+impedance scaling and contradictions in the estimates of the ion parameters recently found in some
+ionic electrolytes are discussed. 

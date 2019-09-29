@@ -1,0 +1,16 @@
+We present the result of searching for clusters of galaxies based on weak gravitational lensing
+analysis of the $\sim 160$~deg$^2$ area surveyed by Hyper Suprime-Cam (HSC) as a Subaru Strategic
+Program. HSC is a new prime focus optical imager with a 1.5 diameter field of view on the 8.2-meter
+Subaru telescope. The superb median seeing on the HSC $i$-band images of $0.56$ arcsec allows the
+reconstruction of high angular resolution mass maps via weak lensing, which is crucial for the weak
+lensing cluster search. We identify 65 mass map peaks with signal-to-noise (SN) ratio larger than
+4.7, and carefully examine their properties by cross-matching the clusters with optical and X-ray
+cluster catalogs. We find that all the 39 peaks with SN$>5.1$ have counterparts in the optical cluster
+catalogs, and only 2 out of the 65 peaks are probably false positives. The upper limits of X-ray luminosities
+from ROSAT All Sky Survey (RASS) imply the existence of an X-ray under-luminous cluster population.
+We show that the X-rays from the shear selected clusters can be statistically detected by stacking
+the RASS images. The inferred average X-ray luminosity is about half that of the X-ray selected clusters
+of the same mass. The radial profile of the dark matter distribution derived from the stacking analysis
+is well modeled by the Navarro-Frenk-White profile with a small concentration parameter value
+of $c_{500}\sim 2.5$, which suggests that the selection bias on the orientation or the internal
+structure for our shear selected cluster sample is not strong. 

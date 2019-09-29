@@ -1,0 +1,16 @@
+The large penetration and continued growth in ownership of personal electronic devices represents
+a freely available and largely untapped source of computing power. Moreover, the large environmental
+and social impact of producing these devices suggests we should better use those that already exist.
+We aim to make these devices available for parallel computations to both scientists and other programmers
+of the general public, for their personal projects, and in the simplest way possible to program and
+to deploy. We named our approach to distributed computing personal volunteer computing. We designed,
+implemented, and tested Pando, a new distributed computing tool based on a declarative concurrent
+programming model, organized around the pull-stream design pattern, and implemented using JavaScript,
+WebRTC, and WebSockets. This tool enables a dynamically varying number of failure-prone personal
+devices contributed by volunteers to parallelize the application of a function on a stream of values,
+by using the devices' browsers. To illustrate Pando's capabilities, to show its benefits as well
+as its limitations, we implemented a variety of applications including crypto-currency mining,
+hyper-parameter optimization in machine learning, crowd computing, and open data processing
+and tested it using diverse devices we have accumulated over the years. Pando, both as a tool and a
+reference design, should therefore be a useful addition to the parallel toolbox of a multitude of
+users and a complementary approach to existing parallel and distributed computing alternatives.

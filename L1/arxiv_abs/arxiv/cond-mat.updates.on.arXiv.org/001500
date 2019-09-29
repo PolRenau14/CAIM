@@ -1,0 +1,16 @@
+Thermoelectric transport is traditionally analyzed using relations imposed by time-reversal
+symmetry, ranging from Onsager's results to fluctuation relations in counting statistics. In
+this paper, we show that a recently discovered duality relation for fermionic systems -- deriving
+from the fundamental fermion-parity superselection principle of quantum many-particle systems
+-- provides new insights into thermoelectric transport. Using a master equation, we analyze the
+stationary charge and heat currents through a weakly coupled, but strongly interacting single-level
+quantum dot subject to electrical and thermal bias. In linear transport, the fermion-parity duality
+shows that features of thermoelectric response coefficients are actually dominated by the average
+and fluctuations of the charge in a dual quantum dot system, governed by attractive instead of repulsive
+electron-electron interaction. In the nonlinear regime, the duality furthermore relates most
+transport coefficients to much better understood equilibrium quantities. Finally, we naturally
+identify the fermion-parity as the part of the Coulomb interaction relevant for both the linear
+and nonlinear Fourier heat. Altogether, our findings hence reveal that next to time-reversal,
+the duality imposes equally important symmetry restrictions on thermoelectric transport. As
+such, it is also expected to simplify computations and clarify the physical understanding for more
+complex systems than the simplest relevant interacting nanostructure model studied here. 

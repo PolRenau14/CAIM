@@ -1,0 +1,16 @@
+Ground-based ultra-high contrast imaging, as required for direct imaging of exoplanets and other
+solar systems, is limited by difficulty of separating the planetary emission from the effects of
+optical aberrations that are not compensated by the adaptive optics (AO) system, so-called "non-common
+path aberrations" (NCPAs). Simultaneous ($\sim$ millisecond) exposures by the science camera
+and the AO system enable the use of "phase diversity" to estimate both the NCPAs and the scene via a
+processing procedure first described by the author (R. Frazin 2013, ApJ, 767, article id. 21). This
+method is fully compatible with more standard concepts used in long-exposure high-contrast imaging,
+such as angular differential imaging and spectral deconvolution. Long-exposure methods find
+time-dependent NCPAs, such as those caused by vibrations, particularly challenging. Here, an
+NCPA of the form of $\alpha \exp[j(k \cdot r - \omega t + \vartheta)]$ is considered. It is shown that,
+when sampled at millisecond time-scales, the image plane data are sensitive to $\mbox{arg}(\alpha)$,
+$\vartheta$ and $\omega$, and, therefore such NCPAs can be simultaneously estimated with the scene.
+Simulations of observations with ms exposure times are reported. These simulations include substantial
+detector noise and a sinusoidal NCPA that places a speckle exactly at the location of a planet. Simulations
+show that the effects of detector noise can be mitigated by mixing exposures of various lengths,
+allowing estimation of the planet's brightness. 

@@ -1,0 +1,16 @@
+In our previous work we confirmed the reliability of the spherically symmetric Schwarzschild orbit-superposition
+method to recover the mass and velocity anisotropy profiles of spherical dwarf galaxies. Here we
+investigate the effect of its application to intrinsically non-spherical objects. For this purpose
+we use a model of a dwarf spheroidal galaxy formed in a numerical simulation of a major merger of two
+disky dwarfs. The shape of the stellar component of the merger remnant is axisymmetric and prolate
+which allows us to identify and measure the bias caused by observing the spheroidal galaxy along
+different directions, especially the longest and shortest principal axis. The modelling is based
+on mock data generated from the remnant that are observationally available for dwarfs: projected
+positions and line-of-sight velocities of the stars. In order to obtain a reliable tool while keeping
+the number of parameters low we parametrize the total mass distribution as a radius-dependent mass-to-light
+ratio with just two free parameters we aim to constrain. Our study shows that if the total density
+profile is known, the true, radially increasing anisotropy profile can be well recovered for the
+observations along the longest axis whereas the data along the shortest axis lead to the inference
+an incorrect, isotropic model. On the other hand, if the density profile is derived from the method
+as well, the anisotropy is always underestimated but the total mass profile is well recovered for
+the data along the shortest axis whereas for the longest axis the mass content is overestimated.

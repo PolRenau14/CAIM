@@ -1,0 +1,16 @@
+We study X-ray spectra of four Narrow Line Seyfert 1 galaxies (NLS1s), Mrk 110, SWIFT J2127.4+5654,
+IGR J16185-5928, and WKK 4438, using Suzaku and NuSTAR data. The spectra of the four sources are reproduced
+with a model consisting of a cutoff power law component, a reflection component, and a soft excess
+component. The photon indices of all the sources are found to be ~ 2. The cutoff energies are constrained
+to be ~ 40 keV for Mrk 110, SWIFT J2127.4+5654, and WKK 4438, whereas a lower limit of 155 keV is obtained
+for IGR J16185-5928. We find that the NLS1s in our sample have systematically softer spectra and
+lower cutoff energies than Broad Line Seyfert 1 galaxies reported in the literature. We also perform
+spectral fittings with a model in which the cutoff power law is replaced with the thermal Comptonization
+model in order to directly obtain the electron temperature of the corona (kTe). The fits give kTe
+~ 10-20 keV for Mrk 110 and SWIFT J2127.4+5654, and lower limits of kTe > 18 keV for IGR J16185-5928
+and kTe > 5 keV for WKK 4438. We divide the NuSTAR data of SWIFT J2127.4+5654 into three periods according
+to the flux. The spectral fits in the three periods hint that kTe is the lower in the higher flux period.
+The results of the four sources suggest a possible anti-correlation between kTe and the ratio of
+the luminosity of Compton up-scattered photons to the Eddington luminosity. The anti-correlation
+can be explained by a simple model in which electrons in the corona are cooled and heated through inverse
+Compton scattering and Coulomb collisions with protons, respectively. 

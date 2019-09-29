@@ -1,0 +1,17 @@
+During transient events such as major solar eruptions, the plasma can be far from the equilibrium
+ionization state because of rapid heating or cooling. Non-equilibrium ionization~(NEI) is important
+in rapidly evolving systems where the thermodynamical timescale is shorter than the ionization
+or recombination time scales. We investigate the effects of NEI on EUV and X-ray observations by
+the Atmospheric Imaging Assembly (AIA) on board Solar Dynamic Observatory and X-ray Telescope
+(XRT) on board Hinode. Our model assumes that the plasma is initially in ionization equilibrium
+at low temperature, and it is heated rapidly by a shock or magnetic reconnection. We tabulate the
+responses of the AIA and XRT passbands as functions of temperature and a characteristic timescale,
+$n_{e}t$. We find that most of the ions reach equilibrium at $n_{e}t\leq$10$^{12}$ cm$^{-3}$s.
+Comparing ratios of the responses between different passbands allows us to determine whether a
+combination of plasmas at temperatures in ionization equilibrium can account for a given AIA and
+XRT observation. It also expresses how far the observed plasma is from equilibrium ionization.
+We apply the ratios to a supra-arcade plasma sheet on 2012 January 27. We find that the closer the plasma
+is to the arcade, the closer it is to a single-temperature plasma in ionization equilibrium. We also
+utilize the set of responses to estimate the temperature and density for shocked plasma associated
+with a coronal mass ejection on 2010 June 13. The temperature and density ranges we obtain are in reasonable
+agreement with previous works. 

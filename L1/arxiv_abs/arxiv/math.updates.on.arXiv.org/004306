@@ -1,0 +1,16 @@
+We consider a one-dimensional simple random walk surviving among a field of static soft traps : each
+time it meets a trap the walk is killed with probability 1--e --$\beta$ , where $\beta$ is a positive
+and fixed parameter. The positions of the traps are sampled independently from the walk and according
+to a renewal process. The increments between consecutive traps, or gaps, are assumed to have a power-law
+decaying tail with exponent $\gamma$ > 0. We prove convergence in law for the properly rescaled logarithm
+of the quenched survival probability as time goes to infinity. The normalization exponent is $\gamma$/($\gamma$
++ 2), while the limiting law writes as a variational formula with both universal and non-universal
+features. The latter involves (i) a Poisson point process that emerges as the universal scaling
+limit of the properly rescaled gaps and (ii) a function of the parameter $\beta$ that we call asymptotic
+cost of crossing per trap and that may, in principle, depend on the details of the gap distribution.
+Our proof suggests a confinement strategy of the walk in a single large gap. This model may also be
+seen as a (1 + 1)-directed polymer among many repulsive interfaces, in which case $\beta$ corresponds
+to the strength of repulsion, the survival probability to the partition function and its logarithm
+to the finite-volume free energy. Along the way we prove a stochastic monotonicity property for
+the hitting time of the killed random walk with respect to the non-killed one, that could be of interest
+in other contexts, see Proposition 3.5. 

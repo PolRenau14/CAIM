@@ -1,0 +1,17 @@
+Social networks often provide only a binary perspective on social ties: two individuals are either
+connected or not. While sometimes external information can be used to infer the \emph{strength}
+of social ties, access to such information may be restricted or impractical. Sintos and Tsaparas
+(KDD 2014) first suggested to infer the strength of social ties from the topology of the network alone,
+by leveraging the \emph{Strong Triadic Closure (STC)} property. %---postulated to hold in social
+networks~\cite{sim:08}. The STC property states that if person $A$ has strong social ties with
+persons $B$ and $C$, $B$ and $C$ must be connected to each other as well (whether with a weak or strong
+tie). Sintos and Tsaparas exploited this to formulate the inference of the strength of social ties
+as NP-hard optimization problem, and proposed two approximation algorithms. We refine and improve
+upon this landmark paper, by developing a sequence of linear relaxations of this problem that can
+be solved exactly in polynomial time. Usefully, these relaxations infer more fine-grained levels
+of tie strength (beyond strong and weak), which also allows to avoid making arbitrary strong/weak
+strength assignments when the network topology provides inconclusive evidence. One of the relaxations
+simultaneously infers the presence of a limited number of STC violations. An extensive theoretical
+analysis leads to two efficient algorithmic approaches. Finally, our experimental results elucidate
+the strengths of the proposed approach, and sheds new light on the validity of the STC property in
+practice. 

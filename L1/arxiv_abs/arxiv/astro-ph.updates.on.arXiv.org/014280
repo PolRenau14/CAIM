@@ -1,0 +1,16 @@
+The R Coronae Borealis (RCB) stars are rare hydrogen--deficient, carbon--rich supergiants. They
+undergo extreme, irregular declines in brightness of many magnitudes due to the formation of thick
+clouds of carbon dust. It is thought that RCB stars result from the mergers of CO/He white dwarf (WD)
+binaries. We constructed post--merger spherically asymmetric models computed with the MESA code,
+and then followed the evolution into the region of the HR diagram where the RCB stars are located.
+We also investigated nucleosynthesis in the dynamically accreting material of CO/He WD mergers
+which may provide a suitable environment for significant production of 18O and the very low 16O/18O
+values observed. We have also discovered that the N abundance depends sensitively on the peak temperature
+in the He--burning shell. Our MESA modeling consists of engineering the star by adding He--WD material
+to an initial CO--WD model, and then following the post--merger evolution using a nuclear--reaction
+network to match the observed RCB abundances as it expands and cools to become an RCB star. These new
+models are more physical because they include rotation, mixing, mass-loss, and nucleosynthesis
+within MESA. We follow the later evolution beyond the RCB phase to determine the stars' likely lifetimes.
+The relative numbers of known RCB and Extreme Helium (EHe) stars correspond well to the lifetimes
+predicted from the MESA models. In addition, most of computed abundances agree very well with the
+observed range of abundances for the RCB class. 

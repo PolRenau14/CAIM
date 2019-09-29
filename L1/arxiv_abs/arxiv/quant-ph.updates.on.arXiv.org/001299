@@ -1,0 +1,16 @@
+Unconditionally secure communication, being pursued for thousands of years, however, hasn't
+been reached yet due to continuous competitions between encryption and hacking. Quantum key distribution
+(QKD), harnessing the quantum mechanical nature of superposition and non-cloning, may promise
+unconditional security by incorporating the one-time pad algorithm rigorously proved by Claude
+Shannon. Massive efforts have been made in building practical and commercial QKD systems, in particular,
+decoy states are employed to detect photon-number splitting attack against single-photon source
+loophole, and measurement-device-independent (MDI) QKD has further closed all loopholes in detection
+side, which leads to a seemingly real-life application. Here, we propose and experimentally demonstrate
+an MDI-QKD hacking strategy on the trusted source assumption by using injection locking technique.
+Eve injects near off-resonance photons in randomly chosen polarization into sender's laser, where
+injection locking in a shifted frequency can happen only when Eve's choice matches with sender's
+state. By setting a shifted window and switching the frequency of photons back afterwards, Eve in
+principle can obtain all the keys without terminating the real-time QKD. We observe the dynamics
+of a semiconductor laser with injected photons, and obtain a hacking success rate reaching 60.0%.
+Our results suggest that the spear-and-shield competitions on unconditional security may continue
+until all potential loopholes are discovered and closed ultimately. 

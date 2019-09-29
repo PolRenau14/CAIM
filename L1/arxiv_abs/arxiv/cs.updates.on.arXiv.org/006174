@@ -1,0 +1,16 @@
+In this paper, we present a detailed analysis on extracting soft biometric traits, age and gender,
+from ear images. Although there have been a few previous work on gender classification using ear
+images, to the best of our knowledge, this study is the first work on age classification from ear images.
+In the study, we have utilized both geometric features and appearance-based features for ear representation.
+The utilized geometric features are based on eight anthropometric landmarks and consist of 14 distance
+measurements and two area calculations. The appearance-based methods employ deep convolutional
+neural networks for representation and classification. The well-known convolutional neural
+network models, namely, AlexNet, VGG-16, GoogLeNet, and SqueezeNet have been adopted for the study.
+They have been fine-tuned on a large-scale ear dataset that has been built from the profile and close-to-profile
+face images in the Multi-PIE face dataset. This way, we have performed a domain adaptation. The updated
+models have been fine-tuned once more time on the small-scale target ear dataset, which contains
+only around 270 ear images for training. According to the experimental results, appearance-based
+methods have been found to be superior to the methods based on geometric features. We have achieved
+94\% accuracy for gender classification, whereas 52\% accuracy has been obtained for age classification.
+These results indicate that ear images provide useful cues for age and gender classification, however,
+further work is required for age estimation. 

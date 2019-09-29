@@ -1,0 +1,17 @@
+The properties of sputtered and scattered ions are studied for ion beam sputtering of Si by bombardment
+with noble gas ions. The energy distributions in dependence on ion beam parameters (ion energy:
+0.5 - 1 keV; ion species: Ne, Ar, Xe) and geometrical parameters (ion incidence angle, polar emission
+angle, scattering angle) are measured by means of energy-selective mass spectrometry. The presence
+of anisotropic effects due to direct sputtering and scattering is discussed and correlated with
+process parameters. The experimental results are compared to calculations based on a simple elastic
+binary collision model and to simulations using the Monte-Carlo code SDTrimSP. The influence of
+the contribution of implanted primary ions on energy distributions of sputtered and scattered
+particles is studied in simulations. It is found that a 10\% variation of the target composition
+leads to detectable but small differences in the energy distributions of scattered ions. Comparison
+with previously reported data for other ion/target configurations confirms the presence of similar
+trends and anisotropic effects: the number of high-energy sputtered ions increases with increasing
+energy of incident ions and decreasing scattering angle. The effect of the ion/target mass ratio
+is additionally investigated. Small differences are observed with the change of the primary ion
+species: the closer the mass ratio to unity, the higher the average energy of sputtered ions. The
+presence of peaks, assigned to different mechanisms of direct scattering, strongly depends on
+the ion/target mass ratio. 

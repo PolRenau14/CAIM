@@ -1,0 +1,17 @@
+We explore the origin of fast molecular outflows that have been observed in Active Galactic Nuclei
+(AGN). Previous numerical studies have shown that it is difficult to create such an outflow by accelerating
+existing molecular clouds in the host galaxy, as the clouds will be destroyed before they can reach
+the high velocities that are observed. In this work, we consider an alternative scenario where molecules
+form in-situ within the AGN outflow. We present a series of hydro-chemical simulations of an isotropic
+AGN wind interacting with a uniform medium. We follow the time-dependent chemistry of 157 species,
+including 20 molecules, to determine whether molecules can form rapidly enough to produce the observed
+molecular outflows. We find H$_2$ outflow rates up to 140 M$_\odot$ yr$^{-1}$, which is sensitive
+to density, AGN luminosity, and metallicity. We compute emission and absorption lines of CO, OH
+and warm (a few hundred K) H$_2$ from the simulations in post-processing. The CO-derived outflow
+rates and OH absorption strengths at solar metallicity agree with observations, although the maximum
+line of sight velocities from the model CO spectra are a factor $\approx$2 lower than is observed.
+We derive a CO (1-0) to H$_2$ conversion factor of $\alpha_{\rm{CO} (1-0)}$ = 0.13 M$_\odot$ (K km
+s$^{-1}$ pc$^2$)$^{-1}$, 6 times lower than is commonly assumed in observations of such systems.
+We find strong emission from the mid-infrared lines of H$_2$. The mass of H$_2$ traced by this infrared
+emission is within a few per cent of the total H$_2$ mass. This H$_2$ emission may be observable by
+JWST. 

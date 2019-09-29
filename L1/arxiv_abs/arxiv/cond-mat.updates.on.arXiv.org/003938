@@ -1,0 +1,16 @@
+The spreading of entanglement in out-of-equilibrium quantum systems is currently at the centre
+of intense interdisciplinary research efforts involving communities with interests ranging
+from holography to quantum information. Here we provide a constructive and mathematically rigorous
+method to compute the entanglement dynamics in a class of "maximally chaotic", periodically driven,
+quantum spin chains. Specifically, we consider the so called "self-dual" kicked Ising chains initialised
+in a class of separable states and devise a method to compute exactly the time evolution of the entanglement
+entropies of finite blocks of spins in the thermodynamic limit. Remarkably, these exact results
+are obtained despite the models considered are maximally chaotic: their spectral correlations
+are described by the circular orthogonal ensemble of random matrices on all scales. Our results
+saturate the so called "minimal cut" bound and are in agreement with those found in the contexts of
+random unitary circuits with infinite-dimensional local Hilbert space and conformal field theory.
+In particular, they agree with the expectations from both the quasiparticle picture, which accounts
+for the entanglement spreading in integrable models, and the minimal membrane picture, recently
+proposed to describe the entanglement growth in generic systems. Based on a novel "duality-based"
+numerical method, we argue that our results describe the entanglement spreading from any product
+state at the leading order in time when the model is non-integrable. 

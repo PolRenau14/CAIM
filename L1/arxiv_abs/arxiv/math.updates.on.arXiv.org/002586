@@ -1,0 +1,17 @@
+Photoacoustic imaging (PAI) is an emerging medical imaging modality capable of providing high
+spatial resolution of Ultrasound (US) imaging and high contrast of optical imaging. Delay-and-Sum
+(DAS) is the most common beamforming algorithm in PAI. However, using DAS beamformer leads to low
+resolution images and considerable contribution of off-axis signals. A new paradigm namely Delay-Multiply-and-Sum
+(DMAS), which was originally used as a reconstruction algorithm in confocal microwave imaging,
+was introduced to overcome the challenges in DAS. DMAS was used in PAI systems and it was shown that
+this algorithm results in resolution improvement and sidelobe degrading. However, DMAS is still
+sensitive to high levels of noise, and resolution improvement is not satisfying. Here, we propose
+a novel algorithm based on DAS algebra inside DMAS formula expansion, Double Stage DMAS (DS-DMAS),
+which improves the image resolution and levels of sidelobe, and is much less sensitive to high level
+of noise compared to DMAS. The performance of DS-DMAS algorithm is evaluated numerically and experimentally.
+The resulted images are evaluated qualitatively and quantitatively using established quality
+metrics including signal-to-noise ratio (SNR), full-width-half-maximum (FWHM) and contrast
+ratio (CR). It is shown that DS-DMAS outperforms DAS and DMAS at the expense of higher computational
+load. DS-DMAS reduces the lateral valley for about 15 dB and improves the SNR and FWHM better than
+13% and 30%, respectively. Moreover, the levels of sidelobe are reduced for about 10 dB in comparison
+with those in DMAS. 

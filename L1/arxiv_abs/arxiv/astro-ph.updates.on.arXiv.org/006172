@@ -1,0 +1,16 @@
+When the gravitational lensing of the large-scale structure is calculated from a cosmological
+model a few assumptions enter: $(i)$ one assumes that the photons follow unperturbed background
+geodesics, which is usually referred to as the Born-approximation, $(ii)$ the lenses move slowly,
+$(iii)$ the source-redshift distribution is evaluated relative to the background quantities
+and $(iv)$ the lensing effect is linear in the gravitational potential. Even though these approximations
+are small individually they could sum up, especially since they include local effects such as the
+Sachs-Wolfe and peculiar motion, but also non-local ones like the Born-approximation and the integrated
+Sachs-Wolfe effect. In this work we will address all points mentioned and perturbatively calculate
+the effect on a tomographic cosmic shear power spectrum of each effect individually as well as all
+cross-correlations. Our findings show that each effect is at least 4 to 5 orders of magnitude below
+the leading order lensing signal. Finally we sum up all effects to estimate the overall impact on
+parameter estimation by a future cosmological weak lensing survey such as Euclid in a $w$CDM cosmology
+with parametrisation $\Omega_\mathrm{m}$, $\sigma_8$,$n_\mathrm{s}$, $h$, $w_0$ and $w_\mathrm{a}$,
+using 5 tomographic bins. We consistently find a parameter bias of $10^{-5}$, which is therefore
+completely negligible for all practical purposes, confirming that other effects such as intrinsic
+alignments and magnification bias will be the dominant systematic source in future surveys. 

@@ -1,0 +1,16 @@
+We present the first joint observation of a small microflare in X-rays with the Nuclear Spectroscopic
+Telescope ARray (NuSTAR), UV with the Interface Region Imaging Spectrograph (IRIS) and EUV with
+the Solar Dynamics Observatory/Atmospheric Imaging Assembly (SDO/AIA). These combined observations
+allows us to study the microflare's hot coronal and cooler chromospheric/transition region emission.
+This small microflare peaks from SOL2016-07-26T23:35 to 23:36UT, in both NuSTAR, SDO/AIA and IRIS.
+Spatially this corresponds to a small loop visible in the SDO/AIA Fe XVIII emission, which matches
+a similar structure lower in the solar atmosphere seen by IRIS in SJI1330{\AA} and 1400\AA. The NuSTAR
+emission in both 2.5-4 keV and 4-6 keV, is located in a small source at this loop location. The IRIS
+slit was over the microflaring loop, and fits show little change in Mg II but do show intensity increases,
+slight width enhancements and redshifts in Si IV andO IV, indicating that this microflare had most
+significance in and above the upper chromosphere. The NuSTAR microflare spectrum is well fitted
+by a thermal component of 5.8MK and $2.3\times10^{44}$ cm$^{-3}$, which corresponds to a thermal
+energy of $10^{26}$ erg, making it considerably smaller than previously studied X-ray microflares.
+No non-thermal emission was detected but this could be due to the limited effective exposure time
+of the observation. This observation shows that even ordinary features seen in UV and EUV, can remarkably
+have a higher energy component that is clear in X-rays. 

@@ -1,0 +1,16 @@
+A family of mixed finite elements is proposed for solving the first order system of linear elasticity
+equations in any space dimension, where the stress field is approximated by symmetric finite element
+tensors. This family of elements has a perfect matching between the stress components and the displacement.
+The discrete spaces for the normal stress $\sigma_{ii}$, the shear stress $\sigma_{ij}$ and the
+displacement $u_i$ are $\operatorname{span}\{1,x_i\}$, $\operatorname{span}\{1,x_i,x_j\}$
+and $\operatorname{span}\{1\}$, respectively, on rectangular grids. In particular, the definition
+remains the same for all space dimensions. As a result of these choices, the theoretical analysis
+is independent of the spatial dimension as well. In 1D, this element is nothing else but the 1D Raviart-Thomas
+element, which is the only conforming element in this family. In 2D and higher dimensions, they are
+new elements but of the minimal degrees of freedom. The total degrees of freedom per element is 2 plus
+1 in 1D, 7 plus 2 in 2D, and 15 plus 3 in 3D. The previous record of the least degrees of freedom is, 13 plus
+4 in 2D, and 54 plus 12 in 3D, on the rectangular grid. These elements are the simplest element for any
+space dimension. The well-posedness condition and the optimal a priori error estimate of the family
+of finite elements are proved for both pure displacement and traction problems. Numerical tests
+in 2D and 3D are presented to show a superiority of the new element over others, as a superconvergence
+is surprisingly exhibited. 

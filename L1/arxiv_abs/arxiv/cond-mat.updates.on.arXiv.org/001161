@@ -1,0 +1,16 @@
+A growing literature examines the effects of superdiffusive subballistic movement pre-measurement
+(ageing or time lag) on observations arising from single-particle tracking. However, a neglected
+aspect is the life and mortality of these L\'evy walkers, be they proteins, cells or larger structures.
+In this work we examine the effects of ageing on the motility of mortal walkers, and discuss the means
+by which inherent death of walkers may be distinguished from experimental artefacts arising from
+e.g. low photostability or radiation damage. This is done by comparison of the walkers' mean squared
+displacement (MSD) with the front velocity of propagation of a group of walkers, which is found to
+be invariant under time lags. We consider both ageing arising from the walkers already having a fixed
+running time at the start of measurement, as well as running times distributed according to their
+survival probability as occurs if the walkers equilibrate pre-measurement. For any running time
+distribution of a mortal random walker, the MSD is tempered by a decaying exponential governed by
+the death rate $\theta$. This provides a physical interpretation for truncated heavy-tailed diffusion
+processes and serves as a tool by which to better classify the underlying running time distribution
+of the walkers. For certain running time distributions a fixed time lag is shown to result in a transition
+to ballistic motion. Tempering of aged MSDs raises the issue of misinterpreting superdiffusive
+motion which appears Brownian over certain time scales. 

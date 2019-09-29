@@ -1,0 +1,16 @@
+We propose a novel efficient algorithm to solve Poisson equation in irregular two dimensional domains
+for electrostatics. It can handle Dirichlet, Neumann or mixed boundary problems in which the filling
+media can be homogeneous or inhomogeneous. The basic idea of the new method is solve the problem in
+three steps: (i) First solve the equation $\nabla\cdot\mathbf D=\rho$. The inverse of the divergence
+operator in a restricted subspace is found to yield the electric flux density $\mathbf D$ by a fast
+direct solver in O(N) operations. The $\mathbf D$ so obtained is nonunique with indeterminate divergence-free
+component. Then the electric field is found by $\mathbf E=\mathbf D/\epsilon$. But $\nabla\times\mathbf
+E=0$ for electrostatic field; hence, $\mathbf E$ is curl free and orthogonal to the divergence free
+space. (ii) An orthogonalization process is used to purify the electric field making it curl free
+and unique. (iii) Then the potential $\phi$ is obtained by solving $\nabla \phi=-\mathbf E$ or finding
+the inverse of the gradient operator in a restricted subspace by a similar fast direct solver in O(N)
+operations. Treatments for both Dirichlet and Neumann boundary conditions are addressed. Finally,
+the validation and efficiency are illustrated by several numerical examples. Through these simulations,
+it is observed that the computational complexity of our proposed method almost scales as O(N) where
+N is the triangle patch number of meshes. Consequently, this new algorithm is a feasible fast Poisson
+solver. 

@@ -1,0 +1,16 @@
+A main disadvantage of many high-order methods for hyperbolic conservation laws lies in the famous
+Gibbs-Wilbraham phenomenon, once discontinuities appear in the solution. Due to the Gibbs-Wilbraham
+phenomenon, the numerical approximation will be polluted by spurious oscillations, which produce
+unphysical numerical solutions and might finally blow up the computation. In this work, we propose
+a new shock capturing procedure to stabilise high-order spectral element approximations. The
+procedure consists of going over from the original (polluted) approximation to a convex combination
+of the original approximation and its Bernstein reconstruction, yielding a stabilised approximation.
+The coefficient in the convex combination, and therefore the procedure, is steered by a discontinuity
+sensor and is only activated in troubled elements. Building up on classical Bernstein operators,
+we are thus able to prove that the resulting Bernstein procedure is total variation diminishing
+and preserves monotone (shock) profiles. Further, the procedure can be modified to not just preserve
+but also to enforce certain bounds for the solution, such as positivity. In contrast to other shock
+capturing methods, e.g. artificial viscosity methods, the new procedure does not reduce the time
+step or CFL condition and can be easily and efficiently implemented into any existing code. Numerical
+tests demonstrate that the proposed shock-capturing procedure is able to stabilise and enhance
+spectral element approximations in the presence of shocks. 

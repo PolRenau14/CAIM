@@ -1,0 +1,17 @@
+Physics-informed neural networks (PINNs) are effective in solving integer-order partial differential
+equations (PDEs) based on scattered and noisy data. PINNs employ standard feedforward neural networks
+(NNs) with the PDEs explicitly encoded into the NN using automatic differentiation, while the sum
+of the mean-squared PDE-residuals and the mean-squared error in initial/boundary conditions
+is minimized with respect to the NN parameters. We extend PINNs to fractional PINNs (fPINNs) to solve
+space-time fractional advection-diffusion equations (fractional ADEs), and we demonstrate
+their accuracy and effectiveness in solving multi-dimensional forward and inverse problems with
+forcing terms whose values are only known at randomly scattered spatio-temporal coordinates (black-box
+forcing terms). A novel element of the fPINNs is the hybrid approach that we introduce for constructing
+the residual in the loss function using both automatic differentiation for the integer-order operators
+and numerical discretization for the fractional operators. We consider 1D time-dependent fractional
+ADEs and compare white-box (WB) and black-box (BB) forcing. We observe that for the BB forcing fPINNs
+outperform FDM. Subsequently, we consider multi-dimensional time-, space-, and space-time-fractional
+ADEs using the directional fractional Laplacian and we observe relative errors of $10^{-4}$. Finally,
+we solve several inverse problems in 1D, 2D, and 3D to identify the fractional orders, diffusion
+coefficients, and transport velocities and obtain accurate results even in the presence of significant
+noise. 

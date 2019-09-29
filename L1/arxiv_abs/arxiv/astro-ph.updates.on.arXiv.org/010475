@@ -1,0 +1,16 @@
+The metallicity and its relationship with other galactic properties is a fundamental probe of the
+evolution of galaxies. In this work, we select about 750,000 star-forming spatial pixels from 1122
+blue galaxies in the MaNGA survey to investigate the global stellar mass - local stellar mass surface
+density - gas-phase metallicity ($M_*$ - $\Sigma_*$ - $Z$ ) relation. At a fixed $M_*$, the metallicity
+increases steeply with increasing $\Sigma_*$. Similarly, at a fixed $\Sigma_*$, the metallicity
+increases strongly with increasing $M_*$ at low mass end, while this trend becomes less obvious
+at high mass end. We find the metallicity to be more strongly correlated to $\Sigma_*$ than to $M_*$.
+Furthermore, we construct a tight (0.07 dex scatter) $M_*$ - $\Sigma_*$ - $Z$ relation, which reduces
+the scatter in the $\Sigma_*$ - $Z$ relation by about 30$\%$ for galaxies with $7.8 < {\rm log}(M_*/M_\odot)
+< 11.0$, while the reduction of scatter is much weaker for high-mass galaxies. This result suggests
+that, especially for low-mass galaxies, the $M_*$ - $\Sigma_*$ - $Z$ relation is largely more fundamental
+than the $M_*$ - $Z$ and $\Sigma_*$ - $Z$ relations, meaning that both $M_*$ and $\Sigma_*$ play important
+roles in shaping the local metallicity. We also find that the local metallicity is probably independent
+on the local star formation rate surface density at a fixed $M_*$ and $\Sigma_*$. Our results are
+consistent with the scenario that the local metallicities in galaxies are shaped by the combination
+of the local stars formed in the history and the metal loss caused by galactic winds. 

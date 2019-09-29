@@ -1,0 +1,16 @@
+We present the results of the detailed analysis of an optical imaging survey conducted using the
+Subaru / Hyper Suprime-Cam (HSC), which aims to identify an optical counterpart to the gravitational
+wave event GW151226. In half a night, the $i$- and $z$-band imaging survey by HSC covers 63.5deg$^2$
+of the error region, which contains about 7\% of the LIGO localization probability, and the same
+field is observed in three different epochs. The detectable magnitude of the candidates in a differenced
+image is evaluated as $i \sim 23.2$ mag for the requirement of at least two 5$\sigma$ detections,
+and 1744 candidates are discovered. Assuming a kilonova as an optical counterpart, we compared
+the optical properties of the candidates with model predictions. A red and rapidly declining light
+curve condition enables the discrimination of a kilonova from other transients, and a small number
+of candidates satisfy this condition. The presence of stellar-like counterparts in the reference
+frame suggests that the surviving candidates are likely to be flare stars. The fact that most of those
+candidates are in galactic plane, $|b|<5^{\circ}$, supports this interpretation. We also checked
+whether the candidates are associated with the nearby GLADE galaxies, which reduces the number
+of contaminants even with a looser color cut. When a better probability map (with localization accuracy
+of $\sim50{\rm deg}^2$) is available, kilonova searches of up to approximately $200$ Mpc will become
+feasible by conducting immediate follow-up observations with an interval of 3--6 days. 

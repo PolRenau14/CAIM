@@ -1,0 +1,16 @@
+X-ray reverberation in Active Galactic Nuclei, believed to be the result of the reprocessing of
+coronal photons by the underlying accretion disc, has allowed us to probe the properties of the inner-most
+regions of the accretion flow and the central black hole. Our current model (KYNREFREV) computes
+the time-dependent reflection spectra of the disc as a response to a flash of primary power-law radiation
+from a point source corona located on the axis of the black hole accretion disc (lamp-post geometry).
+Full relativistic effects are taken into account. The ionization of the disc is set for each radius
+according to the amount of the incident primary flux and the density of the accretion disc. We detect
+wavy residuals around the best-fit reverberation model time lags at high frequencies. This result
+suggests that the simple lamp-post geometry does not fully explain the X-ray source/disc configuration
+in Active Galactic Nuclei. There has been a noticeable progress into the development of codes for
+extended coronae (Wilkins+16, Chainakun & Young 2017, Taylor & Reynolds 2018a,b). Indeed, the
+model from Chainakun & Young 2017, consisting of two axial point sources illuminating an accretion
+disc that produce the reverberation lags is able to reproduce the observed time-lag versus frequency
+spectra. The goal of this paper is to observationally justify the need for an extended corona in order
+to provide (in the near future) with a mathematical formulation of a model for an extended corona
+in its simplest form. 

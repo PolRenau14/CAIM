@@ -1,0 +1,16 @@
+The nanoflare-heating theory predicts steady hot plasma emission in the non-flaring active regions.
+It is hard to find this emission with conventional non-monochromatic imagers (such as Atmospheric
+Imaging Assembly or X-Ray Telescope), because their images contain a cool temperature background.
+In this work, we search for hot plasma in non-flaring active regions using the Mg XII spectroheliograph
+onboard Complex Orbital Observations Near-Earth of Activity on the Sun (CORONAS)-F/SPectroheliographIc
+X-ray Imaging Telescope (SPIRIT). This instrument acquired monochromatic images of the solar
+corona in the Mg XII 8.42 \AA line, which emits only at temperatures higher than 4 MK. The Mg XII images
+contain the signal only from hot plasma without any low-temperature background. We studied the
+hot plasma in active regions using the SPIRIT data from 18-28 February 2002. During this period,
+the Mg XII spectroheliograph worked with a 105-second cadence almost without data gaps. The hot
+plasma was observed only in the flaring active regions. We do not observe any hot plasma in non-flaring
+active regions. The hot plasma column emission measure in the non-flaring active region should
+not exceed $3 \times 10^{24}$ cm$^{-5}$. The hot Differential Emission Measure (DEM) is less than
+0.01 % of the DEM of the main temperature component. Absence of Mg XII emission in the non-flaring
+active regions can be explained by weak and frequent nanoflares (delay less than 500 seconds) or
+by very short and intense nanoflares that lead to non-equilibrium ionization. 

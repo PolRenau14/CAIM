@@ -1,0 +1,16 @@
+An optical topological transition is defined as the change in the photonic isofrequency surface
+around epsilon-near-zero (ENZ) frequencies which can considerably change the spontaneous emission
+of a quantum emitter placed near a metamaterial slab. Here, we show that due to the strong Kerr nonlinearity
+at ENZ frequencies, a high power pulse can induce a sudden transition in the topology of the iso-frequency
+dispersion curve, leading to a significant change in the transmission of propagating as well as
+evanescent waves through the metamaterial slab. This evanescent wave switch effect allows for
+the control of spontaneous emission through modulation of the Purcell effect. We develop a theory
+of the enhanced nonlinear response of ENZ media to s and p polarized inputs and show that this nonlinear
+effect is stronger for p polarization and is almost independent of the incident angle. We perform
+finite-difference time-domain (FDTD) simulations to demonstrate the transient response of the
+metamaterial slab to an ultrafast pulse and fast switching of the Purcell effect at the sub-picosecond
+scale. The Purcell factor changes at ENZ by almost a factor of three which is an order of magnitude
+stronger than that away from ENZ. We also show that due to the inhomogeneous spatial field distribution
+inside the multilayer metal-dielectric super-lattice, a unique spatial topological transition
+metamaterial can be achieved by the control pulse induced nonlinearity. Our work can lead to ultra-fast
+control of quantum phenomena in ENZ metamaterials. 

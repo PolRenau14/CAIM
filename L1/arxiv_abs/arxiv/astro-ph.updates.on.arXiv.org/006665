@@ -1,0 +1,16 @@
+The velocity anisotropy parameter, beta, is a measure of the kinematic state of orbits in the stellar
+halo which holds promise for constraining the merger history of the Milky Way (MW). We determine
+global trends for beta as a function of radius from three suites of simulations, including accretion
+only and cosmological hydrodynamic simulations. We find that both types of simulations are consistent
+and predict strong radial anisotropy (<beta>~0.7) for Galactocentric radii greater than 10 kpc.
+Previous observations of beta for the MW's stellar halo claim a detection of an isotropic or tangential
+"dip" at r~20 kpc. Using the N-body+SPH simulations, we investigate the temporal persistence,
+population origin, and severity of "dips" in beta. We find dips in the in situ stellar halo are long-lived,
+while dips in the accreted stellar halo are short-lived and tied to the recent accretion of satellite
+material. We also find that a major merger as early as z~1 can result in a present day low (isotropic
+to tangential) value of beta over a wide range of radii and angular expanse. While all of these mechanisms
+are plausible drivers for the beta dip observed in the MW, in the simulations, each mechanism has
+a unique metallicity signature associated with it, implying that future spectroscopic surveys
+could distinguish between them. Since an accurate knowledge of beta(r) is required for measuring
+the mass of the MW halo, we note significant transient dips in beta could cause an overestimate of
+the halo's mass when using spherical Jeans equation modeling. 

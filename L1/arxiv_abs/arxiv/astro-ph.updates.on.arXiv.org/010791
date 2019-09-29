@@ -1,0 +1,16 @@
+This study identifies the solar origins of magnetic clouds that are observed at 1 AU and predicts
+the helical handedness of these clouds from the solar surface magnetic fields. We started with the
+magnetic clouds listed by the Magnetic Field Investigation (MFI) team supporting NASA's WIND spacecraft
+in what is known as the MFI table and worked backwards in time to identify solar events that produced
+these clouds. Our methods utilize magnetograms from the Helioseismic and Magnetic Imager (HMI)
+instrument on the Solar Dynamics Observatory (SDO) spacecraft so that we could only analyze MFI
+entries after the beginning of 2011. This start date and the end date of the MFI table gave us 37 cases
+to study. Of these we were able to associate only eight surface events with clouds detected by WIND
+at 1 AU. We developed a simple algorithm for predicting the cloud helicity which gave the correct
+handedness in all eight cases. The algorithm is based on the conceptual model that an ejected flux
+tube has two magnetic origination points at the positions of the strongest radial magnetic field
+regions of opposite polarity near the places where the ejected arches end at the solar surface. We
+were unable to find events for the remaining 29 cases: lack of a halo or partial halo CME in an appropriate
+time window, lack of magnetic and/or filament activity in the proper part of the solar disk, or the
+event was too far from disk center. The occurrence of a flare was not a requirement for making the identification
+but in fact flares, often weak, did occur for seven of the eight cases. 

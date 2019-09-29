@@ -1,0 +1,17 @@
+The use of unmanned aerial vehicles (UAVs) operating as aerial base stations (BSs) has emerged as
+a promising solution especially in scenarios requiring rapid deployments (e.g., in the cases of
+crowded hotspots, sporting events, emergencies, natural disasters) in order to assist the ground
+BSs. In this paper, an analytical framework is provided to analyze the signal-to-interference-plus-noise
+ratio (SINR) coverage probability of unmanned aerial vehicle (UAV) assisted cellular networks
+with clustered user equipments (UEs). Locations of UAVs and ground BSs are modeled as Poison point
+processes (PPPs), and UEs are assumed to be distributed according to a Poisson cluster process (PCP)
+around the projections of UAVs on the ground. Initially, the complementary cumulative distribution
+function (CCDF) and probability density function (PDF) of path losses for both UAV and ground BS
+tiers are derived. Subsequently, association probabilities with each tier are obtained. SINR
+coverage probability is derived for the entire network using tools from stochastic geometry. Finally,
+area spectral efficiency (ASE) of the entire network is determined, and SINR coverage probability
+expression for a more general model is presented by considering that UAVs are located at different
+heights. Via numerical results, we have shown that UAV height and path-loss exponents play important
+roles on the coverage performance. Moreover, coverage probability can be improved with smaller
+number of UAVs, while better area spectral efficiency is achieved by employing more UAVs and having
+UEs more compactly clustered around the UAVs. 

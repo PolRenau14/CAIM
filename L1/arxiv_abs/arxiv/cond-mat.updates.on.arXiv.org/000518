@@ -1,0 +1,17 @@
+In order to gain an insight into the connection between vibrational dynamics of a liquid and the atomic
+level Green-Kubo stress correlation function, we consider a simple model. Assuming that vibrations
+are plane waves, we derive analytical expressions for the atomic level stress correlation functions
+in the classical limit and analyze them. These results provide a recipe for analysis of the atomic
+level stress correlation functions (obtained, for example, in MD simulations) in Fourier space
+and extraction of the wavevector and frequency dependent information. We also evaluate the energies
+of the atomic level stresses. Obtained energies are significantly smaller than the energies that
+were obtained in MD simulations of liquids previously. This result suggests that the average energies
+of the atomic level stresses in liquids and glasses are largely determined by the structural disorder.
+We discuss this result in the context of equipartition of the atomic level stress energies. Analysis
+of the previously published data suggests that it is possible to speak about configurational and
+vibrational contributions to the average energies of the atomic level stresses in a glass state.
+However, this separation in a liquid state is problematic. We also consider peak broadening in the
+pair distribution function with increase of distance. We find that peak broadening (by $\approx
+40%$) occurs due to the transverse vibrational modes, while contribution from the longitudinal
+modes does not change with distance. Finally, we introduce and consider atomic level transverse
+current correlation functions. 

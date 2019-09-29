@@ -1,0 +1,16 @@
+Devices based on deep-blue emitting iridium (III) complexes with N-heterocyclic carbene (NHC)
+ligands have recently been shown to give excellent performance as phosphorescent organic light-emitting
+diodes (PHOLEDs). To facilitate the design of even better deep-blue phosphorescent emitters we
+carried out density functional theory (DFT) calculations of the lowest triplet ($T_1$) potential-energy
+surfaces (PES) upon lengthening the iridium-ligand (Ir-C) bonds. Relativistic time dependent-DFT
+(TDDFT) calculations demonstrate that this changes the nature of $T_1$ from a highly-emissive
+metal-to-ligand charge transfer ($^3$MLCT) state to a metal centered ($^3$MC) state where the
+radiative decay rate is orders of magnitude slower than that of the $^3$MLCT state. We identify the
+elongation of an Ir-C bond on the NHC group as the pathway with lowest energy barrier between the $^3$MLCT
+and $^3$MC states for all complexes studied and show that the barrier height is correlated with the
+experimentally measured non-radiative decay rate. This suggests that the thermal population
+of $^3$MC states is the dominant non-radiative decay mechanism at room temperature. We show that
+the $^3$MLCT $\rightarrow$ $^3$MC transition is reversible, in marked contrast to other deep blue
+phosphors containing coordinating nitrogen atoms, where the population of $^3$MC states breaks
+Ir-N bonds. This suggests that, as well as improved efficiency, blue PHOLEDs containing phosphors
+where the metal is only coordinated by carbon atoms will have improved device lifetimes. 

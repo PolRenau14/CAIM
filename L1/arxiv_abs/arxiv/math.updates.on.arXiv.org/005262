@@ -1,0 +1,16 @@
+Stochastic Variance-Reduced Cubic regularization (SVRC) algorithms have received increasing
+attention due to its improved gradient/Hessian complexities (i.e., number of queries to stochastic
+gradient/Hessian oracles) to find local minima for nonconvex finite-sum optimization. However,
+it is unclear whether existing SVRC algorithms can be further improved. Moreover, the semi-stochastic
+Hessian estimator adopted in existing SVRC algorithms prevents the use of Hessian-vector product-based
+fast cubic subproblem solvers, which makes SVRC algorithms computationally intractable for high-dimensional
+problems. In this paper, we first present a Stochastic Recursive Variance-Reduced Cubic regularization
+method (SRVRC) using a recursively updated semi-stochastic gradient and Hessian estimators.
+It enjoys improved gradient and Hessian complexities to find an $(\epsilon, \sqrt{\epsilon})$-approximate
+local minimum, and outperforms the state-of-the-art SVRC algorithms. Built upon SRVRC, we further
+propose a Hessian-free SRVRC algorithm, namely SRVRC$_{\text{free}}$, which only requires stochastic
+gradient and Hessian-vector product computations, and achieves $\tilde O(dn\epsilon^{-2} \land
+d\epsilon^{-3})$ runtime complexity, where $n$ is the number of component functions in the finite-sum
+structure, $d$ is the problem dimension, and $\epsilon$ is the optimization precision. This outperforms
+the best-known runtime complexity $\tilde O(d\epsilon^{-3.5})$ achieved by stochastic cubic
+regularization algorithm proposed in Tripuraneni et al. 2018. 

@@ -1,0 +1,17 @@
+The Volvo burner features the canonical configuration of a bluff-body stabilized premixed flame.
+This configuration was studied experimentally under the Volvo Flygmotor AB program. Two cases
+are considered in this study: a non-reacting case with an inlet flow speed of 16.6 m/s and a reacting
+case with equilibrium ratio of 0.65 and inflow speed of 17.3 m/s. The characteristic vortex shedding
+in the wake behind the bluff body is present in the non-reacting case, while two oscillation modes
+are intermittently present in the reacting case. A series of large-eddy simulations are performed
+on this configuration using two solvers, one using a high-resolution finite-volume (FV) scheme
+and the other featuring a high-order discontinuous-Galerkin (DG) discretization. The FV calculations
+are conducted on hexahedral meshes with three different resolution (4mm, 2mm, and 1mm). The DG calculations
+are performed using two different polynomial orders on the same tetrahedral mesh. For the non-reacting
+cases, good agreement with respect to the experimental data is achieved by both solvers at high numerical
+resolution. The reacting cases are calculated using a two-step global mechanism in combination
+with the thickened-flame model. Reasonable agreement with experiments is obtained by both solvers
+at higher resolution. Models for combustion-turbulence interaction are necessary for the reacting
+case as it contains the length scale of the flame, which is smaller than the grid resolution in all
+calculations. The impact of such models on the flame stability and flow/flame dynamics is the subject
+of future research. 

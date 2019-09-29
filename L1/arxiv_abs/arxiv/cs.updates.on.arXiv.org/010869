@@ -1,0 +1,16 @@
+Bandwidth hungry video content has become the dominant contributor to the data traffic world over.
+Cellular networks are constantly evolving to meet the growing traffic demands. Over the past few
+years, wireless multicast has been garnering a lot of attention as a means of efficient resource
+utilization. Multicast transmission lets spectral resources to be shared between users streaming
+the same content. Even though multicast transmission allows to serve multiple users on the same
+resources, in order to serve all these users successfully, the base station cannot transmit the
+content at a rate greater than that decodable by the user with the worst channel conditions. In this
+paper, we propose a way to overcome this bottleneck. Video streaming services can sustain a certain
+amount of packet loss without any significant degradation in the quality experienced by the users.
+We leverage this loss tolerant nature of video streaming applications to improve the performance
+of multicast video services in LTE and 5G. We convert the problem of resource allocation for loss
+tolerant multicasting into the problem of stabilizing a queueing system. We then propose two throughput
+optimal Maximum Weight (MW) policies that successfully stabilize the constructed queueing system.
+However, brute force implementation of MW policies is mostly NP-hard. To overcome this, we propose
+a maximum weight bipartite matching approach that results in a polynomial time implementation
+of the proposed policies. We also evaluate the performance of our policies via extensive simulations.

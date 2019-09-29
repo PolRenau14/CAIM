@@ -1,0 +1,17 @@
+"Trustworthy data" is the fuel for ensuring transparent traceability, precise decision-making,
+and cogent coordination in the supply chain (SC) space. However, the disparate data silos act as
+a trade barrier in orchestrating the provenance of product story starting from the transformation
+of raw materials into the circuit board to the assembling of electronic components into end products
+available on the store shelf for customers. Therefore, to bridge the fragmented siloed information
+across global supply chain partners, the diffusion of blockchain (BC) as one of the advanced distributed
+ledger technology (DLT) takeover the on-premise legacy systems. Nevertheless, the challenging
+constraints of blockchain including scalability, accessing off-line data, fee-less microtransactions
+and many more lead to the third wave of blockchain called IOTA. In this paper, we propose a framework
+for supporting provenance in the electronic supply chain (ECS) by using permissioned IOTA ledger.
+Realizing the crucial requirement of trustworthy data, we use Masked Authenticated Messaging
+(MAM) channel provided by IOTA that allows the SC players to procure distributed information while
+keeping confidential trade flows, tamper-proof data, and fine-grained accessibility rights.
+To identify operational disruption, we devise a transparent product ledger through transaction
+data and consignment information to keep track of the complete product journey at each intermediary
+step during SC processes. Furthermore, we evaluate the secure provenance data construction time
+for varying payload size. 

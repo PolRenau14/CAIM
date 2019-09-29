@@ -1,0 +1,17 @@
+We construct an essential extension of $\mathcal K(\ell_2({\mathfrak{c}}))$ by $\mathcal K(\ell_2)$,
+where ${\mathfrak{c}}$ denotes the cardinality of continuum, i.e., a $C^*$-algebra $\mathcal
+A\subseteq \mathcal B(\ell_2)$ satisfying the short exact sequence $$0\rightarrow \mathcal
+K(\ell_2)\xrightarrow{\iota} \mathcal A \rightarrow\mathcal K(\ell_2({\mathfrak{c}}))\rightarrow
+0,$$ where $\iota[\mathcal K(\ell_2)]$ is an essential ideal of $\mathcal A$ such that the algebra
+of multipliers $\mathcal M(\mathcal A)$ of $\mathcal A$ is equal to the unitization of $\mathcal
+A$. In particular $\mathcal A$ is not stable which sheds light on permanence properties of the stability
+in the nonseparable setting. Namely, an extension of a nonseparable algebra of compact operators,
+even by $\mathcal K(\ell_2)$, does not have to be stable. This construction can be considered as
+a noncommutative version of Mr\'owka's $\Psi$-space; a space whose one point compactification
+equals to its Cech-Stone compactification and is induced by a special uncountable family of almost
+disjoint subsets of ${\mathbb{N}}$. The role of the almost disjoint family is played by an almost
+orthogonal family of projections in $\mathcal B(\ell_2)$, but the almost matrix units corresponding
+to the matrix units in $\mathcal K(\ell_2({\mathfrak{c}}))$ must be constructed with extra care.
+This example may also contribute in the future to our understanding of the semigroups $Ext(\mathcal
+K(\ell_2({\kappa})))$ for $\omega_1\leq \kappa\leq\mathfrak{c}$ which are unexplored at the
+moment. 

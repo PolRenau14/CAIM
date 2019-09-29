@@ -1,0 +1,16 @@
+The detection of gravitational waves has offered us the opportunity to explore the dynamical and
+strong-field regime of gravity. Because matched filtering is more sensitive to variations in the
+gravitational waveform phase than the amplitude, many tests of gravity with gravitational waves
+have been carried out using only the former. Such studies cannot probe the non-Einsteinian effects
+that may enter only in the amplitude. Besides, if not accommodated in the waveform template, a non-Einsteinian
+effect in the amplitude may induce systematic errors on other parameters such as the luminosity
+distance. In this paper, we derive constraints on a few modified theories of gravity (Einstein-dilaton-Gauss-Bonnet
+gravity, scalar-tensor theories, and varying-$G$ theories), incorporating both phase and amplitude
+corrections. We follow the model-independent approach of the parametrized post-Einsteinian
+formalism. We perform Fisher analyses with Monte-Carlo simulations using the LIGO/Virgo posterior
+samples. We find that the contributions from amplitude corrections can be comparable to the ones
+from the phase corrections in case of massive binaries like GW150914. Also, constraints derived
+by incorporating both phase and amplitude corrections differ from the ones with phase corrections
+only by 4% at most, which supports many of the previous studies that only considered corrections
+in the phase. We further derive reliable constraints on the time-evolution of a scalar field in a
+scalar-tensor theory for the first time with gravitational waves. 

@@ -1,0 +1,16 @@
+We conducted a detailed radiative transfer modeling of the dust emission from the circumstellar
+disk around HL Tau. The goal of our study is to derive the surface density profile of the inner disk
+and its structure. In addition to the Atacama Large Millimeter/submillimeter Array images at Band
+3 (2.9mm), Band 6 (1.3mm), and Band 7 (0.87mm), the most recent Karl G. Jansky Very Large Array (VLA)
+observations at 7mm were included in the analysis. A simulated annealing algorithm was invoked
+to search for the optimum model. The radiative transfer analysis demonstrates that most radial
+components (i.e., >6AU) of the disk become optically thin at a wavelength of 7mm, which allows us
+to constrain, for the first time, the dust density distribution in the inner region of the disk. We
+found that a homogeneous grain size distribution is not sufficient to explain the observed images
+at different wavelengths simultaneously, while models with a shallower grain size distribution
+in the inner disk work well. We found clear evidence that larger grains are trapped in the first bright
+ring. Our results imply that dust evolution has already taken place in the disk at a relatively young
+(i.e., ~1Myr) age. We compared the midplane temperature distribution, optical depth, and properties
+of various dust rings with those reported previously. Using the Toomre parameter, we briefly discussed
+the gravitational instability as a potential mechanism for the origin of the dust clump detected
+in the first bright ring via the VLA observations. 

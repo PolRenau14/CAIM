@@ -1,0 +1,16 @@
+Mass accretion rate is a key parameter in accretion disk theory. It determines black hole accretion
+mode. In large scale cosmological simulations studying galaxy formation and evolution, Bondi
+radius can at most be marginally resolved. In those simulations, Bondi accretion formula is always
+used to estimate black hole accretion rate. Bondi solution is too simple, which cannot represent
+the real accretion process. We perform simulations of hot accretion flow at parsec scale irradiated
+by a low luminosity active galactic nucleus (AGN). We perform 77 simulations with varying density
+and temperature at outer boundary (10 parsec). Our purpose is to find a formula to calculate real
+black hole accretion rate based on the gas density and temperature at parsec scale. We define Eddington
+accretion rate to be $\dot M_{\rm Edd}=10L_{\rm Edd}/c^2$, with $L_{\rm Edd}$ and $c$ been Eddington
+luminosity and speed of light respectively. We set black hole mass to be $10^8M_{\odot}$, $M_{\odot}$
+is solar mass. We find that black hole accretion rate can be expressed as $\frac{\dot M_{\rm BH} }{\dot
+M_{\rm Edd}}=10^{-3.11} (\rho_0/10^{-22}{\rm g cm}^{-3})^{1.36} (T_0/10^7 {\rm K})^{-1.9}$,
+with $\rho_0$ and $T_0$ being density and temperature at parsec scale, respectively. We find the
+formula can accurately predict the luminosity of observed low-luminosity AGNs (with black hole
+mass $\sim 10^8M_{\odot}$). This formula can be used in the sub-grid models in large scale cosmological
+simulations with a black hole mass of $\sim 10^8M_{\odot}$. 

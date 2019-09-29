@@ -1,0 +1,17 @@
+Formal Languages and Automata Theory are important foundational topics in Computer Science. Their
+rigorous and formal characteristics make their learning them demanding. An important support
+for the assimilation of concepts is the possibility of interactively visualizing concrete examples
+of these computational models, facilitating understanding them. The tools available are neither
+complete nor fully support the interactive aspect. This project aims at the development of an interactive
+web tool in Portuguese to help in an assisted and intuitive way to understand the concepts and algorithms
+in question, seeing them work step-by-step, through typical examples preloaded or built by the
+user (an original aspect of our platform). The tool should therefore enable the creation and edition
+of an automata, as well as execute the relevant classical algorithms such as word acceptance, model
+conversions, etc. It is also intended to visualize not only the process of construction of the automaton,
+but also all the steps of applying the given algorithm. This tool uses the Ocsigen Framework because
+it provides the development of complete and interactive web tools written in OCaml, a functional
+language with a strong type checking system and therefore perfect for a web page without errors.
+Ocsigen was also chosen because it allows the creation of dynamic pages with a singular client-server
+system. This article presents the first phase of the development of the project. It is already possible
+to create automata, check the nature of its states and verify step-by-step (with undo) the acceptance
+of a word. 

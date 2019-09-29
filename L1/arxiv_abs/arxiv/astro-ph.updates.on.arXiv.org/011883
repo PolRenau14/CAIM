@@ -1,0 +1,16 @@
+Astrophysical shocks at all scales, from those in the heliosphere up to the cosmological shock waves,
+are typically "collisionless", because the thickness of their jump region is much shorter than
+the collisional mean free path. Across these jumps, electrons, protons, and ions are expected to
+be heated at different temperatures. Supernova remnants (SNRs) are ideal targets to study collisionless
+processes because of their bright post-shock emission and fast shocks. Although optical observations
+of Balmer-dominated shocks in young SNRs showed that the post-shock proton temperature is higher
+than the electron temperature, the actual dependence of the post-shock temperature on the particle
+mass is still widely debated. We tackle this longstanding issue through the analysis of deep multi-epoch
+and high-resolution observations of the youngest nearby supernova remnant, SN 1987A, made with
+the Chandra X-ray telescope. We introduce a novel data analysis method by studying the observed
+spectra in close comparison with a dedicated full 3-D hydrodynamic simulation. The simulation
+is able to reproduce self-consistently the whole broadening of the spectral lines of many ions altogether.
+We can therefore measure the post shock temperature of protons and selected ions through comparison
+of the model with observations. We have obtained information about the heating processes in collisional
+shocks by finding that the ion to proton temperature ratio is always significantly higher than one
+and increases linearly with the ion mass for a wide range of masses and shock parameters. 

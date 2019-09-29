@@ -1,0 +1,16 @@
+A new theoretical method is presented for future multi-scale aerodynamic optimisation of very
+large wind farms. The new method essentially combines a recent two-scale coupled momentum analysis
+of ideal wind turbine arrays with the classical blade-element-momentum (BEM) theory for turbine
+rotor design, making it possible to explore some potentially important relationships between
+the design of rotors and their performance in a very large wind farm. The details of the original two-scale
+coupled momentum model are described first, where a parameter called 'effective' farm density
+is shown to play an important role, followed by the new coupling procedure with the classical BEM
+theory and some example solutions. The example solutions, obtained using a simplified but still
+realistic NREL S809 airfoil performance curve, illustrate how the aerodynamically optimal rotor
+design (namely the set of radial variations of the blade chord length and twist angle that maximises
+the rotor power) may change depending on the effective farm density. It is also shown that the peak
+power of the rotors designed optimally for a given farm (i.e. 'tuned' rotors) could be substantially
+higher than that of the rotors designed for a different farm (i.e. 'untuned' rotors) even if the blade
+pitch angle is allowed to be adjusted optimally during the operation of untuned rotors. The results
+presented are for ideal very large wind farms and a possible future extension of the present work
+for real large wind farms is also discussed briefly. 

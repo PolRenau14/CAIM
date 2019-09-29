@@ -1,0 +1,17 @@
+One of the primary objectives of small satellites is to reduce the costs associated with spacecraft
+development and operations as compared to traditional spacecraft missions. Small satellite missions
+are generally able to reduce mission planning, hardware, integration, and operational costs;
+however, small satellite missions struggle with reducing software development and testing costs.
+This paper presents the case study of the NASA Operational Simulator for Small Satellites (NOS3),
+a software-only simulation framework that was developed for the Simulation-to-Flight 1 (STF-1)
+3U CubeSat mission. The general approach is to develop software simulators for the various hardware
+flight components (e.g., electrical power system, antenna deployment system, etc.) to create
+a completely virtual representation of the actual spacecraft system. In addition, NOS3 conveniently
+packages together a set of open-source software packages including the 42 dynamics simulator,
+the spacecraft software development framework (core Flight System), and a command and control
+system (COSMOS). This results in a flexible and easily deployable simulation environment that
+can be utilized to support software development, testing, training, and mission operations. The
+NOS3 environment contributed to the success of STF-1 mission in several ways, such as reducing the
+missions reliance on hardware, increasing available test resources, and supporting training
+and risk reduction targeted testing of critical software behaviors on the simulated platform.
+The NOS3 has been released as open-source and is available at www.nos3.org. 

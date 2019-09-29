@@ -1,0 +1,16 @@
+Homology generators in a relation offer individuals the ability to delay identification, by guiding
+the order via which the individuals reveal their attributes (see arXiv:1712.04130). This perspective
+applies as well to the identification of goal-attaining strategies in systems with errorful control,
+since the strategy complex of a fully controllable nondeterministic or stochastic graph is homotopic
+to a sphere. Specifically, such a graph contains for each state $v$ a maximal strategy $\sigma_v$
+that converges to state $v$ from all other states in the graph and whose identity may be shrouded in
+the following sense: One may reveal certain actions of $\sigma_v$ in a particular order so that the
+full strategy becomes known only after at least $n-1$ of these actions have been revealed, with none
+of the actions revealed definitively inferable from those previously revealed. Here $n$ is the
+number of states in the graph. Moreover, the strategy contains at least $(n-1)!$ such informative
+action release sequences, each of length at least $n-1$. The earlier work described above sketched
+a proof that every maximal strategy in a pure nondeterministic or pure stochastic graph contains
+at least one informative action release sequence of length at least $n-1$. The primary purpose of
+the current report is to fill in the details of that sketch. To build intuition, the report first discusses
+several simpler examples. These examples suggest an underlying structure for hiding capabilities
+or bluffing capabilities, as well as for detecting such deceit. 

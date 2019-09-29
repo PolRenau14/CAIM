@@ -1,0 +1,17 @@
+The dualism between superconductivity and charge/spin modulations (the so-called stripes) dominates
+the phase diagram of many strongly-correlated systems. A prominent example is given by the Hubbard
+model, where these phases compete and possibly coexist in a wide regime of electron dopings for both
+weak and strong couplings. Here, we investigate this antagonism within a variational approach
+that is based upon Jastrow-Slater wave functions, including backflow correlations, which can
+be treated within a quantum Monte Carlo procedure. We focus on clusters having a ladder geometry
+with $M$ legs (with $M$ ranging from $2$ to $10$) and a relatively large number of rungs, thus allowing
+us a detailed analysis in terms of the stripe length. We find that stripe order with periodicity $\lambda=8$
+in the charge and $2\lambda=16$ in the spin can be stabilized at doping $\delta=1/8$. Here, there
+are no sizable superconducting correlations and the ground state has an insulating character.
+A similar situation, with $\lambda=6$ appears at $\delta=1/6$. Instead, for smaller values of
+dopings, stripes can be still stabilized, but they are weakly metallic at $\delta=1/12$ and metallic
+with strong superconducting correlations at $\delta=1/10$, as well as for intermediate (incommensurate)
+dopings. Remarkably, we observe that spin modulation plays a major role in stripe formation, since
+it is crucial to obtain a stable striped state upon optimization. The relevance of our calculations
+for previous density-matrix renormalization group results and for the two-dimensional case are
+also discussed. 

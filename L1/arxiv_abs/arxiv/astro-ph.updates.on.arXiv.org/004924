@@ -1,0 +1,16 @@
+We consider a large scale environment of turbulent reconnection that is fragmented into a number
+of randomly distributed Unstable Current Sheets (UCS), and we statistically analyze the acceleration
+of particles within this environment. We address two important cases of acceleration mechanisms
+when the particles interact with the UCS: (a) electric field acceleration, and (b) acceleration
+through reflection at contracting islands. Electrons and ions are accelerated very efficiently,
+attaining an energy distribution of power-law shape with an index $1-2$, depending on the acceleration
+mechanism. The transport coefficients in energy space are estimated from the test-particle simulation
+data, and we show that the classical Fokker-Planck (FP) equation fails to reproduce the simulation
+results when the transport coefficients are inserted into it and it is solved numerically. The cause
+for this failure is that the particles perform Levy flights in energy space, the distributions of
+energy increments exhibit power-law tails. We then use the fractional transport equation (FTE)
+derived by Isliker et al., 2017, whose parameters and the order of the fractional derivatives are
+inferred from the simulation data, and, solving the FTE numerically, we show that the FTE successfully
+reproduces the kinetic energy distribution of the test-particles. We discuss in detail the analysis
+of the simulation data and the criteria that allow judging the appropriateness of either an FTE or
+a classical FP equation as a transport model. 

@@ -1,0 +1,17 @@
+Aggregating multiple learners through an ensemble of models aims to make better predictions by
+capturing the underlying distribution more accurately. Different ensembling methods, such as
+bagging, boosting and stacking/blending, have been studied and adopted extensively in research
+and practice. While bagging and boosting intend to reduce variance and bias, respectively, blending
+approaches target both by finding the optimal way to combine base learners to find the best trade-off
+between bias and variance. In blending, ensembles are created from weighted averages of multiple
+base learners. In this study, a systematic approach is proposed to find the optimal weights to create
+these ensembles for bias-variance tradeoff using cross-validation for regression problems (Cross-validated
+Optimal Weighted Ensemble (COWE)). Furthermore, it is known that tuning hyperparameters of each
+base learner inside the ensemble weight optimization process can produce better performing ensembles.
+To this end, a nested algorithm based on bi-level optimization that considers tuning hyperparameters
+as well as finding the optimal weights to combine ensembles (Cross-validated Optimal Weighted
+Ensemble with Internally Tuned Hyperparameters (COWE-ITH)) was proposed. The algorithm is shown
+to be generalizable to real data sets though analyses with ten publicly available data sets. The
+prediction accuracies of COWE-ITH and COWE have been compared to base learners and the state-of-art
+ensemble methods. The results show that COWE-ITH outperforms other benchmarks as well as base learners
+in 9 out of 10 data sets. 

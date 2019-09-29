@@ -1,0 +1,17 @@
+For any smooth spatially-periodic solution of the Benjamin-Ono equation, the work of Nazarov-Sklyanin
+determines a dispersive action profile, a piecewise-linear function of an auxiliary real variable
+whose values are all conserved by the flow. In this paper, we derive three results for dispersive
+action profiles (finite gap conditions, convex action profiles in the small dispersion limit,
+and frozen regions) and relate each to the dispersive dynamics (the Satsuma-Ishimori multi-phase
+solutions, the dispersionless characteristics, and the bound on dispersive shock wave speeds
+predicted by Whitham modulation theory, respectively). Our results establish a correspondence
+between the constructions of Nazarov-Sklyanin and Dobrokhotov-Krichever and are evidence for
+existence of an infinite gap integration theory for large periodic initial data (a periodic version
+of the Fokas-Ablowitz inverse scattering transform). We prove our results in spectral theory after
+extending a result of Kerov for spectral shift functions of Jacobi operators, defining dispersive
+action profiles by the spectral shift function of the Lax operator in periodic Hardy space with respect
+to its principal minor, and rewriting Szeg\H{o}'s First Theorem for Toeplitz operators (dispersionless
+Lax operators) through spectral shift functions. To illustrate our results, we characterize the
+dispersive action profile of sinusoidal initial data by a functional difference equation and its
+small dispersion limit as the convex profile of Vershik-Kerov-Logan-Shepp, both of which have
+appeared in Nekrasov-Shatashvili theory. 

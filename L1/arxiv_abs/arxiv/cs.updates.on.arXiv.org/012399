@@ -1,0 +1,16 @@
+Neural network training is usually accomplished by solving a non-convex optimization problem
+using stochastic gradient descent. Although one optimizes over the networks parameters, the loss
+function generally only depends on the realization of a neural network, i.e. the function it computes.
+Studying the functional optimization problem over the space of realizations can open up completely
+new ways to understand neural network training. In particular, usual loss functions like the mean
+squared error are convex on sets of neural network realizations, which themselves are non-convex.
+Note, however, that each realization has many different, possibly degenerate, parametrizations.
+In particular, a local minimum in the parametrization space needs not correspond to a local minimum
+in the realization space. To establish such a connection, inverse stability of the realization
+map is required, meaning that proximity of realizations must imply proximity of corresponding
+parametrizations. In this paper we present pathologies which prevent inverse stability in general,
+and proceed to establish a restricted set of parametrizations on which we have inverse stability
+w.r.t. to a Sobolev norm. Furthermore, we show that by optimizing over such restricted sets, it is
+still possible to learn any function, which can be learned by optimization over unrestricted sets.
+While most of this paper focuses on shallow networks, none of methods used are, in principle, limited
+to shallow networks, and it should be possible to extend them to deep neural networks. 

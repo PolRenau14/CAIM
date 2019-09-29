@@ -1,0 +1,17 @@
+The description of the chemical bond between a solid surface and an atom or a molecule is the fundamental
+basis for understanding a broad range of scientific problems in heterogeneous catalysis, semiconductor
+device fabrication, and fuel cells. Widespread understandings are based on the molecular orbital
+theory and focused on the degree of filling of antibonding surface-adsorbate states that weaken
+bonding on surfaces. The unoccupied antibonding surface-adsorbate states are often tacitly assumed
+to be irrelevant. Here, we show that most antibonding states become unoccupied because the electrons
+that would occupy these antibonding states are transferred to the lower-energy Fermi level. Such
+antibonding electron transfer goes beyond molecular orbital theory. It leads to an energy gain
+that largely controls the trends of surface adsorption strength and can serve as a primary descriptor
+for bonding on surfaces. This finding is illustrated from the first-principles study of hydrogen
+adsorption on MoS$_2$ surfaces. A clear linear relationship between the energies of antibonding
+electron transfer and hydrogen adsorption is identified. The hydrogen evolution reaction on MoS$_2$
+is found to originate from the in-gap states induced by sulfur vacancies or edges. The effects of
+surface inhomogeneity (e.g., defects, step edges) on surface catalysis can be understood from
+the corresponding different energies gained from antibonding electron transfer. The emerging
+picture also offers a physically different explanation for the well-known $d$-band theory for
+hydrogen adsorption on transition metal surfaces. 

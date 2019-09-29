@@ -1,0 +1,16 @@
+Traceability and integrity are major challenges for the increasingly complex supply chains of
+today's world. Although blockchain technology has the potential to address these challenges through
+providing a tamper-proof audit trail of supply chain events and data associated with a product life-cycle,
+it does not solve the trust problem associated with the data itself. Reputation systems are an effective
+approach to solve this trust problem. However, current reputation systems are not suited to the
+blockchain based supply chain applications as they are based on limited observations, they lack
+granularity and automation, and their overhead has not been explored. In this work, we propose TrustChain,
+as a three-layered trust management framework which uses a consortium blockchain to track interactions
+among supply chain participants and to dynamically assign trust and reputation scores based on
+these interactions. The novelty of TrustChain stems from: (a) the reputation model that evaluates
+the quality of commodities, and the trustworthiness of entities based on multiple observations
+of supply chain events, (b) its support for reputation scores that separate between a supply chain
+participant and products, enabling the assignment of product-specific reputations for the same
+participant, (c) the use of smart contracts for transparent, efficient, secure, and automated
+calculation of reputation scores, and (d) its minimal overhead in terms of latency and throughput
+when compared to a simple blockchain based supply chain model. 

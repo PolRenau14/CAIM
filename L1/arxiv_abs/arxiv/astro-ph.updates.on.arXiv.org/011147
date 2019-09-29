@@ -1,0 +1,17 @@
+Pulsar timing experiments require high fidelity template profiles in order to minimize the biases
+in pulse time-of-arrival (TOA) measurements and their uncertainties. Efforts to acquire more
+precise TOAs given fixed effective area of telescopes, finite receiver noise, and limited integration
+time have led pulsar astronomers to the solution of implementing ultra-wideband receivers. This
+solution, however, has run up against the problem that pulse profile shapes evolve with frequency,
+which raises the question of how to properly measure and analyze TOAs obtained using template-matching
+methods. This paper proposes a new method for one facet of this problem, that of template profile
+generation, and demonstrates it on the well-timed millisecond pulsar J1713+0747. Specifically,
+we decompose pulse profile evolution into a linear combination of basis eigenvectors, the coefficients
+of which change slowly with frequency such that their evolution is modeled simply by a sum of low degree
+piecewise polynomial spline functions. These noise-free, high fidelity, frequency-dependent
+templates can be used to make measurements of so-called "wideband TOAs" simultaneously with an
+estimate of the instantaneous dispersion measure. The use of wideband TOAs is becoming important
+for pulsar timing array experiments, as the volume of datasets comprised of conventional, subbanded
+TOAs are quickly becoming unwieldly for the Bayesian analyses needed to uncover latent gravitational
+wave signals. Although motivated by high precision timing experiments, our technique is applicable
+in more general pulsar observations. 

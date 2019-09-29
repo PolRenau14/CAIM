@@ -1,0 +1,16 @@
+We investigate the relation between disk mass and mass accretion rate to constrain the mechanism
+of angular momentum transport in protoplanetary disks. Dust mass and mass accretion rate in Chamaeleon
+I are correlated with a slope close to linear, similar to the one recently identified in Lupus. We
+investigate the effect of stellar mass and find that the intrinsic scatter around the best-fit Mdust-Mstar
+and Macc-Mstar relations is uncorrelated. Disks with a constant alpha viscosity can fit the observed
+relations between dust mass, mass accretion rate, and stellar mass, but over-predict the strength
+of the correlation between disk mass and mass accretion rate when using standard initial conditions.
+We find two possible solutions. 1) The observed scatter in Mdust and Macc is not primoridal, but arises
+from additional physical processes or uncertainties in estimating the disk gas mass. Most likely
+grain growth and radial drift affect the observable dust mass, while variability on large time scales
+affects the mass accretion rates. 2) The observed scatter is primordial, but disks have not evolved
+substantially at the age of Lupus and Chamaeleon I due to a low viscosity or a large initial disk radius.
+More accurate estimates of the disk mass and gas disk sizes in a large sample of protoplanetary disks,
+either through direct observations of the gas or spatially resolved multi-wavelength observations
+of the dust with ALMA, are needed to discriminate between both scenarios or to constrain alternative
+angular momentum transport mechanisms such as MHD disk winds. 

@@ -1,0 +1,17 @@
+Adaptive voter models (AVMs) are simple mechanistic systems that model the emergence of mesoscopic
+structure from local networked processes driven by conflict and homophily. AVMs display rich behavior,
+including a phase transition from a fully-fragmented regime of "echo-chambers" to a regime of persistent
+disagreement governed by low-dimensional quasistable manifolds. Many extant methods for approximating
+the behavior of AVMs are either restricted in scope, expensive in computation, or inaccurate in
+predicting important statistics. In this work, we develop a novel, second-order moment closure
+approximation method for binary-state rewire-to-random and rewire-to-same model variants.
+We incorporate a small amount of noise via a random mutation term, which renders the system ergodic.
+Using ergodicity, we then approximate the voting process, which is non-Markovian in the second
+moments of the system, with a Markovian term near the phase transition. This approximation exploits
+an asymmetry between different classes of voting events. The resulting scheme enables us to predict
+the location of the phase transition and the active edge density in the regime of persistent disagreement,
+across the entire space of parameters and opinion densities. Numerically, our results are nearly
+exact for the rewire-to-random model, and competitive with other current approaches for the rewire-to-same
+model. Moreover, our computations display constant scaling in the mean degree, enabling approximations
+for denser systems than previously possible. We conclude with suggestions for model refinements
+and extensions. 

@@ -1,0 +1,16 @@
+In the Topological Minor Containment problem (TMC) problem two undirected graphs, $G$ and $H$ are
+given and the objective is to check whether $G$ contains $H$ as a topological minor. Grohe, Kawarabayashi,
+Marx, and Wollan~[STOC 2011] resolved the parameterized complexity of this problem by designing
+an algorithm with running time $f(k)n^{3}$. Here, $k=|V(H)|$ and $n=|V(G)|$. Among several other
+tools, this algorithm was based on a variant of the linkage theorem of Robertson-Seymour, tailor-made
+for TMC, by adapting elements of the new proof of the unique linkage theorem of Kawarabayashi and
+Wollan~[STOC 2010]. In this paper we turn the wheel back, and design an alternate algorithm for TMC
+by giving a direct reduction to a version of unique linkage theorem appearing in Graph Minors XXII
+of Robertson and Seymour. That is, the new proof requires a black-box invocation of a known result
+arising in the proof of graph minor theorem. Our result has the following advantages: (1) Graph classes
+where the bounds in the unique linkage theorem are known, this immediately results in explicit time-bounds
+for TMC on those graph classes. For example, we get first algorithm with explicit time bounds for
+TMC on planar graphs and more generally for graphs of genus $g$. In particular, the algorithm runs
+in time $2^{2^{2^{{\cal O}(k)}}}$ on planar graphs. (2) Any new development on the unique linkage
+theorem will immediately led to a faster algorithm for TMC. That is, one does not need to design a similar
+theorem specifically for TMC. 

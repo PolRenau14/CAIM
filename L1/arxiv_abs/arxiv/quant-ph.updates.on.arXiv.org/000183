@@ -1,0 +1,16 @@
+Motivated by the separability problem in quantum systems $2\otimes4$, $3\otimes3$ and $2\otimes2\otimes2$,
+we study the maximal (proper) faces of the convex body, $S_1$, of normalized separable states in
+an arbitrary quantum system with finite-dimensional Hilbert space $H=H_1\otimes H_2\otimes\cdots\otimes
+H_n$. To any subspace $V$ of $H$ we associate a face $F_V$ of $S_1$ consisting of all states $\rho\in
+S_1$ whose range is contained in $V$. We prove that $F_V$ is a maximal face if and only if $V$ is a hyperplane.
+If $V$ is the hyperplane orthogonal to a product vector, we prove that $\dim F_V=d^2-1-\prod(2d_i-1)$,
+where $d_i$ is the dimension of $H_i$ and $d=\prod d_i$. We classify the maximal faces of $S_1$ in
+the cases $2\otimes2$ and $2\otimes3$. In particular we show that in these cases the minimum and
+the maximum dimension of maximal faces is 6 and 8 for $2\otimes2$, and 20 and 26 for $2\otimes3$. The
+boundary of $S_1$ is the union of all maximal faces. When $d>6$ we prove that there exist full states
+$\rho$ on the boundary, i.e., such that all partial transposes of $\rho$ (including $\rho$ itself)
+have rank $d$. It is noteworthy that such states are explicitly known at present only in $3\otimes3$.
+In that case K.-C. Ha and S.-K. Kye have recently constructed a remarkable family of faces, depending
+on a real parameter $b>0$, $b\ne1$. Each face in the family is a 9-dimensional simplex and any
+interior point of this simplex is a full state. We recover their result by constructing suitable
+optimal entanglement witnesses (OEW) and analyze also the three limiting cases $b=0,1,\infty$.

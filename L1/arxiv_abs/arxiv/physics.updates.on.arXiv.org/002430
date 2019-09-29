@@ -1,0 +1,16 @@
+As two most prevalent microscopic mechanisms of strategy spreading, frequency-dependent Moran
+process and pairwise comparison process are widely used to model population traits' evolution
+in evolutionary game dynamics. For several specific fitness or imitation mappings, these two microscopic
+processes can lead to identical evolutionary outcomes under weak selection. But, does this equivalent
+relation hold for any forms of fitness and imitation mappings? In this paper, we propose two generalized
+mappings that fitness (imitation probability) is an any non-negative function of payoff (payoff
+difference) and selection intensity, and investigate whether these unifying mappings can lead
+to equivalent evolutionary outcomes in stochastic game dynamics. By calculating the fixation
+probabilities and fixation times under weak selection, we find that the generalized mappings unify
+these two quantities by a constant factor under mild conditions. With this constant factor, the
+effects of different fitness and imitation probability functions on evolutionary outcomes just
+make the selection intensity or payoff matrix change a scale, which recovers the previous results
+as special cases. Thus, irrespective of the scaling factor, any two fitness or imitation probability
+functions are equivalent under weak selection. Particularly, the choice of fitness and imitation
+probability mappings significantly determines the direction of one-third law and risk dominance
+by the scaling factor. This work may thus enrich the knowledge of stochastic evolutionary game dynamics.

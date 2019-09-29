@@ -1,0 +1,16 @@
+The characteristics of mobile Underwater Sensor Networks (UWSNs), such as low communication bandwidth,
+large propagation delay, and sparse deployment, pose challenging issues for successful localization
+of sensor nodes. In addition, sensor nodes in UWSNs are usually powered by batteries whose replacements
+introduce high cost and complexity. Thus, the critical problem in UWSNs is to enable each sensor
+node to find enough anchor nodes in order to localize itself, with minimum energy costs. In this paper,
+an Energy-Efficient Localization Algorithm (EELA) is proposed to analyze the decentralized interactions
+among sensor nodes and anchor nodes. A Single-Leader-Multi-Follower Stackelberg game is utilized
+to formulate the topology control problem of sensor nodes and anchor nodes by exploiting their available
+communication opportunities. In this game, the sensor node acts as a leader taking into account
+factors such as 'two-hop' anchor nodes and energy consumption, while anchor nodes act as multiple
+followers, considering their ability to localize sensor nodes and their energy consumption. We
+prove that both players select best responses and reach a socially optimal Stackelberg Nash Equilibrium.
+Simulation results demonstrate that the proposed EELA improves the perfor- mance of localization
+in UWSNs significantly, and in particular the energy cost of sensor nodes. Compared to the baseline
+schemes, the energy consumption per node is about 48% lower in EELA, while providing a desirable
+localization coverage, under reasonable error and delay. 

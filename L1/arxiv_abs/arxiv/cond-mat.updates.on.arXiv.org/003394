@@ -1,0 +1,16 @@
+We study the spin excitation spectra of two-dimensional spin-$1/2$ Heisenberg model with checkerboard
+structures using stochastic analytic continuation of imaginary-time correlation function obtained
+from quantum Monte Carlo simulation. The checkerboard models have two different antiferromagnetic
+nearest-neighbor interactions $J_{1}$ and $J_{2}$, and the tuning parameter $g$ is defined as
+$J_{2}/J_{1}$. The dynamic spin structure factors are systematically calculated in all phases
+of the models as well as at the critical points. To give a full understanding of the dynamic spectra,
+spin wave theory is employed to explain some features of numerical results, especially for the low-energy
+part. When $g$ is close to $1$, the features of the spin excitation spectra of each checkerboard model
+are roughly the same as those of the original square lattice antiferromagnetic Heisenberg model,
+and the high-energy continuum among them are discussed. In contrast to the other checkerboard structures
+investigated in this paper, the $3\times 3$ checkerboard model has distinctive excitation features,
+like a gap between a low-energy gapless branch and a gapped high-energy part exists when $g$ is small.
+The gapless branch in this case can be regarded as spin wave in N$\mathrm{\acute{e}}$el order formed
+by "block spin" in each $3\times 3$ plaquette with effective exchange interaction originated from
+renormalization. One finding is that the continuum also appears in this low-energy branch, which
+may originated from nearly deconfined process in "block spin". 

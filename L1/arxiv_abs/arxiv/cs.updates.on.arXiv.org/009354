@@ -1,0 +1,16 @@
+The continuous increase in big data applications, in number and types, creates new challenges that
+should be tackled by the green ICT community. Big data is mainly characterized by 4 Vs volume, variety,
+velocity, and veracity. Each V poses a number of challenges that have implications on the energy
+efficiency of the underlying networks carrying the big data. Addressing the veracity of the data
+is a more serious challenge to data scientists, since they need to distinguish between the meaningful
+data and the dirty data. In this article, we investigate the impact of big data veracity on greening
+IP by developing a Mixed Integer Linear Programming, MILP, model that encapsulates the distinctive
+features of veracity. In our analyses, the big data network was greened by cleansing the raw big data
+before processing and then progressively processing the cleansed big data at strategic locations,
+dubbed processing nodes, PNs. The PNs are built into the network along the path from the sources to
+the centralized datacenters. At each PN, the cleansed data was processed and smaller volume of useful
+information was extracted progressively, thereby, reducing the network power consumption. Furthermore,
+a backup for the cleansed data was stored in an optimally selected Backup Node, BN. We evaluated the
+network power saving that can be achieved by a green big data network compared to the classical non-progressive
+approach. We obtained up to 52 percent network power savings, on average, in the green big data approach
+compared to the classical approach. 

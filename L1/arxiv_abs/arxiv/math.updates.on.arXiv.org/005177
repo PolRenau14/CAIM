@@ -1,0 +1,16 @@
+Phylogenetic networks are a generalization of phylogenetic trees to leaf-labeled directed acyclic
+graphs that represent ancestral relationships between species whose past includes non-tree-like
+events such as hybridization and horizontal gene transfer. Indeed, each phylogenetic network
+embeds a collection of phylogenetic trees. Referring to the collection of trees that a given phylogenetic
+network $N$ embeds as the display set of $N$, several questions in the context of the display set of
+$N$ have recently been analyzed. For example, the widely studied Tree-Containment problem asks
+if a given phylogenetic tree is contained in the display set of a given network. The focus of this paper
+are two questions that naturally arise in comparing the display sets of two phylogenetic networks.
+First, we analyze the problem of deciding if the display sets of two phylogenetic networks have a
+tree in common. Surprisingly, this problem turns out to be NP-complete even for two temporal normal
+networks. Second, we investigate the question of whether or not the display sets of two phylogenetic
+networks are equal. While we recently showed that this problem is polynomial-time solvable for
+a normal and a tree-child network, it is computationally hard in the general case. In establishing
+hardness, we show that the problem is contained in the second level of the polynomial-time hierarchy.
+Specifically, it is $\Pi_2^P$-complete. Along the way, we show that two other problems are also
+$\Pi_2^P$-complete, one of which being a generalization of Tree-Containment. 

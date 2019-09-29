@@ -1,0 +1,16 @@
+We examine the impact of baryon acoustic oscillation (BAO) scale measurements on the discrepancy
+between the value of the Hubble constant ($H_0$) inferred from the local distance ladder and from
+Planck cosmic microwave background (CMB) data. While the BAO data alone cannot constrain $H_0$,
+we show that combining the latest BAO results with WMAP, Atacama Cosmology Telescope (ACT), or South
+Pole Telescope (SPT) CMB data produces values of $H_0$ that are $2.4-3.1\sigma$ lower than the distance
+ladder, independent of Planck, and that this downward pull was less apparent in some earlier analyses
+that used only angle-averaged BAO scale constraints rather than full anisotropic information.
+At the same time, the combination of BAO and CMB data also disfavors the lower values of $H_0$ preferred
+by the Planck high-multipole temperature power spectrum. Combining galaxy and Lyman-$\alpha$
+forest (Ly$\alpha$) BAO with a precise estimate of the primordial deuterium abundance produces
+$H_0=66.98\pm1.18$ km s$^{-1}$ Mpc$^{-1}$ for the flat $\Lambda$CDM model. This value is completely
+independent of CMB anisotropy constraints and is $3.0\sigma$ lower than the latest distance ladder
+constraint, although $2.4\sigma$ tension also exists between the galaxy BAO and Ly$\alpha$ BAO.
+These results show that it is not possible to explain the $H_0$ disagreement solely with a systematic
+error specific to the Planck data. The fact that tensions remain even after the removal of any single
+data set makes this intriguing puzzle all the more challenging to resolve. 

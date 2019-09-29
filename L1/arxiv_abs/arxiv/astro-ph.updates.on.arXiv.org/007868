@@ -1,0 +1,17 @@
+Low mass Asymptotic Giant Branch stars are among the most important polluters of the interstellar
+medium. In their interiors, the main component (A>90) of the slow neutron capture process (the s-process)
+is synthesized, the most important neutron source being the 13C(alpha,n)16O reaction. In this
+paper we review its current experimental status discussing possible future synergies between
+some experiments currently focused on the determination of its rate. Moreover, in order to determine
+the level of precision needed to fully characterize this reaction, we present a theoretical sensitivity
+study, carried out with the FUNS evolutionary stellar code and the NEWTON post-process code. We
+modify the rate up to a factor of two with respect to a reference case. We find that variations of the
+13C(alpha,n)16O rate do not appreciably affect s-process distributions for masses above 3 Msun
+at any metallicity. Apart from a few isotopes, in fact, the differences are always below 5%. The situation
+is completely different if some 13C burns in a convective environment: this occurs in FUNS models
+with M<3 Msun at solar-like metallicities. In this case, a change of the 13C(alpha,n)16O reaction
+rate leads to non-negligible variations of the elements Surface distribution (10% on average),
+with larger peaks for some elements (as rubidium) and for neutron-rich isotopes (as 86Kr and 96Zr).
+Larger variations are found in low-mass low-metallicity models, if protons are mixed and burnt
+at very high temperatures. In this case, the surface abundances of the heavier elements may vary
+by more than a factor 50. 

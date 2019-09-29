@@ -1,0 +1,16 @@
+Starting with generic stationary axially symmetric spacetimes depending on two spacelike isotropic
+orthogonal coordinates $x^{1}, x^{2}$, we build anisotropic fluids with and without heat flow
+but with wanishing viscosity. In the first part of the paper, after applying the transformation
+$x^1\rightarrow J(x^1)$, $x^2\rightarrow F(x^2)$(with $J(x^1), F(x^2)$ regular functions)
+to general metrics coefficients $g_{ab}(x^1,x^2)\rightarrow g_{ab}(J(x^1), F(x^2))$ with
+$G_{x^1 x^2}=0$, being $G_{ab}$ the Einstein's tensor, we obtain that ${\tilde{G}}_{x^1 x^2}=0\rightarrow
+G_{x^1 x^2}(J(x^1),F(x^2))=0$. Therefore, the transformed spacetime is endowed with an energy-momentum
+tensor $T_{ab}$ with expression $g_{ab}Q_{i}+heat\;term$ (where $g_{ab}$ is the metric and $\{Q_{i}\},
+{i=1..4}$ are functions depending on the physical parameters of the fluid), i.e. without viscosity
+and generally with a non-vanishing heat flow. We show that after introducing suitable coordinates,
+we can obtain interior solutions that can be matched to the Kerr one on spheroids or Cassinian's ovals,
+providing the necessary mathematical machinery. In the second part of the paper we study the equation
+involving the heat flow and thus we generate anisotropic solutions with vanishing heat flow. In
+this frame, a class of asymptotically flat solutions with vanishing heat flow and viscosity can
+be obtained. Finally, some explicit solutions are presented with possible applications to a string
+with anisotropic source and a dark energy like equation of state. 

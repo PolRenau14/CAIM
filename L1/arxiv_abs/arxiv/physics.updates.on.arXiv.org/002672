@@ -1,0 +1,16 @@
+We analyse the effect of surface viscoelasticity on the temporal stability of a free cylindrical
+liquid jet coated with insoluble surfactant, extending the results of Timmermans & Lister (J. Fluid
+Mech., vol. 459, 2002, pp. 289-306). Our development requires, in particular, deriving the correct
+expressions for the normal and tangential stress boundary conditions at a general axisymmetric
+interface when surface viscosity is modelled with the Boussinesq-Scriven constitutive equation.
+These stress conditions are applied to obtain a new dispersion relation for the liquid thread, which
+is solved to describe its temporal stability as a function of four governing parameters, namely
+the capillary Reynolds number, the elasticity parameter, and the shear and dilatational Boussinesq
+numbers. It is shown that both surface viscosities have a stabilising influence for all values of
+the capillary Reynolds number and elasticity parameter, the effect being more pronounced at low
+capillary Reynolds numbers. The wavenumber of maximum amplification depends non-monotonically
+on the Boussinesq numbers, especially for very viscous threads at low values of the elasticity parameter.
+Finally, two different lubrication approximations of the equations of motion are derived. While
+the validity of the leading-order model is limited to small enough values of the elasticity parameter
+and of the Boussinesq numbers, a higher-order parabolic model is able to accurately capture the
+linearised behaviour for the whole range of values of the four control parameters. 

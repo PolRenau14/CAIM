@@ -1,0 +1,16 @@
+Scalable architectures characterized by quantum bits (qubits) with low error rates are essential
+to the development of a practical quantum computer. In the superconducting quantum computing implementation,
+understanding and minimizing materials losses is crucial to the improvement of qubit performance.
+A new material that has recently received particular attention is indium, a low-temperature superconductor
+that can be used to bond pairs of chips containing standard aluminum-based qubit circuitry. In this
+work, we characterize microwave loss in indium and aluminum/indium thin films on silicon substrates
+by measuring superconducting coplanar waveguide resonators and estimating the main loss parameters
+at powers down to the sub-photon regime and at temperatures between 10 and 450 mK. We compare films
+deposited by thermal evaporation, sputtering, and molecular beam epitaxy. We study the effects
+of heating in vacuum and ambient atmospheric pressure as well as the effects of pre-deposition wafer
+cleaning using hydrofluoric acid. The microwave measurements are supported by thin film metrology
+including secondary-ion mass spectrometry. For thermally evaporated and sputtered films, we
+find that two-level states (TLSs) are the dominating loss mechanism at low photon number and temperature.
+Thermally evaporated indium is determined to have a TLS loss tangent due to indium oxide of ~5x1e-05.
+The molecular beam epitaxial films show evidence of formation of a substantial indium-silicon
+eutectic layer, which leads to a drastic degradation in resonator performance. 

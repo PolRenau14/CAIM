@@ -1,0 +1,16 @@
+We describe a scheme to engineer non-Abelian gauge potentials on a square optical lattice using
+laser-induced transitions. We emphasize the case of two-electron atoms, where the electronic
+ground state g is laser coupled to a metastable state e within a state-dependent optical lattice.
+In this scheme, the alternating pattern of lattice sites hosting g and e states depict a checkerboard
+structure, allowing for laser-assisted tunneling along both spatial directions. In this configuration,
+the nuclear spin of the atoms can be viewed as a "flavor" quantum number undergoing non-Abelian tunneling
+along nearest-neighbor links. We show that this technique can be useful to simulate the equivalent
+of the Haldane quantum Hall model using cold atoms trapped in square optical lattices, offering
+an interesting route to realize Chern insulators. The emblematic Haldane model is particularly
+suited to investigate the physics of topological insulators, but requires, in its original form,
+complex hopping terms beyond nearest-neighboring sites. In general, this drawback inhibits a
+direct realization with cold atoms, using standard laser-induced tunneling techniques. We demonstrate
+that a simple mapping allows to express this model in terms of matrix hopping operators, that are
+defined on a standard square lattice. This mapping is investigated for two models that lead to anomalous
+quantum Hall phases. We discuss the practical implementation of such models, exploiting laser-induced
+tunneling methods applied to the checkerboard optical lattice. 

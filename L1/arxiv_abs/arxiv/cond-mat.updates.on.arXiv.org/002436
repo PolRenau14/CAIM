@@ -1,0 +1,16 @@
+Analytical description of domain structure morphology and phase diagrams of ferroelectric nanoparticles
+is evolved in the framework of Landau Ginzburg Devonshire approach. To model realistic conditions
+of spontaneous polarization incomplete screening at the particle surface it was regarded covered
+by an ultra thin layer of screening charge with finite screening length. The phase diagrams, calculated
+for spherical Sn2P2S6 nanoparticles in coordinates "temperature and surface screening length"
+by finite element modeling, demonstrate the appearance of polydomain region in the tricritical
+point and its broadening with the screening length increase for the particle radius more than critical
+value. Metastable labyrinthine domain region exists in Sn2P2S6 nanoparticles with radius 10 nm
+and more, similarly to the case of CuInP2S6 nanoparticles considered previously. We derived simple
+analytical expressions for the boundaries between paraelectric, singledomain and polydomain
+ferroelectric phases, tricritical point and necessary condition for labyrinthine domain appearance,
+and demonstrated their high accuracy in comparison with finite element modeling results. Analytical
+description shows that phase diagrams and domain morphologies, which are qualitatively similar
+to the ones calculated in this work, can be expected in other ferroelectric nanoparticles covered
+by the screening charges, being rather different for the ferroelectrics with the first and second
+order ferroelectric paraelectric transitions respectively. 

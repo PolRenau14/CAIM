@@ -1,0 +1,16 @@
+Perovskite-based optoelectronic devices have gained significant attention due to their remarkable
+performance and low processing cost, particularly for solar cells. However, for perovskite light-emitting
+diodes (LEDs), non-radiative charge carrier recombination has limited electroluminescence
+(EL) efficiency. Here we demonstrate perovskite-polymer bulk heterostructure LEDs exhibiting
+record-high external quantum efficiencies (EQEs) exceeding 20%, and an EL half-life of 46 hours
+under continuous operation. This performance is achieved with an emissive layer comprising quasi-2D
+and 3D perovskites and an insulating polymer. Transient optical spectroscopy reveals that photogenerated
+excitations at the quasi-2D perovskite component migrate to lower-energy sites within 1 ps. The
+dominant component of the photoluminescence (PL) is primarily bimolecular and is characteristic
+of the 3D regions. From PL quantum efficiency and transient kinetics of the emissive layer with/without
+charge-transport contacts, we find non-radiative recombination pathways to be effectively eliminated.
+Light outcoupling from planar LEDs, as used in OLED displays, generally limits EQE to 20-30%, and
+we model our reported EL efficiency of over 20% in the forward direction to indicate the internal
+quantum efficiency (IQE) to be close to 100%. Together with the low drive voltages needed to achieve
+useful photon fluxes (2-3 V for 0.1-1 mA/cm2), these results establish that perovskite-based LEDs
+have significant potential for light-emission applications. 

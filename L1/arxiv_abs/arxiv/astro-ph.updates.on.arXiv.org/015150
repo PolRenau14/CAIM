@@ -1,0 +1,16 @@
+We present a pipeline to estimate baryonic properties of a galaxy inside a dark matter (DM) halo in
+DM-only simulations using a machine trained on high-resolution hydrodynamic simulations. As
+an example, we use the IllustrisTNG hydrodynamic simulation of a $(75 \,\,h^{-1}{\rm Mpc})^3$
+volume to train our machine to predict e.g., stellar mass and star formation rate in a galaxy-sized
+halo based purely on its DM content. An extremely randomized tree (ERT) algorithm is used together
+with multiple novel improvements we introduce here such as a refined error function in machine training
+and two-stage learning. Aided by these improvements, our model demonstrates a significantly increased
+accuracy in predicting baryonic properties compared to prior attempts --- in other words, the machine
+better mimics IllustrisTNG's galaxy-halo correlation. By applying our machine to the MultiDark-Planck
+DM-only simulation of a large $(1 \,\,h^{-1}{\rm Gpc})^3$ volume, we then validate the pipeline
+that rapidly generates a galaxy catalogue from a DM halo catalogue using the correlations the machine
+found in IllustrisTNG. We also compare our galaxy catalogue with the ones produced by popular semi-analytic
+models (SAMs). Our so-called machine-assisted semi-simulation model (MSSM) is shown to be largely
+compatible with SAMs, and may become a promising method to transplant the baryon physics of galaxy-scale
+hydrodynamic calculations onto a larger-volume DM-only run. We discuss the benefits that machine-based
+approaches like this entail, as well as suggestions to raise the scientific potential of such approaches.

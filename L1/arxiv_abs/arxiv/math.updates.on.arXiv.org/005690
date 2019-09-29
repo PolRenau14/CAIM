@@ -1,0 +1,16 @@
+We introduce a domination argument which asserts that: if we can dominate theparameters of a quadratic
+backward stochastic differential equation (QBSDE) with continuousgenerator from above and from
+below by those of two BSDEs having ordered solutions, thenalso the original QBSDE admits at least
+one solution. This result is presented in a generalframework: we do not impose any integrability
+condition on none of the terminal data of thethree involved BSDEs, we do not require any constraint
+on the growth nor continuity of thetwo dominating generators. As a consequence, we establish the
+existence of a maximal anda minimal solution to BSDEs whose coefficient H is continuous and satisfies
+|H(t, y, z)| $\le$$\alpha$ t + $\beta$ t |y| + $\theta$ t |z| + f (|y|)|z| 2 , where $\alpha$ t , $\beta$
+t , $\theta$ t are positive processes and the function f ispositive, continuous and increasing (or
+even only positive and locally bounded) on R. This isdone with unbounded terminal value. We cover
+the classical QBSDEs where the function f isconstant ([10], [12], [23], [25]) and when f (y) = y p ([21])
+and also the cases where the generator has super linear growth such as y|z|, e |y| |z| p , e e |z| 2 , (k
+$\ge$ 0, 0 $\le$ p < 2) and so on. Incontrast to the works [10, 12, 21, 23, 25], we get the existence of
+a a maximal and a minimalsolution and we cover the BSDEs with at most linear growth (take f = 0). In particular,we
+cover and extend the results of [22] and [24]. Furthermore, we establish the existence anduniqueness
+of solutions to BSDEs driven by f (y)|z| 2 when f is merely locally integrable on R. 

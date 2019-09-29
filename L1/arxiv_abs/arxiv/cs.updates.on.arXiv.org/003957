@@ -1,0 +1,16 @@
+When submitting queries to information retrieval (IR) systems, users often have the option of specifying
+which, if any, of the query terms are heavily dependent on each other and should be treated as a fixed
+phrase, for instance by placing them between quotes. In addition to such cases where users specify
+term dependence, automatic ways also exist for IR systems to detect dependent terms in queries.
+Most IR systems use both user and algorithmic approaches. It is not however clear whether and to what
+extent user-defined term dependence agrees with algorithmic estimates of term dependence, nor
+which of the two may fetch higher performance gains. Simply put, is it better to trust users or the
+system to detect term dependence in queries? To answer this question, we experiment with 101 crowdsourced
+search engine users and 334 queries (52 train and 282 test TREC queries) and we record 10 assessments
+per query. We find that (i) user assessments of term dependence differ significantly from algorithmic
+assessments of term dependence (their overlap is approximately 30%); (ii) there is little agreement
+among users about term dependence in queries, and this disagreement increases as queries become
+longer; (iii) the potential retrieval gain that can be fetched by treating term dependence (both
+user- and system-defined) over a bag of words baseline is reserved to a small subset (approxi-mately
+8%) of the queries, and is much higher for low-depth than deep preci-sion measures. Points (ii) and
+(iii) constitute novel insights into term dependence. 

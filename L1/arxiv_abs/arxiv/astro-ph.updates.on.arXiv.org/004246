@@ -1,0 +1,16 @@
+We present the first catalog and data release of the Swift-BAT AGN Spectroscopic Survey (BASS).
+We analyze optical spectra of the majority of AGN (77%, 641/836) detected based on their 14-195 keV
+emission in the 70-month Swift BAT all-sky catalog. This includes redshift determination, absorption
+and emission line measurements, and black hole mass and accretion rate estimates for the majority
+of obscured and un-obscured AGN (74%, 473/641) with 340 measured for the first time. With ~90% of
+sources at z<0.2, the survey represents a significant census of hard-X-ray selected AGN in the local
+universe. In this first catalog paper, we describe the spectroscopic observations and datasets,
+and our initial spectral analysis. The FWHM of the emission lines show broad agreement with the X-ray
+obscuration (~94%), such that Sy 1-1.8 have NH<10^21.9 cm^-2, and Seyfert 2, have NH>10^21.9 cm^-2.
+Seyfert 1.9 show a range of column densities. Compared to narrow line AGN in the SDSS, the X-ray selected
+AGN have a larger fraction of dusty host galaxies suggesting these types of AGN are missed in optical
+surveys. Using the most sensitive [OIII]/Hbeta and [NII]/Halpha emission line diagnostic, about
+half of the sources are classified as Seyferts, ~15% reside in dusty galaxies that lack an Hbeta detection,
+but for which the line upper limits imply either a Seyfert or LINER, ~15% are in galaxies with weak
+or no emission lines despite high quality spectra, and a few percent each are LINERS, composite galaxies,
+HII regions, or in known beamed AGN. 

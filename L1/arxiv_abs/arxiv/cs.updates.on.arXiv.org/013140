@@ -1,0 +1,16 @@
+Online Learning to Rank (OL2R) algorithms learn from implicit user feedback on the fly. The key of
+such algorithms is an unbiased estimation of gradients, which is often (trivially) achieved by
+uniformly sampling from the entire parameter space. This unfortunately introduces high-variance
+in gradient estimation, and leads to a worse regret of model estimation, especially when the dimension
+of parameter space is large. In this paper, we aim at reducing the variance of gradient estimation
+in OL2R algorithms. We project the selected updating direction into a space spanned by the feature
+vectors from examined documents under the current query (termed the ''document space'' for short),
+after interleaved test. Our key insight is that the result of interleaved test solely is governed
+by a user's relevance evaluation over the examined documents. Hence, the true gradient introduced
+by this test result should lie in the constructed document space, and components orthogonal to the
+document space in the proposed gradient can be safely removed for variance reduction. We prove that
+the projected gradient is an unbiased estimation of the true gradient, and show that this lower-variance
+gradient estimation results in significant regret reduction. Our proposed method is compatible
+with all existing OL2R algorithms which rank documents using a linear model. Extensive experimental
+comparisons with several state-of-the-art OL2R algorithms have confirmed the effectiveness
+of our proposed method in reducing the variance of gradient estimation and improving overall performance.

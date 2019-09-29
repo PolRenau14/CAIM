@@ -1,0 +1,16 @@
+We model the projected b/a-log a distributions of CANDELS main sequence star-forming galaxies,
+where a (b) is the semi-major (semi-minor) axis of the galaxy images. We find that smaller-a galaxies
+are rounder at all stellar masses M and redshifts, so we include a when analyzing b/a distributions.
+Approximating intrinsic shapes of the galaxies as triaxial ellipsoids and assuming a multivariate
+normal distribution of galaxy size and two shape parameters, we construct their intrinsic shape
+and size distributions to obtain the fractions of prolate, oblate and spheroidal galaxies in each
+redshift and mass bin. We find that galaxies tend to be prolate at low m and high redshifts, and oblate
+at high M and low redshifts, qualitatively consistent with van der Wel et al. (2014), implying that
+galaxies tend to evolve from prolate to oblate. These results are consistent with the predictions
+from simulations (Ceverino et al. 2015, Tomassetti et al. 2016) that the transition from prolate
+to oblate is caused by a compaction event at a characteristic mass range, making the galaxy center
+baryon dominated. We give probabilities of a galaxy's being prolate, oblate or spheroidal as a function
+of its M, redshift, projected b/a and a, which can facilitate target selections of galaxies with
+specific shapes at hight redshifts. We also give predicted optical depths of galaxies, which are
+qualitatively consistent with the expected correlation that AV should be higher for edge-on disk
+galaxies in each log a slice at low redshift and high mass bins. 

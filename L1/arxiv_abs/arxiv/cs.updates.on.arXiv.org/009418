@@ -1,0 +1,17 @@
+Persistence diagrams are important tools in the field of topological data analysis that describe
+the presence and magnitude of features in a filtered topological space. However, current approaches
+for comparing a persistence diagram to a set of other persistence diagrams is linear in the number
+of diagrams or do not offer performance guarantees. In this paper, we apply concepts from locality-sensitive
+hashing to support approximate nearest neighbor search in the space of persistence diagrams. Given
+a set $\Gamma$ of $n$ $(M,m)$-bounded persistence diagrams, each with at most $m$ points, we snap-round
+the points of each diagram to points on a cubical lattice and produce a key for each possible snap-rounding.
+Specifically, we fix a grid over each diagram at several resolutions and consider the snap-roundings
+of each diagram to the four nearest lattice points. Then, we propose a data structure with $\tau$
+levels $\bigds$ that stores all snap-roundings of each persistence diagram in $\Gamma$ at each
+resolution. This data structure has size $O(n5^m\tau)$ to account for varying lattice resolutions
+as well as snap-roundings and the deletion of points with low persistence. To search for a persistence
+diagram, we compute a key for a query diagram by snapping each point to a lattice and deleting points
+of low persistence. Furthermore, as the lattice parameter decreases, searching our data structure
+yields a six-approximation of the nearest diagram in $\Gamma$ in $O((m\logn+m^2)\log\tau)$ time
+and a constant factor approximation of the $k$th nearest diagram in $O((m\logn+m^2+k)\log\tau)$
+time. 

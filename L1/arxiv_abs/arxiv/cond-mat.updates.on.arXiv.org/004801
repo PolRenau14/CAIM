@@ -1,0 +1,16 @@
+Fractons are particles that cannot move in one or more directions without paying energy proportional
+to their displacement. Here, we introduce the concept of symmetry enforced fractonicity, in which
+particles are fractons in the presence of a global symmetry, but are free to move in its absence. A
+simple example is dislocation defects in a two-dimensional crystal, which are restricted to move
+only along their Burgers vector due to particle number conservation. Utilizing a recently developed
+dual rank-2 tensor gauge description of elasticity, we show that accounting for their symmetry
+enforced one-dimensional nature of dislocation motion dramatically alters the structure of quantum
+crystal melting phase transitions. We show that, at zero temperature, sufficiently strong quantum
+fluctuations of the crystal lattice favor the formation of a super-solid phase that spontaneously
+breaks the symmetry enforcing fractonicity of defects. The defects can then condense to drive the
+crystal into a super-nematic phase via a phase transition in the $2+1d$ XY universality class to
+drive a melting phase transition of the crystal to a nematic phase. This scenario contrasts the standard
+Halperin-Nelson scenario for thermal melting of $2d$ solids in which dislocations can proliferate
+via a single continuous thermal phase transition. We comment on the application of these results
+to other scenarios such as vortex lattice melting at a magnetic field induced superconductor-insulator
+transition, and quantum melting of charge density waves of stripes in a metal. 

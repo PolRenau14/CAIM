@@ -1,0 +1,16 @@
+In recent years, researchers in decision analysis and artificial intelligence (Al) have used Bayesian
+belief networks to build models of expert opinion. Using standard methods drawn from the theory
+of computational complexity, workers in the field have shown that the problem of probabilistic
+inference in belief networks is difficult and almost certainly intractable. K N ET, a software environment
+for constructing knowledge-based systems within the axiomatic framework of decision theory,
+contains a randomized approximation scheme for probabilistic inference. The algorithm can, in
+many circumstances, perform efficient approximate inference in large and richly interconnected
+models of medical diagnosis. Unlike previously described stochastic algorithms for probabilistic
+inference, the randomized approximation scheme computes a priori bounds on running time by analyzing
+the structure and contents of the belief network. In this article, we describe a randomized algorithm
+for probabilistic inference and analyze its performance mathematically. Then, we devote the major
+portion of the paper to a discussion of the algorithm's empirical behavior. The results indicate
+that the generation of good trials (that is, trials whose distribution closely matches the true
+distribution), rather than the computation of numerous mediocre trials, dominates the performance
+of stochastic simulation. Key words: probabilistic inference, belief networks, stochastic simulation,
+computational complexity theory, randomized algorithms. 

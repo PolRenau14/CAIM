@@ -1,0 +1,17 @@
+Laser-light (coherent-state) modulation is sufficient to achieve the ultimate (Holevo) capacity
+of classical communication over a lossy and noisy optical channel, but requires a receiver that
+jointly detects long modulated codewords with highly nonlinear quantum operations, which are
+near-impossible to realize using current technology. We analyze the capacity of the lossy-noisy
+optical channel when the transmitter uses coherent state modulation but the receiver is restricted
+to a general quantum-limited Gaussian receiver, i.e., one that may involve arbitrary combinations
+of Gaussian operations (passive linear optics: beamsplitters and phase-shifters, second order
+nonlinear optics (or active linear optics): squeezers, along with homodyne or heterodyne detection
+measurements) and any amount of classical feedforward within the receiver. Under these assumptions,
+we show that the Gaussian receiver that attains the maximum mutual information is either homodyne
+detection, heterodyne detection, or time sharing between the two, depending upon the received
+power level. In other words, our result shows that to exceed the theoretical limit of conventional
+coherent optical communications, one has to incorporate non-Gaussian, i.e., third or higher-order
+nonlinear operations in the receiver. Finally we compare our Gaussian receiver limit with experimentally
+feasible non-Gaussian receivers and show that in the regime of low received photon flux, it is possible
+to overcome the Gaussian receiver limit by relatively simple non-Gaussian receivers based on photon
+counting. 

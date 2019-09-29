@@ -1,0 +1,16 @@
+We present a numerical study on the rheology of semi-dilute and concentrated filament suspensions
+for different bending stiffness and Reynolds number, with the immersed boundary method used for
+the coupling between fluid and solid. The filaments are considered as one-dimensional inextensible
+slender bodies with fixed aspect ratio, %${1}/{16}$ obeying the Euler-Bernoulli beam equation.
+At fixed volume fraction, the suspensions are found to be shear-thinning where the relative viscosity
+decreases by decreasing the non-dimensional bending rigidity. The relative viscosity increases
+when increasing the Reynolds number due to the larger contribution of the fluid-solid interaction
+stress to the total stress; moreover the shear-thinning increases at finite inertia, yet in the
+laminar regime considered here. The first normal stress is positive as in polymeric and other shear-thinning
+fluids, and increases with the Reynolds number. However, it has a peak for a certain value of the filament
+bending stiffness, which varies with the Reynolds number, moving towards more rigid suspensions
+at larger inertia. When increasing the filament volume fraction, we observe that the viscosity
+increases. On the other, the shear-thinning behavior with respect with deformability is stronger
+at lower volume fraction and decreases with the number of filaments. This is due to the formation
+of a more ordered structure in the flow, where filaments tend to be more aligned and move as an aggregate,
+which reduces the filament-filament interactions. 

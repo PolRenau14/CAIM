@@ -1,0 +1,16 @@
+We present the Feedback Acting on Baryons in Large-scale Environments (FABLE) suite of cosmological
+hydrodynamical simulations of galaxies, groups and clusters. The simulations use the AREPO moving-mesh
+code with a set of physical models for galaxy formation based on the successful Illustris simulation,
+but with updated AGN and supernovae feedback models. This allows us to simultaneously reproduce
+the observed redshift evolution of the galaxy stellar mass function together with the stellar and
+gas mass fractions of local groups and clusters across a wide range of halo masses. Focusing on the
+properties of groups and clusters, we find very good agreement with a range of observed scaling relations,
+including the X-ray luminosity--total mass and gas mass relations as well as the total mass--temperature
+and Sunyaev-Zel'dovich flux--mass relations. Careful comparison of our results with scaling
+relations based on X-ray hydrostatic masses as opposed to weak lensing-derived masses reveals
+some discrepancies, which hint towards a non-negligible X-ray mass bias in observed samples. We
+further show that radial profiles of density, pressure and temperature of the simulated intracluster
+medium are in very good agreement with observations, in particular for $r > 0.3\ r_{500}$. In the
+innermost regions however we find too large entropy cores, which indicates that a more sophisticated
+modelling of the physics of AGN feedback may be required to accurately reproduce the observed populations
+of cool-core and non-cool-core clusters. 

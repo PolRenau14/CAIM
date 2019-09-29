@@ -1,0 +1,16 @@
+Block maxima methods constitute a fundamental part of the statistical toolbox in extreme value
+analysis. However, most of the corresponding theory is derived under the simplifying assumption
+that block maxima are independent observations from a genuine extreme value distribution. In practice
+however, block sizes are finite and observations from different blocks are dependent. Theory respecting
+the latter complications is not well developed, and, in the multivariate case, has only recently
+been established for disjoint blocks of a single block size. We show that using overlapping blocks
+instead of disjoint blocks leads to a uniform improvement in the asymptotic variance of the multivariate
+empirical distribution function of rescaled block maxima and any smooth functionals thereof (such
+as the empirical copula), without any sacrifice in the asymptotic bias. We further derive functional
+central limit theorems for multivariate empirical distribution functions and empirical copulas
+that are uniform in the block size parameter, which seems to be the first result of this kind for estimators
+based on block maxima in general. The theory allows for various aggregation schemes over multiple
+block sizes, leading to substantial improvements over the single block length case and opens the
+door to further methodology developments. In particular, we consider bias correction procedures
+that can improve the convergence rates of extreme-value estimators and shed some new light on estimation
+of the second-order parameter when the main purpose is bias correction. 

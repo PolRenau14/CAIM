@@ -1,0 +1,17 @@
+Protoplanetary disks often appear as multiple concentric rings in dust continuum emission maps
+and scattered light images. These features are often associated with possible young planets in
+these disks. Many non-planetary explanations have also been suggested, including snow lines,
+dead zones and secular gravitational instabilities in the dust. In this paper we suggest another
+potential origin. The presence of copious amounts of dust tends to strongly reduce the conductivity
+of the gas, thereby inhibiting the magneto-rotational instability, and thus reducing the turbulence
+in the disk. From viscous disk theory it is known that a disk tends to increase its surface density
+in regions where the viscosity (i.e. turbulence) is low. Local maxima in the gas pressure tend to
+attract dust through radial drift, increasing the dust content even more. We investigate mathematically
+if this could potentially lead to a feedback loop in which a perturbation in the dust surface density
+could perturb the gas surface density, leading to increased dust drift and thus amplification of
+the dust perturbation and, as a consequence, the gas perturbation. We find that this is indeed possible,
+even for moderately small dust grain sizes, which drift less efficiently, but which are more likely
+to affect the gas ionization degree. We speculate that this instability could be triggered by the
+small dust population initially, and when the local pressure maxima are strong enough, the larger
+dust grains get trapped and lead to the familiar ring-like shapes. We also discuss the many uncertainties
+and limitations of this model. 

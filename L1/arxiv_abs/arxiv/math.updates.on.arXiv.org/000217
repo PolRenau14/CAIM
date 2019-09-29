@@ -1,0 +1,17 @@
+The paper describes development (improvement/extension) approaches for composite (modular)
+systems (as combinatorial reengineering). The following system improvement/extension actions
+are considered: (a) improvement of systems component(s) (e.g., improvement of a system component,
+replacement of a system component); (b) improvement of system component interconnection (compatibility);
+(c) joint improvement improvement of system components(s) and their interconnection; (d) improvement
+of system structure (replacement of system part(s), addition of a system part, deletion of a system
+part, modification of system structure). The study of system improvement approaches involve some
+crucial issues: (i) scales for evaluation of system components and component compatibility (quantitative
+scale, ordinal scale, poset-like scale, scale based on interval multiset estimate), (ii) evaluation
+of integrated system quality, (iii) integration methods to obtain the integrated system quality.
+The system improvement/extension strategies can be examined as seleciton/combination of the
+improvement action(s) above and as modification of system structure. The strategies are based
+on combinatorial optimization problems (e.g., multicriteria selection, knapsack problem, multiple
+choice problem, combinatorial synthesis based on morphological clique problem, assignment/reassignment
+problem, graph recoloring problem, spanning problems, hotlink assignment). Here, heuristics
+are used. Various system improvement/extension strategies are presented including illustrative
+numerical examples. 

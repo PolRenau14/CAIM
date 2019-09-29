@@ -1,0 +1,17 @@
+We compare reduced three-point correlations $Q$ of matter, haloes (as proxies for galaxies) and
+their cross correlations, measured in a total simulated volume of $\sim100 \ (h^{-1} \text{Gpc})^{3}$,
+to predictions from leading order perturbation theory on a large range of scales in configuration
+space. Predictions for haloes are based on the non-local bias model, employing linear ($b_1$) and
+non-linear ($c_2$, $g_2$) bias parameters, which have been constrained previously from the bispectrum
+in Fourier space. We also study predictions from two other bias models, one local ($g_2=0$) and one
+in which $c_2$ and $g_2$ are determined by $b_1$ via an approximately universal relation. Overall,
+measurements and predictions agree when $Q$ is derived for triangles with $(r_1r_2r_3)^{1/3}
+\gtrsim 60 h^{-1}\text{Mpc}$, where $r_{1-3}$ are the sizes of the triangle legs. Predictions
+for $Q_{matter}$, based on the linear power spectrum, show significant deviations from the measurements
+at the BAO scale (given our small measurement errors), which strongly decrease when adding a damping
+term or using the non-linear power spectrum, as expected. Predictions for $Q_{halo}$ agree best
+with measurements at large scales when considering non-local contributions. The universal bias
+model works well for haloes and might therefore be also useful for tightening constraints on $b_1$
+from $Q$ in galaxy surveys. Such constraints are independent of the amplitude of matter density
+fluctuation ($\sigma_8$) and hence break the degeneracy between $b_1$ and $\sigma_8$, present
+in galaxy two-point correlations. 

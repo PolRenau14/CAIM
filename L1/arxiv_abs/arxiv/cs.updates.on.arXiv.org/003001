@@ -1,0 +1,16 @@
+We consider the problem of tracking a group of mobile nodes with limited available computational
+and energy resources given noisy RSSI measurements and position estimates from group members.
+The multilateration solutions are known for energy efficiency. However, these solutions are not
+directly applicable to dynamic grouping scenarios where neighbourhoods and resource availability
+may frequently change. Existing algorithms such as cluster-based GPS duty-cycling, individual-based
+tracking, and multilateration-based tracking can only partially deal with the challenges of dynamic
+grouping scenarios. To cope with these challenges in an effective manner, we propose a new group-based
+multi-mode tracking algorithm. The proposed algorithm takes the topological structure of the
+group as well as the availability of the resources into consideration and decides the best solution
+at any particular time instance. We consider a clustering approach where a cluster head coordinates
+the usage of resources among the cluster members. We evaluate the energy-accuracy trade-off of
+the proposed algorithm for various fixed sampling intervals. The evaluation is based on the 2D position
+tracks of 40 nodes generated using Reynolds' flocking model. For a given energy budget, the proposed
+algorithm reduces the mean tracking error by up to $20\%$ in comparison to the existing energy-efficient
+cooperative algorithms. Moreover, the proposed algorithm is as accurate as the individual-based
+tracking while using almost half the energy. 

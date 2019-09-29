@@ -1,0 +1,16 @@
+The increasing digitization of political speech has opened the door to studying a new dimension
+of political behavior using text analysis. This work investigates the value of word-level statistical
+data from the US Congressional Record--which contains the full text of all speeches made in the US
+Congress--for studying the ideological positions and behavior of senators. Applying machine
+learning techniques, we use this data to automatically classify senators according to party, obtaining
+accuracy in the 70-95% range depending on the specific method used. We also show that using text to
+predict DW-NOMINATE scores, a common proxy for ideology, does not improve upon these already-successful
+results. This classification deteriorates when applied to text from sessions of Congress that
+are four or more years removed from the training set, pointing to a need on the part of voters to dynamically
+update the heuristics they use to evaluate party based on political speech. Text-based predictions
+are less accurate than those based on voting behavior, supporting the theory that roll-call votes
+represent greater commitment on the part of politicians and are thus a more accurate reflection
+of their ideological preferences. However, the overall success of the machine learning approaches
+studied here demonstrates that political speeches are highly predictive of partisan affiliation.
+In addition to these findings, this work also introduces the computational tools and methods relevant
+to the use of political speech data. 

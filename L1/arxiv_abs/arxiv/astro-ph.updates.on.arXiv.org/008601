@@ -1,0 +1,16 @@
+We measure the projected galaxy clustering and galaxy-galaxy lensing signals using the Galaxy
+And Mass Assembly (GAMA) survey and Kilo-Degree Survey (KiDS) to study galaxy bias. We use the concept
+of non-linear and stochastic galaxy biasing in the framework of halo occupation statistics to constrain
+the parameters of the halo occupation statistics and to unveil the origin of galaxy biasing. The
+bias function $\Gamma_{\text{gm}}(r_{\text{p}})$, where $r_{\text{p}}$ is the projected comoving
+separation, is evaluated using the analytical halo model from which the scale dependence of $\Gamma_{\text{gm}}(r_{\text{p}})$,
+and the origin of the non-linearity and stochasticity in halo occupation models can be inferred.
+Our observations unveil the physical reason for the non-linearity and stochasticity, further
+explored using hydrodynamical simulations, with the stochasticity mostly originating from the
+non-Poissonian behaviour of satellite galaxies in the dark matter haloes and their spatial distribution,
+which does not follow the spatial distribution of dark matter in the halo. The observed non-linearity
+is mostly due to the presence of the central galaxies, as was noted from previous theoretical work
+on the same topic. We also see that overall, more massive galaxies reveal a stronger scale dependence,
+and out to a larger radius. Our results show that a wealth of information about galaxy bias is hidden
+in halo occupation models. These models should therefore be used to determine the influence of galaxy
+bias in cosmological studies. 

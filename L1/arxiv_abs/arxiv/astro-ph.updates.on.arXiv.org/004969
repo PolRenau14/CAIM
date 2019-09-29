@@ -1,0 +1,16 @@
+We present stellar-dynamical measurements of the central supermassive black hole (SMBH) in the
+S0 galaxy NGC 307, using adaptive-optics IFU data from VLT-SINFONI. We investigate the effects
+of including dark-matter haloes as well as multiple stellar components with different mass-to-light
+(M/L) ratios in the dynamical modeling. Models with no halo and a single stellar component yield
+a relatively poor fit with a low value for the SMBH mass ($7.0 \pm 1.0 \times 10^{7} M_{\odot}$) and
+a high stellar M/L ratio (K-band M/L = $1.3 \pm 0.1$). Adding a halo produces a much better fit, with
+a significantly larger SMBH mass ($2.0 \pm 0.5 \times 10^{8} M_{\odot}$) and a lower M/L ratio ($1.1
+\pm 0.1$). A model with no halo but with separate bulge and disc components produces a similarly good
+fit, with a slightly larger SMBH mass ($3.0 \pm 0.5 \times 10^{8} M_{\odot}$) and an identical M/L
+ratio for the bulge component, though the disc M/L ratio is biased high (disc M/L $ = 1.9 \pm 0.1$).
+Adding a halo to the two-stellar-component model results in a much more plausible disc M/L ratio
+of $1.0 \pm 0.1$, but has only a modest effect on the SMBH mass ($2.2 \pm 0.6 \times 10^{8} M_{\odot}$)
+and leaves the bulge M/L ratio unchanged. This suggests that measuring SMBH masses in disc galaxies
+using just a single stellar component and no halo has the same drawbacks as it does for elliptical
+galaxies, but also that reasonably accurate SMBH masses and bulge M/L ratios can be recovered (without
+the added computational expense of modeling haloes) by using separate bulge and disc components.

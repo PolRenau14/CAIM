@@ -1,0 +1,16 @@
+Public health organizations face the problem of dispensing medications (i.e., vaccines, antibiotics,
+and others) to groups of affected populations during emergency situations, typically in the presence
+of complexities like demand stochasticity and limited storage. We formulate a Markov decision
+process (MDP) model with two levels of decisions: the upper-level decisions come from an inventory
+model that "controls" a lower-level problem that optimizes dispensing decisions that take into
+consideration the heterogeneous utility functions of the random set of arriving patients. We then
+derive structural properties of the MDP model and propose an approximate dynamic programming (ADP)
+algorithm that leverages structure in both the policy and the value space (state-dependent basestocks
+and concavity, respectively). The algorithm can be considered an actor-critic method; to our knowledge,
+this paper is the first to jointly exploit policy and value structure within an actor-critic framework.
+We prove that the policy and value function approximations each converge to their optimal counterparts
+with probability one and provide a comprehensive numerical analysis showing improved empirical
+convergence rates when compared to other ADP techniques. Finally, we provide a case study for the
+problem of dispensing naloxone (an overdose reversal drug) via mobile needle exchange clinics
+amidst the ongoing opioid crisis. In particular, we analyze the influence of surging naloxone prices
+on public health organizations' harm reduction efforts. 

@@ -1,0 +1,16 @@
+We consider the problem of designing scalable, robust protocols for computing statistics about
+sensitive data. Specifically, we look at how best to design differentially private protocols in
+a distributed setting, where each user holds a private datum. The literature has mostly considered
+two models: the "central" model, in which a trusted server collects users' data in the clear, which
+allows greater accuracy; and the "local" model, in which users individually randomize their data,
+and need not trust the server, but accuracy is limited. Attempts to achieve the accuracy of the central
+model without a trusted server have so far focused on variants of cryptographic MPC, which limits
+scalability. In this paper, we initiate the analytic study of a shuffled model for distributed differentially
+private algorithms, which lies between the local and central models. This simple-to-implement
+model, a special case of the ESA framework of [Bittau et al., '17], augments the local model with an
+anonymous channel that randomly permutes a set of user-supplied messages. For sum queries, we show
+that this model provides the power of the central model while avoiding the need to trust a central
+server and the complexity of cryptographic secure function evaluation. More generally, we give
+evidence that the power of the shuffled model lies strictly between those of the central and local
+models: for a natural restriction of the model, we show that shuffled protocols for a widely studied
+selection problem require exponentially higher sample complexity than do central-model protocols.

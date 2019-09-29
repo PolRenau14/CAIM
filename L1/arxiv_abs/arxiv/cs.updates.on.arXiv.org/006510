@@ -1,0 +1,17 @@
+Lane detection is to detect lanes on the road and provide the accurate location and shape of each lane.
+It severs as one of the key techniques to enable modern assisted and autonomous driving systems.
+However, several unique properties of lanes challenge the detection methods. The lack of distinctive
+features makes lane detection algorithms tend to be confused by other objects with similar local
+appearance. Moreover, the inconsistent number of lanes on a road as well as diverse lane line patterns,
+e.g. solid, broken, single, double, merging, and splitting lines further hamper the performance.
+In this paper, we propose a deep neural network based method, named LaneNet, to break down the lane
+detection into two stages: lane edge proposal and lane line localization. Stage one uses a lane edge
+proposal network for pixel-wise lane edge classification, and the lane line localization network
+in stage two then detects lane lines based on lane edge proposals. Please note that the goal of our
+LaneNet is built to detect lane line only, which introduces more difficulties on suppressing the
+false detections on the similar lane marks on the road like arrows and characters. Despite all the
+difficulties, our lane detection is shown to be robust to both highway and urban road scenarios method
+without relying on any assumptions on the lane number or the lane line patterns. The high running
+speed and low computational cost endow our LaneNet the capability of being deployed on vehicle-based
+systems. Experiments validate that our LaneNet consistently delivers outstanding performances
+on real world traffic scenarios. 

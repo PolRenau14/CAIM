@@ -1,0 +1,16 @@
+In the wake of growth in intelligent mobile devices and wide usage of bandwidth-hungry applications
+of mobile Internet, the demand of wireless data traffic and ubiquitous mobile broadband is rapidly
+increasing. On account of these developments, the research on fifth generation (5G) networks presents
+an accelerative tendency on a global scale. Edge computing draw lots of attention for reducing the
+time delay and improving the Quality of Service for the networks. While, fog radio access networks
+(F-RANs) is an emergent architecture, which takes full use of edge computing and distributed storing
+capabilities in edge devices. In this article, we propose an architecture of non-orthogonal multiple
+access (NOMA) based F-RANs, which has a strong capability of edge computing and can meet the heterogeneous
+requirements in 5G systems. NOMA with successive interference cancellation (SIC) is regarded
+as a critical multi-user access technology. In NOMA, more than one user can access the same time,
+code domain, and frequency resources. With assigning different power levels to multi-user and
+implementing SIC, multiple users detection can be achieved. In this article, we provide a description
+of the NOMA based F-RANs architecture, and discuss the resource allocation in that. We will focus
+on the power and subchannel allocation in consideration of using NOMA and the edge caching. Simulation
+results show that the proposed NOMA baesd F-RANs architecture and the resource management mechanisms
+can achieve the high net utility for the RANs. 

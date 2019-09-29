@@ -1,0 +1,16 @@
+This paper serves to treat boundary conditions numerically with high order accuracy in order to
+match the two-stage fourth-order finite volume schemes for hyperbolic problems developed in [{\em
+J. Li and Z. Du, A two-stage fourth order time-accurate discretization {L}ax--{W}endroff type
+flow solvers, {I}. {H}yperbolic conservation laws, SIAM, J. Sci. Comput., 38 (2016), pp.~A3046--A3069}].
+As such, it is significant when capturing small scale structures near physical boundaries. Different
+from previous contributions in literature, the current approach constructs a fourth order accurate
+approximation to boundary conditions by only using the Jacobian of the flux function (characteristic
+information) instead of its successive differentiation leading to tensors of high ranks in the
+inverse Lax-Wendroff method. Technically, data in several ghost cells are constructed with interpolation
+so that the interior scheme can be implemented over boundary cells, and theoretical boundary condition
+has to be modified properly at intermediate stages so as to make the two-stage scheme over boundary
+cells fully consistent with that over interior cells. This highlights the fact that {\em continuous
+boundary conditions only match continuous partial differential equations (PDEs), and they must
+be approximated in a consistent way (even though it could be exactly valued) when the PDEs are discretized.}
+Several numerical examples are provided to illustrate the performance of the current approach
+when dealing with general boundary conditions. 

@@ -1,0 +1,16 @@
+We present a catalogue of local ($z<0.1$) galaxies that contain faint AGN. We select these objects
+by identifying galaxies that exhibit a significant excess in their radio luminosities, compared
+to what is expected from the observed levels of star-formation activity in these systems. This is
+achieved by comparing the optical (spectroscopic) star formation rate (SFR) to the 1.4~GHz luminosity
+measured from the FIRST survey. The majority of the AGN identified in this study are fainter than
+those in previous work, such as in the Best and Heckman (2012) catalogue. We show that these faint
+AGN make a non-negligible contribution to the radio luminosity function at low luminosities (below
+$10^{22.5}$ W Hz$^{-1}$), and host $\sim$13 per cent of the local radio luminosity budget. Their
+host galaxies are predominantly high stellar-mass systems (with a median stellar mass of $10^{11}\textrm{M}_{\odot}$),
+are found across a range of environments (but typically in denser environments than star-forming
+galaxies) and have early-type morphologies. This study demonstrates a general technique to identify
+AGN in galaxy populations where reliable optical SFRs can be extracted using spectro-photometry
+and where radio data are also available so that a radio excess can be measured. Our results also demonstrate
+that it is unsafe to infer SFRs from radio emission \textit{alone}, even if bright AGN have been excluded
+from a sample, since there is a significant population of faint radio AGN which may contaminate the
+radio-derived SFRs. 

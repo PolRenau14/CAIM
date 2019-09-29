@@ -1,0 +1,16 @@
+We present a novel approach and a theoretical framework for generating high order exceptional points
+of degeneracy (EPD) in photonic structures based on periodic coupled resonators optical waveguides
+(CROWs). Such EPDs involve the coalescence of Floquet-Bloch eigenwaves in CROWs, without the presence
+of gain and loss, which is in contrast to the requirement of Parity-Time (PT) symmetry to develop
+exceptional points based on gain and loss balance. The EPDs arise here by introducing symmetry breaking
+in a conventional chain of coupled resonators through coupling the chain of resonators to an adjacent
+uniform optical waveguide, which leads to unique modal characteristics that cannot be realized
+in conventional CROWs. Such remarkable characteristics include high quality factors (Q-factor)
+and strong field enhancement, even without any mirrors at the two ends of a cavity. We show for the
+first time the capability of CROWs to exhibit EPDs of various order; including the degenerate band
+edge (DBE) and the stationary inflection point (SIP). The proposed CROW of finite length shows enhanced
+quality factor when operating near the DBE, and the Q-factor exhibits an anomalous scaling with
+the CROW's length. We develop the theory of EPDs in such unconventional CROW using coupled-wave
+equations, and we derive an analytical expression for the dispersion relation. The proposed unconventional
+CROW concepts have various potential applications including Q-switching, nonlinear devices,
+lasers, and extremely sensitive sensors. 

@@ -1,0 +1,16 @@
+We address the turbulent fragmentation scenario for the origin of the stellar initial mass function
+(IMF), using a large set of numerical simulations of randomly driven supersonic MHD turbulence.
+The turbulent fragmentation model successfully predicts the main features of the observed stellar
+IMF assuming an isothermal equation of state without any stellar feedback. As a test of the model,
+we focus on the case of a magnetized isothermal gas, neglecting stellar feedback, while pursuing
+a large dynamic range in both space and timescales covering the full spectrum of stellar masses from
+brown dwarfs to massive stars. Our simulations represent a generic 4 pc region within a typical Galactic
+molecular cloud, with a mass of 3000 Msun and an rms velocity 10 times the isothermal sound speed and
+5 times the average Alfven velocity, in agreement with observations. We achieve a maximum resolution
+of 50 au and a maximum duration of star formation of 4.0 Myr, forming up to a thousand sink particles
+whose mass distribution closely matches the observed stellar IMF. A large set of medium-size simulations
+is used to test the sink particle algorithm, while larger simulations are used to test the numerical
+convergence of the IMF and the dependence of the IMF turnover on physical parameters predicted by
+the turbulent fragmentation model. We find a clear trend toward numerical convergence and strong
+support for the model predictions, including the initial time evolution of the IMF. We conclude
+that the physics of isothermal MHD turbulence is sufficient to explain the origin of the IMF. 

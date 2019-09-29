@@ -1,0 +1,16 @@
+In the reduced order modeling (ROM) framework, the solution of a parametric partial differential
+equation is approximated by combining the high-fidelity solutions of the problem at hand for several
+properly chosen configurations. Examples of the ROM application, in the naval field, can be found
+in [31, 24]. Mandatory ingredient for the ROM methods is the relation between the high-fidelity
+solutions and the parameters. Dealing with geometrical parameters, especially in the industrial
+context, this relation may be unknown and not trivial (simulations over hand morphed geometries)
+or very complex (high number of parameters or many nested morphing techniques). To overcome these
+scenarios, we propose in this contribution an efficient and complete data-driven framework involving
+ROM techniques for shape design and optimization, extending the pipeline presented in [7]. By applying
+the singular value decomposition (SVD) to the points coordinates defining the hull geometry - assuming
+the topology is inaltered by the deformation -, we are able to compute the optimal space which the
+deformed geometries belong to, hence using the modal coefficients as the new parameters we can reconstruct
+the parametric formulation of the domain. Finally the output of interest is approximated using
+the proper orthogonal decomposition with interpolation technique. To conclude, we apply this
+framework to a naval shape design problem where the bulbous bow is morphed to reduce the total resistance
+of the ship advancing in calm water. 

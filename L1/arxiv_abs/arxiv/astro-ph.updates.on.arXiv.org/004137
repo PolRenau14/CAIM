@@ -1,0 +1,17 @@
+The main goal of this work is to compare the results of three dynamical mass estimators to the X-ray
+hydrostatic values, focussing on massive galaxy clusters at intermediate redshifts $z\sim0.3$.
+We estimated dynamical masses with the virial theorem, the Jeans equation, and the caustic method
+using wide-field VIMOS spectroscopy. We investigated the role of colour selection and the impact
+of substructures on the dynamical estimators. The Jeans and caustic methods give consistent results,
+whereas the virial theorem leads to masses $\sim15\%$ larger. The Jeans, caustic, and virial masses
+are respectively $\sim20\%$, $\sim30\%$, and $\sim50\%$ larger than the hydrostatic values.
+Large scatters of $\gtrsim50\%$ are mainly due to the two outliers RXCJ0014 and RXCJ1347; excluding
+the latter increases the mass ratios by $\sim10\%$, giving a fractional mass bias significant at
+$\gtrsim2\sigma$. We found a correlation between the dynamical-to-hydrostatic mass ratio and
+two substructure indicators, suggesting a bias in the dynamical measurements. The velocity dispersions
+of blue galaxies are $\sim15\%$ ($\sim25\%$ after removing the substructures) larger than that
+of the red-sequence galaxies; using the latter leads to dynamical masses $\sim10\%-15\%$ smaller.
+Discarding the galaxies part of substructures reduces the masses by $\sim15\%$; the effect is larger
+for the more massive clusters, owing to a higher level of substructures. After the substructure
+analysis, the dynamical masses are in perfect agreement with the hydrostatic values and the scatters
+around the mean ratios are divided by $\sim2$. 

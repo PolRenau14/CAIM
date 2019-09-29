@@ -1,0 +1,17 @@
+We introduce real-time density matrix embedding theory (DMET), a dynamical quantum embedding
+theory for computing non-equilibrium electron dynamics in strongly correlated systems. As in
+the previously developed static DMET, real-time DMET partitions the system into an impurity corresponding
+to the region of interest coupled to the surrounding environment, which is efficiently represented
+by a quantum bath of the same size as the impurity. In this work, we focus on a single-impurity time-dependent
+theory as a first step towards a full multi-impurity theory. The equations of motion of the coupled
+impurity and bath embedding problem in real-time DMET are then derived using the time-dependent
+variational principle. The accuracy of real-time DMET is compared to that of time-dependent complete
+active space self-consistent field (TD-CASSCF) theory and time-dependent Hartree-Fock (TDHF)
+theory for a variety of quantum quenches in the single impurity Anderson model (SIAM), in which the
+Hamiltonian is suddenly changed (quenched) to induce a non-equilibrium state. Real-time DMET
+shows a marked improvement over the meanfield TDHF, converging to the exact answer even in the non-trivial
+Kondo regime of the SIAM. However, as in static DMET, the increased dynamic flexibility of TD-CASSCF
+in comparison to real-time DMET using a single impurity leads to faster convergence with respect
+to active space size. Our results demonstrate that real-time DMET is an efficient method well suited
+for the simulation of non-equilibrium electron dynamics in which strong electron correlation
+plays an important role. 

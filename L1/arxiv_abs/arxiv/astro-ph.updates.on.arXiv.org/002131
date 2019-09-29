@@ -1,0 +1,16 @@
+We develop a high-precision model for laser ranging interferometric (LRI) observables of the GRACE
+Follow-On (GRACE-FO) mission. For this, we study the propagation of an electromagnetic wave in
+the gravitational field in the vicinity of an extended body, in the post-Newtonian approximation
+of the general theory of relativity. We present a general relativistic model for the phase of a plane
+wave that accounts for contributions of all the multipoles of the gravitating body, its angular
+momentum, as well as the contribution of tidal fields produced by external sources. We develop a
+new approach to model a coherent signal transmission in the gravitational field of the solar system
+that relies on a relativistic treatment of the phase. We use this approach to describe high-precision
+interferometric measurements on GRACE-FO and formulate the key LRI observables, namely the phase
+and phase rate of a coherent laser link between the two spacecraft. We develop a relativistic model
+for the LRI-enabled range between the two GRACE-FO spacecraft, accurate to less than 1 nm, and a high-precision
+model for the corresponding range rate, accurate to better than 0.1 nm/s. We also formulate high-precision
+relativistic models for the double one-way range (DOWR) and DOWR-enabled range rate observables
+originally used on GRACE and now studied for interferometric measurements on GRACE-FO. Our formulation
+justifies the basic assumptions behind the design of the GRACE-FO mission and highlights the importance
+of achieving nearly circular and nearly identical orbits for the GRACE-FO spacecraft. 

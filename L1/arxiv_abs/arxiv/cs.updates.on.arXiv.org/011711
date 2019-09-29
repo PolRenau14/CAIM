@@ -1,0 +1,17 @@
+High-utility sequential pattern mining is an emerging topic in the field of Knowledge Discovery
+in Databases. It consists of discovering subsequences having a high utility (importance) in sequences,
+referred to as high-utility sequential patterns (HUSPs). HUSPs can be applied to many real-life
+applications, such as market basket analysis, E-commerce recommendation, click-stream analysis
+and scenic route planning. For example, in economics and targeted marketing, understanding economic
+behavior of consumers is quite challenging, such as finding credible and reliable information
+on product profitability. Several algorithms have been proposed to address this problem by efficiently
+mining utility-based useful sequential patterns. Nevertheless, the performance of these algorithms
+can be unsatisfying in terms of runtime and memory usage due to the combinatorial explosion of the
+search space for low utility threshold and large databases. Hence, this paper proposes a more efficient
+algorithm for the task of high-utility sequential pattern mining, called HUSP-ULL. It utilizes
+a lexicographic sequence (LS)-tree and a utility-linked (UL)-list structure to fast discover
+HUSPs. Furthermore, two pruning strategies are introduced in HUSP-ULL to obtain tight upper-bounds
+on the utility of candidate sequences, and reduce the search space by pruning unpromising candidates
+early. Substantial experiments both on real-life and synthetic datasets show that the proposed
+algorithm can effectively and efficiently discover the complete set of HUSPs and outperforms the
+state-of-the-art algorithms. 

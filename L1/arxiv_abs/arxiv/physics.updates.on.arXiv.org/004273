@@ -1,0 +1,16 @@
+The humble pendulum is often invoked as the archetype of a simple, gravity driven, oscillator. Under
+ideal circumstances, the oscillation frequency of the pendulum is independent of its mass and swing
+amplitude. However, in most real-world situations, the dynamics of pendulums is not quite so simple,
+particularly with additional interactions between the pendulum and a surrounding fluid. Here
+we extend the realm of pendulum studies to include large amplitude oscillations of heavy and buoyant
+pendulums in a fluid. We performed experiments with massive and hollow cylindrical pendulums in
+water, and constructed a simple model that takes the buoyancy, added mass, fluid (nonlinear) drag,
+and bearing friction into account. To first order, the model predicts the oscillation frequencies,
+peak decelerations and damping rate well. An interesting effect of the nonlinear drag captured
+well by the model is that for heavy pendulums, the damping time shows a non-monotonic dependence
+on pendulum mass, reaching a minimum when the pendulum mass density is nearly twice that of the fluid.
+Small deviations from the model's predictions are seen, particularly in the second and subsequent
+maxima of oscillations. Using Time- Resolved Particle Image Velocimetry (TR-PIV), we reveal that
+these deviations likely arise due to the disturbed flow created by the pendulum at earlier times.
+The mean wake velocity obtained from PIV is used to model an extra drag term due to incoming wake flow.
+The revised model significantly improves the predictions for the second and subsequent oscillations.

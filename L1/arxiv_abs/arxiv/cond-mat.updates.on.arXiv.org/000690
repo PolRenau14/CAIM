@@ -1,0 +1,17 @@
+Ground- and excited-state quantum fidelities in combination with generalized quantum fidelity
+susceptibilites, obtained from exact diagonalizations, are used to explore the phase diagram
+of the anisotropic next-nearest-neighbour triangular Heisenberg model. Specifically, the $J'-J_2$
+plane of this model, which connects the $J_1-J_2$ chain and the anisotropic triangular lattice
+Heisenberg model, is explored using these quantities. Through the use of a quantum fidelity associated
+with the first excited-state, in addition to the conventional ground-state fidelity, the BKT-type
+transition and Majumdar-Ghosh point of the $J_1-J_2$ chain ($J'=0$) are found to extend into the
+$J'-J_2$ plane and connect with points on the $J_2=0$ axis thereby forming bounded regions in the
+phase diagram. These bounded regions are then explored through the generalized quantum fidelity
+susceptibilities $\chi_{\rho}$, $\chi_{120^{\circ}}$, $\chi_D$ and $\chi_{CAF}$ which are
+associated with the spin stiffness, $120^{\circ}$ spiral order parameter, dimer order parameter
+and collinear antiferromagnetic order parameter respectively. These quantities are believed
+to be extremely sensitive to the underlying phase and are thus well suited for finite-size studies.
+Analysis of the fidelity susceptibilities suggests that the $J',J_2 \ll J$ phase of the anisotropic
+triangular model is either a collinear antiferromagnet or possibly a gapless disordered phase
+that is directly connected to the Luttinger phase of the $J_1-J_2$ chain. Furthermore, the outer
+region is dominated by incommensurate spiral physics as well as dimer order. 

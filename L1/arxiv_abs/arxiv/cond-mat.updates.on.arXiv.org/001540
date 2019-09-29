@@ -1,0 +1,16 @@
+Granular materials are characterized by large collections of discrete particles of sizes larger
+than one micron, where the particle-particle interactions are significantly more important than
+the particle-fluid interactions. These flows can be successfully modeled by the existing Kinetic
+Theory (KT) models when they are in the dilute regime with low particle-particle collision frequencies,
+yielding results that agree well with the simulation results of the event-driven hard sphere model
+or the more sophisticated soft-sphere Discrete Element Method (DEM). However, these KT models
+become less accurate for granular flows with soft particles (low particle stiffness) at high particle-particle
+collision frequencies when the predicted collision interval (the time of free flight for a particle
+prior to the next collision) is comparable to the collision duration; there is a large discrepancy
+between the results of these KT models and those from the DEM models. In this work we develop a new KT
+model that could be used to model granular systems of high collision frequencies with a finite particle
+stiffness. This is done by modifying the fluctuation energy dissipation rate to incorporate the
+ratio of collision duration to collision interval, a parameter that is determined by both the collision
+frequency and particle stiffness. We use a linear-spring-dashpot collision scheme to model the
+elastic potential energy in the system and to uncover the relationship between the dissipation
+rate and the ratio of collision duration to collision interval. 

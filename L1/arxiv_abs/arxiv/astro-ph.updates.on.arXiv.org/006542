@@ -1,0 +1,17 @@
+The excitation and damping of transversal coronal loop oscillations and quantitative relation
+between damping time, damping quality (damping time per period), oscillation amplitude, dissipation
+mechanism and the wake phenomena are investigated. The observed time series data with the \textit{Atmospheric
+Imaging Assembly} (AIA) telescope on NASA's \textit{Solar Dynamics Observatory} (SDO) satellite
+on 2015 March 2, consisting of 400 consecutive images with 12 seconds cadence in the 171 $ \rm{{\AA}}$
+pass band is analyzed for evidence of transversal oscillations along the coronal loops by Lomb-Scargle
+periodgram. In this analysis signatures of transversal coronal loop oscillations that are damped
+rapidly were found with dominant oscillation periods in the range of $\rm{P=12.25-15.80}$ minutes.
+Also, damping times and damping qualities of transversal coronal loop oscillations at dominant
+oscillation periods are estimated in the range of $ \rm{\tau_d=11.76-21.46}$ minutes and $ \rm{\tau_d/P=0.86-1.49}$,
+respectively. The observational results of this analysis show that damping qualities decrease
+slowly with increasing the amplitude of oscillation, but periods of oscillations are not sensitive
+function of amplitude of oscillations. The order of magnitude of the damping qualities and damping
+times are in good agreement with previous findings and the theoretical prediction for damping of
+kink mode oscillations by dissipation mechanism. Furthermore, oscillation of loop segments attenuate
+with time roughly as $t^{-\alpha}$ that magnitude values of $\alpha$ for 30 different segments
+change from 0.51 to 0.75. 

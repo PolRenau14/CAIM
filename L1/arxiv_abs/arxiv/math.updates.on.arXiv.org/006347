@@ -1,0 +1,16 @@
+We study weakly stable hyperbolic boundary problems with highly oscillatory coefficients that
+are large, $O(1)$, compared to the small wavelength $\eps$ of oscillations. Such problems arise,
+for example, in the study of classical questions concerning the stability of Mach stems and compressible
+vortex sheets. For such applications one seeks to prove energy estimates that are in an appropriate
+sense "uniform" with respect to the small wavelength $\eps$, but the large oscillatory coefficients
+are a formidable obstacle to obtaining such estimates. In this paper we analyze a simplified form
+of the linearized problems that are relevant to the above stability questions, and obtain results
+that are both positive and negative. On the one hand we identify favorable structural conditions
+under which it is possible to prove uniform estimates, and then do so by a new approach. We also construct
+examples showing that large oscillatory coefficients can give rise to an instantaneous \emph{multiple}
+amplification of the amplitude of solutions relative to data; for example, boundary data of a given
+amplitude $O(1)$ can \emph{immediately} give rise to a solution of amplitude $O(\frac{1}{\eps^K})$,
+where $K>1$.\footnote{Examples of first-order amplification, where $K=1$, are well-known \cite{MA,CG}.}
+We use the examples of multiple amplification to confirm the optimality of our uniform estimates
+when the favorable structural conditions hold. When those conditions do not hold, we explain how
+multiple amplification of infinite order may rule out useful estimates. 

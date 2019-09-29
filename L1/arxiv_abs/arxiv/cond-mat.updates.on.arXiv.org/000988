@@ -1,0 +1,16 @@
+The nonclassical modification of plasmon-assisted fluorescence enhancement is theoretically
+explored by placing two-level dipole emitters at the narrow gaps encountered in canonical plasmonic
+architectures, namely dimers and trimers of different metallic nanoparticles. Through detailed
+simulations, in comparison with appropriate analytical modelling, it is shown that within classical
+electrodynamics, and for the reduced separations explored here, fluorescence enhancement factors
+of the order of $10^{5}$ can be achieved, with a divergent behaviour as the particle touching regime
+is approached. This remarkable prediction is mainly governed by the dramatic increase in excitation
+rate triggered by the corresponding field enhancement inside the gaps. Nevertheless, once nonclassical
+corrections are included, the amplification factors decrease by up to two orders of magnitude and
+a saturation regime for narrower gaps is reached. These nonclassical limitations are demonstrated
+by simulations based on the generalised nonlocal optical response theory, which accounts in an
+efficient way not only for nonlocal screening, but also for the enhanced Landau damping near the
+metal surface. A simple strategy to introduce nonlocal corrections to the analytic solutions is
+also proposed. It is therefore shown that the nonlocal optical response of the metal imposes more
+realistic, finite upper bounds to the enhancement feasible with ultrasmall plasmonic cavities,
+thus providing a theoretical description closer to state of the art experiments. 

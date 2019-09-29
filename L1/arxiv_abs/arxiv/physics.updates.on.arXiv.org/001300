@@ -1,0 +1,16 @@
+We studied the effect of three strategy updating rules in coevolving prisoner's dilemma games where
+agents (nodes) can switch both the strategy and social partners. Under two node-based strategy
+updating rules, strategy updating occurs between a randomly chosen focal node and its randomly
+selected neighbour. The focal agent becomes the strategy recipient and may imitate the strategy
+of the neighbour according to the payoff difference, i.e. voter-model-like dynamics (VMLD), or
+becomes a strategy donor and thus may be imitated by the neighbour, i.e. invasion-process-like
+dynamics (IPLD). For edge-based updating rules, one edge is selected, and the roles of the two connected
+nodes (donor or recipient) are randomly decided, i.e. edge-based dynamics (EBD). A computer simulation
+shows that partner switching supports the evolution of cooperation under VMLD, which has been utilised
+in many studies on spatial evolutionary games, whereas cooperators often vanish under IPLD. The
+EBD results lie between these two processes. This difference was prominent among nodes with large
+degrees, and the resulting degree heterogeneity differed based on the update rules. In addition,
+partner switching induced a non-monotonic relationship between the fraction of cooperators and
+intensity of selection under VMLD and EBD and a weak or strong selection supported cooperation.
+In contrast, only a strong selection supported cooperators under IPLD. Our results imply that the
+direction of imitation is quite important for understanding the evolutionary process of cooperation.

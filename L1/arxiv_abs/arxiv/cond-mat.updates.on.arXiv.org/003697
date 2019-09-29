@@ -1,0 +1,16 @@
+In this paper we continue to explore "hybrid" quantum circuit models in one-dimension with both
+unitary and measurement gates, focussing on the entanglement properties of wavefunction trajectories
+at long times, in the steady state. We simulate a large class of Clifford circuits, including models
+with or without randomness in the unitary gates, and with or without randomness in the locations
+of measurement gates, using stabilizer techniques to access the long time dynamics of systems up
+to 512 qubits. In all models we find a volume law entangled phase for low measurement rates, which
+exhibits a sub-dominant logarithmic behavior in the entanglement entropy, S_A = {\alpha} ln |A|
++ s|A|, with sub-system size |A|. With increasing measurement rate the volume law phase is unstable
+to a disentangled area law phase, passing through a single entanglement transition at a critical
+rate of measurement. At criticality we find a purely logarithmic entanglement entropy, S_A = {\alpha}(p_c)
+ln|A|, a power law decay and conformal symmetry of the mutual information, with exponential decay
+off criticality. Various spin-spin correlation functions also show slow decay at criticality,
+providing possible experimental access. Critical exponents are consistent across all models,
+indicative of a single universality class. These results suggest the existence of an effective
+underlying statistical mechanical model for the entanglement transition. Beyond Clifford circuit
+models, numerical simulations of up to 20 qubits give consistent results. 

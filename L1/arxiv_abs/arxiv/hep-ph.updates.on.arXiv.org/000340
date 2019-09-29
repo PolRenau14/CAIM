@@ -1,0 +1,16 @@
+We present SUSY_FLAVOR version 2.5 - a Fortran 77 program that calculates low-energy flavor observables
+in the general $R$-parity conserving MSSM. For a set of MSSM parameters as input, the code gives predictions
+for: 1. Electric dipole moments of the leptons and the neutron. 2. Anomalous magnetic moments (i.e.
+$g-2$) of the leptons. 3. Radiative lepton decays ($\mu\to e\gamma$ and $\tau\to \mu\gamma, e\gamma$).
+4. Rare Kaon decays ($K^0_L\to \pi^0\bar\nu\nu$ and $K^+\to \pi^+ \bar\nu\nu$). 5. Leptonic $B$
+decays ($B_{s,d}\to l^+ l^-$, $B\to \tau \nu$, $B\to D \tau \nu$ and $B\to D^\star \tau \nu$). 6.
+Radiative $B$ decays ($B\to\bar X_s \gamma$). 7. Rare decays of top quark to Higgs boson ($t\to ch,uh$).
+8. $\Delta F=2$ processes ($\bar K^0-K^0$, $\bar D-D$, $\bar B_d-B_d$ and $\bar B_s-B_s$ mixing).
+SUSY_FLAVOR performs the resummation of all chirally enhanced corrections, i.e. takes into account
+the effects enhanced by $\tan\beta$ and/or large trilinear soft mixing terms to all orders in perturbation
+theory. All calculations are done using exact diagonalization of the sfermion mass matrices. Comparing
+to previous versions, in SUSY_FLAVOR v2.5 parameter initialization in SLHA2 format has been significantly
+generalized and simplified, so that program accepts without modifications most of the output files
+produced by other codes calculating MSSM spectra and processes. In addition, the routine calculating
+branching ratios for rare decays of top quark to Higgs boson has been included. The program can be
+obtained from www.fuw.edu.pl/susy_flavor. 

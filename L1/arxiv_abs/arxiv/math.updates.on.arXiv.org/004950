@@ -1,0 +1,17 @@
+The Lorentz equations describe the motion of electrically charged particles in electric and magnetic
+fields and are used widely in plasma physics. The most popular numerical algorithm for solving them
+is the Boris method, a variant of the St\"ormer-Verlet algorithm. Boris' method is phase space volume
+conserving and simulated particles typically remain near the correct trajectory. However, it
+is only second order accurate. Therefore, in scenarios where it is not enough to know that a particle
+stays on the right trajectory but one needs to know where on the trajectory the particle is at a given
+time, Boris method requires very small time steps to deliver accurate phase information, making
+it computationally expensive. We derive an improved version of the high-order Boris spectral deferred
+correction algorithm (Boris-SDC) by adopting a convergence acceleration strategy for second
+order problems based on the Generalised Minimum Residual (GMRES) method. Our new algorithm is easy
+to implement as it still relies on the standard Boris method. Like Boris-SDC it can deliver arbitrary
+order of accuracy through simple changes of runtime parameter but possesses better long-term energy
+stability. We demonstrate for two examples, a magnetic mirror trap and the Solev'ev equilibrium,
+that the new method can deliver better accuracy at lower computational cost compared to the standard
+Boris method. While our examples are motivated by tracking ions in the magnetic field of a nuclear
+fusion reactor, the introduced algorithm can potentially deliver similar improvements in efficiency
+for other applications. 

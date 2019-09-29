@@ -1,0 +1,17 @@
+We consider the problem of efficiently approximating and encoding high-dimensional data sampled
+from a probability distribution $\rho$ in $\mathbb{R}^D$, that is nearly supported on a $d$-dimensional
+set $\mathcal{M}$ - for example supported on a $d$-dimensional Riemannian manifold. Geometric
+Multi-Resolution Analysis (GMRA) provides a robust and computationally efficient procedure
+to construct low-dimensional geometric approximations of $\mathcal{M}$ at varying resolutions.
+We introduce a thresholding algorithm on the geometric wavelet coefficients, leading to what we
+call adaptive GMRA approximations. We show that these data-driven, empirical approximations
+perform well, when the threshold is chosen as a suitable universal function of the number of samples
+$n$, on a wide variety of measures $\rho$, that are allowed to exhibit different regularity at different
+scales and locations, thereby efficiently encoding data from more complex measures than those
+supported on manifolds. These approximations yield a data-driven dictionary, together with a
+fast transform mapping data to coefficients, and an inverse of such a map. The algorithms for both
+the dictionary construction and the transforms have complexity $C n \log n$ with the constant linear
+in $D$ and exponential in $d$. Our work therefore establishes adaptive GMRA as a fast dictionary
+learning algorithm with approximation guarantees. We include several numerical experiments
+on both synthetic and real data, confirming our theoretical results and demonstrating the effectiveness
+of adaptive GMRA. 

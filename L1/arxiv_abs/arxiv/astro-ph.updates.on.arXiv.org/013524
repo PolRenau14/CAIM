@@ -1,0 +1,17 @@
+We present a suite of 34 high-resolution cosmological zoom-in simulations consisting of thousands
+of halos up to M_halo~10^12 M_sun (M_star~10^10.5 M_sun) at z>=5 from the Feedback in Realistic
+Environments project. We post-process our simulations with a three-dimensional Monte Carlo dust
+radiative transfer code to study dust extinction, dust emission, and dust temperature within these
+simulated z>=5 galaxies. Our sample forms a tight correlation between infrared excess (IRX=F_IR/F_UV)
+and ultraviolet (UV)-continuum slope (beta_UV), despite the patchy, clumpy dust geometry shown
+in our simulations. We find that the IRX-beta_UV relation is mainly determined by the shape of the
+extinction curve and is independent of its normalization (set by the dust-to-gas ratio). The bolometric
+IR luminosity (L_IR) correlates with the intrinsic UV luminosity and the star formation rate (SFR)
+averaged over the past 10 Myr. We predict that at a given L_IR, the peak wavelength of the dust spectral
+energy distributions for z>=5 galaxies is smaller by a factor of 2 (due to higher dust temperatures
+on average) than at z=0. The higher dust temperatures are driven by higher specific SFRs and SFR surface
+densities with increasing redshift. We derive the galaxy UV luminosity functions (LFs) at z=5-10
+from our simulations and confirm that a heavy attenuation is required to reproduce the observed
+bright-end UVLFs. We also predict the IRLFs and UV luminosity densities at z=5-10. We discuss the
+implications of our results on current and future observations probing dust attenuation and emission
+in z>=5 galaxies. 

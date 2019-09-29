@@ -1,0 +1,17 @@
+The level dependent Choquet integral has been proposed to handle decision making problems in which
+the importance and the interaction of criteria may depend on the level of the alternatives' evaluations.
+This integral is based on a level dependent capacity, which is a family of single capacities associated
+to each level of evaluation for the considered criteria. We present two possible formulations of
+the level dependent capacity where importance and interaction of criteria are constant inside
+each one of the subintervals in which the interval of evaluations for considered criteria is split
+or vary with continuity inside the whole interval of evaluations. Since, in general, there is not
+only one but many level dependent capacities compatible with the preference information provided
+by the Decision Maker, we propose to take into account all of them by using the Robust Ordinal Regression
+(ROR) and the Stochastic Multicriteria Acceptability Analysis (SMAA). On one hand, ROR defines
+a necessary preference relation (if an alternative a is at least as good as an alternative b for all
+compatible level dependent capacities), and a possible preference relation (if a is at least as
+good as b for at least one compatible level dependent capacity). On the other hand, considering a
+random sampling of compatible level dependent capacities, SMAA gives the probability that each
+alternative reaches a certain ranking position as well as the probability that an alternative is
+preferred to another. A real-world decision problem on rankings of universities is provided to
+illustrate the proposed methodology. 

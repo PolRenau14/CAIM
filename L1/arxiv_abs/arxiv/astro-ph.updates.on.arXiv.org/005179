@@ -1,0 +1,17 @@
+We study the population of supermassive black holes (SMBHs) and their effects on massive central
+galaxies in the IllustrisTNG cosmological hydrodynamical simulations of galaxy formation. The
+employed model for SMBH growth and feedback assumes a two-mode scenario in which the feedback from
+active galactic nuclei occurs through a kinetic, comparatively efficient mode at low accretion
+rates relative to the Eddington limit, and in the form of a thermal, less efficient mode at high accretion
+rates. We show that the quenching of massive central galaxies happens coincidently with kinetic-mode
+feedback, consistent with the notion that active supermassive black cause the low specific star
+formation rates observed in massive galaxies. However, major galaxy mergers are not responsible
+for initiating most of the quenching events in our model. Up to black hole masses of about $10^{8.5}\,{\rm
+M}_\odot$, the dominant growth channel for SMBHs is in the thermal mode. Higher mass black holes
+stay mainly in the kinetic mode and gas accretion is self-regulated via their feedback, which causes
+their Eddington ratios to drop, with SMBH mergers becoming the main channel for residual mass growth.
+As a consequence, the quasar luminosity function is dominated by rapidly accreting, moderately
+massive black holes in the thermal mode. We show that the associated growth history of SMBHs produces
+a low-redshift quasar luminosity function and a redshift zero black hole mass-stellar bulge mass
+relation in good agreement with observations, whereas the simulation tends to over-predict the
+high-redshift quasar luminosity function. 

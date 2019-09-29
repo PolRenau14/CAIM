@@ -1,0 +1,16 @@
+We study asymptotic properties of the following Markov system of $N \geq 3$ points in~$[0,1]$. At
+each time step, the point farthest from the current centre of mass, multiplied by a constant $p>0$,
+is removed and replaced by an independent $\zeta$-distributed point; the problem, inspired by
+variants of the Bak--Sneppen model of evolution and called a $p$-contest, was posed in [Grinfeld,
+M, Knight, P.A., and Wade, A.R. Rank-driven Markov processes, J. Stat. Phys. 146 (2012)]. We obtain
+various criteria for the convergences of the system, both for $p<1$ and $p>1$. In particular, when
+$p<1$ and $\zeta\sim U[0,1]$, we show that the limiting configuration converges to zero. When $p>1$,
+we show that the configuration must converge to either zero or one, and we present an example where
+both outcomes are possible. Finally, when $p>1$, $N=3$ and $\zeta$ satisfies certain conditions
+(e.g.~$\zeta\sim U[0,1]$), we prove that the configuration can only converge to one a.s. Our paper
+substantially extends the results of [Grinfeld, M., Volkov, S., and Wade, A.R. Convergence in a
+multidimensional randomized Keynesian beauty contest. Adv. in Appl. Probab. 47 (2015)] and [Kennerberg,
+P., and Volkov, S. Jante's law process. Adv. in Appl. Probab. 50 (2018)] where it was assumed that
+$p=1$. Unlike the previous models, one can no longer use the Lyapunov function based just on the radius
+of gyration; when $0<p<1$ one has to find a much finer tuned function which turns out to be a supermartingale;
+the proof of this fact constitutes an unwieldy, albeit necessary, part of the paper. 

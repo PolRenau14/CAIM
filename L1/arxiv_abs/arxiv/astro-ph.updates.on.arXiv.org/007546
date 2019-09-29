@@ -1,0 +1,16 @@
+We investigate the evolution of star formation rates (SFRs), stellar masses, and M/L_3.4 micron
+ratios of brightest cluster galaxies (BCGs) in the COSMOS survey since z ~ 1 to determine the contribution
+of star formation to the growth-rate of BCG stellar mass over time. Through the spectral energy distribution
+(SED) fitting of the GALEX, CFHT, Subaru, Vista, Spitzer, and Herschel photometric data available
+in the COSMOS2015 catalog, we estimate the stellar mass and SFR of each BCG. We use a modified version
+of the iSEDfit package to fit the SEDs of our sample with both stellar and dust emission models, as
+well as constrain the impact of star formation history assumptions on our results. We find that in
+our sample of COSMOS BCGs, star formation evolves similarly to that in BCGs in samples of more massive
+galaxy clusters. However, compared to the latter, the magnitude of star formation in our sample
+is lower by ~ 1 dex. Additionally, we find an evolution of BCG baryonic mass-to-light ratio (M/L_{3.4
+micron}) with redshift which is consistent with a passively aging stellar population. We use this
+to build upon Wen et al.'s (2013) low-redshift nu L_{3.4 micron}-M_{Stellar} relation, quantifying
+a correlation between nu L_{3.4 micron} and M_{Stellar} to z ~ 1. By comparing our results to BCGs
+in Sunyaev-Zel'dovich and X-ray-selected samples of galaxy clusters, we find evidence that the
+normalization of star formation evolution in a cluster sample is driven by the mass range of the sample
+and may be biased upwards by cool cores. 

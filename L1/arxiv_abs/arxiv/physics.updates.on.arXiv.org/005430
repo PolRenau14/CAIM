@@ -1,0 +1,17 @@
+We present examples of Pad\'e approximation of the $\alpha$-effect and eddy viscosity/diffusivity
+tensors in various flows. Expressions for the tensors derived in the framework of the standard multiscale
+formalism are employed. Algebraically the simplest case is that of a two-dimensional parity-invariant
+six-fold rotation-symmetric flow, where eddy viscosity is negative, indicating intervals of
+large-scale instability of the flow. Turning to the kinematic dynamo problem for three-dimensional
+flows of an incompressible fluid, we explore application of Pad\'e approximants for computation
+of tensors of magnetic $\alpha$-effect and, for parity-invariant flows, of magnetic eddy diffusivity.
+We construct Pad\'e approximants of the tensors expanded in power series in the inverse molecular
+diffusivity $1/\eta$ around $1/\eta=0$. This yields the values of the dominant growth rate due
+to the action of the $\alpha$-effect or eddy diffusivity to satisfactory accuracy for $\eta$, several
+dozen times smaller than the threshold, above which the power series is convergent. For one sample
+flow, we observe eddy diffusivity tending to negative infinity when $\eta$ tends from above to the
+point of the onset of small-scale dynamo action in a symmetry-invariant subspace where a neutral
+small-scale magnetic mode resides. However, 49 first coefficients in the power series in $1/\eta$
+prove insufficient for Pad\'e approximants to reproduce this behaviour. We do computations in
+Fortran in the standard `double' (real*8) and extended `quadruple' (real*16) precision, as well
+as perform symbolic calculations in Mathematica. 

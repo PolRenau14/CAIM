@@ -1,0 +1,16 @@
+Recent work has shown that a M\"obius strip soap film rendered unstable by deforming its frame changes
+topology to that of a disk through a 'neck-pinching' boundary singularity. This behavior is unlike
+that of the catenoid, which transitions to two disks through a bulk singularity. It is not yet understood
+whether the type of singularity is generally a consequence of the surface topology, nor how this
+dependence could arise from an equation of motion for the surface. To address these questions we
+investigate experimentally, computationally, and theoretically the route to singularities
+of soap films with different topologies, including a family of punctured Klein bottles. We show
+that the location of singularities (bulk or boundary) may depend on the path of the boundary deformation.
+In the unstable regime the driving force for soap-film motion is the mean curvature. Thus, the narrowest
+part of the neck, associated with the shortest nontrivial closed geodesic of the surface, has the
+highest curvature and is the fastest-moving. Just before onset of the instability there exists
+on the stable surface a shortest closed geodesic, which is the initial condition for evolution of
+the neck's geodesics, all of which have the same topological relationship to the frame. We make the
+plausible conjectures that if the initial geodesic is linked to the boundary then the singularity
+will occur at the boundary, whereas if the two are unlinked initially then the singularity will occur
+in the bulk. Numerical study of mean curvature flows and experiments support these conjectures.

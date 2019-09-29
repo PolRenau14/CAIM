@@ -1,0 +1,16 @@
+In this paper we present matrix game-theoretic models for joint routing, network coding, and scheduling
+problem. First routing and network coding are modeled by using a new approach based on compressed
+topology matrix that takes into account the inherent multicast gain of the network. The scheduling
+is optimized by a new approach called network graph soft coloring. Soft graph coloring is designed
+by switching between different components of a wireless network graph, which we refer to as graph
+fractals, with appropriate usage rates. The network components, represented by graph fractals,
+are a new paradigm in network graph partitioning that enables modeling of the network optimization
+problem by using the matrix game framework. In the proposed game which is a nonlinear cubic game,
+the strategy sets of the players are links, path, and network components. The outputs of this game
+model are mixed strategy vectors of the second and the third players at equilibrium. Strategy vector
+of the second player specifies optimum multi-path routing and network coding solution while mixed
+strategy vector of the third players indicates optimum switching rate among different network
+components or membership probabilities for optimal soft scheduling approach. Optimum throughput
+is the value of the proposed nonlinear cubic game at equilibrium. The proposed nonlinear cubic game
+is solved by extending fictitious playing method. Numerical and simulation results prove the superior
+performance of the proposed techniques compared to the conventional schemes using hard graph coloring.

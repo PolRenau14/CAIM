@@ -1,0 +1,17 @@
+Mathematical problems of optimal control of quantum systems attract high interest in connection
+with both fundamental questions and existing and prospective applications. An important problem
+is the development of methods for constructing controls for quantum systems. One of the widely used
+methods is the Krotov method. The article is the first part of the review devoted to mathematical
+aspects of this method for optimal control of quantum systems. Beyond quantum control this method
+was suggested in the articles [V.F. Krotov, I.N. Feldman, Eng. Cybern. 1983. Vol. 21, 123], [A.I.
+Konnov, V.F. Krotov, Automat. Remote Control, 1999], and then adopted to optimal quantum control
+in papers by V.A. Kazakov, V.F. Krotov, R. Kosloff, C.P. Koch, D.J. Tannor, and others. The review
+considers this method, including cases with constraints on control spectrum and on states of the
+quantum system, various ways for choosing the improvement function, in particular, linear or linear-quadratic
+form, etc. We also discuss GRAPE (GRadient Ascent Pulse Engineering) and CRAB (Chopped Random-Basis)
+methods, as well as combined methods such as the method suggested by I. Maday and G. Turinici for generalizing
+the 1st order Krotov method and the Zhu-Rabitz method. Nowadays, various versions of the Krotov
+method are used as a key tool in optimal quantum control, and the review describes applications of
+this method to mathematical control problems for molecular dynamics, Bose-Einstein condensate,
+nuclear-magnetic resonance, quantum gates generation, etc. The first part of the review is devoted
+to closed quantum systems. 

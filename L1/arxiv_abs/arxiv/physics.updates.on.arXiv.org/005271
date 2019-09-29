@@ -1,0 +1,16 @@
+The rings, spots and stripes found on some butterflies, Pachyrhynchus weevils, and many chameleons
+are notable examples of natural organisms employing photonic crystals to produce colorful patterns.
+Despite advances in nanotechnology, we still lack the ability to print arbitrary colors and shapes
+in all three dimensions at this microscopic length scale. Commercial nanoscale 3D printers based
+on two-photon polymerization are incapable of patterning photonic crystal structures with the
+requisite ~300 nm lattice constant to achieve photonic stopbands/ bandgaps in the visible spectrum
+and generate colors. Here, we introduce a means to produce 3D-printed photonic crystals with a 5x
+reduction in lattice constants (periodicity as small as 280 nm), achieving sub-100-nm features
+with a full range of colors. The reliability of this process enables us to engineer the bandstructures
+of woodpile photonic crystals that match experiments, showing that observed colors can be attributed
+to either slow light modes or stopbands. With these lattice structures as 3D color volumetric elements
+(voxels), we printed 3D microscopic scale objects, including the first multi-color microscopic
+model of the Eiffel Tower measuring only 39-microns tall with a color pixel size of 1.45 microns.
+The technology to print 3D structures in color at the microscopic scale promises the direct patterning
+and integration of spectrally selective devices, such as photonic crystal-based color filters,
+onto free-form optical elements and curved surfaces. 

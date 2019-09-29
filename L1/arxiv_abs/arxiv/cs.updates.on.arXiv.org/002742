@@ -1,0 +1,16 @@
+Spatially aligning medical images from different modalities remains a challenging task, especially
+for intraoperative applications that require fast and robust algorithms. We propose a weakly-supervised,
+label-driven formulation for learning 3D voxel correspondence from higher-level label correspondence,
+thereby bypassing classical intensity-based image similarity measures. During training, a convolutional
+neural network is optimised by outputting a dense displacement field (DDF) that warps a set of available
+anatomical labels from the moving image to match their corresponding counterparts in the fixed
+image. These label pairs, including solid organs, ducts, vessels, point landmarks and other ad
+hoc structures, are only required at training time and can be spatially aligned by minimising a cross-entropy
+function of the warped moving label and the fixed label. During inference, the trained network takes
+a new image pair to predict an optimal DDF, resulting in a fully-automatic, label-free, real-time
+and deformable registration. For interventional applications where large global transformation
+prevails, we also propose a neural network architecture to jointly optimise the global- and local
+displacements. Experiment results are presented based on cross-validating registrations of
+111 pairs of T2-weighted magnetic resonance images and 3D transrectal ultrasound images from prostate
+cancer patients with a total of over 4000 anatomical labels, yielding a median target registration
+error of 4.2 mm on landmark centroids and a median Dice of 0.88 on prostate glands. 

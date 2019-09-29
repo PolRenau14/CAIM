@@ -1,0 +1,16 @@
+What do auto-encoders learn about the underlying data generating distribution? Recent work suggests
+that some auto-encoder variants do a good job of capturing the local manifold structure of data.
+This paper clarifies some of these previous observations by showing that minimizing a particular
+form of regularized reconstruction error yields a reconstruction function that locally characterizes
+the shape of the data generating density. We show that the auto-encoder captures the score (derivative
+of the log-density with respect to the input), along with the second derivative of the density. This
+is the second result linking denoising auto-encoders and score matching, but in way that is different
+from previous work, and can be applied to the case when the auto-encoder reconstruction function
+does not necessarily correspond to the derivative of an energy function. It contradicts previous
+interpretations of reconstruction error as an energy function. The theorems provided here are
+completely generic and do not depend on the parametrization of the auto-encoder: they show what
+the auto-encoder would tend to if given enough capacity and examples. These results are for a contractive
+training criterion we show to be similar to the denoising auto-encoder training criterion with
+small corruption noise, but with contraction applied on the whole reconstruction function rather
+than just encoder. Similarly to score matching, one can consider the proposed training criterion
+as a convenient alternative to maximum likelihood because it does not involve a partition function.

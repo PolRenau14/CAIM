@@ -1,0 +1,16 @@
+Enabling autonomous driving and industrial automation with wireless networks poses many challenges,
+which are typically abstracted through reliability and latency requirements. One of the main contributors
+to latency in cellular networks is the reservation-based access, which involves lengthy and resource-inefficient
+signaling exchanges. An alternative is to use grant-free access, in which there is no resource reservation.
+A handful of recent works investigated how to fulfill reliability and latency requirements with
+different flavors of grant-free solutions. However, the resource efficiency, i.e., the throughput,
+has been only the secondary focus. In this work, we formulate the throughput of grant-free access
+under reliability-latency constraints, when the actual number of arrived users or only the arrival
+distribution are known. We investigate how these different levels of knowledge about the arrival
+process influence throughput performance of framed slotted ALOHA with $K$-multipacket reception,
+for the Poisson and Beta arrivals. We show that the throughput under reliability-latency requirements
+can be significantly improved for the higher expected load of the access network, if the actual number
+of arrived users is known. This insight motivates the use of techniques for the estimation of the
+number of arrived users, as this knowledge is not readily available in grant-free access. We also
+asses the impact of estimation error, showing that for high reliability-latency requirements
+the gains in throughput are still considerable. 

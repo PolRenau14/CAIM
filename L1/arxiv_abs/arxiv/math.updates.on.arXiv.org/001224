@@ -1,0 +1,16 @@
+We define a D_0 graph to be a graph whose vertex set is a subset of permutations of n, with edges of the
+form ...bac... <--> ...bca... or ...acb... <--> ...cab... (Knuth transformations),
+or ...bac... <--> ...acb... or ...bca... <--> ...cab... (rotation transformations),
+such that whenever the Knuth and rotation transformations at positions i-1, i, i+1 are available
+at a vertex, exactly one of these is an edge. The generating function of such a graph is the sum of the
+quasisymmetric functions associated to the descent sets of its vertices. Assaf studied D_0 graphs
+in the paper *Dual equivalence and Schur positivity* and showed that they provide a rich source of
+examples of the D graphs defined in the paper *Dual equivalence graphs and a combinatorial proof
+of LLT and Macdonald positivity*. A key construction of Assaf expresses the coefficient of q^t in
+an LLT polynomial as the generating function of a certain D_0 graph. LLT polynomials are known to
+be Schur positive by work of Grojnowski-Haiman, and experimentation shows that many D_0 graphs
+have Schur positive generating functions, which suggests a vast generalization of LLT positivity
+in this setting. As part of a series of papers, we study D_0 graphs using the Fomin-Greene theory of
+noncommutative Schur functions. We construct a D_0 graph whose generating function is not Schur
+positive by solving a linear program related to a certain noncommutative Schur function. We go on
+to construct a D graph on the same vertex set as this D_0 graph. 

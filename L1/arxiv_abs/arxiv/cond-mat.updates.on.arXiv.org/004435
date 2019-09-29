@@ -1,0 +1,16 @@
+Chirality-induced spin selectivity (CISS), the effect of helical molecules acting as room temperature
+hard magnets that confer spin polarization to electrical current, is an intriguing effect with
+potential applications in nanospintronics. In this scenario, molecules that are paramagnetic
+as well as helical would introduce a new degree of freedom in the same nano-scale device that has not
+been explored so far. Here, in order to investigate this idea, we propose the preparation of self-assembled
+monolayers (SAMs) based on a helical lanthanide binding tag peptide (LnLBTC) on a ferromagnetic
+substrate. We confirmed room temperature spin filtering of LnLBTC SAMs by well-established electrochemical
+approach and by direct local spin transport measurements in solid state devices. The latter were
+studied by a common liquid-metal drop electron transport system, easily implemented for spin dependent
+measurements. Electrochemistry shows an averaged spin polarization (SP) of ~5% in presence of
+a saturation magnetic field (H = 350 mT) while local measurements performed in solid state showed
+a SP of ~50 $\pm$ 20% thanks to the reduction of the contribution of pure electron transport in non-covered
+areas. Calculations showed that conduction electrons interact strongly with the coordinated
+lanthanide ion, meaning a fixed chirality-based spin filtering can coexist with a spin filtering
+that is dependent on the polarization of the magnetic metal ion. This opens the door to all-organic
+single-molecule memristive devices. 

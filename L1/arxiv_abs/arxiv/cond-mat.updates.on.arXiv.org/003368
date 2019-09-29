@@ -1,0 +1,16 @@
+We study how quantum states are scrambled via braiding in systems of non-Abelian anyons through
+the lens of entanglement spectrum statistics. In particular, we focus on the degree of scrambling,
+defined as the randomness produced by braiding, at the same amount of entanglement entropy. To quantify
+the degree of randomness, we define a distance between the entanglement spectrum level spacing
+distribution of a state evolved under random braids and that of a Haar-random state, using the Kullback-Leibler
+divergence $D_{\mathrm{KL}}$. We study $D_{\mathrm{KL}}$ numerically for random braids of Majorana
+fermions (supplemented with random local four-body interactions) and Fibonacci anyons. For comparison,
+we also obtain $D_{\mathrm{KL}}$ for the Sachdev-Ye-Kitaev model of Majorana fermions with all-to-all
+interactions, random unitary circuits built out of (a) Hadamard (H), $\pi/8$ (T), and CNOT gates,
+and (b) random unitary circuits built out of two-qubit Haar-random unitaries. To compare the degree
+of randomness that different systems produce beyond entanglement entropy, we look at $D_{\mathrm{KL}}$
+as a function of the Page limit-normalized entanglement entropy $S/S_{\mathrm{max}}$. Our results
+reveal a hierarchy of scrambling among various models --- even for the same amount of entanglement
+entropy --- at intermediate times, whereas all models exhibit the same late-time behavior. In particular,
+we find that braiding of Fibonacci anyons randomizes initial product states more efficiently than
+the universal H+T+CNOT set. 

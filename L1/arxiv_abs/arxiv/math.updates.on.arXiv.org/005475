@@ -1,0 +1,16 @@
+There is an increasing concern that most current published research findings are false. The main
+cause seems to lie in the fundamental disconnection between theory and practice in data analysis.
+While the former typically relies on statistical independence, the latter is an inherently adaptive
+process: new hypotheses are formulated based on the outcomes of previous analyses. A recent line
+of work tries to mitigate these issues by enforcing constraints, such as differential privacy,
+that compose adaptively while degrading gracefully and thus provide statistical guarantees even
+in adaptive contexts. Our contribution consists in the introduction of a new approach, based on
+the concept of Maximal Leakage, an information-theoretic measure of leakage of information. The
+main result allows us to compare the probability of an event happening when adaptivity is considered
+with respect to the non-adaptive scenario. The bound we derive represents a generalization of the
+bounds used in non-adaptive scenarios (e.g., McDiarmid's inequality for $c$-sensitive functions,
+false discovery error control via significance level, etc.), and allows us to replicate or even
+improve, in certain regimes, the results obtained using Max-Information or Differential Privacy.
+In contrast with the line of work started by Dwork et al., our results do not rely on Differential Privacy
+but are, in principle, applicable to every algorithm that has a bounded leakage, including the differentially
+private algorithms and the ones with a short description length. 

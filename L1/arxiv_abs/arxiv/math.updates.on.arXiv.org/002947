@@ -1,0 +1,16 @@
+The Barat-Thomassen conjecture, recently proved in [Bensmail et al.: A proof of the Barat-Thomassen
+conjecture. J. Combin. Theory Ser. B, 124:39-55, 2017.], asserts that for every tree T, there is
+a constant $c_T$ such that every $c_T$-edge connected graph G with number of edges (size) divisible
+by the size of T admits an edge partition into copies of T (a T-decomposition). In this paper, we investigate
+in which case the connectivity requirement can be dropped to a minimum degree condition. For instance,
+it was shown in [Bensmail et al.: Edge-partitioning a graph into paths: beyond the Barat-Thomassen
+conjecture. arXiv:1507.08208] that when T is a path with k edges, there is a constant $d_k$ such that
+every 24-edge connected graph G with size divisible by k and minimum degree $d_k$ has a T-decomposition.
+We show in this paper that when F is a coprime forest (the sizes of its components being a coprime set
+of integers), any graph G with sufficiently large minimum degree has an F-decomposition provided
+that the size of F divides the size of G (no connectivity is required). A natural conjecture asked
+in [Bensmail et al.: Edge-partitioning a graph into paths: beyond the Barat-Thomassen conjecture.
+arXiv:1507.08208] asserts that for a fixed tree T, any graph G of size divisible by the size of T with
+sufficiently high minimum degree has a T-decomposition, provided that G is sufficiently highly
+connected in terms of the maximal degree of T. The case of maximum degree 2 is answered by paths. We
+provide a counterexample to this conjecture in the case of maximum degree 3. 

@@ -1,0 +1,16 @@
+The early-time evolution of the system generated in ultra-relativistic heavy ion collisions is
+dominated by the presence of strong color fields known as Glasma fields. These can be described following
+the classical approach embodied in the Color Glass Condensate effective theory, which approximates
+QCD in the high gluon density regime. In this framework we perform an analytical first-principles
+calculation of the two-point correlator of the divergence of the Chern-Simons current at proper
+time $\tau\!=\!0^+$, which characterizes the early fluctuations of axial charge density in the
+plane transverse to the collision axis. This object plays a crucial role in the description of anomalous
+transport phenomena such as the Chiral Magnetic Effect. We compare our results to those obtained
+under the Glasma Graph approximation, which assumes gluon field correlators to obey Gaussian statistics.
+While this approach proves to be equivalent to the exact calculation in the limit of short transverse
+separations, important differences arise at larger distances, where our expression displays
+a remarkably slower fall-off than the Glasma Graph result ($1/r^4$ vs.\ $1/r^8$ power-law decay).
+This discrepancy emerges from the non-linear dynamics mapping the Gaussianly-distributed color
+source densities onto the Glasma fields, encoded in the classical Yang-Mills equations. Our results
+support the conclusions reached in a previous work, where we found indications that the color screening
+of correlations in the transverse plane occurs at relatively large distances. 

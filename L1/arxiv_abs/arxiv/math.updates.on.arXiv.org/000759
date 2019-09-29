@@ -1,0 +1,16 @@
+Consider an It\^o process $X$ satisfying the stochastic differential equation $dX=a(X)\,dt+b(X)\,dW$
+where $a,b$ are smooth and $W$ is a multidimensional Brownian motion. Suppose that $W_n$ has smooth
+sample paths and that $W_n$ converges weakly to $W$. A central question in stochastic analysis is
+to understand the limiting behaviour of solutions $X_n$ to the ordinary differential equation
+$dX_n=a(X_n)\,dt+b(X_n)\,dW_n$. The classical Wong-Zakai theorem gives sufficient conditions
+under which $X_n$ converges weakly to $X$ provided that the stochastic integral $\int b(X)\,dW$
+is given the Stratonovich interpretation. The sufficient conditions are automatic in one dimension,
+but in higher dimensions the correct interpretation of $\int b(X)\,dW$ depends sensitively on
+how the smooth approximation $W_n$ is chosen. In applications, a natural class of smooth approximations
+arise by setting $W_n(t)=n^{-1/2}\int_0^{nt}v\circ \phi_s\,ds$ where $\phi_t$ is a flow (generated
+for instance by an ordinary differential equation) and $v$ is a mean zero observable. Under mild
+conditions on $\phi_t$ we give a definitive answer to the interpretation question for the stochastic
+integral $\int b(X)\,dW$. Our theory applies to Anosov or Axiom~A flows $\phi_t$, as well as to a
+large class of nonuniformly hyperbolic flows (including the one defined by the well-known Lorenz
+equations) and our main results do not require any mixing assumptions on $\phi_t$. The methods used
+in this paper are a combination of rough path theory and smooth ergodic theory. 

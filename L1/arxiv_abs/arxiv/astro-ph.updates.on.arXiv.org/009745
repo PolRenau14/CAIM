@@ -1,0 +1,16 @@
+Symbiotic stars often exhibit broad wings around Balmer emission lines, whose origin is still controversial.
+We present the high resolution spectra of the S type symbiotic stars Z Andromedae and AG Draconis
+obtained with the ESPaDOnS and the 3.6 m Canada France Hawaii Telescope to investigate the broad
+wings around H$\alpha$ and H$\beta$. When H$\alpha$ and H$\beta$ lines are overplotted in the Doppler
+space, it is noted that H$\alpha$ profiles are overall broader than H$\beta$ in these two objects.
+Adopting a Monte Carlo approach, we consider the formation of broad wings of H$\alpha$ and H$\beta$
+through Raman scattering of far UV radiation around Ly$\beta$ and Ly$\gamma$ and Thomson scattering
+by free electrons. Raman scattering wings are simulated by choosing an H I region with a neutral hydrogen
+column density $N_{HI}$ and a covering factor $CF$. For Thomson wings, the ionized scattering region
+is assumed to cover fully the Balmer emission nebula and is characterized by the electron temperature
+$T_e$ and the electron column density $N_e$. Thomson wings of H$\alpha$ and H$\beta$ have the same
+width that is proportional to $T_e^{1/2}$. However, Raman wings of H$\alpha$ are overall three
+times wider than H$\beta$ counterparts, which is attributed to different cross section for Ly$\beta$
+and Ly$\gamma$. Normalized to have the same peak values and presented in the Doppler factor space.
+H$\alpha$ wings of Z And and AG Dra are observed to be significantly wider than H$\beta$ counterpart,
+favoring the Raman scattering origin of broad Balmer wings. 

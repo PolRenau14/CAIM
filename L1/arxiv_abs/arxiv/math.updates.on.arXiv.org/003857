@@ -1,0 +1,16 @@
+The Widom-Rowlinson model (or the Area-interaction model) is a Gibbs point process in $\mathbb{R}^d$
+with the formal Hamiltonian $H(\omega)=\text{Volume}(\cup_{x\in\omega} B_1(x))$, where $\omega$
+is a locally finite configuration of points and $B_1(x)$ denotes the unit closed ball centred at
+$x$. The model is tuned by two parameters: the activity $z>0$ and the inverse temperature $\beta\ge
+0$. We investigate the phase transition of the model in the point of view of percolation theory and
+the liquid-gas transition. First, considering the graph connecting points with distance smaller
+than $2r>0$, we show that for any $\beta>0$, there exists $0<\tilde{z}^a(\beta, r)<+\infty$ such
+that an exponential decay of connectivity at distance $n$ occurs in the subcritical phase and a linear
+lower bound of the connection at infinity holds in the supercritical case. Secondly we study a standard
+liquid-gas phase transition related to the uniqueness/non-uniqueness of Gibbs states depending
+on the parameters $z,\beta$. Old results claim that a non-uniqueness regime occurs for $z=\beta$
+large enough and it is conjectured that the uniqueness should hold outside such an half line ($z=\beta\ge
+\beta_c>0$). We solve partially this conjecture by showing that for $\beta$ large enough the non-uniqueness
+holds if and only if $z=\beta$. We show also that this critical value $z=\beta$ corresponds to the
+percolation threshold $ \tilde{z}^a(\beta, r)=\beta$ for $\beta$ large enough, providing a straight
+connection between these two notions of phase transition. 

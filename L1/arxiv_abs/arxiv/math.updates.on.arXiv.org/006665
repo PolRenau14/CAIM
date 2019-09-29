@@ -1,0 +1,16 @@
+A polyomino is a finite, edge-connected set of cells in the plane. At the present time, an enumeration
+of all polyominoes is nowhere in sight. On the other hand, there are several subsets of polyominoes
+for which generating functions are known. For example, there exists extensive knowledge about
+column-convex polyominoes, a model introduced by Temperley in 1956. While studying column-convex
+polyominoes, researchers also gave a look at diagonally convex polyominoes (DCPs), but noticed
+an awkward feature: when the last diagonal of a DCP is deleted, the remaining object is not always
+a polyomino. So researchers focused their attention on directed DCPs. (A directed DCP is such a DCP
+that remains a polyomino when, for any $i$, its last $i$ diagonals are deleted.) Directed DCPs gradually
+became well understood, whereas general DCPs have remained unexplored up to now. In this paper,
+we finally face general DCPs. Modulo a little trick, which saves us from dealing with non-polyominoes,
+we use the layered approach (described in chapter 3 of the book ``Polygons, Polyominoes and Polycubes",
+edited by Anthony Guttmann). The computations are of remarkable bulk. Our main result is the perimeter
+generating function for DCPs; we denote it $D(d,x)$. The function $D(d,x)$ is algebraic and satisfies
+an equation of degree eight. The formula for $D(d,x)$ is about eight pages long. That formula involves
+nine polynomials in $d$ and $x$, and each of those polynomials is of degree $58$ or more in $x$. The
+interested reader can view the formula for $D(d,x)$ in the Maple worksheet attached to this paper.

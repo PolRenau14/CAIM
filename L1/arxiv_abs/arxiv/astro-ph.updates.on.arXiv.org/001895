@@ -1,0 +1,16 @@
+Observationally, magnetic fields reach equipartition with thermal energy and cosmic rays in the
+interstellar medium of disk galaxies such as the Milky Way. However, thus far cosmological simulations
+of the formation and evolution of galaxies have usually neglected magnetic fields. We employ the
+moving-mesh code \textsc{Arepo} to follow for the first time the formation and evolution of a Milky
+Way-like disk galaxy in its full cosmological context while taking into account magnetic fields.
+We find that a prescribed tiny magnetic seed field grows exponentially by a small-scale dynamo until
+it saturates around $z=4$ with a magnetic energy of about $10\%$ of the kinetic energy in the center
+of the galaxy's main progenitor halo. By $z=2$, a well-defined gaseous disk forms in which the magnetic
+field is further amplified by differential rotation, until it saturates at an average field strength
+of $\sim 6 \mug$ in the disk plane. In this phase, the magnetic field is transformed from a chaotic
+small-scale field to an ordered large-scale field coherent on scales comparable to the disk radius.
+The final magnetic field strength, its radial profile and the stellar structure of the disk compare
+well with observational data. A minor merger temporarily increases the magnetic field strength
+by about a factor of two, before it quickly decays back to its saturation value. Our results are highly
+insensitive to the initial seed field strength and suggest that the large-scale magnetic field
+in spiral galaxies can be explained as a result of the cosmic structure formation process. 

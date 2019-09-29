@@ -1,0 +1,16 @@
+We consider a Brownian particle which, in addition to being in contact with a thermal bath, is driven
+by active fluctuations. These active fluctuations do not fulfill a fluctuation-dissipation relation
+and therefore play the role of a non-equilibrium environment. Using an Ornstein-Uhlenbeck process
+as a model for the active fluctuations, we derive the path probability of the Brownian particle subject
+to both thermal and active noise. From the case of passive Brownian motion, it is well-known that
+the log-ratio of path probabilities for observing a certain particle trajectory forward in time
+versus observing its time-reserved twin trajectory quantifies the entropy production. We calculate
+this path probability ratio for active Brownian motion and derive a generalized "entropy production",
+which fulfills an integral fluctuation theorem. We show that those parts of this "entropy production"
+which are different from the usual dissipation of heat in the thermal environment, can be associated
+with the mutual information between the particle trajectory and the history of the non-equilibrium
+environment. When deriving and discussing these results we keep in mind that the active fluctuations
+can occur due to either a suspension of active particles pushing around a passive colloid or due to
+active self-propulsion of the particle itself, we point out the similarities and differences between
+these two situations. Finally, we illustrate our general results by analyzing a Brownian particle
+which is trapped in a static or moving harmonic potential. 

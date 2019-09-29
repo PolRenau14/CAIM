@@ -1,0 +1,17 @@
+In the context of the celebrated Kuramoto model of globally-coupled phase oscillators of distributed
+natural frequencies, which serves as a paradigm to investigate spontaneous collective synchronization
+in many-body interacting systems, we report on a very rich phase diagram in presence of thermal noise
+and an additional non-local interaction on a one-dimensional periodic lattice. Remarkably, the
+phase diagram involves both equilibrium and non-equilibrium phase transitions. In two contrasting
+limits of the dynamics, we obtain exact analytical results for the phase transitions. These two
+limits correspond to (i) the absence of thermal noise, when the dynamics reduces to that of a non-linear
+dynamical system, and (ii) the oscillators having the same natural frequency, when the dynamics
+becomes that of a statistical system in contact with a heat bath and relaxing to a statistical equilibrium
+state. In the former case, our exact analysis is based on the use of the so-called Ott-Antonsen ansatz
+to derive a reduced set of nonlinear partial differential equations for the macroscopic evolution
+of the system. Our results for the case of statistical equilibrium are on the other hand obtained
+by extending the well-known transfer matrix approach for nearest-neighbor Ising model to consider
+non-local interactions. The work offers a case study of exact analysis in many-body interacting
+systems. The results obtained underline the crucial role of additional non-local interactions
+in either destroying or enhancing the possibility of observing synchrony in mean-field systems
+exhibiting spontaneous synchronization. 

@@ -1,0 +1,16 @@
+We propose new algorithms for singular value decomposition (SVD) of very large-scale matrices
+based on a low-rank tensor approximation technique called the tensor train (TT) format. The proposed
+algorithms can compute several dominant singular values and corresponding singular vectors for
+large-scale structured matrices given in a TT format. The computational complexity of the proposed
+methods scales logarithmically with the matrix size under the assumption that both the matrix and
+the singular vectors admit low-rank TT decompositions. The proposed methods, which are called
+the alternating least squares for SVD (ALS-SVD) and modified alternating least squares for SVD
+(MALS-SVD), compute the left and right singular vectors approximately through block TT decompositions.
+The very large-scale optimization problem is reduced to sequential small-scale optimization
+problems, and each core tensor of the block TT decompositions can be updated by applying any standard
+optimization methods. The optimal ranks of the block TT decompositions are determined adaptively
+during iteration process, so that we can achieve high approximation accuracy. Extensive numerical
+simulations are conducted for several types of TT-structured matrices such as Hilbert matrix,
+Toeplitz matrix, random matrix with prescribed singular values, and tridiagonal matrix. The simulation
+results demonstrate the effectiveness of the proposed methods compared with standard SVD algorithms
+and TT-based algorithms developed for symmetric eigenvalue decomposition. 

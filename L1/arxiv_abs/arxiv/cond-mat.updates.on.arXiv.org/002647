@@ -1,0 +1,16 @@
+Topological index of a system specifies gross features of the system. However, in situations such
+as strong disorder where by level repulsion mechanism the spectral gap is closed, the topological
+indices are not well-defined. In this paper, we show that the localization length of zero modes determined
+from appropriate use of transfer matrix method reveals much more information than the topological
+index. The localization length can provide not only information about the topological index of
+the Hamiltonian itself, but it can also provide information about the topological indices of the
+related Hamiltonians. As a case study, we study a generalized XY model (2XY model) plus a generalized
+Dziyaloshinskii-Moriya-like (DM) interaction that after fermionization breaks the time-reversal
+invariance and is parameterized by $\phi$. The {\em parent} Hamiltonian at $\phi=0$ which belongs
+to BDI class is indexed by integer winding number while the $\phi\ne 0$ {\em daughter} Hamiltonian
+which belongs to class D is specified by a $Z_2$ index $\nu=\pm 1$. We show that the localization length
+in addition to determining the $Z_2$ can count the number of Majorana zero modes left over at the boundary
+of the daughter Hamiltonian -- which are not protected by winding number anymore. Therefore the
+localization length outperforms the standard topological indices in two respects: (i) it is much
+faster and more accurate to calculate and (ii) it can count the winding number of the parent Hamiltonian
+by looking into the edges of the daughter Hamiltonian. 

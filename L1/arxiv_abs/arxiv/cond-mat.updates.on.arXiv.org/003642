@@ -1,0 +1,16 @@
+Maximally localized Wannier functions are localized orthogonal functions that can accurately
+represent given Bloch eigenstates of a periodic system at a low computational cost, thanks to the
+small size of each orbital. Tight-binding models based on the maximally localized Wannier functions
+obtained from different systems are often combined to construct tight-binding models for large
+systems such as a semi-infinite surface. However, the corresponding maximally localized Wannier
+functions in the overlapping region of different systems are not identical, and this discrepancy
+can introduce serious artifacts to the combined tight-binding model. Here, we propose two methods
+to seamlessly stitch two different tight-binding models that share some basis functions in common.
+First, we introduce a simple and efficient method: (i) finding the best matching maximally localized
+Wannier function pairs in the overlapping region belonging to the two tight-binding models, (ii)
+rotating the spin orientations of the two corresponding Wannier functions to make them parallel
+to each other, and (iii) making their overall phases equal. Second, we propose a more accurate and
+generally applicable method based on the iterative minimization of the difference between the
+Hamiltonian matrix elements in the overlapping region. We demonstrate our methods by applying
+them to the surfaces of diamond, GeTe, Bi$_2$Se$_3$, and TaAs. Our methods can be readily used to
+construct reliable tight-binding models for surfaces, interfaces, and defects. 

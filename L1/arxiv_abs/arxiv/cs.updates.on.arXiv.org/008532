@@ -1,0 +1,16 @@
+The paper is devoted to the development of a methodology for evaluating the scalability of compute-intensive
+iterative algorithms used in simulating complex physical processes on supercomputer systems.
+The proposed methodology is based on the BSF (Bulk Synchronous Farm) parallel computation model,
+which makes it possible to predict the upper scalability bound of an iterative algorithm in early
+phases of its design. The BSF model assumes the representation of the algorithm in the form of operations
+on lists using high-order functions. Two classes of representations are considered: BSF-M (Map
+BSF) and BSF-MR (Map-Reduce BSF). The proposed methodology is described by the example of the solution
+of the system of linear equations by the Jacobi method. For the Jacobi method, two iterative algorithms
+are constructed: Jacobi-M based on the BSF-M representation and Jacobi-MR based on the BSF-MR representation.
+Analytical estimations of the speedup, parallel efficiency and upper scalability bound are constructed
+for these algorithms using the BSF cost metrics on multiprocessor computing systems with distributed
+memory. An information about the implementation of these algorithms in C++ language using the BSF
+program skeleton and MPI parallel programming library are given. The results of large-scale computational
+experiments performed on a cluster computing system are demonstrated. Based on the experimental
+results, an analysis of the adequacy of estimations obtained analytically by using the cost metrics
+of the BSF model is made. 

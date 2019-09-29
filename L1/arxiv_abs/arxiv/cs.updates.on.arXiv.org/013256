@@ -1,0 +1,16 @@
+Background: Agile methods are no longer restricted to small projects and co-located teams. The
+last decade has seen the spread of agile into large scale, distributed and regulated domains. Many
+case studies show successful agile adoption in GSD, however, taken as a whole, it remains unclear
+how widespread this trend is, and what form the agile adoption takes in a global software development
+(GSD) setting. Aims: Our objective is to gain a deeper understanding of how organisations adopt
+agile development methods in distributed settings. Specifically we aim to plot the current development
+process landscape in GSD. Method: We analyse industrial survey data from 33 different countries
+collected as part of the project that explored the wider use of hybrid development approaches in
+software development. We extract and analyse the results of 263 surveys completed by participants
+involved in globally distributed projects. Results: In our sample, 72 of globally distributed
+projects implement a mix of both agile and traditional approaches (termed `hybrid'). 25 of GSD organisations
+are predominantly agile, with only very few (5) opting for traditional approaches. GSD projects
+that used only agile methods tended to be very large. Conclusions: Globally Distributed Software
+Development (and project size) is not a barrier to adopting agile practices. Yet, to facilitate
+project coordination and general project management, many adopt traditional approaches, resulting
+in a hybrid approach that follows defined rules. 

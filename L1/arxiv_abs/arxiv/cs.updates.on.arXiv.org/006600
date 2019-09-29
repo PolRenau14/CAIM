@@ -1,0 +1,16 @@
+Recently it has been shown that computing the dimension of the first homology group $H_1(K)$ of a
+simplicial $2$-complex $K$ embedded linearly in $\mathbb{R}^4$ is as hard as computing the rank
+of a sparse $0-1$ matrix. This puts a major roadblock to computing persistence and a homology basis
+(generators) for complexes embedded in $\mathbb{R}^4$ and beyond in less than quadratic or even
+near-quadratic time. But, what about dimension three? It is known that persistence for piecewise
+linear functions on a complex $K$ with $n$ simplices can be computed in $O(n\log n)$ time and a set
+of generators of total size $k$ can be computed in $O(n+k)$ time when $K$ is a graph or a surface linearly
+embedded in $\mathbb{R}^3$. But, the question for general simplicial complexes $K$ linearly embedded
+in $\mathbb{R}^3$ is not completely settled. No algorithm with a complexity better than that of
+the matrix multiplication is known for this important case. We show that the persistence for {\em
+height functions} on such complexes, hence called {\em height persistence}, can be computed in
+$O(n\log n)$ time. This allows us to compute a basis (generators) of $H_i(K)$, $i=1,2$, in $O(n\log
+n+k)$ time where $k$ is the size of the output. This improves significantly the current best bound
+of $O(n^{\omega})$, $\omega$ being the matrix multiplication exponent. We achieve these improved
+bounds by leveraging recent results on zigzag persistence in computational topology, new observations
+about Reeb graphs, and some efficient geometric data structures. 

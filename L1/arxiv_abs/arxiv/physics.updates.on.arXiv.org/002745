@@ -1,0 +1,17 @@
+Given a multi-species system interacting via a complex network, we propose two different techniques
+to modify the network topology while preserving its dynamical behaviour. In the region of parameters
+where the homogeneous solution gets spontaneously destabilized, perturbations grow along the
+unstable directions made available across the networks of connections, yielding irregular spatio-temporal
+patterns. We exploit the spectral properties of the Laplacian operator associated to the graph
+in order to modify its topology, while preserving the unstable manifold of the underlying equilibrium.
+The new network is isodynamic to the former, meaning that it reproduces the dynamical response to
+a perturbation, as displayed by the original system. The first method acts directly on the eigenmodes,
+thus resulting in a general redistribution of link weights which, in some cases, can completely
+change the structure of the original network. The second method uses localization properties of
+the eigenvectors to identify and randomize a subnetwork that is mostly embedded only into the stable
+manifold. We test both techniques on different network topologies using the Ginzburg-Landau system
+as a reference model. Whereas the correlation between patterns on isodynamic networks generated
+via the first recipe is larger, the second method allows for a finer control at the level of single
+nodes. This work opens up a new perspective on the multiple possibilities for identifying the family
+of discrete supports that instigate equivalent dynamical responses on a generic reaction-diffusion
+system. 

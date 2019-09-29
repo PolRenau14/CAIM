@@ -1,0 +1,17 @@
+We investigate correlations induced by gravitational lensing on simulated cosmic microwave background
+data of experiments with an incomplete sky coverage and their effect on inferences from the South
+Pole Telescope data. These correlations agree well with the theoretical expectations, given by
+the sum of super-sample and intra-sample lensing terms, with only a typically negligible $\sim$
+5% discrepancy in the amplitude of the super-sample lensing effect. Including these effects we
+find that lensing constraints are in $3.0\sigma$ or $2.1\sigma$ tension between the SPT polarization
+measurements and Planck temperature or lensing reconstruction constraints respectively. If
+the lensing-induced covariance effects are neglected, the significance of these tensions increases
+to $3.5\sigma$ or $2.5\sigma$. Using the standard scaling parameter $A_L$ substantially underestimates
+the significance of the tension once other parameters are marginalized over. By parameterizing
+the super-sample lensing through the mean convergence in the SPT footprint, we find a hint of underdensity
+in the SPT region. We also constrain extra sharpening of the CMB acoustic peaks due to missing smoothing
+of the peaks by super-sample lenses at a level that is much smaller than the lens sample variance.
+Finally, we extend the usual "shift in the means" statistic for evaluating tensions to non-Gaussian
+posteriors, generalize an approach to extract correlation modes from noisy simulated covariance
+matrices, and present a treatment of correlation modes not as data covariances but as auxiliary
+model parameters. 

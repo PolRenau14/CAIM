@@ -1,0 +1,16 @@
+In this paper, we consider a network of processors aiming at cooperatively solving mixed-integer
+convex programs subject to uncertainty. Each node only knows a common cost function and its local
+uncertain constraint set. We propose a randomized, distributed algorithm working under asynchronous,
+unreliable and directed communication. The algorithm is based on a local computation and communication
+paradigm. At each communication round, nodes perform two updates: (i) a verification in which they
+check---in a randomized fashion---the robust feasibility of a candidate optimal point, and (ii)
+an optimization step in which they exchange their candidate basis (the minimal set of constraints
+defining a solution) with neighbors and locally solve an optimization problem. As main result,
+we show that processors can stop the algorithm after a finite number of communication rounds (either
+because verification has been successful for a sufficient number of rounds or because a given threshold
+has been reached), so that candidate optimal solutions are consensual. The common solution is proven
+to be---with high confidence---feasible and hence optimal for the entire set of uncertainty except
+a subset having an arbitrary small probability measure. We show the effectiveness of the proposed
+distributed algorithm using two examples: a random, uncertain mixed-integer linear program and
+a distributed localization in wireless sensor networks. The distributed algorithm is implemented
+on a multi-core platform in which the nodes communicate asynchronously. 

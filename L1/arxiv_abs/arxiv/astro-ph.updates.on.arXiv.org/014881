@@ -1,0 +1,17 @@
+In this paper, the cosmographic approach is used to determine the spatial curvature (i.e., $\Omega_K$)
+combining the latest released cosmic chronometers data (CC), the Pantheon sample of type Ia supernovae
+observations, and the baryon acoustic oscillation measurements (BAO). We use the expanded comoving
+angular diameter distance $D_M(z)$ as a basic function for deriving $H(z)$ and the other cosmic
+distances. In this scenario, $\Omega_K$ can be constrained by CC data alone. To overcome convergence
+issues at the high-redshift domains, we apply two methods: the Pad\'{e} approximants and the Taylor
+expansion in terms of the new redshift $y=z/(1+z)$. However, our analysis finds that $D_M(z)$ expanded
+in $y$ is inconsistent with the $\Lambda$CDM + $\Omega_K$ model with non-zero $\Omega_K$. Adopting
+the Bayesian evidence, we find that the present data combination prefers the Pad\'{e} approximant
+of $D_M(z)$ up to the order ($2,2$). Our constraint on the Hubble constant $H_0$ under different
+approximants and with different data combinations are consistent with the \textit{Planck} 2018
+results and have less than $3\sigma$ tension with the local distance ladder determination of $H_0$
+from Ref. (Riess et al. (2018)). Our most favored cosmography model prefers $\Omega_K = 0.21\pm
+0.22$ under the CC+Pantheon+BAO dataset, but $\Omega_K = -0.03_{-0.18}^{+0.16}$ when taking
+the local distance ladder determination of $H_0$ as prior. We also find that $H_0$ is anti-correlated
+with $\Omega_K$, which indicates that the $H_0$ tension problem can be slightly relaxed by introducing
+$\Omega_K$. 

@@ -1,0 +1,16 @@
+Light interaction with the turbulent ocean can be fully characterized with the help of the power
+spectrum of the water's refractive index fluctuations, resulting from the combined effect of two
+scalars, temperature and salinity concentration advected by the velocity field. The Nikishovs'
+model [Fluid Mech. Res. 27, 8298 (2000)] frequently used in the analysis of light evolution through
+the turbulent ocean channels is the linear combination of the temperature spectrum, the salinity
+spectrum and their co-spectrum, each being described by an approximate expression developed by
+Hill [J. Fluid Mech. 88, 541562 (1978)] in the first of his four suggested models. The forth of the
+Hill's models provides much more precise power spectrum than the first one expressed via a non-linear
+differential equation that does not have a closed-form solution. We develop an accurate analytic
+approximation to the forth Hill's model valid for Prandtl numbers in the interval $[3,3000]$ and
+use it for the development of a more precise oceanic power spectrum. To illustrate the advantage
+of our model we include numerical examples relating to the spherical wave scintillation index evolving
+in the underwater turbulent channels with different average temperatures, and, hence, different
+Prandtl numbers for temperature and salinity. Since our model is valid for a large range of Prandtl
+numbers it can be readily adjusted to oceanic waters with seasonal or extreme average temperature
+and/or salinity or any other turbulent fluid with one or several advected quantities. 

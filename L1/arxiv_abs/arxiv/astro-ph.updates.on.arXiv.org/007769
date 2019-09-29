@@ -1,0 +1,16 @@
+The ionosphere is the main driver of a series of systematic effects that limit our ability to explore
+the low frequency (<1 GHz) sky with radio interferometers. Its effects become increasingly important
+towards lower frequencies and are particularly hard to calibrate in the low signal-to-noise ratio
+regime in which low-frequency telescopes operate. In this paper we characterize and quantify the
+effect of ionospheric-induced systematic errors on astronomical interferometric radio observations
+at ultra-low frequencies (<100 MHz). We also provide guidelines for observations and data reduction
+at these frequencies with the Low Frequency Array (LOFAR) and future instruments such as the Square
+Kilometre Array (SKA). We derive the expected systematic error induced by the ionosphere. We compare
+our predictions with data from the Low Band Antenna (LBA) system of LOFAR. We show that we can isolate
+the ionospheric effect in LOFAR LBA data and that our results are compatible with satellite measurements,
+providing an independent way to measure the ionospheric total electron content (TEC). We show how
+the ionosphere also corrupts the correlated amplitudes through scintillations. We report values
+of the ionospheric structure function in line with the literature. The systematic errors on the
+phases of LOFAR LBA data can be accurately modelled as a sum of four effects (clock, ionosphere 1st,
+2nd, and 3rd order). This greatly reduces the number of required calibration parameters, and therefore
+enables new efficient calibration strategies. 

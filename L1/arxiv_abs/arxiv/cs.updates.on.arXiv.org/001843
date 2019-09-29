@@ -1,0 +1,17 @@
+The enormous efforts spent on collecting naturalistic driving data in the recent years has resulted
+in an expansion of publicly available traffic datasets, which has the potential to assist the development
+of the self-driving vehicles. However, we found that many of the attempts to utilize these datasets
+have failed in practice due to a lack of usability concern from the organizations that host these
+collected data. For example, extracting data associated with certain critical conditions from
+naturalistic driving data organized in chronological order may not be convenient for a vehicle
+engineer that doesn't have big data analytics experiences. To address the general usability challenges
+of these publicly available traffic datasets, we propose TrafficNet, a large-scale and extensible
+library of naturalistic driving scenarios, aiming at bridging the gap between research datasets
+and practically usable information for vehicle engineers and researchers. The proposed web-based
+driving scenario database preprocesses massive raw traffic data collected in chronological order
+into an organized scenario-based dataset by applying a set of categorization algorithms to label
+the naturalistic driving data with six different critical driving scenarios. TrafficNet opens
+not only the scenario library but also the source code of these categorization methods to the public,
+which will foster more sophisticated and accurate scenario-based categorization algorithms
+to advance the intelligent transportation research. The source code and the scenario database
+can be accessed at https://github.com/TrafficNet. 

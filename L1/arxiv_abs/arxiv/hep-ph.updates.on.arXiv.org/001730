@@ -1,0 +1,16 @@
+We compute the $n_h$ terms to the massive three loop vector-, axialvector-, scalar- and pseudoscalar
+form factors in a direct analytic calculation using the method of large moments. This method has
+the advantage, that the master integrals have to be dealt with only in their moment representation,
+allowing to also consider quantities which obey differential equations, which are not first order
+factorizable (elliptic and higher), already at this level. To obtain all the associated recursions,
+up to 8000 moments had to be calculated. A new technique has been applied to solve the associated differential
+equation systems. Here the decoupling is performed such, that only minimal depth $\epsilon$--expansions
+had to be performed for non--first-order factorizing systems, minimizing the calculation of initial
+values. The pole terms in the dimensional parameter $\epsilon$ can be completely predicted using
+renormalization group methods, as confirmed by the present results. A series of contributions
+at $O(\epsilon^0)$ have first order factorizable representations. For a smaller number of color--zeta
+projections this is not the case. All first order factorizing terms can be represented by harmonic
+polylogarithms. We also obtain analytic results for the non--first-order factorizing terms by
+Taylor series in a variable $x$, for which we have calculated at least 2000 expansion coefficients,
+in an approximation. Based on this representation the form factors can be given in the Euclidean
+region and in the region $q^2 \approx 0$. Numerical results are presented. 

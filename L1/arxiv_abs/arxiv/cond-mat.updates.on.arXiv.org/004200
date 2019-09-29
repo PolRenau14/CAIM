@@ -1,0 +1,16 @@
+Radiation-enhanced precipitation of Cr-rich {\alpha}' in irradiated Fe-Cr alloys, which results
+in hardening and embrittlement, depends on the irradiating particle and the displacement per atom
+(dpa) rate. Here, we utilize a Cahn-Hilliard phase-field based approach, that includes simple
+models for nucleation, irradiating particle and rate dependent radiation-enhanced diffusion
+and cascade mixing to simulate {\alpha}' evolution under neutrons, heavy ions, and electron irradiations.
+Different irradiating particles manifest very different cascade mixing efficiencies. The model
+was calibrated using neutron data. For cascade inducing neutron/heavy-ion dpa rates at 300 {\deg}C
+between 10^-^8 and 10^-^6 dpa/s the model predicts approximately constant number density, decreasing
+radius, decreasing {\alpha}' Cr composition, and lower {\alpha}' volume fraction. The model then
+predicts a dramatic transition to no {\alpha}' formation above approximately 10^-^5 dpa/s, while
+electron irradiation, with weak mixing, had little effect at dpa rates up to 10^-^3 dpa/s. These
+model predictions are consistent with experiments. We explain the results in terms of the flux dependence
+of the radiation enhanced diffusion, cascade mixing, and their ratio, which all vary significantly
+in relevant flux ranges for neutron and cascade inducing ion irradiations. These results show that
+both cascade mixing and radiation enhanced diffusion must be accounted for when attempting to emulate
+neutron-irradiation effects using accelerated ion irradiations. 

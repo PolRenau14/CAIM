@@ -1,0 +1,17 @@
+Understanding the formation and evolution of our Galaxy requires accurate distances, ages, and
+chemistry for large populations of field stars. Here we present several updates to our spectro-photometric
+distance code, that can now also be used to estimate ages, masses, and extinctions for individual
+stars. Given a set of measured spectro-photometric parameters, we calculate the posterior probability
+distribution over a given grid of stellar evolutionary models, using flexible Galactic stellar-population
+priors. The code (called StarHorse) can accommodate different observational datasets, prior
+options, partially missing data, and the inclusion of parallax information into the estimated
+probabilities. We validate the code using a variety of simulated stars as well as real stars with
+parameters determined from asteroseismology, eclipsing binaries, and isochrone fits to star
+clusters. Our main goal in this validation process is to test the applicability of the code to field
+stars with known Gaia-like parallaxes. The typical internal precision (obtained from realistic
+simulations of an APOGEE+Gaia-like sample) are $\simeq 8\%$ in distance, $\simeq 20\%$ in age,
+$\simeq 6\%$ in mass, and $\simeq 0.18$ mag in $A_V$. The median external precision (derived from
+comparisons with earlier work for real stars) varies with the sample used, but lies in the range of
+$\simeq [0,2]\%$ for distances, $\simeq [12,31]\%$ for ages, $\simeq [4,12]\%$ for masses, and
+$\simeq 0.07$ mag for $A_V$. We provide StarHorse distances and extinctions for the APOGEE DR14,
+RAVE DR5, GES DR3 and GALAH DR1 catalogues. 

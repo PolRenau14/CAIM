@@ -1,0 +1,16 @@
+Noise is the central obstacle to building large-scale quantum computers. Quantum systems with
+sufficiently uncorrelated and weak noise could be used to solve computational problems that are
+intractable with current digital computers. There has been substantial progress towards engineering
+such systems. However, continued progress depends on the ability to characterize quantum noise
+reliably and efficiently with high precision. Here we introduce a protocol that completely and
+efficiently characterizes the error rates of quantum noise and we experimentally implement it
+on a 14-qubit superconducting quantum architecture. The method returns an estimate of the effective
+noise with relative precision and detects all correlated errors. We show how to construct a quantum
+noise correlation matrix allowing the easy visualization of all pairwise correlated errors, enabling
+the discovery of long-range two-qubit correlations in the 14 qubit device that had not previously
+been detected. These properties of the protocol make it exceptionally well suited for high-precision
+noise metrology in quantum information processors. Our results are the first implementation of
+a provably rigorous, full diagnostic protocol capable of being run on state of the art devices and
+beyond. These results pave the way for noise metrology in next-generation quantum devices, calibration
+in the presence of crosstalk, bespoke quantum error-correcting codes, and customized fault-tolerance
+protocols that can greatly reduce the overhead in a quantum computation. 

@@ -1,0 +1,16 @@
+Gravitational waves from a variety of sources are predicted to superpose to create a stochastic
+background. This background is expected to contain unique information from throughout the history
+of the universe that is unavailable through standard electromagnetic observations, making its
+study of fundamental importance to understanding the evolution of the universe. We carry out a search
+for the stochastic background with the latest data from LIGO and Virgo. Consistent with predictions
+from most stochastic gravitational-wave background models, the data display no evidence of a stochastic
+gravitational-wave signal. Assuming a gravitational-wave spectrum of Omega_GW(f)=Omega_alpha*(f/f_ref)^alpha,
+we place 95% confidence level upper limits on the energy density of the background in each of four
+frequency bands spanning 41.5-1726 Hz. In the frequency band of 41.5-169.25 Hz for a spectral index
+of alpha=0, we constrain the energy density of the stochastic background to be Omega_GW(f)<5.6x10^-6.
+For the 600-1000 Hz band, Omega_GW(f)<0.14*(f/900 Hz)^3, a factor of 2.5 lower than the best
+previously reported upper limits. We find Omega_GW(f)<1.8x10^-4 using a spectral index of
+zero for 170-600 Hz and Omega_GW(f)<1.0*(f/1300 Hz)^3 for 1000-1726 Hz, bands in which no previous
+direct limits have been placed. The limits in these four bands are the lowest direct measurements
+to date on the stochastic background. We discuss the implications of these results in light of the
+recent claim by the BICEP2 experiment of the detection of inflationary gravitational waves. 

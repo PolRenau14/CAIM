@@ -1,0 +1,16 @@
+Turbulent flows in a thin layer can develop an inverse energy cascade leading to spectral condensation
+of energy when the layer height is smaller than a certain threshold. These spectral condensates
+take the form of large-scale vortices in physical space. Recently, evidence for bistability was
+found in this system close to the critical height: depending on the initial conditions, the flow
+is either in a condensate state with most of the energy in the two-dimensional (2-D) large-scale
+modes, or in a three-dimensional (3-D) flow state with most of the energy in the small-scale modes.
+This bistable regime is characterised by the statistical properties of random and rare transitions
+between these two locally stable states. Here, we examine these statistical properties in thin-layer
+turbulent flows, where the energy is injected by either stochastic or deterministic forcing. To
+this end, by using a large number of direct numerical simulations (DNS), we measure the decay time
+$\tau_d$ of the 2-D condensate to 3-D flow state and the build-up time $\tau_b$ of the 2-D condensate.
+We show that both of these times $\tau_d,\tau_b$ follow an exponential distribution with mean values
+increasing faster than exponentially as the layer height approaches the threshold. We further
+show that the dynamics of large-scale kinetic energy may be modeled by a stochastic Langevin equation.
+From time-series analysis of DNS data, we determine the effective potential that shows two minima
+corresponding to the 2-D and 3-D states when the layer height is close to the threshold. 

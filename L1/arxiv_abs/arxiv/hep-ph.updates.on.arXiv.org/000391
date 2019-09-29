@@ -1,0 +1,17 @@
+Particles and fields are standard components in numerical simulations like transport simulations
+in nuclear physics and have very well understood dynamics. Still, a common problem is the interaction
+between particles and fields due to their different formal description. Particle interactions
+are discrete, point-like events while fields have purely continuous equations of motion. A workaround
+is the use of effective theories like the Langevin equation with the drawback of energy conservation
+violation. We present a new method, which allows to model non-continuous interactions between
+particles and scalar fields, allowing us to simulate scattering-like interactions which exchange
+energy and momentum quanta between fields and particles obeying full energy and momentum conservation
+and control over interaction strengths and times. In this paper we apply this method to different
+model systems, starting with a simple scalar harmonic oscillator which is damped by losing discrete
+energy quanta. The second and third system is a scalar oscillator and a one dimensional field which
+are both damped by discrete energy loss and which are coupled to a stochastic force, leading to equilibrium
+states which correspond to statistical Langevin-like systems. The last example is a scalar field
+in 3D which is coupled to a microcanonical ensemble of particles by incorporating particle production
+and annihilation processes. Obeying the detailed-balance principle, the system equilibrates
+to thermal and chemical equilibrium with dynamical fluctuations on the fields, generated dynamically
+by the discrete interactions. 

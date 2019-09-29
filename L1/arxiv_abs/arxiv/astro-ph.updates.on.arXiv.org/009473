@@ -1,0 +1,16 @@
+X-ray observations of active galactic nuclei (AGN) show variability on timescales ranging from
+a few hours up to a few days. Some of this variability may be associated with occultation events by
+clouds in the broad line region. In this work, we aim to model the spectral and polarization variability
+arising from X-ray obscuration events, serving as probes of the relativistic effects that dominate
+the emission from the innermost regions. We show that asymmetries can be clearly detected in the
+AGN spectra as the cloud is shading different parts of the accretion disc. We also show that these
+effects can be detected in the temporal evolution of the polarization degree ($P$) and the polarization
+position angle ($\Psi$). The variations in $P$ and $\Psi$ are highly dependent on the inclination
+of the system, the position of the primary source and its intrinsic polarization. Considering the
+disc-corona system only, for an inclination $\theta = 30^\circ$ (60$^\circ$), $P$ increases up
+to $\sim 20$% (30)%, in the 4-8 keV band, when the unpolarized primary source is obscured. However,
+after accounting for the contribution of parsec-scale material scattering the light in our line
+of sight (narrow-line region and molecular torus), the variability is smoothed out and the polarization
+degree can be reduced down to $\sim 1$% (2%). Our results suggest that the study of eclipses in AGN
+with the next generation of X-ray spectral and polarimetric missions could provide unique information
+on the physics and structure of the innermost regions as well as of the parsec-scale material. 

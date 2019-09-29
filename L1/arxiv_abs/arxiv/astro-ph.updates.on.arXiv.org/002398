@@ -1,0 +1,16 @@
+The North American Nanohertz Observatory for Gravitational Waves (NANOGrav) project currently
+observes 43 pulsars using the Green Bank and Arecibo radio telescopes. In this work we use a subset
+of 17 pulsars timed for a span of roughly five years (2005--2010). We analyze these data using standard
+pulsar timing models, with the addition of time-variable dispersion measure and frequency-variable
+pulse shape terms. Within the timing data, we perform a search for continuous gravitational waves
+from individual supermassive black hole binaries in circular orbits using robust frequentist
+and Bayesian techniques. We find that there is no evidence for the presence of a detectable continuous
+gravitational wave; however, we can use these data to place the most constraining upper limits to
+date on the strength of such gravitational waves. Using the full 17 pulsar dataset we place a 95% upper
+limit on the sky-averaged strain amplitude of $h_0\lesssim 3.8\times 10^{-14}$ at a frequency
+of 10 nHz. Furthermore, we place 95% \emph{all sky} lower limits on the luminosity distance to such
+gravitational wave sources finding that the $d_L \gtrsim 425$ Mpc for sources at a frequency of 10
+nHz and chirp mass $10^{10}{\rm M}_{\odot}$. We find that for gravitational wave sources near our
+best timed pulsars in the sky, the sensitivity of the pulsar timing array is increased by a factor
+of $\sim$4 over the sky-averaged sensitivity. Finally we place limits on the coalescence rate of
+the most massive supermassive black hole binaries. 

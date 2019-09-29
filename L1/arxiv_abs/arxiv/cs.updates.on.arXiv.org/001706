@@ -1,0 +1,17 @@
+We consider the problem of outlier rejection in single subspace learning. Classical approaches
+work with a direct representation of the subspace, and are thus efficient when the subspace dimension
+is small. Our approach works with a dual representation of the subspace and hence aims to find its
+orthogonal complement; as such, it is particularly suitable for subspaces whose dimension is very
+close to the ambient dimension (subspaces of high relative dimension). We pose the problem of computing
+normal vectors to the subspace as a non-convex $\ell_1$ minimization problem on the sphere, which
+we call Dual Principal Component Pursuit (DPCP) problem. We provide theoretical guarantees, under
+which every global solution of DPCP is a vector in the orthogonal complement of the inlier subspace.
+Moreover, we relax the non-convex DPCP problem to a recursion of linear programming problems, which,
+as we show, converges in a finite number of steps to a vector orthogonal to the subspace. In particular,
+when the inlier subspace is a hyperplane, then the linear programming recursion converges in a finite
+number of steps to the global minimum of the non-convex DPCP problem. We also propose algorithms
+based on alternating minimization and Iteratively Reweighted Least-Squares, that are suitable
+for dealing with large-scale data. Extensive experiments on synthetic data show that the proposed
+methods are able to handle more outliers and higher relative dimensions than the state-of-the-art
+methods, while experiments with real face and object images show that our DPCP-based methods are
+competitive to the state-of-the-art. 

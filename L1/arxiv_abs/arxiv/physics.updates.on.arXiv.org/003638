@@ -1,0 +1,17 @@
+Integrating spatial information about atrial physiology and anatomy in a single patient from multimodal
+datasets, as well as generalizing these data across patients, requires a common coordinate system.
+In the atria, this is challenging due to the complexity and variability of the anatomy. We aimed to
+develop and validate a universal atrial coordinate system for the following applications: combination
+and assessment of multimodal data; comparison of spatial data across patients; 2D visualization;
+and construction of patient specific geometries to test mechanistic hypotheses. Left and right
+atrial LGE-MRI data were segmented and meshed. Two coordinates were calculated for each atrium
+by solving Laplace's equation, with boundary conditions assigned using five landmark points.
+The coordinate system was used to map spatial information between atrial meshes, including atrial
+anatomic structures and fibre directions from a reference geometry. Average error in point transfer
+from a source mesh to a destination mesh and back again was less than 6% of the average mesh element
+edge length. Scalar mapping from electroanatomic to MRI geometries was compared to an affine registration
+technique (mean difference in bipolar voltage: <10% of voltage range). Patient specific meshes
+were constructed using UACs and phase singularity density maps from arrhythmia simulations were
+visualised in 2D. We have developed a universal atrial coordinate system allowing automatic registration
+of imaging and electroanatomic mapping data, 2D visualisation, and patient specific model creation,
+using just five landmark points. 

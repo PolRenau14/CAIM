@@ -1,0 +1,17 @@
+We conducted a multi-wavelength six-month campaign to observe the Seyfert galaxy NGC~7469, using
+the space-based observatories \textit{HST}, \textit{Swift}, \textit{XMM-Newton} and \textit{NuSTAR}.
+Here we report the results of the spectral analysis of the 7 simultaneous \textit{XMM-Newton} and
+\textit{NuSTAR} observations. The sources shows significant flux variability within each observation,
+but the average flux is less variable among the different pointings of our campaign. Our spectral
+analysis reveals a prominent narrow neutral \ion{Fe} K$\alpha$ emission line in all the spectra,
+with weaker contributions from Fe K$\beta$, neutral Ni K$\alpha$ and ionised iron. We find no evidence
+for variability or relativistic effects acting on the emission lines, which indicates that they
+originate from distant material. Analysing jointly \textit{XMM-Newton} and \textit{NuSTAR}
+data a constant photon index is found ($\Gamma$=$1.78\pm0.02$), together with a high energy cut-off
+$E_{\rm{cut}}=170^{+60}_{-40}$ keV. Adopting a self-consistent Comptonization model, these
+values correspond to an average coronal electron temperature of kT=$45^{+15}_{-12}$ keV and,
+assuming a spherical geometry, an optical depth $\tau=2.6\pm0.9$. The reflection component is
+consistent with being constant, with a reflection fraction in the range $R=0.3-0.6$. A prominent
+soft excess dominates the spectra below 4 keV. This is best fit with a second Comptonization component,
+arising from a \virg{warm corona} with an average $kT=0.67\pm0.03$ keV and a corresponding optical
+depth $\tau=9.2\pm0.2$. 

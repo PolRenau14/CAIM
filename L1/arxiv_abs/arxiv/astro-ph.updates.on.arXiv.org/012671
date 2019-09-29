@@ -1,0 +1,17 @@
+We perform two- (2D) and three-dimensional (3D) hydrodynamics simulations of convective oxygen
+shell-burning that takes place deep inside a massive progenitor star of a core-collapse supernova.
+Using one dimensional (1D) stellar evolution code, we first calculate the evolution of massive
+stars with the initial mass of 9-40 $M_\odot$. Four different overshoot parameters are applied,
+and similar CO core mass trend with previous works is obtained in the 1D models. Selecting eleven
+1D models that have a silicon and oxygen coexising layer, we perform 2D hydrodynamics simulations
+of the evolution for $\sim$100 s until the onset of core-collapse. We find that strong and large-scale
+convection with the Mach number $\sim$0.1 is obtained in the models having a Si/O layer with the scale
+of 10$^8$ cm, whereas most models that cast an extended O/Si layer up to a few $\times 10^9$ cm do not
+exhibit strong convective activity. Our results indicate that the supernova progenitors that
+possess a thick Si/O layer could provide a preferable condition for perturbation-aided explosions.
+We perform 3D simulation of a 25 $M_\odot$ model, which exhibits strong convective activity in the
+2D models. The 3D model develops large-scale ($\ell = 2$) convection similar to the 2D model, however,
+the 3D convection is weaker than the 2D convection. By estimating the neutrino emission properties
+of the 3D model, we point out that a time modulation of the event rates, if observed in KamLAND and Hyper-Kamiokande,
+would provide an important information about structural changes in the presupernova convective
+layer. 

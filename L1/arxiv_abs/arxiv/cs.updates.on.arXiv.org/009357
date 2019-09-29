@@ -1,0 +1,16 @@
+Machine learning (ML), artificial intelligence (AI) and other modern statistical methods are
+providing new opportunities to operationalize previously untapped and rapidly growing sources
+of data for patient benefit. Whilst there is a lot of promising research currently being undertaken,
+the literature as a whole lacks: transparency; clear reporting to facilitate replicability; exploration
+for potential ethical concerns; and, clear demonstrations of effectiveness. There are many reasons
+for why these issues exist, but one of the most important that we provide a preliminary solution for
+here is the current lack of ML/AI- specific best practice guidance. Although there is no consensus
+on what best practice looks in this field, we believe that interdisciplinary groups pursuing research
+and impact projects in the ML/AI for health domain would benefit from answering a series of questions
+based on the important issues that exist when undertaking work of this nature. Here we present 20
+questions that span the entire project life cycle, from inception, data analysis, and model evaluation,
+to implementation, as a means to facilitate project planning and post-hoc (structured) independent
+evaluation. By beginning to answer these questions in different settings, we can start to understand
+what constitutes a good answer, and we expect that the resulting discussion will be central to developing
+an international consensus framework for transparent, replicable, ethical and effective research
+in artificial intelligence (AI-TREE) for health. 

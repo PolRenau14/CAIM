@@ -1,0 +1,17 @@
+We explore one-point and two-point statistics of the Navier-Stokes-alpha-beta regularization
+model at moderate Reynolds number in homogeneous isotropic turbulence. The results are compared
+to the limit cases of the Navier-Stokes-alpha model and the Navier-Stokes-alpha-beta model without
+subgrid-scale stress, as well as with high resolution direct numerical simulation. After reviewing
+spectra of different energy norms of the Navier-Stokes-alpha-beta model, the Navier-Stokes-alpha
+model, and Navier-Stokes-alpha-beta model without subrid-scale stress, we present probability
+density functions and normalized probability density functions of the filtered and unfiltered
+velocity increments along with longitudinal velocity structure functions of the regularization
+models and direct numerical simulation results. We highlight differences in the statistical properties
+of the unfiltered and filtered velocity fields entering the governing equations of the Navier-Stokes-alpha
+and Navier-Stokes-alpha-beta models and discuss the usability of both velocity fields for realistic
+flow predictions. The influence of the modified viscous term in the Navier-Stokes-alpha-beta
+model is studied through comparison to the case where the underlying subgrid-scale stress tensor
+is neglected. The filtered velocity field is found to have physically more viable probability density
+functions and structure functions for the approximation of direct numerical simulation results,
+whereas the unfiltered velocity field is found to have flatness factors close to direct numerical
+simulation results. 

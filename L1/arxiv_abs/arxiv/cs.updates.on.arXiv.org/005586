@@ -1,0 +1,16 @@
+Classically, coding theory has been concerned with the problem of transmitting a single message
+in a format which is robust to noise. Recently, researchers have turned their attention to designing
+coding schemes to make two-way conversations robust to noise. That is, given an interactive communication
+protocol $\Pi$, an \emph{interactive coding scheme} converts $\Pi$ into another communication
+protocol $\Pi'$ such that, even if errors are introduced during the execution of $\Pi'$, the parties
+are able to determine what the outcome of running $\Pi$ would be in a noise-free setting. We consider
+the problem of designing interactive coding schemes which allow the parties to simulate the original
+protocol using little memory. Specifically, given any communication protocol $\Pi$ we construct
+robust simulating protocols which tolerate a constant noise rate and require the parties to use
+only $O(\log d \log s)$ memory, where $d$ is the depth of $\Pi$ and $s$ is a measure of the size of $\Pi$.
+Prior to this work, all known coding schemes required the parties to use at least $\Omega(d)$ memory,
+as the parties were required to remember the transcript of the conversation thus far. Moreover,
+our coding scheme achieves a communication rate of $1-O(\sqrt{\varepsilon})$ over oblivious
+channels and $1-O(\sqrt{\varepsilon\log\log\tfrac{1}{\varepsilon}})$ over adaptive adversarial
+channels, matching the conjecturally optimal rates. Lastly, we point to connections between fault-tolerant
+circuits and coding for interactive communication with small memory. 

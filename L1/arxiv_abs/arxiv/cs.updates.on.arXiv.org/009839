@@ -1,0 +1,16 @@
+Background: Widespread adoption of electronic health records (EHRs) has enabled secondary use
+of EHR data for clinical research and healthcare delivery. Natural language processing (NLP) techniques
+have shown promise in their capability to extract the embedded information in unstructured clinical
+data, and information retrieval (IR) techniques provide flexible and scalable solutions that
+can augment the NLP systems for retrieving and ranking relevant records. Methods: In this paper,
+we present the implementation of Cohort Retrieval Enhanced by Analysis of Text from EHRs (CREATE),
+a cohort retrieval system that can execute textual cohort selection queries on both structured
+and unstructured EHR data. CREATE is a proof-of-concept system that leverages a combination of
+structured queries and IR techniques on NLP results to improve cohort retrieval performance while
+adopting the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) to enhance
+model portability. The NLP component empowered by cTAKES is used to extract CDM concepts from textual
+queries. We design a hierarchical index in Elasticsearch to support CDM concept search utilizing
+IR techniques and frameworks. Results: Our case study on 5 cohort identification queries evaluated
+using the IR metric, P@5 (Precision at 5) at both the patient-level and document-level, demonstrates
+that CREATE achieves an average P@5 of 0.90, which outperforms systems using only structured data
+or only unstructured data with average P@5s of 0.54 and 0.74, respectively. 

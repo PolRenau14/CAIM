@@ -1,0 +1,16 @@
+We report on discovery results from a quasar lens search in the ATLAS public footprint, extending
+quasar lens searches to a regime without $u-$band or fiber-spectroscopic information, using a
+combination of data mining techniques on multi-band catalog magnitudes and image-cutout modelling.
+Spectroscopic follow-up campaigns, conducted at the 2.6m Nordic Optical Telescope (La Palma)
+and 3.6m New Technology Telescope (La Silla) in 2016, yielded seven pairs of quasars exhibiting
+the same lines at the same redshift and monotonic flux-ratios with wavelength (hereafter NIQs,
+Nearly Identical Quasar pairs). The quasar redshifts range between $\approx1.2$ and $\approx
+2.7;$ contaminants are typically pairs of bright blue stars, quasar-star alignments along the
+line of sight, and narrow-line galaxies at $0.3<z<0.7.$ Magellan data of A0140-1152 (01$^h$40$^m$03.0$^s$-11$^d$52$^m$19.0$^s$,
+$z_{s}=1.807$) confirm it as a lens with deflector at $z_{l}=0.277$ and Einstein radius $\theta_{\rm
+E}=(0.73\pm0.02)^\ase$. We show the use of spatial resolution from the Gaia mission to select lenses
+and list additional systems from a WISE-Gaia-ATLAS search, yielding three additional lenses (02$^h$35$^m$27.4$^s$-24$^d$33$^m$13.2$^s$,
+02$^h$59$^m$33.$^s$-23$^d$38$^m$01.8$^s$, 01$^h$46$^m$32.9$^s$-11$^d$33$^m$39.0$^s$).
+The overall sample consists of 11 lenses/NIQs, plus three lenses known before 2016, over the ATLAS-DR3
+footprint ($\approx3500$~deg$^2$). Finally, we discuss future prospects for objective classification
+of pair/NIQ/contaminant spectra. 

@@ -1,0 +1,16 @@
+Distances to high mass star forming regions (HMSFRs) in the Milky Way are a crucial constraint on
+the structure of the Galaxy. Only kinematic distances are available for a majority of the HMSFRs
+in the Milky Way. Here we compare the kinematic and parallax distances of 75 Galactic HMSFRs to assess
+the accuracy of kinematic distances. We derive the kinematic distances using three different methods:
+the traditional method using the Brand & Blitz (1993) rotation curve (Method A), the traditional
+method using the Reid et al. (2014) rotation curve and updated Solar motion parameters (Method B),
+and a Monte Carlo technique (Method C). Methods B and C produce kinematic distances closest to the
+parallax distances, with median differences of 13% (0.43 kpc) and 17% (0.42 kpc), respectively.
+Except in the vicinity of the tangent point, the kinematic distance uncertainties derived by Method
+C are smaller than those of Methods A and B. In a large region of the Galaxy, the Method C kinematic distances
+constrain both the distances and the Galactocentric positions of HMSFRs more accurately than parallax
+distances. Beyond the tangent point along longitude=30 degrees, for example, the Method C kinematic
+distance uncertainties reach a minimum of 10% of the parallax distance uncertainty at a distance
+of 14 kpc. We develop a prescription for deriving and applying the Method C kinematic distances and
+distance uncertainties. The code to generate the Method C kinematic distances is publicly available
+and may be utilized through an on-line tool. 

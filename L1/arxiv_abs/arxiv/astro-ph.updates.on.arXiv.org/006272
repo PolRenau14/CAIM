@@ -1,0 +1,17 @@
+The shape of LOSVDs (line-of-sight velocity distributions) carries important information about
+the internal dynamics of galaxies. The skewness of LOSVDs represents their asymmetric deviation
+from a Gaussian profile. Correlations between the skewness parameter ($h_3$) and the mean velocity
+(\vm) of a Gauss-Hermite series reflect the underlying stellar orbital configurations of different
+morphological components. Using two self-consistent $N$-body simulations of disk galaxies with
+different bar strengths, we investigate \hv\ correlations at different inclination angles. Similar
+to previous studies, we find anticorrelations in the disk area, and positive correlations in the
+bar area when viewed edge-on. However, at intermediate inclinations, the outer parts of bars exhibit
+anticorrelations, while the core areas dominated by the boxy/peanut-shaped (B/PS) bulges still
+maintain weak positive correlations. When viewed edge-on, particles in the foreground/background
+disk (the wing region) in the bar area constitute the main velocity peak, whereas the particles in
+the bar contribute to the high-velocity tail, generating the \hv\ correlation. If we remove the
+wing particles, the LOSVDs of the particles in the outer part of the bar only exhibit a low-velocity
+tail, resulting in a negative \hv\ correlation, whereas the core areas in the central region still
+show weakly positive correlations. We discuss implications for IFU observations on bars, and show
+that the variation of the \hv\ correlation in the disk galaxy may be used as a kinematic indicator
+of the bar and the B/PS bulge. 

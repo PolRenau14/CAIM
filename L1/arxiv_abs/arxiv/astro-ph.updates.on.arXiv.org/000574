@@ -1,0 +1,16 @@
+In a standard cold dark matter (CDM) cosmology, microhalos at the CDM cutoff scale are the first and
+smallest objects expected to form in the universe. Here we present results of high resolution simulations
+of three representative roughly Earth-mass microhalos in order to determine their inner density
+profile. We find that CDM microhalos in simulations without a cutoff in the power spectrum roughly
+follow the NFW density profile, just like the much larger CDM halos on galaxy and galaxy cluster scales.
+But having a cutoff in the initial power spectrum at a typical neutralino free streaming scale of
+$10^{-7} M_{\odot}$ makes their inner density profiles considerably steeper, i.e. $\rho \propto
+r^{-(1.3-1.4)}$, in good agreement with the results from Ishiyama et al. (2010). An extrapolation
+of the halo and subhalo mass functions down to the cutoff scale indicates that microhalos are extremely
+abundant throughout the present day dark matter distribution and might contribute significantly
+to indirect dark matter detection signals. Assuming a transition from a NFW to a steeper inner profile
+($\rho \propto r^{-1.4}$) two orders of magnitude above the cutoff scale, the total boost factor
+for a Milky Way sized dark matter halo increases from about 3.5 to 4. We further find that CDM microhalo
+concentrations are consistent with the Bullock et al. (2001) model and clearly rule out simplistic
+power law models for the mass dependence of concentrations and subhalo annihilation, which would
+erroneously lead to very large boost factors (a few hundred for galaxy halos and over 1000 for clusters).

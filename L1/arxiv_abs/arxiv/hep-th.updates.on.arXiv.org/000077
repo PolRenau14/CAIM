@@ -1,0 +1,17 @@
+The surfaces of three dimensional topological insulators (3D TIs) are generally described as Dirac
+metals, with a single Dirac cone. It was previously believed that a gapped surface implied breaking
+of either time reversal T or U(1) charge conservation symmetry. Here we discuss a novel possibility
+in the presence of interactions, a surface phase that preserves all symmetries but is nevertheless
+gapped and insulating. A requirement is that the surface develops topological order of a kind that
+cannot be realized in a purely 2D system with the same symmetries. We discuss two candidate surface
+states - both of which are non-Abelian Fractional Quantum Hall states which, when realized in 2D,
+have \sigma_{xy}=1/2 and hence break T symmetry. However, by constructing an exactly soluble 3D
+lattice model, we show they can be realized as T symmetric surface states. Both the corresponding
+3D phases are confined, have \theta=\pi magnetoelectric response, and require electrons that
+are Kramers doublets. The first, the T-Pfaffian state, is the (Read-Moore) Pfaffian state with
+the neutral sector reversed, while the second, the Pfaffian-antisemion state is a product of the
+Pfaffian state with antisemion topological order. The latter can be connected to the superconducting
+TI surface state on breaking charge U(1) symmetry, while for the T-Pfaffian there is no simple way
+to do so. We discuss two physical scenarios for the T-Pfaffian, either (i) it is equivalent to the
+Pfaffian-antisemion theory and also describes the 3D TI surface OR (ii) it represents a new, interacting
+3D TI. 

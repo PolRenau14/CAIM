@@ -1,0 +1,17 @@
+While skin cancer is the most diagnosed form of cancer in men and women, with more cases diagnosed
+each year than all other cancers combined, sufficiently early diagnosis results in very good prognosis
+and as such makes early detection crucial. While radiomics have shown considerable promise as a
+powerful diagnostic tool for significantly improving oncological diagnostic accuracy and efficiency,
+current radiomics-driven methods have largely rely on pre-defined, hand-crafted quantitative
+features, which can greatly limit the ability to fully characterize unique cancer phenotype that
+distinguish it from healthy tissue. Recently, the notion of discovery radiomics was introduced,
+where a large amount of custom, quantitative radiomic features are directly discovered from the
+wealth of readily available medical imaging data. In this study, we present a novel discovery radiomics
+framework for skin cancer detection, where we leverage novel deep multi-column radiomic sequencers
+for high-throughput discovery and extraction of a large amount of custom radiomic features tailored
+for characterizing unique skin cancer tissue phenotype. The discovered radiomic sequencer was
+tested against 9,152 biopsy-proven clinical images comprising of different skin cancers such
+as melanoma and basal cell carcinoma, and demonstrated sensitivity and specificity of 91% and 75%,
+respectively, thus achieving dermatologist-level performance and \break hence can be a powerful
+tool for assisting general practitioners and dermatologists alike in improving the efficiency,
+consistency, and accuracy of skin cancer diagnosis. 

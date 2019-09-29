@@ -1,0 +1,16 @@
+We investigate the complexity of deciding, given a multiplication table representing a semigroup
+S, a subset X of S and an element t of S, whether t can be expressed as a product of elements of X. It is well-known
+that this problem is NL-complete and that the more general Cayley groupoid membership problem,
+where the multiplication table is not required to be associative, is P-complete. For groups, the
+problem can be solved in deterministic log-space which raised the question of determining the exact
+complexity of this variant. Barrington, Kadau, Lange and McKenzie showed that for Abelian groups
+and for certain solvable groups, the problem is contained in the complexity class FOLL and they concluded
+that these variants are not hard for any complexity class containing PARITY. The more general case
+of arbitrary groups remained open. In this work, we show that for both groups and for commutative
+semigroups, the problem is solvable in qAC^0 (quasi-polynomial size circuits of constant depth
+with unbounded fan-in) and conclude that these variants are also not hard for any class containing
+PARITY. Moreover, we prove that NL-completeness already holds for the classes of 0-simple semigroups
+and nilpotent semigroups. Together with our results on groups and commutative semigroups, this
+allows us to show that there is no natural complexity class which includes qAC^0, is strictly contained
+in NL and corresponds to a restriction of the Cayley semigroup membership problem to a variety of
+semigroups. We also discuss applications of our technique to FOLL. 

@@ -1,0 +1,16 @@
+The seminal idea of quantum money due to Stephen Wiesner, the money not forgeable due to laws of Quantum
+Mechanics, has laid foundations for the Quantum Information Theory in early '70s. As quantum technology
+develops, in parallel to crypto-currencies entering market, various other schemes for quantum
+currencies are being proposed nowadays. The schemes put forward so far relay on assumption that
+the mint does not cooperate with the counterfeiter who may use malicious terminal for verification.
+Here we introduce a semi-device independent scheme for money partially relaxing this assumption.
+We prove that it is protected against forgery under qubit by qubit copying in case when the banknote
+is verified at the Bank by untrusted terminal. In case of verification by classical communication,
+protection against a forgery cheating independently on each qubit is also provided. The scheme
+bases on the preamble of semi-device independent protocol of Paw\l{}owski nad Brunner [Phys. Rev.
+A 84, 010302 (2011)] with more restrictive condition for acceptance. This is in correspondence
+with more complex proof of security originating from a two-party cryptographic nature of the money
+schemes. The lower bound on the size of the banknote is ruled only by the law of large numbers as the
+secure key is not physically generated during the protocol. Due to the current burst out of the new
+quantum-crypto currencies, on the basis of the presented protocol we finally introduce and discuss
+possible quantum analogue of the Oresme-Copernicus-Gresham's law of economy. 

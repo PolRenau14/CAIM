@@ -1,0 +1,16 @@
+Consumer-grade printers are widely available, but their ability to print complex objects is limited.
+Therefore, new designs need to be discovered that serve the same function, but are printable. A representative
+such problem is to produce a working, reliable mechanical spring. The proposed methodology for
+discovering solutions to this problem consists of three components: First, an effective search
+space is learned through a variational autoencoder (VAE); second, a surrogate model for functional
+designs is built; and third, a genetic algorithm is used to simultaneously update the hyperparameters
+of the surrogate and to optimize the designs using the updated surrogate. Using a car-launcher mechanism
+as a test domain, spring designs were 3D-printed and evaluated to update the surrogate model. Two
+experiments were then performed: First, the initial set of designs for the surrogate-based optimizer
+was selected randomly from the training set that was used for training the VAE model, which resulted
+in an exploitative search behavior. On the other hand, in the second experiment, the initial set
+was composed of more uniformly selected designs from the same training set and a more explorative
+search behavior was observed. Both of the experiments showed that the methodology generates interesting,
+successful, and reliable spring geometries robust to the noise inherent in the 3D printing process.
+The methodology can be generalized to other functional design problems, thus making consumer-grade
+3D printing more versatile. 

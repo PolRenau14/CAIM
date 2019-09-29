@@ -1,0 +1,16 @@
+A generic aggregate forming system in two dimensions (2D) is studied using canonical ensemble constant
+temperature molecular dynamics simulation. The aggregates form due to the competition between
+short range attraction and long range repulsion of pair-wise interactions. Choosing the appropriate
+set of interaction parameters, we focus on characterising the collective dynamics in two specific
+morphologies, {\it viz.} compact and string-like aggregates. We focus on the temporal evolution
+of the mobility of an individual particle and the dynamic change in its nearest neighbourhood, measured
+in terms of the Debye-Waller factor ($\bar{u}_i^2$) and the non-affine parameter ($\chi$), respectively
+(defined in the text), and their interrelation over several lengths of observation time $\tau_w$.
+The distribution for both measures are found to follow the relation: $P(x;\tau_w) \sim \tau_w^{-\gamma}x$
+for the measured quantity $x$. The exponent $\gamma$ is equal to $2$ and $1$ respectively, for the
+compact and string-like morphologies following the ideal fractal dimension of these aggregates.
+A functional dependence between these two observables is determined from a detailed statistical
+analysis of their joint and conditional distributions. The results obtained can readily be used
+and verified by experiments on aggregate forming systems such as globular proteins, nanoparticle
+self-assembly etc. Further, the insights gained from this study might be useful to understand the
+evolution of collective dynamics in diverse glass-forming systems. 

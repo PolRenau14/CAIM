@@ -1,0 +1,17 @@
+This paper investigates two strategies to reduce the communication delay in future wireless networks:
+traffic dispersion and network densification. A hybrid scheme that combines these two strategies
+is also considered. The probabilistic delay and effective capacity are used to evaluate performance.
+For probabilistic delay, the violation probability of delay, i.e., the probability that the delay
+exceeds a given tolerance level, is characterized in terms of upper bounds, which are derived by
+applying stochastic network calculus theory. In addition, to characterize the maximum affordable
+arrival traffic for mmWave systems, the effective capacity, i.e., the service capability with
+a given quality-of-service (QoS) requirement, is studied. The derived bounds on the probabilistic
+delay and effective capacity are validated through simulations. These numerical results show
+that, for a given average system gain, traffic dispersion, network densification, and the hybrid
+scheme exhibit different potentials to reduce the end-to-end communication delay. For instance,
+traffic dispersion outperforms network densification, given high average system gain and arrival
+rate, while it could be the worst option, otherwise. Furthermore, it is revealed that, increasing
+the number of independent paths and/or relay density is always beneficial, while the performance
+gain is related to the arrival rate and average system gain, jointly. Therefore, a proper transmission
+scheme should be selected to optimize the delay performance, according to the given conditions
+on arrival traffic and system service capability. 

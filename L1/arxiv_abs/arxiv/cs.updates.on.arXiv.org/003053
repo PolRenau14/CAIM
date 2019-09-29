@@ -1,0 +1,16 @@
+Recommender systems, inferring users' preferences from their historical activities and personal
+profiles, have been an enormous success in the last several years. Most of the existing works are
+based on the similarities of users, objects or both that derived from their purchases records in
+the online shopping platforms. Such approaches, however, are facing bottlenecks when the known
+information is limited. The extreme case is how to recommend products to new users, namely the so-called
+cold-start problem. The rise of the online social networks gives us a chance to break the glass ceiling.
+Birds of a feather flock together. Close friends may have similar hidden pattern of selecting products
+and the advices from friends are more trustworthy. In this paper, we integrate the individual's
+social relationships into recommender systems and propose a new method, called Social Mass Diffusion
+(SMD), based on a mass diffusion process in the combined network of users' social network and user-item
+bipartite network. The results show that the SMD algorithm can achieve higher recommendation accuracy
+than the Mass Diffusion (MD) purely on the bipartite network. Especially, the improvement is striking
+for small degree users. Moreover, SMD provides a good solution to the cold-start problem. The recommendation
+accuracy for new users significantly higher than that of the conventional popularity-based algorithm.
+These results may shed some light on the new designs of better personalized recommender systems
+and information services. 

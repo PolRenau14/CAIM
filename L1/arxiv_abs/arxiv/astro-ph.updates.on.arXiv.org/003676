@@ -1,0 +1,16 @@
+Intrinsic alignments (IA) of galaxies, i.e. correlations of galaxy shapes with each other or with
+the density field, are a major astrophysical source of contamination for weak lensing surveys.
+We present the results of IA measurements of galaxies on 0.1- 200 Mpc/h scales using the SDSS-III
+BOSS LOWZ sample, in the redshift range 0.16<z<0.36. We extend the existing IA measurements
+for spectroscopic LRGs to lower luminosities, and show that the luminosity dependence of large-scale
+IA can be well-described by a power law. Within the limited redshift and color range of our sample,
+we observe no significant redshift or color dependence of IA. We measure the halo mass of LOWZ galaxies
+using galaxy-galaxy lensing, and show that the mass dependence of large-scale IA is also well described
+by a power law. We detect variation in the scale dependence of IA with mass and luminosity, which underscores
+the need to use flexible templates in order to remove the IA signal. We also study the environment
+dependence of IA by splitting the sample into field and group galaxies, which are further split into
+satellite and central galaxies. We show that group central galaxies are aligned with their halos
+at small scales and also are aligned with the tidal fields out to large scales. We also detect the radial
+alignments of satellite galaxies within groups, which results in a null detection of large-scale
+intrinsic alignments for satellites. These results can be used to construct better intrinsic alignment
+models for removal of this contaminant to the weak lensing signal. 

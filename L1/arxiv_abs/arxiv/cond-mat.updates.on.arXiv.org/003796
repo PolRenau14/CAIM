@@ -1,0 +1,17 @@
+The Monte Carlo-Mean Field (MC-MF) approach rests up on deriving an effective spin fermion model
+containing classical and quantum degrees of freedom from an interacting many body problem. The
+effective model allows us to build in non-trivial thermal fluctuations and was shown to compare
+well against finite $T$ Determinantal Quantum Monte Carlo (DQMC) on half filled square lattice
+Hubbard model. In this case it was shown that MC-MF could capture formation of local moments in the
+high $T$ paramagnetic phase and could also reproduce the non monotonic dependence of antiferromagnetic
+ordering temperature ($T_N$) on local correlation strength $U$. Here, we study the effect of frustration
+at half filling by introducing next nearest hopping ($t^{\prime}$), with $t^{\prime}/t<0$. We
+benchmark low temperature $U-t^{\prime}$ phases against literature, present evolution of magnetic
+phases with temperature and establish that, for intermediate to large $t^\prime$, a pseudogapped
+(PG) metal separates small $U$ Fermi Liquid and large $U$ Mott insulator. We study the evolution
+of this metal with temperature and map out the $U$ and $t^\prime$ variation of the PG to normal metal
+crossover scale ($T^*$). From temperature dependence of resistivity, optical conductivity and
+low $T$ single particle spectral function calculations, we demonstrate that properties of this
+pseudogapped metal deviates strongly from a Fermi liquid, track these deviations with $U$ and $t^\prime$
+and show how thermally induced spin fluctuations assisted spectral weight transfer, can lead to
+formation of the PG metal. 

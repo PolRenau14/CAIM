@@ -1,0 +1,16 @@
+For any two complete discrete valued fields $K_1$ and $K_2$ of mixed characteristic with perfect
+residue fields, we show that if the $n$-th valued hyperfields of $K_1$ and $K_2$ are isomorphic over
+$p$ for each $n\ge1$, then $K_1$ and $K_2$ are isomorphic. More generally, for $n_1,n_2\ge 1$, if
+$n_2$ is large enough, then any homomorphism, which is over $p$, from the $n_1$-th valued hyperfield
+of $K_1$ to the $n_2$-th valued hyperfield of $K_2$ can be lifted to a homomorphism from $K_1$ to $K_2$.
+We compute such $n_2$ effectively, which depends only on the ramification indices of $K_1$ and $K_2$.
+Moreover, if $K_1$ is tamely ramified, then any homomorphism over $p$ between the first valued hyperfields
+is induced from a unique homomorphism of valued fields. Using this lifting result, we deduce a relative
+completeness theorem of AKE-style in terms of valued hyperfields. We also study some relationships
+between valued hyperfields, truncated discrete valuation rings, and complete discrete valued
+fields of mixed characteristic. For a prime number $p$ and a positive integer $e$ and for large enough
+$n$, we show that a certain category of valued hyperfields is equivalent to the category of truncated
+discrete valuation rings of length $n$ and the ramification indices $e$ having perfect residue
+fields of characteristic $p$. Furthermore, in the tamely ramified case, we show that a subcategory
+of this category of valued hyperfields is equivalent to the category of complete discrete valued
+rings of mixed characteristic $(0,p)$ having perfect residue fields. 

@@ -1,0 +1,16 @@
+Weighted projective lines, introduced by Geigle and Lenzing in 1987, are one of the basic objects
+in representation theory. One key property is that they have tilting bundles, whose endomorphism
+algebras are the canonical algebras introduced by Ringel. The aim of this paper is to study their
+higher dimensional analogs. First, we introduce a certain class of commutative rings $R$ graded
+by abelian groups $L$ of rank $1$, which we call Geigle-Lenzing complete intersections. We study
+their Cohen-Macaulay representations, and show that there always exists a tilting object in the
+stable category of ${\mathsf CM}^LR$. As an application we study when $(R,L)$ is $d$-Cohen-Macaulay
+finite in the sense of higher dimensional Auslander-Reiten theory. Secondly, by applying the Serre
+construction to $(R,L)$, we introduce the category ${\mathsf coh} X$ of coherent sheaves on a Geigle-Lenzing
+projective space $X$. We show that there always exists a tilting bundle $T$ on $X$, and study the endomorphism
+algebra ${\rm End}_X(T)$ which we call a $d$-canonical algebra. Further we study when ${\mathsf
+coh} X$ is derived equivalent to a $d$-representation infinite algebra in the sense of higher dimensional
+Auslander-Reiten theory. Also we show that $d$-canonical algebras provide a rich source of $d$-Fano
+and $d$-anti-Fano algebras from non-commutative algebraic geometry. Moreover we observe Orlov-type
+semiorthogonal decompositions between the stable category of ${\mathsf CM}^LR$ and the derived
+category $D^b({\mathsf coh} X)$. 

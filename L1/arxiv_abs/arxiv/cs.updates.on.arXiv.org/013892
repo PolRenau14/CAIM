@@ -1,0 +1,17 @@
+This paper presents approaches to determine a network based pricing for 3D printing services in
+the context of a two-sided manufacturing-as-a-service marketplace. The intent is to provide cost
+analytics to enable service bureaus to better compete in the market by moving away from setting ad-hoc
+and subjective prices. A data mining approach with machine learning methods is used to estimate
+a price range based on the profile characteristics of 3D printing service suppliers. The model considers
+factors such as supplier experience, supplier capabilities, customer reviews and ratings from
+past orders, and scale of operations among others to estimate a price range for suppliers' services.
+Data was gathered from existing marketplace websites, which was then used to train and test the model.
+The model demonstrates an accuracy of 65% for US based suppliers and 59% for Europe based suppliers
+to classify a supplier's 3D Printer listing in one of the seven price categories. The improvement
+over baseline accuracy of 25% demonstrates that machine learning based methods are promising for
+network based pricing in manufacturing marketplaces. Conventional methodologies for pricing
+services through activity based costing are inefficient in strategically pricing 3D printing
+service offering in a connected marketplace. As opposed to arbitrarily determining prices, this
+work proposes an approach to determine prices through data mining methods to estimate competitive
+prices. Such tools can be built into online marketplaces to help independent service bureaus to
+determine service price rates. 

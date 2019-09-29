@@ -1,0 +1,16 @@
+Learning effective embedding has been proved to be useful in many real-world problems, such as recommender
+systems, search ranking and online advertisement. However, one of the challenges is data sparsity
+in learning large-scale item embedding, as users' historical behavior data are usually lacking
+or insufficient in an individual domain. In fact, user's behaviors from different domains regarding
+the same items are usually relevant. Therefore, we can learn complete user behaviors to alleviate
+the sparsity using complementary information from correlated domains. It is intuitive to model
+users' behaviors using graph, and graph neural networks (GNNs) have recently shown the great power
+for representation learning, which can be used to learn item embedding. However, it is challenging
+to transfer the information across domains and learn cross-domain representation using the existing
+GNNs. To address these challenges, in this paper, we propose a novel model - Deep Multi-Graph Embedding
+(DMGE) to learn cross-domain representation. Specifically, we first construct a multi-graph
+based on users' behaviors from different domains, and then propose a multi-graph neural network
+to learn cross-domain representation in an unsupervised manner. Particularly, we present a multiple-gradient
+descent optimizer for efficiently training the model. We evaluate our approach on various large-scale
+real-world datasets, and the experimental results show that DMGE outperforms other state-of-art
+embedding methods in various tasks. 

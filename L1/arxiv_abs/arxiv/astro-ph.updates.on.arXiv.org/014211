@@ -1,0 +1,16 @@
+The UV/optical variations in many AGN are very well correlated, showing delays which increase with
+increasing wavelength. It is thought that this is due to thermal reprocessing of the X-ray emission
+by the accretion disk. In this scenario, the variable X-ray flux from the corona illuminates the
+accretion disk where it is partially reflected, and partially absorbed and thermalized in the disk
+producing a UV/optical reverberation signal. This will lead to a time lag increasing with wavelength.
+However, although the shape of the observed time-lags as a function of wavelength is consistent
+with the model predictions, their amplitude suggested a disk which is significantly hotter than
+expected. In this work, we estimate the response functions and the corresponding time lags assuming
+a standard Novikov-Thorne accretion disk illuminated by a point-like X-ray source. We take into
+account all relativistic effects in the light propagation from the X-ray source to the disk then
+to the observer. We also compute the disk reflection, accounting for its ionization profile. Our
+results show that thermal reverberation effects are stronger in sources with large X-ray source
+height and low accretion rate. We also found that the time lags increase with height and accretion
+rate. We apply our model to NGC 5548 and we show that the observed lags in this source can be explained
+by the model, for a source height of $\sim 60 ~\rm r_g$ and an accretion rate of a few percent of the Eddington
+limit for a maximally-spinning black hole. 

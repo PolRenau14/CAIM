@@ -1,0 +1,16 @@
+We present results from 3D radiative-hydrodynamical simulations of HD 209458b with a fully coupled
+treatment of clouds using the EddySed code, critically, including cloud radiative feedback via
+absorption and scattering. We demonstrate that the thermal and optical structure of the simulated
+atmosphere is markedly different, for the majority of our simulations, when including cloud radiative
+effects, suggesting this important mechanism can not be neglected. Additionally, we further demonstrate
+that the cloud structure is sensitive to not only the cloud sedimentation efficiency (termed $f_{\textrm{sed}}$
+in EddySed), but also the temperature-pressure profile of the deeper atmosphere. We briefly discuss
+the large difference between the resolved cloud structures of this work, adopting a phase-equilibrium
+and parameterised cloud model, and our previous work incorporating a cloud microphysical model,
+although a fairer comparison where, for example, the same list of constituent condensates is included
+in both treatments, is reserved for a future work. Our results underline the importance of further
+study into the potential condensate size distributions and vertical structures, as both strongly
+influence the radiative impact of clouds on the atmosphere. Finally, we present synthetic observations
+from our simulations reporting an improved match, over our previous cloud-free simulations, to
+the observed transmission, HST WFC3 emission and 4.5 $\mu$m Spitzer phase curve of HD 209458b. Additionally,
+we find all our cloudy simulations have an apparent albedo consistent with observations. 

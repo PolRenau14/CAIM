@@ -1,0 +1,16 @@
+In this paper we study the evolution problem \[ \left\lbrace\begin{array}{ll} u_t (x,t)- \lambda_j(D^2
+u(x,t)) = 0, & \text{in } \Omega\times (0,+\infty), \\ u(x,t) = g(x,t), & \text{on } \partial \Omega
+\times (0,+\infty), \\ u(x,0) = u_0(x), & \text{in } \Omega, \end{array}\right. \] where $\Omega$
+is a bounded domain in $\mathbb{R}^N$ (that verifies a suitable geometric condition on its boundary)
+and $\lambda_j(D^2 u)$ stands for the $j-$st eigenvalue of the Hessian matrix $D^2u$. We assume
+that $u_0 $ and $g$ are continuous functions with the compatibility condition $u_0(x) = g(x,0)$,
+$x\in \partial \Omega$. We show that the (unique) solution to this problem exists in the viscosity
+sense and can be approximated by the value function of a two-player zero-sum game as the parameter
+measuring the size of the step that we move in each round of the game goes to zero. In addition, when
+the boundary datum is independent of time, $g(x,t) =g(x)$, we show that viscosity solutions to this
+evolution problem stabilize and converge exponentially fast to the unique stationary solution
+as $t\to \infty$. For $j=1$ the limit profile is just the convex envelope inside $\Omega$ of the boundary
+datum $g$, while for $j=N$ it is the concave envelope. We obtain this result with two different techniques:
+with PDE tools and and with game theoretical arguments. Moreover, in some special cases (for affine
+boundary data) we can show that solutions coincide with the stationary solution in finite time (that
+depends only on $\Omega$ and not on the initial condition $u_0$). 

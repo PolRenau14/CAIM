@@ -1,0 +1,16 @@
+Recently, TersoffCG, a coarse grain potential for graphene based on Tersoff potential, has been
+developed. In this work, we explore this potential, applying it to the case study of a single wall
+carbon nanotube. We performed a series of molecular dynamics simulations of longitudinal tension
+and compression on armchair carbon nanotubes, comparing two full atomistic models, described
+by means Tersoff and AIREBO potentials, and the coarse grained model described by means of TersoffCG.
+We followed each stage and mode of deformation, finding a good matching between the stress strain
+curves under tension independently from the used potential, with a small difference in the pre-fracture
+zone. Conversely, under compression the coarse grain model presents a buckling stress almost the
+double of the full atomistic models, and a more than double post-buckling stress. With the increase
+of the nanotube diameter, the capturing of the buckling modes is enhanced, however the stress overestimation
+remains. A decreasing of the three body angular term in the potential can be a rough way to recover
+the buckling stress, with small losses in the capturing of the post-buckling behavior. In spite
+of a good agreement under compression, the fracture behavior of the nanotube is strongly influenced,
+suggesting this modification only when no fractures are present. The findings reported in this
+work underlie the necessity of accurately evaluate the use of a coarse grain model when compressive
+loads are applied to the system during the simulation. 

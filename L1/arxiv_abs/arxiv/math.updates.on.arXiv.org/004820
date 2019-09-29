@@ -1,0 +1,16 @@
+In a distributed computing system for the master-worker framework, an erasure code can mitigate
+the effects of slow workers, also called stragglers. The distributed computing system combined
+with coding is referred to as coded computation. We introduce a variation of coded computation that
+protects the master's privacy from the workers, which is referred to as private coded computation.
+In private coded computation, the master needs to compute a function of its own dataset and one of
+the datasets in a library exclusively shared by the external workers. After the master recovers
+the result of the desired function through coded computation, the workers should not know which
+dataset in the library was desired by the master, which implies that the master's privacy is protected.
+We propose a private coded computation scheme for matrix multiplication, namely private polynomial
+codes, based on polynomial codes for conventional coded computation. As special cases of private
+polynomial codes, we propose private one-shot polynomial codes and private asynchronous polynomial
+codes. Whereas the private one-shot polynomial code achieves a lower communication load from the
+master to each worker, the private asynchronous polynomial code achieves faster computation than
+private one-shot polynomial codes. In terms of computation time and communication load, we compare
+private one-shot polynomial codes and private asynchronous polynomial codes with a conventional
+robust private information retrieval scheme which can be directly applied to coded computation.

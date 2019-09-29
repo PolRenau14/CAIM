@@ -1,0 +1,16 @@
+Let $\mathcal{M}(n,D)$ be the space of closed $n$-dimensional Riemannian manifolds $(M,g)$ with
+$diam(M) \leq D$ and $| \sec^M | \leq 1$. In this paper we consider sequences $(M_i,g_i)$ in $\mathcal{M}(n,D)$
+converging in the Gromov-Hausdorff topology to a compact metric space $Y$. We show on the one hand
+that the limit space of this sequence has at most codimension $1$ if there is a positive number $r$
+such that the quotient $\frac{vol(B^{M_i}_r(x))}{inj^{M_i}(x)}$ can be uniformly bounded from
+below by a positive constant $C(n,r,Y)$ for all points $x \in M_i$. On the other hand, we show that
+if the limit space has at most codimension $1$ then for all positive $r$ there is a positive constant
+$C(n,r,Y)$ bounding the quotient $\frac{vol(B^{M_i}_r(x))}{inj^{M_i}(x)}$ uniformly from
+below for all $x \in M_i$. The proof uses results about the structure of collapse in $\mathcal{M}(n,D)$
+by Cheeger, Fukaya and Gromov. In addition, we derive, for a submersion $M \rightarrow Y$ with uniformly
+bounded fundamental tensors, an upper bound on the injectivity radius of the fiber $F_p$, with $p
+\in Y$, which is proportional to the injectivity radius of $M$ at some $x \in F_p$, if the injectivity
+at $x$ is sufficiently small relative to the injectivity radius of $Y$. As a conclusion, we derive
+a uniform lower bound on the volume and a bound on the essential supremum of the sectional curvature
+for the closure of the space consisting of all manifolds in $\mathcal{M}(n,D)$ with $C \leq \min_{x
+\in M}\frac{vol(B^{M}_r(x))}{inj^{M}(x)}$ for fixed positive numbers $r$ and $C$. 

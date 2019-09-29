@@ -1,0 +1,17 @@
+Dynamic spectrum access (DSA) is regarded as an effective and efficient technology to share radio
+spectrum among different networks. As a secondary user (SU), a DSA device will face two critical
+problems: avoiding causing harmful interference to primary users (PUs), and conducting effective
+interference coordination with other secondary users. These two problems become even more challenging
+for a distributed DSA network where there is no centralized controllers for SUs. In this paper, we
+investigate communication strategies of a distributive DSA network under the presence of spectrum
+sensing errors. To be specific, we apply the powerful machine learning tool, deep reinforcement
+learning (DRL), for SUs to learn "appropriate" spectrum access strategies in a distributed fashion
+assuming NO knowledge of the underlying system statistics. Furthermore, a special type of recurrent
+neural network (RNN), called the reservoir computing (RC), is utilized to realize DRL by taking
+advantage of the underlying temporal correlation of the DSA network. Using the introduced machine
+learning-based strategy, SUs could make spectrum access decisions distributedly relying only
+on their own current and past spectrum sensing outcomes. Through extensive experiments, our results
+suggest that the RC-based spectrum access strategy can help the SU to significantly reduce the chances
+of collision with PUs and other SUs. We also show that our scheme outperforms the myopic method which
+assumes the knowledge of system statistics, and converges faster than the Q-learning method when
+the number of channels is large. 

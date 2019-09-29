@@ -1,0 +1,16 @@
+Testing the distance-sum-rule in strong lensing systems provides an interesting method to determine
+the curvature parameter $\Omega_k$ using more local objects. In this paper, we apply this method
+to a quite recent data set of strong lensing systems in combination with intermediate-luminosity
+quasars calibrated as standard rulers. In the framework of three types of lens models extensively
+used in strong lensing studies (SIS model, power-law spherical model, and extended power-law lens
+model), we show that the assumed lens model has a considerable impact on the cosmic curvature constraint,
+which is found to be compatible or marginally compatible with the flat case (depending on the lens
+model adopted). Analysis of low, intermediate and high-mass sub-samples defined according to
+the lens velocity dispersion demonstrates that, although it is not reasonable to characterize
+all lenses with a uniform model, such division has little impact on cosmic curvature inferred. Finally,
+thinking about future when massive surveys will provide their yields, we simulated a mock catalog
+of strong lensing systems expected to be seen by the LSST, together with a realistic catalog of quasars.
+We found that with about 16000 such systems, combined with the distance information provided by
+500 compact milliarcsecond radio sources seen in future radio astronomical surveys, one would
+be able to constrain the cosmic curvature with an accuracy of $\Delta \Omega_k\simeq 10^{-3}$,
+which is comparable to the precision of \textit{Planck} 2015 results. 

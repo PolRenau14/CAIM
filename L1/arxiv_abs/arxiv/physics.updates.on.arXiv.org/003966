@@ -1,0 +1,16 @@
+Physical models of biological systems can become difficult to interpret when they have a large number
+of parameters. But the models themselves actually depend on (i.e. are sensitive to) only a subset
+of those parameters. Rigorously identifying this subset of "stiff" parameters has been made possible
+by the development of parameter space compression (PSC). However, PSC has only been applied to analytically-solvable
+physical models. We have generalized this powerful method by developing a numerical approach to
+PSC that can be applied to any computational model. We validated our method against analytically-solvable
+models of random walk with drift and protein production and degradation. We then applied our method
+to an active area of biophysics research, namely to a simple computational model of microtubule
+dynamic instability. Such models have become increasingly complex, perhaps unnecessarily. By
+adding two new parameters that account for prominent structural features of microtubules, we identify
+one that can be "compressed away" (the "seam" in the microtubule) and another that is essential to
+model performance (the "tapering" of microtubule ends). Furthermore, we show that the microtubule
+model has an underlying, low-dimensional structure that explains the vast majority of our experimental
+data. We argue that numerical PSC can identify the low-dimensional structure of any computational
+model in biophysics. The low-dimensional structure of a model is easier to interpret and identifies
+the mechanisms and experiments that best characterize the system. 

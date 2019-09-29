@@ -1,0 +1,16 @@
+We introduce in this study an algorithm for the imaging of faults and of slip fields on those faults.
+The physics of this problem are modeled using the equations of linear elasticity. We define a regularized
+functional to be minimized for building the image. We prove that the minimum of that functional converges
+to the unique solution of the related fault inverse problem. Due to inherent uncertainties in measurements,
+rather than seeking a deterministic solution to the fault inverse problem, we consider a Bayesian
+approach. In this approach the geometry of the fault is assumed to be planar, it can thus be modeled
+by a three dimensional random variable whose probability density has to be determined knowing surface
+measurements. The standard deviation of the slip (or any moment of the slip) is computed in a separate
+step where the geometry of the fault is fixed (for example, the most likely geometry or the mean geometry).
+The advantage of such an approach is that we obtain a way of quantifying uncertainties as part of our
+final answer. On the downside, this Bayesian approach leads to a very large computation since the
+slip is unknown. To contend with the size of this computation we developed an algorithm for the numerical
+solution to the stochastic minimization problem which can be easily implemented on a parallel multi-core
+platform and we discuss techniques aimed at saving on computational time. After showing how this
+algorithm performs on simulated data, we apply it to measured data. The data was recorded during
+a slow slip event in Guerrero, Mexico. 

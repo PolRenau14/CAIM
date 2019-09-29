@@ -1,0 +1,16 @@
+The increased maturity level of technological achievements towards the realization of the Internet
+of Things (IoT) vision allowed sophisticated solutions to emerge, offering reliable monitoring
+in highly dynamic environments that lack well-defined and well-designed infrastructures, such
+as in the case of disaster scenarios. In this paper, we use a bio-inspired IoT architecture, which
+allows flexible creation and discovery of sensor-based services offering self-organization
+and self-optimization properties to the dynamic network, in order to make the required monitoring
+information available. The main contribution of the paper is the introduction of a new algorithm
+for following mobile monitored targets/individuals in the context of an IoT system, especially
+a dynamic one as the aforementioned. The devised technique, called Hot-Cold, is able to ensure proximity
+maintenance by the tracking robotic device solely based on the strength of the RF signal broadcasted
+by the target to communicate its sensors' data. Complete geometrical, numerical, simulation,
+and convergence analyses of the proposed technique are thoroughly presented, along with a detailed
+simulation-based evaluation that reveals the higher following accuracy of Hot-Cold compared
+to the popular concept of trilateration-based tracking. Finally, a prototype of the full architecture
+was implemented to demonstrate the applicability of the presented approach for monitoring in dynamic
+environments, but also the operability of the introduced tracking technique. 

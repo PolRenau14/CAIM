@@ -1,0 +1,16 @@
+Recently, scholars from law and political science have introduced metrics which use only election
+outcomes (and not district geometry) to assess the presence of partisan gerrymandering. The most
+high-profile example of such a tool is the efficiency gap. Some scholars have suggested that such
+tools should be sensitive enough to alert us when two election outcomes have the same percentage
+of votes going to political party $A$, but one of the two awards party $A$ more seats. When a metric
+is able to distinguish election outcomes in this way, that metric is said to satisfy the efficiency
+principle. In this article, we show that the efficiency gap fails to satisfy the efficiency principle.
+We show precisely how the efficiency principle breaks down in the presence of unequal voter turnout.
+To do this, we first present a construction that, given any rationals $1/4< V<3/4$ and $0<S<1$, constructs
+an election outcome with vote share $V$, seat share $S$, and EG = 0. (For instance, one party can get
+26% of the vote and anywhere from 1% to 99% of the seats while the efficiency gap remains zero.) Then,
+for any election with vote share $1/4<V<3/4$, seat share $S$, and EG= 0, we express the ratio $\rho$
+of average turnout in districts party $A$ lost to average turnout in districts party $A$ won as a function
+in only $V$ and $S$. It is well known that when all districts have equal turnout, EG can be expressed
+as a simple formula in $V$ and $S$; we express the efficiency gap of any election as an equation only
+in $V, S,$ and $\rho$. We also report on the values of $\rho$ that can be observed in actual elections.

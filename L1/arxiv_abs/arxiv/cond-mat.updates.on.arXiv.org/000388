@@ -1,0 +1,16 @@
+We study the non-equilibrium dynamics of quenching through a quantum critical point in topological
+systems, focusing on one of their defining features: ground state degeneracies and associated
+topological sectors. We present the notion of 'topological blocking', experienced by the dynamics
+due to a mismatch in degeneracies between two phases and we argue that the dynamic evolution of the
+quench depends strongly on the topological sector being probed. We demonstrate this interplay
+between quench and topology in models stemming from two extensively studied systems, the transverse
+Ising chain and the Kitaev honeycomb model. Through non-local maps of each of these systems, we effectively
+study spinless fermionic $p$-wave paired superconductors. Confining the systems to ring and toroidal
+geometries, respectively, enables us to cleanly address degeneracies, subtle issues of fermion
+occupation and parity, and mismatches between topological sectors. We show that various features
+of the quench, which are related to Kibble-Zurek physics, are sensitive to the topological sector
+being probed, in particular, the overlap between the time-evolved initial ground state and an appropriate
+low-energy state of the final Hamiltonian. While most of our study is confined to translationally
+invariant systems, where momentum is a convenient quantum number, we briefly consider the effect
+of disorder and illustrate how this can influence the quench in a qualitatively different way depending
+on the topological sector considered. 

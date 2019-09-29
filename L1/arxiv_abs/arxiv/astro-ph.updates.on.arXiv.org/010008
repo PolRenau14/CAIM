@@ -1,0 +1,17 @@
+Velocity dispersions have been employed as a method to measure masses of clusters. To complement
+this conventional method, we explore the possibility of constraining cluster masses from the stacked
+phase space distribution of galaxies at larger radii, where infall velocities are expected to have
+a sensitivity to cluster masses. First, we construct a two component model of the three-dimensional
+phase space distribution of haloes surrounding clusters up to 50 $h^{-1}$Mpc from cluster centres
+based on $N$-body simulations. We find that the three-dimensional phase space distribution shows
+a clear cluster mass dependence up to the largest scale examined. We then calculate the probability
+distribution function of pairwise line-of-sight velocities between clusters and haloes by projecting
+the three-dimensional phase space distribution along the line-of-sight with the effect of the
+Hubble flow. We find that this projected phase space distribution, which can directly be compared
+with observations, shows a complex mass dependence due to the interplay between infall velocities
+and the Hubble flow. Using this model, we estimate the accuracy of dynamical mass measurements from
+the projected phase space distribution at the transverse distance from cluster centres larger
+than $2h^{-1}$Mpc. We estimate that, by using $1.5\times 10^5$ spectroscopic galaxies, we can
+constrain the mean cluster masses with an accuracy of 14.5\% if we fully take account of the systematic
+error coming from the inaccuracy of our model. This can be improved down to 5.7\% by improving the
+accuracy of the model. 

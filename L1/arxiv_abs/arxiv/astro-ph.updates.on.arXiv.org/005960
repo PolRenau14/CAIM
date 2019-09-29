@@ -1,0 +1,17 @@
+We present a continuum radiative transfer model grid for fitting observed spectral energy distributions
+(SEDs) of massive protostars. The model grid is based on the paradigm of core accretion theory for
+massive star formation with pre-assembled gravitationally-bound cores as initial conditions.
+In particular, following the Turbulent Core Model, initial core properties are set primarily by
+their mass and the pressure of their ambient clump. We then model the evolution of the protostar and
+its surround structures in a self-consistent way. The model grid contains about 9000 SEDs with 4
+free parameters: initial core mass, the mean surface density of the environment, the protostellar
+mass, and the inclination. The model grid is used to fit observed SEDs via chi^2 minimization, with
+the foreground extinction additionally estimated. We demonstrate the fitting process and results
+using the example of massive protostar G35.20- 0.74. Compared with other SED model grids currently
+used for massive star formation studies, in our model grid, the properties of the protostar and its
+surrounding structures are more physically connected, which reduces the dimensionality of the
+parameter spaces and the total number of models. This excludes possible fitting of models that are
+physically unrealistic or that are not internally self-consistent in the context of the Turbulent
+Core Model. Thus, this model grid serves not only as a fitting tool to estimate properties of massive
+protostars, but also as a test of core accretion theory. The SED model grid is publicly released with
+this paper. 

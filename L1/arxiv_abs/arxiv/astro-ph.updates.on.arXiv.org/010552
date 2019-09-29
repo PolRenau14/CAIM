@@ -1,0 +1,17 @@
+One of the biggest successes of the Cassini mission is the detection of small moons (moonlets) embedded
+in Saturn's rings which cause S-shaped density structures in their close vicinity, called propellers
+(Spahn and Sremcevic 2000; Tiscareno et al. 2006; Sremcevic et al. 2007). Here, we present isothermal
+hydrodynamic simulations of moonlet-induced propellers in Saturn's A ring which denote a further
+development of the original model (Spahn and Sremcevic 2000). We find excellent agreement between
+these new hydrodynamic and corresponding N-body simulations. Furthermore, the hydrodynamic
+simulations confirm the predicted scaling laws (Spahn and Sremcevic 2000) and the analytical solution
+for the density in the propeller gaps (Sremcevic et al. 2002). Finally, this mean field approach
+allows us to simulate the pattern of the giant propeller Bleriot, which is too large to be modeled
+by direct N-body simulations. Our results are compared to two stellar occultation observations
+by the Cassini Ultraviolet Imaging Spectrometer (UVIS), that intersect the propeller Bleriot.
+Best fits to the UVIS optical depth profiles are achieved for a Hill radius of 590 m, which implies
+a moonlet diameter of about 860 m. Furthermore, the model favours a kinematic shear viscosity of
+the surrounding ring material of $\nu_0 = 340$ cm^2/s, a dispersion velocity in the range of 0.3 cm/s
+$< c_0 <$ 1.5 cm/s, and a fairly high bulk viscosity $7 < \xi_0/\nu_0 < 17$. These large transport values
+might be overestimated by our isothermal ring model and should be reviewed by an extended model including
+thermal fluctuations. 

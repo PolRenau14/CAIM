@@ -1,0 +1,16 @@
+There have been various studies analyzing public sentiment after a large-scale disaster. However,
+few studies have focused on the relationship between public sentiment on social media and its results
+on people's activities in the real world. In this paper, we conduct a long-term sentiment analysis
+after the Great East Japan Earthquake and Tsunami of 2011 using Facebook Pages with the aim of investigating
+the correlation between public sentiment and people's actual needs in areas damaged by water disasters.
+In addition, we try to analyze whether different types of disaster-related communication created
+different kinds of relationships on people's activities in the physical world. Our analysis reveals
+that sentiment of geo-info-related communication, which might be affected by sentiment inside
+a damaged area, had a positive correlation with the prices of used cars in the damaged area. On the
+other hand, the sentiment of disaster-interest-based-communication, which might be affected
+more by people who were interested in the disaster, but were outside the damaged area, had a negative
+correlation with the prices of used cars. The result could be interpreted to mean that when people
+begin to recover, used-car prices rise because they become more positive in their sentiment. This
+study suggests that, for long-term disaster-recovery analysis, we need to consider the different
+characteristics of online communication posted by locals directly affected by the disaster and
+non-locals not directly affected by the disaster. 

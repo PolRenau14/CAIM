@@ -1,0 +1,16 @@
+To remain competitive in a fast changing environment, many companies started to migrate their legacy
+applications towards a Microservices architecture. Such extensive migration processes require
+careful planning and consideration of implications and challenges likewise. In this regard, hands-on
+experiences from industry practice are still rare. To fill this gap in scientific literature, we
+contribute a qualitative study on intentions, strategies, and challenges in the context of migrations
+to Microservices. We investigated the migration process of 14 systems across different domains
+and sizes by conducting 16 in-depth interviews with software professionals from 10 companies.
+We present a separate description of each case and summarize the most important findings. As primary
+migration drivers, maintainability and scalability were identified. Due to the high complexity
+of their legacy systems, most companies preferred a rewrite using current technologies over splitting
+up existing code bases. This was often caused by the absence of a suitable decomposition approach.
+As such, finding the right service cut was a major technical challenge, next to building the necessary
+expertise with new technologies. Organizational challenges were especially related to large,
+traditional companies that simultaneously established agile processes. Initiating a mindset
+change and ensuring smooth collaboration between teams were crucial for them. Future research
+on the evolution of software systems will in particular profit from the individual cases presented.

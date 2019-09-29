@@ -1,0 +1,16 @@
+Galaxy mergers and interactions are an integral part of our basic understanding of how galaxies
+grow and evolve over time. However, the effect that galaxy mergers have on star formation rates (SFR)
+is contested, with observations of galaxy mergers showing reduced, enhanced and highly enhanced
+star formation. We aim to determine the effect of galaxy mergers on the SFR of galaxies using statistically
+large samples of galaxies, totalling over 200\,000, over a large redshift range, 0.0 to 4.0. We train
+and use convolutional neural networks to create binary merger identifications (merger or non-merger)
+in the SDSS, KiDS and CANDELS imaging surveys. We then compare the galaxy main sequence subtracted
+SFR of the merging and non-merging galaxies to determine what effect, if any, a galaxy merger has
+on SFR. We find that the SFR of merging galaxies are not significantly different from the SFR of non-merging
+systems. The changes in the average SFR seen in the star forming population when a galaxy is merging
+are small, of the order of a factor of 1.2. However, the higher the SFR above the galaxy main sequence,
+the higher the fraction of galaxy mergers. Galaxy mergers have little effect on the SFR of the majority
+of merging galaxies compared to the non-merging galaxies. The typical change in SFR is less than
+0.1~dex in either direction. Larger changes in SFR can be seen but are less common. The increase in
+merger fraction as the distance above the galaxy main sequence increases demonstrates that galaxy
+mergers can induce starbursts. 

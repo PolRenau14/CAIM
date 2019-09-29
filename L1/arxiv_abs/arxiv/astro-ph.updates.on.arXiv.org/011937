@@ -1,0 +1,16 @@
+The "sloshing" of the cold gas in the cores of relaxed clusters of galaxies is a widespread phenomenon,
+evidenced by the presence of spiral-shaped "cold fronts" in X-ray observations of these systems.
+In simulations, these flows of cold gas readily form by interactions of the cluster core with small
+subclusters, due to a separation of the cold gas from the dark matter (DM), due to their markedly different
+collisionalities. In this work, we use numerical simulations to investigate the effects of increasing
+the DM collisionality on sloshing cold fronts in a cool-core cluster. For clusters in isolation,
+the formation of a flat DM core via self-interactions results in modest adiabatic expansion and
+cooling of the core gas. In merger simulations, cold fronts form in the same manner as in previous
+simulations, but the flattened potential in the core region enables the gas to expand to larger radii
+in the initial stages. Upon infall, the subcluster's DM mass decreases via collisions, reducing
+its influence on the core. Thus, the sloshing gas moves slower, inhibiting the growth of fluid instabilities
+relative to simulations where the DM cross section is zero. This also inhibits turbulent mixing
+and the increase in entropy that would otherwise result. For values of the cross section $\sigma/m
+> 1$, subclusters do not survive as self-gravitating structures for more than two core passages.
+Additionally, separations between the peaks in the X-ray emissivity and thermal Sunyaev-Zeldovich
+effect signals during sloshing may place constraints on DM self-interactions. 

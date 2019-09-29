@@ -1,0 +1,16 @@
+We simulate an actin filament as an automaton network. Every atom takes two or three states and updates
+its state, in discrete time, depending on a ratio of its neighbours in some selected state. All atoms/automata
+simultaneously update their states by the same rule. Two state transition rules are considered.
+In semi-totalistic Game of Life like actin filament automaton atoms take binary states `0' and `1'
+and update their states depending on a ratio of neighbours in the state `1'. In excitable actin filament
+automaton atoms take three states: resting, excited and refractory. A resting atom excites if a
+ratio of its excited neighbours belong to some specified interval; transitions from excited state
+to refractory state and from refractory state to resting state are unconditional. In computational
+experiments we implement mappings of 8-bit input string to 8-bit output string via dynamics of perturbation/excitation
+on actin filament automata. We assign eight domains in an actin filament as I/O ports. To write {\sc
+True} to a port we perturb/excite a certain percentage of the nodes in the domain corresponding to
+the port. We read outputs at the ports after some time interval. A port is considered to be in a state
+{\sc True} if a number of excited nodes in the port's domain exceed a certain threshold. A range of
+eight-argument Boolean functions is uncovered in a series of computational trials when all possible
+configurations of eight-elements binary strings were mapped onto excitation outputs of the I/O
+domains. 

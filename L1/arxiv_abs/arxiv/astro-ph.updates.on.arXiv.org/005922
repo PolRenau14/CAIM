@@ -1,0 +1,16 @@
+We present the umbrella sampling (US) technique and show that it can be used to sample extremely low
+probability areas of the posterior distribution that may be required in statistical analyses of
+data. In this approach sampling of the target likelihood is split into sampling of multiple biased
+likelihoods confined within individual umbrella windows. We show that the US algorithm is efficient
+and highly parallel and that it can be easily used with other existing MCMC samplers. The method allows
+the user to capitalize on their intuition and define umbrella windows and increase sampling accuracy
+along specific directions in the parameter space. Alternatively, one can define umbrella windows
+using an approach similar to parallel tempering. We provide a public code that implements umbrella
+sampling as a standalone python package. We present a number of tests illustrating the power of the
+US method in sampling low probability areas of the posterior and show that this ability allows a considerably
+more robust sampling of multi-modal distributions compared to the standard sampling methods.
+We also present an application of the method in a real world example of deriving cosmological constraints
+using the supernova type Ia data. We show that umbrella sampling can sample the posterior accurately
+down to the $\approx 15\sigma$ credible region in the $\Omega_{\rm m}-\Omega_\Lambda$ plane,
+while for the same computational work the affine-invariant MCMC sampling implemented in the {\tt
+emcee} code samples the posterior reliably only to $\approx 3\sigma$. 

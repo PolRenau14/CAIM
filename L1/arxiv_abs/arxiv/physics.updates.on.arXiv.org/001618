@@ -1,0 +1,16 @@
+A systematic asymptotic study is conducted for the dynamic Poisson-Nernst-Planck (PNP) system,
+that describes the transport of ions. One intriguing feature of this system is the presence of a thin
+boundary/Debye layer, and this presents significant challenges on numerical computation and
+on deriving macroscopic continuum models for cellular structures from microscopic description.
+This work mainly focuses on the one-dimensional system, including the general multi-ion case.
+We manage to derive an electro-neutral (EN) system for the bulk region, with a variety of effective
+boundary conditions reduced from original ones. Then, this EN system can be solved directly and
+efficiently without calculating the solution in boundary layer. The derivation is based on matched
+asymptotics, and the key idea is to bring back some higher order contributions into effective boundary
+conditions. For flux boundary conditions, these effective conditions are physically incorrect
+to omit such contributions, which account for accumulation of ions in boundary layer; while for
+Dirichlet boundary conditions, they can be considered as generalization of continuity of electrochemical
+potential. The validity of the EN system is verified by a number of numerical examples. Particularly,
+we have derived an EN model for neuronal axon by combining with the Hodgkin-Huxley model, and demonstrated
+the phenomenon of action potential. The computational time is significantly reduced, since the
+it needs less mesh points and allows relatively large time step. 

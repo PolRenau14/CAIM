@@ -1,0 +1,17 @@
+We study cosmological solutions in nonlocal teleparallel gravity or $f(T)$ theory, where $T$ is
+the torsion scalar in teleparallel gravity. This is a natural extenstion of the usual teleparallel
+gravity with nonlocal terms. In this work the phase space portrait proposed to describe the dynamics
+of an arbitrary flat, homogeneous cosmological background with a number of matter contents, both
+in early and late time epochs. The aim was to convert the system of the equations of the motion to a first
+order autonomous dynamical system and to find fixed points and attractors using numerical codes.
+For this purpose, firstly we derive effective forms of cosmological field equations describing
+the whole cosmic evolution history in a homogeneous and isotropic cosmological background and
+construct the autonomous system of the first order dynamical equations. In addition, we investigate
+the local stability in the dynamical systems called "the stable/unstable manifold" by introducing
+a specific form of the interaction between matter, dark energy, radiation and a scalar field. Furthermore,
+we explore the exact solutions of the cosmological equations in the case of de Sitter spacetime.
+In particular, we examine the role of an auxiliary function called "gauge" $\eta$ in the formation
+of such cosmological solutions and show whether the de Sitter solutions can exist or not. Moreover,
+we study the stability issue of the de Sitter solutions both in vacuum and non-vacuum spacetimes.
+It is demonstrated that for nonlocal $f(T)$ gravity, the stable de Sitter solutions can be produced
+even in vacuum spacetime. 

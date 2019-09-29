@@ -1,0 +1,16 @@
+In this paper, the minimization of computational cost on evaluating multi-dimensional integrals
+is explored. More specifically, a method based on an adaptive scheme for error variance selection
+in Monte Carlo integration (MCI) is presented. It uses a stochastic Efficient Global Optimization
+(sEGO) framework to guide the optimization search. The MCI is employed to approximate the integrals,
+because it provides the variance of the error in the integration. In the proposed approach, the variance
+of the integration error is included into a Stochastic Kriging framework by setting a target variance
+in the MCI. We show that the variance of the error of the MCI may be controlled by the designer and that
+its value strongly influences the computational cost and the exploration ability of the optimization
+process. Hence, we propose an adaptive scheme for automatic selection of the target variance during
+the sEGO search. The robustness and efficiency of the proposed adaptive approach were evaluated
+on global optimization stochastic benchmark functions as well as on a tuned mass damper design problem.
+The results showed that the proposed adaptive approach consistently outperformed the constant
+approach and a multi-start optimization method. Moreover, the use of MCI enabled the method application
+in problems with high number of stochastic dimensions. On the other hand, the main limitation of
+the method is inherited from sEGO coupled with the Kriging metamodel: the efficiency of the approach
+is reduced when the number of design variables increases. 

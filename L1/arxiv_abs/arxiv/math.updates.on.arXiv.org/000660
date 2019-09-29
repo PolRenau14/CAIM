@@ -1,0 +1,16 @@
+Many statistical methods require solutions to optimization problems. When the global solution
+is hard to attain, statisticians always use the better if there are two solutions for chosen, where
+the word "better" is understood in the sense of optimization. This seems reasonable in that the better
+solution is more likely to be the global solution, whose statistical properties of interest usually
+have been well established. From the statistical perspective, we use the better solution because
+we intuitively believe the principle, called better solution principle (BSP) in this paper, that
+a better solution to a statistical optimization problem also has better statistical properties
+of interest. BSP displays some concordance between optimization and statistics, and is expected
+to widely hold. Since theoretical study on BSP seems to be neglected by statisticians, this paper
+aims to establish a framework for discussing BSP in various statistical optimization problems.
+We demonstrate several simple but effective comparison theorems as the key results of this paper,
+and apply them to verify BSP in commonly encountered statistical optimization problems, including
+maximum likelihood estimation, best subsample selection, and best subset regression. It can be
+seen that BSP for these problems holds under reasonable conditions, i.e., a better solution indeed
+has better statistical properties of interest. In addition, guided by the BSP theory, we develop
+a new best subsample selection method that performs well when there are clustered outliers. 

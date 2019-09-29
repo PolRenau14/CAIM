@@ -1,0 +1,17 @@
+The LPCTrap experiment uses an open Paul trap which was built to enable precision measurements in
+the beta decay of radioactive ions. The initial goal was the precise measurement of the beta-neutrino
+angular correlation coefficient in the decay of 6He. Its geometry results from a careful optimization
+of the harmonic potential created by cylindrical electrodes. It supersedes previously considered
+geometries that presented a smaller detection solid angle to the beta particle and the recoiling
+ion. We describe here the methods which were used for the potential optimization, and we present
+the measured performances in terms of trapping time, cloud size and temperature, and space charge
+related limits. The properties of the ion cloud at equilibrium are well reproduced by a simple numerical
+simulation using hard sphere collisions, which additionally gives insights on the trapping loss
+mechanism. The interpretation for the observed trapping liftetimes is further corroborated by
+a model recently developed for ion clouds in Paul traps. The open trap shall serve other projects.
+It is currently used for commissioning purpose in the TRAPSENSOR experiment and is also considered
+in tests of the Standard Model involving the beta decay of polarized $^{23}$Mg and $^{39}$Ca ion
+in the frame of the MORA experiment. The latter tests require in-trap polarization of the ions and
+further optimization of the trapping and detection setup. Based on the results of the simulations
+and of their interpretations given by the model, different improvements of the trapping setup are
+discussed. 

@@ -1,0 +1,16 @@
+On the surface of a rapidly rotating neutron star, the effective centrifugal force decreases the
+effective acceleration due to gravity (as measured in the rotating frame) at the equator while increasing
+the acceleration at the poles due to the centrifugal flattening of the star into an oblate spheroid.
+We compute the effective gravitational acceleration for relativistic rapidly rotating neutron
+stars and show that for a star with mass $M$, equatorial radius $R_e$, and angular velocity $\Omega$,
+the deviations of the effective acceleration due to gravity from the nonrotating case take on a universal
+form that depends only on the compactness ratio $M/R_e$, the dimensionless square of the angular
+velocity $\Omega^2R_e^3/GM$, and the latitude on the star's surface. This dependence is universal,
+in that it has very little dependence on the neutron star's equation of state. The effective gravity
+is expanded in the slow rotation limit to show the dependence on the effective centrifugal force,
+oblate shape of the star and the quadrupole moment of the gravitational field. In addition, an empirical
+fit and simple formula for the effective gravity is found. We find that the increase in the acceleration
+due to gravity at the poles is of the same order of magnitude as the decrease in the effective acceleration
+due to gravity at the equator for all realistic value of mass, radius and spin. For neutron stars that
+spin with frequencies near 600 Hz the difference between the effective gravity at the poles and the
+equator is about 20%. 

@@ -1,0 +1,17 @@
+We prove new a posteriori error estimates for surface finite element methods (SFEM). Surface FEM
+approximate solutions to PDE posed on surfaces. Prototypical examples are elliptic PDE involving
+the Laplace-Beltrami operator. Typically the surface is approximated by a polyhedral or higher-order
+polynomial approximation. The resulting FEM exhibits both a geometric consistency error due to
+the surface approximation and a standard Galerkin error. A posteriori estimates for SFEM require
+practical access to geometric information about the surface in order to computably bound the geometric
+error. It is thus advantageous to allow for maximum flexibility in representing surfaces in practical
+codes when proving a posteriori error estimates for SFEM. However, previous a posteriori estimates
+using general parametric surface representations are suboptimal by one order on $C^2$ surfaces.
+Proofs of error estimates optimally reflecting the geometric error instead employ the closest
+point projection, which is defined using the signed distance function. Because the closest point
+projection is often unavailable or inconvenient to use computationally, a posteriori estimates
+using the signed distance function have notable practical limitations. We merge these two perspectives
+by assuming {\it practical} access only to a general parametric representation of the surface,
+but using the distance function as a {\it theoretical} tool. This allows us to derive sharper geometric
+estimators which exhibit improved experimentally observed decay rates when implemented in adaptive
+surface finite element algorithms. 

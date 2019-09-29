@@ -1,0 +1,16 @@
+The spectral components of the prompt emission of gamma-ray bursts (GRBs) mainly consist of two
+possible origins: synchrotron (non-thermal) and photosphere (thermal). The typically spectral
+properties of GRBs can be modeled by a dominant non-thermal component (Band-like function or cutoff
+power-law), some of them have an additional thermal component (Planck-like function). In this
+paper, in order to study how the thermal components affect the non-thermal spectral parameters,
+we focus on eight {\it Fermi}-GBM bursts of which the spectra deviate from a Band-only function,
+and the thermal components are significant. We sort them into thermal-sub-dominant Group I (e.g.
+GRB 110721A) and thermal-dominant Group II (e.g., GRB 090902B). Several interesting results are
+found if assuming the spectral component is totally contributed from the non-thermal component:
+(i) the low-energy photon index $\alpha$ becomes harder; (ii) the peak energy $E_{\rm c}$, is significantly
+smaller, and lies between the peak temperature of blackbody component and the peak energy of CPL+BB
+model; (iii) total flux $F$, is generally the same; (iv) the changes ($\Delta \alpha$ and $\Delta
+E_{\rm c}$) are positively correlated with the ratio between the thermal flux and total flux; (v)
+parameter relations ($F-\alpha$, $F-E_{\rm c}$ and $E_{\rm c}$-$\alpha$) also changed prominently.
+The GRBs in both the groups show the same results. Our analysis indicates that the thermal component
+is important, and it markedly affects the spectral parameters, and the consequent physical interpretations.

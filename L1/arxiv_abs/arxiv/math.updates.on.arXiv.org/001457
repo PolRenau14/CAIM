@@ -1,0 +1,17 @@
+In this paper we investigate the sensitivity analysis of parameterized nonlinear variational
+inequalities of second kind in a Hilbert space. The challenge of the present work is to take into account
+a perturbation on all the data of the problem. This requires special adjustments in the definitions
+of the generalized first- and second-order differentiations of the involved operators and functions.
+Precisely, we extend the notions, introduced and thoroughly studied by R.T. Rockafellar, of twice
+epi-differentiability and proto-differentiability to the case of a parameterized lower semi-continuous
+convex function and its subdifferential respectively. The link between these two notions is tied
+to Attouch's theorem and to the new concept, introduced in this paper, of convergent supporting
+hyperplanes. The previous tools allow us to derive an exact formula of the proto-derivative of the
+generalized proximity operator associated to a parameterized variational inequality, and deduce
+the differentiability of the associated solution with respect to the parameter. Furthermore,
+the derivative is shown to be the solution of a new variational inequality involving semi- and twice
+epi-derivatives of the data. An application is given to parameterized convex optimization problems
+involving the sum of two convex functions (one of them being smooth). The case of smooth convex optimization
+problems with inequality constraints is discussed in details. This approach seems to be new in the
+literature and open several perspectives towards theoretical and computational issues in nonlinear
+optimization. 

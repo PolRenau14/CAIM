@@ -1,0 +1,17 @@
+Space-based missions such as Kepler, and soon TESS, provide large datasets that must be analyzed
+efficiently and systematically. Recent work by Shallue & Vanderburg (2018) successfully used
+state-of-the-art deep learning models to automatically classify Kepler transit signals as either
+exoplanets or false positives; our application of their model yielded 95.8% accuracy and 95.5%
+average precision. Here we expand upon that work by including additional scientific domain knowledge
+into the network architecture and input representations to significantly increase overall model
+performance to 97.5% accuracy and 98.0% average precision. Notably, we achieve 15-20% gains in
+recall for the lowest signal-to-noise transits that can correspond to rocky planets in the habitable
+zone. We input into the network centroid time-series information derived from Kepler data plus
+key stellar parameters taken from the Kepler DR25 catalogue. We also implement data augmentation
+techniques to alleviate model over-fitting. These improvements allow us to drastically reduce
+the size of the model, while still maintaining improved performance; smaller models are better
+for generalization, for example from Kepler to TESS data. This work illustrates the importance
+of including expert domain knowledge in even state-of-the-art deep learning models when applying
+them to scientific research problems that seek to identify weak signals in noisy data. This classification
+tool will be especially useful for upcoming space-based photometry missions focused on finding
+small planets, such as TESS and PLATO. 

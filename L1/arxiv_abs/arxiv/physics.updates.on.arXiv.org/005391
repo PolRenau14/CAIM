@@ -1,0 +1,16 @@
+Recently it was shown that the centrifugal instability may be important in the dynamics of astrophysical
+jets undergoing reconfinement by external pressure. However, these studies were limited to the
+case of unmagnetised flows. Here we explore the role of the magnetic field within both the Newtonian
+and relativistic frameworks. Since the jet problem is rather complicated, we focus instead on the
+simpler problem of cylindrical rotation and axial magnetic field, which shares significant similarity
+with the jet problem, and consider only axisymmetric perturbations. The studied equilibrium configurations
+involve a cylindrical interface and they are stable to non-magnetic centrifugal and magneto-rotational
+instabilities everywhere except this interface. We use a heuristic approach to derive the local
+stability criterion for the interface in the magnetic case and numerical simulations to verify
+the role of the magnetic field. The theory and simulations agree quite well for Newtonian models
+but indicate a potential discrepancy for the relativistic models in the limit of high Lorentz factor
+of the rotational motion at the interface. In general, the magnetic field sets a critical wavelength
+below which the centrifugal modes are stabilised. We discuss the implication of our findings for
+the astrophysical jets, which suggest that the centrifugal instability develops only in jets with
+relatively low magnetisation. Namely, the magnetic pressure has to be below the thermal one and
+for the relativistic case the jets have to be kinetic-energy dominated. 

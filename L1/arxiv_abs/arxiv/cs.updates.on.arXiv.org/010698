@@ -1,0 +1,16 @@
+We introduce a dynamic generative model, Bayesian allocation model (BAM), which establishes explicit
+connections between nonnegative tensor factorization (NTF), graphical models of discrete probability
+distributions and their Bayesian extensions, and the topic models such as the latent Dirichlet
+allocation. BAM is based on a Poisson process, whose events are marked by using a Bayesian network,
+where the conditional probability tables of this network are then integrated out analytically.
+We show that the resulting marginal process turns out to be a Polya urn, an integer valued self-reinforcing
+process. This urn processes, which we name a Polya-Bayes process, obey certain conditional independence
+properties that provide further insight about the nature of NTF. These insights also let us develop
+space efficient simulation algorithms that respect the potential sparsity of data: we propose
+a class of sequential importance sampling algorithms for computing NTF and approximating their
+marginal likelihood, which would be useful for model selection. The resulting methods can also
+be viewed as a model scoring method for topic models and discrete Bayesian networks with hidden variables.
+The new algorithms have favourable properties in the sparse data regime when contrasted with variational
+algorithms that become more accurate when the total sum of the elements of the observed tensor goes
+to infinity. We illustrate the performance on several examples and numerically study the behaviour
+of the algorithms for various data regimes. 

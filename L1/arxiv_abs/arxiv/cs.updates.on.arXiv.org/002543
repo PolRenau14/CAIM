@@ -1,0 +1,16 @@
+Understanding tie strength in social networks, and the factors that influence it, have received
+much attention in a myriad of disciplines for decades. Several models incorporating indicators
+of tie strength have been proposed and used to quantify relationships in social networks, and a standard
+set of structural network metrics have been applied to predominantly online social media sites
+to predict tie strength. Here, we introduce the concept of the "social bow tie" framework, a small
+subgraph of the network that consists of a collection of nodes and ties that surround a tie of interest,
+forming a topological structure that resembles a bow tie. We also define several intuitive and interpretable
+metrics that quantify properties of the bow tie. We use random forests and regression models to predict
+categorical and continuous measures of tie strength from different properties of the bow tie, including
+nodal attributes. We also investigate what aspects of the bow tie are most predictive of tie strength
+in two distinct social networks: a collection of 75 rural villages in India and a nationwide call
+network of European mobile phone users. Our results indicate several of the bow tie metrics are highly
+predictive of tie strength, and we find the more the social circles of two individuals overlap, the
+stronger their tie, consistent with previous findings. However, we also find that the more tightly-knit
+their non-overlapping social circles, the weaker the tie. This new finding complements our current
+understanding of what drives the strength of ties in social networks. 

@@ -1,0 +1,16 @@
+In the era of large-scale surveys of stars in the Milky Way, stellar ages are crucial for studying
+the evolution of the Galaxy. But determining ages of field stars is notoriously difficult; therefore,
+we attempt to determine benchmark ages for the extensively studied Gaia benchmark stars which can
+be used for validation purposes. By searching the literature for age estimates from different methods
+and deriving new ages based on Bayesian isochrone fitting, we are able to put reliable limits on the
+ages of 16 out of the 33 benchmark stars. The giants with well-defined ages are all young, and an expansion
+of the sample to include older giants with asteroseismic ages would be beneficial. Some of the stars
+have surface parameters inconsistent with isochrones younger than 16 Gyr. Including $\alpha$-enhancement
+in the models when relevant resolves some of these cases, but others clearly highlight discrepancies
+between the models and observations. We test the impact of atomic diffusion on the age estimates
+by fitting to the actual surface metallicity of the models instead of the initial value and find that
+the effect is negligible except for a single turn-off star. Finally, we show that our ability to determine
+isochrone-based ages for large spectroscopic surveys largely mirrors our ability to determine
+ages for these benchmark stars, except for stars with $\log g \gtrsim 4.4$ dex since their location
+in the HR diagram is almost age insensitive. Hence, isochrone fitting does not constrain their ages
+given the typical uncertainties of spectroscopic stellar parameters. 

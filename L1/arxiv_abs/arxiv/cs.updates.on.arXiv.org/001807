@@ -1,0 +1,16 @@
+With the rapidly increasing interest in machine learning based solutions for automatic image annotation,
+the availability of reference image annotations for algorithm training is one of the major bottlenecks
+in the field. Crowdsourcing has evolved as a valuable option for low-cost and large-scale data annotation;
+however, quality control remains a major issue which needs to be addressed. To our knowledge, we
+are the first to investigate the analysis of clickstreams to improve crowd-based image segmentation.
+Our method involves training a regressor to estimate a worker's segmentation performance from
+the clickstream data, where the performance is represented by the DICE similarity coefficient
+(DSC) comparing the worker's annotation and the reference segmentation. The DSC prediction can
+be used to identify spammers and weight individual workers by their (estimated) skill when merging
+multiple segmentations of one image. Using a total of 20,000 crowd annotations performed on publicly
+available data of cars and cats, we show that (1) our method is highly accurate in predicting the DSC
+based on clickstream data and thus outperforms state-of-the-art methods for merging multiple
+annotations and that (2) the regressor does not need to be trained on the object class (e.g. cars)
+that it is applied to (e.g. cats). In contrast to previously proposed methods, our approach does
+not rely on additional sanity tasks and can thus be regarded as a low-cost option for spam control
+and confidence analysis in the context of crowd-based image annotation. 

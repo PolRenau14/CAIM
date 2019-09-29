@@ -1,0 +1,17 @@
+The quasilinear particle flux arising from gyrokinetic instabilities is calculated in the electrostatic
+and collisionless approximation, keeping the geometry of the magnetic field arbitrary. In particular,
+the flux of electrons and heavy impurity ions is studied in the limit where the former move quickly,
+and the latter slowly, along the field compared with the mode frequency. Conclusions are drawn about
+how the particle fluxes of these species depend on the magnetic-field geometry, mode structure
+and frequency of the instability. Under some conditions, such as everywhere favourable or unfavourable
+magnetic curvature and modest temperature gradients, it is possible to make general statements
+about the fluxes independently of the details of the instability. In quasi-isodynamic stellarators
+with favourable bounce-averaged curvature for most particles, the particle flux is always outward
+if the temperature gradient is not too large, suggesting that it might be difficult to fuel such devices
+with gas puffing from the wall. In devices with predominantly unfavourable magnetic curvature,
+the particle flux can be inward, resulting in spontaneous density peaking in the centre of the plasma.
+In the limit of highly charged impurities, ordinary diffusion (proportional to the density gradient)
+dominates over other transport channels and the diffusion coefficient becomes independent of
+mass and charge. An estimate for the level of transport caused by magnetic-field fluctuations arising
+from ion-temperature-gradient instabilities is also given and is shown to be small compared with
+the electrostatic component. 

@@ -1,0 +1,17 @@
+We analyze the achievable information rates (AIRs) for coded modulation schemes with QAM constellations
+with both bit-wise and symbol-wise decoders, corresponding to the case where a binary code is used
+in combination with a higher-order modulation using the bit-interleaved coded modulation (BICM)
+paradigm and to the case where a nonbinary code over a field matched to the constellation size is used,
+respectively. In particular, we consider hard decision decoding, which is the preferable option
+for fiber-optic communication systems where decoding complexity is a concern. Recently, Liga
+\emph{et al.} analyzed the AIRs for bit-wise and symbol-wise decoders considering what the authors
+called \emph{hard decision decoder} which, however, exploits \emph{soft information} of the
+transition probabilities of discrete-input discrete-output channel resulting from the hard
+detection. As such, the complexity of the decoder is essentially the same as the complexity of a soft
+decision decoder. In this paper, we analyze instead the AIRs for the standard hard decision decoder,
+commonly used in practice, where the decoding is based on the Hamming distance metric. We show that
+if standard hard decision decoding is used, bit-wise decoders yield significantly higher AIRs
+than symbol-wise decoders. As a result, contrary to the conclusion by Liga \emph{et al.}, binary
+decoders together with the BICM paradigm are preferable for spectrally-efficient fiber-optic
+systems. We also design binary and nonbinary staircase codes and show that, in agreement with the
+AIRs, binary codes yield better performance. 

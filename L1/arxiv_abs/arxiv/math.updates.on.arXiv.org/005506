@@ -1,0 +1,16 @@
+Similar to existing codes, puncturing and shortening are two general ways to obtain an arbitrary
+code length and code rate for polar codes. When some of the coded bits are punctured or shortened,
+it is equivalent to a situation in which the underlying channels of the polar codes are different.
+Therefore, the quality of bit channels with puncturing or shortening differ from the original qualities,
+which can greatly affect the construction of polar codes. In this paper, a general construction
+of polar codes is studied in two aspects: 1) the theoretical foundation of the construction; and
+2) the hardware implementation of polar codes encoders. In contrast to the original identical and
+independent binary-input, memoryless, symmetric (BMS) channels, these underlying BMS channels
+can be different. For binary erasure channel (BEC) channels, recursive equations can be employed
+assuming independent BMS channels. For all other channel types, the proposed general construction
+of polar codes is based on the existing Tal-Vardy's procedure. The symmetric property and the degradation
+relationship are shown to be preserved under the general setting, rendering the possibility of
+a modification of Tal-Vardy's procedure. Simulation results clearly show improved error performance
+with re-ordering using the proposed new procedures. In terms of hardware, a novel pruned folded
+encoder architecture is proposed which saves the computation for the beginning frozen bits. Implementation
+results show the pruned encoder achieve 28% throughput improvement. 

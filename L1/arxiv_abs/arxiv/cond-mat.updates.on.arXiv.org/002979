@@ -1,0 +1,16 @@
+Reliable models of the thermodynamic properties of materials are critical for industrially relevant
+applications that require a good understanding of equilibrium phase diagrams, thermal and chemical
+transport, and microstructure evolution. The goal of thermodynamic models is to capture data from
+both experimental and computational studies and then make reliable predictions when extrapolating
+to new regions of parameter space. These predictions will be impacted by artifacts present in real
+data sets such as outliers, systematics errors and unreliable or missing uncertainty bounds. Such
+issues increase the probability of the thermodynamic model producing erroneous predictions.
+We present a Bayesian framework for the selection, calibration and quantification of uncertainty
+of thermodynamic property models. The modular framework addresses numerous concerns regarding
+thermodynamic models including thermodynamic consistency, robustness to outliers and systematic
+errors by the use of hyperparameter weightings and robust Likelihood and Prior distribution choices.
+Furthermore, the framework's inherent transparency (e.g. our choice of probability functions
+and associated parameters) enables insights into the complex process of thermodynamic assessment.
+We introduce these concepts through examples where the true property model is known. In addition,
+we demonstrate the utility of the framework through the creation of a property model from a large
+set of experimental specific heat and enthalpy measurements of Hafnium metal from 0 to 4900K. 

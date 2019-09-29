@@ -1,0 +1,16 @@
+We examine the effects that planetary encounters have on the moon systems of ejected gas giant planets.
+We conduct a suite of numerical simulations of planetary systems containing three Jupiter-mass
+planets (with the innermost planet at 3 AU) up to the point where a planet is ejected from the system.
+The ejected planet has an initial system of 100 test-particle moons. We determine the survival probability
+of moons at different distances from their host planet, measure the final distribution of orbital
+elements, examine the stability of resonant configurations, and characterize the properties
+of moons that are stripped from the planets. We find that moons are likely to survive in orbits with
+semi-major axes out beyond 200 planetary radii (0.1 AU in our case). The orbital inclinations and
+eccentricities of the surviving moons are broadly distributed and include nearly hyperbolic orbits
+and retrograde orbits. We find that a large fraction of moons in two-body and three-body mean-motion
+resonances also survive planetary ejection with the resonance intact. The moon-planet interactions,
+especially in the presence of mean-motion resonance, can keep the interior of the moons molten for
+billions of years via tidal flexing, as is seen in the moons of the gas giant planets in the solar system.
+Given the possibility that life may exist in the subsurface ocean of the Galilean satellite Europa,
+these results have implications for life on the moons of rogue planets---planets that drift through
+the galaxy with no host star. 

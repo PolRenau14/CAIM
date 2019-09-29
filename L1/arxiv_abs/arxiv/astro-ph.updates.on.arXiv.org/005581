@@ -1,0 +1,17 @@
+We present a post-processing tool for GADGET-2 adiabatic simulations to model various observed
+properties of the Ly$\alpha$ forest at $2.5 \leq z \leq 4$ that enables an efficient parameter estimation.
+In particular, we model the thermal and ionization histories that are not computed self-consistently
+by default in GADGET-2. We capture the effect of pressure smoothing by running GADGET-2 at an elevated
+temperature floor and using an appropriate smoothing kernel. We validate our procedure by comparing
+different statistics derived from our method with those derived using self-consistent simulations
+with GADGET-3. These statistics are: line of sight density field power spectrum, flux probability
+distribution function, flux power spectrum, wavelet statistics, curvature statistics, HI column
+density (${\rm N_{HI}}$) distribution function, linewidth ($b$) distribution and $b$ versus
+$\log {\rm N_{HI}}$ scatter. For the temperature floor of $10^4$ K and typical signal-to-noise
+of 25, the results agree well within 20 percent of the self-consistent GADGET-3 simulation. However,
+this difference is smaller than the expected $1\sigma$ sample variance for an absorption path length
+of $\sim 5.35$ at $z=3$. Moreover for a given cosmology, we gain a factor of $\sim N$ in computing time
+for modelling the intergalactic medium under $N \gg 1$ different thermal histories. In addition,
+our method allows us to simulate the non-equilibrium evolution of thermal and ionization state
+of the gas and include heating due to non-standard sources like cosmic rays and high energy $\gamma$-rays
+from Blazars. 

@@ -1,0 +1,16 @@
+Metasurfaces are being widely investigated and adopted for their promising performances in manipulating
+optical wavefronts and their potential for integrating multi-functionalities into one flat optical
+device. A key challenge in metasurface design is the non-intuitive design process that produces
+models and patterns from specific design requirements (commonly electromagnetic responses).
+A complete exploration of all design spaces can produce optimal designs but is unrealistic considering
+the massive amount of computation power required to explore large parameter spaces. Meanwhile,
+machine learning techniques, especially generative adversarial networks, have proven to be an
+effective solution to non-intuitive design tasks. In this paper, we present a novel conditional
+generative network that can generate meta-atom/metasurface designs based on different performance
+requirements. Compared to conventional trial-and-error or iterative optimization design methods,
+this new methodology is capable of producing on-demand freeform designs on a one-time calculation
+basis. More importantly, an increased complexity of design goals doesn't introduce further complexity
+into the network structure or the training process, which makes this approach suitable for multi-functional
+device designs. Compared to previous deep learning-based metasurface approaches, our network
+structure is extremely robust to train and converge, and is readily expanded to many multi-functional
+metasurface devices, including metasurface filters, lenses and holograms. 

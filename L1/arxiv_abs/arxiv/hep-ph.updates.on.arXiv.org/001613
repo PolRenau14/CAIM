@@ -1,0 +1,16 @@
+Cosmic-ray (CR) antihelium is an important observable for dark matter (DM) indirect searches due
+to extremely low secondary backgrounds towards low energies. In a given DM model, the predicted
+CR antihelium flux is expected to be strongly correlated with that of CR antiprotons. In this work,
+we use the AMS-02 $\bar p/p$ data to constrain the DM annihilation cross section, and the ALICE data
+on the $^3\overline{\text{He}}$ and $\overline{\text{T}}$ productions to determine the parameters
+in the coalescence model for anti-nucleus formation. The hadronic cross sections are estimated
+using Monte-Carlo event generators including $\texttt{EPOS-LHC}$ and $\texttt{DPMJET}$. Based
+on these constraints, we make predictions for the maximal antihelium flux for typical DM annihilation
+final states, and perform a detailed analysis on the uncertainties due to the DM density profiles
+and CR propagation models. We find that the results are highly insensitive to both of them, but still
+significantly depends on the hadronization models in event generators. The prospects of detecting
+antihelium for the AMS-02 experiment is discussed. We show that with very optimistic assumptions,
+CR $^3\overline{\text{He}}$ is within the reach of the AMS-02 experiment. The $^3\overline{\text{He}}$
+events which can be detected by AMS-02 are likely to have kinetic energy $T \gtrsim 30$~GeV, which
+is consistent with the preliminary AMS-02 search results. The events which can be observed by AMS-02
+are likely to arise dominantly from secondary backgrounds rather than DM interactions. 

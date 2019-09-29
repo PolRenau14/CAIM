@@ -1,0 +1,16 @@
+The suppression factor for single inclusive jets in Pb+Pb collisions at the Large Hadron Collider
+(LHC) has a weak dependence on the transverse momentum $p_T$ and remains almost the same at two colliding
+energies, $\sqrt{s}=2.76$ and 5.02 TeV, though the central rapidity density of bulk hadrons increases
+by about 20\%. This phenomenon is investigated within the Linear Boltzmann Transport (LBT) model,
+which includes elastic and inelastic processes based on perturbative QCD for both jet shower and
+recoil medium partons as they propagate through a quark-gluon plasma (QGP). With the dynamic evolution
+of the QGP given by the 3+1D CLVisc hydrodynamic model with event-by-event fully fluctuating initial
+conditions, single inclusive jet suppression in Pb+Pb collisions from LBT agrees well with experimental
+data. The weak $\sqrt{s}$ and $p_T$-dependence of the jet suppression factor at LHC are found to
+result directly from the $\sqrt{s}$-dependence of the initial jet $p_T$ spectra and slow $p_T$-dependence
+of the jet energy loss. Contributions from jet-induced medium response, influence of radial expansion,
+both of which depend on jet-cone size, and jet flavor composition all conspire to give a slow $p_T$-dependence
+of jet energy loss and the single jet suppression factor $R_{\rm AA}$, their dependence on $\sqrt{s}$
+and jet-cone size. Single inclusive jet suppression at $\sqrt{s}=200$ GeV is also predicted that
+actually decreases slightly with $p_T$ in the $p_T<50$ GeV/$c$ range because of the steeper initial
+jet spectra though the $p_T$-dependence of the jet energy loss is weaker than that at LHC. 

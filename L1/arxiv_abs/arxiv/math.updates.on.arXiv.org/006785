@@ -1,0 +1,16 @@
+The quality of datasets is a critical issue in big data mining. More interesting things could be mined
+from datasets with higher quality. The existence of missing values in geographical data would worsen
+the quality of big datasets. To improve the data quality, the missing values are generally needed
+to be estimated using various machine learning algorithms or mathematical methods such as approximations
+and interpolations. In this paper, we propose an adaptive Radial Basis Function (RBF) interpolation
+algorithm for estimating missing values in geographical data. In the proposed method, the samples
+with known values are considered as the data points, while the samples with missing values are considered
+as the interpolated points. For each interpolated point, first, a local set of data points are adaptively
+determined. Then, the missing value of the interpolated point is imputed via interpolating using
+the RBF interpolation based on the local set of data points. Moreover, the shape factors of the RBF
+are also adaptively determined by considering the distribution of the local set of data points.
+To evaluate the performance of the proposed method, we compare our method with the commonly used
+k Nearest Neighbors (kNN) interpolation and Adaptive Inverse Distance Weighted (AIDW) methods,
+and conduct three groups of benchmark experiments. Experimental results indicate that the proposed
+method outperforms the kNN interpolation and AIDW in terms of accuracy, but worse than the kNN interpolation
+and AIDW in terms of efficiency. 

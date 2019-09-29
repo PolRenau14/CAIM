@@ -1,0 +1,16 @@
+A predicting model for soft Dielectric Elastomer Generators (DEGs) must consider a realistic model
+of the electromechanical behaviour of the elastomer filling, the variable capacitor and of the
+electrical circuit connecting all elements of the device. In this paper such an objective is achieved
+by proposing a complete framework for reliable simulations of soft energy harvesters. In particular,
+a simple electrical circuit is realised by connecting the capacitor, stretched periodically by
+a source of mechanical work, in parallel with a battery through a diode and with an electrical load
+consuming the energy produced. The electrical model comprises resistances simulating the effect
+of the electrodes and of the conductivity current invariably present through the dielectric film.
+As these devices undergo a high number of electro-mechanical loading cycles at large deformation,
+the time-dependent response of the material must be taken into account as it strongly affects the
+generator outcome. To this end, the viscoelastic behaviour of the polymer and the possible change
+of permittivity with strains are analysed carefully by means of a proposed coupled electro-viscoelastic
+constitutive model, calibrated on experimental data available in the literature for an incompressible
+polyacrilate elastomer (3M VHB4910). Numerical results showing the importance of time-dependent
+behaviour on the evaluation of performance of DEGs for different loading conditions, namely equi-biaxial
+and uniaxial, are reported in the final section. 

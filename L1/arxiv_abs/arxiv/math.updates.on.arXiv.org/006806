@@ -1,0 +1,17 @@
+The uniformization and hyperbolization transformations formulated by Bonk, Heinonen and Koskela
+in \emph{"Uniformizing Gromov Hyperbolic Spaces"}, Ast\'erisque {\bf 270} (2001), dealt with
+geometric properties of metric spaces. In this paper we consider metric measure spaces and construct
+a parallel transformation of measures under the uniformization and hyperbolization procedures.
+We show that if a locally compact roughly starlike Gromov hyperbolic space is equipped with a measure
+that is uniformly locally doubling and supports a uniformly local $p$-Poincar\'e inequality,
+then the transformed measure is globally doubling and supports a global $p$-Poincar\'e inequality
+on the corresponding uniformized space. In the opposite direction, we show that such global properties
+on bounded locally compact uniform spaces yield similar uniformly local properties for the transformed
+measures on the corresponding hyperbolized spaces. We use the above results on uniformization
+of measures to characterize when a Gromov hyperbolic space, equipped with a uniformly locally doubling
+measure supporting a uniformly local $p$-Poincar\'e inequality, carries nonconstant globally
+defined $p$-harmonic functions with finite $p$-energy. We also study some geometric properties
+of Gromov hyperbolic and uniform spaces. While the Cartesian product of two Gromov hyperbolic spaces
+need not be Gromov hyperbolic, we construct an indirect product of such spaces that does result in
+a Gromov hyperbolic space. This is done by first showing that the Cartesian product of two bounded
+uniform domains is a uniform domain. 

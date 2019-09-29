@@ -1,0 +1,17 @@
+Helium diffusion in metals is the basic requirement of nucleation and growth of bubble, which gives
+rise to adverse degradation effects on mechanical properties of structural materials in reactors
+under irradiation. Multi-scale modeling scheme has been developed to study effects of helium on
+the long-term microstructural evolution. However, the implementation of Arrhenius law based
+on the quasi-equilibrium reaction process is not appropriate to predict the migration behavior
+of helium in metals due to low-energy barrier. A coarse-grained formula is required to incorporate
+the non-equilibrium nature, e.g., the dissipative friction coefficient $\gamma$. In this paper,
+we derive an analytical expression for $\gamma$ based on a coarse-grained model of Brownian motion
+upon a periodic potential, in terms of dissipative feature of the thermal excitations in the many-body
+dynamical system by constructing an adiabatic relaxation process, which is then confirmed by a
+numerical example of vacancy migration in BCC W. Then the many-body dynamics simulations are performed
+for helium migration in BCC W and Fe, where the classical mobility are obtained and in good agreement
+with the data from experiments and other calculations. Finally, we propose a coarse-grained formula
+for the helium migration in BCC W and Fe, i.e., Eq.(47) in the context, using the calculated parameters
+from the adiabatic relaxation simulations. This work would help to develop a new multi-scale modeling
+scheme for effects of helium in metals, as well as the atomistic reactions with low-energy pathways
+in materials science. 

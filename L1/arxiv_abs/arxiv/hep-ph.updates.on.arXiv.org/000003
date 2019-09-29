@@ -1,0 +1,17 @@
+Gravitational waves at suitable frequencies can resonantly interact with a binary system, inducing
+changes to its orbit. A stochastic gravitational-wave background causes the orbital elements
+of the binary to execute a classic random walk, with the variance of orbital elements growing with
+time. The lack of such a random walk in binaries that have been monitored with high precision over
+long time-scales can thus be used to place an upper bound on the gravitational-wave background.
+Using periastron time data from the Hulse-Taylor binary pulsar spanning ~30 years, we obtain a bound
+of h_c < 7.9*10^(-14) at ~10^(-4) Hz, where h_c is the strain amplitude per logarithmic frequency
+interval. Our constraint complements those from pulsar timing arrays, which probe much lower frequencies,
+and ground-based gravitational-wave observations, which probe much higher frequencies. Interesting
+sources in our frequency band, which overlaps the lower sensitive frequencies of proposed space-based
+observatories, include white-dwarf/supermassive black-hole binaries in the early/late stages
+of inspiral, and TeV scale preheating or phase transitions. The bound improves as (time span)^(-2)
+and (sampling rate)^(-1/2). The Hulse-Taylor constraint can be improved to ~3.8*10^(-15) with
+a suitable observational campaign over the next decade. Our approach can also be applied to other
+binaries, including (with suitable care) the Earth-Moon system, to obtain constraints at different
+frequencies. The observation of additional binary pulsars with the SKA could reach a sensitivity
+of h_c ~ 3*10^(-17). 

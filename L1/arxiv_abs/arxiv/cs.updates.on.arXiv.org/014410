@@ -1,0 +1,17 @@
+The traditional multicopter design method usually requires a long iterative process to find the
+optimal design based on given performance requirements. The method is uneconomical and inefficient.
+In this paper, a practical method is proposed to automatically calculate the optimal multicopter
+design according to the given design requirements including flight time, altitude, payload capacity,
+and maneuverability. The proposed method contains two algorithms: an offline algorithm and an
+online algorithm. The offline algorithm finds the optimal components (propeller and electronic
+speed controller) for each motor to establish its component combination, and subsequently, these
+component combinations and their key performance parameters are stored in a combination database.
+The online algorithm obtains the multicopter design results that satisfy the given requirements
+by searching through the component combinations in the database and calculating the optimal parameters
+for the battery and airframe. Subsequently, these requirement-satisfied multicopter design
+results are obtained and sorted according to an objective function that contains evaluation indexes
+including size, weight, performance, and practicability. The proposed method has the advantages
+of high precision and quick calculating speed because parameter calibrations and time-consuming
+calculations are completed offline. Experiments are performed to validate the effectiveness
+and practicality of the proposed method. Comparisons with the brutal search method and other design
+methods demonstrate the efficiency of the proposed method. 

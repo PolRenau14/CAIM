@@ -1,0 +1,16 @@
+We determine the response of a uniformly rotating star to tidal perturbations due to a companion.
+General periodic orbits and parabolic flybys are considered. We evaluate energy and angular momentum
+exchange rates as a sum of contributions from normal modes allowing for dissipative processes.
+We consider the case when the response is dominated by the contribution of an identifiable regular
+spectrum of low frequency modes, such as gravity modes and evaluate it in the limit of very weak dissipation.
+Our formalism may be applied both to Sun-like stars with radiative cores and convective envelopes
+and to more massive stars with convective cores and radiative envelopes. We provide general expressions
+for transfer of energy and angular momentum valid for an orbit with any eccentricity. Detailed calculations
+are made for Sun-like stars in the slow rotation regime where centrifugal distortion is neglected
+in the equilibrium and the traditional approximation is made for the normal modes. We use both a WKBJ
+procedure and direct numerical evaluation which are found to be in good agreement for regimes of
+interest. Finally we use our formalism to determine the evolution time scales for an object, in an
+orbit of small eccentricity, around a Sun-like star in which the tidal response is assumed to occur.
+Systems with either no rotation or synchronous rotation are considered. Only rotationally modified
+gravity modes are taken into account under the assumption that wave dissipation occurs close to
+the stellar centre. 

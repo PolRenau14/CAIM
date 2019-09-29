@@ -1,0 +1,17 @@
+The need for scalable numerical solutions has motivated the development of asynchronous parallel
+algorithms, where a set of nodes run in parallel with little or no synchronization, thus computing
+with delayed information. This paper studies the convergence of the asynchronous parallel algorithm
+ARock under potentially unbounded delays. ARock is a general asynchronous algorithm that has many
+applications. It parallelizes fixed-point iterations by letting a set of nodes randomly choose
+solution coordinates and update them in an asynchronous parallel fashion. ARock takes some recent
+asynchronous coordinate descent algorithms as special cases and gives rise to new asynchronous
+operator-splitting algorithms. Existing analysis of ARock assumes the delays to be bounded, and
+uses this bound to set a step size that is important to both convergence and efficiency. Other work,
+though allowing unbounded delays, imposes strict conditions on the underlying fixed-point operator,
+resulting in limited applications. In this paper, convergence is established under unbounded
+delays, which can be either stochastic or deterministic. The proposed step sizes are more practical
+and generally larger than those in the existing work. The step size adapts to the delay distribution
+or the current delay being experienced in the system. New Lyapunov functions, which are the key to
+analyzing asynchronous algorithms, are generated to obtain our results. A set of applicable optimization
+algorithms with large-scale applications are given, including machine learning and scientific
+computing algorithms. 

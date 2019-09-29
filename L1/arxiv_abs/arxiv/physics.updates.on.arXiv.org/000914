@@ -1,0 +1,17 @@
+Financial networks are dynamic. To assess their systemic importance to the world-wide economic
+network and avert losses we need models that take the time variations of the links and nodes into account.
+Using the methodology of classical mechanics and Laplacian determinism we develop a model that
+can predict the response of the financial network to a shock. We also propose a way of measuring the
+systemic importance of the banks, which we call BankRank. Using European Bank Authority 2011 stress
+test exposure data, we apply our model to the bipartite network connecting the largest institutional
+debt holders of the troubled European countries (Greece, Italy, Portugal, Spain, and Ireland).
+From simulating our model we can determine whether a network is in a "stable" state in which shocks
+do not cause major losses, or a "unstable" state in which devastating damages occur. Fitting the
+parameters of the model, which play the role of physical coupling constants, to Eurozone crisis
+data shows that before the Eurozone crisis the system was mostly in a "stable" regime, and that during
+the crisis it transitioned into an "unstable" regime. The numerical solutions produced by our model
+match closely the actual time-line of events of the crisis. We also find that, while the largest holders
+are usually more important, in the unstable regime smaller holders also exhibit systemic importance.
+Our model also proves useful for determining the vulnerability of banks and assets to shocks. This
+suggests that our model may be a useful tool for simulating the response dynamics of shared portfolio
+networks. 

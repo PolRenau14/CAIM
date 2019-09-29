@@ -1,0 +1,17 @@
+Understanding the origin of unintentional doping in Ga2O3 is key to increasing breakdown voltages
+of Ga2O3 based power devices. Therefore, transport and capacitance spectroscopy studies have
+been performed to better understand the origin of unintentional doping in Ga2O3. Previously unobserved
+unintentional donors in commercially available (-201) Ga2O3 substrates have been electrically
+characterized via temperature dependent Hall effect measurements up to 1000 K and found to have
+a donor energy of 110 meV. The existence of the unintentional donor is confirmed by temperature dependent
+admittance spectroscopy, with an activation energy of 131 meV determined via that technique, in
+agreement with Hall effect measurements. With the concentration of this donor determined to be
+in the mid to high 10^16 cm^-3 range, elimination of this donor from the drift layer of Ga2O3 power
+electronics devices will be key to pushing the limits of device performance. Indeed, analytical
+assessment of the specific on-resistance (Ronsp) and breakdown voltage of Schottky diodes containing
+the 110 meV donor indicates that incomplete ionization increases Ronsp and decreases breakdown
+voltage as compared to Ga2O3 Schottky diodes containing only the shallow donor. The reduced performance
+due to incomplete ionization occurs in addition to the usual tradeoff between Ronsp and breakdown
+voltage. To achieve 10 kV operation in Ga2O3 Schottky diode devices, analysis indicates that the
+concentration of 110 meV donors must be reduced below 5x10^14 cm^-3 to limit the increase in Ronsp
+to one percent. 

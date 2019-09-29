@@ -1,0 +1,16 @@
+A new analysis of the dataset from the Pierre Auger Observatory provides evidence for anisotropy
+in the arrival directions of ultra-high-energy cosmic rays on an intermediate angular scale, which
+is indicative of excess arrivals from strong, nearby sources. The data consist of 5514 events above
+20 EeV with zenith angles up to 80 deg recorded before 2017 April 30. Sky models have been created for
+two distinct populations of extragalactic gamma-ray emitters: active galactic nuclei from the
+second catalog of hard Fermi-LAT sources (2FHL) and starburst galaxies from a sample that was examined
+with Fermi-LAT. Flux-limited samples, which include all types of galaxies from the Swift-BAT and
+2MASS surveys, have been investigated for comparison. The sky model of cosmic-ray density constructed
+using each catalog has two free parameters, the fraction of events correlating with astrophysical
+objects and an angular scale characterizing the clustering of cosmic rays around extragalactic
+sources. A maximum-likelihood ratio test is used to evaluate the best values of these parameters
+and to quantify the strength of each model by contrast with isotropy. It is found that the starburst
+model fits the data better than the hypothesis of isotropy with a statistical significance of 4.0
+sigma, the highest value of the test statistic being for energies above 39 EeV. The three alternative
+models are favored against isotropy with 2.7-3.2 sigma significance. The origin of the indicated
+deviation from isotropy is examined and prospects for more sensitive future studies are discussed.

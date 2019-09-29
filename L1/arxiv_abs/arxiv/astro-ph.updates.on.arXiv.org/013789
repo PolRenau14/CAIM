@@ -1,0 +1,17 @@
+We present the MARD-Y3 catalog of between 1086 and 2171 galaxy clusters (52\% and 65\% new) produced
+using multi-component matched filter (MCMF) followup in 5000\,deg$^2$ of DES-Y3 optical data
+of the $\sim$20000 overlapping 2RXS X-ray sources. Optical counterparts are identified as peaks
+in galaxy richness as a function of redshift along the line of sight toward each 2RXS source within
+a search region informed by an X-ray prior. All peaks are assigned a probability \fcont\ of being
+a random superposition. The clusters lie at $0.02<z<1.1$ with more than 100 clusters at $z>0.5$.
+Residual contamination is 2.6\% and 9.6\% for the cuts adopted here. For each cluster we present
+the optical center, redshift, rest frame X-ray luminosity, $M_{500}$ mass, coincidence with NWAY
+infrared sources and estimators of dynamical state. About 2\% of MARD-Y3 clusters have multiple
+possible counterparts, the photo-z's are high quality with $\sigma_{\Delta z/(1+z)}=0.0046$,
+and $\sim$1\% of clusters exhibit evidence of X-ray luminosity boosting from emission by cluster
+AGN. Comparison with other catalogs (MCXC, RM, SPT-SZ, Planck) is performed to test consistency
+of richness, luminosity and mass estimates. We measure the MARD-Y3 X-ray luminosity function and
+compare it to the expectation from a fiducial cosmology and externally calibrated luminosity-
+and richness-mass relations. Agreement is good, providing evidence that MARD-Y3 has low contamination
+and can be understood as a simple two step selection-- X-ray and then optical-- of an underlying cluster
+population described by the halo mass function. 

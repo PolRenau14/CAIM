@@ -1,0 +1,16 @@
+The ability of a P2P network to scale its throughput up in proportion to the arrival rate of peers has
+recently been shown to be crucially dependent on the chunk sharing policy employed. Some policies
+can result in low frequencies of a particular chunk, known as the missing chunk syndrome, which can
+dramatically reduce throughput and lead to instability of the system. For instance, commonly used
+policies that nominally "boost" the sharing of infrequent chunks such as the well known rarest-first
+algorithm have been shown to be unstable. Recent efforts have largely focused on the careful design
+of boosting policies to mitigate this issue. We take a complementary viewpoint, and instead consider
+a policy that simply prevents the sharing of the most frequent chunk(s). Following terminology
+from statistics wherein the most frequent value in a data set is called the mode, we refer to this policy
+as mode-suppression. We also consider a more general version that suppresses the mode only if the
+mode frequency is larger than the lowest frequency by a fixed threshold. We prove the stability of
+mode-suppression using Lyapunov techniques, and use a Kingman bound argument to show that the total
+download time does not increase with peer arrival rate. We then design versions of mode-suppression
+that sample a small number of peers at each time, and construct noisy mode estimates by aggregating
+these samples over time. We show numerically that the variants of mode-suppression yield near-optimal
+download times, and outperform all other recently proposed chunk sharing algorithms. 

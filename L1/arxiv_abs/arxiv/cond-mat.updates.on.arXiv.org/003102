@@ -1,0 +1,16 @@
+Using the strong coupling diagram technique, low-temperature spectral properties of the two-dimensional
+fermionic Hubbard model are con\-si\-de\-red for strong and moderate Hubbard repulsions $U$.
+The electron hopping to the nearest, second and third neighbors is taken into account with hopping
+constants $t$, $t'=-0.3t$ and $t''=0.2t$, respectively. The nonzero values of $t'$ and $t''$ lead
+to strong asymmetry in magnetic properties with respect to the hole and electron doping -- for $U=8t$
+strong antiferromagnetic correlations are retained up to the electron concentration $\bar{n}\approx
+1.25$, while they are destroyed completely at $\bar{n}\approx 0.87$. When the temperature is decreased
+to $T\lesssim 0.1t$, in a wide range of electron concentrations there appear narrow and intensive
+peaks at the Fermi level in densities of states. For $U\lesssim 6t$ the peaks are seen even at half-filling,
+while for larger $U$ they arise as the Fermi level leaves the Mott gap. The peaks are connected with
+a narrow band emerging at low temperatures. We identify states forming the band with spin-polaron
+excitations -- bound states of correlated electrons and mobile spin excitations. Obtained low-temperature
+spectral functions are used for interpreting the peak-dip-hump structure observed in the photoemission
+of Nd$_{2-x}$Ce$_x$CuO$_4$. In the case of hole doping, the calculated Fermi contour contains
+arcs near nodal points with pseudogaps near antinodal points, while for electron doping the spectral
+intensity is suppressed at hot spots, in agreement with experimental observations in cuprate perovskites.

@@ -1,0 +1,16 @@
+The analysis of galaxies on the star formation rate - stellar mass (SFR-M*) plane is a powerful diagnostic
+for galaxy evolution at different cosmic times. We consider a sample of 24463 galaxies from the CANDELS/GOODS-S
+survey to conduct a detailed analysis of the SFR-M* relation at redshifts 0.5$\leqslant z<$3 over
+more than three dex in stellar mass. To obtain SFR estimates, we utilise mid- and far-IR photometry
+when available, and rest-UV fluxes for all the other galaxies. We perform our analysis in different
+redshift bins, with two different methods: 1) a linear regression fitting of all star-forming galaxies,
+defined as those with specific star formation rates $\rm log_{10}(sSFR/yr^{-1}) > -9.8$, similarly
+to what is typically done in the literature; 2) a multi-Gaussian decomposition to identify the galaxy
+main sequence (MS), the starburst sequence and the quenched galaxy cloud. We find that the MS slope
+becomes flatter when higher stellar mass cuts are adopted, and that the apparent slope change observed
+at high masses depends on the SFR estimation method. In addition, the multi-Gaussian decomposition
+reveals the presence of a starburst population which increases towards low stellar masses and high
+redshifts. We find that starbursts make up ~5% of all galaxies at z=0.5-1.0, while they account for
+~16% of galaxies at 2$<z<$3 with log$_{10}(M^{*})=$8.25-11.25. We conclude that the dissection
+of the SFR-M* in multiple components over a wide range of stellar masses is necessary to understand
+the importance of the different modes of star formation through cosmic time. 

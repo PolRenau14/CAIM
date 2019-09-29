@@ -1,0 +1,16 @@
+While Josephson junctions can be viewed as highly non-linear impedances for superconducting quantum
+technologies, they also possess internal dynamics that may strongly affect their behavior. Here,
+we construct a computational framework that includes a microscopic description of the junction
+(full fledged treatment of both the superconducting condensate and the quasi-particles) in presence
+of a surrounding electrical circuit. Our approach generalizes the standard ResistorCapacitor-Josephson
+model (RCJ) to arbitrary junctions (including e.g. multi-terminal geometries and/or junctions
+that embed topological or magnetic elements) and arbitrary electric circuits treated at the classical
+level. By treating the superconducting condensate and quasi-particles on equal footings, we capture
+non-equilibrium phenomena such as Multiple Andreev Reflection. We show that the interplay between
+the quasi-particle dynamics and the electrical environment leads to the emergence of new phenomena.
+In a RC circuit connected to single channel Josephson junction, we find out-of-equilibrium current-phase
+relations that are strongly distorted with respect to the (almost sinusoidal) equilibrium one,
+revealing the presence of high harmonic AC Josephson effect. In an RLC circuit connected to a junction,
+we find that the shape of the resonance is strongly modified by the quasi-particle dynamics: close
+to resonance, the current can be smaller than without the resonator. Our approach provides a route
+for the quantitative modeling of superconducting based circuits. 

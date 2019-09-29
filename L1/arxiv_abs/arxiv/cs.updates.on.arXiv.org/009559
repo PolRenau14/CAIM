@@ -1,0 +1,17 @@
+Deep learning is one of the new and important branches in machine learning. Deep learning refers
+to a set of algorithms that solve various problems such as images and texts by using various machine
+learning algorithms in multi-layer neural networks. Deep learning can be classified as a neural
+network from the general category, but there are many changes in the concrete realization. At the
+core of deep learning is feature learning, which is designed to obtain hierarchical information
+through hierarchical networks, so as to solve the important problems that previously required
+artificial design features. Deep Learning is a framework that contains several important algorithms.
+For different applications (images, voice, text), you need to use different network models to achieve
+better results. With the development of deep learning and the introduction of deep convolutional
+neural networks, the accuracy and speed of face recognition have made great strides. However, as
+we said above, the results from different networks and models are very different. In this paper,
+facial features are extracted by merging and comparing multiple models, and then a deep neural network
+is constructed to train and construct the combined features. In this way, the advantages of multiple
+models can be combined to mention the recognition accuracy. After getting a model with high accuracy,
+we build a product model. This article compares the pure-client model with the server-client model,
+analyzes the pros and cons of the two models, and analyzes the various commercial products that are
+required for the server-client model. 

@@ -1,0 +1,16 @@
+Identifying codes in graphs have been widely studied since their introduction by Karpovsky, Chakrabarty
+and Levitin in 1998. In particular, there are a lot of results regarding the binary hypercubes, that
+is, the Hamming graphs $K_2^n$. In 2008, Gravier et al. started investigating identification in
+$K_q^2$. Goddard and Wash, in 2013, studied identifying codes in the general Hamming graphs $K_q^n$.
+They stated, for instance, that $\gamma^{ID}(K_q^n)\leq q^{n-1}$ for any $q$ and $n\geq3$. Moreover,
+they conjectured that $\gamma^{ID}(K_q^3)=q^2$. In this article, we show that $\gamma^{ID}(K_q^3)\leq
+q^2-q/4$ when $q$ is a power of four, disproving the conjecture. Our approach is based on the recursive
+use of suitable designs. Goddard and Wash also gave the following lower bound $\gamma^{ID}(K_q^3)\ge
+q^2-q\sqrt{q}$. We improve this bound to $\gamma^{ID}(K_q^3)\ge q^2-\frac{3}{2} q$. The conventional
+methods used for obtaining lower bounds on identifying codes do not help here. Hence, we provide
+a different technique building on the approach of Goddard and Wash. Moreover, we improve the above
+mentioned bound $\gamma^{ID}(K_q^n)\leq q^{n-1}$ to $\gamma^{ID}(K_q^n)\leq q^{n-k}$ for
+$n=3\frac{q^k-1}{q-1}$ when $q$ is a prime power. For this bound, we utilize suitable linear codes
+over finite fields and a class of closely related codes, namely, the self-locating-dominating
+codes. In addition, we show that the self-locating-dominating codes satisfy the result $\gamma^{SLD}(K_q^3)=q^2$
+related to the above conjecture. 

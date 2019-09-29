@@ -1,0 +1,16 @@
+In a social network, influence maximization is the problem of identifying a set of users that own
+the maximum influenceability across the network. In this paper, a novel credit distribution (CD)
+based model, termed as the multi-action CD (mCD) model, is introduced to quantify the influence
+ability of each user, which works with practical datasets where one type of action could be recorded
+for multiple times. Based on this model, influence maximization is formulated as a submodular maximization
+problem under a general knapsack constraint, which is NP-hard. An efficient streaming algorithm
+with one-round scan over the user set is developed to find a suboptimal solution. Specifically,
+we first solve a special case of knapsack constraints, i.e., a cardinality constraint, and show
+that the developed streaming algorithm can achieve ($\frac{1}{2}-\epsilon$)-approximation
+of the optimality. Furthermore, for the general knapsack case, we show that the modified streaming
+algorithm can achieve ($\frac{1}{3}-\epsilon$)-approximation of the optimality. Finally,
+experiments are conducted over real Twitter dataset and demonstrate that the mCD model enjoys high
+accuracy compared to the conventional CD model in estimating the total number of people who get influenced
+in a social network. Moreover, through the comparison to the conventional CD, non-CD models, and
+the mCD model with the greedy algorithm on the performance of the influence maximization problem,
+we show the effectiveness and efficiency of the proposed mCD model with the streaming algorithm.

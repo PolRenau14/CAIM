@@ -1,0 +1,16 @@
+For the high-luminosity phase of the Large Hadron Collider (HL-LHC), at the expected position of
+the innermost pixel detector layer of the CMS and ATLAS experiments, the estimated equivalent neutron
+fluence after 3000 fb$^{-1}$ is 2$\cdot$10$^{16}$ n$_{eq}$/cm$^2$, and the IEL (Ionizing Energy
+Loss) dose in the SiO$_2$ 12 MGy. The optimisation of the pixel sensors and the understanding of their
+performance as a function of fluence and dose makes a radiation damage model for TCAD simulations,
+which describes the available experimental data, highly desirable. The currently available bulk-damage
+models are not able to describe simultaneously the measurements of dark current (I-V), capacitance-voltage
+(C-V) and charge collection efficiency (CCE) of pad diodes for fluences $\ge 1\cdot 10^{15}$ n$_{eq}$/cm$^2$.
+Therefore, for the development and validation of a new accurate bulk damage model we use I-V, C-V
+and CCE measurements on pad diodes available within the CMS-HPK campaign and data from samples irradiated
+recently with 24 GeV/c protons. For the determination of the radiation-induced damage parameters
+we utilise the "optimiser" of Synopsys TCAD, which allows the minimisation of the difference between
+the measured and simulated I-V, C-V and CCE. The outcome of this optimisation, the Hamburg Penta
+Trap Model (HPTM), provides a consistent and accurate description of the measurements of diodes
+irradiated with protons in the fluence range from 3$\cdot$10$^{14}$ n$_{eq}$/cm$^2$ to 1.3$\cdot$10$^{16}$
+n$_{eq}$/cm$^2$. 

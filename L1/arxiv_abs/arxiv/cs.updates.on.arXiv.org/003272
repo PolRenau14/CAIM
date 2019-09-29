@@ -1,0 +1,16 @@
+A forensics investigation after a breach often uncovers network and host indicators of compromise
+(IOCs) that can be deployed to sensors to allow early detection of the adversary in the future. Over
+time, the adversary will change tactics, techniques, and procedures (TTPs), which will also change
+the data generated. If the IOCs are not kept up-to-date with the adversary's new TTPs, the adversary
+will no longer be detected once all of the IOCs become invalid. Tracking the Known (TTK) is the problem
+of keeping IOCs, in this case regular expressions (regexes), up-to-date with a dynamic adversary.
+Our framework solves the TTK problem in an automated, cyclic fashion to bracket a previously discovered
+adversary. This tracking is accomplished through a data-driven approach of self-adapting a given
+model based on its own detection capabilities. In our initial experiments, we found that the true
+positive rate (TPR) of the adaptive solution degrades much less significantly over time than the
+naive solution, suggesting that self-updating the model allows the continued detection of positives
+(i.e., adversaries). The cost for this performance is in the false positive rate (FPR), which increases
+over time for the adaptive solution, but remains constant for the naive solution. However, the difference
+in overall detection performance, as measured by the area under the curve (AUC), between the two
+methods is negligible. This result suggests that self-updating the model over time should be done
+in practice to continue to detect known, evolving adversaries. 

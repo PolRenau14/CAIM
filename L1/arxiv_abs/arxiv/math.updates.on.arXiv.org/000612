@@ -1,0 +1,15 @@
+\noindent For any two arithmetic functions $f,g$ let $\bullet$ be the commutative and associative
+arithmetic convolution $(f\bullet g)(k):=\sum_{m=0}^k \left( \begin{array}{c} k m \end{array}
+\right)f(m)g(k-m)$ and for any $n\in\mathbb{N},$ $f^n=f\bullet \cdots\bullet f$ be $n-$fold
+product of $f\in \mathcal{S}.$ For any $x\in\mathbb{C},$ let $\mathcal{S}_0=e$ be the multiplicative
+identity of the ring $(\mathcal{S},\bullet,+)$ and $\mathcal{S}_x(k):=\frac{\mathcal{B}_{x+1}(k+1)-\mathcal{B}_{1}(k+1)}{k+1},~x\neq
+0$ denote the power sum defined by Bernoulli polynomials $\mathcal{B}_x(k)=B_k(x).$ We consider
+the sums of products $\mathcal{S}_x^N(k),~N\in\mathbb{N}_0.$ A closed form expression for $\mathcal{S}^N_x(k)(x)$
+generalizing the classical Faulhaber formula, is derived. Furthermore, some properties of $\alpha-$Euler
+numbers \cite{JS9} (a variant of Apostol Bernoulli numbers) and their sums of products, are considered
+using which a closed form expression for the sums of products of infinite series of the form $\eta_\alpha(k):=\sum_{n=0}^{\infty}\alpha^n
+n^k,~0<|\alpha|<1,~k\in\mathbb{N}_0$ and the related Abel sums, is obtained which in
+particular, gives a closed form expression for well known Bernoulli numbers. A generalization
+of the sums of products of power sums to the sums of products of alternating power sums is also obtained.
+These considerations generalize in a unified way to define sums of products of power sums for all
+$k\in\mathbb{N}$ hence connecting them with zeta functions. 

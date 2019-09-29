@@ -1,0 +1,16 @@
+A promising technology concept for sub-GeV dark matter detection is described, in which low-temperature
+microcalorimeters serve as the sensors and superfluid $^4$He serves as the target material. A superfluid
+helium target has several advantageous properties, including a light nuclear mass for better kinematic
+matching with light dark matter particles, copious production of scintillation light, extremely
+good intrinsic radiopurity, a high impedance to external vibration noise, and a unique mechanism
+for observing phonon-like modes via liberation of $^4$He atoms into a vacuum (`quantum evaporation').
+In this concept, both scintillation photons and triplet excimers are detected using calorimeters,
+including calorimeters immersed in the superfluid. Kinetic excitations of the superfluid medium
+(rotons and phonons) are detected using quantum evaporation and subsequent atomic adsorption
+onto a microcalorimeter suspended in vacuum above the target helium. The energy of adsorption amplifies
+the phonon/roton signal before calorimetric sensing, producing a gain mechanism that can reduce
+the techonology's recoil energy threshold below the calorimeter energy threshold. We describe
+signal production and signal sensing probabilities, and estimate electron recoil discrimination.
+We then simulate radioactive backgrounds from gamma rays and neutrons. Dark matter - nucleon elastic
+scattering cross-section sensitivities are projected, demonstrating that even very small (sub-kg)
+target masses can probe wide regions of as-yet untested dark matter parameter space. 

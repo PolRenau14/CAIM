@@ -1,0 +1,16 @@
+Period estimation is one of the central topics in astronomical time series analysis, where data
+is often unevenly sampled. Especially challenging are studies of stellar magnetic cycles, as there
+the periods looked for are of the order of the same length than the datasets themselves. The datasets
+often contain trends, the origin of which is either a real long-term cycle or an instrumental effect,
+but these effects cannot be reliably separated, while they can lead to erroneous period determinations
+if not properly handled. In this study we aim at developing a method that can handle the trends properly,
+and by performing extensive set of testing, we show that this is the optimal procedure when contrasted
+with methods that do not include the trend directly to the model. The effect of the form of the noise
+(whether constant or heteroscedastic) on the results is also investigated. We introduce a Bayesian
+Generalised Lomb-Scargle Periodogram with Trend (BGLST), which is a probabilistic linear regression
+model using Gaussian priors for the coefficients and uniform prior for the frequency parameter.
+We show, using synthetic data, that when there is no prior information on whether and to what extent
+the true model of the data contains a linear trend, the introduced BGLST method is preferable to the
+methods which either detrend the data or leave the data untrended before fitting the periodic model.
+Whether to use noise with different than constant variance in the model depends on the density of
+the data sampling as well as on the true noise type of the process. 

@@ -1,0 +1,16 @@
+Recent studies of interstellar neutral (ISN) hydrogen observed by the Interstellar Boundary Explorer
+(IBEX) suggested that the present understanding of the radiation pressure acting on hydrogen atoms
+in the heliosphere should be revised. There is a significant discrepancy between theoretical predictions
+of the ISN H signal using the currently used model of the solar Lyman-alpha profile by Tarnopolski
+et al. 2009 (TB09) and the signal due to ISN H observed by IBEX-Lo. We developed a new model of evolution
+of the solar Lyman-alpha profile that takes into account all available observations of the full-disk
+solar Lyman-alpha profiles from SUMER/SOHO, provided by Lemaire et al. 2015 (L15), covering practically
+the entire 23rd solar cycle. The model has three components that reproduce different features of
+the profile. The main shape of the emission line that is produced in the chromosphere is modeled by
+the kappa function; the central reversal due to absorption in the transition region is modeled by
+the Gauss function; the spectral background is represented by the linear function. The coefficients
+of all those components are linear functions of the line-integrated full-disk Lyman-alpha irradiance,
+which is the only free parameter of the model. The new model features potentially important differences
+in comparison with the model by TB09, which was based on a limited set of observations. This change
+in the understanding of radiation pressure, especially during low solar activity, may significantly
+affect the interstellar H and D distributions in the inner heliosphere and their derivative populations.

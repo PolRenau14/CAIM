@@ -1,0 +1,16 @@
+We analyze the motion of a rod floating in a weightless environment in space when a force is applied
+at some point on the rod in a direction perpendicular to its length. If the force applied is at the centre
+of mass, then the rod gets a linear motion perpendicular to its length. However, if the same force
+is applied at a point other than the centre of mass, say, near one end of the rod, thereby giving rise
+to a torque, then there will also be a rotation of the rod about its centre of mass, in addition to the
+motion of the centre of mass itself. If the force applied is for a very short duration, but imparting
+nevertheless a finite impulse, like in a sudden (quick) hit at one end of the rod, then the centre of
+mass will move with a constant linear speed and superimposed on it will be a rotation of the rod with
+constant angular speed about the centre of mass. However, if force is applied continuously, say
+by strapping a tiny rocket at one end of the rod, then the rod will spin faster and faster about the centre
+of mass, with angular speed increasing linearly with time. As the direction of the applied force,
+as seen by an external (inertial) observer, will be changing continuously with the rotation of the
+rod, the acceleration of the centre of mass would also be not in one fixed direction. However, it turns
+out that the locus of the velocity vector of the centre of mass will describe a Cornu spiral, with the
+velocity vector reaching a final constant value with time. The mean motion of the centre of mass will
+be in a straight line, with superposed initial oscillations that soon die down. 

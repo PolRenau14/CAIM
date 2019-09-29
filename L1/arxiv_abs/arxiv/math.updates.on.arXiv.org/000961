@@ -1,0 +1,16 @@
+Let $(A,\Delta)$ be a regular weak multiplier Hopf algebra. Denote by $E$ the canonical idempotent
+of $(A,\Delta)$ and by $B$ the image of the source map. Recall that $B$ is a non-degenerate algebra,
+sitting nicely in the multiplier algebra $M(A)$ of $A$ so that also $M(B)$ can be viewed as a subalgebra
+of $M(A)$. Assume that $u,v$ are invertible elements in $M(B)$ so that $E(vu\otimes 1)E=E$. This
+last condition is obviously fulfilled if $u$ and $v$ are each other inverses, but there are also other
+cases. Now modify $\Delta$ and define $\Delta'(a)=(u\otimes 1)\Delta(a)(v\otimes 1)$ for all
+$a \in A$. We show in this paper that $(A,\Delta')$ is again a regular weak multiplier Hopf algebra
+and we obtain formulas for the various data of $(A,\Delta')$ in terms of the data associated with
+the original pair $(A,\Delta)$. In the case of a finite-dimensional weak Hopf algebra, the above
+deformation is a special case of the twists as studied by Nikshych and Vainerman. It is known that
+any regular weak multiplier Hopf algebra gives rise in a natural way to a regular multiplier Hopf
+algebroid. This result applies to both the original weak multiplier Hopf algebra $(A,\Delta)$
+and the modified version $(A,\Delta')$. However, the same method can be used to associate another
+regular multiplier Hopf algebroid to the triple $(A,\Delta,\Delta')$. This turns out to give an
+example of a regular multiplier Hopf algebroid that does not arise from a regular weak multiplier
+Hopf algebra although the base algebra is separable Frobenius. 

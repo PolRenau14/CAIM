@@ -1,0 +1,16 @@
+Non-volatile memory (NVM) is a class of promising scalable memory technologies that can potentially
+offer higher capacity than DRAM at the same cost point. Unfortunately, the access latency and energy
+of NVM is often higher than those of DRAM, while the endurance of NVM is lower. Many DRAM-NVM hybrid
+memory systems use DRAM as a cache to NVM, to achieve the low access latency, low energy, and high endurance
+of DRAM, while taking advantage of the large capacity of NVM. A key question for a hybrid memory system
+is what data to cache in DRAM to best exploit the advantages of each technology while avoiding the
+disadvantages of each technology as much as possible. We propose a new memory controller design
+that improves hybrid memory performance and energy efficiency. We observe that both DRAM and NVM
+banks employ row buffers that act as a cache for the most recently accessed memory row. Accesses that
+are row buffer hits incur similar latencies (and energy consumption) in both DRAM and NVM, whereas
+accesses that are row buffer misses incur longer latencies (and higher energy consumption) in NVM
+than in DRAM. To exploit this, we devise a policy that caches heavily-reused data that frequently
+misses in the NVM row buffers into DRAM. Our policy tracks the row buffer miss counts of recently-used
+rows in NVM, and caches in DRAM the rows that are predicted to incur frequent row buffer misses. Our
+proposed policy also takes into account the high write latencies of NVM, in addition to row buffer
+locality and more likely places the write-intensive pages in DRAM instead of NVM. 

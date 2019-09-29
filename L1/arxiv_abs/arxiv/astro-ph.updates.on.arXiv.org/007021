@@ -1,0 +1,16 @@
+Mass measurements of gravitational microlenses require one to determine the microlens parallax
+$\pie$, but precise $\pie$ measurement, in many cases, is hampered due to the subtlety of the microlens-parallax
+signal combined with the difficulty of distinguishing the signal from those induced by other higher-order
+effects. In this work, we present the analysis of the binary-lens event OGLE-2017-BLG-0329, for
+which $\pie$ is measured with a dramatically improved precision using additional data from space-based
+$Spitzer$ observations. We find that while the parallax model based on the ground-based data cannot
+be distinguished from a zero-$\pie$ model at 2$\sigma$ level, the addition of the $Spitzer$ data
+enables us to identify 2 classes of solutions, each composed of a pair of solutions according to the
+well-known ecliptic degeneracy. It is found that the space-based data reduce the measurement uncertainties
+of the north and east components of the microlens-parallax vector $\pivec_{\rm E}$ by factors $\sim
+18$ and $\sim 4$, respectively. With the measured microlens parallax combined with the angular
+Einstein radius measured from the resolved caustic crossings, we find that the lens is composed
+of a binary with components masses of either $(M_1,M_2)\sim (1.1,0.8)\ M_\odot$ or $\sim (0.4,0.3)\
+M_\odot$ according to the two solution classes. The first solution is significantly favored but
+the second cannot be securely ruled out based on the microlensing data alone. However, the degeneracy
+can be resolved from adaptive optics observations taken $\sim 10$ years after the event. 

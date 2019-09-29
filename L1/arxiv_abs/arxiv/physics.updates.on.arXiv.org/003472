@@ -1,0 +1,17 @@
+Metasurfaces based on gap surface-plasmon resonators allow one to arbitrarily control the phase,
+amplitude and polarization of reflected light with high efficiency. However, the performance
+of densely-packed metasurfaces is reduced, often quite significantly, in comparison with simple
+analytical predictions. We argue that this reduction is mainly because of the near-field coupling
+between metasurface elements, which results in response from each element being different from
+the one anticipated by design simulations, which are commonly conducted for each individual element
+being placed in an artificial periodic arrangement. In order to study the influence of near-field
+coupling, we fabricate meta-elements of varying sizes arranged in quasi-periodic arrays so that
+the immediate environment of same size elements is different for those located in the middle and
+at the border of the arrays. We study the near-field using a phase-resolved scattering-type scanning
+near-field optical microscopy (s-SNOM) and conducting numerical simulations. By comparing the
+near-field maps from elements of the same size but different placements we evaluate the near-field
+coupling strength, which is found to be significant for large and densely packed elements. This
+technique is quite generic and can be used practically for any metasurface type in order to precisely
+measure the near-field response from each individual element and identify malfunctioning ones,
+providing feedback to their design and fabrication, thereby allowing one to improve the efficiency
+of the whole metasurface. 

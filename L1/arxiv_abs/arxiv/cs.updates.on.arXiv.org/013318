@@ -1,0 +1,16 @@
+Statistical Learning is the process of estimating an unknown probabilistic input-output relationship
+of a system using a limited number of observations; and a statistical learning machine (SLM) is the
+machine that learned such a process. While their roots grow deeply in Probability Theory, SLMs are
+ubiquitous in the modern world. Automatic Target Recognition (ATR) in military applications,
+Computer Aided Diagnosis (CAD) in medical imaging, DNA microarrays in Genomics, Optical Character
+Recognition (OCR), Speech Recognition (SR), spam email filtering, stock market prediction, etc.,
+are few examples and applications for SLM; diverse fields but one theory. The field of Statistical
+Learning can be decomposed to two basic subfields, Design and Assessment. Three main groups of specializations-namely
+statisticians, engineers, and computer scientists (ordered ascendingly by programming capabilities
+and descendingly by mathematical rigor)-exist on the venue of this field and each takes its elephant
+bite. Exaggerated rigorous analysis of statisticians sometimes deprives them from considering
+new ML techniques and methods that, yet, have no "complete" mathematical theory. On the other hand,
+immoderate add-hoc simulations of computer scientists sometimes derive them towards unjustified
+and immature results. A prudent approach is needed that has the enough flexibility to utilize simulations
+and trials and errors without sacrificing any rigor. If this prudent attitude is necessary for this
+field it is necessary, as well, in other fields of Engineering. 

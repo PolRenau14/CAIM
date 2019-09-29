@@ -1,0 +1,17 @@
+In this paper we derive new sufficient conditions for a linear system matrix $$S(\lambda):=\left[\begin{array}{ccc}
+T(\lambda) & -U(\lambda) \\ V(\lambda) & W(\lambda) \end{array}\right],$$ where $T(\lambda)$
+is assumed regular, to be strongly irreducible. In particular, we introduce the notion of strong
+minimality, and the corresponding conditions are shown to be sufficient for a polynomial system
+matrix to be strongly minimal. A strongly irreducible or minimal system matrix has the same structural
+elements as the rational matrix $R(\lambda)= W(\lambda) + V(\lambda)T(\lambda)^{-1}U(\lambda)$,
+which is also known as the transfer function connected to the system matrix $S(\lambda)$. The pole
+structure, zero structure and null space structure of $R(\lambda)$ can be then computed with the
+staircase algorithm and the $QZ$ algorithm applied to pencils derived from $S(\lambda)$. We also
+show how to derive a strongly minimal system matrix from an arbitrary linear system matrix by applying
+to it a reduction procedure, that only uses unitary equivalence transformations. This implies
+that numerical errors performed during the reduction procedure remain bounded. Finally, we show
+how to perform diagonal scalings to an arbitrary pencil such that its row and column norms are all
+of the order of 1. Combined with the fact that we use unitary transformation in both the reduction
+procedure and the computation of the eigenstructure, this guarantees that we computed the exact
+eigenstructure of a perturbed linear system matrix, but where the perturbation is of the order of
+the machine precision. 

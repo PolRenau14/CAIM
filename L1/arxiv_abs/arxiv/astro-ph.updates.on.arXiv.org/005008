@@ -1,0 +1,16 @@
+Microlensing is a unique tool, capable of detecting the 'cold' planets between 1-10 AU from their
+host stars, and even unbound 'free-floating' planets. This regime has been poorly sampled to date
+owing to the limitations of alternative planet-finding methods, but a watershed in discoveries
+is anticipated in the near future thanks to the planned microlensing surveys of WFIRST-AFTA and
+Euclid s Extended Mission. Of the many challenges inherent in these missions, the modeling of microlensing
+events will be of primary importance, yet is often time consuming, complex and perceived as a daunting
+barrier to participation in the field. The large scale of future survey data products will require
+thorough but efficient modeling software, but unlike other areas of exoplanet research, microlensing
+currently lacks a publicly-available, well-documented package to conduct this type of analysis.
+We present first version 1.0 of pyLIMA: Python Lightcurve Identification and Microlensing Analysis.
+This software is written in Python and uses existing packages as much as possible, to make it widely
+accessible. In this paper, we describe the overall architecture of the software and the core modules
+for modeling single-lens events. To verify the performance of this software, we use it to model both
+real datasets from events published in the literature and generated test data, produced using pyLIMA
+s simulation module. Results demonstrate that pyLIMA is an efficient tool for microlensing modeling.
+We will expand pyLIMA to consider more complex phenomena in the following papers. 

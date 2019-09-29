@@ -1,0 +1,17 @@
+We study the covariance properties of real space correlation function estimators -- primarily
+galaxy-shear correlations, or galaxy-galaxy lensing -- using SDSS data for both shear catalogs
+and lenses (specifically the BOSS LOWZ sample). Using mock catalogs of lenses and sources, we disentangle
+the various contributions to the covariance matrix and compare them with a simple analytical model.
+We show that not subtracting the lensing measurement around random points from the measurement
+around the lens sample is equivalent to performing the measurement using the lens density field
+instead of the lens over-density field. While the measurement using the lens density field is unbiased
+(in the absence of systematics), its error is significantly larger due to an additional term in the
+covariance. Therefore, this subtraction should be performed regardless of its beneficial effects
+on systematics. Comparing the error estimates from data and mocks for estimators that involve the
+over-density, we find that the errors are dominated by the shape noise and lens clustering, that
+empirically estimated covariances (jackknife and standard deviation across mocks) are consistent
+with theoretical estimates, and that both the connected parts of the 4-point function and the super-sample
+covariance can be neglected for the current levels of noise. While the trade-off between different
+terms in the covariance depends on the survey configuration (area, source number density), the
+diagnostics that we use in this work should be useful for future works to test their empirically-determined
+covariances. 

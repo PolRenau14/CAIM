@@ -1,0 +1,17 @@
+Accretion disk winds are thought to produce many of the characteristic features seen in the spectra
+of active galactic nuclei (AGN) and quasi-stellar objects (QSOs). These outflows also represent
+a natural form of feedback between the central supermassive black hole and its host galaxy. The mechanism
+for driving this mass loss remains unknown, although radiation pressure mediated by spectral lines
+is a leading candidate. Here, we calculate the ionization state of, and emergent spectra for, the
+hydrodynamic simulation of a line-driven disk wind previously presented by Proga & Kallman
+(2004). To achieve this, we carry out a comprehensive Monte Carlo simulation of the radiative transfer
+through, and energy exchange within, the predicted outflow. We find that the wind is much more ionized
+than originally estimated. This is in part because it is much more difficult to shield any wind regions
+effectively when the outflow itself is allowed to reprocess and redirect ionizing photons. As a
+result, the calculated spectrum that would be observed from this particular outflow solution would
+not contain the ultraviolet spectral lines that are observed in many AGN/QSOs. Furthermore, the
+wind is so highly ionized that line-driving would not actually be efficient. This does not necessarily
+mean that line-driven winds are not viable. However, our work does illustrate that in order to arrive
+at a self-consistent model of line-driven disk winds in AGN/QSO, it will be critical to include a
+more detailed treatment of radiative transfer and ionization in the next generation of hydrodynamic
+simulations. 

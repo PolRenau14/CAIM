@@ -1,0 +1,16 @@
+We studied some statistical properties of the spatial point process displayed by GRBs of known redshift.
+To find ring like point patterns we developed an algorithm and defined parameters to characterize
+the level of compactness and regularity of the rings found in this procedure. Applying this algorithm
+to the GRB sample we identified three more ring like point patterns. Although, they had the same regularity
+but much less level of compactness than the original GRB ring. Assuming a stochastic independence
+of the angular and radial positions of the GRBs we obtained 1502 additional samples, altogether
+542222 data points, by bootstrapping the original one. None of these data points participated in
+rings having similar level of compactness and regularity as the original one. Using an appropriate
+kernel we estimated the joint probability density of the angular and radial variables of the GRBs.
+Performing MCMC simulations we obtained 1502 new samples, altogether 542222 data points. Among
+these data points only three represented ring like patterns having similar parameters as the original
+one. By defining a new statistical variable we tested the independence of the angular and radial
+variables of the GRBs. We concluded that despite the existence of local irregularities in the GRBs'
+spatial distribution (e.g. the GGR) one can not reject the Cosmological Principle, based on their
+spatial distribution as a whole. We pointed out the large scale spatial pattern of the GRB activity
+does not necessarily re ects the large scale distribution of the cosmic matter. 

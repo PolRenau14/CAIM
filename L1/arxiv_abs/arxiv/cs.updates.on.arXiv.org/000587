@@ -1,0 +1,16 @@
+We consider models of a growing tree with the growth process driven by the rules of tournament selection,
+where a new node is attached to a contestant node at the best hierarchy level (closest to the tree root).
+The proposed evolution reflects limited information about the network topology that is available
+for new nodes. Two cases are considered: the constant tournament (CT) model where the number of tournament
+participants is constant throughout the tree evolution, and the proportional tournament (PT)
+model where it is grows proportionally to the actual tree size. The results of analytical calculations
+based on a rate equation fit well to numerical simulations for both models. In the CT model all hierarchy
+levels emerge in the tree but the birth time of the hierarchy level increases exponentially or faster
+with level number. The number of nodes at the first hierarchy level (just below the root) grows logarithmically
+in time, while the size of the last, "worst" hierarchy level oscillates quasi log-periodically.
+In the PT model the occupations of the first two hierarchy levels increase linearly but worse hierarchy
+levels either do not emerge at all or appear only by chance during an early stage of tree evolution
+and stop growing soon afterwards. We observe that information restrains the emergence of new hierarchy
+levels and that it is the absolute amount of information, not relative, that governs this behavior.
+The explanation for these results is that the larger the choice where to join, the more likely a new
+node connects to "top" nodes, thus slowing down the emergence of new hierarchy levels. 

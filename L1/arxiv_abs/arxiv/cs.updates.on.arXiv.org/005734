@@ -1,0 +1,16 @@
+In many machine learning applications, from medical diagnostics to autonomous driving, the availability
+of prior knowledge can be used to improve the predictive performance of learning algorithms and
+incorporate `physical,' `domain knowledge,' or `common sense' concepts into training of machine
+learning systems as well as verify constraints/properties of the systems. We explore the learning
+using privileged information paradigm and show how to incorporate the privileged information,
+such as segmentation mask available along with the classification label of each example, into the
+training stage of convolutional neural networks. This is done by augmenting the CNN model with an
+architectural component that effectively focuses model's attention on the desired region of the
+input image during the training process and that is transparent to the network's label prediction
+mechanism at testing. This component effectively corresponds to the visualization strategy for
+identifying the parts of the input, often referred to as visualization mask, that most contribute
+to the prediction, yet uses this strategy in reverse to the classical setting in order to enforce
+the desired visualization mask instead. We verify our proposed algorithms through exhaustive
+experiments on benchmark ImageNet and PASCAL VOC data sets and achieve improvements in the performance
+of $2.4\%$ and $2.7\%$ over standard single-supervision model training. Finally, we confirm the
+effectiveness of our approach on skin lesion classification problem. 

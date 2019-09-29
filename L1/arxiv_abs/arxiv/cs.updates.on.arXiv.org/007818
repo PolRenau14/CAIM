@@ -1,0 +1,16 @@
+In multi-channel Wireless Mesh Networks (WMN), each node is able to use multiple non-overlapping
+frequency channels. Raniwala et al. (MC2R 2004, INFOCOM 2005) propose and study several such architectures
+in which a computer can have multiple network interface cards. These architectures are modeled
+as a graph problem named \emph{maximum edge $q$-coloring} and studied in several papers by Feng
+et. al (TAMC 2007), Adamaszek and Popa (ISAAC 2010, JDA 2016). Later on Larjomaa and Popa (IWOCA 2014,
+JGAA 2015) define and study an alternative variant, named the \emph{min-max edge $q$-coloring}.
+The above mentioned graph problems, namely the maximum edge $q$-coloring and the min-max edge $q$-coloring
+are studied mainly from the theoretical perspective. In this paper, we study the min-max edge 2-coloring
+problem from a practical perspective. More precisely, we introduce, implement and test four heuristic
+approximation algorithms for the min-max edge $2$-coloring problem. These algorithms are based
+on a \emph{Breadth First Search} (BFS)-based heuristic and on \emph{local search} methods like
+basic \emph{hill climbing}, \emph{simulated annealing} and \emph{tabu search} techniques,
+respectively. Although several algorithms for particular graph classes were proposed by Larjomaa
+and Popa (e.g., trees, planar graphs, cliques, bi-cliques, hypergraphs), we design the first algorithms
+for general graphs. We study and compare the running data for all algorithms on Unit Disk Graphs,
+as well as some graphs from the DIMACS vertex coloring benchmark dataset. 

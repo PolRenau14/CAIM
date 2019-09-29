@@ -1,0 +1,16 @@
+Eye movements during text reading can provide insights about reading disorders. Via eye-trackers,
+we can measure when, where and how eyes move with relation to the words they read. Machine Learning
+(ML) algorithms can decode this information and provide differential analysis. This work developed
+DysLexML, a screening tool for developmental dyslexia that applies various ML algorithms to analyze
+fixation points recorded via eye-tracking during silent reading of children. It comparatively
+evaluated its performance using measurements collected in a systematic field study with 69 native
+Greek speakers, children, 32 of which were diagnosed as dyslexic by the official governmental agency
+for diagnosing learning and reading difficulties in Greece. We examined a large set of features
+based on statistical properties of fixations and saccadic movements and identified the ones with
+prominent predictive power, performing dimensionality reduction. Specifically, DysLexML achieves
+its best performance using linear SVM, with an a accuracy of 97 %, with a small feature set, namely
+saccade length, number of short forward movements, and number of multiply fixated words. Furthermore,
+we analyzed the impact of noise on the fixation positions and showed that DysLexML is accurate and
+robust in the presence of noise. These encouraging results set the basis for developing screening
+tools in less controlled, larger-scale environments, with inexpensive eye-trackers, potentially
+reaching a larger population for early intervention. 

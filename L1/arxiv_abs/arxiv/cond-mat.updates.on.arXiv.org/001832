@@ -1,0 +1,16 @@
+It has been shown recently that the overpotential originating from ionic conduction of alkali-ions
+through the inner dense solid-electrolyte interphase (SEI) is strongly non-linear. An empirical
+equation was proposed to merge the measured resistances from both galvanostatic cycling (GS) and
+electrochemical impedance spectroscopy (EIS) at 25$^{\circ}$C. Here, this analysis is extended
+to the full temperature range of batteries from -40$^{\circ}$C to +80$^{\circ}$C for Li, Na, K and
+Rb-metal electrodes in carbonate electrolytes. Two different transport mechanisms are found.
+The first one conducts alkali-ions at all measured temperatures. The second transport mechanism
+conducts ions for all seven measured Li-ion electrolytes and one out of four Na-ion electrolytes,
+however, only above a certain critical temperature $T_C$. At $T_C$ a phase transition is observed
+switching-off the more efficient transport mechanism and leaving only the general ion conduction
+mechanism. The associated overpotentials increase rapidly below $T_C$ depending on alkali-ion,
+salt and solvent and become a limiting factor during galvanostatic operation of all Li-ion electrolytes
+at low temperature. In general, the current analysis merges the SEI resistances measured by EIS
+ranging from 26 $\Omega$cm$^2$ for the best Li up to 292 M$\Omega$cm$^2$ for Rb electrodes to its
+galvanostatic response over seven orders of magnitude. The determined critical temperatures
+are between 0-25$^{\circ}$C for the tested Li and above 50$^{\circ}$C for Na electrolytes. 

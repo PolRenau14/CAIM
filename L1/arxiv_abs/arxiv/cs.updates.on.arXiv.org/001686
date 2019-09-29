@@ -1,0 +1,16 @@
+We consider the economics of the interaction between Mobile Virtual Network Operators (MVNOs)
+and Mobile Network Operators (MNOs). We investigate the incentives of an MNO for offering some of
+her resources to an MVNO instead of using the resources for her own End-Users (EUs). We consider a
+market with one MNO and one MVNO, and a continuum of undecided EUs. Two cases for EUs are considered:
+(i) when EUs need to choose either the MNO or the MVNO, and (ii) when EUs have an outside option. In each
+of these cases, we consider a non-cooperative framework of sequential game and a cooperative framework
+of bargaining game. We characterize the Subgame Perfect Nash Equilibria (SPNE) and Nash Bargaining
+Solution (NBS) of the sequential and bargaining games, respectively. We show that in the non-cooperative
+framework, SPNE assumes two forms: (i) the MNO invests minimally on her infrastructure and the MVNO
+leases all the newly invested resources and (ii) the MNO invests more on her infrastructure, the
+MVNO leases only part of these resources to the MVNO, and the MNO uses the rest herself to attract EUs.
+Thus, in both, the MNO generates revenue indirectly through the MVNO. In addition to that, in (ii),
+the MNO generates revenue directly from the EUs. We also prove that in the bargaining framework,
+the MVNO either reserves all the resources or no resources from the MNO, and the MNO's investments
+are guided by whether EUs have an outside option. If they don't, then the MNO invests as little as possible
+on her infrastructure. If they do, then the MNO invests more. 

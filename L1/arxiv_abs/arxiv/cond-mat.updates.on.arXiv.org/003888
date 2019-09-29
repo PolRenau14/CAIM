@@ -1,0 +1,17 @@
+Nodal lines inside the momentum space of three-dimensional crystalline solids are topologically
+stabilized by a $\pi$-flux of Berry phase. Nodal-line rings in $\mathcal{P}\mathcal{T}$-symmetric
+systems with negligible spin-orbit coupling (here described as "nodal class AI") can carry an additional
+"monopole charge", which further enhances their stability. Here, we relate two recent theoretical
+advancements in the study of band topology in nodal class $\textrm{AI}$. On one hand, cohomology
+classes of real vector bundles were used to relate the monopole charge of nodal-line rings to their
+linking with nodal lines formed among the occupied and among the unoccupied bands. On the other hand,
+homotopy studies revealed that the generalization of the Berry-phase quantization to the case
+of multiple band gaps defines a non-abelian topological charge, which governs the possible deformations
+of the nodal lines. In this work, we first present how to efficiently apply the non-abelian topological
+charge to study complicated nodal-line compositions. We then apply these methods to present an
+independent proof of the relation between the monopole charge and the linking structure, including
+all the fragile-topology exceptions. Finally, we show that the monopole charge flips sign when
+braided along a path with a non-trivial Berry phase. This facilitates non-abelian "braiding" of
+nodal-line rings inside the momentum space, that has not been previously reported. The geometric
+arguments presented in the main text are supplemented in the appendices with formal mathematical
+derivations. 

@@ -1,0 +1,17 @@
+In this paper, we study the physical layer security (PLS) problem in the dual hop orthogonal frequency
+division multiplexing (OFDM) based wireless communication system. First, we consider a single
+user single relay system and study a joint power optimization problem at the source and relay subject
+to individual power constraint at the two nodes. The aim is to maximize the end to end secrecy rate
+with optimal power allocation over different sub-carriers. Later, we consider a more general multi-user
+multi-relay scenario. Under high SNR approximation for end to end secrecy rate, an optimization
+problem is formulated to jointly optimize power allocation at the BS, the relay selection, sub-carrier
+assignment to users and the power loading at each of the relaying node. The target is to maximize the
+overall security of the system subject to independent power budget limits at each transmitting
+node and the OFDMA based exclusive sub-carrier allocation constraints. A joint optimization solution
+is obtained through duality theory. Dual decomposition allows to exploit convex optimization
+techniques to find the power loading at the source and relay nodes. Further, an optimization for
+power loading at relaying nodes along with relay selection and sub carrier assignment for the fixed
+power allocation at the BS is also studied. Lastly, a sub-optimal scheme that explores joint power
+allocation at all transmitting nodes for the fixed subcarrier allocation and relay assignment
+is investigated. Finally, simulation results are presented to validate the performance of the
+proposed schemes. 

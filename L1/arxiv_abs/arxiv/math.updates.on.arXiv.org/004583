@@ -1,0 +1,17 @@
+Construction of volumetric parametrizations for computational domains is a key step in the pipeline
+of isogeometric analysis. Here we propose an alternative solution to this problem that uses the
+nonlinear elasticity analogy. The desired domain is modeled as a deformed configuration of an initial
+simple geometry. Assuming that the parametrization of the initial domain is bijective and that
+it is possible to find a locally invertible displacement field, the method yields a bijective parametrization
+of the target domain. We show that, in many cases, an unknown deformation can be computed using the
+Saint Venant-Kirchhoff model. Moreover, if sufficiently small incremental steps for the deformation
+are used, a linear elasticity solver is enough to produce high quality parametrizations for nontrivial
+domains, what makes the methodology less demanding on implementation and computational time.
+Additionally, a great control over the resulting parametrization can be exerted by varying the
+material properties used in the elasticity model. Experiments indicate that when the material
+is close to being incompressible and the initial domain has uniformly sized elements, the method
+yields parametrizations with uniformly sized elements as well. The method is not restricted to
+a single patch scenario but can be utilized to construct multi-patch parametrizations with naturally
+looking boundaries between neighboring patches. We illustrate the performance of the method and
+study the quality of the resulting computational meshes on a range of two-dimensional and three-dimensional
+examples. 

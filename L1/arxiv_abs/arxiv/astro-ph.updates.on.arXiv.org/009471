@@ -1,0 +1,17 @@
+Manifestations of stellar activity (such as star-spots, plage/faculae, and convective flows)
+are well known to induce spectroscopic signals often referred to as astrophysical noise by exoplanet
+hunters. For example, setting an ultimate goal of detecting true Earth-analogs demands reaching
+radial velocity (RV) precisions of ~9 cm/s. While this is becoming technically feasible with the
+latest generation of highly stabilised spectrographs, it is astrophysical noise that sets the
+true fundamental barrier on attainable RV precisions. In this paper we parameterise the impact
+of solar surface magneto-convection on absorption line profiles, and extend the analysis from
+the solar disc centre (Paper I) to the solar limb. Off disc-centre, the plasma flows orthogonal to
+the granule tops begin to lie along the line-of-sight and those parallel to the granule tops are no
+longer completely aligned with the observer. Moreover, the granulation is corrugated and the granules
+can block other granules, as well as the intergranular lane components. Overall, the visible plasma
+flows and geometry of the corrugated surface significantly impact the resultant line profiles
+and induce centre-to-limb variations in shape and net position. We detail these herein, and compare
+to various solar observations. We find our granulation parameterisation can recreate realistic
+line profiles and induced radial velocity shifts, across the stellar disc, indicative of both those
+found in computationally heavy radiative 3D magnetohydrodynamical simulations and empirical
+solar observations. 

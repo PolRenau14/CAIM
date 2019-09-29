@@ -1,0 +1,16 @@
+We study the turbulent square duct flow of dense suspensions of neutrally-buoyant spherical particles.
+Direct numerical simulations (DNS) are performed in the range of volume fractions $\phi=0-0.2$,
+using the immersed boundary method (IBM) to account for the dispersed phase. Based on the hydraulic
+diameter a Reynolds number of $5600$ is considered. We report flow features and particle statistics
+specific to this geometry, and compare the results to the case of two-dimensional channel flows.
+In particular, we observe that for $\phi=0.05$ and $0.1$, particles preferentially accumulate
+on the corner bisectors, close to the duct corners as also observed for laminar square duct flows
+of same duct-to-particle size ratios. At the highest volume fraction, particles preferentially
+accumulate in the core region. For channel flows, in the absence of lateral confinement particles
+are found instead to be uniformily distributed across the channel. We also observe that the intensity
+of the cross-stream secondary flows increases (with respect to the unladen case) with the volume
+fraction up to $\phi=0.1$, as a consequence of the high concentration of particles along the corner
+bisector. For $\phi=0.2$ the turbulence activity is strongly reduced and the intensity of the secondary
+flows reduces below that of the unladen case. The friction Reynolds number increases with $\phi$
+in dilute conditions, as observed for channel flows. However, for $\phi=0.2$ the mean friction
+Reynolds number decreases below the value for $\phi=0.1$. 

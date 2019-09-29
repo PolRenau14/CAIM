@@ -1,0 +1,17 @@
+We use $N_{t}$, the number of exoplanets observed in time $t$, as a science metric to study direct-search
+missions like Terrestrial Planet Finder. In our model, $N$ has 27 parameters, divided into three
+categories: 2 astronomical, 7 instrumental, and 18 science-operational. For various "27-vectors"
+of those parameters chosen to explore parameter space, we compute design reference missions to
+estimate $N_{t}$. Our treatment includes the recovery of completeness $c$ after a search observation,
+for revisits, solar and antisolar avoidance, observational overhead, and follow-on spectroscopy.
+Our baseline 27-vector has aperture $D = 16$m, inner working angle $IWA = 0.039''$, mission time
+$t = 0-5$ years, occurrence probability for earthlike exoplanets $\eta = 0.2$, and typical values
+for the remaining 23 parameters. For the baseline case, a typical five-year design reference mission
+has an input catalog of $\sim$4700 stars with nonzero completeness, $\sim$1300 unique stars observed
+in $\sim$2600 observations, of which $\sim$1300 are revisits, and it produces $N_{1}\sim50$ exoplanets
+after one year and $N_{5}\sim130$ after five years. We explore offsets from the baseline for ten
+parameters. We find that $N$ depends strongly on $IWA$ and only weakly on $D$. It also depends only
+weakly on zodiacal light for $Z < 50$ zodis, end-to-end efficiency for $h > 0.2$, and scattered
+starlight for $\zeta < 10^{-10}$. We find that observational overheads, completeness recovery
+and revisits, solar and antisolar avoidance, and follow-on spectroscopy are all important factors
+in estimating $N$. 

@@ -1,0 +1,16 @@
+Space missions designed for high precision photometric monitoring of stars often under-sample
+the point-spread function, with much of the light landing within a single pixel. Missions like MOST,
+Kepler, BRITE, and TESS, do this to avoid uncertainties due to pixel-to-pixel response nonuniformity.
+This approach has worked remarkably well. However, individual pixels also exhibit response nonuniformity.
+Typically, pixels are most sensitive near their centers and less sensitive near the edges, with
+a difference in response of as much as 50%. The exact shape of this fall-off, and its dependence on
+the wavelength of light, is the intra-pixel response function (IPRF). A direct measurement of the
+IPRF can be used to improve the photometric uncertainties, leading to improved photometry and astrometry
+of under-sampled systems. Using the spot-scan technique, we measured the IPRF of a flight spare
+e2v CCD90 imaging sensor, which is used in the Kepler focal plane. Our spot scanner generates spots
+with a full-width at half-maximum of $\lesssim$5 microns across the range of 400 nm - 900 nm. We find
+that Kepler's CCD shows similar IPRF behavior to other back-illuminated devices, with a decrease
+in responsivity near the edges of a pixel by $\sim$50%. The IPRF also depends on wavelength, exhibiting
+a large amount of diffusion at shorter wavelengths and becoming much more defined by the gate structure
+in the near-IR. This method can also be used to measure the IPRF of the CCDs used for TESS, which borrows
+much from the Kepler mission. 

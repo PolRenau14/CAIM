@@ -1,0 +1,17 @@
+These lecture notes are based on a tutorial given in 2017 at a plasma physics winter school in Les Houches.
+Their aim is to provide a self-contained graduate-student level introduction to the theory and
+modelling of the dynamo effect in turbulent fluids and plasmas, blended with a review of current
+research in the field. The primary focus is on the physical and mathematical concepts underlying
+different (turbulent) branches of dynamo theory, with some astrophysical, geophysical and experimental
+context disseminated throughout the document. The text begins with an introduction to the rationale,
+observational and historical roots of the subject, and to the basic concepts of magnetohydrodynamics
+relevant to dynamo theory. The next two sections discuss the fundamental phenomenological and
+mathematical aspects of (linear and nonlinear) small- and large-scale MHD dynamos. These sections
+are complemented by an overview of a selection of current active research topics in the field, including
+the numerical modelling of the geo- and solar dynamos, shear dynamos driven by turbulence with zero
+net helicity, and MHD-instability-driven dynamos such as the magnetorotational dynamo. The difficult
+problem of a unified, self-consistent statistical treatment of small and large-scale dynamos
+at large magnetic Reynolds numbers is also discussed throughout the text. Finally, an excursion
+is made into the relatively new but increasingly popular realm of magnetic-field generation in
+weakly-collisional plasmas. A short discussion of the outlook and challenges for the future of
+the field concludes the presentation. 

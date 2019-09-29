@@ -1,0 +1,16 @@
+We propose a probabilistic Las Vegas variant of Brill-Noether's algorithm for computing a basis
+of the Riemann-Roch space $L(D)$ associated to a divisor $D$ on a projective nodal plane curve $\mathcal
+C$ over a sufficiently large perfect field $k$. Our main result shows that this algorithm requires
+at most $O(\max(\mathrm{deg}(\mathcal C)^{2\omega}, \mathrm{deg}(D_+)^\omega))$ arithmetic
+operations in $k$, where $\omega$ is a feasible exponent for matrix multiplication and $D_+$ is
+the smallest effective divisor such that $D_+\geq D$. This improves the best known upper bounds
+on the complexity of computing Riemann-Roch spaces. Our algorithm may fail, but we show that provided
+that a few mild assumptions are satisfied, the failure probability is bounded by $O(\max(\mathrm{deg}(\mathcal
+C)^4, \mathrm{deg}(D_+)^2)/\lvert \mathcal E\rvert)$, where $\mathcal E$ is a finite subset
+of $k$ in which we pick elements uniformly at random. We provide a freely available C++/NTL implementation
+of the proposed algorithm and we present experimental data. In particular, our implementation
+enjoys a speedup larger than 6 on many examples (and larger than 200 on some instances over large finite
+fields) compared to the reference implementation in the Magma computer algebra system. As a by-product,
+our algorithm also yields a method for computing the group law on the Jacobian of a smooth plane curve
+of genus $g$ within $O(g^\omega)$ operations in $k$, which slightly improves in this context the
+best known complexity $O(g^{\omega+\varepsilon})$ of Khuri-Makdisi's algorithm. 

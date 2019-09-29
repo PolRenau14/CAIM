@@ -1,0 +1,17 @@
+Slepian functions are orthogonal function systems that live on subdomains (for example, geographical
+regions on the Earth's surface, or bandlimited portions of the entire spectrum). They have been
+firmly established as a useful tool for the synthesis and analysis of localized (concentrated or
+confined) signals, and for the modeling and inversion of noise-contaminated data that are only
+regionally available or only of regional interest. In this paper, we consider a general abstract
+setup for inverse problems represented by a linear and compact operator between Hilbert spaces
+with a known singular-value decomposition (svd). In practice, such an svd is often only given for
+the case of a global expansion of the data (e.g. on the whole sphere) but not for regional data distributions.
+We show that, in either case, Slepian functions (associated to an arbitrarily prescribed region
+and the given compact operator) can be determined and applied to construct a regularization for
+the ill-posed regional inverse problem. Moreover, we describe an algorithm for constructing the
+Slepian basis via an algebraic eigenvalue problem. The obtained Slepian functions can be used to
+derive an svd for the combination of the regionalizing projection and the compact operator. As a
+result, standard regularization techniques relying on a known svd become applicable also to those
+inverse problems where the data are regionally given only. In particular, wavelet-based multiscale
+techniques can be used. An example for the latter case is elaborated theoretically and tested on
+two synthetic numerical examples. 

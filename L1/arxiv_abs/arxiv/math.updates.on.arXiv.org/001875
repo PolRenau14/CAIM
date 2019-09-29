@@ -1,0 +1,16 @@
+Kelly betting is a prescription for optimal resource allocation among a set of gambles which are
+typically repeated in an independent and identically distributed manner. In this setting, there
+is a large body of literature which includes arguments that the theory often leads to bets which are
+"too aggressive" with respect to various risk metrics. To remedy this problem, many papers include
+prescriptions for scaling down the bet size. Such schemes are referred to as Fractional Kelly Betting.
+In this paper, we take the opposite tack. That is, we show that in many cases, the theoretical Kelly-based
+results may lead to bets which are "too conservative" rather than too aggressive. To make this argument,
+we consider a random vector X with its assumed probability distribution and draw m samples to obtain
+an empirically-derived counterpart Xhat. Subsequently, we derive and compare the resulting Kelly
+bets for both X and Xhat with consideration of sample size m as part of the analysis. This leads to identification
+of many cases which have the following salient feature: The resulting bet size using the true theoretical
+distribution for X is much smaller than that for Xhat. If instead the bet is based on empirical data,
+"golden" opportunities are identified which are essentially rejected when the purely theoretical
+model is used. To formalize these ideas, we provide a result which we call the Restricted Betting
+Theorem. An extreme case of the theorem is obtained when X has unbounded support. In this situation,
+using X, the Kelly theory can lead to no betting at all. 

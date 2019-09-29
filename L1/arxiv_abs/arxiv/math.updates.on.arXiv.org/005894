@@ -1,0 +1,16 @@
+In this paper, the goal is to design random or regular samples on the sphere or the rotation group and,
+thereby, construct sensing matrices for sparse recovery of band-limited functions. It is first
+shown that random sensing matrices, which consists of random samples of Wigner D-functions, satisfy
+the Restricted Isometry Property (RIP) with a proper preconditioning and can be used for sparse
+recovery on the rotation group. The mutual coherence, however, is used to assess the performance
+of deterministic and regular sensing matrices. We show that many of widely used regular sampling
+patterns yield sensing matrices with the worst possible mutual coherence, and therefore are undesirable
+for sparse recovery. Using tools from angular momentum analysis in quantum mechanics, we provide
+a new expression for the mutual coherence, which encourages the use of regular elevation samples.
+We construct low coherence deterministic matrices by fixing the regular samples on the elevation
+and minimizing the mutual coherence over the azimuth-polarization choice. It is shown that once
+the elevation sampling is fixed, the mutual coherence has a lower bound that depends only on the elevation
+samples. This lower bound, however, can be achieved for spherical harmonics, which leads to new
+sensing matrices with better coherence than other representative regular sampling patterns.
+This is reflected as well in our the numerical experiments where our proposed sampling patterns
+match perfectly the phase transition of random sampling patterns. 

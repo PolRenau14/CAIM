@@ -1,0 +1,16 @@
+Many recent models consider the structure of individual interstellar medium (ISM) clouds as a way
+to explain observations of large parts of galaxies. To compare such models to observations, one
+must understand how to translate between surface densities observed averaging over large (~kpc)
+scales and surface densities on the scale of individual clouds (~pc scale), which are treated by
+models. We define a "clumping factor" that captures this translation as the ratio of the mass-weighted
+surface density, which is often the quantity of physical interest, to the area-weighted surface
+density, which is observed. We use high spatial resolution (sub-kpc) maps of CO and HI emission from
+nearby galaxies to measure the clumping factor of both atomic and molecular gas. The molecular and
+atomic ISM exhibit dramatically different degrees of clumping. As a result, the ratio H2/HI measured
+at ~kpc resolution cannot be trivially interpreted as a cloud-scale ratio of surface densities.
+HI emission appears very smooth, with a clumping factor of only ~1.3. Based on the scarce and heterogeneous
+high resolution data available, CO emission is far more clumped with a widely variable clumping
+factor, median ~7 for our heterogeneous data. Our measurements do not provide evidence for a universal
+mass-weighted surface density of molecular gas, but also cannot conclusively rule out such a scenario.
+We suggest that a more sophisticated treatment of molecular ISM structure, one informed by high
+spatial resolution CO maps, is needed to link cloud-scale models to kpc-scale observations of galaxies.

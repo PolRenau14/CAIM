@@ -1,0 +1,16 @@
+Motivated by neuroscience applications, we introduce the concept of qualitative detection, that
+is, the problem of determining on-line the current qualitative dynamical behavior (e.g., resting,
+oscillating, bursting, spiking etc.) of a nonlinear system. The approach is thought for systems
+characterized by i) large parameter variability and redundancy, ii) a small number of possible
+robust, qualitatively different dynamical behaviors and, iii) the presence of sharply different
+characteristic timescales. These properties are omnipresent in neurosciences and hamper quantitative
+modeling and fitting of experimental data. As a result, novel control theoretical strategies are
+needed to face neuroscience challenges like on-line epileptic seizure detection. The proposed
+approach aims at detecting the current dynamical behavior of the system and whether a qualitative
+change is likely to occur without quantitatively fitting any model nor asymptotically estimating
+any parameter. We talk of qualitative detection. We rely on the qualitative properties of the system
+dynamics, extracted via singularity and singular perturbation theories, to design low dimensional
+qualitative detectors. We introduce this concept on a general class of singularly perturbed systems
+and then solve the problem for an analytically tractable class of two-dimensional systems with
+a single unknown sigmoidal nonlinearity and two sharply separated timescales. Numerical results
+are provided to show the performance of the designed qualitative detector. 

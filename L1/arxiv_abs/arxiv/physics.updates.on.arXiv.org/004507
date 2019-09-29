@@ -1,0 +1,17 @@
+The Large Volume Plasma device(LVPD), a cylindrically shaped, linear plasma device of dimension(
+$\phi =2m $, $ L =3m $) have successfully demonstrated the excitation of Electron Temperature Gradient(ETG)
+turbulence[ Mattoo et al.,[1]]. The observed ETG turbulence shows significant power between $\omega
+\sim (25-90 krad/s )> \Omega_{ci}(= 8 krad/s )$, corresponding to the wavenumber, $ k_y \rho_e ~
+(0.1- 0.2)$ where, $ \Omega_{ci}$ and $\rho_e(=5 mm ) $, ion cyclotron frequency and electron Larmor
+radius, respectively. The observed frequency and wave number matches well with theoretical estimates
+corresponding to Whistler-ETG mode. We investigated electromagnetic (EM) fluctuations induced
+plasma transport in high beta ( $ \beta \sim 0.01 - 0.4 $ ) ETG mode suitable plasma in LVPD. The radial
+electromagnetic (EM) electron (ion) flux ( $ \Gamma^{e,i}_{em} $) results primarily from the correlation
+between fluctuations of parallel electron current ($\delta J_{\parallel ,e,i}$ ) and radial magnetic
+field ($ \delta B_r $ ). The electromagnetic particle flux is observed to be much smaller than the
+electrostatic particle flux,$ \Gamma_{em}\approx 10^{-5} \Gamma_{es} $ .The EM flux is small
+but finite contrary to the conventional slab ETG model. The electromagnetic flux is non-ambipolar.
+A theoretical model is obtained for the EM particle flux in straight homogeneous magnetic field
+geometry. The theoretical estimates are seen to compare well with the experimental observations.
+Sluggish parallel ion response is identified as the key mechanism for generation of small but finite
+electromagnetic flux. 

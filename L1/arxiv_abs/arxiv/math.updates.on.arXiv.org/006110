@@ -1,0 +1,17 @@
+Guaranteeing ultra reliable low latency communications (URLLC) with high data rates for virtual
+reality (VR) services is a key challenge to enable a dual VR perception: visual and haptic. In this
+paper, a terahertz (THz) cellular network is considered to provide high-rate VR services, thus
+enabling a successful visual perception. For this network, guaranteeing URLLC with high rates
+requires overcoming the uncertainty stemming from the THz channel. To this end, the achievable
+reliability and latency of VR services over THz links are characterized. In particular, a novel
+expression for the probability distribution function of the transmission delay is derived as a
+function of the system parameters. Subsequently, the end-to-end (E2E) delay distribution that
+takes into account both processing and transmission delay is found and a tractable expression of
+the reliability of the system is derived as a function of the THz network parameters such as the molecular
+absorption loss and noise, the transmitted power, and the distance between the VR user and its respective
+small base station (SBS). Numerical results show the effects of various system parameters such
+as the bandwidth and the region of non-negligible interference on the reliability of the system.
+In particular, the results show that THz can deliver rates up to 16.4 Gbps and a reliability of 99.999%
+(with a delay threshold of 30 ms) provided that the impact of the molecular absorption on the THz links,
+which substantially limits the communication range of the SBS, is alleviated by densifying the
+network accordingly. 

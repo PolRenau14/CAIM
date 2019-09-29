@@ -1,0 +1,17 @@
+The zero-bias anomaly at low temperatures, originated by the Kondo effect when an electric current
+flows through a system formed by a spin-$1/2$ quantum dot and two metallic contacts is theoretically
+investigated. In particular, we compare the width of this anomaly $2T_{\rm NE}$ with that of the
+Kondo resonance in the spectral density of states $2T_{K}^{\rho}$, obtained from a Fano fit of the
+corresponding curves and also with the Kondo temperature, $T_K^G$, defined from the temperature
+evolution of the equilibrium conductance $G(T)$. In contrast to $T_K^G$ and $2T_{K}^{\rho}$,
+we found that the scale $2T_{\rm NE}$ strongly depends on the asymmetry between the couplings of
+the quantum dot to the leads while the total hybridization is kept constant. While the three scales
+are of the same order of magnitude, $2T_{\rm NE}$ and $T_{K}^{\rho}$ agree only in the case of large
+asymmetry between the different tunneling couplings of the contacts and the quantum dot. On the
+other hand, for similar couplings, $T_{\rm NE}$ becomes larger than $T_{K}^{\rho}$, reaching
+the maximum deviation, of the order of $30\%$, for identical couplings. The fact that an additional
+parameter to $T_{\rm NE}$ is needed to characterize the Kondo effect, weakenig the universality
+properties, points that some caution should be taken in the usual identification in experiments
+of the low temperature width of the zero-bias anomaly with the Kondo scale. Furthermore, our results
+indicate that the ratios $T_{\rm NE}/T_K^G$ and $T_{K}^{\rho}/T_K^G$ depend on the range used
+for the fitting. 

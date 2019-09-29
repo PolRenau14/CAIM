@@ -1,0 +1,17 @@
+We aim to find the optimal site locations for a hypothetical network of 1-3 triangular gravitational-wave
+telescopes. We define the following N-telescope figures of merit (FoMs) and construct three corresponding
+metrics: (a) capability of reconstructing the signal polarization; (b) accuracy in source localization;
+and (c) accuracy in reconstructing the parameters of a standard binary source. We also define a combined
+metric that takes into account the three FoMs with practically equal weight. After constructing
+a geomap of possible telescope sites, we give the optimal 2-telescope networks for the four FoMs
+separately in example cases where the location of the first telescope has been predetermined. We
+found that based on the combined metric, placing the first telescope to Australia provides the most
+options for optimal site selection when extending the network with a second instrument. We suggest
+geographical regions where a potential second and third telescope could be placed to get optimal
+network performance in terms of our FoMs. Additionally, we use a similar approach to find the optimal
+location and orientation for the proposed LIGO-India detector within a five-detector network
+with Advanced LIGO (Hanford), Advanced LIGO (Livingston), Advanced Virgo, and KAGRA. We found
+that the FoMs do not change greatly in sites within India, though the network can suffer a significant
+loss in reconstructing signal polarizations if the orientation angle of an L-shaped LIGO-India
+is not set to the optimal value of ~58.2deg(+k*90deg) (measured counterclockwise from East to the
+bisector of the arms). 

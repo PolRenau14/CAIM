@@ -1,0 +1,16 @@
+The metasurface concept has emerged as an advantageous reconfigurable antenna architecture for
+beam forming and wavefront shaping, with applications that include satellite and terrestrial
+communications, radar, imaging, and wireless power transfer. The metasurface antenna consists
+of an array of metamaterial elements distributed over an electrically large structure, each subwavelength
+in dimension and with subwavelength separation between elements. In the antenna configuration
+we consider here, the metasurface is excited by the fields from an attached waveguide. Each metamaterial
+element can be modeled as a polarizable dipole that couples the waveguide mode to radiation modes.
+Distinct from the phased array and electronically scanned antenna (ESA) architectures, a dynamic
+metasurface antenna does not require active phase shifters and amplifiers, but rather achieves
+reconfigurability by shifting the resonance frequency of each individual metamaterial element.
+Here we derive the basic properties of a one-dimensional waveguide-fed metasurface antenna in
+the approximation that the metamaterial elements do not perturb the waveguide mode and are non-interacting.
+We derive analytical approximations for the array factors of the 1D antenna, including the effective
+polarizabilities needed for amplitude-only, phase-only, and binary constraints. Using full-wave
+numerical simulations, we confirm the analysis, modeling waveguides with slots or complementary
+metamaterial elements patterned into one of the surfaces. 

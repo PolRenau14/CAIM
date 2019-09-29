@@ -1,0 +1,17 @@
+Thermal atmospheric tides have a strong impact on the rotation of terrestrial planets. They can
+lock these planets into an asynchronous rotation state of equilibrium. We aim at characterizing
+the dependence of the tidal torque resulting from the semidiurnal thermal tide on the tidal frequency,
+the planet orbital radius, and the atmospheric surface pressure. The tidal torque is computed from
+full 3D simulations of the atmospheric climate and mean flows using a generic version of the LMDZ
+general circulation model (GCM) in the case of a nitrogen-dominated atmosphere. Numerical results
+are discussed with the help of an updated linear analytical framework. Power scaling laws governing
+the evolution of the torque with the planet orbital radius and surface pressure are derived. The
+tidal torque exhibits i) a thermal peak in the vicinity of synchronization, ii) a resonant peak associated
+with the excitation of the Lamb mode in the high frequency range, and iii) well defined frequency
+slopes outside these resonances. These features are well explained by our linear theory. Whatever
+the star-planet distance and surface pressure, the torque frequency spectrum -- when rescaled
+with the relevant power laws -- always presents the same behaviour. This allows us to provide a single
+and easily usable empirical formula describing the atmospheric tidal torque over the whole parameter
+space. With such a formula, the effect of the atmospheric tidal torque can be implemented in evolutionary
+models of the rotational dynamics of a planet in a computationally efficient, and yet relatively
+accurate way. 

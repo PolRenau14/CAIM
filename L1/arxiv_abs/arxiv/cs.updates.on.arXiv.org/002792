@@ -1,0 +1,16 @@
+In this paper, we revisit the stability region of a cellular time division duplex (TDD) network.
+We characterize the queuing stability region of a network model that consists of two types of communications:
+(i) users communicating with the base station and (ii) users communicating with each other by passing
+through the base station. When a communication passes through the base station (BS) then a packet
+cannot be delivered to the destination UE until it is first received by the BS queue from the source
+UE. Due to the relaying functionality at the BS level, a coupling is created between the queues of
+the source users and the BS queues. In addition, contrarily to the majority of the existing works
+where an ON/OFF model of transmission is considered, we assume a link adaptation model (i.e. multiple
+rate model) where the bit rate of a link depends on its radio conditions. The coupling between the
+queues as well as the multiple rate model are the main challenges that highly increase the complexity
+of the stability region characterization. In this paper, we propose a simple approach that permits
+to overcome these challenges and to provide a full characterization of the exact stability region
+as a convex polytope with a finite number of vertices. An approximated model is proposed for reducing
+the computational complexity of the exact stability region. For the multi-user scenario, a trade-off
+is established between the complexity and the preciseness of the approximated stability region
+compared to the exact one. Furthermore, numerical results are presented to corroborate our claims.

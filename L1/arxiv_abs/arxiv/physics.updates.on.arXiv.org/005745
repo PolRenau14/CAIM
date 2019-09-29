@@ -1,0 +1,16 @@
+Long-term bone healing/adaptation after a dental implant treatment starts with diffusion of mesenchymal
+stem cells to the fracture callus and their subsequent differentiation. The healing phase is followed
+by the bone-remodeling phase. In this work, a mechano-regulatory cellular differentiation model
+was used to simulate tissue healing around an immediately loaded dental implant. All tissue types
+were modeled as poroelastic in the healing phase. Material properties of the healing region were
+updated after each loading cycle for 30 cycles (days). The tissue distribution in the healed state
+was then used as the initial condition for the remodeling phase during which regions healed into
+bone adapt their internal density with respect to a homeostatic remodeling stimulus. The short-
+and long-term effects of micro-motion on bone healing and remodeling were studied. Development
+of soft tissue was observed both in the coronal region due to high fluid velocity, and on the vertical
+sides of the healing-callus due to high shear stress. In cases with small implant micromotion, tissue
+between the implant threads differentiated into bone during the healing phase, but resorbed during
+remodeling. In cases with large implant micromotion, higher percentage of the healing region differentiated
+into soft tissue resulting in less volume available for bone remodeling. But, the remaining bone
+region developed higher density bone tissue. It was concluded that an optimal range of controlled
+micromotion could be designed for a given implant in order to achieve the desired functional properties.

@@ -1,0 +1,16 @@
+Galaxies are surrounded by sizeable gas reservoirs which host a significant amount of metals: the
+circum-galactic medium (CGM). The CGM acts as a mediator between the galaxy and the extra-galactic
+medium. However, our understanding of how galaxy mergers, a major evolutionary transformation,
+impact the CGM remains deficient. We present a theoretical study of the effect of galaxy mergers
+on the CGM. We use hydrodynamical cosmological zoom-in simulations of a major merger selected from
+the Illustris project such that the z=0 descendant has a halo mass and stellar mass comparable to
+the Milky Way. To study the CGM we then re-simulated this system at a 40 times better mass resolution,
+and included detailed post-processing ionization modelling. Our work demonstrates the effect
+the merger has on the characteristic size of the CGM, its metallicity, and the predicted covering
+fraction of various commonly observed gas-phase species, such as H I, C IV, and O VI. We show that merger-induced
+outflows can increase the CGM metallicity by 0.2-0.3 dex within 0.5 Gyr post-merger. These effects
+last up to 6 Gyr post-merger. While the merger increases the total metal covering fractions by factors
+of 2-3, the covering fractions of commonly observed UV ions decrease due to the hard ionizing radiation
+from the active galactic nucleus, which we model explicitly. Our study of the single simulated major
+merger presented in this work demonstrates the significant impact that a galaxy interaction can
+have on the size, metallicity, and observed column densities of the CGM. 

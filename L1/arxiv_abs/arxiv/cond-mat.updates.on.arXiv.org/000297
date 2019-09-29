@@ -1,0 +1,16 @@
+The Stokes-Einstein relation for the self-diffusion coefficient of a spherical particle suspended
+in an incompressible fluid is an asymptotic result in the limit of large Schmidt number, that is,
+when momentum diffuses much faster than the particle. When the Schmidt number is moderate, which
+happens in most particle methods for hydrodynamics, deviations from the Stokes-Einstein prediction
+are expected. We study these corrections computationally using a recently-developed minimally-resolved
+method for coupling particles to an incompressible fluctuating fluid in both two and three dimensions.
+We find that for moderate Schmidt numbers the diffusion coefficient is reduced relative to the Stokes-Einstein
+prediction by an amount inversely proportional to the Schmidt number in both two and three dimensions.
+We find, however, that the Einstein formula is obeyed at all Schmidt numbers, consistent with linear
+response theory. The numerical data is in good agreement with an approximate self-consistent theory,
+which can be used to estimate finite-Schmidt number corrections in a variety of methods. Our results
+indicate that the corrections to the Stokes-Einstein formula come primarily from the fact that
+the particle itself diffuses together with the momentum. Our study separates effects coming from
+corrections to no-slip hydrodynamics from those of finite separation of time scales, allowing
+for a better understanding of widely observed deviations from the Stokes-Einstein prediction
+in particle methods such as molecular dynamics. 

@@ -1,0 +1,16 @@
+A design for a compact x-ray light source (CXLS) with flux and brilliance orders of magnitude beyond
+existing laboratory scale sources is presented. The source is based on inverse Compton scattering
+of a high brightness electron bunch on a picosecond laser pulse. The accelerator is a novel high-efficiency
+standing-wave linac and RF photoinjector powered by a single ultrastable RF transmitter at x-band
+RF frequency. The high efficiency permits operation at repetition rates up to 1 kHz, which is further
+boosted to 100 kHz by operating with trains of 100 bunches of 100 pC charge, each separated by 5 ns.
+The 100 kHz repetition rate is orders of magnitude beyond existing high brightness copper linacs.
+The entire accelerator is approximately 1 meter long and produces hard x-rays tunable over a wide
+range of photon energies. The colliding laser is a Yb:YAG solid-state amplifier producing 1030
+nm, 100 mJ pulses at the same 1 kHz repetition rate as the accelerator. The laser pulse is frequency-doubled
+and stored for many passes in a ringdown cavity to match the linac pulse structure. At a photon energy
+of 12.4 keV, the predicted x-ray flux is $5 \times 10^{11}$ photons/second in a 5% bandwidth and the
+brilliance is $2 \times 10^{12}$ photons/(mm$^2$ mrad$^2$ sec 0.1% BW) in pulses with RMS pulse
+length of 490 fs. Optimization of the x-ray output is presented along with design of the accelerator,
+laser, and x-ray optic components that are specific to the particular characteristics of the Compton
+scattered x-ray pulses. 

@@ -1,0 +1,17 @@
+Protein contacts contain important information for protein structure and functional study, but
+contact prediction is very challenging especially for protein families without many sequence
+homologs. Recently evolutionary coupling (EC) analysis, which predicts contacts by analyzing
+residue co-evolution in a single target family, has made good progress due to better statistical
+and optimization techniques. Different from these single-family EC methods, this paper presents
+a joint multi-family EC analysis method that predicts contacts of one target family by jointly modeling
+residue co-evolution in itself and also (distantly) related families with divergent sequences
+but similar folds, and enforcing their co-evolution pattern consistency based upon their evolutionary
+distance. To implement this multi-family EC analysis strategy, we use a set of correlated multivariate
+Gaussian distributions to model the related families and then co-estimate the inverse covariance
+matrices of the Gaussian distributions subject to the constraint that these matrices shall have
+similar patterns to some degree. Experiments show that joint multi-family EC analysis can reveal
+many more native contacts than single-family analysis even for a target family with 4000 sequence
+homologs, which makes many more protein families amenable to co-evolution-based structure and
+function prediction. We also find out that contact prediction may be worsened by merging multiple
+related families into a single one followed by single-family EC analysis, or by consensus of single-family
+EC analysis results. 

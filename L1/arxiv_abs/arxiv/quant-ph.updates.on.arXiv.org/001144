@@ -1,0 +1,17 @@
+The stationary Schr\"odinger equation can be cast in the form $H \rho = E \rho$, where $H$ is the system's
+Hamiltonian and $\rho$ is the system's density matrix. We explore the merits of this unconventional
+form of the stationary Schr\"odinger equation, which we refer to as SSE$_\rho$. For a nondegenerate
+energy level, the solution $\rho$ of the SSE$_\rho$ is merely a projection on the corresponding
+eigenvector. However, in the case of degeneracy $\rho$ in non-unique and not necessarily pure.
+In fact, it can be an arbitrary mixture of the degenerate pure eigenstates. Importantly, $\rho$
+can always be chosen to respect all symmetries of the Hamiltonian, even if each pure eigenstate in
+the corresponding degenerate multiplet spontaneously breaks the symmetries. This and other features
+of the solutions of the SSE$_\rho$ can prove helpful by easing the notations and providing an unobscured
+insight into the structure of the eigenstates. We work out the SSE$_\rho$ for the system of spins
+$1/2$ with Heisenberg interactions. Eigenvalue problem for quantum observables other than Hamiltonian
+can also be formulated in terms of density matrices. We provide an analytical solution to one of them,
+${\bf S}^2 \rho=S(S+1) \rho$, where $\bf S$ is the total spin of $N$ spins $1/2$, and $\rho$ is chosen
+to be invariant under permutations of spins. This way we find an explicit form of projections to the
+invariant subspaces of ${\bf S}^2$. Finally, we note that the anti-Hermitian part of the SSE$_\rho$
+can be used to construct sum rules for temperature correlation functions, and provide an example
+of such sum rule. 

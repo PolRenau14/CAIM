@@ -1,0 +1,17 @@
+In this paper, we study FPGA based pipelined and superscalar design of two variants of conjugate
+gradient methods for solving Laplacian equation on a discrete grid; the first version corresponds
+to the original conjugate gradient algorithm, and the second version corresponds to a slightly
+modified version of the same. In conjugate gradient method to solve partial differential equations,
+matrix vector operations are required in each iteration; these operations can be implemented as
+5 point stencil operations on the grid without explicitely constructing the matrix. We show that
+a pipelined and superscalar design using high level synthesis written in C language leads to a significant
+reduction in latencies for both methods. When comparing these two, we show that the later has roughly
+two times lower latency than the former given the same degree of superscalarity. These reductions
+in latencies for the newer variant of CG is due to parallel implementations of stencil operation
+on subdomains of the grid, and dut to overlap of these stencil operations with dot product operations.
+In a superscalar design, domain needs to be partitioned, and boundary data needs to be copied, which
+requires padding. In 1D partition, the padding latency increases as the number of partitions increase.
+For a streaming data flow model, we propose a novel traversal of the grid for 2D domain decomposition
+that leads to 2 times reduction in latency cost involved with padding compared to 1D partitions.
+Our implementation is roughly 10 times faster than software implementation for linear system of
+dimension $10000 \times 10000.$ 

@@ -1,0 +1,16 @@
+The Hubble Source Catalog (HSC) combines lists of sources detected on images obtained with the WFPC2,
+ACS and WFC3 instruments aboard the Hubble Space Telescope (HST) available in the Hubble Legacy
+Archive. The catalog contains time-domain information with about two million of its sources detected
+with the same instrument and filter in at least five HST visits. The Hubble Catalog of Variables (HCV)
+project aims to identify HSC sources showing significant brightness variations. A magnitude-dependent
+threshold in the median absolute deviation of photometric measurements (an outlier-resistant
+measure of lightcurve scatter) is adopted as the variability-detection statistic. It is supplemented
+with a cut in $\chi_{\rm red}^2$ that removes sources with large photometric errors. A pre-processing
+procedure involving bad image identification, outlier rejection and computation of local magnitude
+zero-point corrections is applied to HSC lightcurves before computing the variability detection
+statistic. About 52000 HSC sources are identified as candidate variables, among which 7800 show
+variability in more than one filter. Visual inspection suggests that $\sim 70\%$ of the candidates
+detected in multiple filters are true variables while the remaining $\sim 30\%$ are sources with
+aperture photometry corrupted by blending, imaging artifacts or image processing anomalies.
+The candidate variables have AB magnitudes in the range 15-27$^{m}$ with the median 22$^{m}$. Among
+them are the stars in our own and nearby galaxies as well as active galactic nuclei. 

@@ -1,0 +1,17 @@
+Rapid neutron capture process (r-process) elements have been detected in a large fraction of metal-poor
+halo stars, with abundances relative to iron (Fe) that vary by over two orders of magnitude. This
+scatter is reduced to less than a factor of 3 in younger Galactic disc stars. The large scatter of r-process
+elements in the early Galaxy suggests that the r-process is made by rare events, like compact binary
+mergers and rare sub-classes of supernovae. Although being rare, neutron star mergers alone have
+difficulties to explain the observed enhancement of r-process elements in the lowest metallicity
+stars compared to Fe. The supernovae producing the two neutron stars already provide a substantial
+Fe abundance where the r-process ejecta from the merger would be injected. In this work we investigate
+another complementary scenario, where the r-process occurs in neutron star-black hole mergers
+in addition to neutron star mergers. Neutron star-black hole mergers would eject similar amounts
+of r-process matter as neutron star mergers, but only the neutron star progenitor would have produced
+Fe. Furthermore, a reduced efficiency of Fe production from single stars significantly alters
+the age-metallicity relation, which shifts the onset of r-process production to lower metallicities.
+We use the high-resolution [(20 pc)3/cell] inhomogeneous chemical evolution tool `ICE' to study
+the outcomes of these effects. In our simulations, an adequate combination of neutron star mergers
+and neutron star-black hole mergers qualitatively reproduces the observed r-process abundances
+in the Galaxy. 

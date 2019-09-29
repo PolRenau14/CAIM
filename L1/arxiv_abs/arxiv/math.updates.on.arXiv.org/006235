@@ -1,0 +1,16 @@
+We consider the energy critical heat equation in $\mathbb R^n$ for $n\ge 7$ $$\left\{ \begin{aligned}
+u_t & = \Delta u+ |u|^{\frac 4{n-2}}u \hbox{ in }\ \mathbb R^n \times (0, \infty), \\ u(\cdot,0) &
+= u_0 \ \hbox{ in }\ \mathbb R^n, \end{aligned}\right. $$ which corresponds to the $L^2$-gradient
+flow of the Sobolev-critical energy $$ J(u) = \int_{\mathbb R^n} e[u] , \quad e[u] := \frac 12 |\nabla
+u|^2 - \frac {n-2}{2n} |u|^{\frac {2n}{n-2} }. $$ Given any $k\ge 2$ we find an initial condition
+$u_0$ that leads to sign-changing solutions with {\em multiple blow-up at a single point} (tower
+of bubbles) as $t\to +\infty$. It has the form of a superposition with alternate signs of singularly
+scaled {\em Aubin-Talenti solitons}, $$ u(x,t) = \sum_{j=1}^k (-1)^{j-1} {\mu_j^{-\frac {n-2}2}}
+U \left( \frac {x}{\mu_j} \right)\, +\, o(1) \quad\hbox{as } t\to +\infty $$ where $U(y)$ is the
+standard soliton $ U(y) = % (n(n-2))^{\frac 1{n-2}} \alpha_n\left ( \frac 1{1+|y|^2}\right)^{\frac{n-2}2}$
+and $$\mu_j(t) = \beta_j t^{- \alpha_j}, \quad \alpha_j = \frac 12 \Big ( \, \left( \frac{n-2}{n-6}\right)^{j-1}
+-1 \Big). $$ Letting $\delta_0$ the Dirac mass, we have energy concentration of the form $$ e[ u(\cdot,
+t)]- e[U] \rightharpoonup (k-1) S_n\,\delta_{0} \quad\hbox{as } t\to +\infty $$ where $S_n=J(U)$.
+The initial condition can be chosen radial and compactly supported. We establish the codimension
+$k+ n (k-1)$ stability of this phenomenon for perturbations of the initial condition that have space
+decay $u_0(x) =O( |x|^{-\alpha})$, $\alpha > \frac {n-2}2$, which yields finite energy of the solution.

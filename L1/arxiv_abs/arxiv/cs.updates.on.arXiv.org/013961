@@ -1,0 +1,16 @@
+We study goodness-of-fit of discrete distributions in the distributed setting, where samples
+are divided between multiple users who can only release a limited amount of information about their
+samples due to various information constraints. Recently, a subset of the authors showed that having
+access to a common random seed (i.e., shared randomness) leads to a significant reduction in the
+sample complexity of this problem. In this work, we provide a complete understanding of the interplay
+between the amount of shared randomness available, the stringency of information constraints,
+and the sample complexity of the testing problem by characterizing a tight trade-off between these
+three parameters. We provide a general distributed goodness-of-fit protocol that as a function
+of the amount of shared randomness interpolates smoothly between the private- and public-coin
+sample complexities. We complement our upper bound with a general framework to prove lower bounds
+on the sample complexity of this testing problems under limited shared randomness. Finally, we
+instantiate our bounds for the two archetypal information constraints of communication and local
+privacy, and show that our sample complexity bounds are optimal as a function of all the parameters
+of the problem, including the amount of shared randomness. A key component of our upper bounds is
+a new primitive of domain compression, a tool that allows us to map distributions to a much smaller
+domain size while preserving their pairwise distances, using a limited amount of randomness. 

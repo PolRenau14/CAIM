@@ -1,0 +1,16 @@
+The so-called matrix-element method (MEM) has long been used successfully as a classification
+tool in particle physics searches. In the presence of invisible final state particles, the traditional
+MEM typically assigns probabilities to an event -- based on whether it is more signal or background-like
+-- through a phase space integration over all degrees of freedom of the invisible particles in the
+process(es). One inherent shortcoming of the traditional MEM is that the phase space integration
+can be slow, and therefore impractical for high multiplicity final states and/or large data sets.
+The recent alternative of matrix-element maximisation has recently been introduced to circumvent
+this problem, since maximising a highly-dimensional function can be a far more CPU-efficient task
+than that of integration. In this work, matrix-element maximisation is applied to the process of
+fully-leptonic top associated Higgs production, where the Higgs boson decays to two $b$-quarks.
+A variety of optimisation algorithms are tested in terms of their performance and speed, and it is
+explicitly found that the maximisation technique is far more CPU-efficient than the traditional
+MEM at the cost of a slight reduction in performance. An interesting consequence of using matrix-element
+maximisation is that the result of the procedure gives an estimate of the four-momenta for the invisible
+particles in the event. As a result, the idea of using these estimates as input information for more
+complicated tools is discussed with potential prospects for future developments of the method.

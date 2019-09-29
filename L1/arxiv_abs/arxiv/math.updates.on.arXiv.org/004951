@@ -1,0 +1,17 @@
+In this article we establish novel decompositions of Gaussian fields taking values in suitable
+spaces of generalized functions, and then use these decompositions to prove results about Gaussian
+multiplicative chaos. We prove two decomposition theorems. The first one is a global one and says
+that if the difference between the covariance kernels of two Gaussian fields, taking values in some
+Sobolev space, has suitable Sobolev regularity, then these fields differ by a H\"older continuous
+Gaussian process. Our second decomposition theorem is more specialized and is in the setting of
+Gaussian fields whose covariance kernel has a logarithmic singularity on the diagonal -- or log-correlated
+Gaussian fields. The theorem states that any log-correlated Gaussian field $X$ can be decomposed
+locally into a sum of a H\"older continuous function and an independent almost $\star$-scale invariant
+field (a special class of stationary log-correlated fields with 'cone-like' white noise representations).
+This decomposition holds whenever the term $g$ in the covariance kernel $C_X(x,y)=\log(1/|x-y|)+g(x,y)$
+has locally $H^{d+\varepsilon}$ Sobolev smoothness. We use these decompositions to extend several
+results that have been known basically only for $\star$-scale invariant fields to general log-correlated
+fields. These include the existence of critical multiplicative chaos, analytic continuation
+of the subcritical chaos in the so-called inverse temperature parameter $\beta$, as well as generalised
+Onsager-type covariance inequalities which play a role in the study of imaginary multiplicative
+chaos. 

@@ -1,0 +1,17 @@
+We consider one of the most important problems in directional statistics, namely the problem of
+testing the null hypothesis that the spike direction $\theta$ of a Fisher-von Mises-Langevin distribution
+on the $p$-dimensional unit hypersphere is equal to a given direction $\theta_0$. After a reduction
+through invariance arguments, we derive local asymptotic normality (LAN) results in a general
+high-dimensional framework where the dimension $p_n$ goes to infinity at an arbitrary rate with
+the sample size $n$, and where the concentration $\kappa_n$ behaves in a completely free way with
+$n$, which offers a spectrum of problems ranging from arbitrarily easy to arbitrarily challenging
+ones. We identify various asymptotic regimes, depending on the convergence/divergence properties
+of $(\kappa_n)$, that yield different contiguity rates and different limiting experiments. In
+each regime, we derive Le Cam optimal tests under specified $\kappa_n$ and we compute, from the Le
+Cam third lemma, asymptotic powers of the classical Watson test under contiguous alternatives.
+We further establish LAN results with respect to both spike direction and concentration, which
+allows us to discuss optimality also under unspecified $\kappa_n$. To investigate the non-null
+behavior of the Watson test outside the parametric framework above, we derive its local asymptotic
+powers through martingale CLTs in the broader, semiparametric, model of rotationally symmetric
+distributions. A Monte Carlo study shows that the finite-sample behaviors of the various tests
+remarkably agree with our asymptotic results. 

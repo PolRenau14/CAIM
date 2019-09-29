@@ -1,0 +1,16 @@
+The last years of the 20 th century and the beginning of the 21 th mark the facilitation trend of our
+real life due to the big development and progress of the computers and other intelligent devices.
+Algorithms based on artificial intelligence are basically a part of the software. The transmitted
+information by Internet or LAN arises continuously and it is expected that the protection of the
+data has been ensured. The aim of the present paper is to reveal false names of users' accounts as a
+result of hackers' attacks. The probability a given account to be either false or actual is calculated
+using a novel approach combining machine learning analysis (especially clusters' analysis) with
+chaos theory. The suspected account will be used as a pattern and by classification techniques clusters
+will be formed with a respective probability this name to be false. This investigation puts two main
+purposes: First, to determine if there exists a trend of appearance of the similar usernames, which
+arises during the creation of new accounts. Second, to detect the false usernames and to discriminate
+those from the real ones, independently of that if two types of accounts are generated with the same
+speed. These security systems are applied in different areas, where the security of the data in users'
+accounts is strictly required. For example, they can be used in on-line voting for balloting, in
+studying the social opinion by inquiries, in protection of the information in different user accounts
+of given system etc. 

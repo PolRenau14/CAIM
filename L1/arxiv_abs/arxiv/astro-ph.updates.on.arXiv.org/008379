@@ -1,0 +1,16 @@
+Binaries within the sphere of influence of a massive black hole (MBH) are susceptible to the Lidov-Kozai
+(LK) mechanism, which can drive binaries to high eccentricities and trigger strong interactions
+such as the emission of gravitational waves (GWs), and, ultimately, mergers of compact objects.
+These events are potential sources for GW detectors such as aLIGO and VIRGO. The LK mechanism is only
+effective if the binary is highly inclined with respect to the MBH, implying low rates compared to
+the inferred aLIGO rates. However, close to an MBH, \sqrt{N}-torques from the stellar cluster give
+rise to vector resonant relaxation (VRR), which affects the orientation of the binary around the
+MBH. This process can bring a binary with low inclination into an `active' LK regime in which high
+eccentricities, and, subsequently, strong interactions are triggered. Here, we study the coupled
+LK-VRR dynamics, with implications for aLIGO and VIRGO GW sources. We carry out population synthesis
+simulations and find that the enhancement in the merger fraction is up to a factor of ~10 for the lower
+end of MBH masses (M_MBH = 10e4 M_Sun), and decreases sharply with increasing M_MBH. For M_MBH = 10e4
+M_Sun and with optimistic and highly uncertain assumptions, VRR can boost the merger rate from below
+to above to lower limit inferred by aLIGO. This suggests that compact object mergers in galactic
+nuclei may be dominated by low-mass MBHs, assuming the latter exist. The binary eccentricity when
+reaching the aLIGO band in our simulations is slightly enhanced by VRR, but is small (~1e-5). 

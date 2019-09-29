@@ -1,0 +1,16 @@
+Efficient estimators of Fourier-space statistics for large number of objects rely on Fast Fourier
+Transforms (FFTs), which are affected by aliasing from unresolved small scale modes due to the finite
+FFT grid. Aliasing takes the form of a sum over images, each of them corresponding to the Fourier content
+displaced by increasing multiples of the sampling frequency of the grid. These spurious contributions
+limit the accuracy in the estimation of Fourier-space statistics, and are typically ameliorated
+by simultaneously increasing grid size and discarding high-frequency modes. This results in inefficient
+estimates for e.g. the power spectrum when desired systematic biases are well under per-cent level.
+We show that using interlaced grids removes odd images, which include the dominant contribution
+to aliasing. In addition, we discuss the choice of interpolation kernel used to define density perturbations
+on the FFT grid and demonstrate that using higher-order interpolation kernels than the standard
+Cloud in Cell algorithm results in significant reduction of the remaining images. We show that combining
+fourth-order interpolation with interlacing gives very accurate Fourier amplitudes and phases
+of density perturbations. This results in power spectrum and bispectrum estimates that have systematic
+biases below 0.01% all the way to the Nyquist frequency of the grid, thus maximizing the use of unbiased
+Fourier coefficients for a given grid size and greatly reducing systematics for applications to
+large cosmological datasets. 

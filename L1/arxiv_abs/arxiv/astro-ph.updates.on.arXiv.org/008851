@@ -1,0 +1,16 @@
+We analyze the stellar growth of Brightest Cluster Galaxies (BCGs) produced by cosmological zoom-in
+hydrodynamical simulations of the formation of massive galaxy clusters. The evolution of the stellar
+mass content is studied considering different apertures, and tracking backwards either the main
+progenitor of the $z=0$ BCG or that of the cluster hosting the BCG at $z=0$. Both methods lead to similar
+results up to $z \simeq 1.5$. The simulated BCGs masses at $z=0$ are in agreement with recent observations.
+In the redshift interval from $z=1$ to $z=0$ we find growth factors 1.3, 1.6 and 3.6 for stellar masses
+within 30kpc, 50kpc and 10% of $R_{500}$ respectively. The first two factors, and in general the
+mass evolution in this redshift range, are in agreement with most recent observations. The last
+larger factor is similar to the growth factor obtained by a semi-analytical model (SAM). Half of
+the star particles that end up in the inner 50 kpc was typically formed by redshift $\sim$ 3.7, while
+the assembly of half of the BCGs stellar mass occurs on average at lower redshifts $\sim 1.5$. This
+assembly redshift correlates with the mass attained by the cluster at high $z \gtrsim 1.3$, due to
+the broader range of the progenitor clusters at high-$z$. The assembly redshift of BCGs decreases
+with increasing apertures. Our results are compatible with the {\it inside-out} scenario. Simulated
+BCGs could lack intense enough star formation (SF) at high redshift, while possibly exhibit an excess
+of residual SF at low redshift. 

@@ -1,0 +1,16 @@
+Time-delay cosmography provides a unique way to directly measure the Hubble constant ($H_{0}$).
+The precision of the $H_{0}$ measurement depends on the uncertainties in the time-delay measurements,
+the mass distribution of the main deflector(s), and the mass distribution along the line of sight.
+Tie and Kochanek (2018) have proposed a new microlensing effect on time delays based on differential
+magnification of the accretion disc of the lensed quasar. If real, this effect could significantly
+broaden the uncertainty on the time delay measurements by up to $30\%$ for lens systems such as PG1115+080,
+which have relatively short time delays and monitoring over several different epochs. In this paper
+we develop a new technique that uses the time-delay ratios and simulated microlensing maps within
+a Bayesian framework in order to limit the allowed combinations of microlensing delays and thus
+to lessen the uncertainties due to the proposed effect. We show that, under the assumption of Tie
+and Kochanek (2018), the uncertainty on the time-delay distance ($D_{\Delta t}$, which is proportional
+to 1/$H_{0}$) of short time-delay ($\sim18$ days) lens, PG1115+080, increases from $\sim7\%$
+to $\sim10\%$ by simultaneously fitting the three time-delay measurements from the three different
+datasets across twenty years, while in the case of long time-delay ($\sim90$ days) lens, the microlensing
+effect on time delays is negligible as the uncertainty on $D_{\Delta t}$ of RXJ1131-1231 only increases
+from $\sim2.5\%$ to $\sim2.6\%$. 

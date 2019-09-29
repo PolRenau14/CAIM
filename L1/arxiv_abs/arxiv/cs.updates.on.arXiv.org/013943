@@ -1,0 +1,16 @@
+Background: Developers spend a significant amount of time and efforts to localize bugs. In the literature,
+many researchers proposed state-of-the-art bug localization models to help developers localize
+bugs easily. The practitioners, on the other hand, expect a bug localization tool to meet certain
+criteria, such as trustworthiness, scalability, and efficiency. The current models are not capable
+of meeting these criteria, making it harder to adopt these models in practice. Recently, deep-learning-based
+bug localization models have been proposed in the literature, which show a better performance than
+the state-of-the-art models. Aim: In this research, we would like to investigate whether deep learning
+models meet the expectations of practitioners or not. Method: We constructed a Convolution Neural
+Network and a Simple Logistic model to examine their effectiveness in localizing bugs. We train
+these models on five open source projects written in Java and compare their performance with the
+performance of other state-of-the-art models trained on these datasets. Results: Our experiments
+show that although the deep learning models perform better than classic machine learning models,
+they meet the adoption criteria set by the practitioners only partially. Conclusions: This work
+provides evidence that the practitioners should be cautious while using the current state of the
+art models for production-level use-cases. It also highlights the need for standardization of
+performance benchmarks to ensure that bug localization models are assessed equitably and realistically.

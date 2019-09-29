@@ -1,0 +1,16 @@
+In this paper, we consider the problems of minimizing sum power and maximizing sum rate for multi-cell
+networks with non-orthogonal multiple access (NOMA). For sum power minimization, we transform
+it into an equivalent linear problem with fewer variables and obtain the optimal power allocation
+strategy for users in closed-form expression. To solve the noconvex sum rate maximization problem,
+we prove that the power allocation problem for a single cell is a convex problem. Further, by analyzing
+the Karush-Kuhn-Tucker (KKT) conditions, we reveal that the optimal power allocation strategy
+for each base station (BS) is to allocate additional power to its served user with the highest channel
+gain, while other users served by this BS are allocated with minimum power to maintain their rate
+requirements. Based on this observation, the original sum rate maximization problem can be simplified
+to an equivalent problem with variables in dimension of the total number of BSs. It is shown that the
+objective function of the simplified problem can be readily rewritten as a minimization of a difference
+of convex functions (DC). By using this representation, DC programming approach is applied to transform
+and approximate the simplified problem to convex optimization problems. By solving this set of
+approximately convex problems iteratively, a suboptimal solution to the sum rate maximization
+problem can be obtained. Numerical results illustrate the theoretical findings, showing the superiority
+of our solutions compared to orthogonal frequency multiple division multiple access (OFDMA).

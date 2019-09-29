@@ -1,0 +1,16 @@
+In the physical world, people have dynamic preferences, e.g., the same situation can lead to satisfaction
+for some humans and to frustration for others. Personalization is called for. The same observation
+holds for online behavior with interactive systems. It is natural to represent the behavior of users
+who are engaging with interactive systems such as a search engine or a recommender system, as a sequence
+of actions where each next action depends on the current situation and the user reward of taking a
+particular action. By and large, current online evaluation metrics for interactive systems such
+as search engines or recommender systems, are static and do not reflect differences in user behavior.
+They rarely capture or model the reward experienced by a user while interacting with an interactive
+system. We argue that knowing a user's reward function is essential for an interactive system as
+both for learning and evaluation. We propose to learn users' reward functions directly from observed
+interaction traces. In particular, we present how users' reward functions can be uncovered directly
+using inverse reinforcement learning techniques. We also show how to incorporate user features
+into the learning process. Our main contribution is a novel and dynamic approach to restore a user's
+reward function. We present an analytic approach to this problem and complement it with initial
+experiments using the interaction logs of a cultural heritage institution that demonstrate the
+feasibility of the approach by uncovering different reward functions for different user groups.

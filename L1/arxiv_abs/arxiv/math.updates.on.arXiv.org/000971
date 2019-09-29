@@ -1,0 +1,17 @@
+In this paper we propose a new spatially high order accurate semi-implicit discontinuous Galerkin
+(DG) method for the solution of the two dimensional incompressible Navier-Stokes equations on
+staggered unstructured curved meshes. While the discrete pressure is defined on the primal grid,
+the discrete velocity vector field is defined on an edge-based dual grid. The flexibility of high
+order DG methods on curved unstructured meshes allows to discretize even complex physical domains
+on rather coarse grids. Formal substitution of the discrete momentum equation into the discrete
+continuity equation yields one sparse block four-diagonal linear equation system for only one
+scalar unknown, namely the pressure. The method is computationally efficient, since the resulting
+system is not only very sparse but also symmetric and positive definite for appropriate boundary
+conditions. Furthermore, all the volume and surface integrals needed by the scheme presented in
+this paper depend only on the geometry and the polynomial degree of the basis and test functions and
+can therefore be precomputed and stored in a preprocessor stage, which leads to savings in terms
+of computational effort for the time evolution part. In this way also the extension to a fully curved
+isoparametric approach becomes natural and affects only the preprocessing step. The method is
+validated for polynomial degrees up to $p=3$ by solving some typical numerical test problems and
+comparing the numerical results with available analytical solutions or other numerical and experimental
+reference data. 

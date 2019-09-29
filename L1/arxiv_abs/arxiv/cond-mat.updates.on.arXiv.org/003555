@@ -1,0 +1,16 @@
+Shape memory alloys (SMAs) have been intensively investigated as actuators for the past several
+decades. Due to their high actuation energy density compared to other active materials, their current
+and potential applications in engineering fields are expanding rapidly. Prior to being used as
+actuators, SMAs are usually subjected to a training process to stabilize their behavior. During
+the training process, permanent changes are introduced in the microstructure of the material which
+results in the generation of internal stresses and a large amount of irrecoverable Transformation
+Induced Plastic strain (TRIP). The generated internal stresses along with a potential thermal
+loading provide the driving force to induce the oriented phase transformation so that the SMA-based
+actuators are able to exhibit the Two-Way Shape Memory Effect (TWSME) without applying external
+bias load. To predict this intrinsic phenomenon, a three-dimensional phenomenological constitutive
+model for untrained SMAs is presented. The proposed model utilizes the martensitic volume fraction,
+transformation strain, TRIP strain, and internal stress as internal state variables so that it
+is able to account for the evolution of TRIP strain and the TWSME for untrained SMAs under cyclic thermomechanical
+loading conditions. In the end, boundary value problems considering an untrained SMA material
+under isothermal/isobaric cyclic loading are solved and the predicted cyclic response is compared
+against available experimental data to demonstrate the proposed capabilities. 

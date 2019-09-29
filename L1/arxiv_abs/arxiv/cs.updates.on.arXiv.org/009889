@@ -1,0 +1,16 @@
+We introduce $\textit{semi-unsupervised learning}$, an extreme case of semi-supervised learning
+with ultra-sparse categorisation where some classes have no labels in the training set. That is,
+in the training data some classes are sparsely labelled and other classes appear only as unlabelled
+data. Many real-world datasets are conceivably of this type. We demonstrate that effective learning
+in this regime is only possible when a model is capable of capturing both semi-supervised and unsupervised
+learning. We develop two deep generative models for classification in this regime that extend previous
+deep generative models designed for semi-supervised learning. By changing their probabilistic
+structure to contain a mixture of Gaussians in their continuous latent space, these new models can
+learn in both unsupervised and semi-unsupervised paradigms. We demonstrate their performance
+both for semi-unsupervised and unsupervised learning on various standard datasets. We show that
+our models can learn in an semi-unsupervised manner on Fashion-MNIST. Here we artificially mask
+out all labels for half of the classes of data and keep $2\%$ of labels for the remaining classes. Our
+model is able to learn effectively, obtaining a trained classifier with $(77.2\pm1.3)\%$ test
+set accuracy. We also can train on Fashion-MNIST unsupervised, obtaining $(75.2\pm1.5)\%$ test
+set accuracy. Additionally, doing the same for MNIST unsupervised we get $(96.3\pm0.9)\%$ test
+set accuracy, which is state-of-the art for fully probabilistic deep generative models. 

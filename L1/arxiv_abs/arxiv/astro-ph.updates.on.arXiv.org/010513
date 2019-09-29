@@ -1,0 +1,16 @@
+We present here an efficient method for computing the visible flux for each body during a multi-body
+eclipsing event for all commonly used limb darkening laws. Our approach follows the idea put forth
+by Pal (2012) to apply Green's Theorem on the limb darkening integral, thus transforming the two-dimensional
+flux integral over the visible disk into a one-dimensional integral over the visible boundary.
+We implement this idea through an iterative process which combines a fast method for describing
+the visible boundary of each body with a fast numerical integration scheme to compute the integrals.
+For the two-body case, our method compares well in speed with both that of Mandel & Agol (2002) and
+that of Gimenez (2006a). The strength of the method is that it works for any number of spherical bodies,
+with a computational accuracy that is adjustable through the use of a tolerance parameter. Most
+significantly, the method offers two main advantages over previously used techniques: (i) it can
+employ a multitude of limb darkening laws, including all of the commonly used ones; (ii) it can compute
+the Rossiter-McLaughlin effect for rigid body rotation with an arbitrary orientation of the rotation
+axis, using any of these limb darkening laws. In addition, we can compute the Rossiter-McLaughlin
+effect for stars exhibiting differential rotation, using the quadratic limb darkening law. We
+provide the mathematical background for the method and explain in detail how to implement the technique
+with the help of several examples and codes which we make available. 

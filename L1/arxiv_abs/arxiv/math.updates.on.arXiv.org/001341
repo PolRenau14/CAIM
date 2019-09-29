@@ -1,0 +1,17 @@
+Determination of the most economic strategies for supply and transmission of electricity is a daunting
+computational challenge. Due to theoretical barriers, so-called NP-hardness, the amount of effort
+to optimize the schedule of generating units and route of power, can grow exponentially with the
+number of decision variables. Practical approaches to this problem involve legacy approximations
+and ad-hoc heuristics that may undermine the efficiency and reliability of power system operations,
+that are ever growing in scale and complexity. Therefore, the development of powerful optimization
+methods for detailed power system scheduling is critical to the realization of smart grids and has
+received significant attention recently. In this paper, we propose for the first time a computational
+method, which is capable of solving large-scale power system scheduling problems with thousands
+of generating units, while accurately incorporating the nonlinear equations that govern the flow
+of electricity on the grid. The utilization of this accurate nonlinear model, as opposed to its linear
+approximations, results in a more efficient and transparent market design, as well as improvements
+in the reliability of power system operations. We design a polynomial-time solvable third-order
+semidefinite programming (TSDP) relaxation, with the aim of finding a near globally optimal solution
+for the original NP-hard problem. The proposed method is demonstrated on the largest available
+benchmark instances from real-world European grid data, for which provably optimal or near-optimal
+solutions are obtained. 

@@ -1,0 +1,15 @@
+Despite its dominance, hydrogen has been largely ignored in studies of the abundance patterns of
+the chemical elements in gradual solar energetic-particle (SEP) events; those neglected abundances
+show a surprising new pattern of behavior. Abundance enhancements of elements with 2 <= Z <= 56, relative
+to coronal abundances, show a power-law dependence, versus their average mass-to-charge ratio
+A/Q, that varies from event to event and with time during events. The ion charge states Q depend upon
+the source plasma temperature T. For most gradual SEP events, shock waves have accelerated ambient
+coronal material with T < 2 MK with decreasing power-laws in A/Q. In this case, the proton abundances
+agree rather well with the power-law fits extrapolated from elements with Z >= 6 at A/Q > 2 down to hydrogen
+at A/Q = 1. Thus the abundances of the elements with Z >= 6 fairly accurately predict the observed abundance
+of H, at a similar velocity, in most SEP events. However, for those gradual SEP events where ion enhancements
+follow positive powers of A/Q, especially those with T > 2 MK where shock waves have reaccelerated
+residual suprathermal ions from previous impulsive SEP events, proton abundances commonly exceed
+the extrapolated expectation, usually by a factor of order ten. This is a new and unexpected pattern
+of behavior that is unique to the abundances of protons and may be related to the need for more streaming
+protons to produce sufficient waves for scattering and acceleration of more heavy ions at the shock.

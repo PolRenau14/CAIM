@@ -1,0 +1,16 @@
+This paper considers optimal control of dynamical systems which are represented by nonlinear stochastic
+differential equations. It is well-known that the optimal control policy for this problem can be
+obtained as a function of a value function that satisfies a nonlinear partial differential equation,
+namely, the Hamilton-Jacobi-Bellman equation. This nonlinear PDE must be solved backwards in
+time, and this computation is intractable for large scale systems. Under certain assumptions,
+and after applying a logarithmic transformation, an alternative characterization of the optimal
+policy can be given in terms of a path integral. Path Integral (PI) based control methods have recently
+been shown to provide elegant solutions to a broad class of stochastic optimal control problems.
+One of the implementation challenges with this formalism is the computation of the expectation
+of a cost functional over the trajectories of the unforced dynamics. Computing such expectation
+over trajectories that are sampled uniformly may induce numerical instabilities due to the exponentiation
+of the cost. Therefore, sampling of low-cost trajectories is essential for the practical implementation
+of PI-based methods. In this paper, we use incremental sampling-based algorithms to sample useful
+trajectories from the unforced system dynamics, and make a novel connection between Rapidly-exploring
+Random Trees (RRTs) and information-theoretic stochastic optimal control. We show the results
+from the numerical implementation of the proposed approach to several examples. 

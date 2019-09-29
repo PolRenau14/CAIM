@@ -1,0 +1,16 @@
+The first goal of this paper is to provide an abstract framework in which to formulate and study local
+duality in various algebraic and topological contexts. For any stable $\infty$-category $\mathcal{C}$
+together with a collection of compact objects $\mathcal{K} \subset \mathcal{C}$ we construct
+local cohomology and local homology functors satisfying an abstract version of local duality.
+When specialized to the derived category of a commutative ring $A$ and a suitable ideal in $A$, we
+recover the classical local duality due to Grothendieck as well as generalizations by Greenlees
+and May. More generally, applying our result to the derived category of quasi-coherent sheaves
+on a quasi-compact and separated scheme $X$ implies the local duality theorem of Alonso Tarr\'io,
+Jerem\'ias L\'opez, and Lipman. As a second objective, we establish local duality for quasi-coherent
+sheaves over many algebraic stacks, in particular those arising naturally in stable homotopy theory.
+After constructing an appropriate model of the derived category in terms of comodules over a Hopf
+algebroid, we show that, in familiar cases, the resulting local cohomology and local homology theories
+coincide with functors previously studied by Hovey and Strickland. Furthermore, our framework
+applies to global and local stable homotopy theory, in a way which is compatible with the algebraic
+avatars of these theories. In order to aid computability, we provide spectral sequences relating
+the algebraic and topological local duality contexts. 

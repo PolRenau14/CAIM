@@ -1,0 +1,16 @@
+We study compact group actions with finite Rokhlin dimension, particularly in relation to crossed
+products. For example, we characterize the duals of such actions, generalizing previous partial
+results for the Rokhlin property. As an application, we determine the ideal structure of their crossed
+products. Under the assumption of so-called commuting towers, we show that taking crossed products
+by such actions preserves a number of relevant classes of C*-algebras, including: $D$-absorbing
+C*-algebras, where $D$ is a strongly self-absorbing C*-algebra, stable C*-algebras, C*-algebras
+with finite nuclear dimension (or decomposition rank), C*-algebras with finite stable rank (or
+real rank), and C*-algebras whose K-theory is either trivial, rational, or $n$-divisible for $n\in\mathbb{N}$.
+The combination of nuclearity and the UCT is also shown to be preserved by these actions. Some of these
+results are new even in the well-studied case of the Rokhlin property. Additionally, and under some
+technical assumptions, we show that finite Rokhlin dimension with commuting towers implies the
+(weak) tracial Rokhlin property. At the core of our arguments is a certain local approximation of
+the crossed product by a continuous $C(X)$-algebra with fibers that are stably isomorphic to the
+underlying algebra. The space $X$ is computed in some cases of interest, and we use its description
+to construct a $\mathbb{Z}_2$-action on a unital AF-algebra and on a unital Kirchberg algebra satisfying
+the UCT, whose Rokhlin dimensions with and without commuting towers are finite but do not agree.

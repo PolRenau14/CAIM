@@ -1,0 +1,16 @@
+We study the phase transition from the persistence phase to the extinction phase for the SIRS (susceptible/
+infected/ refractory/ susceptible) model of diseases spreading on the networks. We derive an analytical
+expression of the probability for the descendants nodes to re-infect their ancestors nodes. We
+find that, in the case of the recovery time $\tau_R$ is larger than the infection time $\tau_I$, the
+infection will flow directionally from the ancestors to the descendants however, the descendants
+will not able to reinfect their ancestors during their infection time. This behavior leads us to
+deduce that, for this case and when the infection rate $\lambda$ is high enough in such that, any infected
+node on the network infects all of its neighbors during its infection time, SIRS model on the network
+evolves to extinction state, where all the nodes on the network become susceptible. Moreover, we
+assert that, in order to the infection occurs repeatedly inside the network, the loops on the network
+are necessary, which means the clustering coefficient will play an important role for this model.
+Hence, unlike the other models such as SIS model and SIR model, SIRS model has a two critical threshold
+which separate the persistence phase from the extinction phase when $\tau_I<\tau_R$. That means,
+for fixed values of $\tau_I$ and $\tau_R$ there are a two critical points for infection rate $\lambda_1$
+and $\lambda_2$, where epidemic persists in between of those two points. We confirm those results
+numerically by the simulation of regular one dimensional SIRS system. 

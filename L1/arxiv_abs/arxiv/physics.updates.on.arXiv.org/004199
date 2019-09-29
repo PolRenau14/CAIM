@@ -1,0 +1,16 @@
+The Pulsed RF Heating (PRFH) is the well known effect in the development of high gradient accelerating
+cavities. There is a lot of research dedicated to the tolerable strength of electromagnetic field
+and the corresponding temperature rise leading to the surface degradation and cavity performance
+violation. To provide high quality of electron bunches, RF gun cavities operate in electron sources
+with high electric, and hence, magnetic RF fields. Being at the safe side with respect to cavity surface
+degradation, related to the PRFH result for S band in essentially transient thermal deformations,
+leading to the cavity frequency shift and quality factor change even within a few microseconds in
+the RF pulse. Thermo-elastic deformations consist of slow heat propagation from the cavity surface
+and fast elastic wave propagation from the very thin heated surface layer inside the cavity body
+with different in five orders typical velocities. For simulations of PRFH effects for more or less
+practical cavity design we can get results only in direct numerical simulations with certified
+software like ANSYS. The critical issue for such direct simulations is to combine in a single model
+the possibility of correct description for such qualitatively different process and to prove the
+reasonable precision of simulations. This report describes the procedure for simulation of PRFH
+related transient thermo-elastic deformations in S band cavities. The results of test simulations
+are presented to show the relative precision of simulations. 

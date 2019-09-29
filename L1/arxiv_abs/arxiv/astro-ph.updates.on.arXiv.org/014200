@@ -1,0 +1,16 @@
+We analyze the production of the element Cr in galactic chemical evolution (GCE) models using the
+NuGrid nucleosynthesis yields set. We show that the unusually large [Cr/Fe] abundance at [Fe/H]
+$\approx 0$ reported by previous studies using those yields and predicted by our Milky Way model
+originates from the merging of convective Si-burning and C-burning shells in a 20 $M_\odot$ model
+at metallicity $Z=0.01$, about an hour before the star explodes. This merger mixes the incomplete
+burning material in the Si shell, including $^{51}$V and $^{52}$Cr, out to the edge of the carbon/oxygen
+(CO) core. The adopted supernova model ejects the outer 2 $M_\odot$ of the CO core, which includes
+a significant fraction of the Cr-rich material. When including this 20 $M_\odot$ model at $Z=0.01$
+in the yields interpolation scheme of our GCE model for stars in between 15 and 25 $M_\odot$, we overestimate
+[Cr/Fe] by an order of magnitude at [Fe/H] $\approx$ 0 relative to observations in the Galactic disk.
+This raises a number of questions regarding the occurrence of Si-C shell mergers in nature, the accuracy
+of different simulation approaches, and the impact of such mergers on the pre-supernova structure
+and explosion dynamics. According to the conditions in this 1D stellar model, the substantial penetration
+of C-shell material into the Si-shell could launch a convective-reactive global oscillation,
+if a merger does take place. In any case, GCE provides stringent constraints on the outcome of this
+stellar evolution phase. 

@@ -1,0 +1,16 @@
+Methods for automated collection and annotation are changing the cost-structures of random sampling
+surveys for a wide range of applications. Digital samples in the form of images, audio recordings
+or electronic documents can be collected cheaply, and in addition computer programs or crowd workers
+can be utilized to provide cheap annotations of collected samples. We consider the problem of estimating
+a population mean using random sampling under these new cost-structures and propose a novel `hybrid'
+sampling design. This design utilizes a pair of annotators, a primary, which is accurate but costly
+(e.g. a human expert) and an auxiliary which is noisy but cheap (e.g. a computer program), in order
+to minimize the total cost of collection and annotation. We show that hybrid sampling is applicable
+under a key condition: that the noise of the auxiliary annotator is smaller than the variance of the
+sampled data. Under this condition, hybrid sampling can reduce the amount of primary annotations
+needed and minimize total expenditures. The efficacy of hybrid sampling is demonstrated on two
+marine ecology data mining applications, where computer programs were utilized in a hybrid sampling
+designs to reduce the total cost by 50 - 79% compared to a sampling design that relied only on a human
+expert. In addition, a `transfer' sampling design is derived which use the auxiliary annotations
+only. Transfer sampling can be very cost-effective, but it requires a priori knowledge of the auxiliary
+annotator misclassification rates. We discuss specific situations where such design is applicable.

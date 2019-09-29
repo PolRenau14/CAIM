@@ -1,0 +1,16 @@
+Halide double perovskites have recently been proposed as potential environmentally friendly
+alternatives to organic group and lead based hybrid halide perovskites. In particular, Cs2BiAgX6
+have been synthesized and found to exhibit tunable band gaps in the visible range. However, the band
+gaps of these compounds are indirect, not ideal for applications in thin film photovoltaics. Here
+in this work we have carried out systematic modelling, using a materials genome approach in the framework
+of the density functional theory (DFT), to formulate a new system of solar absorption layer based
+on Cs2InAgX6 and its heterojunction device. Through Cl partial substitution on Br in Cs2InAgBr6
+to optimize its thermodynamic stability after the calculation of ATAT proportion searching and
+Gibbs free energy, we have identified a series of stable cubic structured phases, with the general
+formula of Cs2AgInBr(6-x)Clx, as remarkable solar absorption layer to enable harvesting the solar
+energy. The optimized Cs2InAgBr5Cl compound is a marvellous solar absorption layer, with direct
+1.92 eV bandgap and high solar absorption ability, consistent with Cs2InAgBr6 at standard room
+temperature (298 K). Assembling with anatase as n type TCO and Cs6Ag4In4Br18Cl4 as p type TCO fabricated
+by introducing Cs_Br defect, the heterojunction is integrated into PSCs based on the standard pin
+structure (TiO2_Cs2InAgBr5Cl_Cs6Ag4In4Br18Cl4), the lattice mismatching, microscopic function
+and band offset are evaluated for this well designed device. 

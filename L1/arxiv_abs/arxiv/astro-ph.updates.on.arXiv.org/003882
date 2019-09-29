@@ -1,0 +1,16 @@
+Accurate measurements of galaxy masses and sizes are key to tracing galaxy evolution over time.
+Cosmological zoom-in simulations provide an ideal test bed for assessing the recovery of galaxy
+properties from observations. Here we utilize galaxies with $M_*\sim10^{10}-10^{11.5}M_{\odot}$
+at z~1.7-2 from the MassiveFIRE cosmological simulation suite, part of the Feedback in Realistic
+Environments (FIRE) project. Using mock multi-band images, we compare intrinsic galaxy masses
+and sizes to observational estimates. We find that observations accurately recover stellar masses,
+with a slight average underestimate of ~0.06 dex and a ~0.15 dex scatter. Recovered half-light radii
+agree well with intrinsic half-mass radii when averaged over all viewing angles, with a systematic
+offset of ~0.1 dex (with the half-light radii being larger) and a scatter of ~0.2 dex. When using color
+gradients to account for mass-to-light variations, recovered half-mass radii also exceed the
+intrinsic half-mass radii by ~0.1 dex. However, if not properly accounted for, aperture effects
+can bias size estimates by ~0.1 dex. No differences are found between the mass and size offsets for
+star-forming and quiescent galaxies. Variations in viewing angle are responsible for ~25% of the
+scatter in the recovered masses and sizes. Our results thus suggest that the intrinsic scatter in
+the mass-size relation may have previously been overestimated by ~25%. Moreover, orientation-driven
+scatter causes the number density of very massive galaxies to be overestimated by ~0.5 dex at $M_*\sim10^{11.5}M_{\odot}$.

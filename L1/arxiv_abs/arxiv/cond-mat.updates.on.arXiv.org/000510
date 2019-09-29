@@ -1,0 +1,16 @@
+Decoherence in quantum logic gates (qubits) due to interaction with the surrounding environment
+is a major obstacle to the practical realization of quantum information technologies. For solid
+state electron-spin qubits the interaction with nuclear spins is the main problem. One particular,
+neradicable source of electron decoherence arises from decoherence of the nuclear spin bath, driven
+by nuclear-nuclear dipolar interactions. Due to its many-body nature nuclear decoherence is difficult
+to predict, especially for an important class of strained nanostructures where nuclear quadrupolar
+effects have a significant but largely unknown impact. Here we report direct measurement of nuclear
+spin bath coherence in individual strained InGaAs/GaAs quantum dots: nuclear spin-echo coherence
+times in the range T2~1.2 - 4.5 ms are found. Based on these T2 values we demonstrate that quadrupolar
+interactions make nuclear fluctuations in strained quantum dots much slower compared to lattice
+matched GaAs/AlGaAs structures. Such fluctuation suppression is particularly strong for arsenic
+nuclei due to the effect of atomic disorder of gallium and indium alloying. Our findings demonstrate
+that quadrupolar effects can help to solve the long-standing challenge of designing a scalable
+hardware for quantum computation: III-V semiconductor spin-qubits can be engineered to have a
+noise-free nuclear spin bath (previously achievable only in nuclear spin-0 semiconductors, where
+qubit network interconnection and scaling is challenging). 

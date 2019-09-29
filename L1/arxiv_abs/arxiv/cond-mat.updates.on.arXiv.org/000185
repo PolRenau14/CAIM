@@ -1,0 +1,17 @@
+We calculate the tunnelling current through a Fabry-P\'{e}rot interferometer in the fractional
+quantum Hall regime. Within linear response theory (weak tunnelling but arbitrary source-drain
+voltage) we find a general expression for the current due to tunnelling of quasiparticles in terms
+of Carlson's $R$ function. Our result is valid for fractional quantum Hall states with an edge theory
+consisting of a charged channel and any number of neutral channels, with possibly different edge
+velocities and different chiralities. We analyse the case with a single neutral channel in detail,
+which applies for instance to the edge of the Moore-Read state. In addition we consider an asymmetric
+interferometer with different edge lengths between the point contacts on opposite edges, and we
+study the behaviour of the current as a function of varying edge length. Recent experiments attempted
+to measure the Aharanov-Bohm effect by changing the area inside the interferometer using a plunger
+gate. Theoretical analyses of these experiments have so far not taken into account the accompanying
+change in the edge lengths. We show that the tunnelling current exhibits multiple osculations as
+a function of this edge length, with frequencies proportional to the injected edge current and inversely
+proportional to the edge velocities. In particular the edge velocities can be measured by looking
+at the Fourier spectrum of the edge current. We provide a numerical scheme to calculate and plot the
+$R$ function, and include sample plots for a variety of edge states with parameter values which are
+experimentally relevant. 

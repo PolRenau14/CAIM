@@ -1,0 +1,16 @@
+This is the fourth in a series of papers on developing a formulation of quantum mechanics in non-inertial
+reference frames. This formulation is grounded in a class of unitary cocycle representations of
+what we have called the Galilean line group, the generalization of the Galilei group to include transformations
+amongst non-inertial reference frames. These representations show that in quantum mechanics,
+just as the case in classical mechanics, the transformations to accelerating reference frames
+give rise to fictitious forces. In previous work, we have shown that there exist representations
+of the Galilean line group that uphold the non-relativistic equivalence principle as well as representations
+that violate the equivalence principle. In these previous studies, the focus was on linear accelerations.
+In this paper, we undertake an extension of the formulation to include rotational accelarations.
+We show that the incorporation of rotational accelerations requires a class of \emph{loop prolongations}
+of the Galilean line group and their unitary cocycle representations. We recover the centrifugal
+and Coriolis force effects from these loop representations. Loops are more general than groups
+in that their multiplication law need not be associative. Hence, our broad theoretical claim is
+that a Galilean quantum theory that holds in arbitrary non-inertial reference frames requires
+going beyond groups and group representations, the well-stablished framework for implementing
+symmetry transformations in quantum mechanics. 

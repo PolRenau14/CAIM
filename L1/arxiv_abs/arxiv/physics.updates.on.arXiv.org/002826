@@ -1,0 +1,16 @@
+Muon Spin Rotation, Relaxation and Resonance ({\mu}SR) technology has an irreplaceable role in
+studying the microstructure and properties of materials, especially micro-magnetic properties.
+An experimental muon source is being built in China Spallation Neutron Source (CSNS) now. At the
+same time, a 128-channel {\mu}SR spectrometer as China's first {\mu}SR spectrometer is being developed.
+The time spectrum of {\mu}SR can be obtained by fitting the curve of positron count rate with time.
+This paper presents a 32-channel Time-to-Digital Converter (TDC) implemented in a Xilinx Virtex-6
+Field Programmable Gate Array (FPGA) for measuring the positron's flight time of {\mu}SR Spectrometer.
+Signal of each channel is sampled by 16 equidistant shifted-phase 200 MHz sampling clocks, so the
+TDC bin size is 312.5ps. The measuring range is up to 327us. This TDC has the ability to store multiple
+hit signals in a short time with a deep hit-buffer up to 512. Time tag is added to each data to record
+the moment when the data was detected. Programmable time window and channel shielding give the flexibility
+to choose the time range and channels of interest. The delay of each channel can be calibrated. The
+data is transmitted to data acquisition system (DAQ) through Gigabit Ethernet. TDC and control
+logic are configured in real time by DAQ. The results of test show that the Full Width at Half Maximum
+(FWHM) precision of single channel is better than 273 ps with a low sensitivity to temperature and
+the linearity is pretty well. 

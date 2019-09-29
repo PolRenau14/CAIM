@@ -1,0 +1,17 @@
+We report Gemini-South GMOS observations of the exoplanet system WASP-29 during primary transit
+as a test case for differential spectrophotometry. We use the multi-object spectrograph to observe
+the target star and a comparison star simultaneously to produce multiple light curves at varying
+wavelengths. The 'white' light curve and fifteen 'spectral' light curves are analysed to refine
+the system parameters and produce a transmission spectrum from 515 to 720nm. All light curves exhibit
+time-correlated noise, which we model using a variety of techniques. These include a simple noise
+rescaling, a Gaussian process model, and a wavelet based method. These methods all produce consistent
+results, although with different uncertainties. The precision of the transmission spectrum is
+improved by subtracting a common signal from all the spectral light curves, reaching a typical precision
+of ~1x10^-4 in transit depth. The transmission spectrum is free of spectral features, and given
+the non-detection of a pressure broadened Na feature, we can rule out the presence of a Na rich atmosphere
+free of clouds or hazes, although we cannot rule out a narrow Na core. This indicates that Na is not
+present in the atmosphere, and/or that clouds/hazes play a significant role in the atmosphere and
+mask the broad wings of the Na feature, although the former is a more likely explanation given WASP-29b's
+equilibrium temperature of ~970 K, at which Na can form various compounds. We also briefly discuss
+the use of Gaussian process and wavelet methods to account for time correlated noise in transit light
+curves. 

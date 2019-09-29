@@ -1,0 +1,17 @@
+Objective: Numerous glucose prediction algorithm have been proposed to empower type 1 diabetes
+(T1D) management. Most of these algorithms only account for input such as glucose, insulin and carbohydrate,
+which limits their performance. Here, we present a novel glucose prediction algorithm which, in
+addition to standard inputs, accounts for meal absorption and physical exercise information to
+enhance prediction accuracy. Methods: a compartmental model of glucose-insulin dynamics combined
+with a deconvolution technique for state estimation is employed for glucose prediction. In silico
+data corresponding from the 10 adult subjects of UVa-Padova simulator, and clinical data from 10
+adults with T1D were used. Finally, a comparison against a validated glucose prediction algorithm
+based on a latent variable with exogenous input (LVX) model is provided. Results: For a prediction
+horizon of 60 minutes, accounting for meal absorption and physical exercise improved glucose forecasting
+accuracy. In particular, root mean square error (mg/dL) went from 26.68 to 23.89, p<0.001 (in silico
+data); and from 37.02 to 35.96, p<0.001 (clinical data - only meal information). Such improvement
+in accuracy was translated into significant improvements on hypoglycaemia and hyperglycaemia
+prediction. Finally, the performance of the proposed algorithm is statistically superior to that
+of the LVX algorithm (26.68 vs. 32.80, p<0.001 (in silico data); 37.02 vs. 49.17, p<0.01 (clinical
+data). Conclusion: Taking into account meal absorption and physical exercise information improves
+glucose prediction accuracy. 

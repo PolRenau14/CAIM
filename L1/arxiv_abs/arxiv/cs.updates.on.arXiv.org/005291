@@ -1,0 +1,17 @@
+Modern applications significantly enhance user experience by adapting to each user's individual
+condition and/or preferences. While this adaptation can greatly improve utility or be essential
+for the application to work (e.g., for ride-sharing applications), the exposure of user data to
+the application presents a significant privacy threat to the users, even when the traces are anonymized,
+since the statistical matching of an anonymized trace to prior user behavior can identify a user
+and their habits. Because of the current and growing algorithmic and computational capabilities
+of adversaries, provable privacy guarantees as a function of the degree of anonymization and obfuscation
+of the traces are necessary. Our previous work has established the requirements on anonymization
+and obfuscation in the case that data traces are independent between users. However, the data traces
+of different users will be dependent in many applications, and an adversary can potentially exploit
+such. In this paper, we consider the impact of correlation between user traces on their privacy.
+First, we demonstrate that the adversary can readily identify the association graph, revealing
+which user data traces are correlated. Next, we demonstrate that the adversary can use this association
+graph to break user privacy with significantly shorter traces than in the case when traces are independent
+between users, and that independent obfuscation of the data traces is often insufficient to remedy
+such. Finally, we discuss how the users can employ dependency in their obfuscation to improve their
+privacy. 

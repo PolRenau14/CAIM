@@ -1,0 +1,16 @@
+Let E be a number field and X be a smooth geometrically connected variety defined over a finite field
+of characteristic p. Given an n-dimensional pure E-compatible system {\rho_\lambda} of semisimple
+\lambda-adic representations of the \'etale fundamental group \pi_1(X) with connected algebraic
+monodromy groups G_\lambda, Chin [Ch04] has proven that the tautological representations i_\lambda:
+G_\lambda -> GL_{n,E_\lambda} are independent of \lambda, in the sense that after extensions they
+admit a common split F-form, for some finite extension F of E. We generalize Chin's result in the absolutely
+irreducible case by constructing a common E-form i:G -> GL_{m,D} of all i_\lambda together with
+a G-valued adelic representation \rho_A^G:\pi_1(X) -> G(A_E^(p)) such that i composed with \rho_\A^G
+is isomorphic to the direct product of \rho_\lambda for all \lambda. Moreover, if X is a curve and
+the outer automorphism group of the derived group of G(C) is trivial, the \lambda-components \rho_\lambda^G
+of \rho_A^G form an E-compatible system of G-representations. In general, we only construct a common
+E-form G of the groups G_\lambda for all \lambda. Let K be a number field. Analogous rationality results
+(predicted by the Mumford-Tate conjecture) for Q-compatible system of semisimple l-adic representations
+{\rho_l} of K are obtained under some conditions. These conditions are known, for example if \rho_l
+is the l-adic representation for an abelian variety with endomorphism ring Z after extension to
+C and for some prime l', each simple factor of G_l'(C) is of type A_r for some r>1. 

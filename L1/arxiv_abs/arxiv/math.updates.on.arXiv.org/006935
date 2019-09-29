@@ -1,0 +1,16 @@
+We develop a mathematically and physically sound definition of the spectrally-hyperviscous Navier-Stokes
+equations (SHNSE) on general bounded domains \Omega with zero (no-slip) boundary conditions prescribed
+on \varGamma=\partial\varOmega. Previous successful studies of the SHNSE have been limited to
+periodic-box domains. There are significant theoretical obstacles to overcome in extending the
+SHNSE beyond this case. We solve them with the help of the Helmholtz decomposition, and with our new
+formulation of the SHNSE on general bounded domains in hand we then establish foundational results,
+beginning with the existence of globally regular solutions. Given that the SHNSE is meant to approximate
+the NSE for small \mu or large m, we establish this rigorously in the general case by adapting the weak
+subsequence convergence results of [5] to hold here. On intervals [0,T] with a common H^{1}-bound
+we deepen this sense of approximation by obtaining strong convergence. First, by using estimates
+depending only on the common H^{1}-bound to maximize computational applicability we show that
+SHNSE solutions converge uniformly in H^{1} to the NSE solution as either \mu\rightarrow0 or m\rightarrow\infty.
+Then in cases in which bootstrapped higher-order bounds can be readily used we show that higher-order
+convergence results hold. Our final results use the Stokes-pressure methodology developed in
+[29], [30] to recast the SHNSE in a form which like the NSE reformulation in [29], [30] is more adaptable
+to computation and the specification of boundary values for the pressure. 

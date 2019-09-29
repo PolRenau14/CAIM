@@ -1,0 +1,17 @@
+Inverse imaging problems are inherently under-determined, and hence it is important to employ
+appropriate image priors for regularization. One recent popular prior---the graph Laplacian
+regularizer---assumes that the target pixel patch is smooth with respect to an appropriately chosen
+graph. However, the mechanisms and implications of imposing the graph Laplacian regularizer on
+the original inverse problem are not well understood. To address this problem, in this paper we interpret
+neighborhood graphs of pixel patches as discrete counterparts of Riemannian manifolds and perform
+analysis in the continuous domain, providing insights into several fundamental aspects of graph
+Laplacian regularization for image denoising. Specifically, we first show the convergence of
+the graph Laplacian regularizer to a continuous-domain functional, integrating a norm measured
+in a locally adaptive metric space. Focusing on image denoising, we derive an optimal metric space
+assuming non-local self-similarity of pixel patches, leading to an optimal graph Laplacian regularizer
+for denoising in the discrete domain. We then interpret graph Laplacian regularization as an anisotropic
+diffusion scheme to explain its behavior during iterations, e.g., its tendency to promote piecewise
+smooth signals under certain settings. To verify our analysis, an iterative image denoising algorithm
+is developed. Experimental results show that our algorithm performs competitively with state-of-the-art
+denoising methods such as BM3D for natural images, and outperforms them significantly for piecewise
+smooth images. 

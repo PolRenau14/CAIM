@@ -1,0 +1,17 @@
+Relatively long-period nonsynchronized planets---such as warm Jupiters---potentially retain
+the primordial rotation, eccentricity, and obliquity that might encapsulate information on planetary
+climate and formation processes. To date, there has not been a systematic study on climate patterns
+on these planets that will significantly influence their observations. Here we investigate the
+atmospheric dynamics of nonsynchronized, fast-rotating exoplanets across various radiative
+timescales, eccentricities, and obliquities using a shallow water model. The dynamical pattern
+can be demarcated into five regimes in terms of radiative timescale $\tau_{\rm rad}$ and obliquity
+${\theta}$. An atmosphere with $\tau_{\rm rad}$ shorter than a planetary day usually exhibits
+a strong day--night temperature contrast and a day-to-night flow pattern. In the intermediate
+$\tau_{\rm rad}$ regime between a planetary day and a year, the atmosphere is dominated by steady
+temperature and eastward jet patterns for ${\theta}$ < 18 deg but shows a strong seasonal variation
+for ${\theta}$ > 18 deg because the polar region undergoes an intense heating at around the summer
+solstice. If $\tau_{\rm rad}$ is longer than a year, seasonal variation is very weak. In this regime,
+eastward jets are developed for ${\theta}$ < 54 deg and westward jets are developed for ${\theta}$
+> 54 deg. These dynamical regimes are also applicable to the planets in eccentric orbits. The large
+effects of exoplanetary obliquities on circulation patterns might offer observational signatures,
+which will be investigated in Paper II of this study. 

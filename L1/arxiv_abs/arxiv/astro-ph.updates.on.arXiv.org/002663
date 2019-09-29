@@ -1,0 +1,17 @@
+We present a series of radiative MHD simulations addressing the origin and distribution of mixed
+polarity magnetic field in the solar photosphere. To this end we consider numerical simulations
+that cover the uppermost 2-6 Mm of the solar convection zone and we explore scales ranging from 2 km
+to 25 Mm. We study how the strength and distribution of magnetic field in the photosphere and subsurface
+layers depend on resolution, domain size and boundary conditions. We find that 50% of the magnetic
+energy at the \tau=1 level comes from field with the less than 500 G strength and that 50% of the energy
+resides on scales smaller than about 100 km. While probability distribution functions are essentially
+independent of resolution, properly describing the spectral energy distribution requires grid
+spacings of 8 km or smaller. The formation of flux concentrations in the photosphere exceeding 1
+kG requires a mean vertical field strength greater than 30-40 G at \tau=1. The filling factor of kG
+flux concentrations increases with overall domain size as magnetic field becomes organized by
+larger, longer lived flow structures. A solution with a mean vertical field strength of around 85
+G at \tau=1 requires a subsurface RMS field strength increasing with depth at the same rate as the
+equipartition field strength. We consider this an upper limit for the quiet Sun field strength,
+which implies that most of the convection zone is magnetized close to equipartition. We discuss
+these findings in view of recent high-resolution spectropolarimetric observations of quiet Sun
+magnetism. 

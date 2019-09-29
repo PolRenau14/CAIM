@@ -1,0 +1,16 @@
+X-ray diffraction tomography (XDT) resolves spatially-variant XRD profiles within macroscopic
+objects, and provides improved material contrast compared to the conventional transmission-based
+computed tomography (CT). However, due to the small diffraction cross-section, XDT suffers from
+long imaging acquisition time, which could take tens of hours for a full scan using a table-top X-ray
+tube. In medical and industrial imaging applications, oftentimes only the XRD measurement within
+a region-of-interest (ROI) is required, which, together with the demand to reduce imaging time
+and radiation dose to the sample, motivates the development of interior XDT systems that scan and
+reconstruct only an internal region within the sample. The interior problem does not have a unique
+solution, and a direct inversion on the truncated projection data often leads to large reconstruction
+errors in ROI. To reduce the truncation artifacts, conventional attenuation-based interior reconstruction
+problems rely on a known region or piecewise constant constraint within the ROI, which do not apply
+to all the samples in XDT. Here we propose a quasi-interior XDT scheme that incorporates a small fraction
+of projection information from the exterior region to assist interior reconstruction. The low-resolution
+exterior projection data obviates the requirement for prior knowledge on the object, and allows
+the ROI reconstruction to be performed with the fast, widely-used filtered back-projection algorithm
+for easy integration into real-time XDT imaging modules. 

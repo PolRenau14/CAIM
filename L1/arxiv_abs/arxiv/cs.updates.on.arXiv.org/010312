@@ -1,0 +1,16 @@
+Extreme Ultraviolet (EUV) photolithography is seen as the key enabler for increasing transistor
+density in the next decade. In EUV lithography, 13.5 nm EUV light is illuminated through a reticle,
+holding a pattern to be printed, onto a silicon wafer. This process is performed about 100 times per
+wafer, at a rate of over a hundred wafers an hour. During this process, a certain percentage of the
+light energy is converted into heat in the wafer. In turn, this heat causes the wafer to deform which
+increases the overlay error, and as a result, reduces the manufacturing yield. To alleviate this,
+we propose a firm real-time control system that uses a wafer heat feed-forward model to compensate
+for the wafer deformation. The model calculates the expected wafer deformation, and then, compensates
+for that by adjusting the light projection and/or the wafer movement. However, the model computational
+demands are very high. As a result, it needs to be executed on dedicated HW that can perform computations
+quickly. To this end, we deploy Graphics Processing Units (GPUs) to accelerate the calculations.
+In order to fit the computations within the required time budgets, we combine in a novel manner multiple
+techniques, such as compression and mixed-precision arithmetic, with recent advancements in
+GPUs to build a GPU-based real-time control system. A proof-of-concept implementation using NVIDIA
+P100 GPUs is able to deliver decompression throughput of 33 GB/s and a sustained 198 GFLOP/s per GPU
+for mixed-precision dense matrix-vector multiplication. 

@@ -1,0 +1,16 @@
+We investigate how topological entanglement of Chern-Simons theory is captured in a string theoretic
+realization. Our explorations are motivated by a desire to understand how quantum entanglement
+of low energy open string degrees of freedom is encoded in string theory (beyond the oft discussed
+classical gravity limit). Concretely, we realize the Chern-Simons theory as the worldvolume dynamics
+of topological D-branes in the topological A-model string theory on a Calabi-Yau target. Via the
+open/closed topological string duality one can map this theory onto a pure closed topological A-model
+string on a different target space, one which is related to the original Calabi-Yau geometry by a
+geometric/conifold transition. We demonstrate how to uplift the replica construction of Chern-Simons
+theory directly onto the closed string and show that it provides a meaningful definition of reduced
+density matrices in topological string theory. Furthermore, we argue that the replica construction
+commutes with the geometric transition, thereby providing an explicit closed string dual for computing
+reduced states, and Renyi and von Neumann entropies thereof. While most of our analysis is carried
+out for Chern-Simons on S^3, the emergent picture is rather general. Specifically, we argue that
+quantum entanglement on the open string side is mapped onto quantum entanglement on the closed string
+side and briefly comment on the implications of our result for physical holographic theories where
+entanglement has been argued to be crucial ingredient for the emergence of classical geometry.

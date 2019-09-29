@@ -1,0 +1,17 @@
+We have conducted the most sensitive low frequency (below 100 MHz) search to date for prompt, low-frequency
+radio emission associated with short-duration gamma-ray bursts (GRBs), using the Owens Valley
+Radio Observatory Long Wavelength Array (OVRO-LWA). The OVRO-LWA's nearly full-hemisphere field-of-view
+($\sim20$,$000$ square degrees) allows us to search for low-frequency (sub-$100$ MHz) counterparts
+for a large sample of the subset of GRB events for which prompt radio emission has been predicted.
+Following the detection of short GRB 170112A by Swift, we used all-sky OVRO-LWA images spanning
+one hour prior to and two hours following the GRB event to search for a transient source coincident
+with the position of GRB 170112A. We detect no transient source, with our most constraining $1\sigma$
+flux density limit of $650~\text{mJy}$ for frequencies spanning $27~\text{MHz}-84~\text{MHz}$.
+We place constraints on a number of models predicting prompt, low-frequency radio emission accompanying
+short GRBs and their potential binary neutron star merger progenitors, and place an upper limit
+of $L_\text{radio}/L_\gamma \lesssim 7\times10^{-16}$ on the fraction of energy released in
+the prompt radio emission. These observations serve as a pilot effort for a program targeting a wider
+sample of both short and long GRBs with the OVRO-LWA, including bursts with confirmed redshift measurements
+which are critical to placing the most constraining limits on prompt radio emission models, as well
+as a program for the follow-up of gravitational wave compact binary coalescence events detected
+by advanced LIGO and Virgo. 

@@ -1,0 +1,16 @@
+Let $G\cong \mathbb Z/m_1\mathbb Z\times\ldots\times \mathbb Z/m_r\mathbb Z$ be a finite abelian
+group with $m_1\mid\ldots\mid m_r=\exp(G)$. The Kemperman Structure Theorem characterizes
+all subsets $A,\,B\subseteq G$ satisfying $|A+B|<|A|+|B|$ and has been extended to cover the case
+when $|A+B|\leq |A|+|B|$. Utilizing these results, we provide a precise structural description
+of all finite subsets $A\subseteq G$ with $|nA|\leq (|A|+1)n-3$ when $n\geq 3$ (also when $G$ is
+infinite), in which case many of the pathological possibilities from the case $n=2$ vanish, particularly
+for large $n\geq \exp(G)-1$. The structural description is combined with other arguments to generalize
+a subsequence sum result of Olson asserting that a sequence $S$ of terms from $G$ having length $|S|\geq
+2|G|-1$ must either have every element of $G$ representable as a sum of $|G|$-terms from $S$ or else
+have all but $|G/H|-2$ of its terms lying in a common $H$-coset for some $H\leq G$. We show that the
+much weaker hypothesis $|S|\geq |G|+\exp(G)$ suffices to obtain a nearly identical conclusion,
+where for the case $H$ is trivial we must allow all but $|G/H|-1$ terms of $S$ to be from the same $H$-coset.
+The bound on $|S|$ is improved for several classes of groups $G$, yielding optimal lower bounds for
+$|S|$. We also generalize Olson's result for $|G|$-term subsums to an analogous one for $n$-term
+subsums when $n\geq \exp(G)$, with the bound likewise improved for several special classes of groups.
+This improves previous generalizations of Olson's result, with the bounds for $n$ optimal. 

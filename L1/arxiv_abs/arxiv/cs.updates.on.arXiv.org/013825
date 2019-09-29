@@ -1,0 +1,17 @@
+Energy consumption and hardware cost of signal digitization together with the management of the
+resulting data volume form serious issues for high-rate measurement systems with multiple sensors.
+Switching to binary sensing front-ends results in a resource-efficient layout but is commonly
+associated with significant distortion due to the nonlinear signal acquisition. In particular,
+for applications that require to solve high-resolution processing tasks under extreme conditions,
+it is a widely held belief that low-complexity $1$-bit analog-to-digital conversion leads to unacceptable
+performance degradation. In the Big Science context of low-frequency radio astronomy, we propose
+a telescope architecture based on simplistic binary sampling, precise probabilistic modeling,
+and likelihood-oriented data processing. The main principles, building blocks, and advantages
+of such a radio telescope system, which we refer to as The Massive Binary Radio Lenses, are sketched.
+The open engineering science questions which have to be answered before building a prototype are
+outlined. We set sail for the academic technology study by deriving a statistical algorithm for
+interferometric imaging from binary array measurements. The method aims at extracting the full
+discriminative information about the spatial power distribution embedded in a binary sensor data
+stream without bias. Radio measurements obtained with LOFAR are used to test the developed imaging
+technique and discuss visual and quantitative results. These assessments shed light on the fact
+that binary radio telescopes are suited for surveying the universe. 

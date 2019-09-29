@@ -1,0 +1,16 @@
+Recent simulation studies of the surface tension, and other properties of thin free-standing films,
+have revealed unexpected finite size effects in which the variance of the properties vary monotonically
+with the in-plane width of the films, complicating the extrapolation of estimates of film properties
+to the thermodynamic limit. We carried out molecular dynamics simulations to determine the origin
+of this phenomenon, and to address the practical problem of developing a more reliable methodology
+for estimating the surface tension in the thermodynamic limit. We find that there are two distinct
+finite size effects that must be addressed in a finite size analysis of the surface tension in thin
+films. The first finite size scale is the in-plane width of the films and the second scale is the simulation
+cell size in the transverse direction. Increasing the first scale enhances fluctuations in the
+surface tension, measured by the standard deviation of their distribution, while increasing the
+second reduces the surface tension fluctuations due to a corresponding increased "freedom" of
+the film to fluctuate out of plane. We find that by using progressively large simulation cells in
+the transverse direction, while keeping the film width fixed to an extent in which the full bulk liquid
+zone is developed, allows us to obtain a smooth extrapolation to the thermodynamic limit, enabling
+a reduction of the surface tension uncertainty to a magnitude on the order of 1% for systems having
+a reasonable large size, i.e., O(1 micrometer). 

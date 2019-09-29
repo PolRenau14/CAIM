@@ -1,0 +1,16 @@
+The behavior of classical monochromatic waves in stationary media is shown to be ruled by a frequency
+dependent function, which we call Wave Potential, encoded in the structure of the Helmholtz equation.
+Contrary to the common belief that the very concept of "ray trajectory" is reserved to the eikonal
+approximation, a general and exact ray-based Hamiltonian treatment, reducing to the eikonal approximation
+in the absence of Wave Potential, shows that its presence induces a mutual, perpendicular ray-coupling,
+which is the one and only cause of any typically wave-like phenomenon, such as diffraction and interference.
+Recalling, then, that the time-independent Schroedinger and Klein-Gordon equations (associating
+mono-energetic particles with stationary matter waves) are themselves Helmholtz-like equations,
+the exact, ray-based treatment developed in the classical case may be extended - without resorting
+to statistical concepts - to the exact, trajectory-based Hamiltonian dynamics of mono-energetic
+point-like particles. The trajectories turn out to be mutually coupled, once more, by an exact,
+energy-dependent Wave Potential, coinciding in the form, but not in the physical meaning, with
+the statistical, energy-independent "Quantum Potential" of Bohm's theory (where particles are
+represented by means of wave-packets, moving along probability flux lines). These results, together
+with the connections shown to exist between Wave Potential and Uncertainty Principle, suggest
+a novel, classical-looking, non-probabilistic interpretation of Wave Mechanics. 

@@ -1,0 +1,16 @@
+We introduce a decentralized and online path planning technique for a network of unmanned aerial
+vehicles (UAVs) in the presence of weather disturbances. In our problem setting, the group of UAVs
+are required to collaboratively visit a set of goals scattered in a 2-dimensional area. Each UAV
+will have to spend energy to reach these goals, but due to unforeseen disturbances, the required
+energy may vary over time and does not necessarily conform with the initial forecast and/or pre-computed
+optimal paths. Thus, we are dealing with two fundamental interrelated problems to find a global
+optimum at each point of time: (1) energy consumption prediction based on disturbances and, hence,
+online path replanning, and (2) distributed agreement among all UAVs to divide the remaining unvisited
+goals based on their positions and energy requirements. Our approach consists of four main components:
+(i) a distributed algorithm that periodically divides the unvisited goals among all the UAVs based
+on the current energy requirements of the UAVs, (ii) a local (i.e., UAV-level) $\AStar$-based algorithm
+that computes the {\em desirable} path for each UAV to reach the nodes assigned to it, (iii) a local
+PID controller that {\em predicts} the inputs to the UAV (i.e., thrust and moments), and (iv) a planner
+that computes the required energy and the replanning time period. We validate our proposed solution
+through a rich set of simulations and show that our approach is significantly more efficient than
+a best-effort algorithm that directs each idle UAV to visit the closest unvisited goal. 

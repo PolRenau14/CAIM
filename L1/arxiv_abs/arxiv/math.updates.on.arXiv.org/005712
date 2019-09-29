@@ -1,0 +1,17 @@
+Wireless communication applications has acquired a vastly increasing range over the past decade.
+This rapidly increasing demand implies limitations on utilizing wireless resources. One of the
+most important resources in wireless communication is frequency spectrum. This thesis provides
+different solutions towards increasing the spectral efficiency. The first solution provided
+in this thesis is to use a more accurate optimization metric: maximal acheivable rate (compared
+to traditional metric: ergodic capacity) to optimize training data size in wireless communication.
+Training data symbols are previously known symbols to the receiver inserted in data packets which
+are used by receiver to acquire channel state information (CSI). Optimizing training data size
+with respect to our proposed tight optimization metric, we could achieve higher rates especially
+for short packet and ultra reliable applications. Our second proposed solution to increase spectral
+efficiency is to design a multifunction communication and sensing platform utilizing a special
+training sequence design. We proposed a platform where two training sequences are designed, one
+for the base-station and the other for the user. By designing these two training sequence such that
+they are uncorrelated to each other, the base station will be able to distinguish between the two
+training sequence. Having one of the sequences especially designed for radar purposes (by designing
+it such that it has an impulse-like autocorrelation), the system will be able to sense the environment,
+transmit and receive the communication data simultaneously. 

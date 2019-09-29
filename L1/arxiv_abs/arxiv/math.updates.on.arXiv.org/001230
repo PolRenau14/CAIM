@@ -1,0 +1,16 @@
+In this paper, we propose a general model to study the full-duplex non-coherent decode-and-forward
+Gaussian relay channel with energy harvesting (EH) nodes, called NC-EH-$\mathcal{RC}$, in three
+cases: $i)$ no energy transfer (ET), $ii)$ one-way ET from the source (S) to the relay (R), and $iii)$
+two-way ET. We consider the problem of optimal power allocation in NC-EH-$\mathcal{RC}$ in order
+to maximize the total transmitted bits from S to the destination in a given time duration. General
+stochastic energy arrivals at S and R with known EH times and values are assumed. In NC-EH-$\mathcal{RC}$
+with no ET, the complicated min-max optimization form along with its constraints make the problem
+intractable. It is shown that this problem can be transformed to a solvable convex form; however,
+convex optimization solution does not provide the structural properties of the optimal solution.
+Therefore, following an alternative perspective, we investigate conditions on harvesting process
+of S and R where we find optimal algorithmic solution. Further, we propose some suboptimal algorithms
+and provide some examples, in which the algorithms are optimal. Moreover, we find a class of problems
+for NC-EH-$\mathcal{RC}$ with one-way ET from S to R, where the optimal algorithmic solution is
+devised. For NC-EH-$\mathcal{RC}$ with two-way ET, we propose \emph{general} optimal algorithmic
+solution. Furthermore, the performance of the proposed algorithms are evaluated numerically
+and compared with optimal numerical convex optimization tools. 

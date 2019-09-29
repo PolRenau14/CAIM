@@ -1,0 +1,16 @@
+A bit-quantum map relates probabilistic information for Ising spins or classical bits to quantum
+spins or qubits. Quantum systems are subsystems of classical statistical systems. The Ising spins
+can represent macroscopic two-level observables, and the quantum subsystem employs suitable
+expectation values and correlations. We discuss static memory materials based on Ising spins for
+which boundary information can be transported through the bulk in a generalized equilibrium state.
+They can realize quantum operations as the Hadamard or CNOT-gate for the quantum subsystem. Classical
+probabilistic systems can account for the entanglement of quantum spins. An arbitrary unitary
+evolution for an arbitrary number of quantum spins can be described by static memory materials for
+an infinite number of Ising spins which may, in turn, correspond to continuous variables or fields.
+We discuss discrete subsets of unitary operations realized by a finite number of Ising spins. They
+may be useful for new computational structures. We suggest that features of quantum computation
+or more general probabilistic computation may be realized by neural networks, neuromorphic computing
+or perhaps even the brain. This does neither require small isolated entities nor very low temperature.
+In these systems the processing of probabilistic information can be more general than for static
+memory materials. We propose a general formalism for probabilistic computing for which deterministic
+computing and quantum computing are special limiting cases. 

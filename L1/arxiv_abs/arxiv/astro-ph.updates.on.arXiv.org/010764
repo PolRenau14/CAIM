@@ -1,0 +1,16 @@
+The plasma emission process, which is the mechanism for solar type II and type III radio bursts phenomena,
+is studied by means of particle-in-cell and weak turbulence simulation methods. By plasma emission,
+it is meant as a loose description of a series of processes, starting from the solar flare associated
+electron beam exciting Langmuir and ion-acoustic turbulence, and subsequent partial conversion
+of beam energy into the radiation energy by nonlinear processes. Particle-in-cell (PIC) simulation
+is rigorous but the method is computationally intense, and it is difficult to diagnose the results.
+Numerical solution of equations of weak turbulence (WT) theory, termed WT simulation, on the other
+hand, is efficient and naturally lends itself to diagnostics since various terms in the equation
+can be turned on or off. Nevertheless, WT theory is based upon a number of assumptions. It is, therefore,
+desirable to compare the two methods, which is carried out for the first time in the present paper
+with numerical solutions of the complete set of equations of the WT theory and with two-dimensional
+electromagnetic PIC simulation. Upon making quantitative comparisons it is found that WT theory
+is largely valid, although some discrepancies are also found. The present study also indicates
+that it requires large computational resources in order to accurately simulate the radiation emission
+processes, especially for low electron beam speeds. Findings from the present paper thus imply
+that both methods may be useful for the study of solar radio emissions as they are complementary.

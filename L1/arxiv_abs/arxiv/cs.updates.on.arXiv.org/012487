@@ -1,0 +1,17 @@
+Graph Convolutional Neural Networks (graph CNNs) are a promising deep learning approach for analyzing
+graph-structured data. However, it is known that they do not improve (or sometimes worsen) their
+predictive performance as we pile up more layers and make them deeper. To tackle this problem, we
+investigate the expressive power of graph CNNs by analyzing their asymptotic behaviors as the layer
+size tends to infinity. Our strategy is to generalize the forward propagation of a Graph Convolutional
+Network (GCN), which is one of the most popular graph CNN variants, as a specific dynamical system.
+In the case of GCNs, we show that when the weights satisfy the conditions determined by the spectra
+of the (augmented) normalized Laplacian, the output of GCNs exponentially approaches the set of
+signals that carry only information of the connected components and node degrees for distinguishing
+nodes. Our theory enables us to directly relate the expressive power of GCNs with the topological
+information of the underlying graphs, which is inherent in the graph spectra. To demonstrate this,
+we characterize the asymptotic behavior of GCNs on the Erd\H{o}s -- R\'{e}nyi graph. We show that
+when the Erd\H{o}s -- R\'{e}nyi graph is sufficiently dense and large, a wide range of GCNs on them
+suffers from this ``information loss" in the limit of infinite layers with high probability. Furthermore,
+our theory provides principled guidelines for the weight normalization of graph CNNs. We experimentally
+confirmed that weight scaling based on our theory enhanced the predictive performance of GCNs in
+real data. 

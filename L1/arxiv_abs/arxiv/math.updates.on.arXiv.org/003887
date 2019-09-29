@@ -1,0 +1,16 @@
+We study the performance of the Least Squares Estimator (LSE) in a general nonparametric regression
+model, when the errors are independent of the covariates but may only have a $p$-th moment ($p\geq
+1$). In such a heavy-tailed regression setting, we show that if the model satisfies a standard `entropy
+condition' with exponent $\alpha \in (0,2)$, then the $L_2$ loss of the LSE converges at a rate \begin{align*}
+\mathcal{O}_{\mathbf{P}}\big(n^{-\frac{1}{2+\alpha}} \vee n^{-\frac{1}{2}+\frac{1}{2p}}\big).
+\end{align*} Such a rate cannot be improved under the entropy condition alone. This rate quantifies
+both some positive and negative aspects of the LSE in a heavy-tailed regression setting. On the positive
+side, as long as the errors have $p\geq 1+2/\alpha$ moments, the $L_2$ loss of the LSE converges at
+the same rate as if the errors are Gaussian. On the negative side, if $p<1+2/\alpha$, there are (many)
+hard models at any entropy level $\alpha$ for which the $L_2$ loss of the LSE converges at a strictly
+slower rate than other robust estimators. The validity of the above rate relies crucially on the
+independence of the covariates and the errors. In fact, the $L_2$ loss of the LSE can converge arbitrarily
+slowly when the independence fails. The key technical ingredient is a new multiplier inequality
+that gives sharp bounds for the `multiplier empirical process' associated with the LSE. We further
+give an application to the sparse linear regression model with heavy-tailed covariates and errors
+to demonstrate the scope of this new inequality. 

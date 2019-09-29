@@ -1,0 +1,16 @@
+The timing properties of the millisecond pulsar PSR J1939+2134 -- very high rotation frequency,
+very low time derivative of rotation frequency, no timing glitches and relatively low timing noise
+-- are responsible for its exceptional timing stability over decades. It has been timed by various
+groups since its discovery, at diverse radio frequencies, using different hardware and analysis
+methods. Most of this timing data is now available in the public domain in two segments, which have
+not been combined so far. This work analyzes the combined data by deriving uniform methods of data
+selection, derivation of Dispersion Measure (DM), accounting for correlation due to "red" noise,
+etc. The timing noise of this pulsar is very close to a sinusoid, with a period of approximately $31$
+years. The main results of this work are (1) The clock of PSR J1939+2134 is stable at the level of almost
+one part in $10^{15}$ over about $31$ years, (2) the power law index of the spectrum of electron density
+fluctuations in the direction of PSR J1939+2134 is $3.86 \pm 0.04$, (3) a Moon sized planetary companion,
+in an orbit of semi major axis about $11$ astronomical units and eccentricity $\approx 0.2$, can
+explain the timing noise of PSR J1939+2134, (4) Precession under electromagnetic torque with very
+small values of oblateness and wobble angle can also be the explanation, but with reduced confidence,
+and (5) there is excess timing noise of about $8$ $\mu$s amplitude during the epochs of steepest DM
+gradient, of unknown cause. 

@@ -1,0 +1,16 @@
+We present a weak lensing analysis for galaxy clusters from the APEX-SZ survey. For $39$ massive
+galaxy clusters that were observed via the Sunyaev-Zel\textquotesingle dovich effect (SZE) with
+the APEX telescope, we analyse deep optical imaging data from WFI(@2.2mMPG/ESO) and Suprime-Cam(@SUBARU)
+in three bands. The masses obtained in this study, including an X-ray selected subsample of 27 clusters,
+are optimised for and used in studies constraining the mass to observable scaling relations at fixed
+cosmology. A novel focus of our weak lensing analysis is the multi-colour background selection
+to suppress effects of cosmic variance on the redshift distribution of source galaxies. We investigate
+the effects of cluster member contamination through galaxy density, shear profile, and recovered
+concentrations. We quantify the impact of variance in source redshift distribution on the mass
+estimate by studying nine sub-fields of the COSMOS survey for different cluster redshift and manitude
+limits. We measure a standard deviation of $\sim 6$\% on the mean angular diameter distance ratio
+for a cluster at $z\!=\!0.45$ and shallow imaging data of $R\!\approx\!23$ mag. It falls to $\sim
+1$\% for deep, $R=26$ mag, observations. This corresponds to 8.4\% and 1.4\% scatter in $M_{200}$.
+Our background selection reduces this scatter by $20-40$\%, depending on cluster redshift and
+imaging depth. We derived cluster masses with and without using a mass concentration relation and
+find consistent results, and concentrations consistent with the used mass-concentration relation.

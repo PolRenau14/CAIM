@@ -1,0 +1,16 @@
+We study several Galactic black hole candidates using long-time RXTE/ASM X-ray data to search for
+telltale signatures of differences in viscous timescales in the two components used in the Two-Component
+Advective Flow (TCAF) paradigm. In high-mass X-ray binaries (HMXBs) mainly winds are accreted.
+This nearly inviscid and dominant sub-Keplerian flow falls almost freely towards the black hole.
+A standard Keplerian disc can form out of this sub-Keplerian matter in presence of a significant
+viscosity and could be small in size. However, in low-mass X-ray binaries (LMXBs), highly viscous
+and larger Keplerian accretion disc is expected to form inside the sub-Keplerian disc due to the
+Roche-lobe overflow. Due to two viscous timescales in these two components, it is expected to have
+a larger lag between the times-of-arrival of these components in LMXBs than that in HMXBs. Direct
+cross-correlation between the photon fluxes will not reveal this lag/delay since they lack linear
+dependence; however, they are coupled through the viscous processes which bring in both matter.
+To quantify the aforesaid time lag, we introduce an index ({\Theta}), which is a proxy of the usual
+photon index ({\Gamma}). Thus, when {\Theta}, being dynamically responsive to both fluxes, is
+considered as a reference, the arrival time lag between the two fluxes in LMXBs is found to be much
+larger than that in HMXBs. Our result establishes the presence of two dynamical components in accretion
+and shows that the Keplerian disc size indeed is smaller in HMXBs as compared to that in LMXBs. 

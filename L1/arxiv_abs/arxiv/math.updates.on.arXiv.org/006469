@@ -1,0 +1,16 @@
+Originally in 1954 the Tutte polynomial was a bivariate polynomial associated to a graph in order
+to enumerate the colorings of this graph and of its dual graph at the same time. However the Tutte polynomial
+reveals more of the internal structure of a graph, and contains even other specializations from
+other sciences like the Jones polynomial in Knot theory, the partition function of the Pott model
+in statistical physics, and the reliability polynomial in network theory. In this article, we study
+the Tutte polynomial associated to more general objects which are the arrangements of hyperplanes.
+Indeed determining the Tutte polynomial of a graph is equivalent to determining the Tutte polynomial
+of a special hyperplane arrangement called graphic arrangement. In 2007 Ardila computed the Tutte
+polynomials of the hyperplane arrangements associated to the classical Weyl groups, and the characteristic
+polynomials of the Catalan arrangements. The charateristic polynomial is also a specialization
+of the Tutte polynomial. In 2012 Seo computed the characteristic polynomials of the Shi threshold
+arrangements, and in 2017 Song computed the characteristic polynomials of the $\mathcal{I}_n$
+arrangements in the plane and in the space. We aim to bring a more general result by introducing a wider
+class of hyperplane arrangements which is the set of symmetric hyperplane arrangements. We compute
+the Tutte polynomial of a symmetric hyperplane arrangement, and, as examples of application, we
+deduce the Tutte polynomials of the Catalan, the Shi threshold, and the $\mathcal{I}_n$ arrangements.

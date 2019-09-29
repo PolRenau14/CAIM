@@ -1,0 +1,16 @@
+Parallel tempering Monte Carlo has proven to be an efficient method in optimization and sampling
+applications. Having an optimized temperature set enhances the efficiency of the algorithm through
+more-frequent replica visits to the temperature limits. The approaches for finding an optimal
+temperature set can be divided into two main categories. The methods of the first category distribute
+the replicas such that the swapping ratio between neighbouring replicas is constant and independent
+of the temperature values. The second-category techniques including the feedback-optimized
+method, on the other hand, aim for a temperature distribution that has higher density at simulation
+bottlenecks, resulting in temperature-dependent replica-exchange probabilities. In this paper,
+we compare the performance of various temperature setting methods on both sparse and fully-connected
+spin-glass problems as well as fully-connected Wishart problems that have planted solutions.
+These include two classes of problems that have either continuous or discontinuous phase transitions
+in the order parameter. Our results demonstrate that there is no performance advantage for the methods
+that promote nonuniform swapping probabilities on spin-glass problems where the order parameter
+has a smooth transition between phases at the critical temperature. However, on Wishart problems
+that have a first-order phase transition at low temperatures, the feedback-optimized method exhibits
+a time-to-solution speedup of at least a factor of two over the other approaches. 

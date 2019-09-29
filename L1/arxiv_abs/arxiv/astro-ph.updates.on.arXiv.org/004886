@@ -1,0 +1,16 @@
+Iglesias et al. (2002) showed that the Rayleigh scattering from helium atoms decreases by collective
+effects in the atmospheres of cool white dwarf stars. Their study is here extended to consider an
+accurate evaluation of the atomic polarizability and the density effects involved in the Rayleigh
+cross section over a wide density-temperature region. The dynamic dipole polarizability of helium
+atoms in the ground state is determinated with the oscillator-strength distribution approach.
+The spectral density of oscillator strength considered includes most significant single and doubly
+excited transitions to discrete and continuum energies. Static and dynamic polarizability results
+are confronted with experiments and other theoretical evaluations shown a very good agreement.
+In addition, the refractive index of helium is evaluated with the Lorentz-Lorenz equation and shows
+a satisfactory agreement with the most recent experiments. The effect of spatial correlation of
+atoms on the Rayleigh scattering is calculated with Monte Carlo simulations and effective energy
+potentials that represent the particle interactions, covering fluid densities between 0.005
+and a few g/cm$^3$ and temperatures between $1000$ K and $15000$ K. We provide analytical fits from
+which the Rayleigh cross section of fluid helium can be easily calculated at wavelength $\lambda>505.35$
+\AA. Collision-induced light scattering was estimated to be the dominant scattering process at
+densities greater than 1-2 g/cm$^3$ depending on the temperature. 

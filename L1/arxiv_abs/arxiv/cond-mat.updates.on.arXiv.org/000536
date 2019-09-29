@@ -1,0 +1,17 @@
+In this paper we propose a novel theoretical framework for interpreting long-range dynamical correlations
+unveiled in proteins through NMR measurements. The theoretical rationale relies on the hypothesis
+that correlated motions in proteins may be reconstructed as large-scale, collective modes sustained
+by long-lived nonlinear vibrations known as discrete breathers (DB) localized at key, hot-spot
+sites. DBs are spatially localized modes, whose nonlinear nature hinders resonant coupling with
+the normal modes, thus conferring them long lifetimes as compared to normal modes. DBs have been
+predicted to exist in proteins, localized at few $hotspot$ residues typically within the stiffest
+portions of the structure. We compute DB modes analytically in the framework of the nonlinear network
+model, showing that the displacement patterns of many DBs localized at key sites match to a remarkable
+extent the experimentally uncovered correlation blueprint. The computed dispersion relations
+prove that it is physically possible for some of these DBs to be excited out of thermal fluctuations
+at room temperature. Based on our calculations, we speculate that transient energy redistribution
+among the vibrational modes in a protein might favor the emergence of DB-like bursts of long-lived
+energy at hot-spot sites with lifetimes in the ns range, able to sustain critical, function-encoding
+correlated motions. More generally, our calculations provide a novel quantitative tool to predict
+fold-spanning dynamical pathways of correlated residues that may be central to allosteric cross-talk
+in proteins. 

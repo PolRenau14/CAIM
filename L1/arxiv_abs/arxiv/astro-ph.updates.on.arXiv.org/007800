@@ -1,0 +1,17 @@
+We present a simulation code which can solve broad ranges of partial differential equations in a
+full sphere. The code expands tensorial variables in a spectral series of spin-weighted spherical
+harmonics in the angular directions and a scaled Jacobi polynomial basis in the radial direction,
+as described in Part-I. Nonlinear terms are calculated by transforming from the coefficients in
+the spectral series to the value of each quantity on the physical grid, where it is easy to calculate
+products and perform other local operations. The expansion makes it straightforward to solve equations
+in tensor form (i.e., without decomposition into scalars). We propose and study several unit tests
+which demonstrate the code can accurately solve linear problems, implement boundary conditions,
+and transform between spectral and physical space. We then run a series of benchmark problems proposed
+in Marti et al (2014), implementing the hydrodynamic and magnetohydrodynamic equations. We are
+able to calculate more accurate solutions than reported in Marti et al 2014 by running at higher spatial
+resolution and using a higher-order timestepping scheme. We find the rotating convection and convective
+dynamo benchmark problems depend sensitively on details of timestepping and data analysis. We
+also demonstrate that in low resolution simulations of the dynamo problem, small changes in a numerical
+scheme can lead to large changes in the solution. To aid future comparison to these benchmarks, we
+include the source code used to generate the data, as well as the data and analysis scripts used to
+generate the figures. 

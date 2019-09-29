@@ -1,0 +1,16 @@
+Fault tolerant quantum computers will require efficient co-processors for real-time decoding
+of their adopted quantum error correction protocols. In this work we examine the possibility of
+using specialised Ising model hardware to perform this decoding task. Examples of Ising model hardware
+include quantum annealers such as those produced by D-Wave Systems Inc., as well as classical devices
+such as those produced by Hitatchi and Fujitsu and optical devices known as coherent Ising machines.
+We use the coherent parity check (CPC) framework to derive an Ising model mapping of the quantum error
+correction decoding problem for an uncorrelated quantum error model. A specific advantage of our
+Ising model mapping is that it is compatible with maximum entropy inference techniques which can
+outperform maximum likelihood decoding in some circumstances. We use numerical calculations
+within our framework to demonstrate that maximum entropy decoding can not only lead to improved
+error suppression, but can also shift threshold values for simple codes. As a high value problem
+for which a small advantage can lead to major gains, we argue that decoding quantum codes is an ideal
+use case for quantum annealers. In addition, the structure of quantum error correction codes allows
+application specific integrated circuit (ASIC) annealing hardware to reduce embedding costs,
+a major bottleneck in quantum annealing. Finally, we also propose a way in which a quantum annealer
+could be optimally used as part of a hybrid quantum-classical decoding scheme. 

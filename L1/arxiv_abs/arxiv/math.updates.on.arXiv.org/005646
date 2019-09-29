@@ -1,0 +1,16 @@
+We give another alternative proof to the Kawamata semiampleness theorem for the log canonical divisors
+on klt varieties which are nef and abundant. After the first version of this article was posted to
+the e-print Arxiv, Prof. Fujino notified the author that the quick and essential proof ([Fujino.
+On Kawamata's theorem.(EMS 2011), Rem 2.7]) is already known. The author would like to thank him.
+More precisely, Prof. Fujino already gave the quick and essential proof ([Fujino. On Kawamata's
+thm.(EMS 2011), Rem 2.7], [Fujino. Finite generation of the lc ring in dim 4. (Kyoto J. Math. 50 (2010)),
+Rem 3.15]) from the finite generation thm (Birkar-Cascini-Hacon-McKernan [BCHM]) of the lc rings
+for klt pairs and from the fact (cf. Mourougane-Russo [MoRu, C.R.A.S. Math. 325 (1997)]) that a nef
+and abundant $\mathbf{Q}$-divisor $D$ is semiample if its graded ring is finitely generated:"For
+a nef and abundant lc divisor which is klt, the lc ring is finitely generated, thus it is semiample."
+[BCHM] first proved that the minimal model program runs for big klt lc divisors and next implied the
+finite generation of the lc rings for klt lc divisors which are not necessarily big from the Fujino-Mori
+lc bdle formula ([FM, J. Differential Geom., 56 (2000)]). Mourougane-Russo [MoRu] implies the
+semiampleness of a nef and abundant $\mathbf{Q}$-divisor whose graded ring is finitely generated,
+using the Kawamata numerically trivial fibrations ([Kawamata. Pluricanonical systems. Invent.
+Math. 79 (1985)]). Consequently the author withdraw the article. 

@@ -1,0 +1,16 @@
+Measuring the frequency of binary stars in dwarf spheroidal galaxies (dSphs) requires data taken
+over long time intervals. We combine radial velocity measurements from five literature sources
+taken over the course of ~30 years to yield the largest multi-epoch kinematic sample for stars in
+the dSphs Draco and Ursa Minor. With this data set, we are able to implement an improved version of
+the Bayesian technique described in Spencer et al. (2017b) to evaluate the binary fraction of red
+giant stars in these dwarf galaxies. Assuming Duquennoy & Mayor (1991) period and mass ratio distributions,
+the binary fractions in Draco and Ursa Minor are $0.50^{+0.04}_{-0.06}$ and $0.78^{+0.09}_{-0.08}$,
+respectively. We find that a normal mass ratio distribution is preferred over a flat distribution,
+and that log-normal period distributions centered on long periods ($\mu_{\log P}>3.5$) are preferred
+over distributions centered on short ones. We reanalyzed the binary fractions in Leo II, Carina,
+Fornax, Sculptor, and Sextans, and find that there is <1% chance that binary fraction is a constant
+quantity across all seven dwarfs, unless the period distribution varies greatly. This indicates
+that the binary populations in Milky Way dSphs are not identical in regard to their binary fractions,
+period distributions, or both. We consider many different properties of the dwarfs (e.g. mass,
+radius, luminosity, etc.) and find that binary fraction might be larger in dwarfs that formed their
+stars quickly and/or have high velocity dispersions. 

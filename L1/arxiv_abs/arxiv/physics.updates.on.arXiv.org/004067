@@ -1,0 +1,16 @@
+Optical coherence tomography (OCT) is being increasingly adopted as a label-free and non-invasive
+technique for biomedical applications such as cancer and ocular disease diagnosis. Diagnostic
+information for these tissues is manifest in textural and geometric features of the OCT images which
+are used by human expertise to interpret and triage. However, it suffers delays due to long process
+of conventional diagnostic procedure and shortage of human expertise. Here, a custom deep learning
+architecture, LightOCT, is proposed for classification of OCT images into diagnostically relevant
+classes. LightOCT is a convolutional neural network with only 2 convolutional layers and a fully
+connected layer, but it is shown to provide excellent training and test results for diverse OCT image
+datasets. We show that LightOCT provides > 99% accuracy in classifying 44 normal and 44 cancerous
+(invasive ductal carcinoma) breast tissues collected from 22 patients to perform the study. Also,
+~99% accuracy in classifying public datasets of ocular OCT images as normal, age-related macular
+degeneration and diabetic macular edema. Additionally, we show ~96% test accuracy for classifying
+retinal images as belonging to choroidal neovascularization, diabetic macular edema, drusen
+and normal samples on a large public dataset of more than 100,000 images. Through this, we show that
+LightOCT can provide simultaneous significant diagnostic support for variety of OCT images with
+sufficient training and very little hyper-parameter tuning. 

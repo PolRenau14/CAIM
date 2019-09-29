@@ -1,0 +1,16 @@
+The growth of solids from sub-micron to millimeter and centimeter sizes is the early step toward
+the formation of planets inside protoplanetary disks (PPDs). However, such processes and their
+potential impact on the later stages of solid growth are still poorly understood. In this work, we
+test the hypothesis that most disks contain at least one ringed structure with a relative small radius.
+We have carried out a large family of 1D two-fluid (gas+dust) hydrodynamical simulations by evolving
+the gas and dust motion self-consistently while allowing dust size to evolve via coagulation and
+fragmentation. We investigate the joint effects of ringed structures and dust size growth on the
+overall sub-millimeter and millimeter (mm) flux and spectral index of PPDs. Ringed structures
+slow down the dust radial drift and speed up the dust growth. In particular, we find that those unresolved
+disks with a high fragmentation velocity ($\sim10\ {\rm m~s^{-1}}$) and a high dust surface density
+($\sim10\ {\rm g\ cm^{-2}}$ in the ring) can have mm spectral indices as low as $\sim2.0$, consistent
+with mm observations of faint disks in nearby star forming regions. Furthermore, disks with more
+than one ringed structure can potentially reproduce brighter disks with spectral indices lower
+than $\sim2.5$. Future multi-wavelength high-resolution observations of these low spectral
+index sources can be used to test the existence of the ringed structures in the unresolved disks and
+differentiate the effects of dust size growth from optical depth. 

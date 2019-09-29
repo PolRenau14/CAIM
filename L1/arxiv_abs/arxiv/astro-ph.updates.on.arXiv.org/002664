@@ -1,0 +1,16 @@
+We propose a novel beam model for radio pulsars based on the scenario that the broadband and coherent
+emission from secondary relativistic particles, as they move along a flux tube in a dipolar magnetic
+field, forms a radially extended sub-beam with unique properties. The whole radio beam may consist
+of several sub-beams, forming a fan-shaped pattern. When only one or a few flux tubes are active,
+the fan beam becomes very patchy. This model differs essentially from the conal beam models in the
+respects of beam structure and predictions on the relationship between pulse width and impact angle
+$\beta$ (the angle between line of sight and magnetic pole) and the relationship between emission
+intensity and beam angular radius. The evidence for this model comes from the observed patchy beams
+of precessional binary pulsars and three statistical relationships found for a sample of 64 pulsars,
+of which $\beta$ were mostly constrained by fitting polarization position angle data with the Rotation
+Vector Model. With appropriate assumptions, the fan beam model can reproduce the relationship
+between 10\% peak pulse width and $|\beta|$, the anticorrelation between the emission intensity
+and $|\beta|$, and the upper boundary line in the scatter plot of $|\beta|$ versus pulsar distance.
+An extremely patchy beam model with the assumption of narrowband emission from one or a few flux tubes
+is studied and found unlikely to be a general model. The implications of the fan beam model to the studies
+on radio and gamma-ray pulsar populations and radio polarization are discussed. 

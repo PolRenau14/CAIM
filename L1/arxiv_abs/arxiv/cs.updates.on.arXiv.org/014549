@@ -1,0 +1,16 @@
+In many two-sided markets, the parties to be matched have incomplete information about their characteristics.
+We consider the settings where the parties engaged are extremely patient and are interested in long-term
+partnerships. Hence, once the final matches are determined, they persist for a long time. Each side
+has an opportunity to learn (some) relevant information about the other before final matches are
+made. For instance, clients seeking workers to perform tasks often conduct interviews that require
+the workers to perform some tasks and thereby provide information to both sides. The performance
+of a worker in such an interview- and hence the information revealed - depends both on the inherent
+characteristics of the worker and the task and also on the actions taken by the worker (e.g. the effort
+expended), which are not observed by the client. Thus there is moral hazard. Our goal is to derive
+a dynamic matching mechanism that facilitates learning on both sides before final matches are achieved
+and ensures that the worker side does not have incentive to obscure learning of their characteristics
+through their actions. We derive such a mechanism that leads to final matching that achieve optimal
+performance (revenue) in equilibrium. We show that the equilibrium strategy is long-run coalitionally
+stable, which means there is no subset of workers and clients that can gain by deviating from the equilibrium
+strategy. We derive all the results under the modeling assumption that the utilities of the agents
+are defined as limit of means of the utility obtained in each interaction. 

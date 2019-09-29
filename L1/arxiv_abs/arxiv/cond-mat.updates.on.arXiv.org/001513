@@ -1,0 +1,16 @@
+We explore the effects of various kinds of random disorder on the quasiparticle density of states
+of two-dimensional d-wave superconductors using an exact real-space method, incorporating realistic
+details known about the cuprates. Random on-site energy and pointlike unitary impurity models
+are found to give rise to a vanishing DOS at the Fermi energy for narrow distributions and low concentrations,
+respectively, and lead to a finite, but suppressed, DOS at unrealistically large levels of disorder.
+Smooth disorder arising from impurities located away from the copper-oxide planes meanwhile gives
+rise to a finite DOS at realistic impurity concentrations. For the case of smooth disorder whose
+average potential is zero, a resonance is found at zero energy for the quasiparticle DOS at large
+impurity concentrations. We discuss the implications of these results on the computed low-temperature
+specific heat, the behavior of which we find is strongly affected by the amount of disorder present
+in the system. We also compute the localization length as a function of disorder strength for various
+types of disorder and find that intermediate- and high-energy states are quasi-extended for low
+disorder, and that states near the Fermi energy are strongly localized and have a localization length
+that exhibits an unusual dependence on the amount of disorder. We comment on the origin of disorder
+in the cuprates and provide constraints on these based on known results from scanning tunneling
+spectroscopy and specific heat experiments. 

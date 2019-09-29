@@ -1,0 +1,16 @@
+Often fairness assumptions need to be made in order to establish liveness properties of distributed
+systems, but in many situations these lead to false conclusions. This document presents a research
+agenda aiming at laying the foundations of a theory of concurrency that is equipped to ensure liveness
+properties of distributed systems without making fairness assumptions. This theory will encompass
+process algebra, temporal logic and semantic models, as well as treatments of real-time. The agenda
+also includes developing a methodology that allows successful application of this theory to the
+specification, analysis and verification of realistic distributed systems, including routing
+protocols for wireless networks. Contemporary process algebras and temporal logics fail to make
+distinctions between systems of which one has a crucial liveness property and the other does not,
+at least when assuming justness, a strong progress property, but not assuming fairness. Setting
+up an alternative framework involves giving up on identifying strongly bisimilar systems, inventing
+new induction principles, developing new axiomatic bases for process algebras and new congruence
+formats for operational semantics, and creating new treatments of time and probability. Even simple
+systems like fair schedulers or mutual exclusion protocols cannot be accurately specified in standard
+process algebras (or Petri nets) in the absence of fairness assumptions. Hence the work involves
+the study of adequate language or model extensions, and their expressive power. 

@@ -1,0 +1,17 @@
+In the third catalog of active galactic nuclei detected by the Fermi-LAT (3LAC) Clean Sample, there
+are 402 blazars candidates of uncertain type (BCU). Due to the limitations of astronomical observation
+or intrinsic properties, it is difficult to classify blazars using optical spectroscopy. The potential
+classification of BCUs using machine learning algorithms is essential. Based on the 3LAC Clean
+Sample, we collect 1420 Fermi blazars with 8 parameters of {\gamma}-ray photon spectral index,
+radio flux, flux density, curve significance, the integral photon flux in 100 to 300 MeV, 0.3 to 1
+GeV, 10 to 100 GeV and variability index. Here, we apply 4 different supervised machine learning
+(SML) algorithms (\emph{Decision trees, Random forests, support vector machines and Mclust Gaussian
+finite mixture models}) to evaluate the classification of BCUs based on the direct observational
+properties. All the 4 methods can perform exceedingly well with a more accuracy and can effective
+forecast the classification of Fermi BCUs. The evaluating results show the results of these methods
+(SML) are valid and robust, where, about 1/4 sources are FSRQs and 3/4 are BL Lacs in 400 BCUs, which
+are consistent with some other recent results. Although a number of factors influence the accuracy
+of SML, the results are stable at a fixed ratio 1:3 between FSRQs and BL Lacs, which suggests that the
+SML can provides an effective method to evaluate the potential classification of BCUs. Among the
+4 methods, Mclust Gaussian Mixture Modelling has the highest accuracy for our training sample (4/5,
+seed=123). 

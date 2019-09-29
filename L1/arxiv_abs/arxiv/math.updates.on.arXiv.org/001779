@@ -1,0 +1,16 @@
+We study two inverse problems on a globally hyperbolic Lorentzian manifold $(M,g)$. The problems
+are: 1. Passive observations in spacetime: Consider observations in a neighborhood $V\subset
+M$ of a time-like geodesic $\mu$. Under natural causality conditions, we reconstruct the conformal
+type of the unknown open, relatively compact set $W\subset M$, when we are given $V$, the conformal
+class of $g|_V$, and the light observations sets $P_V(q)$ corresponding to all source points $q$
+in $W$. The light observation set $P_V(q)$ is the intersection of $V$ and the light-cone emanating
+from the point $q$, i.e., the points in the set $V$ where light from a point source at $q$ is observed.
+2. Active measurements in spacetime: We develop a new method for inverse problems for non-linear
+hyperbolic equations that utilizes the non-linearity as a tool. This enables us to solve inverse
+problems for non-linear equations for which the corresponding problems for linear equations are
+still unsolved. To illustrate this method, we solve an inverse problem for semilinear wave equations
+with quadratic non-linearities. We assume that we are given the neighborhood $V$ of the time-like
+geodesic $\mu$ and the source-to-solution operator that maps the source supported on $V$ to the
+restriction of the solution of the wave equation in $V$. When $M$ is 4-dimensional, we show that these
+data determine the topological, differentiable, and conformal structures of the spacetime in
+the maximal set where waves can propagate from $\mu$ and return back to $\mu$. 

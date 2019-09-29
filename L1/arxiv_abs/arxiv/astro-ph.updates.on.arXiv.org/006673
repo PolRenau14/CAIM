@@ -1,0 +1,16 @@
+We present a new, on-the-fly photon flux and absorption tracer algorithm designed to directly measure
+the contribution of different source populations to the metagalactic UV background and to the ionisation
+fraction of gas in the Universe. We use a suite of multifrequency radiation hydrodynamics simulations
+that are carefully calibrated to reproduce a realistic reionization history and galaxy properties
+at $z \ge 6$, to disentangle the contribution of photons emitted by different mass haloes and by stars
+with different metallicities and ages to the UV background during reionization. While at very early
+cosmic times low mass, metal poor haloes provide most of the LyC photons, their contribution decreases
+steadily with time. At $z = 6$ it is the photons emitted by massive systems (${\rm M_{halo}}/{\rm
+M_\odot} > 10^{10} \, {\rm h ^{-1}}$) and by the metal enriched stars ($10^{-3} < Z/Z_{\rm \odot}
+< 10^{-1.5}$) that provide the largest contribution to the ionising UV background. We demonstrate
+that there are large variations in the escape fraction depending on the source, with the escape fraction
+being highest ($\sim 45-60\%$) for photons emitted by the oldest stars that penetrate into the IGM
+via low opacity channels carved by the ionising photons and supernova from younger stars. Before
+HII regions begin to overlap, the photoionisation rate strongly fluctuates between different,
+isolated HII bubbles, depending on the embedded ionising source, which we suggest may result in
+spatial variations in the properties of dwarf galaxies. 

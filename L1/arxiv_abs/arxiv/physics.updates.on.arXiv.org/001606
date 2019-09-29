@@ -1,0 +1,16 @@
+Informed by LES data and resolvent analysis of the mean flow, we examine the structure of turbulence
+in jets in the subsonic, transonic, and supersonic regimes. Spectral (frequency-space) proper
+orthogonal decomposition is used to extract energy spectra and decompose the flow into energy-ranked
+coherent structures. The educed structures are generally well predicted by the resolvent analysis.
+Over a range of low frequencies and the first few azimuthal mode numbers, these jets exhibit a low-rank
+response characterized by Kelvin-Helmholtz (KH) type wavepackets associated with the annular
+shear layer up to the end of the potential core and that are excited by forcing in the very-near-nozzle
+shear layer. These modes too the have been experimentally observed before and predicted by quasi-parallel
+stability theory and other approximations--they comprise a considerable portion of the total
+turbulent energy. At still lower frequencies, particularly for the axisymmetric mode, and again
+at high frequencies for all azimuthal wavenumbers, the response is not low rank, but consists of
+a family of similarly amplified modes. These modes, which are primarily active downstream of the
+potential core, are associated with the Orr mechanism. They occur also as sub-dominant modes in
+the range of frequencies dominated by the KH response. Our global analysis helps tie together previous
+observations based on local spatial stability theory, and explains why quasi-parallel predictions
+were successful at some frequencies and azimuthal wavenumbers, but failed at others. 

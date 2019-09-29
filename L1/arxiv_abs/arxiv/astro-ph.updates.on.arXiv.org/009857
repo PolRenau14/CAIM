@@ -1,0 +1,17 @@
+Planets that form early enough to be embedded in the circumstellar gas disk accumulate thick atmospheres
+of nebular gas. Models of these atmospheres need to specify the surface luminosity (i.e. energy
+loss rate) of the planet. This luminosity is usually associated with a continuous inflow of solid
+bodies, where the gravitational energy released from these bodies is the source of energy. However,
+if these bodies release energy in the atmosphere instead of at the surface, this assumption might
+not be justified. Our aim is to explore the interactions of infalling planetesimals with primordial
+atmospheres at an embedded phase of evolution. We investigate effects of atmospheric interaction
+on the planetesimals (mass loss) and the atmosphere (heating/cooling). We used atmospheric parameters
+from a snapshot of time-dependent evolution simulations for embedded atmospheres and simulated
+purely radial, infall events of siliceous planetesimals in a 1D, explicit code. We implemented
+energy transfer between friction, radiation transfer by the atmosphere and the body and thermal
+ablation; this gives us the possibility to examine the effects on the planetesimals and the atmosphere.
+We find that a significant amount of gravitational energy is indeed dissipated into the atmosphere,
+especially for larger planetary cores, which consequently cannot contribute to the atmospheric
+planetary luminosity. Furthermore, we examine that planetesimal infall events for cores, $M_\mathrm{C}
+> 2$M$_{\oplus}$, which actually result in a local cooling of the atmosphere; this is totally in
+contradiction with the classical model. 

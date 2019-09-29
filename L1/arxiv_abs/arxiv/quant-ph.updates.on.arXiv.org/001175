@@ -1,0 +1,16 @@
+Thermodynamics at the nanoscale is known to differ significantly from its familiar macroscopic
+counterpart: the possibility of state transitions is not determined by free energy alone, but by
+an infinite family of free-energy-like quantities; strong fluctuations (possibly of quantum
+origin) allow to extract less work reliably than what is expected from computing the free energy
+difference. However, these known results rely crucially on the assumption that the thermal machine
+is not only exactly preserved in every cycle, but also kept uncorrelated from the quantum systems
+on which it acts. Here we lift this restriction: we allow the machine to become correlated with the
+microscopic systems on which it acts, while still exactly preserving its own state. Surprisingly,
+we show that this restores the second law in its original form: free energy alone determines the possible
+state transitions, and the corresponding amount of work can be invested or extracted from single
+systems exactly and without any fluctuations. At the same time, the work reservoir remains uncorrelated
+from all other systems and parts of the machine. Thus, microscopic machines can increase their efficiency
+via clever "correlation engineering" in a perfectly cyclic manner, which is achieved by a catalytic
+system that can sometimes be as small as a single qubit (though some setups require very large catalysts).
+Our results also solve some open mathematical problems on majorization which may lead to further
+applications in entanglement theory. 

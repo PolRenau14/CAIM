@@ -1,0 +1,17 @@
+In Turkey the increasing tension, due to the presence of 3.4 million Syrian refugees, demands the
+formulation of effective integration policies. Moreover, their design requires tools aimed at
+understanding the integration of refugees despite the complexity of this phenomenon. In this work,
+we propose a set of metrics aimed at providing insights and assessing the integration of Syrians
+refugees, by analyzing a real-world Call Details Records (CDRs) dataset including calls from refugees
+and locals in Turkey throughout 2017. Specifically, we exploit the similarity between refugees'
+and locals' spatial and temporal behaviors, in terms of communication and mobility in order to assess
+integration dynamics. Together with the already known methods for data analysis, we use a novel
+computational approach to analyze spatiotemporal patterns: Computational Stigmergy, a bio-inspired
+scalar and temporal aggregation of samples. Computational Stigmergy associates each sample to
+a virtual pheromone deposit (mark). Marks in spatiotemporal proximity are aggregated into functional
+structures called trails, which summarize the spatiotemporal patterns in data and allows computing
+the similarity between different patterns. According to our results, collective mobility and
+behavioral similarity with locals have great potential as measures of integration, since they
+are: (i) correlated with the amount of interaction with locals; (ii) an effective proxy for refugee's
+economic capacity, thus refugee's potential employment; and (iii) able to capture events that
+may disrupt the integration phenomena, such as social tensions. 

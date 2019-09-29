@@ -1,0 +1,16 @@
+In this paper, we present a methodology and a tool to derive simple but yet accurate stochastic Markov
+processes for the description of the energy scavenged by outdoor solar sources. In particular,
+we target photovoltaic panels with small form factors, as those exploited by embedded communication
+devices such as wireless sensor nodes or, concerning modern cellular system technology, by small-cells.
+Our models are especially useful for the theoretical investigation and the simulation of energetically
+self-sufficient communication systems including these devices. The Markov models that we derive
+in this paper are obtained from extensive solar radiation databases, that are widely available
+online. Basically, from hourly radiance patterns, we derive the corresponding amount of energy
+(current and voltage) that is accumulated over time, and we finally use it to represent the scavenged
+energy in terms of its relevant statistics. Toward this end, two clustering approaches for the raw
+radiance data are described and the resulting Markov models are compared against the empirical
+distributions. Our results indicate that Markov models with just two states provide a rough characterization
+of the real data traces. While these could be sufficiently accurate for certain applications, slightly
+increasing the number of states to, e.g., eight, allows the representation of the real energy inflow
+process with an excellent level of accuracy in terms of first and second order statistics. Our tool
+has been developed using Matlab(TM) and is available under the GPL license at[1]. 

@@ -1,0 +1,16 @@
+Recent studies have shown that massive elliptical galaxies have total mass density profiles within
+an effective radius that can be approximated as \rho_{tot}\propto r^{-\gamma'}, with mean slope
+<\gamma'>=2.08 \pm 0.03 and scatter \sigma_\gamma'=0.16 \pm 0.02. The small scatter of
+the slope (known as the bulge-halo conspiracy) is not generic in LCDM based models and therefore
+contains information about the galaxy formation process. We compute the distribution of \gamma'
+for LCDM-based models that reproduce the observed correlations between stellar mass, velocity
+dispersion, and effective radius of early-type galaxies in the SDSS. The models have a range of stellar
+initial mass functions (IMFs) and dark halo responses to galaxy formation. The observed distribution
+of \gamma' is well reproduced by a model with cosmologically motivated but uncontracted dark matter
+haloes, and a Salpeter-type IMF. Other models are on average ruled out by the data, even though they
+may happen in individual cases. Models with adiabatic halo contraction (and lighter IMFs) predict
+too small values of \gamma'. Models with halo expansion, or mass-follows-light predict too high
+values of \gamma'. Our study shows that the non-homologous structure of massive early-type galaxies
+can be precisely reproduced by LCDM models if the IMF is not universal and if mechanisms such as feedback
+from active galactic nuclei, or dynamical friction, effectively on average counterbalance the
+contraction of the halo expected as a result of baryonic cooling. 

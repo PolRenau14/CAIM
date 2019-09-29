@@ -1,0 +1,16 @@
+Convolutional Neural Networks (CNN) have recently been demonstrated on synthetic data to improve
+upon the precision of cosmological inference. In particular they have the potential to yield more
+precise cosmological constraints from weak lensing mass maps than the two-point functions. We
+present the cosmological results with a CNN from the KiDS-450 tomographic weak lensing dataset,
+constraining the total matter density $\Omega_m$, the fluctuation amplitude $\sigma_8$, and
+the intrinsic alignment amplitude $A_{\rm{IA}}$. We use a grid of N-body simulations to generate
+a training set of tomographic weak lensing maps. We test the robustness of the expected constraints
+to various effects, such as baryonic feedback, simulation accuracy, different value of $H_0$,
+or the lightcone projection technique. We train a set of ResNet-based CNNs with varying depths to
+analyze sets of tomographic KiDS mass maps divided into 20 flat regions, with applied Gaussian smoothing
+of $\sigma=2.34$ arcmin. The uncertainties on shear calibration and $n(z)$ error are marginalized
+in the likelihood pipeline. Following a blinding scheme, we derive constraints of $S_8 = \sigma_8
+(\Omega_m/0.3)^{0.5} = 0.777^{+0.038}_{-0.036}$ with our CNN analysis, with $A_{\rm{IA}}=1.398^{+0.779}_{-0.724}$.
+We compare this result to the power spectrum analysis on the same maps and likelihood pipeline and
+find an improvement of about $30\%$ for the CNN. We discuss how our results offer excellent prospects
+for the use of deep learning in future cosmological data analysis. 

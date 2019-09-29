@@ -1,0 +1,16 @@
+The Swampland Distance Conjecture proposes that approaching infinite distances in field space
+an infinite tower of states becomes exponentially light. We study this conjecture for the complex
+structure moduli space of Calabi-Yau manifolds. In this context, we uncover significant structure
+within the proposal by showing that there is a rich spectrum of different infinite distance loci
+that can be classified by certain topological data derived from an associated discrete symmetry.
+We show how this data also determines the rules for how the different infinite distance loci can intersect
+and form an infinite distance network. We study the properties of the intersections in detail and,
+in particular, propose an identification of the infinite tower of states near such intersections
+in terms of what we term charge orbits. These orbits have the property that they are not completely
+local, but depend on data within a finite patch around the intersection, thereby forming an initial
+step towards understanding global aspects of the distance conjecture in field spaces. Our results
+follow from a deep mathematical structure captured by the so-called orbit theorems, which gives
+a handle on singularities in the moduli space through mixed Hodge structures, and is related to a
+local notion of mirror symmetry thereby allowing us to apply it also to the large volume setting.
+These theorems are general and apply far beyond Calabi-Yau moduli spaces, leading us to propose
+that similarly the infinite distance structures we uncover are also more general. 

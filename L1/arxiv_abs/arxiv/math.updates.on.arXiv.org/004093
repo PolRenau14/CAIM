@@ -1,0 +1,16 @@
+Hamiltonian Monte Carlo (HMC) is a very popular and generic collection of Markov chain Monte Carlo
+(MCMC) algorithms. One explanation for the popularity of HMC algorithms is their excellent performance
+as the dimension $d$ of the target becomes large: under conditions that are satisfied for many common
+statistical models, optimally-tuned HMC algorithms have a running time that scales like $d^{0.25}$.
+In stark contrast, the running time of the usual Random-Walk Metropolis (RWM) algorithm, optimally
+tuned, scales like $d$. This superior scaling of the HMC algorithm with dimension is attributed
+to the fact that it, unlike RWM, incorporates the gradient information in the proposal distribution.
+In this paper, we investigate a different scaling question: does HMC beat RWM for highly $\textit{multimodal}$
+targets? We find that the answer is often $\textit{no}$. We compute the spectral gaps for both the
+algorithms for a specific class of multimodal target densities, and show that they are identical.
+The key reason is that, within one mode, the gradient is effectively ignorant about other modes,
+thus negating the advantage the HMC algorithm enjoys in unimodal targets. We also give heuristic
+arguments suggesting that the above observation may hold quite generally. Our main tool for answering
+this question is a novel simple formula for the conductance of HMC using Liouville's theorem. This
+result allows us to compute the spectral gap of HMC algorithms, for both the classical HMC with isotropic
+momentum and the recent Riemannian HMC, for multimodal targets. 

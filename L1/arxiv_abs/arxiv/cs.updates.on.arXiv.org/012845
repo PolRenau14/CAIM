@@ -1,0 +1,16 @@
+Brakerski showed that linearly decryptable fully homomorphic encryption (FHE) schemes cannot
+be secure in the chosen plaintext attack (CPA) model. In this paper, we show that linearly decryptable
+FHE schemes cannot be secure even in the ciphertext only security model. Then we consider the maximum
+security that a linearly decryptable FHE scheme could achieve. This paper designs fully homomorphic
+symmetric key encryption (FHE) schemes without bootstrapping (that is, noise-free FHE schemes).
+The proposed FHE schemes are based on quaternion/octonion algebra and Jordan algebra over finite
+rings Z_n and are secure in the weak ciphertext-only security model assuming the hardness of solving
+multivariate quadratic equation systems and solving univariate high degree polynomial equation
+systems in Z_n. It is up to our knowledge that this is the first noise-free FHE scheme that has ever
+been designed with a security proof (even in the weak ciphertext-only security model). It is argued
+that the weak ciphertext-only security model is sufficient for various applications such as privacy
+preserving computation in cloud. As an example, the proposed FHE schemes are used to construct obfuscated
+programs. This example could be further used to show that the scheme presented in this paper could
+be combined with existing FHE schemes with bootstrapping to obtain more efficient FHE schemes with
+bootstrapping in the fully CPA model. At the end of the paper, we point out the insecurity of several
+recently proposed noise-free FHE schemes. 

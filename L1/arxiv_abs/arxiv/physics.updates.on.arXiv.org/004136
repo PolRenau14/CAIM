@@ -1,0 +1,17 @@
+Much debate surrounds the mechanisms responsible for the occurrence of blunt traumatic aortic
+rupture in car accidents, particularly on the role of the inertial body force experienced by the
+blood due to the abrupt deceleration. The isolated influence of such body forces acting on even simple
+fluid flows is a fundamental problem in fluid dynamics that has not been thoroughly investigated.
+This study numerically investigates the fundamental physical problem, where the pulsatile flow
+in a straight circular pipe is subjected to a transverse body force on a localized volume of fluid.
+The body force is applied as a brief rectangular impulse in three distinct cases, namely during the
+accelerating, peak, and decelerating phases of the pulsatile flow. A dimensionless number, termed
+the degree of influence of the body force ({\Psi}), is devised to quantify the relative strength
+of the body force over the flow inertia. The impact induces counter-rotating cross-stream vortices
+at the boundaries of the forced section accompanied by complex secondary flow structures. This
+secondary flow is found to develop slowest for an impact occurring during an accelerating flow and
+fastest during a decelerating flow. The peak skewness of the velocity field, however, occurred
+at successively later times for the three respective cases. After the impact, these secondary flows
+act to restore the unforced state and such dominant spatial structures are revealed by proper orthogonal
+decomposition of the velocity field. This work presents a new class of problems that requires further
+theoretical and experimental investigation. 

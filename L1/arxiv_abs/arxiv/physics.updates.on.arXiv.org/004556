@@ -1,0 +1,17 @@
+A theoretical model is proposed for interfacial gravity waves containing strong bores (hydraulic
+jumps). The model is based on the locally conservative form of shallow-water momentum equation
+for the two-layer system bounded by a rigid lid. Using a linear combination of the basic irrotationality
+conservation equations to eliminate the pressure gradient along the interface, we obtain a generalised
+local momentum conservation equation which contains a free parameter $\alpha.$ This parameter
+defines the relative contribution of each layer to the pressure at the interface and is supposed
+to depend on the ratio of densities which is the sole dimensionless parameter in this problem. For
+nearly equal densities, symmetry considerations suggest $\alpha\approx 0,$ which corresponds
+to both layers affecting the pressure with equal weight coefficients. The front propagation velocities
+that follow from this assumption and the Rankine-Hugoniot jump conditions for the mass and momentum
+conservation equations agree well with experimental and numerical results in a wide range of bore
+strengths. With $\alpha=\pm 1,$ our model reproduces the classical front conditions due to Wood
+and Simpson (1984, J. Fluid Mech. 140, 329) and Klemp et al. (1997, J. Fluid Mech. 331, 81), which are
+commonly thought to be outside the scope of the hydrostatic shallow-water approximation. In contrast
+to previous shallow-water models, our locally conservative momentum conservation equation requires
+no external closure conditions and provides a unified framework for numerical modelling of strong
+internal bores and gravity currents. 

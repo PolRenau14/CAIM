@@ -1,0 +1,16 @@
+The relative magnetic helicity is a quantity that is often used to describe the level of entanglement
+of non-isolated magnetic fields, such as the magnetic field of solar active regions.The aim of this
+paper is to investigate how different kinds of photospheric boundary flows accumulate relative
+magnetic helicity in the corona and if and how-well magnetic helicity related quantities identify
+the onset of an eruption. We use a series of three-dimensional, parametric magnetohydrodynamic
+simulations of the formation and eruption of magnetic flux ropes. All the simulations are performed
+on the same grid, using the same parameters, but they are characterized by different driving photospheric
+flows, i.e., shearing, convergence, stretching, peripheral- and central- dispersion flows.
+For each of the simulations, the instant of the onset of the eruption is carefully identified by using
+a series of relaxation runs. We find that magnetic energy and total relative helicity are mostly
+injected when shearing flows are applied at the boundary, while the magnetic energy and helicity
+associated with the coronal electric currents increase regardless of the kind of photospheric
+flows. We also find that, at the onset of the eruptions, the ratio between the non-potential magnetic
+helicity and the total relative magnetic helicity has the same value for all the simulations, suggesting
+the existence of a threshold in this quantity. Such threshold is not observed for other quantities
+as, for example, those related to the magnetic energy. 

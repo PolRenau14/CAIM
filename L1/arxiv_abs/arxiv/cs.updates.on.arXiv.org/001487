@@ -1,0 +1,17 @@
+In a large-scale computing cluster, the job completions can be substantially delayed due to two
+sources of variability, namely, variability in the job size and that in the machine service capacity.
+To tackle this issue, existing works have proposed various scheduling algorithms which exploit
+redundancy wherein a job runs on multiple servers until the first completes. In this paper, we explore
+the impact of variability in the machine service capacity and adopt a rigorous analytical approach
+to design scheduling algorithms using redundancy and checkpointing. We design several online
+scheduling algorithms which can dynamically vary the number of redundant copies for jobs. We also
+provide new theoretical performance bounds for these algorithms in terms of the overall job flowtime
+by introducing the notion of a speedup function, based on which a novel potential function can be
+defined to enable the corresponding competitive ratio analysis. In particular, by adopting the
+online primal-dual fitting approach, we prove that our SRPT+R Algorithm in a non-multitasking
+cluster is $(1+\epsilon)$-speed, $\ O(\frac{1}{\epsilon})$-competitive. We also show that
+our proposed Fair+R and LAPS+R($\beta$) Algorithms for a multitasking cluster are $(4+\epsilon)$-speed,
+$\ O(\frac{1}{\epsilon})$-competitive and {($2 + 2\beta + 2\epsilon)$-speed $O(\frac{1}{\beta
+\epsilon})$-competitive} respectively. We demonstrate via extensive simulations that our proposed
+algorithms can significantly reduce job flowtime under both the non-multitasking and multitasking
+modes. 

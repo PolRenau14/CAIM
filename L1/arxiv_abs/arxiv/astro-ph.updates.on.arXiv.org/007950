@@ -1,0 +1,16 @@
+We measure the velocity dispersion, $\sigma$, and surface density, $\Sigma$, of the molecular
+gas in nearby galaxies from CO spectral line cubes with spatial resolution $45$-$120$ pc, matched
+to the size of individual giant molecular clouds. Combining $11$ galaxies from the PHANGS-ALMA
+survey with $4$ targets from the literature, we characterize ${\sim}30,000$ independent sightlines
+where CO is detected at good significance. $\Sigma$ and $\sigma$ show a strong positive correlation,
+with the best-fit power law slope close to the expected value for resolved, self-gravitating clouds.
+This indicates only weak variation in the virial parameter $\alpha_\mathrm{vir}\propto\sigma^2/\Sigma$,
+which is ${\sim}1.5$-$3.0$ for most galaxies. We do, however, observe enormous variation in the
+internal turbulent pressure $P_\mathrm{turb}\propto\Sigma\,\sigma^2$, which spans ${\sim}5\rm\;dex$
+across our sample. We find $\Sigma$, $\sigma$, and $P_\mathrm{turb}$ to be systematically larger
+in more massive galaxies. The same quantities appear enhanced in the central kpc of strongly barred
+galaxies relative to their disks. Based on sensitive maps of M31 and M33, the slope of the $\sigma$-$\Sigma$
+relation flattens at $\Sigma\lesssim10\rm\;M_\odot\,pc^{-2}$, leading to high $\sigma$ for
+a given $\Sigma$ and high apparent $\alpha_\mathrm{vir}$. This echoes results found in the Milky
+Way, and likely originates from a combination of lower beam filling factors and a stronger influence
+of local environment on the dynamical state of molecular gas in the low density regime. 

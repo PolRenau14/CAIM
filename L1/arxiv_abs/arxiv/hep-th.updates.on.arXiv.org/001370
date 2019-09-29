@@ -1,0 +1,16 @@
+We study how both the swampland distance conjecture and the Lyth bound affect the parameter space
+of multi-field models of inflation. A generic feature of multi-field inflation is that the geodesic
+distance $\left[\Delta\phi\right]_\text{G}$ separating any two points laying along the inflationary
+trajectory differs from the non-geodesic distance $\left[\Delta\phi\right]_\text{NG}$ traversed
+by the inflaton between those points. These distances must respect a relation of the form $\left[\Delta\phi\right]_\text{G}
+= f\left(\left[\Delta\phi\right]_\text{NG}\right) \leq \left[\Delta\phi\right]_\text{NG}$,
+where $f$ is a function determined by the specific multi-field model under scrutiny. We show that
+this relation leads to important constraints on the parameter space characterizing the multi-field
+dynamics. Indeed, the swampland distance conjecture implies an upper bound on $\left[\Delta\phi\right]_\text{G}$
+set by the details of the ultraviolet completion of inflation, whereas the Lyth bound implies a lower
+bound on $\left[\Delta\phi\right]_\text{NG}$ determined by the value of the tensor-to-scalar
+ratio. If future observations confirm the existence of primordial tensor perturbations, these
+two bounds combined lead to tight constraints on the possible values of the entropy mass of the isocurvature
+fields orthogonal to the inflationary trajectory and the rate of turn of the inflationary trajectory
+in multi-field space. We analyze the emerging constraints in detail for the particular case of two-field
+inflation in hyperbolic field spaces. 

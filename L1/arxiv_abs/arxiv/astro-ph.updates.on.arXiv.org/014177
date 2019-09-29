@@ -1,0 +1,17 @@
+We report Arecibo 21 cm absorption-emission observations to characterise the physical properties
+of neutral hydrogen (HI) in the proximity of five giant molecular clouds (GMCs): Taurus, California,
+Rosette, Mon OB1, and NGC 2264. Strong HI absorption was detected toward all 79 background continuum
+sources in the ~60x20 square degree region. Gaussian decompositions were performed to estimate
+temperatures, optical depths and column densities of the cold and warm neutral medium (CNM, WNM).
+The properties of individual CNM components are similar to those previously observed along random
+Galactic sightlines and in the vicinity of GMCs, suggesting a universality of cold HI properties.
+The CNM spin temperature (Ts) histogram peaks at ~50K. The turbulent Mach numbers of CNM vary widely,
+with a typical value of ~4, indicating that their motions are supersonic. About 60% of the total HI
+gas is WNM, and nearly 40% of the WNM lies in thermally unstable regime 500-5000K. The observed CNM
+fraction is higher around GMCs than in diffuse regions, and increases with increasing column density
+(NHI) to a maximum of ~75%. On average, the optically thin approximation (N*(HI)) underestimates
+the total N(HI) by ~21%, but we find large regional differences in the relationship between N(HI)
+and the required correction factor, f=N(HI)/N*(HI). We examine two different methods (linear
+fit of f vs log10(N*(HI)) and uniform Ts) to correct for opacity effects using emission data from
+the GALFA-HI survey. We prefer the uniform Ts method, since the linear relationship does not produce
+convincing fits for all subregions. 

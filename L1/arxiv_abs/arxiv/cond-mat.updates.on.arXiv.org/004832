@@ -1,0 +1,17 @@
+Distant spreading of primary lesions is modulated by the vascular dynamics of circulating tumor
+cells (CTCs) and their ability to establish metastatic niches. While the mechanisms regulating
+CTC homing in specific tissues are yet to be elucidated, it is well documented that CTCs possess different
+size, biological properties and deformability. A computational model is presented to predict
+the vascular transport and adhesion of CTCs in whole blood. A Lattice-Boltzmann method, which is
+employed to solve the Navier-Stokes equation for the plasma flow, is coupled with an Immersed Boundary
+Method. The vascular dynamics of a CTC is assessed in large and small microcapillaries. The CTC shear
+modulus k ctc is varied returning CTCs that are stiffer, softer and equally deformable as compared
+to RBCs. In large microcapillaries, soft CTCs behave similarly to RBCs and move away from the vessel
+walls; whereas rigid CTCs are pushed laterally by the fast moving RBCs and interact with the vessel
+walls. Three adhesion behaviors are observed, firm adhesion, rolling and crawling over the vessel
+walls, depending on the CTC stiffness. On the contrary, in small microcapillaries, rigid CTCs are
+pushed downstream by a compact train of RBCs and cannot establish any firm interaction with the vessel
+walls; whereas soft CTCs are squeezed between the vessel wall and the RBC train and rapidly establish
+firm adhesion. These findings document the relevance of cell deformability in CTC vascular adhesion
+and provide insights on the mechanisms regulating metastasis formation in different vascular
+districts. 

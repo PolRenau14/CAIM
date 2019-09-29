@@ -1,0 +1,16 @@
+We study the redshift evolution of galaxy dynamical properties using the state-of-the-art semi-analytic
+model GAEA (GAlaxy Evolution and Assembly): we show that the predicted size-mass relation for disky/star
+forming and quiescent galaxies is in good agreement with observational estimates, up to $z\sim2$.
+Nonetheless, bulge dominated galaxies have sizes that are offset low with respect to observational
+estimates, mainly due to our implementation of disk instability at high redshift. At large masses,
+both quiescent and bulge dominated galaxies have sizes smaller than observed. We interpret this
+as a consequence of our most massive galaxies having larger gas masses than observed, and therefore
+being more affected by dissipation. We argue that a proper treatment of quasar driven winds is needed
+to alleviate this problem. Our model compact galaxies have number densities in agreement with observational
+estimates and they form most of their stars in small and low angular momentum high-$z$ halos. GAEA
+predicts that a significant fraction of compact galaxies forming at high-$z$ is bound to merge with
+larger structures at lower redshifts: therefore they are not the progenitors of normal-size passive
+galaxies at $z=0$. Our model also predicts a stellar-halo size relation that is in good agreement
+with observational estimates. The ratio between stellar size and halo size is proportional to the
+halo spin and does not depend on stellar mass but for the most massive galaxies, where AGN feedback
+leads to a significant decrease of the retention factor (from about 80 per cent to 20 per cent). 

@@ -1,0 +1,16 @@
+In this paper, we show how the two-fluid equations describing the evolution of a dust and gas mixture
+can be reformulated to describe a single fluid moving with the barycentric velocity of the mixture.
+This leads to evolution equations for the total density, momentum, the differential velocity between
+the dust and the gas phases and either the dust-to-gas ratio or the dust fraction. The equations are
+similar to the usual equations of gas dynamics, providing a convenient way to extend existing codes
+to simulate two-fluid mixtures without modifying the code architecture. Our approach avoids the
+inherent difficulties related to the standard approach where the two phases are separate and coupled
+via a drag term. In particular, the requirements of infinite spatial and temporal resolution as
+the stopping time tends to zero are no longer necessary. This means that both small and large grains
+can be straightforwardly treated with the same method, with no need for complicated implicit schemes.
+Since there is only one resolution scale the method also avoids the problem of unphysical trapping
+of one fluid (e.g. dust) below the resolution of the other. We also derive a simplified set of equations
+applicable to the case of strong drag/small grains, consisting of the standard fluid equations
+with a modified sound speed, plus an advection-diffusion equation for the dust-to-gas ratio. This
+provides a simple and fast way to evolve the mixture when the stopping time is smaller than the Courant
+timestep. We present a Smoothed Particle Hydrodynamics implementation in a companion paper. 

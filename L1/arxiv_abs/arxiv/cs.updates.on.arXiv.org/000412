@@ -1,0 +1,16 @@
+This work considers the corner points of the capacity region of a two-user Gaussian interference
+channel (IC). The problem originated in a paper by Costa (1985), followed by a note that raised an
+issue and called for further study of these corner points (Sason, 2004). The operational meaning
+of this study is to explore the situation where one transmitter sends its information at the maximal
+achievable rate for a single-user (without interference), and the second transmitter needs to
+keep its data rate below a certain value in order to achieve reliable communication for the two non-cooperating
+receivers. The analysis in this paper mainly relies on existing outer bounds on the capacity region
+of a two-user Gaussian IC, leading to informative bounds for these corner points. For weak interference,
+where the interference coefficients in standard form are below~1, the resulting bounds are asymptotically
+tight when the transmitted powers tend to infinity (thus making it an interference-limited channel),
+and the corner points coincide in this case with their conjectured values (Costa, 1985). Furthermore,
+the precision of the assessment of the two corner points for a Gaussian IC with weak interference
+is high even for moderate signal-to-noise and interference-to-noise ratios. This work also provides
+informative bounds for the corner points of the capacity region of a two-user Gaussian IC with mixed
+interference. The corner points of the capacity region of a one-sided Gaussian interference channel
+are considered as well. Topics for further research are finally addressed. 

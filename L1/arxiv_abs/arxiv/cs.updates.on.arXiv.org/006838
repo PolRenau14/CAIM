@@ -1,0 +1,16 @@
+Segmentation of skin lesions is considered as an important step in computer aided diagnosis (CAD)
+for automated melanoma diagnosis. In recent years, segmentation methods based on fully convolutional
+networks (FCN) have achieved great success in general images. This success is primarily due to the
+leveraging of large labelled datasets to learn features that correspond to the shallow appearance
+as well as the deep semantics of the images. However, the dependence on large dataset does not translate
+well into medical images. To improve the FCN performance for skin lesion segmentations, researchers
+attempted to use specific cost functions or add post-processing algorithms to refine the coarse
+boundaries of the FCN results. However, the performance of these methods is heavily reliant on the
+tuning of many parameters and post-processing techniques. In this paper, we leverage the state-of-the-art
+image feature learning method of generative adversarial network (GAN) for its inherent ability
+to produce consistent and realistic image features by using deep neural networks and adversarial
+learning concept. We improve upon GAN such that skin lesion features can be learned at different
+level of complexities, in a controlled manner. The outputs from our method is then augmented to the
+existing FCN training data, thus increasing the overall feature diversity. We evaluated our method
+on the ISIC 2018 skin lesion segmentation challenge dataset and showed that it was more accurate
+and robust when compared to the existing skin lesion segmentation methods. 

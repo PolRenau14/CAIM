@@ -1,0 +1,17 @@
+The Dicke model describes the coherent interaction of a laser-driven ensemble of two level atoms
+with a quantized light field. It is realized within cavity QED experiments, which in addition to
+the coherent Dicke dynamics feature dissipation due to e.g. atomic spontaneous emission and cavity
+photon loss. Spontaneous emission supports the uncorrelated decay of individual atomic excitations
+as well as the enhanced, collective decay of an excitation that is shared by $N$ atoms and whose strength
+is determined by the cavity geometry. We derive a many-body master equation for the dissipative
+Dicke model including both spontaneous emission channels and analyze its dynamics on the basis
+of Heisenberg-Langevin and stochastic Bloch equations. We find that the collective loss channel
+leads to a region of bistability between the empty and the superradiant state. Transitions between
+these states are driven by non-thermal, markovian noise. The interplay between dissipative and
+coherent elements leads to a genuine non-equilibrium dynamics in the bistable regime, which is
+expressed via a non-conservative force and a multiplicative noise kernel appearing in the stochastic
+Bloch equations. We present a semiclassical approach, based on stochastic nonlinear optical Bloch
+equations, which for the infinite-range Dicke Model become exact in the large-$N$-limit. The absence
+of an effective free energy functional, however, necessitates to include fluctuation corrections
+with $\mathcal{O}(1/N)$ for finite $N<\infty$ to locate the non-thermal first-order phase transition
+between the superradiant and the empty cavity. 

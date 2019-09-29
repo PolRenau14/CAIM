@@ -1,0 +1,17 @@
+Transitions between different conformational states are ubiquitous in proteins, being involved
+in signaling, catalysis and other fundamental activities in cells. However, modeling those processes
+is extremely difficult, due to the need of efficiently exploring a vast conformational space in
+order to seek for the actual transition path for systems whose complexity is already high in the steady
+states. Here we report a strategy that simplifies this task attacking the complexity on several
+sides. We first apply a minimalist coarse-grained model to Calmodulin, based on an empirical force
+field with a partial structural bias, to explore the transition paths between the apo-closed state
+and the Ca-bound open state of the protein. We then select representative structures along the trajectory
+based on a structural clustering algorithm and build a cleaned-up trajectory with them. We finally
+compare this trajectory with that produced by the online tool MinActionPath, by minimizing the
+action integral using a harmonic network model, and with that obtained by the PROMPT morphing method,
+based on an optimal mass transportation-type approach including physical constraints. The comparison
+is performed both on the structural and energetic level, using the coarse-grained and the atomistic
+force fields upon reconstruction. Our analysis indicates that this method returns trajectories
+capable of exploring intermediate states with physical meaning, retaining a very low computational
+cost, which can allow systematic and extensive exploration of the multi-stable proteins transition
+pathways. 

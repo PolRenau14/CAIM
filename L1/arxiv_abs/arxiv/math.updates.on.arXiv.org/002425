@@ -1,0 +1,17 @@
+A lack of regularity in the solution of the porous medium equation poses a serious challenge in its
+theoretical and numerical studies. A common strategy in theoretical studies is to utilize the pressure
+formulation of the equation where a new variable called the mathematical pressure is introduced.
+It is known that the new variable has much better regularity than the original one and Darcy's law
+for the movement of the free boundary can be expressed naturally in this new variable. The pressure
+formulation has not been used in numerical studies. The goal of this work is to study its use in the
+adaptive finite element solution of the porous medium equation. The MMPDE moving mesh strategy
+is employed for adaptive mesh movement while linear finite elements are used for spatial discretization.
+The free boundary is traced explicitly by integrating Darcy's law with the Euler scheme. Numerical
+results are presented for three two-dimensional examples. The method is shown to be second-order
+in space and first-order in time in the pressure variable. Moreover, the convergence order of the
+error in the location of the free boundary is almost second-order in the maximum norm. However, numerical
+results also show that the convergence order of the method in the original variable stays between
+first-order and second-order in the $L^1$ norm or between 0.5th-order and first-order in the $L^2$
+norm. Nevertheless, the current method can offer some advantages over numerical methods based
+on the original formulation for situations with large exponents or when a more accurate location
+of the free boundary is desired. 

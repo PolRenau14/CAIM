@@ -1,0 +1,17 @@
+We present velocity power spectra computed by the so-called direct method from burst type laser
+Doppler anemometer (LDA) data, both measured in a turbulent round jet and generated in a computer.
+Using today's powerful computers we have been able to study more properties of the computed spectra
+than was previously possible, and we noted some unexpected features of the spectra that we now attribute
+to the unavoidable influence of a finite measurement volume (MV). The most prominent effect, which
+initially triggered these studies, was the appearance of damped oscillations in the higher frequency
+range, starting around the cut-off frequency due to the size of the MV. Using computer generated
+data mimicking the LDA data, these effects have previously been shown to appear due to the effect
+of dead time, i.e., the finite time during which the system is not able to acquire new measurements.
+These dead times can be traced back to the fact that the burst-mode LDA cannot measure more than one
+signal burst at a time. Since the dead time is approximately equal to the residence time for a particle
+traversing a measurement volume, we are dealing with widely varying dead times, which, however,
+are assumed to be measured for each data point. In addition, the detector and processor used in the
+current study introduce a certain amount of fixed processing and data transfer times, which further
+contribute to the distortion of the computed spectrum. However, we show excellent agreement between
+a measured spectrum and our modeled LDA data thereby confirming the validity of our model for the
+LDA burst processor. 

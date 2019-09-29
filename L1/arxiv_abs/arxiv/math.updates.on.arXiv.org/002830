@@ -1,0 +1,16 @@
+$(M^n,g)$ be a complete Riemannian manifold without conjugate points. In this paper, we show that
+if $M$ is also simply connected, then $M$ is flat, provided that $M$ is also asymptotically harmonic
+manifold with minimal horospheres (AHM). The (first order) flatness of $M$ is shown by using the
+strongest criterion: $\{{e_i}\}$ be an orthonormal basis of $T_{p}M$ and $\{b_{e_{i}}\}$ be the
+corresponding Busemann functions on $M$. Then, (1) The vector space $V = span\{b_{v} | v \in T_{p}M
+\}$ is finite dimensional and dim $V = $ dim $M = n$.(2) $\{\nabla b_{e_i}(p) \}$ is a global parallel
+orthonormal basis of $T_{p}M$ for any $p \in M$. Thus, $M$ is a parallizable manifold. And (3) F : M
+-> R^n defined by $F(x) = (b_{e_1}(x), b_{e_{2}}(x), \cdots, b_{e_{n}}(x)),$ is an isometry and
+therefore, $M$ is flat. Consequently, AH manifolds can have either polynomial or exponential volume
+growth,generalizing the corresponding result of [18] for harmonic manifolds. In case of harmonic
+manifold with minimal horospheres (HM), the (second order) flatness was proved in [23] by showing
+that $span\{b_{v}^2 | v \in T_{p}M \}$ is finite dimensional. We conclude that, the results obtained
+in this paper are the strongest and wider in comparison to harmonic manifolds, which are known to
+be AH. In fact, our proof shows the more generalized result, viz.: If (M,g) is a non-compact, complete,
+connected Riemannian manifold of infinite injectivity radius and of subexponential volume growth,
+then M is a first order flat manifold. 

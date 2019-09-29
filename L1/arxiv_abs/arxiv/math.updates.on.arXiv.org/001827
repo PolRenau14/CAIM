@@ -1,0 +1,17 @@
+The largest order $n(d,k)$ of a graph of maximum degree $d$ and diameter $k$ cannot exceed the Moore
+bound, which has the form $M(d,k)=d^k - O(d^{k-1})$ for $d\to\infty$ and any fixed $k$. Known results
+in finite geometries on generalised $(k+1)$-gons imply, for $k=2,3,5$, the existence of an infinite
+sequence of values of $d$ such that $n(d,k)=d^k - o(d^k)$. This shows that for $k=2,3,5$ the Moore
+bound can be asymptotically approached in the sense that $n(d,k)/M(d,k)\to 1$ as $d\to\infty$;
+moreover, no such result is known for any other value of $k\ge 2$. The corresponding graphs are, however,
+far from vertex-transitive, and there appears to be no obvious way to extend them to vertex-transitive
+graphs giving the same type of asymptotic result. The second and the third author (2012) proved by
+a direct construction that the Moore bound for diameter $k=2$ can be asymptotically approached
+by Cayley graphs. Subsequently, the first and the third author (2015) showed that the same construction
+can be derived from generalised triangles with polarity. By a detailed analysis of regular orbits
+of suitable groups of automorphisms of graphs arising from polarity quotients of incidence graphs
+of generalised quadrangles with polarity, we prove that for an infinite set of values of $d$ there
+exist Cayley graphs of degree $d$, diameter $3$, and order $d^3{-}O(d^{2.5})$. The Moore bound
+for diameter $3$ can thus as well be asymptotically approached by Cayley graphs. We also show that
+this method does not extend to constructing Cayley graphs of diameter $5$ from generalised hexagons
+with polarity. 

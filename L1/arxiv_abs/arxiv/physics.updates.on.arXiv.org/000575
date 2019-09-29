@@ -1,0 +1,17 @@
+This paper focuses on minimizing the time requirement for CT capture through innovative simultaneous
+x-ray capture method. The state-of-the-art CT imaging methodology captures a sequence of projections
+during which the internal organ movements may lead to poor reconstruction due to motion artefacts.
+Traditional CT scanners' minimize such effect by taking more projections than necessary. In this
+work we focus on an innovative CT capture method that captures projections simultaneously, promising
+super fast scans along with possible radiation dose reductions. While the simultaneous CT capture
+model has already been proposed in our earlier work 'Multi-axial CT Reconstruction from Few View
+Projections' (in SPIE Optical Engineering and Applications, pp. 85000A-85000A. International
+Society for Optics and Photonics, 2012) and 'A New Imaging Method for Real-time 3D X-ray Reconstruction'
+(in SPIE Medical Imaging, pp. 86685G-86685G. International Society for Optics and Photonics,
+2013), in this work we enhance the model through better initialization along with prior smoothing
+before successive iterations of the iterative algorithms. We also elaborate the model considering
+different X-ray source/detector configurations. Results show that it is possible reconstruct
+a cross-section slice by considering only four angular projections. With eight projections, the
+reconstruction is further improved. The main promising matter about this method is that, all these
+projections (i.e. four or eight) can in principle be captured simultaneously, implying CT capture
+in one go just like a chest X-ray. 

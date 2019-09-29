@@ -1,0 +1,16 @@
+Nanostructures can be bound together at equilibrium by the van der Waals (vdW) effect, a small but
+ubiquitous many-body attraction that presents challenges to density functional theory. How does
+the binding energy depend upon the size or number of atoms in one of a pair of identical nanostructures?
+To answer this question, we treat each nanostructure properly as a whole object, not as a collection
+of atoms. Our calculations start from an accurate static dipole polarizability for each considered
+nanostructure, and an accurate equilibrium center-to-center distance for the pair (the latter
+from experiment, or from the vdW-DF-cx functional). We consider the competition in each term $-C_{2k}/d^{2k}$
+($k=3, 4, 5$) of the long-range vdW series for the interaction energy, between the size dependence
+of the vdW coefficient $C_{2k}$ and that of the $2k$-th power of the center-to-center distance $d$.
+The damping of these vdW terms can be negligible, but in any case it does not affect the size dependence
+for a given term in the absence of non-vdW binding. To our surprise, the vdW energy can be size-independent
+for quasi-spherical nanoclusters bound to one another by vdW interaction, even with strong nonadditivity
+of the vdW coefficient, as demonstrated for fullerenes. We also show that, for low-dimensional
+systems, the vdW interaction yields the strongest size-dependence, in stark contrast to that of
+fullerenes. We illustrate this with parallel planar polycyclic aromatic hydrocarbons. Other
+cases are between, as shown by sodium clusters. 

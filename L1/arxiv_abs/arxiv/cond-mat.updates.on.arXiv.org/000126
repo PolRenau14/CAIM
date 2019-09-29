@@ -1,0 +1,16 @@
+We consider the stochastic dynamics of the pure and random ferromagnetic Ising model on the hierarchical
+diamond lattice of branching ratio $K$ with fractal dimension $d_f=(\ln (2K))/\ln 2$. We adapt
+the Real Space Renormalization procedure introduced in our previous work [C. Monthus and T. Garel,
+J. Stat. Mech. P02037 (2013)] to study the equilibrium time $t_{eq}(L)$ as a function of the system
+size $L$ near zero-temperature. For the pure Ising model, we obtain the behavior $t_{eq}(L) \sim
+L^{\alpha} e^{\beta 2J L^{d_s}} $ where $d_s=d_f-1$ is the interface dimension, and we compute
+the prefactor exponent $\alpha$. For the random ferromagnetic Ising model, we derive the renormalization
+rules for dynamical barriers $B_{eq}(L) \equiv (\ln t_{eq}/\beta)$ near zero temperature. For
+the fractal dimension $d_f=2$, we obtain that the dynamical barrier scales as $ B_{eq}(L)= c L+L^{1/2}
+u$ where $u$ is a Gaussian random variable of non-zero-mean. While the non-random term scaling as
+$L$ corresponds to the energy-cost of the creation of a system-size domain-wall, the fluctuation
+part scaling as $L^{1/2}$ characterizes the barriers for the motion of the system-size domain-wall
+after its creation. This scaling corresponds to the dynamical exponent $\psi=1/2$, in agreement
+with the conjecture $\psi=d_s/2$ proposed in [C. Monthus and T. Garel, J. Phys. A 41, 115002 (2008)].
+In particular, it is clearly different from the droplet exponent $\theta \simeq 0.299$ involved
+in the statics of the random ferromagnet on the same lattice. 

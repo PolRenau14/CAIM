@@ -1,0 +1,16 @@
+Software-defined radios (SDRs) are often used in the experimental evaluation of next-generation
+wireless technologies. While crowd-sourced spectrum monitoring is an important component of
+future spectrum-agile technologies, there is no clear way to test it in the real world, i.e., with
+hundreds of users each with an SDR in their pocket participating in RF experiments controlled by,
+and data uploaded to, the cloud. Current fully functional SDRs are bulky, with components connected
+via wires, and last at most hours on a single battery charge. To address the needs of such experiments,
+we design and develop a compact, portable, untethered, and inexpensive SDR we call Sitara. Our SDR
+interfaces with a mobile device over Bluetooth 5 and can function standalone or as a client to a central
+command and control server. The Sitara offers true portability: it operates up to one week on battery
+power, requires no external wired connections and occupies a footprint smaller than a credit card.
+It transmits and receives common waveforms, uploads IQ samples or processed receiver data through
+a mobile device to a server for remote processing and performs spectrum sensing functions. Multiple
+Sitaras form a distributed system capable of conducting experiments in wireless networking and
+communication in addition to RF monitoring and sensing activities. In this paper, we describe our
+design, evaluate our solution, present experimental results from multi-sensor deployments and
+discuss the value of this system in future experimentation. 

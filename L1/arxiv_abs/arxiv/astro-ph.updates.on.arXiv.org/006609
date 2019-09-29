@@ -1,0 +1,16 @@
+The ice-albedo feedback on rapidly-rotating terrestrial planets in the habitable zone can lead
+to abrupt transitions (bifurcations) between a warm and a snowball (ice-covered) state, bistability
+between these states, and hysteresis in planetary climate. This is important for planetary habitability
+because snowball events may trigger rises in the complexity of life, but could also endanger complex
+life that already exists. Recent work has shown that planets tidally locked in synchronous rotation
+states will transition smoothly into the snowball state rather than experiencing bifurcations.
+Here we investigate the structure of snowball bifurcations on planets that are tidally influenced,
+but not synchronously rotating, so that they experience long solar days. We use PlaSIM, an intermediate-complexity
+global climate model, with a thermodynamic mixed layer ocean and the Sun's spectrum. We find that
+the amount of hysteresis (range in stellar flux for which there is bistability in climate) is significantly
+reduced for solar days with lengths of tens of Earth days, and disappears for solar days of hundreds
+of Earth days. These results suggest that tidally influenced planets orbiting M and K-stars that
+are not synchronously rotating could have much less hysteresis associated with the snowball bifurcations
+than they would if they were rapidly rotating. This implies that the amount of time it takes them to
+escape a snowball state via CO$_2$ outgassing would be greatly reduced, as would the period of cycling
+between the warm and snowball state if they have a low CO$_2$ outgassing rate. 

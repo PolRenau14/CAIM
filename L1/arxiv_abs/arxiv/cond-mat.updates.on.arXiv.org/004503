@@ -1,0 +1,17 @@
+While the scaling of entanglement in a quantum system can be used to distinguish many-body quantum
+phases, it is usually hard to quantify the amount of entanglement in mixed states of open quantum
+systems, while measuring entanglement experimentally, even for the closed systems, requires
+in general quantum state tomography. In this work we show how to remedy this situation in system with
+a fixed or conserved charge, e.g., density or magnetization, due to an emerging relation between
+quantum correlations and coherence. First, we show how, in these cases, the presence of multipartite
+entanglement or quantumness can be faithfully witnessed simply by detecting coherence in the quantum
+system, while bipartite entanglement or bipartite quantum discord are implied by asymmetry (block
+coherence) in the system. Second, we prove that the relation between quantum correlations and coherence
+is also quantitative. Namely, we establish upper and lower bounds on the amount of multipartite
+and bipartite entanglement in a many-body system with a fixed local charge, in terms of the amount
+of coherence and asymmetry present in the system. Importantly, both for pure and mixed quantum states,
+these bounds are expressed as closed formulas, and furthermore, for bipartite entanglement, are
+experimentally accessible by means of the multiple quantum coherence spectra. In particular,
+in one-dimensional systems, our bounds may detect breaking of the area law of entanglement entropy.
+We illustrate our results on the example of a many-body localized system, also in the presence of
+dephasing. 

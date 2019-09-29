@@ -1,0 +1,15 @@
+You have $m$ muffins and $s$ students. You want to divide the muffins into pieces and give the shares
+to students such that every student has $\frac{m}{s}$ muffins. Find a divide-and-distribute protocol
+that maximizes the minimum piece. Let $f(m,s)$ be the minimum piece in the optimal protocol. We prove
+that $f(m,s)$ exists, is rational, and finding it is computable (though possibly difficult). We
+show that $f(m,s)$ can be derived from $f(s,m)$; hence we need only consider $m\ge s$. We give a function
+$FC(m,s)$ such that, for $m\ge s+1$, $f(m,s)\le FC(m,s)$. It is often the case that $f(m,s)=FC(m,s)$.
+More formally, for all $s$, for all but a finite number of $m$, $f(m,s)=FC(m,s)$. This leads to a nice
+formula for $f(m,s)$, though there are exceptions to it. We give a formula $INT(m,s)$, which has
+6 parts, such that for many of the exceptional $m$, $f(m,s)=INT(m,s)<FC(m,s)$. This works for most
+of the exceptional $m$ where ceil${2m/s}\ge 4$. There are still some exceptional $m$ with ceil${2m/s}=3$
+(if its $\le 2$ then the problem is trivial). For these cases we have a way to {\it generate theorems}.
+For $1\le d\le 7$ we have generated formulas for $f(s+d,s)$. We do not have a theorem here but we do
+have a methodology which leads to, for some of the $m$, a value $BM(m,s)$ such that often $f(m,s)=BM(m,s)<INT(m,s)<FC(m,s)$.
+So far it seems like, for $m\ge s$, $f(m,s) = \min\{FC(m,s), INT(m,s), BM(m,s) \}$, though we have
+not prove this. For $1\le s\le 50$ and $s\le m\le 60$ we have obtained $f(m,s)$ for all but 20 values.

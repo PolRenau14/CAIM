@@ -1,0 +1,17 @@
+Very expensive problems are very common in practical system that one fitness evaluation costs several
+hours or even days. Surrogate assisted evolutionary algorithms (SAEAs) have been widely used to
+solve this crucial problem in the past decades. However, most studied SAEAs focus on solving problems
+with a budget of at least ten times of the dimension of problems which is unacceptable in many very
+expensive real-world problems. In this paper, we employ Voronoi diagram to boost the performance
+of SAEAs and propose a novel framework named Voronoi-based efficient surrogate assisted evolutionary
+algorithm (VESAEA) for very expensive problems, in which the optimization budget, in terms of fitness
+evaluations, is only 5 times of the problem's dimension. In the proposed framework, the Voronoi
+diagram divides the whole search space into several subspace and then the local search is operated
+in some potentially better subspace. Additionally, in order to trade off the exploration and exploitation,
+the framework involves a global search stage developed by combining leave-one-out cross-validation
+and radial basis function surrogate model. A performance selector is designed to switch the search
+dynamically and automatically between the global and local search stages. The empirical results
+on a variety of benchmark problems demonstrate that the proposed framework significantly outperforms
+several state-of-art algorithms with extremely limited fitness evaluations. Besides, the efficacy
+of Voronoi-diagram is furtherly analyzed, and the results show its potential to optimize very expensive
+problems. 

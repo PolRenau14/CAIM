@@ -1,0 +1,16 @@
+The classic optical nebular diagnostics [N II], [O II], [O III], [S II], [S III], and [Ar III] are employed
+to search for evidence of non-Maxwellian electron distributions, namely $\kappa$~distributions,
+in a sample of well-observed Galactic H II regions. By computing new effective collision strengths
+for all these systems and A-values when necessary (e.g. S II), and by comparing with previous collisional
+and radiative datasets, we have been able to obtain realistic estimates of the electron-temperature
+dispersion caused by the atomic data, which in most cases are not larger than $\sim 10$%. If the uncertainties
+due to both observation and atomic data are then taken into account, it is plausible to determine
+for some systems a representative average temperature while in others there are at least two plasma
+excitation regions. For the latter, it is found that the diagnostic temperature differences in
+the high-excitation region, e.g. $T_e$(O III), $T_e$(S III), and $T_e$(Ar III), cannot be conciliated
+by invoking $\kappa$~distributions. For the low excitation region, it is possible in some, but
+not all, cases to arrive at a common, lower temperature for [N II], [O II], and [S II] with $\kappa\approx
+10$, which would then lead to significant abundance enhancements for these charge states. An analytic
+formula is proposed to generate accurate $\kappa$-averaged excitation rate coefficients (better
+than 10% for $\kappa \geq 5$) from temperature tabulations of the Maxwell-Boltzmann effective
+collision strengths. 

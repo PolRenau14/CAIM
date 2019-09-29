@@ -1,0 +1,16 @@
+In this work we revisit the classic problem of homogeneous nucleation of a liquid droplet in a supersaturated
+vapor phase. We consider this at different extents of the driving force, which here is the extent
+of supersaturation, and calculate a reaction coordinate (RC) for nucleation as the driving force
+is varied. The RC is constructed as a linear combination of three order parameters, where one accounts
+for the number of liquid-like atoms, and the other two for local density fluctuations. The RC is calculated
+from all-atom biased and unbiased molecular dynamics (MD) simulations using the spectral gap optimization
+approach "SGOOP" [P. Tiwary and B. J. Berne, Proc. Natl. Acad. Sci. U. S. A. 113, 2839 (2016)]. Our
+key finding is that as the supersaturation decreases, the RC ceases to simply be the number of liquid-like
+atoms, and instead it becomes important to explicitly consider local density fluctuations that
+correlate with shape and density variations in the nucleus. All three order parameters are found
+to have similar barriers in their respective potentials of mean force, however, as the supersaturation
+decreases the density fluctuations decorrelate slower and thus carry longer memory. Thus at lower
+supersaturations density fluctuations are non-Markovian and can not be simply ignored from the
+RC by virtue of being noise. Finally, we use this optimized RC to calculate nucleation rates in the
+infrequent metadynamics framework, and show it leads to more accurate estimate of the nucleation
+rate with four orders of magnitude acceleration relative to unbiased MD. 

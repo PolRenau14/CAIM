@@ -1,0 +1,16 @@
+Contrary to the electric charge that generates the electric field, magnetic charge (namely magnetic
+monopoles) does not exist in the elementary electromagnetism. Consequently, magnetic flux lines
+only form loops and cannot have a source or a sink in nature. It is thus extraordinary to find that magnetic
+monopoles can be pictured conceptually in topological materials. Specifically in the 2D topological
+insulators, the topological invariant corresponds to the total flux of an effective magnetic field
+(the Berry curvature) over the reciprocal space.It is thus tempting to wrap the 2D reciprocal space
+into a compact manifold--a torus, and imagine the total flux to originate from magnetic monopoles
+inside the torus with a quantized total charge. However, such a physically appealing picture has
+not been realized quantitatively: other than their existence in a toy (actually misleading) picture,
+the properties of the magnetic monopoles remain unknown. Here, we will address this long-standing
+problem by hunting down the magnetic monopoles in the reciprocal $k$-space. We will show that a simple
+and physically useful picture will arrive upon analytically continuing the system to a third imaginary
+momentum space. We then illustrate the evolution of the magnetic monopoles across the topological
+phase transition and use it to provide natural explanations on: 1) discontinuous jump of integer
+topological invariants, 2) the semi-metallic nature on the phase boundary, and 3) how a change of
+global topology can be induced via a local change in reciprocal space. 

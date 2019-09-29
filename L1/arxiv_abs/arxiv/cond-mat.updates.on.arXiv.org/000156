@@ -1,0 +1,16 @@
+The Bose glass (BG) phase is the Griffiths region of the disordered Bose Hubbard model (BHM), characterized
+by finite, quasi-superfluid clusters within a Mott insulating background. We propose to utilize
+this characterization to identify the complete zero-temperature phase diagram of the disordered
+BHM in $d\ge2$ dimensions by analyzing the geometric properties of what we call superfluid (SF)
+clusters, which are defined to be clusters of sites with non-integer expectation values for the
+local boson occupation number. The Mott insulator (MI) phase then is the region in the phase diagram
+where no SF clusters exist, and the SF phase the region, where SF clusters percolate - the BG phase
+is in between: SF clusters exist, but do not percolate. This definition is particularly useful in
+the context of local mean field (LMF, or Gutzwiller-Ansatz) calculations, where we show that an
+identification of the phases on the basis of global quantities like the averaged SF order parameter
+and the compressibility are misleading. We apply the SF cluster analysis to the LMF ground states
+of the two dimensional disordered BHM to produce its phase diagram and find a) an excellent agreement
+with the phase diagram predicted on the basis of quantum Monte Carlo simulations for the commensurate
+density $n=1$, and b) large differences to stochastic mean field and other mean field predictions
+for fixed disorder strength. The relation of the percolation transition of the SF clusters with
+the onset of non-vanishing SF stiffness indicating the BG to SF transition is discussed. 

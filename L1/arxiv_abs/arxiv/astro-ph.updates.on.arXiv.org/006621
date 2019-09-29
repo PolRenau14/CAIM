@@ -1,0 +1,16 @@
+We present 870 $\mu$m ALMA dust polarization observations of 10 young Class 0/I protostars in the
+Perseus Molecular Cloud. At $\sim$ 0.35$"$ (80 au) resolution, all of our sources show some degree
+of polarization, with most (9/10) showing significantly extended emission in the polarized continuum.
+Each source has incredibly intricate polarization signatures. In particular, all three disk-candidates
+have polarization vectors roughly along the minor axis, which is indicative of polarization produced
+by dust scattering. On $\sim$ 100 au scales, the polarization is at a relatively low level ($\lesssim
+1\%$) and is quite ordered. In sources with significant envelope emission, the envelope is typically
+polarized at a much higher ($\gtrsim 5\%$) level and has a far more disordered morphology. We compute
+the cumulative probability distributions for both the small (disk-scale) and large (envelope-scale)
+polarization percentage. We find that the two are intrinsically different, even after accounting
+for the different detection thresholds in the high/low surface brightness regions. We perform
+Kolmogorov-Smirnov and Anderson-Darling tests on the distributions of angle offsets of the polarization
+from the outflow axis. We find disk-candidate sources are different from the non-disk-candidate
+sources. We conclude that the polarization on the 100 au scale is consistent with the signature of
+dust scattering for disk-candidates and that the polarization on the envelope-scale in all sources
+may come from another mechanism, most likely magnetically aligned grains. 

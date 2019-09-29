@@ -1,0 +1,16 @@
+The success of deep learning in computer vision is rooted in the ability of deep networks to scale
+up model complexity as demanded by challenging visual tasks. As complexity is increased, so is the
+need for large amounts of labeled data to train the model. This is associated with a costly human annotation
+effort. To address this concern, with the long-term goal of leveraging the abundance of cheap unlabeled
+data, we explore methods of unsupervised "pre-training." In particular, we propose to use self-supervised
+automatic image colorization. We show that traditional methods for unsupervised learning, such
+as layer-wise clustering or autoencoders, remain inferior to supervised pre-training. In search
+for an alternative, we develop a fully automatic image colorization method. Our method sets a new
+state-of-the-art in revitalizing old black-and-white photography, without requiring human
+effort or expertise. Additionally, it gives us a method for self-supervised representation learning.
+In order for the model to appropriately re-color a grayscale object, it must first be able to identify
+it. This ability, learned entirely self-supervised, can be used to improve other visual tasks,
+such as classification and semantic segmentation. As a future direction for self-supervision,
+we investigate if multiple proxy tasks can be combined to improve generalization. This turns out
+to be a challenging open problem. We hope that our contributions to this endeavor will provide a foundation
+for future efforts in making self-supervision compete with supervised pre-training. 

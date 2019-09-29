@@ -1,0 +1,16 @@
+We investigate the estimation technique called quantum state smoothing introduced by Guevara
+and Wiseman [Phys.~Rev.~Lett.~{\bf 115}, 180407 (2015)], which offers a valid quantum state estimate
+for a partially monitored system, conditioned on the observed record both prior and posterior to
+an estimation time. Partial monitoring by an observer implies that there may exist records unobserved
+by that observer. It was shown that, given only the observed record, the observer can better estimate
+the underlying true quantum states, by inferring the unobserved record and using quantum state
+smoothing, rather than the usual quantum filtering approach. However, the improvement in estimation
+fidelity, originally examined for a resonantly driven qubit coupled to two vacuum baths, was also
+shown to vary depending on the types of detection used for the qubit's fluorescence. In this work,
+we analyse this variation in a systematic way for the first time. We first define smoothing power
+using an average purity recovery and a relative average purity recovery, of smoothing over filtering.
+Then, we explore the power for various combinations of fluorescence detection for both observed
+and unobserved channels. We next propose a method to explain the variation of the smoothing power,
+based on multi-time correlation strength between fluorescence detection records. The method
+gives a prediction of smoothing power for different combinations, which is remarkably successful
+in comparison with numerically simulated qubit trajectories. 

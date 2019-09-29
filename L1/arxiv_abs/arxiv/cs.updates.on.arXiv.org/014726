@@ -1,0 +1,17 @@
+In order to avoid the "Midas Touch" problem, gaze-based interfaces for selection often introduce
+a dwell time: a fixed amount of time the user must fixate upon an object before it is selected. Past
+interfaces have used a uniform dwell time across all objects. Here, we propose a gaze-based browser
+using a two-step selection policy with variable dwell time. In the first step, a command, e.g. "back"
+or "select", is chosen from a menu using a dwell time that is constant across the different commands.
+In the second step, if the "select" command is chosen, the user selects a hyperlink using a dwell time
+that varies between different hyperlinks. We assign shorter dwell times to more likely hyperlinks
+and longer dwell times to less likely hyperlinks. In order to infer the likelihood each hyperlink
+will be selected, we have developed a probabilistic model of natural gaze behavior while surfing
+the web. We have evaluated a number of heuristic and probabilistic methods for varying the dwell
+times using both simulation and experiment. Our results demonstrate that varying dwell time improves
+the user experience in comparison with fixed dwell time, resulting in fewer errors and increased
+speed. While all of the methods for varying dwell time resulted in improved performance, the probabilistic
+models yielded much greater gains than the simple heuristics. The best performing model reduces
+error rate by 50% compared to 100ms uniform dwell time while maintaining a similar response time.
+It reduces response time by 60% compared to 300ms uniform dwell time while maintaining a similar
+error rate. 

@@ -1,0 +1,16 @@
+A four-dimensional Abelian gauge field can be coupled to a 3d CFT with a $U(1)$ symmetry living on
+a boundary. This coupling gives rise to a continuous family of boundary conformal field theories
+(BCFT) parametrized by the gauge coupling $\tau$ in the upper-half plane and by the choice of the
+CFT in the decoupling limit $\tau \to \infty$. Upon performing an $SL(2,\mathbb{Z})$ transformation
+in the bulk and going to the decoupling limit in the new frame, one finds a different 3d CFT on the boundary,
+related to the original one by Witten's $SL(2, \mathbb{Z})$ action [1]. In particular the cusps
+on the real $\tau$ axis correspond to the 3d gauging of the original CFT. We study general properties
+of this BCFT. We show how to express bulk one and two-point functions, and the hemisphere free-energy,
+in terms of the two-point functions of the boundary electric and magnetic currents. We then consider
+the case in which the 3d CFT is one Dirac fermion. Thanks to 3d dualities this BCFT is mapped to itself
+by a bulk $S$ transformation, and it also admits a decoupling limit which gives the $O(2)$ model on
+the boundary. We compute scaling dimensions of boundary operators and the hemisphere free-energy
+up to two loops. Using an $S$-duality improved ansatz, we extrapolate the perturbative results
+and find good approximations to the observables of the $O(2)$ model. We also consider examples with
+other theories on the boundary, such as large-$N_f$ Dirac fermions --for which the extrapolation
+to strong coupling can be done exactly order-by-order in $1/N_f$-- and a free complex scalar. 

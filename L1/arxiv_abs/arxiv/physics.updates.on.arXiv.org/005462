@@ -1,0 +1,17 @@
+Leading- and trailing-edge serrations have been widely used to reduce the leading- and trailing-edge
+noise in applications such as contra-rotating fans and large wind turbines. Recent studies show
+that these two noise problems can be modelled analytically using the Wiener-Hopf method. However,
+the resulting models involve infinite-interval integrals that cannot be evaluated analytically,
+and consequently implementing them poses practical difficulty. This paper develops easily-implementable
+noise prediction models for flat plates with serrated leading and trailing edges, respectively.
+By exploiting the fact that high-order modes are cut-off and adjacent modes do not interfere in the
+far field except at sufficiently high frequencies, an infinite-interval integral involving two
+infinite sums is approximated by a single straightforward sum. Numerical comparison shows that
+the resulting models serve as excellent approximations to the original models. Good agreement
+is also achieved when the leading-edge model predictions are compared with experimental results
+for sawtooth serrations of various root-to-tip amplitudes. Importantly, the models developed
+in this paper can be evaluated robustly in a very efficient manner. For example, a typical far-field
+noise spectrum can be calculated within milliseconds for both the trailing- and leading-edge noise
+models on a standard desktop computer. Due to their efficiency and ease of numerical implementation,
+these models are expected to be of particular importance in applications where a numerical optimization
+is likely to be needed. 

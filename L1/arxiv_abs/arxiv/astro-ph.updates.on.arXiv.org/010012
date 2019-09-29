@@ -1,0 +1,16 @@
+Accurate cosmology from upcoming weak lensing surveys relies on knowledge of the total matter power
+spectrum at percent level at scales $k < 10$ $h$/Mpc, for which modelling the impact of baryonic physics
+is crucial. We compare measurements of the total matter power spectrum from the Horizon cosmological
+hydrodynamical simulations: a dark matter-only run, one with full baryonic physics, and another
+lacking Active Galactic Nuclei (AGN) feedback. Baryons cause a suppression of power at $k\simeq
+10$ $h/$Mpc of $<15\%$ at $z=0$, and an enhancement of a factor of a few at smaller scales due to the
+more efficient cooling and star formation. The results are sensitive to the presence of the highest
+mass haloes in the simulation and the distribution of dark matter is also impacted up to a few percent.
+The redshift evolution of the effect is non-monotonic throughout $z=0-5$ due to an interplay between
+AGN feedback and gas pressure, and the growth of structure. We investigate the effectiveness of
+an analytic `baryonic correction model' in describing our results. We require a different redshift
+evolution and propose an alternative fitting function with $4$ free parameters that reproduces
+our results within $5\%$. Compared to other simulations, we find the impact of baryonic processes
+on the total matter power spectrum to be smaller at $z=0$. Correspondingly, our results suggest
+that AGN feedback is not strong enough in the simulation. Total matter power spectra from the Horizon
+simulations are made publicly available at https://www.horizon-simulation.org/catalogues.html.

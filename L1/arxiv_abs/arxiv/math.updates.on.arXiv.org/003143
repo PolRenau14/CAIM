@@ -1,0 +1,16 @@
+The task of non-adaptive group testing is to identify up to $d$ defective items from $N$ items by testing
+subsets of $N$ items. Usually, a test is positive if it contains at least one defective item, and negative
+otherwise. If there are $t$ tests, they can be represented as a $t \times N$ measurement matrix. This
+measurement matrix is well designed if it can be used to satisfy two criteria: efficiently identify
+defective items and easily construct. In this work, such family of the matrix is achievable. We have
+answered the question that there exists a scheme such that a larger measurement matrix, built from
+a given $t\times N$ measurement matrix, can be used to identify up to $d$ defective items in time $O(t
+\log_2{N})$. In the meantime, a $t \times N$ nonrandom measurement matrix with $t = O \left(\frac{d^2
+\log_2^2{N}}{(\log_2(d\log_2{N}) - \log_2{\log_2(d\log_2{N})})^2} \right)$ can be obtained
+to identify up to $d$ defective items in time $\mathrm{poly}(t)$. This is so far better than the best
+well-known bound $t = O \left( d^2 \log_2^2{N} \right)$. For the special case $d = 2$, there exists
+an efficient nonrandom construction in which at most 2 defective items can be identified in time
+$4\log_2^2{N}$ using $t = 4\log_2^2{N}$ tests. Numerical results show that our proposed scheme
+is the best for practice compared with existing work. On the other hand, experimental results confirm
+our theoretical analysis. In particular, at most $2^{7} = 128$ defective items can be identified
+in less than $16$ seconds even when $N = 2^{100}$. 

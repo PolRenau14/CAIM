@@ -1,0 +1,16 @@
+We present an accurate and efficient discretization approach for the adaptive discretization
+of typical model equations employed in numerical weather prediction. A semi-Lagrangian approach
+is combined with the TR-BDF2 semi-implicit time discretization method and with a spatial discretization
+based on adaptive discontinuous finite elements. The resulting method has full second order accuracy
+in time and can employ polynomial bases of arbitrarily high degree in space, is unconditionally
+stable and can effectively adapt the number of degrees of freedom employed in each element, in order
+to balance accuracy and computational cost. The p-adaptivity approach employed does not require
+remeshing, therefore it is especially suitable for applications, such as numerical weather prediction,
+in which a large number of physical quantities are associated with a given mesh. Furthermore, although
+the proposed method can be implemented on arbitrary unstructured and nonconforming meshes, even
+its application on simple Cartesian meshes in spherical coordinates can cure effectively the pole
+problem by reducing the polynomial degree used in the polar elements. Numerical simulations of
+classical benchmarks for the shallow water and for the fully compressible Euler equations validate
+the method and demonstrate its capability to achieve accurate results also at large Courant numbers,
+with time steps up to 100 times larger than those of typical explicit discretizations of the same
+problems, while reducing the computational cost thanks to the adaptivity algorithm. 

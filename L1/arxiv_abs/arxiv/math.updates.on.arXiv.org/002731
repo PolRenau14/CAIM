@@ -1,0 +1,16 @@
+In this paper, we propose new randomization based algorithms for large scale linear discrete ill-posed
+problems with general-form regularization: ${\min} \|Lx\|$ subject to ${\min} \|Ax - b\|$, where
+$L$ is a regularization matrix. Our algorithms are inspired by the modified truncated singular
+value decomposition (MTSVD) method, which suits only for small to medium scale problems, and randomized
+SVD (RSVD) algorithms that generate good low rank approximations to $A$. We use rank-$k$ truncated
+randomized SVD (TRSVD) approximations to $A$ by truncating the rank-$(k+q)$ RSVD approximations
+to $A$, where $q$ is an oversampling parameter. The resulting algorithms are called modified TRSVD
+(MTRSVD) methods. At every step, we use the LSQR algorithm to solve the resulting inner least squares
+problem, which is proved to become better conditioned as $k$ increases so that LSQR converges faster.
+We present sharp bounds for the approximation accuracy of the RSVDs and TRSVDs for severely, moderately
+and mildly ill-posed problems, and substantially improve a known basic bound for TRSVD approximations.
+We prove how to choose the stopping tolerance for LSQR in order to guarantee that the computed and
+exact best regularized solutions have the same accuracy. Numerical experiments illustrate that
+the best regularized solutions by MTRSVD are as accurate as the ones by the truncated generalized
+singular value decomposition (TGSVD) algorithm, and at least as accurate as those by some existing
+truncated randomized generalized singular value decomposition (TRGSVD) algorithms. 

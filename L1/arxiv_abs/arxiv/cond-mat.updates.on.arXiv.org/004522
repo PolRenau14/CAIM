@@ -1,0 +1,17 @@
+In this paper we study the impact of active participation -- or deliberately seeking out other agents
+with an aim to convince them -- on the dynamics of consensus formation. For this purpose, we propose
+an adaptive network model in which two processes shape opinion dynamics at interwoven time-scales:
+(i) agents adapt their opinions subject to influence from social network neighbours who hold opinions
+within a tolerance interval $\delta$ and (ii) agents rewire network connections with an aim to maximize
+their own influence on overall system opinion. We study this system in both an endogenous setting
+in which all agents are subject to influence and also attempt to maximize influence, and in a setting
+of exogenous control, in which external agents not subject to influence adaptively attempt to maximize
+their influence. In both settings we find three regimes of stationary opinion configurations:
+(i) for low $\delta$ a regime of two evenly balanced radicalized opinion clusters at the extremes
+of the opinion space, (ii) for intermediate $\delta$ a 'winner-takes-most' regime of two unevenly
+sized radicalized opinion clusters, and (iii) for large $\delta$ a regime in which very low spread
+compromise consensus states can be reached. Comparing to adaptive processes of random and deliberately
+spread-reducing rewiring, we demonstrate that in regime (iii) competitive influence maximization
+can achieve near-minimal opinion spread within near-optimal times. Further, we also show that
+competitive influence maximizing rewiring can reduce the impact of small influential minorities
+on consensus states. 

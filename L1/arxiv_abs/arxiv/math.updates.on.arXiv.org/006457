@@ -1,0 +1,16 @@
+The widespread use of unmanned aerial vehicles (UAVs) by the military, commercial companies, and
+academia continues to push research for autonomous vehicle navigation, particularly in varying
+environmental conditions and beyond-line-of-sight (BLOS) applications. This article addresses
+trajectory generation for UAVs operating in extreme environments where the wind disturbances
+may exceed the vehicle's closed-loop stability bounds. To do this, a controller is developed that
+has two modes of operation: (1) normal mode, and (2) drift mode. In the normal mode the vehicle's thrust
+and sensor limitations are not exceeded by environmental conditions, whereas in the drift mode
+they are. In the drift mode, a drift frame that moves with the prevailing wind is established in which
+the vehicle maintains control authority to generate and track trajectories. The vehicle maintains
+control authority by relaxing the inertial frame trajectory tracking requirement and re-planning
+the trajectory in the drift frame. Guarantees are established to ensure tracking of the trajectory,
+collision avoidance, and respecting the vehicle thrust and sensor limitations. Simulation results
+demonstrate the algorithm properties through two scenarios. First, the performance of two quadrotors
+is compared where one utilizes the drift mode and the other does not. Second, multiple vehicles navigate
+through two narrow openings between protected and windy environments to demonstrate on-board
+updates to navigation parameters based on environmental conditions. 

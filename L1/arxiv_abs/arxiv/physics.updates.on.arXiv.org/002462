@@ -1,0 +1,16 @@
+Future nuclear arms reduction efforts will require technologies to verify that warheads slated
+for dismantlement are authentic without revealing any sensitive weapons design information to
+international inspectors. Despite several decades of research, no technology has met these requirements
+simultaneously. Recent work by Kemp et al. [Kemp RS, Danagoulian A, Macdonald RR, Vavrek JR (2016)
+Proc Natl Acad Sci USA 113:8618--8623] has produced a novel physical cryptographic verification
+protocol that approaches this treaty verification problem by exploiting the isotope-specific
+nature of nuclear resonance fluorescence (NRF) measurements to verify the authenticity of a warhead.
+To protect sensitive information, the NRF signal from the warhead is convolved with that of an encryption
+foil that contains key warhead isotopes in amounts unknown to the inspector. The convolved spectrum
+from a candidate warhead is statistically compared against that from an authenticated template
+warhead to determine whether the candidate itself is authentic. Here we report on recent proof-of-concept
+warhead verification experiments conducted at the Massachusetts Institute of Technology. Using
+high-purity germanium (HPGe) detectors, we measured NRF spectra from the interrogation of proxy
+'genuine' and 'hoax' objects by a 2.52 MeV endpoint bremsstrahlung beam. The observed differences
+in NRF intensities near 2.2 MeV indicate that the physical cryptographic protocol can distinguish
+between proxy genuine and hoax objects with high confidence in realistic measurement times. 

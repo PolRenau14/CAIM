@@ -1,0 +1,16 @@
+Algorithms for the synchronisation of clocks across networks are both common and important within
+distributed systems. We here address not only the formal modelling of these algorithms, but also
+the formal verification of their behaviour. Of particular importance is the strong link between
+the very different levels of abstraction at which the algorithms may be verified. Our contribution
+is primarily the formalisation of this connection between individual models and population-based
+models, and the subsequent verification that is then possible. While the technique is applicable
+across a range of synchronisation algorithms, we particularly focus on the synchronisation of
+(biologically-inspired) pulse-coupled oscillators, a widely used approach in practical distributed
+systems. For this application domain, different levels of abstraction are crucial: models based
+on the behaviour of an individual process are able to capture the details of distinguished nodes
+in possibly heterogenous networks, where each node may exhibit different behaviour. On the other
+hand, collective models assume homogeneous sets of processes, and allow the behaviour of the network
+to be analysed at the global level. System-wide parameters may be easily adjusted, for example environmental
+factors inhibiting the reliability of the shared communication medium. This work provides a formal
+bridge across the abstraction gap separating the individual models and the population-based models
+for this important class of synchronisation algorithms. 

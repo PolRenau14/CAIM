@@ -1,0 +1,17 @@
+We consider feed-forward networks, that is, networks where cells can be divided into layers, such
+that every edge targeting a layer, excluding the first one, starts in the prior layer. A feed-forward
+system is a dynamical system that respects the structure of a feed-forward network. The synchrony
+subspaces for a network, are the subspaces defined by equalities of some cells coordinates, that
+are flow-invariant by all the network systems. The restriction of each network system to each synchrony
+subspace is a system associated with a smaller network, which may be, or not, a feed-forward network.
+The original network is then said to be a lift of the smaller network. We show that a feed-forward lift
+of a feed-forward network is given by the composition of two types of lifts: lifts that create new
+layers and lifts inside a layer. Furthermore, we address the lifting bifurcation problem on feed-forward
+systems. More precisely, the comparison of the possible codimension-one local steady-state bifurcations
+of a feed-forward system and those of the corresponding lifts is considered. We show that for most
+of the feed-forward lifts, the increase of the center subspace is a sufficient condition for the
+existence of additional bifurcating branches of solutions, which are not lifted from the restricted
+system. However, when the bifurcation condition is associated with the internal dynamics and the
+lifts occurs inside an intermediate layer, we prove that the existence of bifurcating branches
+of solutions that are not lifted from the restricted system does depend generically on the particular
+feed-forward system. 

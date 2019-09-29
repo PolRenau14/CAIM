@@ -1,0 +1,17 @@
+In recent years, the synchrosqueezing transform (SST) has gained popularity as a method for the
+analysis of signals that can be broken down into multiple components determined by instantaneous
+amplitudes and phases. One such version of SST, based on the short-time Fourier transform (STFT),
+enables the sharpening of instantaneous frequency (IF) information derived from the STFT, as well
+as the separation of amplitude-phase components corresponding to distinct IF curves. However,
+this SST is limited by the time-frequency resolution of the underlying window function, and may
+not resolve signals exhibiting diverse time-frequency behaviors with sufficient accuracy. In
+this work, we develop a framework for an SST based on a "quilted" short-time Fourier transform (SST-QSTFT),
+which allows adaptation to signal behavior in separate time-frequency regions through the use
+of multiple windows. This motivates us to introduce a discrete reassignment frequency formula
+based on a finite difference of the phase spectrum, ensuring computational accuracy for a wider
+variety of windows. We develop a theoretical framework for the SST-QSTFT in both the continuous
+and the discrete settings, and describe an algorithm for the automatic selection of optimal windows
+depending on the region of interest. Using synthetic data, we demonstrate the superior numerical
+performance of SST-QSTFT relative to other SST methods in a noisy context. Finally, we apply SST-QSTFT
+to audio recordings of animal calls to demonstrate the potential of our method for the analysis of
+real bioacoustic signals. 

@@ -1,0 +1,16 @@
+We investigate the general constraints that differential interferometry (DI) can yield on BLRs
+and discuss the signatures of different BLR parameters, such as black hole mass, BLR size, thickness,
+distribution of clouds, local micro or macroturbulence versus global velocity, rotation versus
+inflow and outflow, and cloud optical thickness, on both DI and reverberation mapping (RM) observables,
+describing a 3D geometrical and kinematic BLR model that can simulate all DI and RM observables.
+Combination of DI and RM not only constrain the BLR geometry and kinematics, but also provide a way
+to use BLRs as standard candles. It appears that DI can constrain the RM projection factor and decrease
+the number of fixed model parameters. We use a SNR analysis of DI, updated and calibrated on our actual
+3C273 data, to evaluate the number of targets accessible to current (AMBER+), upcoming (GRAVITY)
+and possible VLTI instruments, that suggest the full potential of the VLTI exceeds 60 targets with
+known improvements of instruments and fringe trackers. Using a MCMC algorithm on simulated data
+we found that DI under RM constraints yields mass accuracies between 0.06 and 0.13 dex that is better
+than the 0.44 dex in the current mass-luminosity fits. The combination of DI and RM on such a target
+set, that covers a $10^{4}$ to $10^{5}$ luminosity range, should allow a decisive improvement in
+RM mass-luminosity and size-luminosity laws and permit to evaluate a larger unification scheme
+relating the main BLR characteristics to the luminosity of the central source. 

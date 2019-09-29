@@ -1,0 +1,16 @@
+Continuous-time Markov chains are a standard tool in phylogenetic inference. If homogeneity is
+assumed, the chain is formulated by specifying time-independent rates of substitutions between
+states in the chain. In applications, there are usually extra constraints on the rates, depending
+on the situation. If a model is formulated in this way, it is possible to generalise it and allow for
+an inhomogeneous process, with time-dependent rates satisfying the same constraints. It is then
+useful to require that there exists a homogeneous average of this inhomogeneous process within
+the same model. This leads to the definition of "Lie Markov models", which are precisely the class
+of models where such an average exists. These models form Lie algebras and hence concepts from Lie
+group theory are central to their derivation. In this paper, we concentrate on applications to phylogenetics
+and nucleotide evolution, and derive the complete hierarchy of Lie Markov models that respect the
+grouping of nucleotides into purines and pyrimidines -- that is, models with purine/pyrimidine
+symmetry. We also discuss how to handle the subtleties of applying Lie group methods, most naturally
+defined over the complex field, to the stochastic case of a Markov process, where parameter values
+are restricted to be real and positive. In particular, we explore the geometric embedding of the
+cone of stochastic rate matrices within the ambient space of the associated complex Lie algebra.
+The whole list of Lie Markov models with purine/pyrimidine symmetry is available at this http URL

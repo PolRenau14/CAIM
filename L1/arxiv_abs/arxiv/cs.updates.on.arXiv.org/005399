@@ -1,0 +1,17 @@
+We study the problem of finding a minimum weight connected subgraph spanning at least $k$ vertices
+on planar, node-weighted graphs. We give a $(4+\eps)$-approximation algorithm for this problem.
+We achieve this by utilizing the recent LMP primal-dual $3$-approximation for the node-weighted
+prize-collecting Steiner tree problem by Byrka et al (SWAT'16) and adopting an approach by Chudak
+et al. (Math.\ Prog.\ '04) regarding Lagrangian relaxation for the edge-weighted variant. In particular,
+we improve the procedure of picking additional vertices (tree merging procedure) given by Sadeghian
+(2013) by taking a constant number of recursive steps and utilizing the limited guessing procedure
+of Arora and Karakostas (Math.\ Prog.\ '06). More generally, our approach readily gives a $(\nicefrac{4}{3}\cdot
+r+\eps)$-approximation on any graph class where the algorithm of Byrka et al.\ for the prize-collecting
+version gives an $r$-approximation. We argue that this can be interpreted as a generalization of
+an analogous result by K\"onemann et al. (Algorithmica~'11) for partial cover problems. Together
+with a lower bound construction by Mestre (STACS'08) for partial cover this implies that our bound
+is essentially best possible among algorithms that utilize an LMP algorithm for the Lagrangian
+relaxation as a black box. In addition to that, we argue by a more involved lower bound construction
+that even using the LMP algorithm by Byrka et al.\ in a \emph{non-black-box} fashion could not beat
+the factor $\nicefrac{4}{3}\cdot r$ when the tree merging step relies only on the solutions output
+by the LMP algorithm. 

@@ -1,0 +1,16 @@
+Eutectic Sr$_2$RuO$_4$-Ru samples with $\mu$m-sized Ru-metal inclusions support inhomogeneous
+superconductivity above the bulk transition of Sr$_2$RuO$_4$ in the so-called 3-Kelvin phase.
+In Pb/Ru/Sr$_2$RuO$_4$ Josephson junctions as realized by Maeno et al., a Pb film is indirectly
+coupled to the superconductor Sr$_2$RuO$_4$ mediated by the proximity-induced superconducting
+Ru-inclusions, yielding an extended Josephson contact through the interface between Ru and Sr$_2$RuO$_4$.
+Motivated by this experimental setup, we formulate a sine-Gordon model for the Josephson phase
+of the interface, assuming a simple cylindrical shape for the Ru-inclusion hosting the proximity-induced
+$s$-wave superconducting phase. Considering the Sr$_2$RuO$_4$ as a chiral $p$-wave superconductor,
+we discuss two types of Josephson junctions, a frustrated one due to the nature of the order parameter
+in Sr$_2$RuO$_4$, and an unfrustrated one for the topologically trivial 3-Kelvin phase. While
+the latter situation displays standard junction behavior, the former yields an unusual limiting
+mechanism for the critical current, based on a pinning-depinning transition of a spontaneously
+induced magnetic flux driven by an externally applied current. We analyze different coupling limits
+and show that different critical currents can arise for the two topologies. This concept fits well
+to recent experimental data obtained for the above setup showing an anomalous temperature dependence
+of the critical current at the transition temperature $T_c $ of bulk Sr$_2$RuO$_4$. 

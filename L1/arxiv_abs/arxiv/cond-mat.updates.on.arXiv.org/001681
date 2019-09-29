@@ -1,0 +1,17 @@
+Structural correlations have a significant effect on light propagation in disordered media. We
+numerically investigate the role of short-range order in light absorption in thin films with disordered
+nanoholes. Two types of disordered distributions, including stealthy hyperuniform (SHU) and
+hard disk (HD) patterns with different degrees of short-range order, are studied. We find that Bragg
+scattering induced by short-range order results in the appearance of a gradually sharper absorption
+peak with the increasing of degrees of short-range order ($\chi$, $\phi$). A physical model is proposed
+to calculate the in-plane angularly differential scattering cross section $d \sigma^*/d \theta$
+of thin-film nanostructures with consideration of {the} structure factor $S(q)$. Results reveal
+that higher level of short-range order can enhance in-plane Bragg scattering in certain wavelengths
+and directions corresponding to rich and sharp peaks in {the} structure factor $S(q)$, which can
+further modify morphology-dependent-like resonances of an individual scatterer {and leads }
+to {large} improvement of absorptivity in thin films. Besides, the comparison results show that
+SHU structures exhibit better integrated absorption ($IA$) enhancement than both HD and periodic
+structures. And there is a transition of local-order phase between hexagonal lattice{s} and square
+lattice{s for SHU structures}, leading to an optimal absorption performance when $\chi$ is around
+0.5 of interest. The present study paves a way in controlling light absorption and scattering using
+novel disordered nanostructures. 

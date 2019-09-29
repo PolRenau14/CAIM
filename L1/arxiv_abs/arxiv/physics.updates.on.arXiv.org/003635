@@ -1,0 +1,16 @@
+Reservoir models are numerical representations of the subsurface petrophysical properties such
+as porosity, volume of minerals and fluid saturations. These are often derived from elastic models
+inferred from seismic inversion in a two-step approach: first, seismic reflection data are inverted
+for the elastic properties of interest (such as density, P-wave and S-wave velocities); these are
+then used as constraining properties to model the subsurface petrophysical variables. The sequential
+approach does not ensure a proper propagation of uncertainty throughout the entire geo-modelling
+workflow as it does not describe a direct link between the observed seismic data and the resulting
+petrophysical models. Rock physics models link the two domains. We propose to integrate seismic
+and rock physics modelling into an iterative geostatistical seismic inversion methodology. The
+proposed method allows the direct inference of the porosity, volume of shale and fluid saturations
+by simultaneously integrating well-logs, seismic reflection data and rock physics model predictions.
+Stochastic sequential simulation is used as the perturbation technique of the model parameter
+space, a calibrated facies-dependent rock physics model links the elastic and the petrophysical
+domains and a global optimizer based on cross-over genetic algorithms ensures the convergence
+of the methodology from iteration to iteration. The method is applied to a 3D volume extracted from
+a real reservoir dataset of a North Sea reservoir and compared to a geostatistical seismic AVA. 

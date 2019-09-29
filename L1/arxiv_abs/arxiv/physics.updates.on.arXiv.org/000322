@@ -1,0 +1,16 @@
+In planning for the Phase II upgrades of CMS and ATLAS major considerations are: 1)being able to deal
+with degradation of tracking and calorimetry up to the radiation doses to be expected with an integrated
+luminosity of 3000 $fb^{-1}$ and 2)maintaining physics performance at a pileup level of ~140. Here
+I report on work started within the context of the CMS Forward Calorimetry Task Force and continuing
+in an expanded CERN RD52 R$\&$D program integrating timing (i.e. measuring the time-of-arrival
+of physics objects) as a potential tool for pileup mitigation and ideas for Forward Calorimetry.
+For the past 4 years our group has focused on precision timing at the level of 10-20 picoseconds in
+an environment with rates of $~10^6-10^7$ Hz/$cm^2 $ as is appropriate for the future running of
+the LHC (HL-LHC era). A time resolution of 10-20 picoseconds is one of the few clear criteria for pileup
+mitigation at the LHC, since the interaction time of a bunch crossing has an rms of 170 picosec. While
+work on charged particle timing in other contexts (i.e. ALICE R$\&$D) is starting to approach
+this precision, there have been essentially no technologies that can sustain performance at these
+rates. I will present results on a tracker we developed within the DOE Advanced Detector R$\&$D
+program which is now meeting these requirements. I will also review some results from Calorimeter
+Projects developed within our group (PHENIX EMCAL and ATLAS ZDC) which achieved calorimeter timing
+precision< 100 picoseconds. 

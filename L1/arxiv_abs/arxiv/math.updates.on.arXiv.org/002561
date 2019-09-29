@@ -1,0 +1,17 @@
+In this work we consider (hierarchical, Lagrange) reduced basis approximation and a posteriori
+error estimation for elasticity problems in affinley parametrized geometries. The essential
+ingredients of the methodology are: a Galerkin projection onto a low-dimensional space associated
+with a smooth "parametric manifold" - dimension reduction, an efficient and effective greedy sampling
+methods for identification of optimal and numerically stable approximations - rapid convergence,
+an a posteriori error estimation procedures - rigorous and sharp bounds for the functional outputs
+related with the underlying solution or related quantities of interest, like stress intensity
+factor, and Offline-Online computational decomposition strategies - minimum marginal cost for
+high performance in the real-time and many-query (e.g., design and optimization) contexts. We
+present several illustrative results for linear elasticity problem in parametrized geometries
+representing 2D Cartesian or 3D axisymmetric configurations like an arc-cantilever beam, a center
+crack problem, a composite unit cell or a woven composite beam, a multi-material plate, and a closed
+vessel. We consider different parametrization for the systems: either physical quantities - to
+model the materials and loads - and geometrical parameters - to model different geometrical configurations
+- with isotropic and orthotropic materials working in plane stress and plane strain approximation.
+We would like to underline the versatility of the methodology in very different problems. As last
+example we provide a nonlinear setting with increased complexity. 

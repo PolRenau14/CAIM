@@ -1,0 +1,17 @@
+Motivated by the recently reported evidence of an association between a high-energy neutrino and
+a gamma-ray flare from the blazar TXS 0506+056, we calculate the expected high-energy neutrino
+signal from past, individual flares, from twelve blazars, selected in declinations favourable
+for detection with IceCube. To keep the number of free parameters to a minimum, we mainly focus on
+BL Lac objects and assume the synchrotron self-Compton mechanism produces the bulk of the high-energy
+emission. We consider a broad range of the allowed parameter space for the efficiency of proton acceleration,
+the proton content of BL Lac jets, and the presence of external photon fields. To model the expected
+neutrino fluence we use simultaneous multi-wavelength observations. We find that in the absence
+of external photon fields and with jet proton luminosity normalised to match the observed production
+rate of ultra-high-energy cosmic rays, individual flaring sources produce a modest neutrino flux
+in IceCube, $\lesssim10^{-3}$ muon neutrinos with energy exceeding 100 TeV, stacking ten years
+of flare periods selected in the >800 MeV Fermi energy range from each source. Under optimistic assumptions
+about the jet proton luminosity and in the presence of external photon fields, we find that the two
+most powerful sources in our sample, AO 0235+164, and OJ 287, would produce, in total, $\approx 3$
+muon neutrinos during ten years of Fermi flaring periods, in future neutrino detectors with total
+instrumented volume $\sim$ten times larger than IceCube,or otherwise, constrain the proton luminosity
+of blazar jets. 

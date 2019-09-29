@@ -1,0 +1,17 @@
+The synchronization of human networks is essential for our civilization, and understanding the
+motivations, behavior, and basic parameters that govern the dynamics of human networks is important
+in many aspects of our lives. Human ensembles have been investigated in recent years, but with very
+limited control over the network parameters and in noisy environments. In particular, research
+has focused predominantly on all-to-all coupling, whereas current social networks and human interactions
+are often based on complex coupling configurations, such as nearest-neighbor coupling and small-world
+networks. Because the synchronization of any ensemble is governed by its network parameters, studying
+different types of human networks while controlling the coupling and the delay is essential for
+understanding the dynamics of different types of human networks. We studied the synchronization
+between professional violin players in complex networks with full control over the network connectivity,
+coupling strength of each connection, and delay. We found that the usual models for coupled networks,
+such as the Kuramoto model, cannot be applied to human networks. We found that the players can change
+their periodicity by a factor of three to find a stable solution to the coupled network, or they can
+delete connections by ignoring frustrating signals. These additional degrees of freedom enable
+new strategies and yield better solutions than are possible within current models. Our results
+may influence numerous fields, including traffic management, epidemic control, and stock market
+dynamics. 

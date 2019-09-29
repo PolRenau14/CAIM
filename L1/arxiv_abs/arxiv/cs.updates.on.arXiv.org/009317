@@ -1,0 +1,16 @@
+We consider the economic dispatch (ED) for an Energy Internet composed of energy routers (ERs),
+interconnected microgrids and main grid. The microgrid consists of several bus nodes associated
+with distributed generators (DGs) and intelligent control units (ICUs). We propose a distributed
+ED algorithm for the grid-connected microgrid, where each ICU iterates the incremental cost of
+each DG and the estimation for the average power mismatch of the whole microgrid by leader-following
+and average consensus algorithms, respectively. The energy router iterates the incremental power
+exchanged with the distribution system. By constructing an auxiliary consensus system, we prove
+that if the network topology of the Energy Internet contains a spanning tree with the energy router
+as the root and there is a path from each bus node to the energy router, then the incremental costs of
+all DGs converge to the electricity price of the distribution system, the power supply and demand
+achieves balance and the ED achieves optimal asymptotically. Furthermore, we propose an autonomous
+distributed ED algorithm covering both grid-connected and isolated modes of the microgrid by feeding
+back the estimated average power mismatch for updating the incremental costs. It is proved that
+if the network topology of the microgrid is connected and there exists a bus node bi-directionally
+neighboring the energy router, then the microgrid can switches between the two modes reliably.
+The simulation results demonstrate the effectiveness of the proposed algorithms. 

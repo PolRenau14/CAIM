@@ -1,0 +1,16 @@
+We analyze the microscopic model of quantum Brownian motion, describing a Brownian particle interacting
+with a bosonic bath through a coupling which is linear in the creation and annihilation operators
+of the bath, but may be a nonlinear function of the position of the particle. Physically, this corresponds
+to a configuration in which damping and diffusion are spatially inhomogeneous. We derive systematically
+the quantum master equation for the Brownian particle in the Born-Markov approximation and we discuss
+the appearance of novel terms, for various polynomials forms of the coupling. We discuss the cases
+of linear and quadratic coupling in great detail and we derive, using Wigner function techniques,
+the stationary solutions of the master equation for a Brownian particle in a harmonic trapping potential.
+We predict quite generally Gaussian stationary states, and we compute the aspect ratio and the spread
+of the distributions. In particular, we find that these solutions may be squeezed (super-localized)
+with respect to the position of the Brownian particle. We analyze various restrictions to the validity
+of our theory posed by non-Markovian effects and by the Heisenberg principle. We further study the
+dynamical stability of the system, by applying a Gaussian approximation to the time dependent Wigner
+function, and we compute the decoherence rates of coherent quantum superpositions in position
+space. Finally, we propose a possible experimental realization of the physics discussed here,
+by considering an impurity particle embedded in a degenerate quantum gas. 

@@ -1,0 +1,16 @@
+Gaia's exceptional resolution (FWHM $\sim$ 0.1$^{\prime\prime}$) allows identification and
+cataloguing of the multiple images of gravitationally lensed quasars. We investigate a sample
+of 49 known lensed quasars in the SDSS footprint, with image separations less than 2$^{\prime\prime}$,
+and find that 8 are detected with multiple components in the first Gaia data release. In the case of
+the 41 single Gaia detections, we generally are able to distinguish these lensed quasars from single
+quasars when comparing Gaia flux and position measurements to those of Pan-STARRS and SDSS. This
+is because the multiple images of these lensed quasars are typically blended in ground-based imaging
+and therefore the total flux and a flux-weighted centroid are measured, which can differ significantly
+from the fluxes and centroids of the individual components detected by Gaia. We compare the fluxes
+through an empirical fit of Pan-STARRS griz photometry to the wide optical Gaia bandpass values
+using a sample of isolated quasars. The positional offsets are calculated from a recalibrated astrometric
+SDSS catalogue. Applying flux and centroid difference criteria to spectroscopically confirmed
+quasars, we discover 4 new sub-arcsecond-separation lensed quasar candidates which have two distinct
+components of similar colour in archival CFHT or HSC data. Our method based on single Gaia detections
+can be used to identify the $\sim$ 1400 lensed quasars with image separation above 0.5$^{\prime\prime}$,
+expected to have only one image bright enough to be detected by Gaia. 

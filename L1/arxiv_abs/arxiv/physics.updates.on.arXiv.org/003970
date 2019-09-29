@@ -1,0 +1,17 @@
+Slender body theory facilitates computational simulations of thin fibers immersed in a viscous
+fluid by approximating each fiber using only the geometry of the fiber centerline curve and the line
+force density along it. However, it has been unclear how well slender body theory actually approximates
+Stokes flow about a thin but truly three-dimensional fiber, in part due to the fact that simply prescribing
+data along a one-dimensional curve does not result in a well-posed boundary value problem for the
+Stokes equations in $\mathbb{R}^3$. Here, we introduce a PDE problem to which slender body theory
+(SBT) provides an approximation, thereby placing SBT on firm theoretical footing. The slender
+body PDE is a new type of boundary value problem for Stokes flow where partial Dirichlet and partial
+Neumann conditions are specified everywhere along the fiber surface. Given only a 1D force density
+along a closed fiber, we show that the flow field exterior to the thin fiber is uniquely determined
+by imposing a fiber integrity condition: the surface velocity field on the fiber must be constant
+along cross sections orthogonal to the fiber centerline. Furthermore, a careful estimation of
+the residual, together with stability estimates provided by the PDE well-posedness framework,
+allow us to establish error estimates between the slender body approximation and the exact solution
+to the above problem. The error is bounded by an expression proportional to the fiber radius (up to
+logarithmic corrections) under mild regularity assumptions on the 1D force density and fiber centerline
+geometry. 

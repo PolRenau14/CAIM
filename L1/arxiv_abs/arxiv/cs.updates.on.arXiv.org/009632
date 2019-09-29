@@ -1,0 +1,17 @@
+Proof-of-Stake systems randomly choose, on each round, one of the participants as a consensus leader
+that extends the chain with the next block such that the selection probability is proportional to
+the owned stake. However, distributed random number generation is notoriously difficult. Systems
+that derive randomness from the previous blocks are completely insecure; solutions that provide
+secure random selection are inefficient due to their high communication complexity; and approaches
+that balance security and performance exhibit selection bias. When block creation is rewarded
+with new stake, even a minor bias can have a severe cumulative effect. In this paper, we propose Robust
+Round Robin, a new consensus scheme that addresses this selection problem. We create reliable long-term
+identities by bootstrapping from an existing infrastructure, such as Intel's SGX processors,
+or by mining them starting from an initial fair distribution. For leader selection we use a deterministic
+approach. On each round, we select a set of the previously created identities as consensus leader
+candidates in round robin manner. Because simple round-robin alone is vulnerable to attacks and
+offers poor liveness, we complement such deterministic selection policy with a lightweight endorsement
+mechanism that is an interactive protocol between the leader candidates and a small subset of other
+system participants. Our solution has low good efficiency as it requires no expensive distributed
+randomness generation and it provides block creation fairness which is crucial in deployments
+that reward it with new stake. 

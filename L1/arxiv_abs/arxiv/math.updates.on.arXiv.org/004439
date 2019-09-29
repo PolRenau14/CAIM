@@ -1,0 +1,16 @@
+The concept of a large intelligent surface (LIS) has recently emerged as a promising wireless communication
+paradigm that can exploit the entire surface of man-made structures for transmitting and receiving
+information. An LIS is expected to go beyond massive multiple-input multiple-output (MIMO) system,
+insofar as the desired channel can be modeled as a perfect line-of-sight. To understand the fundamental
+performance benefits, it is imperative to analyze its achievable data rate, under practical LIS
+environments and limitations. In this paper, an asymptotic analysis of the uplink data rate in an
+LIS-based large antenna-array system is presented. In particular, the asymptotic LIS rate is derived
+in a practical wireless environment where the estimated channel on LIS is subject to estimation
+errors and interference channels are spatially correlated Rician fading channels. Moreover,
+the occurrence of the channel hardening effect is analyzed and the performance bound is asymptotically
+derived for the considered LIS system. The analytical asymptotic results are then shown to be in
+close agreement with the exact mutual information as the numbers of antennas and devices increases
+without bounds. Moreover, the derived ergodic rates show that noise and interference from estimation
+errors and the non-line-of-sight path become negligible as the number of antennas increases. Simulation
+results show that an LIS can achieve a performance that is comparable to conventional massive MIMO
+with improved reliability and a significantly reduced area for antenna deployment. 

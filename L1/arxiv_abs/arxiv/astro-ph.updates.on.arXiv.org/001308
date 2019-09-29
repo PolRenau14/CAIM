@@ -1,0 +1,16 @@
+We develop a method for membership assignment in stellar clusters using only photometry and positions.
+The method, UPMASK, is aimed to be unsupervised, data driven, model free, and to rely on as few assumptions
+as possible. It is based on an iterative process, principal component analysis, clustering algorithm,
+and kernel density estimations. Moreover, it is able to take into account arbitrary error models.
+An implementation in R was tested on simulated clusters that covered a broad range of ages, masses,
+distances, reddenings, and also on real data of cluster fields. Running UPMASK on simulations showed
+that it effectively separates cluster and field populations. The overall spatial structure and
+distribution of cluster member stars in the colour-magnitude diagram were recovered under a broad
+variety of conditions. For a set of 360 simulations, the resulting true positive rates (a measurement
+of purity) and member recovery rates (a measurement of completeness) at the 90% membership probability
+level reached high values for a range of open cluster ages ($10^{7.1}-10^{9.5}$ yr), initial masses
+($0.5-10\times10^3$M$_{\sun}$) and heliocentric distances ($0.5-4.0$ kpc). UPMASK was also
+tested on real data from the fields of the open cluster Haffner~16 and of the closely projected clusters
+Haffner~10 and Czernik~29. These tests showed that even for moderate variable extinction and cluster
+superposition, the method yielded useful cluster membership probabilities and provided some
+insight into their stellar contents. The UPMASK implementation will be available at the CRAN archive.

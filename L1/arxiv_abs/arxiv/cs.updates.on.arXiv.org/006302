@@ -1,0 +1,17 @@
+Multi-sample objectives improve over single-sample estimates by giving tighter variational
+bounds and more accurate estimates of posterior uncertainty. However, these multi-sample techniques
+scale poorly, in the sense that the number of samples required to maintain the same quality of posterior
+approximation scales exponentially in the number of latent dimensions. One approach to addressing
+these issues is sequential Monte Carlo (SMC). However for many problems SMC is prohibitively slow
+because the resampling steps imposes an inherently sequential structure on the computation, which
+is difficult to effectively parallelise on GPU hardware. We developed tensor Monte-Carlo to address
+these issues. In particular, whereas the usual multi-sample objective draws $K$ samples from a
+joint distribution over all latent variables, we draw $K$ samples for each of the $n$ individual
+latent variables, and form our bound by averaging over all $K^n$ combinations of samples from each
+individual latent. While this sum over exponentially many terms might seem to be intractable, in
+many cases it can be efficiently computed by exploiting conditional independence structure. In
+particular, we generalise and simplify classical algorithms such as message passing by noting
+that these sums can be computed can be written in an extremely simple, general form: a series of tensor
+inner-products which can be depicted graphically as reductions of a factor graph. As such, we can
+straightforwardly combine summation over discrete variables with importance sampling over importance
+sampling over continuous variables. 

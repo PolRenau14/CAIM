@@ -1,0 +1,17 @@
+In this paper a multi-objective mathematical model has been used to optimize grinding parameters
+include workpiece speed, depth of cut and wheel speed which highly affect the final surface quality.
+The mathematical model of the optimization problem consists of three conflict objective functions
+subject to wheel wear and production rate constraints. Exact methods can solve the NLP model in few
+seconds, therefore using Meta-heuristic algorithms which provide near optimal solutions in not
+suitable. Considering this, five Multi-Objective Decision Making methods have been used to solve
+the multi-objective mathematical model using GAMS software to achieve the optimal parameters
+of the grinding process. The Multi-Objective Decision Making methods provide different effective
+solutions where the decision maker can choose each solution in different situations. Different
+criteria have been considered to evaluate the performance of the five Multi-Objective Decision
+Making methods. Also, Technique for Order of Preference by Similarity to Ideal Solution method
+has been used to obtain the priority of each method and determine which Multi-Objective Decision
+Making method performs better considering all criteria simultaneously. The results indicated
+that Weighted Sum Method and Goal programming method are the best Multi-Objective Decision Making
+methods. The Weighted Sum Method and Goal programming provided solutions which are competitive
+to each other. In addition, these methods obtained solutions which have minimum grinding time,
+cost and surface roughness among other Multi-Objective Decision Making methods. 

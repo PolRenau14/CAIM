@@ -1,0 +1,16 @@
+In 2002, the UCR time series classification archive was first released with sixteen datasets. It
+gradually expanded, until 2015 when it increased in size from 45 datasets to 85 datasets. In October
+2018 more datasets were added, bringing the total to 128. The new archive contains a wide range of
+problems, including variable length series, but it still only contains univariate time series
+classification problems. One of the motivations for introducing the archive was to encourage researchers
+to perform a more rigorous evaluation of newly proposed time series classification (TSC) algorithms.
+It has worked: most recent research into TSC uses all 85 datasets to evaluate algorithmic advances.
+Research into multivariate time series classification, where more than one series are associated
+with each class label, is in a position where univariate TSC research was a decade ago. Algorithms
+are evaluated using very few datasets and claims of improvement are not based on statistical comparisons.
+We aim to address this problem by forming the first iteration of the MTSC archive, to be hosted at the
+website www.timeseriesclassification.com. Like the univariate archive, this formulation was
+a collaborative effort between researchers at the University of East Anglia (UEA) and the University
+of California, Riverside (UCR). The 2018 vintage consists of 30 datasets with a wide range of cases,
+dimensions and series lengths. For this first iteration of the archive we format all data to be of
+equal length, include no series with missing data and provide train/test splits. 

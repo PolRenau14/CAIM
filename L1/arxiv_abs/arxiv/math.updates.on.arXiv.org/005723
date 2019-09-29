@@ -1,0 +1,17 @@
+Predicting extreme events is important in many applications in risk analysis. The extreme-value
+theory suggests modelling extremes by max-stable distributions. The Bayesian approach provides
+a natural framework for statistical prediction. Marcon, Padoan and Antoniano [\textit{Electron.
+J. Stat.} \textbf{10} (2016) 3310--3337] proposed a nonparametric Bayesian estimation method
+for bivariate max-stable distributions, representing the main (infinite dimensional) parametrizations
+of the dependence structure with polynomials in Bernstein form. In this article, we describe a similar
+inferential method, but which alternatively models the dependence structure by splines. Then,
+for both approaches we establish the strong consistency of the posterior distributions, under
+the main parametrizations of the dependence structure. Next, we describe an inferential framework
+that extends the Bernstein polynomials based approach to max-stable distributions in arbitrary
+dimensions (greater than two) and we derive the posterior consistency results also in this case.
+Initially, the consistency results are obtained assuming that the data follow a max-stable distribution
+with known margins. However, the latter only provides an asymptotic model for sufficiently large
+sample sizes and its margins are known, potentially, apart from some unknown parameters. Then,
+we extend the consistency results to the case where the data come from a distribution that is in a neighbourhood
+of a max-stable distribution and to the case where the margins of the max-stable distribution are
+heavy-tailed with unknown tail indices. 

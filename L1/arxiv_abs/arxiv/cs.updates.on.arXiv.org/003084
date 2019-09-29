@@ -1,0 +1,16 @@
+This paper proposes a principled information theoretic analysis of classification for deep neural
+network structures, e.g. convolutional neural networks (CNN). The output of convolutional filters
+is modeled as a random variable Y conditioned on the object class C and network filter bank F. The conditional
+entropy (CENT) H(Y |C,F) is shown in theory and experiments to be a highly compact and class-informative
+code, that can be computed from the filter outputs throughout an existing CNN and used to obtain higher
+classification results than the original CNN itself. Experiments demonstrate the effectiveness
+of CENT feature analysis in two separate CNN classification contexts. 1) In the classification
+of neurodegeneration due to Alzheimer's disease (AD) and natural aging from 3D magnetic resonance
+image (MRI) volumes, 3 CENT features result in an AUC=94.6% for whole-brain AD classification,
+the highest reported accuracy on the public OASIS dataset used and 12% higher than the softmax output
+of the original CNN trained for the task. 2) In the context of visual object classification from 2D
+photographs, transfer learning based on a small set of CENT features identified throughout an existing
+CNN leads to AUC values comparable to the 1000-feature softmax output of the original network when
+classifying previously unseen object categories. The general information theoretical analysis
+explains various recent CNN design successes, e.g. densely connected CNN architectures, and provides
+insights for future research directions in deep learning. 

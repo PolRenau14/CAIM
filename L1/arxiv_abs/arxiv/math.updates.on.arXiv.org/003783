@@ -1,0 +1,16 @@
+The polynomial chaos (PC) expansion has been widely used as a surrogate model in the Bayesian inference
+to speed up the Markov chain Monte Carlo (MCMC) calculations. However, the use of a PC surrogate introduces
+the modeling error, that may severely distort the estimate of the posterior distribution. This
+error can be corrected by increasing the order of the PC expansion, but the cost for building the surrogate
+may increase dramatically. In this work, we seek to address this challenge by proposing an adaptive
+procedure to construct a multi-fidelity PC surrogate. This new strategy combines (a large number
+of) low-fidelity surrogate model evaluations and (a small number of) high-fidelity model evaluations,
+yielding an adaptive multi-fidelity approach. Here the low-fidelity surrogate is chosen as the
+prior-based PC surrogate, while the high-fidelity model refers to the true forward model. The key
+idea is to construct and refine the multi-fidelity approach over a sequence of samples adaptively
+determined form data, so that the approximation can eventually concentrate to the posterior distribution.
+We illustrate the performance of the proposed strategy through two nonlinear inverse problems.
+It is shown that the proposed adaptive multi-fidelity approach can improve significantly the accuracy,
+yet without a dramatic increase in the computational complexity. The numerical results also indicate
+that our new algorithm can enhance the efficiency by several orders of magnitude compared to a standard
+MCMC approach using only the true forward model. 

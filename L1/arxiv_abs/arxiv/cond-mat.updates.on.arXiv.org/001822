@@ -1,0 +1,17 @@
+Significant scientific and technological progress in the field of spintronics is based on trilayer
+magnetic tunnel junction devices which principally rely on the physics of single barrier tunneling.
+While technologically relevant devices have been prototyped, the physics of single barrier tunneling
+poses ultimate limitations on the performance of magnetic tunnel junction devices. Here, we propose
+a fresh route toward high performance magnetic tunnel junctions by making electronic analogs of
+optical phenomena such as anti-reflections and Fabry-P\`erot resonances. The devices we propose
+feature anti-reflection enabled superlattice heterostructures sandwiched between the fixed
+and the free ferromagnets of the magnetic tunnel junction structure. Our predictions are based
+on the non-equilibrium Green's function spin transport formalism coupled self-consistently
+with the Landau-Lifshitz-Gilbert-Slonczewski equation. Owing to the physics of bandpass spin
+filtering in the bandpass Fabry-P\`erot magnetic tunnel junction device, we demonstrate an ultra-high
+boost in the tunnel magneto-resistance (TMR$\approx5\times10^4\%$) and nearly 1200% suppression
+of spin transfer torque switching bias in comparison to a traditional trilayer magnetic tunnel
+junction device. We rationalize improvised spin transfer torque switching via analysis of the
+Slonczewski spin current transmission spectra. The proof of concepts presented here can lead to
+next-generation spintronics device design harvesting the rich physics of superlattice heterostructures
+and exploiting spintronic analogs of optical phenomena. 

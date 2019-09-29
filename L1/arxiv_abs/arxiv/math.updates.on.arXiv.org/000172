@@ -1,0 +1,16 @@
+We present a rigorous and functorial quantization scheme for linear fermionic and bosonic field
+theory targeting the topological quantum field theory (TQFT) that is part of the general boundary
+formulation (GBF). Motivated by geometric quantization, we generalize a previous axiomatic characterization
+of classical linear bosonic field theory to include the fermionic case. We proceed to describe the
+quantization scheme, combining a Fock space quantization for state spaces with the Feynman path
+integral for amplitudes. We show rigorously that the resulting quantum theory satisfies the axioms
+of the TQFT, in a version generalized to include fermionic theories. In the bosonic case we show the
+equivalence to a previously developed holomorphic quantization scheme. Remarkably, it turns
+out that consistency in the fermionic case requires state spaces to be Krein spaces rather than Hilbert
+spaces. This is also supported by arguments from geometric quantization and by the explicit example
+of the Dirac field theory. Contrary to intuition from the standard formulation of quantum theory,
+we show that this is compatible with a consistent probability interpretation in the GBF. Another
+surprise in the fermionic case is the emergence of an algebraic notion of time, already in the classical
+theory, but inherited by the quantum theory. As in earlier work we need to impose an integrability
+condition in the bosonic case for all TQFT axioms to hold, due to the gluing anomaly. In contrast,
+we are able to renormalize this gluing anomaly in the fermionic case. 

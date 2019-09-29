@@ -1,0 +1,16 @@
+We propose a model of full propositional linear logic based on topological vector spaces. The essential
+feature is that we consider partially ordered vector spaces, or, rather, positive cones in such
+spaces. Thus we introduce a category whose objects are dual pairs of normed cones satisfying certain
+specific completeness properties, such as existence of norm-bounded monotone suprema, and whose
+morphisms are bounded (adjointable) positive maps. Norms allow us distinct interpretation of
+dual additive connectives as product and coproduct; in this sense the model is nondegenerate. Also,
+unlike the familiar case of probabilistic coherence spaces, there is no reference or need for preferred
+basis; in this sense the model is invariant. Probabilistic coherence spaces form a full subcategory.
+whose objects, seen as posets, are lattices. Thus we get a model fitting in the tradition of interpreting
+linear logic in linear algebraic setting, which arguably is free from the drawbacks of its predecessors.
+We choose the somewhat show-offy title "noncommutative coherence spaces", hinting of noncommutative
+geometry, because the passage from probabilistic coherence spaces with their preferred bases
+to general partially ordered cones seems analogous to the passage from commutative algebras of
+functions on topological spaces to general, not necessarily commutative algebras. Also, natural
+non-lattice examples of our spaces come from self-adjoint parts of noncommutative operator algebras.
+Probabilistic coherence spaces then appear as a "commutative" subcategory. 

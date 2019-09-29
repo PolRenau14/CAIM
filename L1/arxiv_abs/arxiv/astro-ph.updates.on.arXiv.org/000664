@@ -1,0 +1,16 @@
+The solar cycle and its associated magnetic activity are the main drivers behind changes in the interplanetary
+environment and the Earth's upper atmosphere (commonly referred to as space weather). These changes
+have a direct impact on the lifetime of space-based assets and can create hazards to astronauts in
+space. In recent years there has been an effort to develop accurate solar cycle predictions (with
+aims at predicting the long-term evolution of space weather), leading to nearly a hundred widely
+spread predictions for the amplitude of solar cycle 24. A major contributor to the disagreement
+is the lack of direct long-term databases covering different components of the solar magnetic field
+(toroidal vs.\ poloidal). Here we use sunspot area and polar faculae measurements spanning a full
+century (as our toroidal and poloidal field proxies), to study solar cycle propagation, memory,
+and prediction. Our results substantiate predictions based on the polar magnetic fields, whereas
+we find sunspot area to be uncorrelated to cycle amplitude unless multiplied by area-weighted average
+tilt. This suggests that the joint assimilation of tilt and sunspot area is a better choice (with
+aims to cycle prediction) than sunspot area alone, and adds to the evidence in favor of active region
+emergence and decay as the main mechanism of poloidal field generation (i.e. the Babcock-Leighton
+mechanism). Finally, by looking at the correlation between our poloidal and toroidal proxies across
+multiple cycles, we find solar cycle memory to be limited to only one cycle. 

@@ -1,0 +1,16 @@
+Context. The analysis of stellar oscillations is one of the most reliable ways to probe stellar interiors.
+Recent space missions such as Kepler have provided us with an opportunity to study these oscillations
+with unprecedented detail. For many multi-periodic pulsators such as {\gamma} Doradus stars,
+this led to the detection of dozens to hundreds of oscillation frequencies that could not be found
+from ground-based observations. Aims. We aim to detect non-uniform period spacings in the Fourier
+spectra of a sample of {\gamma} Doradus stars observed by Kepler. Such detection is complicated
+by both the large number of significant frequencies in the space photometry and by overlapping non-equidistant
+rotationally split multiplets. Methods. Guided by theoretical properties of gravity-mode oscillation
+of {\gamma} Doradus stars, we developed a period-spacing detection method and applied it to Kepler
+observations of a few stars, after having tested the performance from simulations. Results. The
+application of the technique resulted in the clear detection of non-uniform period spacing series
+for three out of the five treated Kepler targets. Disadvantages of the technique are also discussed,
+and include the disability to distinguish between different values of the spherical degree and
+azimuthal order of the oscillation modes without additional theoretical modelling. Conclusions.
+Despite the shortcomings, the method is shown to allow solid detections of period spacings for {\gamma}
+Doradus stars, which will allow future asteroseismic analyses of these stars. 

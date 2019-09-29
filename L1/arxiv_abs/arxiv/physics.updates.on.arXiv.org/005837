@@ -1,0 +1,17 @@
+Grate and co-workers at Pacific Northwest National Laboratory recently developed high information
+content triazine-based sequence-defined polymers that are robust by not having hydrolyzable
+bonds and can encode structure and functionality by having various side chains. Through molecular
+dynamics (MD) simulations, the triazine polymers have been shown to form particular sequential
+stacks, have stable backbone-backbone interactions through hydrogen bonding and $\pi$-$\pi$
+interactions, and conserve their \emph{cis/trans} conformations throughout the simulation.
+However, we do not know the effects of having different side chains and backbone structures on the
+entire conformation and whether the \emph{cis} or \emph{trans} conformation is more stable for
+the triazine polymers. For this reason, we investigate the role of non-covalent interactions for
+different side chains and backbone structures on the conformation and assembly of triazine polymers
+in MD simulations. Since there is a high energy barrier associated to the \emph{cis}-\emph{trans}
+isomerization, we use replica exchange molecular dynamics (REMD) to sample various conformations
+of triazine hexamers. To obtain rates and intermediate conformations, we use the recently developed
+concurrent adaptive sampling (CAS) algorithm for dimer of triazine trimers. We found that the hydrogen
+bonding ability of the backbone structure is critical for the triazine polymers to self-assemble
+into nanorod-like structures, rather than that of the side chains, which can help researchers design
+more robust materials. 

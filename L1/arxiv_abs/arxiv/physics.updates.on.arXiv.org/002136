@@ -1,0 +1,17 @@
+SABRE (Signal Amplification By Reversible Exchange) is a technique for enhancement of NMR (Nuclear
+Magnetic Resonance) signals, which utilizes parahydrogen (pH2, the H2 molecule in its nuclear
+spin state) as a source of non-thermal spin order. In SABRE experiments, pH2 binds to an organometallic
+complex with a to-be-polarized substrate; subsequently, spin order transfer takes place and the
+substrate acquires non-thermal spin polarization resulting in strong NMR signal enhancement.
+In this work we argue that the spin order of H2 in SABRE experiments performed at high magnetic fields
+is not necessarily the singlet order but rather anti-phase polarization, $S_{1z}S_{2z}$. Although
+SABRE exploits pH2, i.e., the starting spin order of H2 is supposed to be the singlet order, in solution
+S-T0 conversion becomes efficient once pH2 binds to a complex. Such a variation of the spin order,
+which becomes $S_{1z}S_{2z}$, has an important consequence: NMR methods used for transferring
+SABRE polarization need to be modified. Here we demonstrate that methods proposed for the initial
+singlet order may not work for the S_1z S_2z order; however, a simple modification makes them efficient
+again. A theoretical treatment of the problem under consideration is proposed; these considerations
+are supported by high-field SABRE experiments. Hence, for efficient use of SABRE one should note
+that polarization formation is a complex multi-stage process: careful optimization of this process
+may not only deal with chemical aspects but also with the spin dynamics, including the spin dynamics
+of H2. 

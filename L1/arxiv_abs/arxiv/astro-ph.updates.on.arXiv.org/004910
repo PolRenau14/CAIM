@@ -1,0 +1,16 @@
+Polarized Galactic foregrounds are one of the primary sources of systematic error in measurements
+of the B-mode polarization of the Cosmic Microwave Background (CMB). Experiments are becoming
+increasingly sensitive to complexities in the foreground frequency spectra that are not captured
+by standard parametric models, potentially affecting our ability to efficiently separate out
+these components. Employing a suite of dust models encompassing a variety of physical effects,
+we simulate observations of a future seven-band CMB experiment to assess the impact of these complexities
+on parametric component separation. We identify configurations of frequency bands that minimize
+the `model errors' caused by fitting simple parametric models to more complex `true' foreground
+spectra, which bias the inferred CMB signal. We find that: (a) fits employing a simple two parameter
+modified blackbody (MBB) dust model tend to produce significant bias in the recovered polarized
+CMB signal in the presence of physically realistic dust foregrounds; (b) generalized MBB models
+with three additional parameters reduce this bias in most cases, but non-negligible biases can
+remain, and can be hard to detect; and (c) line of sight effects, which give rise to frequency decorrelation,
+and the presence of iron grains are the most problematic complexities in the dust emission for recovering
+the true CMB signal. More sophisticated simulations will be needed to demonstrate that future CMB
+experiments can successfully mitigate these more physically realistic dust foregrounds. 

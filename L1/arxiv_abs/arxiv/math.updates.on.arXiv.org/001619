@@ -1,0 +1,17 @@
+We consider the statistical inverse problem of recovering a function $f: M \to \mathbb R$, where
+$M$ is a smooth compact Riemannian manifold with boundary, from measurements of general $X$-ray
+transforms $I_a(f)$ of $f$, corrupted by additive Gaussian noise. For $M$ equal to the unit disk
+with `flat' geometry and $a=0$ this reduces to the standard Radon transform, but our general setting
+allows for anisotropic media $M$ and can further model local `attenuation' effects -- both highly
+relevant in practical imaging problems such as SPECT tomography. We propose a nonparametric Bayesian
+inference approach based on standard Gaussian process priors for $f$. The posterior reconstruction
+of $f$ corresponds to a Tikhonov regulariser with a reproducing kernel Hilbert space norm penalty
+that does not require the calculation of the singular value decomposition of the forward operator
+$I_a$. We prove Bernstein-von Mises theorems that entail that posterior-based inferences such
+as credible sets are valid and optimal from a frequentist point of view for a large family of semi-parametric
+aspects of $f$. In particular we derive the asymptotic distribution of smooth linear functionals
+of the Tikhonov regulariser, which is shown to attain the semi-parametric Cram\'er-Rao information
+bound. The proofs rely on an invertibility result for the `Fisher information' operator $I_a^*I_a$
+between suitable function spaces, a result of independent interest that relies on techniques from
+microlocal analysis. We illustrate the performance of the proposed method via simulations in various
+settings. 

@@ -1,0 +1,16 @@
+A color appearance model (CAM) is an advanced colorimetric tool used to predict color appearance
+under a wide variety of viewing conditions. A chromatic adaptation transform (CAT) is an integral
+part of a CAM. Its role is to predict "corresponding colors," that is, a pair of colors that have the
+same color appearance when viewed under different illuminants, after partial or full adaptation
+to each illuminant. Modern CATs perform well when applied to a limited range of illuminant pairs
+and a limited range of source (test) colors. However, they can fail if operated outside these ranges.
+For imaging applications, it is important to have a CAT that can operate on any real color and illuminant
+pair without failure. This paper proposes a new CAT that does not operate on the standard von Kries
+model of adaptation. Instead it relies on spectral reconstruction and how these reconstructions
+behave with respect to different illuminants. It is demonstrated that the proposed CAT is immune
+to some of the limitations of existing CATs (such as producing colors with negative tristimulus
+values). The proposed CAT does not use established empirical corresponding-color datasets to
+optimize performance, as most modern CATs do, yet it performs as well as or better than the most recent
+CATs when tested against the corresponding-color datasets. This increase in robustness comes
+at the expense of additional complexity and computational effort. If robustness is of prime importance,
+then the proposed method may be justifiable. 

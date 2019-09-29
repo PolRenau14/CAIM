@@ -1,0 +1,16 @@
+We revisit the lower bound on binary tidal deformability tilde{Lambda} imposed by a luminous kilonova/macronova,
+AT 2017gfo, by numerical-relativity simulations of models that are consistent with gravitational
+waves from the binary neutron star merger GW170817. Contrary to the claim made in the literature,
+we find that binaries with tilde{Lambda}<~400 can explain the luminosity of AT 2017gfo, as long
+as moderate mass ejection from the remnant is assumed as had been done in previous work. The reason
+is that the maximum mass of a neutron star is not strongly correlated with the tidal deformability
+of neutron stars with a typical mass of ~1.4M_sun. If the maximum mass is so large that the binary does
+not collapse into a black hole immediately after merger, the mass of the ejecta can be sufficiently
+large irrespective of the binary tidal deformability. We present models of binary mergers with
+tilde{Lambda} down to 242 that satisfy the requirement on the mass of the ejecta from the luminosity
+of AT 2017gfo. We further find that the luminosity of AT 2017gfo could be explained by models that
+do not experience bounce after merger. We conclude that the luminosity of AT 2017gfo is not very useful
+for constraining the binary tidal deformability. Accurate estimation of the mass ratio will be
+necessary to establish a lower bound using electromagnetic counterparts in the future. We also
+caution that merger simulations that employ a limited class of tabulated equations of state could
+be severely biased due to the lack of generality. 

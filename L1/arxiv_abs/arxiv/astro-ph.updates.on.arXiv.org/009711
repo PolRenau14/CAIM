@@ -1,0 +1,16 @@
+The Arizona Robotic Telescope Network (ARTN) project is a long term effort to develop a system of
+telescopes to carry out a flexible program of PI observing, survey projects, and time domain astrophysics
+including monitoring, rapid response, and transient/target-of-opportunity followup. Steward
+Observatory operates and shares in several 1-3m class telescopes with quality sites and instrumentation,
+largely operated in classical modes. Science programs suited to these telescopes are limited by
+scheduling flexibility and people-power of available observers. Our goal is to adapt these facilities
+for multiple co-existing queued programs, interrupt capability, remote/robotic operation,
+and delivery of reduced data. In the long term, planning for the LSST era, we envision an automated
+system coordinating across multiple telescopes and sites, where alerts can trigger followup,
+classification, and triggering of further observations if required, such as followup imaging
+that can trigger spectroscopy. We are updating telescope control systems and software to implement
+this system in stages, beginning with the Kuiper 61'' and Vatican Observatory 1.8-m telescopes.
+The Kuiper 61'' and its Mont4K camera can now be controlled and queue-scheduled by the RTS2 observatory
+control software, and operated from a remote room at Steward. We discuss science and technical requirements
+for ARTN, and some of the challenges in adapting heterogenous legacy facilities, scheduling, data
+pipelines, and maintaining capabilities for a diverse user base. 

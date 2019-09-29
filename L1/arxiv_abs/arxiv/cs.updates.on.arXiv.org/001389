@@ -1,0 +1,17 @@
+The ability to recognize the liquid surface and the liquid level in transparent containers is perhaps
+the most commonly used evaluation method when dealing with fluids. Such recognition is essential
+in determining the liquid volume, fill level, phase boundaries and phase separation in various
+fluid systems. The recognition of liquid surfaces is particularly important in solution chemistry,
+where it is essential to many laboratory techniques (e.g., extraction, distillation, titration).
+A general method for the recognition of interfaces between liquid and air or between phase-separating
+liquids could have a wide range of applications and contribute to the understanding of the visual
+properties of such interfaces. This work examines a computer vision method for the recognition
+of liquid surfaces and liquid levels in various transparent containers. The method can be applied
+to recognition of both liquid-air and liquid-liquid surfaces. No prior knowledge of the number
+of phases is required. The method receives the image of the liquid container and the boundaries of
+the container in the image and scans all possible curves that could correspond to the outlines of
+liquid surfaces in the image. The method then compares each curve to the image to rate its correspondence
+with the outline of the real liquid surface by examining various image properties in the area surrounding
+each point of the curve. The image properties that were found to give the best indication of the liquid
+surface are the relative intensity change, the edge density change and the gradient direction relative
+to the curve normal. 

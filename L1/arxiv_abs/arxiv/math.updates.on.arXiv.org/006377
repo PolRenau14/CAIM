@@ -1,0 +1,16 @@
+For a graph $H$ and an integer $k\ge1$, the $k$-color Ramsey number $R_k(H)$ is the least integer
+$N$ such that every $k$-coloring of the edges of the complete graph $K_N$ contains a monochromatic
+copy of $H$. Let $C_m$ denote the cycle on $m\ge4 $ vertices. For odd cycles, Bondy and Erd\H{o}s [Ramsey
+numbers for cycles in graphs, J. Combin. Theory, Ser. B 14 (1973) 46--54] conjectured that for all
+$k\ge1$ and $n\ge2$, $R_k(C_{2n+1})=n\cdot 2^k+1.$ Recently, this conjecture has been verified
+to be true for all fixed $k$ and all $n$ sufficiently large by Jenssen and Skokan; and false for all
+fixed $n$ and all $k$ sufficiently large by Day and Johnson. In this paper, we first prove that the
+aforementioned conjecture of Bondy and Erd\H{o}s holds for all $k$ and all $n$ under Gallai colorings,
+where a Gallai coloring is a coloring of the edges of a complete graph without rainbow triangles.
+For a graph $H$ and an integer $k\geq 1$, we define $GR_k(H)$ to be the least positive integer $N$ such
+that every Gallai $k$-coloring of the complete graph $K_N$ contains a monochromatic copy of $H$.
+We prove that for all $k\geq 1$ and $n\geq 2$, $GR_k(C_{2n+1})=n\cdot 2^k+1$. Even cycles behave
+rather differently in this context. Little is known about the behavior of $R_k(C_{2n})$ in general
+except that $R_k(C_{2n})\ge (n-1)k+n+k-1$ for all $k\ge2$ and $n\ge2$. We prove that $GR_k( C_{2n})=
+(n-1)k+n+1$ for all $k\geq 2$ and $n\geq 3$. Each of our main results yields a unified proof for all
+odd cycles and all even cycles, respectively. 

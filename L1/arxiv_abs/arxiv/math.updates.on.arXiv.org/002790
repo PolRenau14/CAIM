@@ -1,0 +1,16 @@
+Some new directions to lay a rigorous mathematical foundation for the phase-portrait-based modelling
+of fingerprints are discussed in the present work. Couched in the language of dynamical systems,
+and preparing to a preliminary modelling, a back-to-basics analogy between Poincar\'{e}'s categories
+of equilibria of planar differential systems and the basic fingerprint singularities according
+to Purkyn\v{e}-Galton's standards is first investigated. Then, the problem of the global representation
+of a fingerprint's flow-like pattern as a smooth deformation of the phase portrait of a differential
+system is addressed. Unlike visualisation in fluid dynamics, where similarity between integral
+curves of smooth vector fields and flow streamline patterns is eye-catching, the case of an oriented
+texture like a fingerprint's stream of ridges proved to be a hard problem since, on the one hand, not
+all fingerprint singularities and nearby orientational behaviour can be modelled by canonical
+phase portraits on the plane, and on the other hand, even if it were the case, this should lead to a perplexing
+geometrical problem of connecting local phase portraits, a question which will be formulated within
+Poincar\'{e}'s index theory and addressed via a normal form approach as a bivariate Hermite interpolation
+problem. To a certain extent, the material presented herein is self-contained and provides a baseline
+for future work where, starting from a normal form as a source image, a transport via large deformation
+flows is envisaged to match the fingerprint as a target image. 

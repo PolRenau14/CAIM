@@ -1,0 +1,17 @@
+The Harten-Lax-van Leer with contact (HLLC) scheme is known to be plagued by various forms of numerical
+shock instabilities. In this paper, we propose a new framework for developing shock stable, contact
+and shear preserving approximate Riemann solvers based on the HLLC scheme for the Euler system of
+equations. The proposed framework termed as HLLC-SWM (\textbf{S}elective \textbf{W}ave \textbf{M}odified)
+scheme identifies and increases the magnitude of the inherent diffusive HLL component within the
+HLLC scheme in the vicinity of a shock wave while leaving its antidiffusive component unmodified
+to retain accuracy on linearly degenerate wavefields. We present two strategies to compute the
+requisite supplementary dissipation which results in HLLC-SWM-E and HLLC-SWM-P variants. Through
+a linear perturbation analysis of the HLLC-SWM framework, we clarify how the additional dissipation
+introduced in this way helps in damping of unphysical perturbations in primitive quantities under
+a derived CFL constraint. A matrix based stability analysis of a steady two-dimensional normal
+shock is used to show that both variants of the HLLC-SWM scheme are shock stable over a wide range of
+inlet Mach numbers. Results from standard test cases demonstrate that the HLLC-SWM schemes are
+capable of computing shock stable solutions on a variety of problems while retaining positivity
+and exact inviscid contact ability. On viscous flows, while the HLLC-SWM-P variant is quite accurate,
+the HLLC-SWM-E variant introduces slight inaccuracy which can be corrected through a simple Mach
+number based switching function. 

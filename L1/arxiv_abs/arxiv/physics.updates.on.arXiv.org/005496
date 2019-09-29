@@ -1,0 +1,17 @@
+The secondary atomization of liquid droplets is a common physical phenomenon in many industrial
+and engineering applications. Atomization in high speed compressible flows is less well understood
+than its more frequently studied low Mach number counterpart. The key to understanding the mechanisms
+of secondary atomization is examination of the breakup characteristics and droplet trajectories
+across a range of physical conditions. In this study, a planar shock wave impacting a cylindrical
+water column ($\rho_l=1000 \rm~kg/m^3$) is simulated for a range of Weber numbers ranging three
+orders of magnitude ($\sim 10^0-10^3$). Four different incident shock speeds are simulated ($M_s=1.47,
+2, 2.5, 3$) which induce subsonic, transonic, and supersonic crossflow across the column. The flowfield
+is solved using a compressible multicomponent Navier-Stokes solver with capillary forces. Fluid
+immiscibility is maintained with an interface sharpening scheme. Overall, a diverse range of complex
+interface dynamics are captured across the range of physical conditions studied. Additionally,
+while the unsteady drag coefficient of the liquid column shows a dependence on the Weber number using
+the undeformed diameter, calculations using the deformed diameter significantly reduce the dependence,
+particularly for the supersonic cases, with implications for subgrid droplet modeling in atomization
+simulations. A preliminary under-resolved three-dimensional simulation of droplet breakup
+shows reasonable agreement with experimental data, indicating the potential of the numerical
+approach for future investigations. 

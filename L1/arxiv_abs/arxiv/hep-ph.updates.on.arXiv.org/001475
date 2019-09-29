@@ -1,0 +1,16 @@
+We present our calculation of the two-loop corrections of ${\cal O}(\alpha_t^2)$ to the neutral
+Higgs boson masses of the CP-violating Next-to-Minimal Supersymmetric extension of the Standard
+Model (NMSSM). The calculation is performed in the Feynman diagrammatic approach in the gaugeless
+limit at vanishing external momentum. We apply a mixed $\overline{\mathrm{DR}}$-on-shell (OS)
+renormalization scheme for the NMSSM input parameters. Furthermore, we exploit a $\overline{\mathrm{DR}}$
+as well as an OS renormalization in the top/stop sector. The corrections are implemented in the Fortran
+code NMSSMCALC for the calculation of the Higgs spectrum both in the CP-conserving and CP-violating
+NMSSM. The code also provides the Higgs boson decays including the state-of-the-art higher-order
+corrections. The corrections computed in this work improve the already available corrections
+in NMSSMCALC which are the full one-loop corrections without any approximation and the two-loop
+${\cal O}(\alpha_t \alpha_s)$ corrections in the gaugeless limit and at vanishing external momentum.
+Depending on the chosen parameter point, we find that the ${\cal O}(\alpha_t \alpha_s + \alpha_t^2)$
+corrections add about 4-7% to the one-loop mass of the SM-like Higgs boson for $\overline{\mathrm{DR}}$
+renormalization in the top/stop sector and they reduce the mass by about 6-9% if OS renormalization
+is applied. For an estimate of the theoretical uncertainty we vary the renormalization scale and
+change the renormalization scheme and show that care has to be taken in the corresponding interpretation.

@@ -1,0 +1,17 @@
+This paper introduces the Sheffield Magnetohydrodynamics Algorithm Using GPUs (SMAUG+), an advanced
+numerical code for solving magnetohydrodynamic (MHD) problems, using multi-GPU systems. Multi-GPU
+systems facilitate the development of accelerated codes and enable us to investigate larger model
+sizes and/or more detailed computational domain resolutions. This is a significant advancement
+over the parent single-GPU MHD code, SMAUG (Griffiths, M., Fedun, V., and Erd\'elyi, R. (2015).
+A fast MHD code for gravitationally stratified media using graphical processing units: SMAUG.
+Journal of Astrophysics and Astronomy,36(1):197-223). Here, we demonstrate the validity of the
+SMAUG+ code, describe the parallelisation techniques and investigate performance benchmarks.
+The initial configuration of the Orszag-Tang vortex simulations are distributed among 4, 16, 64
+and 100 GPUs. Furthermore, different simulation box resolutions are applied: $1000 \times 1000$,
+$2044 \times 2044$, $4000 \times 4000$ and $8000 \times 8000$. We also tested the code with the Brio-Wu
+shock tube simulations with model size of 800 employing up to 10 GPUs. Based on the test results, we
+observed speed ups and slow downs, depending on the granularity and the communication overhead
+of certain parallel tasks. The main aim of the code development is to provide massively parallel
+code without the memory limitation of a single GPU. By using our code, the applied model size could
+be significantly increased. We demonstrate that we are able to successfully compute numerically
+valid and large 2D MHD problems. 

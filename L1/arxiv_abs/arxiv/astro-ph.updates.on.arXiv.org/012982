@@ -1,0 +1,17 @@
+We have constructed an all-sky catalog of optical AGNs with $z < 0.09$, based on optical spectroscopy,
+from the parent sample of galaxies in the 2MASS Redshift Survey (2MRS), a near-complete census of
+the nearby universe. Our catalog consists of 1929 broad line AGNs, and 6562 narrow line AGNs which
+satisfy the \citet{Kauffmann03} criteria, of which 3607 also satisfy the \citet{Kewley01} criteria.
+We also report emission line widths, fluxes, flux errors, and signal-to-noise ratios of all the
+galaxies in our spectroscopic sample, allowing users to customize the selection criteria. Although
+we uniformly processed the spectra of galaxies from a homogeneous parent sample, inhomogeneities
+persist due to the differences in the quality of the obtained spectra, taken with different instruments,
+and the unavailability of spectra for $\sim$20\% of the galaxies. We quantify how the differences
+in spectral quality affect not only the AGN detection rates but also broad line to narrow line AGN
+ratios. We find that the inhomogeneities primarily stem from the continuum signal-to-noise (S/N)
+in the spectra near the emission lines of interest. We fit for the AGN fraction as a function of continuum
+S/N and assign AGN likelihoods to galaxies which were not identified as AGNs using the available
+spectra. This correction results in a catalog suitable for statistical studies. This work also
+paves the way for a truly homogeneous and complete nearby AGN catalog by identifying galaxies whose
+AGN status needs to be verified with higher quality spectra, quantifying the spectral quality necessary
+to do so. 

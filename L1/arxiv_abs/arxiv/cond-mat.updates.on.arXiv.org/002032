@@ -1,0 +1,17 @@
+We investigate the origin of the difference, which was noticed by Fey {\it et al.} [Phys. Rev. Lett.
+{\bf 104}, 145703 (2010)], between the steady state density of an Abelian sandpile model (ASM) and
+the transition point of its corresponding deterministic fixed-energy sandpile model (DFES).
+Being deterministic, the configuration space of a DFES can be divided into two disjoint classes
+such that every configuration in one class should evolve into one of absorbing states, whereas no
+configurations in the other class can reach an absorbing state. Since the two classes are separated
+in terms of toppling dynamics, the system can be made to exhibit an absorbing phase transition (APT)
+at various points that depend on the initial probability distribution of the configurations. Furthermore,
+we show that in general the transition point also depends on whether an infinite-size limit is taken
+before or after the infinite-time limit. To demonstrate, we numerically study the two-dimensional
+DFES with Bak-Tang-Wiesenfeld toppling rule (BTW-FES). We confirm that there are indeed many thresholds.
+Nonetheless, the critical phenomena at various transition points are found to be universal. We
+furthermore discuss a microscopic absorbing phase transition, or a so-called spreading dynamics,
+of the BTW-FES, to find that the phase transition in this setting is related to the dynamical isotropic
+percolation process rather than self-organized criticality. In particular, we argue that choosing
+recurrent configurations of the corresponding ASM as an initial configuration does not allow for
+a nontrivial APT in the DFES. 

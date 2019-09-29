@@ -1,0 +1,17 @@
+This paper summarizes the ideas and key concepts in MISE (Memory Interference-induced Slowdown
+Estimation), which was published in HPCA 2013 [97], and examines the work's significance and future
+potential. Applications running concurrently on a multicore system interfere with each other
+at the main memory. This interference can slow down different applications differently. Accurately
+estimating the slowdown of each application in such a system can enable mechanisms that can enforce
+quality-of-service. While much prior work has focused on mitigating the performance degradation
+due to inter-application interference, there is little work on accurately estimating slowdown
+of individual applications in a multi-programmed environment. Our goal is to accurately estimate
+application slowdowns, towards providing predictable performance. To this end, we first build
+a simple Memory Interference-induced Slowdown Estimation (MISE) model, which accurately estimates
+slowdowns caused by memory interference. We then leverage our MISE model to develop two new memory
+scheduling schemes: 1) one that provides soft quality-of-service guarantees, and 2) another that
+explicitly attempts to minimize maximum slowdown (i.e., unfairness) in the system. Evaluations
+show that our techniques perform significantly better than state-of-the-art memory scheduling
+approaches to address the same problems. Our proposed model and techniques have enabled significant
+research in the development of accurate performance models [35, 59, 98, 110] and interference management
+mechanisms [66, 99, 100, 108, 119, 120]. 

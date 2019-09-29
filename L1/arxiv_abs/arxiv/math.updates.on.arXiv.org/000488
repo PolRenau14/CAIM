@@ -1,0 +1,16 @@
+The problem of signal recovery from its Fourier transform magnitude, or equivalently, autocorrelation,
+is of paramount importance in various fields of engineering and has been around for over 100 years.
+In order to achieve this, additional structure information about the signal is necessary. In this
+work, we first provide simple and general conditions, which when satisfied, allow unique recovery
+almost surely. In particular, we focus our attention on sparse signals and show that most O(n)-sparse
+signals, i.e., signals with O(n) non-zero components, have distinct Fourier transform magnitudes
+(up to time-shift, time-reversal and global sign). Our results are a significant improvement over
+the existing identifiability results, which provide such guarantees for only O(n^{1/4})-sparse
+signals. Then, we exploit the sparse nature of the signals and develop a Two-stage Sparse Phase Retrieval
+algorithm (TSPR), which involves: (i) identifying the support, i.e., the locations of the non-zero
+components, of the signal (ii) identifying the signal values using the support knowledge. We show
+that the proposed algorithm can provably recover O(n^{1/2-\eps})-sparse signals (up to time-shift,
+time-reversal and global sign) with arbitrarily high probability in quadratic-time. To the best
+of our knowledge, state of the art phase retrieval algorithms provide such recovery guarantees
+for only O(n^{1/4})-sparse signals. Numerical experiments complement our theoretical analysis
+and verify the effectiveness of the proposed algorithms. 

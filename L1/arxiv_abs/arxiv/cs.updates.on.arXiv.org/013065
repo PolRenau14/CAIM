@@ -1,0 +1,17 @@
+In the field of multi-objective optimization algorithms, multi-objective Bayesian Global Optimization
+(MOBGO) is an important branch, in addition to evolutionary multi-objective optimization algorithms
+(EMOAs). MOBGO utilizes Gaussian Process models learned from previous objective function evaluations
+to decide the next evaluation site by maximizing or minimizing an infill criterion. A common criterion
+in MOBGO is the Expected Hypervolume Improvement (EHVI), which shows a good performance on a wide
+range of problems, with respect to exploration and exploitation. However, so far it has been a challenge
+to calculate exact EHVI values efficiently. In this paper, an efficient algorithm for the computation
+of the exact EHVI for a generic case is proposed. This efficient algorithm is based on partitioning
+the integration volume into a set of axis-parallel slices. Theoretically, the upper bound time
+complexities are improved from previously $O (n^2)$ and $O(n^3)$, for two- and three-objective
+problems respectively, to $\Theta(n\log n)$, which is asymptotically optimal. This article generalizes
+the scheme in higher dimensional case by utilizing a new hyperbox decomposition technique, which
+was proposed by D{\"a}chert et al, EJOR, 2017. It also utilizes a generalization of the multilayered
+integration scheme that scales linearly in the number of hyperboxes of the decomposition. The speed
+comparison shows that the proposed algorithm in this paper significantly reduces computation
+time. Finally, this decomposition technique is applied in the calculation of the Probability of
+Improvement (PoI). 

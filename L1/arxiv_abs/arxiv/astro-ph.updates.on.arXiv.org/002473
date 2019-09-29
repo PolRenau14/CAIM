@@ -1,0 +1,16 @@
+We propose to apply the coronagraphic techniques to the spectroscopic direct detection of exoplanets
+via the Doppler shift of planetary molecular lines. Even for unresolved close-in planetary system,
+we show that a combination of a visible nuller and an extreme adaptive optics system can reduce photon
+noise of a main star and increases total signal-to-noise ratio of the molecular absorptions of exoplanetary
+atmosphere: it works as spectroscopic coronagraph. Assuming a 30 m telescope, we demonstrate the
+benefit of these high-contrast instruments for nearby close-in planets that mimic 55 Cnc b ($0.6
+\lambda/D$ of the angular separation in the K-band). We find that the tip-tilt error is the most crucial
+factor, however, low-order speckles also contribute to the noise. Assuming relatively conservative
+estimates for future wavefront control technique, the spectroscopic coronagraph can increase
+the contrast to $ \sim 50-130$ times and enable us to obtain a $\sim 3-6 $ times larger S/N for warm Jupiters
+and Neptunes at 10 pc than that without it. If the tip-tilt error can be reduced to $\lesssim 0.3$ mas
+(rms), it gains a $\sim 10-30$ times larger S/N and enables to detect warm super Earths with an extremely
+large telescope. This paper demonstrates the concept of spectroscopic coronagraphy for the future
+spectroscopic direct detection. Further studies of selection of coronagraphs and tip-tilt sensors
+will extend the range of application of the spectroscopic direct detection beyond the photon correcting
+area limit. 

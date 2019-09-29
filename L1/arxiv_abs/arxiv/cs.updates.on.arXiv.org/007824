@@ -1,0 +1,16 @@
+Standard scan plane detection in fetal brain ultrasound (US) forms a crucial step in the assessment
+of fetal development. In clinical settings, this is done by manually manoeuvring a 2D probe to the
+desired scan plane. With the advent of 3D US, the entire fetal brain volume containing these standard
+planes can be easily acquired. However, manual standard plane identification in 3D volume is labour-intensive
+and requires expert knowledge of fetal anatomy. We propose a new Iterative Transformation Network
+(ITN) for the automatic detection of standard planes in 3D volumes. ITN uses a convolutional neural
+network to learn the relationship between a 2D plane image and the transformation parameters required
+to move that plane towards the location/orientation of the standard plane in the 3D volume. During
+inference, the current plane image is passed iteratively to the network until it converges to the
+standard plane location. We explore the effect of using different transformation representations
+as regression outputs of ITN. Under a multi-task learning framework, we introduce additional classification
+probability outputs to the network to act as confidence measures for the regressed transformation
+parameters in order to further improve the localisation accuracy. When evaluated on 72 US volumes
+of fetal brain, our method achieves an error of 3.83mm/12.7 degrees and 3.80mm/12.6 degrees for
+the transventricular and transcerebellar planes respectively and takes 0.46s per plane. Source
+code is publicly available at https://github.com/yuanwei1989/plane-detection. 

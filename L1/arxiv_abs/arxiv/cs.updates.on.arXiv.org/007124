@@ -1,0 +1,17 @@
+This paper introduces the notion of cache-tapping into the information theoretic models of coded
+caching. In particular, the wiretap II channel model in the presence of multiple receivers equipped
+with fixed-size cache memories, and an adversary who is able to choose symbols to tap into from cache
+placement, in addition to or in lieu of, delivery transmission, is introduced. The model is hence
+termed the caching broadcast channel with a wire and cache tapping adversary of type II. The legitimate
+parties know neither whether cache placement, delivery, or both phases are tapped, nor the positions
+in which they are tapped. Only the size of the overall tapped set is known. For the instance of two receivers
+and two library files, the strong secrecy capacity of the model, i.e., the maximum achievable file
+rate while keeping the overall library strongly secure, is identified. Lower and upper bounds on
+the achievable strong secrecy file rate are derived when the library has more than two files. Achievability
+schemes in this paper rely on a code design which combines wiretap coding, security embedding codes,
+one-time pad keys, and coded caching. A genie-aided upper bound, in which a genie provides the transmitter
+with user demands before cache placement, establishes the converse for the two files instance.
+For the library of more than two files, the upper bound is constructed by three successive channel
+transformations. Our results establish that strong information theoretic security is possible
+against a powerful adversary who optimizes its attack over both phases of communication in a cache-aided
+system. 

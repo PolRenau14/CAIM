@@ -1,0 +1,17 @@
+Early recordings of nervous conduction revealed a notable thermal signature associated with the
+electrical signal. The observed production and subsequent absorption of heat arise from physicochemical
+processes that occur at the cell membrane level during the conduction of the action potential. In
+particular, the reversible release of electrical energy stored as a difference of potential across
+the cell membrane appears as a simple yet consistent explanation for the heat production, as proposed
+in the "Condenser Theory." However, the Condenser Theory has not been analyzed beyond the analogy
+between the cell membrane and a parallel-plate capacitor, i.e. a condenser, which cannot account
+for the magnitude of the heat signature. In this work, we use a detailed electrostatic model of the
+cell membrane to revisit the Condenser Theory. We derive expressions for free energy and entropy
+changes associated with the depolarization of the membrane by the action potential, which give
+a direct measure of the heat produced and absorbed by neurons. We show how the density of surface charges
+on both sides of the membrane impacts the energy changes. Finally, considering a typical action
+potential, we show that if the membrane holds a bias of surface charges, such that the internal side
+of the membrane is 0.05 C m$^{-2}$ more negative than the external side, the size of the heat predicted
+by the model reaches the range of experimental values. Based on our study, we identify the change
+in electrical energy of the membrane as the primary mechanism of heat production and absorption
+by neurons during nervous conduction. 

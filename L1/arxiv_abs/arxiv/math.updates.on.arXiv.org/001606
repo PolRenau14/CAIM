@@ -1,0 +1,16 @@
+The entropic value-at-risk (EVaR) is a new coherent risk measure, which is an upper bound for both
+the value-at-risk (VaR) and conditional value-at-risk (CVaR). As important properties, the EVaR
+is strongly monotone over its domain and strictly monotone over a broad sub-domain including all
+continuous distributions, while well-known monotone risk measures, such as VaR and CVaR lack these
+properties. A key feature for a risk measure, besides its financial properties, is its applicability
+in large-scale sample-based portfolio optimization. If the negative return of an investment portfolio
+is a differentiable convex function, the portfolio optimization with the EVaR results in a differentiable
+convex program whose number of variables and constraints is independent of the sample size, which
+is not the case for the VaR and CVaR. This enables us to design an efficient algorithm using differentiable
+convex optimization. Our extensive numerical study shows the high efficiency of the algorithm
+in large scales, compared to the existing convex optimization software packages. The computational
+efficiency of the EVaR portfolio optimization approach is also compared with that of CVaR-based
+portfolio optimization. This comparison shows that the EVaR approach generally performs similarly,
+and it outperforms as the sample size increases. Moreover, the comparison of the portfolios obtained
+for a real case by the EVaR and CVaR approaches shows that the EVaR approach can find portfolios with
+better expectations and VaR values at high confidence levels. 

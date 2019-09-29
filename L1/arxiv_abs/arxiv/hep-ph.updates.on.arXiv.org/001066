@@ -1,0 +1,17 @@
+We present an analytical calculation of the covariance of the energy-momentum tensor associated
+to the gluon field produced in ultra-relativistic heavy ion collisions at early times, the Glasma.
+This object involves the two-point and single-point correlators of the energy-momentum tensor
+($\langle T^{\mu\nu}(x_{\perp})T^{\sigma\rho}(y_{\perp})\rangle$ and $\langle T^{\mu\nu}(x_{\perp})\rangle$,
+respectively) at proper time $\tau\!=\!0^+$. Our approach is based on the Color Glass Condensate
+effective theory, which allows us to map the fluctuations of the valence color sources in the colliding
+nuclei to those of the energy-momentum tensor of the produced gluon fields via the solution of the
+classical equations of motion in the presence of external currents. The color sources in the two
+colliding nuclei are characterized by Gaussian correlations, albeit in more generality than in
+the McLerran-Venugopalan model, allowing for non-trivial impact parameter and transverse dependence
+of the two-point correlator. We compare our results to those obtained under the Glasma Graph approximation,
+finding agreement in the limit of short transverse separations. However, important differences
+arise at larger transverse separations, where our result displays a slower fall-off than the Glasma
+Graph result ($r^{-2}$ vs $r^{-4}$ power-law decay), indicating that the color screening of the
+correlations in the transverse plane occurs at distances larger than $1/Q_s$ by a logarithmic factor
+sensitive to the infrared. In the Glasma flux tube picture, this implies that the color domains are
+larger than originally estimated. 

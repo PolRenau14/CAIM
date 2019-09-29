@@ -1,0 +1,17 @@
+We study self-organisation of collective motion as a thermodynamic phenomenon, in the context
+of the first law of thermodynamics. It is expected that the coherent ordered motion typically self-organises
+in the presence of changes in the (generalised) internal energy and of (generalised) work done on,
+or extracted from, the system. We aim to explicitly quantify changes in these two quantities in a
+system of simulated self-propelled particles, and contrast them with changes in the system's configuration
+entropy. In doing so, we adapt a thermodynamic formulation of the curvatures of the internal energy
+and the work, with respect to two parameters that control the particles' alignment. This allows
+us to systematically investigate the behaviour of the system by varying the two control parameters
+to drive the system across a kinetic phase transition. Our results identify critical regimes and
+show that during the phase transition, where the configuration entropy of the system decreases,
+the rates of change of the work and of the internal energy also decrease, while their curvatures diverge.
+Importantly, the reduction of entropy achieved through expenditure of work is shown to peak at criticality.
+We relate this both to a thermodynamic efficiency and the significance of the increased order with
+respect to a computational path. Additionally, this study provides an information-geometric
+interpretation of the curvature of the internal energy as the difference between two curvatures:
+the curvature of the free entropy, captured by the Fisher information, and the curvature of the configuration
+entropy. 

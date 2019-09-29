@@ -1,0 +1,16 @@
+For $0 \leq \alpha \leq 1/2$, we show an algorithm that does the following. Given appropriate preprocessing
+$P(\mathcal{L})$ consisting of $N_\alpha := 2^{O(n^{1-2\alpha} + \log n)}$ vectors in some lattice
+$\mathcal{L} \subset \mathbb{R}^n$ and a target vector $\boldsymbol{t}\in \mathbb{R}^n$, the
+algorithm finds $\boldsymbol{y} \in \mathcal{L}$ such that $\|\boldsymbol{y}- \boldsymbol{t}\|
+\leq n^{1/2 + \alpha} \eta(\mathcal{L})$ in time $\mathrm{poly}(n) \cdot N_\alpha$, where $\eta(\mathcal{L})$
+is the smoothing parameter of the lattice. The algorithm itself is very simple and was originally
+studied by Doulgerakis, Laarhoven, and de Weger (to appear in PQCrypto, 2019), who proved its correctness
+under certain reasonable heuristic assumptions on the preprocessing $P(\mathcal{L})$ and target
+$\boldsymbol{t}$. Our primary contribution is a choice of preprocessing that allows us to prove
+correctness without any heuristic assumptions. Our main motivation for studying this is the recent
+breakthrough algorithm for IdealSVP due to Hanrot, Pellet--Mary, and Stehl\'e (to appear in Eurocrypt,
+2019), which uses the DLW algorithm as a key subprocedure. In particular, our result implies that
+the HPS IdealSVP algorithm can be made to work with fewer heuristic assumptions. Our only technical
+tool is the discrete Gaussian distribution over $\mathcal{L}$, and in particular, a lemma showing
+that the one-dimensional projections of this distribution behave very similarly to the continuous
+Gaussian. This lemma might be of independent interest. 

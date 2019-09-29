@@ -1,0 +1,16 @@
+Since its first use by Euler on the seven bridges of K{\"o}nigsberg problem, graph theory has shown
+excellent abilities in solving and unveiling the properties of multiple discrete optimization
+problems notably in communications and signal processing. The study of the structure of integer
+programs reveals equivalence with graph theory problems, which makes a large body of the literature
+readily available for solving and characterizing the complexity of these problems. This tutorial
+presents a framework for utilizing a particular graph theory problem, known as the clique problem,
+for solving communications and signal processing problems. In particular, the paper aims to illustrate
+the structural properties of problems that can be formulated as clique problems through multiple
+examples in communications and signal processing. To that end, the first part of the tutorial formulates
+and suggests various optimal and heuristic solutions for the clique problem and its variants. The
+tutorial, further, illustrates the use of the clique formulation and its variants through numerous
+contemporary examples in communications and signal processing, mainly in the maximum access problem
+for non-orthogonal multiple access networks, throughput maximization using index coding and
+instantly decodable network coding, collision-free radio frequency identification networks,
+and resource allocation in cloud-radio access networks. The tutorial finally sheds light on the
+recent advances of such applications and discusses future research directions on the topics. 

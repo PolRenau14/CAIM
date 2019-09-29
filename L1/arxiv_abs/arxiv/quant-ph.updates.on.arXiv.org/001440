@@ -1,0 +1,16 @@
+Quantum contextuality turns out to be a necessary resource for universal quantum computation and
+also has applications in quantum communication. Thus it becomes important to generate contextual
+sets of arbitrary structure and complexity to enable a variety of implementations. In recent years,
+such generation has been done for contextual sets known as Kochen-Specker sets. Up to now, two approaches
+have been used for massive generation of non-isomorphic Kochen-Specker sets: exhaustive generation
+up to a given size and downward generation from master sets and their associated coordinatizations.
+Master sets were obtained earlier from serendipitous or intuitive connections with polytopes
+or Pauli operators, and more recently from arbitrary vector components using an algorithm that
+generates orthogonal vector groupings from them. However, both upward and downward generation
+face an inherent exponential complexity barrier. In contrast, in this paper we present methods
+and algorithms that we apply to downward generation that can overcome the exponential barrier in
+many cases of interest. These involve tailoring and manipulating Kochen-Specker master sets obtained
+from a small number of simple vector components, filtered by the features of the sets we aim to obtain.
+Some of the classes of Kochen-Specker sets we generate contain all previously known ones, and others
+are completely novel. We provide examples of both kinds in 4- and 6-dim Hilbert spaces. We also give
+a brief introduction for a wider audience and a novice reader. 

@@ -1,0 +1,17 @@
+This paper addresses the problem of quickest detection of a change in the maximal coherence between
+columns of a $n\times p$ random matrix based on a sequence of matrix observations having a single
+unknown change point. The random matrix is assumed to have identically distributed rows and the
+maximal coherence is defined as the largest of the $p \choose 2$ correlation coefficients associated
+with any row. Likewise, the $k$ nearest neighbor (kNN) coherence is defined as the $k$-th largest
+of these correlation coefficients. The forms of the pre- and post-change distributions of the observed
+matrices are assumed to belong to the family of elliptically contoured densities with sparse dispersion
+matrices but are otherwise unknown. A non-parametric stopping rule is proposed that is based on
+the maximal k-nearest neighbor sample coherence between columns of each observed random matrix.
+This is a summary statistic that is related to a test of the existence of a hub vertex in a sample correlation
+graph having a degree at least $k$. Performance bounds on the delay and false alarm performance of
+the proposed stopping rule are obtained in the purely high dimensional regime where $p\rightarrow
+\infty$ and $n$ is fixed. When the pre-change dispersion matrix is diagonal it is shown that, among
+all functions of the proposed summary statistic, the proposed stopping rule is asymptotically
+optimal under a minimax quickest change detection (QCD) model as the stopping threshold approaches
+infinity. The theory developed also applies to sequential hypothesis testing and fixed sample
+size tests. 

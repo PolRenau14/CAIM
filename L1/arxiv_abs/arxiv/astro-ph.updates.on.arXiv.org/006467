@@ -1,0 +1,16 @@
+Using the SDSS spectra of quasars included in the DR7Q or DR12Q catalogs, we search for Mg II narrow
+absorption doublets in the spectra data around Mg II emission lines. We obtain 17,316 Mg II doublets,
+within the redshift range of 0.3299<= z_abs <= 2.5663. We find that a velocity offset of v_r < 6000
+km/s is a safe boundary to constrain the vast majority of associated Mg II systems, although we find
+some doublets at v_r > 6000 km/s. If associated Mg II absorbers are defined by v_r < 6000 km/s, ~33.3%
+of the absorbers supposed to be contaminants of intervening systems. Removing the 33.3% contaminants,
+~4.5% of the quasars present at least one associated Mg II system with W_r\lambda2796>=0.2 \AA.
+The fraction of associated Mg II systems with high velocity outflows correlates with the average
+luminosities of their central quasars, indicating a relationship between outflows and the quasar
+feedback power. The v_r distribution of the outflow Mg II absorbers is peaked at 1023 km/s, which
+is smaller than the corresponding value of the outflow C IV absorbers. The redshift number density
+evolution of absorbers (dn/dz) limited by v_r > -3000 km/s differs from that of absorbers constrained
+by v_r > 2000 km/s. While, absorbers limited by v_r > 2000 km/s and higher values exhibit similar profile
+of dn/dz. In addition, the dn/dz is smaller when absorbers are constrained with larger v_r. The distributions
+of equivalent widths, and the ratio of W_r\lambda2796/W_r\lambda2803 is the same for associated
+and intervening systems, and independent on quasar luminosity. 

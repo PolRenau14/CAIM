@@ -1,0 +1,17 @@
+This paper proposes a two-stage scoring approach to help lenders decide their fund allocations
+in the peer-to-peer (P2P) lending market. The existing scoring approaches focus on only either
+probability of default (PD) prediction, known as credit scoring, or profitability prediction,
+known as profit scoring, to identify the best loans for investment. Credit scoring fails to deliver
+the main need of lenders on how much profit they may obtain through their investment. On the other
+hand, profit scoring can satisfy that need by predicting the investment profitability. However,
+profit scoring completely ignores the class imbalance problem where most of the past loans are non-default.
+Consequently, ignorance of the class imbalance problem significantly affects the accuracy of
+profitability prediction. Our proposed two-stage scoring approach is an integration of credit
+scoring and profit scoring to address the above challenges. More specifically, stage 1 is designed
+as credit scoring to identify non-default loans while the imbalanced nature of loan status is considered
+in PD prediction. The loans identified as non-default are then moved to stage 2 for prediction of
+profitability, measured by internal rate of return. Wide and deep learning is used to build the predictive
+models in both stages to achieve both memorization and generalization. Extensive numerical studies
+are conducted based on real-world data to verify the effectiveness of the proposed approach. The
+numerical studies indicate our two-stage scoring approach outperforms the existing credit scoring
+and profit scoring approaches. 

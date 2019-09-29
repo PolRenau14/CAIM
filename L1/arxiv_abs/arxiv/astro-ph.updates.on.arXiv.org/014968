@@ -1,0 +1,17 @@
+Recent monitoring campaigns designed to map the accretion regime in AGN show major discrepancies
+with models where the optical/ultraviolet (UV) is produced by X-ray-illuminated, optically thick
+material in a disc geometry within a few hundred gravitational radii. However, these campaigns
+only monitored X-rays up to $\sim3-5$ keV, whereas the bolometric luminosity for most of these AGN
+peaks above $50$ keV. Here we use data from the recent multi-wavelength campaign by Edelson et al.
+(2017) on NGC 4151 - the only AGN bright enough to be monitored at higher energies with the Swift BAT.
+We develop a spectral-timing model with a hot corona, warm Comptonization, and outer standard disc.
+This fits the time-averaged spectrum well, but completely fails to match the UV variability predicted
+from the observed hard X-ray light-curve. However, it reveals that NGC 4151 had a bolometric luminosity
+around $0.015$ of the Eddington luminosity at the time of this campaign, close to the luminosity
+at which AGN show a `changing state' transition, where the broad optical lines disappear. Stellar
+mass black holes show a spectral state transition at a similarly low Eddington fraction, which is
+generally interpreted as the inner disc being replaced by a hot flow out to a few hundred gravitational
+radii. We find that the UV light-curve can instead be matched by reprocessing of the X-ray flux on
+size scales of the broad line region ($2-20$~light-days) and rule out there being optically thick
+material inwards of this, as expected if the thin disc is replaced by the hot flow below the inner radius
+of the BLR. 

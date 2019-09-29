@@ -1,0 +1,16 @@
+The cosmic merger rate density of black hole binaries (BHBs) can give us an essential clue to constraining
+the formation channels of BHBs, in light of current and forthcoming gravitational wave detections.
+Following a Monte Carlo approach, we couple new population-synthesis models of BHBs with the Illustris
+cosmological simulation, to study the cosmic history of BHB mergers. We explore six population-synthesis
+models, varying the prescriptions for supernovae, common envelope, and natal kicks. In most considered
+models, the cosmic BHB merger rate follows the same trend as the cosmic star formation rate. The normalization
+of the cosmic BHB merger rate strongly depends on the treatment of common envelope and on the distribution
+of natal kicks. We find that most BHBs merging within LIGO's instrumental horizon come from relatively
+metal-poor progenitors (<0.2 Zsun). The total masses of merging BHBs span a large range of values,
+from ~6 to ~82 Msun. In our fiducial model, merging BHBs consistent with GW150914, GW151226 and GW170104
+represent ~6, 3, and 12 per cent of all BHBs merging within the LIGO horizon, respectively. The heavy
+systems, like GW150914, come from metal-poor progenitors (<0.15 Zsun). Most GW150914-like systems
+merging in the local Universe appear to have formed at high redshift, with a long delay time. In contrast,
+GW151226-like systems form and merge all the way through the cosmic history, from progenitors with
+a broad range of metallicities. Future detections will be crucial to put constraints on common envelope,
+on natal kicks, and on the BHB mass function. 

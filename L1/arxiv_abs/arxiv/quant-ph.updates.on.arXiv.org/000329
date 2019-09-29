@@ -1,0 +1,17 @@
+In contrast to a projective quantum measurement in which the system is projected onto an eigenstate
+of the measured operator, in a weak measurement the system is only weakly perturbed while only partial
+information on the measured observable is obtained. A full description of such measurement should
+describe the measurement protocol and provide an explicit form of the measurement operator that
+transform the quantum state to its post measurement form. A simultaneous measurement of non-commuting
+observables cannot be projective, however the strongest possible such measurement can be defined
+as providing their values at the smallest uncertainty limit. Starting with the Arthurs and Kelly
+(AK) protocol for such measurement of position and momentum, we derive a systematic extension to
+a corresponding weak measurement along three steps: First, a plausible form of the weak measurement
+operator analogous to the Gaussian Kraus operator often used to model a weak measurement of a single
+observable is obtained by projecting a na\"ive extension (valid for commuting observable) onto
+the corresponding Gabor space. Second, we show that the so obtained set of measurement operators
+satisfies the normalization condition for the probability to obtain given values of the position
+and momentum in the weak measurement operation, namely that this set constitutes a positive operator
+valued measure (POVM) in the position-momentum space. Finally, we show that the so-obtained measurement
+operator corresponds to a generalization of the AK measurement protocol in which the initial detector
+wavefunctions is suitable broadened. 

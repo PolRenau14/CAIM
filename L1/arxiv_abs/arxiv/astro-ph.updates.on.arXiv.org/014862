@@ -1,0 +1,16 @@
+We investigate the feedback of the stellar jets on the surrounding interstellar gas based on 2D and
+3D simulations applying HD and MHD module of PLUTO 4.2 code. The main question we address is whether
+the stellar jet can be considered as a turbulence driver into the interstellar gas. In addition,
+we investigate the most effective circumstances in which the driven turbulence is larger and can
+survive for a longer time scale in the ambient gas. We present a case study of different parameters
+runs including the jet Mach number, the initial jet velocity field and the background magnetic field
+geometries and the interacting jets. Also, we study the environmental effects on the jet-gas interaction
+by considering the non-homogeneous surrounding gas containing the clumps in the model setup. Among
+different setups, we find that for (1) a higher jet Mach number, (2) a rotating jet, 16 pages(3) a jet
+propagating in a magnetized environment, (4)a jet propagating in a non-homogeneous environment,
+and (5) the interacting jets more fluctuations and random motions are produced in the entrained
+gas which can survive for a longer time scale. In addition, we perform the 3D simulations of jet-ambient
+gas interaction and we find that the amount of (subsonic-supersonic) fluctuations increases compared
+to the axisymmetric run and the entrained gas gains higher velocities in a 3D run. In total, we confirm
+the previous finding that the stellar jets can transfer the turbulence on neighboring regions and
+are not sufficient drivers of the large-scale supersonic turbulence in molecular clouds. 

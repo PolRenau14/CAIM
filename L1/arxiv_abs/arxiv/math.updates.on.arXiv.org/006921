@@ -1,0 +1,16 @@
+A $\mathbb{T}$-gain graph is a simple graph in which a unit complex number is assigned to each orientation
+of an edge, and its inverse is assigned to the opposite orientation. The associated adjacency matrix
+is defined canonically, and is called $\mathbb{T}$-gain adjacency matrix. Let $\mathbb{T}_{G}
+$ denote the collection of all $\mathbb{T}$-gain adjacency matrices on a graph $G$. In this article,
+we study the cospectrality of matrices in $\mathbb{T}_{G} $ and we establish equivalent conditions
+for a graph $G$ to be a tree in terms of the spectrum and the spectral radius of matrices in $\mathbb{T}_{G}
+$. We identify a class of connected graphs $\mathfrak{F^{'}}$ such that for each $G \in \mathfrak{F^{'}}$,
+the matrices in $\mathbb{T}_G$ have nonnegative real part up to diagonal unitary similarity. Then
+we establish bounds for the spectral radius of $\mathbb{T}$-gain adjacency matrices on $ G \in \mathfrak{F^{'}}
+$ in terms of their largest eigenvalues. Thereupon, we characterize $\mathbb{T}$-gain graphs
+for which the spectral radius of the associated $\mathbb{T}$-gain adjacency matrices equal to
+the largest vertex degree of the underlying graph. These bounds generalize results known for the
+spectral radius of Hermitian adjacency matrices of digraphs and provide an alternate proof of a
+result about the sharpness of the bound in terms of largest vertex degree established in [Krystal
+Guo, Bojan Mohar. Hermitian adjacency matrix of digraphs and mixed graphs. J. Graph Theory 85 (2017),
+no. 1, 217-248.]. 

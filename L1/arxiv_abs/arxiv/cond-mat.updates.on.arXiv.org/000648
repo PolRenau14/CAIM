@@ -1,0 +1,16 @@
+Understanding thermal transport from nanoscale heat sources is important for a fundamental description
+of energy flow in materials, as well as for many technological applications including thermal management
+in nanoelectronics, thermoelectric devices, nano-enhanced photovoltaics and nanoparticle-mediated
+thermal therapies. Thermal transport at the nanoscale is fundamentally different from that at
+the macroscale and is determined by the distribution of carrier mean free paths in a material, the
+length scales of the heat sources, and the distance over which heat is transported. Past work has
+shown that Fourier's law for heat conduction dramatically over-predicts the rate of heat dissipation
+from heat sources with dimensions smaller than the mean free path of the dominant heat-carrying
+phonons. In this work, we uncover a new regime of nanoscale thermal transport that dominates when
+the separation between nanoscale heat sources is small compared with the dominant phonon mean free
+paths. Surprisingly, the interplay between neighboring heat sources can facilitate efficient,
+diffusive-like heat dissipation, even from the smallest nanoscale heat sources. This finding
+suggests that thermal management in nanoscale systems including integrated circuits might not
+be as challenging as projected. Finally, we demonstrate a unique and new capability to extract mean
+free path distributions of phonons in materials, allowing the first experimental validation of
+differential conductivity predictions from first-principles calculations. 

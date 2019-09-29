@@ -1,0 +1,16 @@
+Context. Extrasolar planets found by gravitational microlensing often require assumptions on
+the source star distance and relative proper motion. Only in a few cases has it been possible to confirm
+these findings with space-based observations or high-resolution follow-up. 25 planetary microlensing
+events can be positionally cross-matched with the second Gaia data release containing parallax
+and proper motion measurements Aims. In this work we subject all microlensing planets listed in
+the NASA's Exoplanet Archive to a consistency check by comparing them with Gaia data release 2 measurements.
+The resulting list is supposed to serve as a reference for the microlensing community and to test
+if standard assumptions that are made in microlensing studies hold. Methods. Gravitational microlensing
+can constrain the physical parameters lens mass and lens distance based on fit parameters, such
+as the event timescale, the microlensing parallax, and the source star crossing time. If some of
+these parameters are not available one needs to resort to indirect means of assessing the events,
+often involving a Galactic model. In this work, we seek to make an assessment of those parameters
+solely based on Gaia DR2. Results. We find that 19 of 25 planets are consistent within 2-sigma of their
+published lens and source distances. Changing the lens distance of the remaining 6 published planets
+could lead to revised parameter values that are accordingly compatible with the published ones.
+We expect the incompatible planet mass estimates to belong to a blend star. 

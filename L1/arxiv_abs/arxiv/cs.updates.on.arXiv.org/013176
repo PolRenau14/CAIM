@@ -1,0 +1,17 @@
+The Quadratic Travelling Salesman Problem (QTSP) is to find a least-cost Hamiltonian cycle in an
+edge-weighted graph, where costs are defined on all pairs of edges such that each edge in the pair
+is contained in the Hamiltonian cycle. This is a more general version than the one that appears in
+the literature as the QTSP, denoted here as the \emph{adjacent quadratic} TSP, which only considers
+costs for pairs of adjacent edges. Major directions of research work on the linear TSP include exact
+algorithms, heuristics, approximation algorithms, polynomially solvable special cases and
+exponential neighbourhoods among others. In this paper we explore the complexity of searching
+exponential neighbourhoods for QTSP, the fixed-rank QTSP, and the adjacent quadratic TSP. The
+fixed-rank QTSP is introduced as a restricted version of the QTSP where the cost matrix has fixed
+rank $p$. It is shown that fixed-rank QTSP is solvable in pseudopolynomial time and admits an FPTAS
+for each of the special cases studied, except for the case of matching edge ejection tours. The adjacent
+quadratic TSP is shown to be polynomially-solvable in many of the cases for which the linear TSP is
+polynomially-solvable. Interestingly, optimizing over the matching edge ejection tour neighbourhood
+is shown to be pseudopolynomial for the rank 1 case without a linear term in the objective function,
+but NP-hard for the adjacent quadratic TSP case. We also show that the quadratic shortest path problem
+on an acyclic digraph can be solved in pseudopolynomial time and by an FPTAS when the rank of the associated
+cost matrix is fixed. 

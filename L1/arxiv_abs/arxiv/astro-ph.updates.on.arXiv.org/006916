@@ -1,0 +1,16 @@
+Intensity mapping provides a unique means to probe the epoch of reionization (EoR), when the neutral
+intergalactic medium was ionized by the energetic photons emitted from the first galaxies. The
+[CII] 158$\mu$m fine-structure line is typically one of the brightest emission lines of star-forming
+galaxies and thus a promising tracer of the global EoR star-formation activity. However, [CII]
+intensity maps at $6 \lesssim z \lesssim 8$ are contaminated by interloping CO rotational line emission
+($3 \leq J_{\rm upp} \leq 6$) from lower-redshift galaxies. Here we present a strategy to remove
+the foreground contamination in upcoming [CII] intensity mapping experiments, guided by a model
+of CO emission from foreground galaxies. The model is based on empirical measurements of the mean
+and scatter of the total infrared luminosities of galaxies at $z < 3$ and with stellar masses $M_{*}
+> 10^{8}\,\rm M_{\rm \odot}$ selected in $K$-band from the COSMOS/UltraVISTA survey, which can
+be converted to CO line strengths. For a mock field of the Tomographic Ionized-carbon Mapping Experiment
+(TIME), we find that masking out the "voxels" (spectral-spatial elements) containing foreground
+galaxies identified using an optimized CO flux threshold results in a $z$-dependent criterion
+$m^{\rm AB}_{\rm K} \lesssim 22$ (or $M_{*} \gtrsim 10^{9} \,\rm M_{\rm \odot}$) at $z < 1$ and makes
+a [CII]/CO$_{\rm tot}$ power ratio of $\gtrsim 10$ at $k=0.1$ $h$/Mpc achievable, at the cost of
+a moderate $\lesssim 8\%$ loss of total survey volume. 

@@ -1,0 +1,16 @@
+A precise extinction law is a critical input when interpreting observations of highly reddened
+sources such as young star clusters and the Galactic Center (GC). We use Hubble Space Telescope observations
+of a region of moderate extinction and a region of high extinction to measure the optical and near-infrared
+extinction law (0.8 $\mu$m -- 2.2 $\mu$m). The moderate extinction region is the young massive cluster
+Westerlund 1 (Wd1; A$_{Ks} \sim$ 0.6 mag), where 453 proper motion-selected main-sequence stars
+are used to measure the shape of the extinction law. To quantify the shape we define the parameter
+$\mathcal{S}_{1/\lambda}$, which behaves similarly to a color excess ratio but is continuous
+as a function of wavelength. The high extinction region is the GC (A$_{Ks} \sim$ 2.5 mag), where 819
+red clump stars are used to determine the normalization of the law. The best-fit extinction law is
+able to reproduce the Wd1 main sequence colors, which previous laws misestimate by 10%-30%. The
+law is inconsistent with a single power law, even when only the near-infrared filters are considered,
+and has A$_{F125W}$/A$_{Ks}$ and A$_{F814W}$/A$_{Ks}$ values that are 18% and 24% larger than
+the commonly used \citet{Nishiyama:2009fc} law, respectively. Using the law we recalculate the
+Wd1 distance to be 3896 $\pm$ 328 pc from published observations of eclipsing binary W13. This new
+extinction law should be used for highly reddened populations in the Milky Way, such as the Quintuplet
+cluster and Young Nuclear Cluster. A python code is provided to generate the law for future use. 

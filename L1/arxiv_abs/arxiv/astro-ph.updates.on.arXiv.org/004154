@@ -1,0 +1,17 @@
+We present three-dimensional atmospheric circulation models of a hypothetical "warm Jupiter"
+planet, for a range of possible obliquities from 0-90 degrees. We model a Jupiter-mass planet on
+a 10-day orbit around a Sun-like star, since this hypothetical planet sits at the boundary between
+planets for which we expect that tidal forces should have aligned their rotation axes with their
+orbital axes (i.e., ones with zero obliquity) and planets whose timescale for tidal alignment is
+longer than the typical age of an exoplanet system. In line with observational progress, which is
+pushing atmospheric characterization to planets on longer orbital periods, we calculate the observable
+signatures of obliquity for a transiting warm Jupiter: in orbital phase curves of thermal emission
+and in the hemispheric flux gradients that could be measured by eclipse mapping. For both of these
+predicted measurements, the signal that we would see depends strongly on our viewing geometry relative
+to the orientation of the planet's rotation axis, and we thoroughly identify the degeneracies that
+result. We compare these signals to the predicted sensitivities of current and future instruments
+and determine that the James Webb Space Telescope should be able to constrain the obliquities of
+nearby warm Jupiters to be small (if less than or equal to 10 degrees) or to directly measure them if
+significantly non-zero (greater than or equal to 30 degrees), using the technique of eclipse mapping.
+For a bright target and assuming photon-limited precision, this could be done with a single secondary
+eclipse observation. 

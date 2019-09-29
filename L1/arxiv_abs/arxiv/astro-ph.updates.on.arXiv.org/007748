@@ -1,0 +1,16 @@
+Time-resolved photometry of tens of thousands of red giant stars from space missions like Kepler
+and K2 has created the need for automated asteroseismic analysis methods. The first and most fundamental
+step in such analysis, is to identify which stars show oscillations. It is critical that this step
+can be performed with no, or little, detection bias, particularly when performing subsequent ensemble
+analyses that aim to compare properties of observed stellar populations with those from galactic
+models. Yet, an efficient, automated solution to this initial detection step has still not been
+found, meaning that expert visual inspection of data from each star is required to obtain the highest
+level of detections. Hence, to mimic how an expert eye analyses the data, we use supervised deep learning
+to not only detect oscillations in red giants, but also predict the location of the frequency at maximum
+power, $\nu_{\mathrm{max}}$, by observing features in 2D images of power spectra. By training
+on Kepler data, we benchmark our deep learning classifier against K2 data that are given detections
+by the expert eye, achieving a detection accuracy of 98% on K2 Campaign 6 stars and a detection accuracy
+of 99% on K2 Campaign 3 stars. We further find that the estimated uncertainty of our deep learning-based
+$\nu_{\mathrm{max}}$ predictions is about 5%. This is comparable to human-level performance
+using visual inspection. When examining outliers we find that the deep learning results are more
+likely to provide robust $\nu_{\mathrm{max}}$ estimates than the classical model-fitting method.

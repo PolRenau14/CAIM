@@ -1,0 +1,16 @@
+The task of finding heavy hitters is one of the best known and well studied problems in the area of data
+streams. One is given a list $i_1,i_2,\ldots,i_m\in[n]$ and the goal is to identify the items among
+$[n]$ that appear frequently in the list. In sub-polynomial space, the strongest guarantee available
+is the $\ell_2$ guarantee, which requires finding all items that occur at least $\epsilon\|f\|_2$
+times in the stream, where the vector $f\in\mathbb{R}^n$ is the count histogram of the stream with
+$i$th coordinate equal to the number of times~$i$ appears $f_i:=\#\{j\in[m]:i_j=i\}$. The first
+algorithm to achieve the $\ell_2$ guarantee was the CountSketch of [CCF04], which requires $O(\epsilon^{-2}\log
+n)$ words of memory and $O(\log n)$ update time and is known to be space-optimal if the stream allows
+for deletions. The recent work of [BCIW16] gave an improved algorithm for insertion-only streams,
+using only $O(\epsilon^{-2}\log\epsilon^{-1}\log\log n)$ words of memory. In this work, we give
+an algorithm \bptree for $\ell_2$ heavy hitters in insertion-only streams that achieves $O(\epsilon^{-2}\log\epsilon^{-1})$
+words of memory and $O(\log\epsilon^{-1})$ update time, which is the optimal dependence on $n$
+and $m$. In addition, we describe an algorithm for tracking $\|f\|_2$ at all times with $O(\epsilon^{-2})$
+memory and update time. Our analyses rely on bounding the expected supremum of a Bernoulli process
+involving Rademachers with limited independence, which we accomplish via a Dudley-like chaining
+argument that may have applications elsewhere. 

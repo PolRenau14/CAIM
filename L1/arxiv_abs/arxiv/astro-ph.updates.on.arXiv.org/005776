@@ -1,0 +1,16 @@
+Statistical studies of gamma-ray burst (GRB) spectra may result in important information on the
+physics of GRBs. The Fermi GBM catalog contains GRB parameters (peak energy, spectral indices,
+intensity) estimated fitting the gamma-ray SED of the total emission (fluence, flnc), and during
+the time of the peak flux pflx. Using contingency tables we studied the relationship of the models
+best fitting pflx and flnc time intervals. Our analysis revealed an ordering of the spectra into
+a power law - Comptonized - smoothly broken power law - Band series. This result was further supported
+by a correspondence analysis (CA) of the pflx and flnc spectra categorical variables. We performed
+a linear discriminant analysis (LDA) to find a relationship between categorical (spectral) and
+model independent physical data. LDA resulted in highly significant physical differences among
+the spectral types, that is more pronounced in the case of the pflx spectra, than for the flnc spectra.
+We interpreted this difference as caused by the temporal variation of the spectrum during the outburst.
+This spectral variability is confirmed by the differences in the low energy spectral index and peak
+energy, between the pflx and flnc spectra. We found that the synchrotron radiation is significant
+in GBM spectra. The mean low energy spectral index is close to the canonical value of {\alpha} = -2/3
+during the peak flux. However, $\alpha$ is ~ -0.9 for the spectra of the fluences. We interpret this
+difference as showing that the effect of cooling is important only for the fluence spectra. 

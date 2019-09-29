@@ -1,0 +1,16 @@
+Fano's inequality is one of the most elementary, ubiquitous and important tools in information
+theory. This study generalizes Fano's inequality in the following four ways: (i) the alphabet $\mathcal{X}$
+of the random variable $X$ to be estimated is \emph{countably infinite;} (ii) the probability distribution
+$P_{X}$ of $X$ is fixed to a given discrete probability distribution $Q$; (iii) the inequality is
+established for a general conditional information measure $\mathfrak{h}_{\phi}(X \mid Y)$;
+and (iv) the decoding rule is a list decoding scheme, in contrast to a unique decoding scheme. In other
+words, our main results concern tight upper bounds on $\mathfrak{h}_{\phi}(X \mid Y)$ subject
+to an admissible list decoding error probability and a fixed $\mathcal{X}$-marginal $P_{X} = Q$.
+Since $\mathfrak{h}_{\phi}(X \mid Y)$ admits the conditional Shannon and R\'{e}nyi's entropies
+as special cases, our Fano-type inequalities subsumes known generalizations of Fano's inequality.
+Moreover, since $\mathfrak{h}_{\phi}(X \mid Y)$ is a general definition without explicit form
+of a function $\phi$, our Fano-type inequalities also provide some insights on how to measure conditional
+information. As an application of our Fano-type inequalities, we investigate various asymptotic
+estimates on the equivocations under the condition that the error probability vanishes. Such asymptotic
+estimates are important consequences of Fano's inequality. Most interestingly, a consequence
+of our results is a novel characterization of the asymptotic equipartition property (AEP). 

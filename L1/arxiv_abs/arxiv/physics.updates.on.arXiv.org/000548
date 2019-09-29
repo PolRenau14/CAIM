@@ -1,0 +1,16 @@
+Ride-sharing on the daily home-work-home commute can help individuals save on gasoline and other
+car-related costs, while at the same time it can reduce traffic and pollution. This paper assesses
+the potential of ride-sharing for reducing traffic in a city, based on mobility data extracted from
+3G Call Description Records (CDRs, for the cities of Barcelona and Madrid) and from Online Social
+Networks (Twitter, collected for the cities of New York and Los Angeles). We first analyze these
+data sets to understand mobility patterns, home and work locations, and social ties between users.
+We then develop an efficient algorithm for matching users with similar mobility patterns, considering
+a range of constraints. The solution provides an upper bound to the potential reduction of cars in
+a city that can be achieved by ride-sharing. We use our framework to understand the different constraints
+and city characteristics on this potential benefit. For example, our study shows that traffic in
+the city of Madrid can be reduced by 59% if users are willing to share a ride with people who live and
+work within 1 km; if they can only accept a pick-up and drop-off delay up to 10 minutes, this potential
+benefit drops to 24%; if drivers also pick up passengers along the way, this number increases to 53%.
+If users are willing to ride only with people they know ("friends" in the CDR and OSN data sets), the
+potential of ride-sharing becomes negligible; if they are willing to ride with friends of friends,
+the potential reduction is up to 31%. 

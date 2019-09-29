@@ -1,0 +1,16 @@
+This chapter provides a comprehensive overview of the Bohmian formulation of quantum mechanics.
+It starts with a historical review of the difficulties found by Louis de Broglie, David Bohm, and
+John S. Bell to convince the scientific community about the validity and utility of Bohmian mechanics.
+Then, a formal explanation of Bohmian mechanics for nonrelativistic, single-particle quantum
+systems is presented. The generalization to many-particle systems, where the exchange interaction
+and the spin play an important role, is also presented. After that, the measurement process in Bohmian
+mechanics is discussed. It is emphasized that Bohmian mechanics exactly reproduces the mean value
+and temporal and spatial correlations obtained from the standard, that is the Copenhagen or orthodox,
+formulation. The ontological characteristics of Bohmian mechanics provide a description of measurements
+as another type of interaction without the need for introducing the wave function collapse. Several
+solved problems are presented at the end of the chapter, giving additional mathematical support
+to some particular issues. A detailed description of computational algorithms to obtain Bohmian
+trajectories from the numerical solution of the Schrodinger or the Hamilton-Jacobi equations
+are presented in an appendix. The motivation of this chapter is twofold: first, as a didactic introduction
+to Bohmian formalism, which is used in the subsequent chapters, and second, as a self-contained
+summary for any newcomer interested in using Bohmian mechanics in his or her daily research activity.

@@ -1,0 +1,16 @@
+The set cover problem is one of the most fundamental problems in computer science. We present the
+problem of online set cover with delay (SCD). A family of sets with costs and a universe of elements
+are known in advance. Requests then arrive over time on the elements, and each request accumulates
+delay cost until served by the algorithm through buying a containing set. A request can only be served
+by sets that are bought after the request's arrival, and thus a set may be bought an unbounded number
+of times over the course of the algorithm. This property sets SCD apart from previous considerations
+of set cover in the online setting, in which there are no delays, elements are covered immediately,
+and sets stay bought permanently. This allows SCD to describe an unbounded process, with an unlimited
+number of requests for any given universe. For the SCD problem, we show an $O(\log k\cdot\log n)$-competitive
+randomized algorithm, where $n$ is the number of elements and $k$ is the maximum number of sets containing
+any single element. We also show a lower bound of $\Omega(\sqrt{\log k})$ and $\Omega(\sqrt{\log
+n})$ on the competitiveness of any algorithm for SCD. For the special case of Vertex Cover with Delay
+(VCD), we show a simple $3$-competitive deterministic algorithm. The $O(\log k\cdot\log n)$-competitive
+algorithm is based on exponential weights combined with the max operator (in contrast to most algorithms
+employing exponential weights, which use summation). The lower bound is described by a recursive
+construction. 

@@ -1,0 +1,17 @@
+Cerium, in which the 4$f$ valence electrons live at the brink between localized and itinerant characters,
+exhibits varying crystal structures and therefore anomalous physical properties with respect
+to temperature and pressure. Understanding its electronic structure and related lattice properties
+is one of the central topics in condensed matter theory. In the present work, we employed the state-of-the-art
+first-principles many-body approach (i.e., the density functional theory in combination with
+the single-site dynamical mean-field theory) to study its electronic structure thoroughly. The
+momentum-resolved spectral functions, total and $4f$ partial density of states, optical conductivities,
+self-energy functions, and atomic eigenstate histograms for cerium's four allotropes under ambient
+pressure were calculated and analyzed carefully. The calculated results demonstrate that the
+4$f$ electrons in the $\alpha$, $\beta$, $\gamma$, and $\delta$ phases are all correlated with
+heavily remormalized electron masses. In the $\alpha$ phase, the 4$f$ electrons tend to be itinerant,
+which cause strong hybridization between the 4$f$ and $spd$ bands and remarkable 4$f$ valence state
+fluctuation. While for the other phases, the 4$f$ electrons are close to be localized. Our calculated
+results support the Kondo volume collapse scenario for the cerium $\alpha-\gamma$ transition.
+Finally, we examined the site dependence of $4f$ electronic structure in the $\beta$ phase. The
+calculated results suggest that it doesn't exhibit a site selective 4$f$ localized state, contrary
+to previous prediction. 

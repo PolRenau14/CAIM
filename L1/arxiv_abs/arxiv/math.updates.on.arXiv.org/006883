@@ -1,0 +1,15 @@
+In classical Ramsey theory for graphs we are given a graph $G$ and we are required to find the least
+$n_0$ such that, for any $n\geq n_0$, any red/blue colouring of the edges of $K_n$ gives a subgraph
+$G$ all of whose edges are blue or all are red. Here we shall be requiring that, for for any red/blue
+colouring of the edges of $K_n$, there must be a copy of $G$ such that its edges are partitioned equally
+as red or blue (or the sizes of the colour classes differs by one in the case when $G$ has an odd number
+of edges). This introduces the notion of balanceable graphs and the balance number of $G$ which,
+if it exists, is the minimum integer bal$(n, G)$ such that, for any red/blue colouring of $E(K_n)$
+with more than bal$(n, G)$ edges of either colour, $K_n$ will contain a balanced coloured copy of
+$G$ as described above. This parameter was introduced by Caro, Hansberg and Montejano in \cite{2018arXivCHM}.
+There, the authors also introduce the strong balance number sbal$(n,G)$ and the more general omnitonal
+number ot$(n, G)$ which requires copies of $G$ containing a complete distribution of the number
+of red and blue edges over $E(G)$. In this paper we shall catalogue bal$(n, G)$, sbal$(n, G)$ and ot$(n,G)$
+for all graphs $G$ on at most four edges. We shall be using some of the key results of Caro et al, which
+we here reproduce in full, as well as some new results which we prove here. For example, we shall prove
+that the union of two bipartite graphs with the same number of edges is always balanceable. 

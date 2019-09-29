@@ -1,0 +1,16 @@
+We present a suite of 18 synthetic sky catalogs designed to support science analysis of galaxies
+in the Dark Energy Survey Year 1 (DES Y1) data. For each catalog, we use a computationally efficient
+empirical approach, ADDGALS, to embed galaxies within light-cone outputs of three dark matter
+simulations that resolve halos with masses above ~5x10^12 h^-1 m_sun at z <= 0.32 and 10^13 h^-1 m_sun
+at z~2. The embedding method is tuned to match the observed evolution of galaxy counts at different
+luminosities as well as the spatial clustering of the galaxy population. Galaxies are lensed by
+matter along the line of sight --- including magnification, shear, and multiple images --- using
+CALCLENS, an algorithm that calculates shear with 0.42 arcmin resolution at galaxy positions in
+the full catalog. The catalogs presented here, each with the same LCDM cosmology (denoted Buzzard),
+contain on average 820 million galaxies over an area of 1120 square degrees with positions, magnitudes,
+shapes, photometric errors, and photometric redshift estimates. We show that the weak-lensing
+shear catalog, redMaGiC galaxy catalogs and redMaPPer cluster catalogs provide plausible realizations
+of the same catalogs in the DES Y1 data by comparing their magnitude, color and redshift distributions,
+angular clustering, and mass-observable relations, making them useful for testing analyses that
+use these samples. We make public the galaxy samples appropriate for the DES Y1 data, as well as the
+data vectors used for cosmology analyses on these simulations. 

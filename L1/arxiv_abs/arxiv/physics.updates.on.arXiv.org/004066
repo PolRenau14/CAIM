@@ -1,0 +1,16 @@
+In liquid spray applications, the sprays are often created by the formation and destabilization
+of a liquid sheet or jet. The disadvantage of such atomization processes is that the breakup is often
+highly irregular, causing a broad distribution of droplet sizes. As these sizes are controlled
+by the ligament corrugation and size, a monodisperse spray should consist of ligaments that are
+both smooth and of equal size. A straightforward way of creating smooth and equally sized ligaments
+is by droplet impact on a mesh. In this work we show that this approach does however not produce monodisperse
+droplets, but instead the droplet size distribution is very broad, with a large number of small satellite
+drops. We demonstrate that the fragmentation is controlled by a jet instability, where initial
+perturbations caused by the injection process result in long-wavelength disturbances that determine
+the final ligament breakup. During destabilization the crests of these disturbances are connected
+by thin ligaments which are the leading cause of the large number of small droplets. A secondary coalescence
+process, due to small relative velocities between droplets, partly masks this effect by reducing
+the amount of small droplets. Of the many parameters in this system, we describe the effect of varying
+the mesh size, mesh rigidity, impact velocity, wetting properties, keeping the liquid properties
+the same by focusing on water droplets only. We further perform Lattice Boltzmann modeling of the
+impact process that reproduces key features seen in the experimental data. 

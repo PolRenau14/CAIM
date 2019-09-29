@@ -1,0 +1,15 @@
+The real Jacobi group $G^J_1(\mathbb{R})$, defined as the semidirect product of the group $\rm{SL}(2,\mathbb{R})$
+with the Heisenberg group $H_1$, is embedded in the $4\times 4$ matrix realisation of the group $\text{Sp}(2,\mathbb{R})$.
+The left-invariant one-forms on $G^J_1(\mathbb{R})$ and their dual orthogonal left-invariant
+vector fields are calculated in the S-coordinates $(x,y,\theta,p,q,\kappa)$, and the left-invariant
+metric is obtained. The Heisenberg group $H_1$ and $\text{Sp}(2,\mathbb{R})$ are considered
+as subgroups of $\text{SL}(2,\mathbb{R})$. An invariant metric in the variables $(x,y,\theta)$
+on the Sasaki manifold $\text{SL}(2,\mathbb{R})$ is presented. The well known K\"ahler balanced
+metric in the variables $(x,y,p,q)$ of the four-dimensional Siegel-Jacobi upper half-plane $\mathcal{X}^J_1=\frac{G^J_1(\mathbb{R})}{\text{SO}(2)\times\mathbb{R}}\approx
+\mathcal{X}_1\times\mathbb{R}^2$ is written down as sum of the squares of four invariant one-forms,
+where the Siegel upper half-plane $\mathcal{X}_1$ is realized as $\mathbb{C}\ni \tau:= x + i y,
+y>0$. A five-dimensional manifold, called extended Siegel-Jacobi upper half-plane $\tilde{\mathcal{X}}^J_1=\frac{G^J_1(\mathbb{R})}{\text{SO}(2)}\approx\mathcal{X}_1\times\mathbb{R}^3$,
+is considered, and its left-invariant metric in the variables $(x,y,p,q,\kappa)$ is determined.
+As a bi-product, we directly prove that the Siegel-Jacobi upper half-plane $\mathcal{X}^J_1$
+is not a naturally reductive space with respect to the balanced metric, but we underline that it is
+naturally reductive in the coordinates furnished by the FC-transform. 

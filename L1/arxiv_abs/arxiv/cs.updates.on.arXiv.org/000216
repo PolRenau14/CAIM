@@ -1,0 +1,16 @@
+Transactional memory allows the user to declare sequences of instructions as speculative \emph{transactions}
+that can either \emph{commit} or \emph{abort}. If a transaction commits, it appears to be executed
+sequentially, so that the committed transactions constitute a correct sequential execution.
+If a transaction aborts, none of its instructions can affect other transactions. The popular criterion
+of \emph{opacity} requires that the views of aborted transactions must also be consistent with
+the global sequential order constituted by committed ones. This is believed to be important, since
+inconsistencies observed by an aborted transaction may cause a fatal irrecoverable error or waste
+of the system in an infinite loop. Intuitively, an opaque implementation must ensure that no intermediate
+view a transaction obtains before it commits or aborts can be affected by a transaction that has not
+started committing yet, so called \emph{deferred-update} semantics. In this paper, we intend
+to grasp this intuition formally. We propose a variant of opacity that explicitly requires the sequential
+order to respect the deferred-update semantics. %We show that our criterion is a safety property,
+i.e., it is prefix- %and limit-closed. Unlike opacity, our property also ensures that a serialization
+of a history implies serializations of its prefixes. Finally, we show that our property is equivalent
+to opacity if we assume that no two transactions commit identical values on the same variable, and
+present a counter-example for scenarios when the "unique-write" assumption does not hold. 

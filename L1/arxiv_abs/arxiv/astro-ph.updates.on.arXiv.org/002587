@@ -1,0 +1,16 @@
+Galactic interstellar extinction maps are powerful and necessary tools for Milky Way structure
+and stellar population analyses, particularly toward the heavily-reddened bulge and in the midplane.
+However, due to the difficulty of obtaining reliable extinction measures and distances for a large
+number of stars that are independent of these maps, tests of their accuracy and systematics have
+been limited. Our goal is to assess a variety of photometric stellar extinction estimates, including
+both 2D and 3D extinction maps, using independent extinction measures based on a large spectroscopic
+sample of stars towards the Milky Way bulge. We employ stellar atmospheric parameters derived from
+high-resolution $H$-band APOGEE spectra, combined with theoretical stellar isochrones, to calculate
+line-of-sight extinction and distances for a sample of more than 2400 giants towards the Milky Way
+bulge. We compare these extinction values to those predicted by individual near-IR and near+mid-IR
+stellar colors, 2D bulge extinction maps and 3D extinction maps. The long baseline, near+mid-IR
+stellar colors are, on average, the most accurate predictors of the APOGEE extinction estimates,
+and the 2D and 3D extinction maps derived from different stellar populations along different sightlines
+show varying degrees of reliability. We present the results of all of the comparisons and discuss
+reasons for the observed discrepancies. We also demonstrate how the particular stellar atmospheric
+models adopted can have a strong impact on this type of analysis, and discuss related caveats. 

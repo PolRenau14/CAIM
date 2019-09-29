@@ -1,0 +1,16 @@
+In this article, we review the recent progress in the study of topological phases in systems with
+space-time inversion symmetry $I_{\text{ST}}$. $I_{\text{ST}}$ is an anti-unitary symmetry
+which is local in momentum space and satisfies $I_{\text{ST}}^2=1$ such as $PT$ or $C_{2}T$ symmetry
+where $P$, $T$, $C_2$ indicate inversion, time-reversal, and two-fold rotation symmetries, respectively.
+Under $I_{\text{ST}}$, the Hamiltonian and the Bloch wave function can be constrained to be real-valued,
+which makes the Berry curvature and the Chern number to vanish. In this class of systems, gapped band
+structures of real wave functions can be topologically distinguished by Stiefel-Whitney numbers
+instead. The first and second Stiefel-Whitney numbers $w_1$ and $w_2$, respectively, are the corresponding
+invariants in 1D and 2D, which are equivalent to the quantized Berry phase and the $Z_2$ monopole
+charge, respectively. We first describe the topological phases characterized by the first Stiefel-Whitney
+number, including 1D topological insulators with quantized charge polarization, 2D Dirac semimetals,
+and 3D nodal line semimetals. Next we review how the second Stiefel-Whitney class characterizes
+the 3D nodal line semimetals carrying a $Z_{2}$ monopole charge. In particular, we explain how the
+second Stiefel-Whitney number $w_2$, the $Z_{2}$ monopole charge, and the linking number between
+nodal lines are related. Finally, we review the properties of 2D and 3D topological insulators characterized
+by the nontrivial second Stiefel Whitney class. 

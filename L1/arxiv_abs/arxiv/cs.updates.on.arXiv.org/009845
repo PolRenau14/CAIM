@@ -1,0 +1,17 @@
+Information coding by precise timing of spikes can be faster and more energy-efficient than traditional
+rate coding. However, spike-timing codes are often brittle, which has limited their use in theoretical
+neuroscience and computing applications. Here, we propose a novel type of attractor neural network
+in complex state space, and show how it can be leveraged to construct spiking neural networks with
+robust computational properties through a phase-to-timing mapping. Building on Hebbian neural
+associative memories, like Hopfield networks, we first propose threshold phasor associative
+memory (TPAM) networks. Complex phasor patterns whose components can assume continuous-valued
+phase angles and binary magnitudes can be stored and retrieved as stable fixed points in the network
+dynamics. TPAM achieves high memory capacity when storing sparse phasor patterns, and we derive
+the energy function that governs its fixed point attractor dynamics. Second, through simulation
+experiments we show how the complex algebraic computations in TPAM can be approximated by a biologically
+plausible network of integrate-and-fire neurons with synaptic delays and recurrently connected
+inhibitory interneurons. The fixed points of TPAM in the complex domain are commensurate with stable
+periodic states of precisely timed spiking activity that are robust to perturbation. The link established
+between rhythmic firing patterns and complex attractor dynamics has implications for the interpretation
+of spike patterns seen in neuroscience, and can serve as a framework for computation in emerging
+neuromorphic devices. 

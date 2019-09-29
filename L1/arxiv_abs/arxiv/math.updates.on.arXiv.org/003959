@@ -1,0 +1,17 @@
+Quantum embedding theories are playing an increasingly important role in bridging different levels
+of approximation to the many body Schr\"odinger equation in physics, chemistry and materials science.
+In this paper, we present a linear algebra perspective of the recently developed projection based
+embedding theory (PET) [Manby et al, J. Chem. Theory Comput. 8, 2564, 2012], restricted to the context
+of Kohn-Sham density functional theory. By partitioning the global degrees of freedom into a `system'
+part and a `bath' part, and by choosing a proper projector from the bath, PET is an in principle exact
+formulation to confine the calculation to the system part only, and hence can be carried out with
+reduced computational cost. Viewed from the perspective of the domain decomposition method, one
+particularly interesting feature of PET is that it does not enforce a boundary condition explicitly,
+and remains applicable even when the discretized Hamiltonian matrix is dense, such as in the context
+of the planewave discretization. In practice, the accuracy of PET depends on the accuracy of the
+projector for the bath. Based on the linear algebra reformulation, we develop a first order perturbation
+correction to the projector from the bath to improve its accuracy. Numerical results for real chemical
+systems indicate that with a proper choice of reference system, the perturbatively corrected PET
+can be sufficiently accurate even when strong perturbation is applied to very small systems, such
+as the computation of the ground state energy of a SiH$_3$F molecule, using a SiH$_4$ molecule as
+the reference system. 

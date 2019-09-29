@@ -1,0 +1,17 @@
+Let $p$ be an idempotent ultrafilter over $\mathbb{N}$. For a positive integer $N$, let ${\cal P}_{\leq
+N}$ denote the additive group of polynomials $P\in\mathbb{Z}[x]$ with ${\rm deg}\, P\leq N$ and
+$P(0)=0$. Given a unitary operator $U$ on a Hilbert space ${\cal H}$, we prove, for each $N\geq1$,
+the existence of a unique decomposition ${\cal H}=\bigoplus_{r\geq 1}{\cal H}^{(N)}_r$ into
+closed, $U$-invariant subspaces such that (a) for any polynomial $P\in{\cal P}_{\leq N}$, we have
+$$ p\, \text{-}\!\lim_{n\in\mathbb{N}} \left(U|_{{\cal H}_r^{(N)}}\right)^{P(n)}=0_{{\cal
+H}_r^{(N)}}\;\mbox{or}\; Id_{{\cal H}_r^{(N)}},\; \mbox{for each}\; r\geq1 ; $$ (b) for each
+$r\neq s$ there exists $Q\in{\cal P}_{\leq N}$ such that $$ p\,\text{-}\!\lim_{n\in\mathbb{N}}
+\left(U|_{{\cal H}_r^{(N)}}\right)^{Q(n)}\neq p\,\text{-}\!\lim_{n\in\mathbb{N}} \left(U|_{{\cal
+H}_s^{(N)}}\right)^{Q(n)}. $$ In connection with this result we introduce the notion of rigidity
+group. Namely, a subgroup $G\subset {\cal P}_{\leq N}$ is called an $N$-rigidity group if there
+exist an idempotent ultrafilter $p$ over $\mathbb{N}$ and a unitary operator $U$ on a Hilbert space
+$\cal H$ such that $$\label{ab1} G=\{P\in{\cal P}_{\leq N}:\: p\,\text{-}\!\lim_{n\in\mathbb{N}}
+U ^{P(n)}=Id\}$$ and $p\,\text{-}\!\lim_{n\in\mathbb{N}} U ^{Q(n)}=0\;\;\mbox{for each}\;\;Q\in{\cal
+P}_{\leq N}\setminus G.$ The main result of the paper states that a subgroup $G\subset {\cal P}_{\leq
+N}$ satisfying $\max\{{\rm deg}\, P:\:P\in G\}=N$ is an $N$-rigidity group if and only if $G$ has
+finite index in ${\cal P}_{\leq N}$. 

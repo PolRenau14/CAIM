@@ -1,0 +1,17 @@
+Magnetic quadrupoles are essential components of particle accelerators like the Large Hadron
+Collider. In order to study numerically the stability of the particle beam crossing a quadrupole,
+a large number of particle revolutions in the accelerator must be simulated, thus leading to the
+necessity to preserve numerically invariants of motion over a long time interval and to a substantial
+computational cost, mostly related to the repeated evaluation of the magnetic vector potential.
+In this paper, in order to reduce this cost, we first consider a specific gauge transformation that
+allows to reduce significantly the number of vector potential evaluations. We then analyze the
+sensitivity of the numerical solution to the interpolation procedure required to compute magnetic
+vector potential data from gridded precomputed values at the locations required by high order time
+integration methods. Finally, we compare several high order integration techniques, in order
+to assess their accuracy and efficiency for these long term simulations. Explicit high order Lie
+methods are considered, along with implicit high order symplectic integrators and conventional
+explicit Runge Kutta methods. Among symplectic methods, high order Lie integrators yield optimal
+results in terms of cost/accuracy ratios, but non symplectic Runge Kutta methods perform remarkably
+well even in very long term simulations. Furthermore, the accuracy of the field reconstruction
+and interpolation techniques are shown to be limiting factors for the accuracy of the particle tracking
+procedures. 

@@ -1,0 +1,16 @@
+We consider wireless device-to-device (D2D) caching networks with single-hop transmissions.
+Previous work has demonstrated that caching and coded multicasting can significantly increase
+per user throughput. However, the state-of-the-art coded caching schemes for D2D networks are
+generally impractical because content files are partitioned into an exponential number of packets
+with respect to the number of users if both library and memory sizes are fixed. In this paper, we present
+two novel combinatorial approaches to coded caching design in D2D networks with the goal of reducing
+the required packetization while keeping the desired throughput gain compared to the conventional
+uncoded unicasting. The first proposed approach is based on a novel "hypercube" design, where each
+user caches a "hyperplane" in this hypercube and the intersections of "hyperplanes" lead to coded
+multicasting codewords. In addition, we also extend this centralized scheme to a decentralized
+design. The second approach uses the Ruzsa-Szemeredi graph to define the cache placement and disjoint
+matchings on this graph represent coded multicasting opportunities. Both approaches yield an
+exponential reduction of packetizations with respect to the number of users while providing a per-user
+throughput that is comparable to the state-of-the-art designs in the literature. Furthermore,
+by using the spatial reuse in D2D networks, besides further reducing the required packetizations,
+we demonstrate that the per user throughput can be improved significantly for some parameter regimes.

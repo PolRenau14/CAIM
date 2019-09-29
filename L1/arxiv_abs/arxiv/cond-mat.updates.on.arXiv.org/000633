@@ -1,0 +1,17 @@
+We examine a two-dimensional system of sterically repulsive interacting disks where each particle
+runs in a random direction. This system is equivalent to a run-and-tumble dynamics system in the
+limit where the run time is infinite. At low densities, we find a strongly fluctuating state composed
+of transient clusters. Above a critical density that is well below the density at which non-active
+particles would crystallize, the system can organize into a drifting quiescent or frozen state
+where the fluctuations are lost and large crystallites form surrounded by a small density of individual
+particles. Although all the particles are still moving, their paths form closed orbits. The average
+transient time to organize into the quiescent state diverges as a power law upon approaching the
+critical density from above. We compare our results to the random organization observed for periodically
+sheared systems that can undergo an absorbing transition from a fluctuating state to a dynamical
+non-fluctuating state. In the random organization studies, the system organizes to a state in which
+the particles no longer interact; in contrast, we find that the randomly running active matter organizes
+to a strongly interacting dynamically jammed state. We show that the transition to the frozen state
+is robust against a certain range of stochastic fluctuations. We also examine the effects of adding
+a small number of pinned particles to the system and find that the transition to the frozen state shifts
+to significantly lower densities and arises via the nucleation of faceted crystals centered at
+the obstacles. 

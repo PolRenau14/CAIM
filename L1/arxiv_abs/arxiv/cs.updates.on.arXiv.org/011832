@@ -1,0 +1,16 @@
+Skyline, aiming at finding a Pareto optimal subset of points in a multi-dimensional dataset, has
+gained great interest due to its extensive use for multi-criteria analysis and decision making.
+The skyline consists of all points that are not dominated by any other points. It is a candidate set
+of the optimal solution, which depends on a specific evaluation criterion for optimum. However,
+conventional skyline queries, which return individual points, are inadequate in group querying
+case since optimal combinations are required. To address this gap, we study the skyline computation
+in the group level and propose efficient methods to find the Group-based skyline (G-skyline). For
+computing the front $l$ skyline layers, we lay out an efficient approach that does the search concurrently
+on each dimension and investigates each point in the subspace. After that, we present a novel structure
+to construct the G-skyline with a queue of combinations of the first-layer points. We further demonstrate
+that the G-skyline is a complete candidate set of top-$l$ solutions, which is the main superiority
+over previous group-based skyline definitions. However, as G-skyline is complete, it contains
+a large number of groups which can make it impractical. To represent the "contour" of the G-skyline,
+we define the Representative G-skyline (RG-skyline). Then, we propose a Group-based clustering
+(G-clustering) algorithm to find out RG-skyline groups. Experimental results show that our algorithms
+are several orders of magnitude faster than the previous work. 

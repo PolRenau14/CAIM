@@ -1,0 +1,16 @@
+We evaluate the effect of the recombination associated with interlayer transitions in ungated
+and gated double-graphene-layer (GL) structures on the injection of electrons and holes. Using
+the proposed model, we derive analytical expressions for the spatial distributions of the electron
+and hole Fermi energies and the energy gap between the Dirac points in GLs as well as their dependences
+on the bias and gate voltages. The current-voltage characteristics are calculated as well. % The
+model is based on hydrodynamic equations for the electron and hole transport in GLs under the self-consistent
+electric field. It is shown that in undoped double-GL structures with weak scattering of electrons
+and holes on disorder, the Fermi energies and the energy gap are virtually constant across the main
+portions of GLs, although their values strongly depend on the voltages and recombination parameters.
+In contrast, the electron and hole scattering on disorder lead to substantial nonuniformities.
+The resonant inter-GL tunneling enables N-shaped current-voltage characteristics provided
+that GLs are sufficiently short. The width of the current maxima is much larger than the broadening
+of the tunneling resonance. In the double-GL structures with relatively long GLs the N-shaped characteristics
+transform into the Z-shaped characteristics. % The obtained results are in line with the experimental
+observations \cite{1} and might be useful for design and optimization of different devices based
+on double-GL structures, including field-effect transistors and terahertz lasers. 

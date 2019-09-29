@@ -1,0 +1,17 @@
+In this paper, we revisit the Minimum Enclosing Ball (MEB) problem and its robust version, MEB with
+outliers, in Euclidean space $\mathbb{R}^d$. Though the problem has been extensively studied
+before, most of the existing algorithms need at least linear time (in the number of input points $n$
+and the dimensionality $d$) to achieve a $(1+\epsilon)$-approximation. Motivated by some recent
+developments on beyond worst-case analysis, we introduce the notion of stability for MEB (with
+outliers), which is natural and easy to understand. Under the stability assumption, we present
+two sampling algorithms for computing approximate MEB with sample complexities independent of
+the number of input points; further, we achieve the first sub-linear time single-criterion approximation
+algorithm for the MEB with outliers problem. Our result can be viewed as a new step along the direction
+of beyond worst-case analysis. We also show that our ideas can be extended to be more general techniques,
+a novel uniform-adaptive sampling method and a sandwich lemma, for solving the general case of MEB
+with outliers ({\em i.e.,} without the stability assumption) and the problem of $k$-center clustering
+with outliers. We achieve sub-linear time bi-criteria approximation algorithms for these problems
+respectively; the algorithms have sample sizes independent of the number of points $n$ and the dimensionality
+$d$, which significantly improve the time complexities of existing algorithms. We expect that
+our technique will be applicable to design sub-linear time algorithms for other shape fitting with
+outliers problems. 

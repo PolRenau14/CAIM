@@ -1,0 +1,16 @@
+The weighted Bergman spaces on the polydisc, $\mathbb A^{(\lambda)}(\mathbb D^n)$, $\lambda>1,$
+splits into orthogonal direct sum of subspaces $\mathbb P_{\boldsymbol p}\big(\mathbb A^{(\lambda)}(\mathbb
+D^n)\big)$ indexed by the partitions $\boldsymbol p$ of $n,$ or equivalently, the equivalence
+classes of the irreducible representations of the symmetric group on $n$ symbols. In this paper,
+we prove that each sub-module $\mathbb P_{\boldsymbol p}\big(\mathbb A^{(\lambda)}(\mathbb
+D^n)\big)$ is a locally free Hilbert module of rank equal to square of the dimension $\chi_{\boldsymbol
+p}(1)$ of the corresponding irreducible representation. We obtain a realization of these sub-modules
+as a Hilbert space of holomorphic functions on the symmetrized polydisc $\mathbb G_n$. It is shown
+that given two partitions $\boldsymbol p$ and $\boldsymbol q$, if $\chi_{\boldsymbol p}(1) \ne
+\chi_{\boldsymbol q}(1),$ then the sub-modules $\mathbb P_{\boldsymbol p}\big (\mathbb A^{(\lambda)}(\mathbb
+D^n)\big )$ and $\mathbb P_{\boldsymbol q}\big (\mathbb A^{(\lambda)}(\mathbb D^n)\big )$ are
+not equivalent. We prove that for the trivial and the sign representation corresponding to the partitions
+$\boldsymbol p = (n)$ and $\boldsymbol p = (1,\ldots,1)$, respectively, the sub-modules $\mathbb
+P_{(n)}\big(\mathbb A^{(\lambda)}(\mathbb D^n)\big)$ and $\mathbb P_{(1,\ldots,1)}\big(\mathbb
+A^{(\lambda)}(\mathbb D^n)\big)$ are inequivalent. In particular, for $n=3$, we show that all
+the sub-modules in this decomposition are inequivalent. 

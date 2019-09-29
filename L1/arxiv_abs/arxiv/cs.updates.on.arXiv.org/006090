@@ -1,0 +1,17 @@
+Inspired by the numerous social and economic benefits of diversity, we analyze over 9 million papers
+and 6 million scientists spanning 24 fields of study, to understand the relationship between research
+impact and five types of diversity, reflecting (i) ethnicity, (ii) discipline, (iii) gender, (iv)
+affiliation and (v) academic age. For each type, we study group diversity (i.e., the heterogeneity
+of a paper's set of authors) and individual diversity (i.e., the heterogeneity of a scientist's
+entire set of collaborators). Remarkably, of all the types considered, we find that ethnic diversity
+is the strongest predictor of a field's scientific impact (r is 0.77 and 0.55 for group and individual
+ethnic diversity, respectively). Moreover, to isolate the effect of ethnic diversity from other
+confounding factors, we analyze a baseline model in which author ethnicities are randomized while
+preserving all other characteristics. We find that the relationship between ethnic diversity
+and impact is stronger in the empirical data compared to the randomized baseline model, regardless
+of publication year, number of authors per paper, and number of collaborators per scientist. Finally,
+we use coarsened exact matching to infer causality, whereby the scientific impact of ethnically
+diverse papers and scientists are compared with closely-matched control groups. Impact gains
+of 11.64% and 55.45% were observed between the top and bottom 10% group and individual diversities,
+respectively. This provides further evidence that ethnic diversity leads to higher scientific
+impact. 

@@ -1,0 +1,16 @@
+Human populations exhibit complex behaviors---characterized by long-range correlations and
+surges in activity---across a range of social, political, and technological contexts. Yet it remains
+unclear where these collective behaviors come from, or if there even exists a set of unifying principles.
+Indeed, existing explanations typically rely on context-specific mechanisms, such as traffic
+jams driven by work schedules or spikes in online traffic induced by significant events. However,
+analogies with statistical mechanics suggest a more general mechanism: that collective patterns
+can emerge organically from fine-scale interactions within a population. Here, across four different
+modes of human activity, we show that the simplest correlations in a population---those between
+pairs of individuals---can yield accurate quantitative predictions for the large-scale behavior
+of the entire population. To quantify the minimal consequences of pairwise correlations, we employ
+the principle of maximum entropy, making our description equivalent to an Ising model whose interactions
+and external fields are notably calculated from past observations of population activity. In addition
+to providing accurate quantitative predictions, we show that the topology of learned Ising interactions
+resembles the network of inter-human communication within a population. Together, these results
+demonstrate that fine-scale correlations can be used to predict large-scale social behaviors,
+a perspective that has critical implications for modeling and resource allocation in human populations.

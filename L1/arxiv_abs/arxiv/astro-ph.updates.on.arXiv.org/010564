@@ -1,0 +1,16 @@
+We develop a model of Bose-Einstein condensate dark matter halos with a solitonic core and an isothermal
+atmosphere based on a generalized Gross-Pitaevskii-Poisson equation [P.H. Chavanis, Eur. Phys.
+J. Plus 132, 248 (2017)]. This equation provides a heuristic coarse-grained parametrization of
+the ordinary Gross-Pitaevskii-Poisson equation accounting for violent relaxation and gravitational
+cooling. It involves a cubic nonlinearity taking into account the self-interaction of the bosons,
+a logarithmic nonlinearity associated with an effective temperature, and a source of dissipation.
+It leads to superfluid dark matter halos with a core-halo structure. The quantum potential or the
+self-interaction of the bosons generates a solitonic core that solves the cusp problem of the cold
+dark matter model. The logarithmic nonlinearity generates an isothermal atmosphere accounting
+for the flat rotation curves of the galaxies. The dissipation ensures that the system relaxes towards
+an equilibrium configuration. In the Thomas-Fermi approximation, the dark matter halo is equivalent
+to a barotropic gas with an equation of state $P=2\pi a_s\hbar^2\rho^2/m^3+\rho k_B T/m$, where
+$a_s$ is the scattering length of the bosons and $m$ is their individual mass. We numerically solve
+the equation of hydrostatic equilibrium and determine the corresponding density profiles and
+rotation curves. Our model has no free parameter so it is completely predictive. Extension of this
+model to noninteracting bosons and fermions will be presented in forthcoming papers. 

@@ -1,0 +1,16 @@
+A passive local eavesdropper can leverage Website Fingerprinting (WF) to deanonymize the web browsing
+activity of Tor users. The value of timing information to WF has often been discounted in recent works
+due to the volatility of low-level timing information. In this paper, we more carefully examine
+the extent to which packet timing can be used to facilitate WF attacks. We propose a new set of timing-related
+features based on burst-level characteristics, as well as evaluate the effectiveness of raw timing
+information in a deep-learning-based WF attack. To summarize our findings: (i) we achieve 84.32%
+accuracy on undefended Tor using only our new timing features; (ii) using directional timing, we
+get 93.5% on WTF-PAD traffic, several points above the prior state-of-the-art; (iii) we get 66.70%
+accuracy against onion sites using only timing data, higher than using only directional data; and
+(iv) we get 0.98 precision and 0.92 recall on undefended Tor in the open-world setting using only
+raw timing. These findings indicate that developers of WF defenses need to consider timing as a potential
+fingerprint for sites and protect against its use by the attacker. Additionally, in our study of
+timing, we implemented a prototype of the Walkie-Talkie (W-T) defense and collected a new W-T dataset,
+on which we get accuracy results above 90%, far above the theoretical maximum accuracy for the defense
+of 50%. We discuss the reasons for these findings and challenges in Walkie-Talkie that must be addressed
+before it could be deployed. 

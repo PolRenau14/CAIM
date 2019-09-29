@@ -1,0 +1,16 @@
+We have modelled the multicycle evolution of rapidly-accreting CO white dwarfs (RAWDs) with stable
+H burning intermittent with strong He-shell flashes on their surfaces for $0.7\leq M_\mathrm{RAWD}/M_\odot\leq
+0.75$ and [Fe/H] ranging from $0$ to $-2.6$. We have also computed the i-process nucleosynthesis
+yields for these models. The i process occurs when convection driven by the He-shell flash ingests
+protons from the accreted H-rich surface layer, which results in maximum neutron densities $N_\mathrm{n,max}\approx
+10^{13}$-$10^{15}\ \mathrm{cm}^{-3}$. The H-ingestion rate and the convective boundary mixing
+(CBM) parameter $f_\mathrm{top}$ adopted in the one-dimensional nucleosynthesis and stellar
+evolution models are constrained through 3D hydrodynamic simulations. The mass ingestion rate
+and, for the first time, the scaling laws for the CBM parameter $f_\mathrm{top}$ have been determined
+from 3D hydrodynamic simulations. We confirm our previous result that the high-metallicity RAWDs
+have a low mass retention efficiency ($\eta < 10\%$). A new result is that RAWDs with [Fe/H]$< -2$
+have $\eta > 20\%$, therefore their masses may reach the Chandrasekhar limit and they may eventually
+explode as SNeIa. This result and the good fits of the i-process yields from the metal-poor RAWDs
+to the observed chemical composition of the CEMP-r/s stars suggest that some of the present-day
+CEMP-r/s stars could be former distant members of triple systems, orbiting close binary systems
+with RAWDs that may have later exploded as SNeIa. 

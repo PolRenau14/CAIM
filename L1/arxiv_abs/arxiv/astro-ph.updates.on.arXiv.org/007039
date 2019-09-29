@@ -1,0 +1,17 @@
+The failed supernova, N6946-BH1, likely formed a black hole (BH); we age-date the surrounding population
+and infer an age and initial mass for the progenitor of this BH-formation candidate. First, we use
+archival {\it Hubble Space Telescope} imaging to extract broadband photometry of the resolved
+stellar populations surrounding this event. Using this photometry, we fit stellar evolution models
+to the color-magnitude diagrams to measure the recent star formation history (SFH). Modeling the
+photometry requires an accurate distance; therefore, we measure the tip of the red-giant branch
+(TRGB) and infer a distance modulus of $29.47 \pm 0.079$ to NGC 6946 or a metric distance of $7.83 \pm
+0.29$ Mpc. To estimate the stellar population's age, we convert the SFH and uncertainties into a
+probabilistic distribution for the progenitor's age. The region in the immediate vicinity of N6946-BH1
+exhibits the youngest and most vigorous star formation for several hundred parsecs. This suggests
+that the progenitor is not a run-away star. From these measurements, we infer an age for the black
+hole progenitor of $10.6^{+14.4}_{-6.1}$ Myr. Assuming that the progenitor evolved effectively
+as a single star, this corresponds to an initial mass of $17.9^{+33.8}_{-7.6}$ M$_{\odot}$. Previous
+spectral-energy-distribution (SED) modeling of the progenitor suggests a mass of $\sim$27 M$_{\odot}$.
+Formally, the SED-derived mass falls within our narrowest 68\% confidence interval; however,
+89\% of the PDF we measure lies below that mass, putting some tension between the age and the direct
+imaging results. 

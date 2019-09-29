@@ -1,0 +1,16 @@
+In many online machine learning and data science tasks such as data summarisation and feature compression,
+$d$-dimensional vectors are usually distributed across a large number of clients in a decentralised
+network and collected in a streaming fashion. This is increasingly common in modern applications
+due to the sheer volume of data generated and the clients' constrained resources. In this setting,
+some clients are required to compute an update to a centralised target model independently using
+local data while other clients aggregate these updates with a low-complexity merging algorithm.
+However, some clients with limited storage might not be able to store all of the data samples if $d$
+is large, nor compute procedures requiring at least $\Omega(d^2)$ storage-complexity such as
+Principal Component Analysis, Subspace Tracking, or general Feature Correlation. In this work,
+we present a novel federated algorithm for PCA that is able to adaptively estimate the rank $r$ of
+the dataset and compute its $r$ leading principal components when only $O(dr)$ memory is available.
+This inherent adaptability implies that $r$ does not have to be supplied as a fixed hyper-parameter
+which is beneficial when the underlying data distribution is not known in advance, such as in a streaming
+setting. Numerical simulations show that, while using limited-memory, our algorithm exhibits
+state-of-the-art performance that closely matches or outperforms traditional non-federated
+algorithms, and in the absence of communication latency, it exhibits attractive horizontal scalability.

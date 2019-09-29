@@ -1,0 +1,16 @@
+The spatio-temporal graph learning is becoming an increasingly important object of graph study.
+Many application domains involve highly dynamic graphs where temporal information is crucial,
+e.g. traffic networks and financial transaction graphs. Despite the constant progress made on
+learning structured data, there is still a lack of effective means to extract dynamic complex features
+from spatio-temporal structures. Particularly, conventional models such as convolutional networks
+or recurrent neural networks are incapable of revealing the temporal patterns in short or long terms
+and exploring the spatial properties in local or global scope from spatio-temporal graphs simultaneously.
+To tackle this problem, we design a novel multi-scale architecture, Spatio-Temporal U-Net (ST-UNet),
+for graph-structured time series modeling. In this U-shaped network, a paired sampling operation
+is proposed in spacetime domain accordingly: the pooling (ST-Pool) coarsens the input graph in
+spatial from its deterministic partition while abstracts multi-resolution temporal dependencies
+through dilated recurrent skip connections; based on previous settings in the downsampling, the
+unpooling (ST-Unpool) restores the original structure of spatio-temporal graphs and resumes
+regular intervals within graph sequences. Experiments on spatio-temporal prediction tasks demonstrate
+that our model effectively captures comprehensive features in multiple scales and achieves substantial
+improvements over mainstream methods on several real-world datasets. 

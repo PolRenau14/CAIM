@@ -1,0 +1,17 @@
+We present the first systematic study on how distant weak interactions impact the dynamical evolution
+of merging binary black holes (BBHs) in dense stellar clusters. Recent studies indicate that dense
+clusters are likely to significantly contribute to the rate of merging BBHs observable through
+gravitational waves (GWs), and that many of these mergers will appear with notable eccentricities
+measurable in the LISA and LIGO sensitivity bands. This is highly interesting, as eccentricity
+can be used to distinguish between different astrophysical merger channels. However, all of these
+recent studies are based on various Monte Carlo (MC) techniques that only include strong interactions
+for the dynamical evolution of BBHs, whereas any binary generally undergoes orders-of-magnitude
+more weak interactions than strong. It is well known that weak interactions primarily lead to a change
+in the binary's eccentricity, which for BBHs implies that weak interactions can change their GW
+inspiral time and thereby their merger probability. With this motivation, we perform MC simulations
+of BBHs evolving in dense clusters under the influence of both weak and strong interactions. We find
+that including weak interactions leads to a notable increase in the number of BBHs that merge inside
+their cluster, which correspondingly leads to a higher number of eccentric LISA sources. These
+preliminary results illustrate the importance of including weak interactions for accurately
+modeling how BBHs merge in clusters, and how to link their emitted GW signals to their astrophysical
+environment. 

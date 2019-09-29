@@ -1,0 +1,16 @@
+Discontinuous transitions have received considerable interest due to the uncovering that many
+phenomena such as catastrophic changes, epidemic outbreaks and synchronization present a behavior
+signed by abrupt (macroscopic) changes (instead of smooth ones) as a tuning parameter is changed.
+However, in different cases there are still scarce microscopic models reproducing such above trademarks.
+With these ideas in mind, we investigate the fundamental ingredients underpinning the discontinuous
+transition in one of the simplest systems with up-down $Z_2$ symmetry recently ascertained in [Phys.
+Rev. E {\bf 95}, 042304 (2017)]. Such system, in the presence of an extra ingredient-the inertia-
+has its continuous transition being switched to a discontinuous one in complex networks. We scrutinize
+the role of three fundamental ingredients: inertia, system degree, and the lattice topology. Our
+analysis has been carried out for regular lattices and random regular networks with different node
+degrees (interacting neighborhood) through mean-field treatment and numerical simulations.
+Our findings reveal that not only the inertia but also the connectivity constitute essential elements
+for shifting the phase transition. Astoundingly, they also manifest in low-dimensional regular
+topologies, exposing a scaling behavior entirely different than those from the complex networks
+case. Therefore, our findings put on firmer bases the essential issues for the manifestation of
+discontinuous transitions in such relevant class of systems with $Z_2$ symmetry. 

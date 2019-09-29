@@ -1,0 +1,16 @@
+Measurements of strong gravitational lensing jointly with type Ia supernovae (SNe Ia) observations
+have been used to test the validity of the cosmic distance duality relation (CDDR), $D_L(z)/[(1+z)^2D_A(z)]=\eta=1$,
+where $D_L(z)$ and $D_A(z)$ are the luminosity and the angular diameter distances to a given redshift
+$z$, respectively. However, several lensing systems lie in the interval $1.4 \leq z \leq 3.6$ i.e.,
+beyond the redshift range of current SNe Ia compilations ($z \approx 1.50$), which prevents this
+kind of test to be fully explored. In this paper, we circumvent this problem by testing the CDDR considering
+observations of strong gravitational lensing along with SNe Ia and { a subsample from} the latest
+gamma-ray burst distance modulus data, whose redshift range is $0.033 \leq z \leq 9.3$. { We parameterize
+their luminosity distances with a second degree polynomial function and search for possible deviations
+from the CDDR validity by using four different $\eta(z)$ functions: $\eta(z)=1+\eta_0z$, $\eta(z)=1+\eta_0z/(1+z)$,
+$\eta(z)=(1+z)^{\eta_0}$ and $\eta(z)=1+\eta_0\ln(1+z)$. Unlike previous tests done at redshifts
+lower than $1.50$, the likelihood for $\eta_0$ depends strongly on the $\eta(z)$ function considered,
+but we find no significant deviation from the CDDR validity ($\eta_0=0$). However, our analyses
+also point to the fact that caution is needed when one fits data in higher redshifts to test the CDDR
+as well as a better understanding of the mass distribution of lenses also is required for more accurate
+results. 

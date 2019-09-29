@@ -1,0 +1,16 @@
+We assume data sampled from a mixture of d-dimensional linear subspaces with spherically symmetric
+distributions within each subspace and an additional outlier component with spherically symmetric
+distribution within the ambient space (for simplicity we may assume that all distributions are
+uniform on their corresponding unit spheres). We also assume mixture weights for the different
+components. We say that one of the underlying subspaces of the model is most significant if its mixture
+weight is higher than the sum of the mixture weights of all other subspaces. We study the recovery
+of the most significant subspace by minimizing the lp-averaged distances of data points from d-dimensional
+subspaces, where p>0. Unlike other lp minimization problems, this minimization is non-convex
+for all p>0 and thus requires different methods for its analysis. We show that if 0<p<=1,
+then for any fraction of outliers the most significant subspace can be recovered by lp minimization
+with overwhelming probability (which depends on the generating distribution and its parameters).
+We show that when adding small noise around the underlying subspaces the most significant subspace
+can be nearly recovered by lp minimization for any 0<p<=1 with an error proportional to the
+noise level. On the other hand, if p>1 and there is more than one underlying subspace, then with
+overwhelming probability the most significant subspace cannot be recovered or nearly recovered.
+This last result does not require spherically symmetric outliers. 

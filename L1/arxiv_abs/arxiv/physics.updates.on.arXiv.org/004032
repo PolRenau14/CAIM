@@ -1,0 +1,17 @@
+The Kuramoto model, originally proposed to model the dynamics of many interacting oscillators,
+has been used and generalized for a wide range of applications involving the collective behavior
+of large heterogeneous groups of dynamical units whose states are characterized by a scalar angle
+variable. One such application in which we are interested is the alignment of orientation vectors
+among members of a swarm. Despite being commonly used for this purpose, the Kuramoto model can only
+describe swarms in 2 dimensions, and hence the results obtained do not apply to the often relevant
+situation of swarms in 3 dimensions. Partly based on this motivation, as well as on relevance to the
+classical, mean-field, zero-temperature Heisenberg model with quenched site disorder, in this
+paper we study the Kuramoto model generalized to $D$ dimensions. We show that in the important case
+of 3 dimensions, as well as for any odd number of dimensions, the $D$-dimensional generalized Kuramoto
+model for heterogeneous units has dynamics that are remarkably different from the dynamics in 2
+dimensions. In particular, for odd $D$ the transition to coherence occurs discontinuously as the
+inter-unit coupling constant $K$ is increased through zero, as opposed to the $D=2$ case (and, as
+we show, also the case of even $D$) for which the transition to coherence occurs continuously as $K$
+increases through a positive critical value $K_c$. We also demonstrate the qualitative applicability
+of our results to related models constructed specifically to capture swarming and flocking dynamics
+in three dimensions. 

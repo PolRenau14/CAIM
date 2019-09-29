@@ -1,0 +1,17 @@
+The study is devoted to the geometrically nonlinear simulation of fiber-reinforced composite
+structures. The applicability of the multiplicative approach to the simulation of viscoelastic
+properties of a composite material is assessed, certain improvements are suggested. For a greater
+accuracy in applications involving local compressive fiber buckling, a new family of hyperelastic
+potentials is introduced. This family allows us to account for the variable critical compressive
+stress, which depends on the fiber-matrix interaction. For the simulation of viscoelasticity,
+the well-established Sidoroff decomposition of the deformation gradient is implemented. To account
+for the viscosity of the matrix material, the model of Simo and Miehe (1992) is used; highly efficient
+iteration-free algorithms are implemented. The viscosity of the fiber is likewise described by
+the multiplicative decomposition of the deformation gradient, leading to a scalar differential
+equation; an efficient iteration-free algorithm is proposed for the implicit time stepping. The
+accuracy and convergence of the new iteration-free method is tested and compared to that of the standard
+scheme implementing the Newton iteration. To demonstrate the applicability of the approach, a
+pressurized multi-layer composite pipe is modelled; the so-called stretch inversion phenomenon
+is reproduced and explained. The stress distribution is obtained by a semi-analytical procedure;
+it may serve as a benchmark for FEM computations. Finally, the issue of the parameter identification
+is addressed. 

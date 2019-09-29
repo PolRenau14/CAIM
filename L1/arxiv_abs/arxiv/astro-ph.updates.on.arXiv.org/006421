@@ -1,0 +1,16 @@
+High-redshift, luminous, dusty star forming galaxies (DSFGs) constrain the extremity of galaxy
+formation theories. The most extreme are discovered through follow-up on candidates in large area
+surveys. Here we present 850 $\mu$m SCUBA-2 follow-up observations of 188 red DSFG candidates from
+the \textit{Herschel} Multi-tiered Extragalactic Survey (HerMES) Large Mode Survey, covering
+274 deg$^2$. We detected 87 per cent with a signal-to-noise ratio $>$ 3 at 850~$\mu$m. We introduce
+a new method for incorporating the confusion noise in our spectral energy distribution fitting
+by sampling correlated flux density fluctuations from a confusion limited map. The new 850~$\mu$m
+data provide a better constraint on the photometric redshifts of the candidates, with photometric
+redshift errors decreasing from $\sigma_z/(1+z)\approx0.21$ to $0.15$. Comparison spectroscopic
+redshifts also found little bias ($\langle (z-z_{\rm spec})/(1+z_{\rm spec})\rangle = 0.08 $).
+The mean photometric redshift is found to be 3.6 with a dispersion of $0.4$ and we identify 21 DSFGs
+with a high probability of lying at $z > 4$. After simulating our selection effects we find number
+counts are consistent with phenomenological galaxy evolution models. There is a statistically
+significant excess of WISE-1 and SDSS sources near our red galaxies, giving a strong indication
+that lensing may explain some of the apparently extreme objects. Nevertheless, our sample should
+include examples of galaxies with the highest star formation rates in the Universe ($\gg10^3$ M$_\odot$yr$^{-1}$).

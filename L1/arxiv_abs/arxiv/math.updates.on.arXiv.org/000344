@@ -1,0 +1,17 @@
+We develop an immersed-boundary approach to modeling reaction-diffusion processes in dispersions
+of reactive spherical particles, from the diffusion-limited to the reaction-limited setting.
+We represent each reactive particle with a minimally-resolved "blob" using many less degrees of
+freedom per particle than standard discretization approaches. More complicated particle shapes
+can be built out of a collection of reactive blobs. We demonstrate numerically that the blob model
+can provide an accurate representation at low to moderate packing densities of the reactive particles,
+at a cost not much larger than solving a Poisson equation in the same domain. Unlike multipole expansion
+methods, our method does not require analytically-computed Green's functions, but rather, computes
+regularized discrete Green's functions on the fly by using a standard grid-based discretization
+of the Poisson equation. This allows for great flexibility in implementing different boundary
+conditions, coupling to fluid flow or thermal transport, and the inclusion of other effects such
+as temporal evolution and even nonlinearities. We develop multigrid-based preconditioners for
+solving the linear systems that arise when using implicit temporal discretizations or studying
+steady states. In the diffusion-limited case the resulting linear system is a saddle-point problem,
+the efficient solution of which remains a challenge for suspensions of many particles. We validate
+our method by comparing to published results on reaction-diffusion in ordered and disordered suspensions
+of reactive spheres. 

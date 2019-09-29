@@ -1,0 +1,16 @@
+We analyze physical-layer security based on the premise that the coding mechanism for secrecy over
+noisy channels is tied to the notion of channel resolvability. Instead of considering capacity-based
+constructions, which associate to each message a sub-code that operates just below the capacity
+of the eavesdropper's channel, we consider channel-resolvability-based constructions, which
+associate to each message a sub-code that operates just above the resolvability of the eavesdropper's
+channel. Building upon the work of Csiszar and Hayashi, we provide further evidence that channel
+resolvability is a powerful and versatile coding mechanism for secrecy by developing results that
+hold for strong secrecy metrics and arbitrary channels. Specifically, we show that at least for
+symmetric wiretap channels, random capacity-based constructions fail to achieve the strong secrecy
+capacity while channel-resolvability-based constructions achieve it. We then leverage channel
+resolvability to establish the secrecy-capacity region of arbitrary broadcast channels with
+confidential messages and a cost constraint for strong secrecy metrics. Finally, we specialize
+our results to study the secrecy capacity of wireless channels with perfect channel state information,
+mixed channels and compound channels with receiver Channel State Information (CSI), as well as
+the secret-key capacity of source models for secret-key agreement. By tying secrecy to channel
+resolvability, we obtain achievable rates for strong secrecy metrics with simple proofs. 

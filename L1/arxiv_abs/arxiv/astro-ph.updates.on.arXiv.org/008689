@@ -1,0 +1,16 @@
+The solar mean magnetic field (SMMF) is referred to as the disc-averaged line-of-sight (LOS) magnetic
+field that also reflects the polarity imbalance of the magnetic field on the Sun. The origin of the
+SMMF has been debated over the past few decades, with one school of thought suggesting that the contribution
+to the SMMF is mostly due to the large scale magnetic field structure, also termed as the background
+magnetic field, whereas other and more recent studies have indicated that active regions have a
+major contribution to the observed SMMF. In this paper, we re-investigate the issue of the origin
+of the SMMF by decomposing the solar disk into plages, networks, sunspots and background regions,
+thereby calculating the variation in the observed SMMF due to each of these features. We have used
+full disk images from SDO/{\it AIA} recorded at 1600~\AA\, for earmarking plages, networks and
+background regions and 4500~\AA\, images for separating the sunspots. The LOS fields corresponding
+to each of these regions are estimated from the co-temporal SDO/{\it HMI} full disk magnetograms.
+The temporal variation of the SMMF shows a near one-to-one correspondence with that of the background
+field regions suggesting that they constitute the major component of the observed SMMF. A linear
+regression analysis based on the coefficient of determination shows that the background field
+dominates, and accounts for 89\% of the variation in the SMMF whereas the magnetic field from the
+other features accounts for the rest 11\%. 

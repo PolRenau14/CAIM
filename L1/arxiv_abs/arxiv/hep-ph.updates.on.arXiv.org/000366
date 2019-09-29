@@ -1,0 +1,17 @@
+The AMS-02 experiment is measuring the high energy charged cosmic rays with unprecedented accuracy.
+We explore the possibility of determining the cosmic-ray propagation models using the AMS-02 data
+$alone$. A global Bayesian analysis of the constraints on the cosmic-ray propagation models from
+the latest AMS-02 data on the Boron to Carbon nuclei flux ratio and proton flux is performed, with
+the assumption that the primary nucleon source is a broken power law in rigidity. The ratio of the
+diffusion coefficient $D_{0}$ to the diffusive halo height $Z_{h}$ is found to be determined with
+high accuracy $D_{0}/Z_{h}\simeq 2.00\pm0.07\text{cm}^{2}\text{s}^{-1}\text{kpc}^{-1}$.
+The best-fit value of the halo width is $Z_{h}\simeq 3.3$ kpc with uncertainty less than $50\$. As
+a consequence, the typical uncertainties in the positron fraction is within a factor of two, and
+that in the antiproton flux is within an order of magnitude. Both of them are significantly smaller
+than that from the analyses prior to AMS-02. Taking into account all the uncertainties and correlations
+in the propagation parameters we derive conservative upper limits on the cross sections for DM annihilating
+into various standard model final states from the current PAMELA antiproton data. We also investigate
+the reconstruction capability of the future AMS-02 antiproton data on the DM properties. The result
+shows that for DM particles lighter than 100 GeV and with typical thermal annihilation cross section,
+the cross section can be well reconstructed with uncertainties about a factor of two for the AMS-02
+three-year data taking. 

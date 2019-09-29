@@ -1,0 +1,16 @@
+In the present study, numerical investigations were performed with optimisation to determine
+efficient non-uniform suction profiles to control the flow around a circular cylinder in the range
+of Reynolds numbers 4<Re<188.5. Several objectives were explored, namely the minimisation of:
+the separation angle, total drag, and the pressure drag. This was in an effort to determine the relationships
+between the characteristics of the uncontrolled flow and the parameters of optimised suction control.
+A variety of non-uniform suction configurations were implemented and compared to the benchmark
+performance of uniform suction. It was determined that the best non-uniform suction profiles consisted
+of a distribution with a single locus and compact support. The centre of suction on the cylinder surface
+for the optimised control, and the quantity of suction necessary to achieve each objective, varied
+substantially with Reynolds number and also with the separation angle of the uncontrolled flows.
+These followed predictable relationships, however. Non-uniform suction profiles were much more
+efficient at eliminating boundary layer separation, requiring the removal of less than half the
+volume of fluid as uniform control to achieve the same objective. Regardless of the method of control,
+less net suction was needed to minimise total drag than to eliminate separation. Though boundary
+layer separation could always be prevented, its elimination did not always result in an improvement
+in total drag, and in some circumstances increased it. 

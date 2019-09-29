@@ -1,0 +1,16 @@
+NU Ori is a massive spectroscopic and visual binary in the Orion Nebula Cluster, with 4 components:
+Aa, Ab, B, and C. The B0.5 primary (Aa) is one of the most massive B-type stars reported to host a magnetic
+field. We report the detection of a spectroscopic contribution from the C component in high-resolution
+ESPaDOnS spectra, which is also detected in a Very Large Telescope Interferometer (VLTI) dataset.
+Radial velocity (RV) measurements of the inner binary (designated Aab) yield an orbital period
+of 14.3027(7) d. The orbit of the third component (designated C) was constrained using both RVs and
+interferometry. We find C to be on a mildly eccentric 476(1) d orbit. Thanks to spectral disentangling
+of mean line profiles obtained via least-squares deconvolution we show that the Zeeman Stokes $V$
+signature is clearly associated with C, rather than Aa as previously assumed. The physical parameters
+of the stars were constrained using both orbital and evolutionary models, yielding $M_{\rm Aa}
+= 14.9 \pm 0.5 M_\odot$, $M_{\rm Ab} = 3.9 \pm 0.7 M_\odot$, and $M_{\rm C} = 7.8 \pm 0.7 M_\odot$. The
+rotational period obtained from longitudinal magnetic field $\langle B_z \rangle$ measurements
+is $P_{\rm rot} = 1.09468(7)$ d, consistent with previous results. Modeling of $\langle B_z \rangle$
+indicates a surface dipole magnetic field strength of $\sim 8$ kG. NU Ori C has a magnetic field strength,
+rotational velocity, and luminosity similar to many other stars exhibiting magnetospheric H$\alpha$
+emission, and we find marginal evidence of emission at the expected level ($\sim$1% of the continuum).

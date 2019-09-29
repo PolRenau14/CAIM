@@ -1,0 +1,17 @@
+An increasing number of observations of the outer regions of globular clusters (GCs) have shown
+a flattening of the velocity dispersion profile and an extended surface density profile. Formation
+scenarios of GCs can lead to different explanations of these peculiarities, therefore the dynamics
+of stars in the outskirts of GCs are an important tool in tracing back the evolutionary history and
+formation of star clusters. One possible explanation for these features is that GCs are embedded
+in dark matter halos. Alternatively, these features are the result of a population of energetically
+unbound stars that can be spatially trapped within the cluster, known as potential escapers (PEs).
+We present a prescription for the contribution of these energetically unbound members to a family
+of self-consistent, distribution function-based models, which, for brevity, we call the Spherical
+Potential Escapers Stitched (SPES) models. We show that, when fitting to mock data of bound and unbound
+stars from an N-body model of a tidally-limited star cluster, the SPES models correctly reproduce
+the density and velocity dispersion profiles up to the Jacobi radius, and they are able to recover
+the value of the Jacobi radius itself to within 20%. We also provide a comparison to the number density
+and velocity dispersion profiles of the Galactic cluster 47 Tucanae. Such a case offers a proof of
+concept that an appropriate modelling of PEs is essential to accurately interpret Gaia data in the
+outskirts of GCs, and, in turn, to formulate meaningful present-day constraints for GC formation
+scenarios in the early universe. 

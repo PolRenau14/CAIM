@@ -1,0 +1,17 @@
+A common method for analyzing the effects of molecular noise in chemical reaction networks is to
+approximate the underlying chemical master equation by a Fokker-Planck equation, and to study
+the statistics of the associated chemical Langevin equation. This so-called diffusion approximation
+involves performing a perturbation expansion with respect to a small dimensionless parameter
+$\epsilon =\Omega^{-1}$, where $\Omega$ characterizes the system size. For example, $\Omega$
+could be the mean number of proteins produced by a gene regulatory network. In the deterministic
+limit $\Omega\rightarrow \infty$, the chemical reaction network evolves according to a system
+of ordinary differential equations based on classical mass action kinetics. In this paper we develop
+a phase reduction method for chemical reaction networks that support a stable limit cycle in the
+deterministic limit. We present a variational principle for the phase reduction, yielding an exact
+analytic expression for the resulting phase dynamics. We demonstrate that this decomposition
+is accurate over timescales that are exponential in the system size $\Omega$. This contrasts with
+the phase equation obtained under the diffusion approximation, which is only accurate up to times
+$O(\Omega)$. In particular, we show that for a constant $C$, the probability that the system leaves
+an $O(\zeta)$ neighborhood of the limit cycle before time $T$ scales as $T\exp\big(-C\Omega b\zeta^2
+\big)$, where $b$ is the rate of attraction to the limit cycle. We illustrate our analysis using the
+example of a chemical Brusselator. 

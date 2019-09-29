@@ -1,0 +1,17 @@
+K2-146 is a mid-M dwarf ($M_\star = 0.331 \pm 0.009 M_\odot$; $R_\star = 0.330 \pm 0.010 R_\odot$),
+observed in Campaigns 5, 16, and 18 of the K2 mission. In Campaign 5 data, a single planet was discovered
+with an orbital period of $2.6$~days and large transit timing variations due to an unknown perturber.
+Here we analyze data from Campaigns 16 and 18, detecting the transits of a second planet, c, with an
+orbital period of $4.0$~days, librating in a 3:2 resonance with planet b. Large, anti-correlated
+timing variations of both planets exist due to their resonant perturbations. The planets have a
+mutual inclination of $2.40^\circ\pm0.25^\circ$, which torqued planet c more closely into our
+line-of-sight. Planet c was grazing in Campaign 5 and thus missed in previous searches; in Campaigns
+16 and 18 it is fully transiting, and its transit depth is three times larger. We improve the stellar
+properties using data from Gaia DR2, and using dynamical fits find that both planets are sub-Neptunes:
+their masses are $5.77\pm0.18$ and $7.50\pm0.23 M_{\oplus}$ and their radii are $2.04\pm0.06$
+and $2.19\pm0.07$ R$_\oplus$, respectively. These mass constraints set the precision record
+for small exoplanets (a few gas giants have comparable relative precision). These planets lie in
+the photoevaporation valley when viewed in Radius-Period space, but due to the low-luminosity
+M-dwarf host star, they lie among the atmosphere-bearing planets when viewed in Radius-Irradiation
+space. This, along with their densities being 60%-80% that of Earth, suggests that they may both
+have retained a substantial gaseous envelope. 

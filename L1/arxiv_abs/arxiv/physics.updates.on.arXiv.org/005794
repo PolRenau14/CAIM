@@ -1,0 +1,17 @@
+The magnetic compression experiment at General Fusion was a repetitive non-destructive test to
+study plasma physics applicable to Magnetic Target Fusion compression. A compact torus (CT) is
+formed with a co-axial gun into a containment region with an hour-glass shaped inner flux conserver,
+and an insulating outer wall. External coil currents keep the CT off the outer wall (radial levitation)
+and then rapidly compress it inwards. The optimal external coil configuration greatly improved
+both the levitated CT lifetime and the rate of shots with good flux conservation during compression.
+As confirmed by spectrometer data, the improved levitation field profile reduced plasma impurity
+levels by suppressing the interaction between plasma and the insulating outer wall during the formation
+process. Significant increases in magnetic field, density, and ion temperature were routinely
+observed at magnetic compression despite the prevalence of an instability, thought be an external
+kink, at compression. Matching the decay rate of the levitation coil currents to that of the internal
+CT currents resulted in a reduced level of MHD activity associated with unintentional compression
+by the levitation field, and a higher probability of long-lived CTs. An axisymmetric finite element
+MHD code that conserves system energy, particle count, angular momentum, and toroidal flux, was
+developed to study CT formation into a levitation field and magnetic compression. An overview of
+the principal experimental observations, and comparisons between simulated and experimental
+diagnostics are presented. 

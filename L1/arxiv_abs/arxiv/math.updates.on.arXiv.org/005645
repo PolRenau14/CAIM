@@ -1,0 +1,16 @@
+Let $M\subset \mathbb{S}^{n+1}\subset\mathbb{R}^{n+2}$ be a compact cmc rotational hypersurface
+of the $(n+1)$-dimensional Euclidean unit sphere. Denote by $|A|^2$ the square of the norm of the
+second fundamental form and $J(f)=-\Delta f-nf-|A|^2f$ the stability or Jacobi operator. In this
+paper we compute the spectra of their Laplace and Jacobi operators in terms of eigenvalues of second
+order Hill's equations. For the minimal rotational examples, we prove that the stability index
+--the numbers of negative eigenvalues of the Jacobi operator counted with multiplicity -- is greater
+than $3 n+4$ and we also prove that there are at least 2 positive eigenvalues of the Laplacian of $M$
+smaller than $n$. When $H$ is not zero, we have that every non-flat CMC rotational immersion is generated
+by rotating a planar profile curve along a geodesic called the axis of rotation. Let $m$ be the number
+of points where the maximal distance from this profile curve to the origin is achieved (we assume
+that the coordinates of the plane containing the profile curve has been set up so that the axis of rotation
+goes through the origin). Let $l$ be be the wrapping number of the profile curve. We show that the number
+of negative eigenvalues of the operator $J$ counted with multiplicity is at least $(2l-1)n+(2m-1)$.
+This result was proven for the case $n=2$ by Rossman and Sultana. They called $m$ the number of bulges
+or the number of necks. We will slightly change the definition of $l$ to include immersed examples
+that contain the axis of rotation. 

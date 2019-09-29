@@ -1,0 +1,17 @@
+A study is conducted to evaluate four derivative estimation methods when solving a large sparse
+nonlinear programming problem that arises from the approximation of an optimal control problem
+using a direct collocation method. In particular, the Taylor series-based finite-difference,
+bicomplex-step, and hyper-dual derivative estimation methods are evaluated and compared alongside
+a well known automatic differentiation method. The performance of each derivative estimation
+method is assessed based on the number of iterations, the computation time per iteration, and the
+total computation time required to solve the nonlinear programming problem. The efficiency of
+each of the four derivative estimation methods is compared by solving three benchmark optimal control
+problems. It is found that while central finite-differencing is typically more efficient per iteration
+than either the hyper-dual or bicomplex-step, the latter two methods have significantly lower
+overall computation times due to the fact that fewer iterations are required by the nonlinear programming
+problem when compared with central finite-differencing. Furthermore, while the bicomplex-step
+and hyper-dual methods are similar in performance, the hyper-dual method is significantly easier
+to implement. Moreover, the automatic differentiation method is found to be substantially less
+computationally efficient than any of the three Taylor series-based methods. The results of this
+study show that the hyper-dual method offers several benefits over the other three methods both
+in terms of computational efficiency and ease of implementation. 

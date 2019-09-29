@@ -1,0 +1,16 @@
+We present highly efficient algorithms for performing forward and backward propagation of Convolutional
+Neural Network (CNN) for pixelwise classification on images. For pixelwise classification tasks,
+such as image segmentation and object detection, surrounding image patches are fed into CNN for
+predicting the classes of centered pixels via forward propagation and for updating CNN parameters
+via backward propagation. However, forward and backward propagation was originally designed
+for whole-image classification. Directly applying it to pixelwise classification in a patch-by-patch
+scanning manner is extremely inefficient, because surrounding patches of pixels have large overlaps,
+which lead to a lot of redundant computation. The proposed algorithms eliminate all the redundant
+computation in convolution and pooling on images by introducing novel d-regularly sparse kernels.
+It generates exactly the same results as those by patch-by-patch scanning. Convolution and pooling
+operations with such kernels are able to continuously access memory and can run efficiently on GPUs.
+A fraction of patches of interest can be chosen from each training image for backward propagation
+by applying a mask to the error map at the last CNN layer. Its computation complexity is constant with
+respect to the number of patches sampled from the image. Experiments have shown that our proposed
+algorithms speed up commonly used patch-by-patch scanning over 1500 times in both forward and backward
+propagation. The speedup increases with the sizes of images and patches. 

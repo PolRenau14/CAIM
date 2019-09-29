@@ -1,0 +1,16 @@
+This paper statistically investigates the properties of C IV and Mg II narrow absorption lines (NALs)
+to look for velocity cuts that can well constrain quasar-associated NALs. The coverage fraction
+(f_c) is defined as the ratio between the number of quasars exhibiting at least one detected absorber
+and the total number of quasars that can be used to detect absorptions with given criteria. We find
+that, for both C IV and Mg II absorbers, both the number density of absorbers in given velocity intervals
+(dn/d\beta) and the f_c show very significant excess at the low-velocity offset from the quasars,
+relative to the random occurrence that is expected for cosmologically intervening absorbers.
+These relative excess extensions for Mg II absorptions are not only evidently related to absorption
+strength but also to quasar luminosity, while they are mainly constrained within 2000 km/s no matter
+what quasar luminosity and absorption strength are. In addition, we find that the redshift number
+density (dn/dz) evolution of Mg II absorbers with v_abs <2000 km/s evidently differs from that with
+v_abs >2000 km/s. Turning to C IV absorptions, the relative excess extensions of both dn/d\beta
+and f_c are mainly limited within v_abs<4000 km/s, and depend neither on absorption strength nor
+on quasar luminosity. And also, the absorbers with v_abs<4000 km/s show obviously different redshift
+number density evolution from those with v_abs>4000 km/s. We suggest velocity cuts of 4000 km/s
+and 2000 km/s to define quasar C IV and Mg II associated NALs, respectively. 

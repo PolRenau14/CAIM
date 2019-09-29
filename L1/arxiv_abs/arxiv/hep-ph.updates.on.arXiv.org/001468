@@ -1,0 +1,16 @@
+We have studied the nucleon structure functions $F_{iN}^{EM} (x,Q^2);~i=1,2$, by including contributions
+due to the higher order perturbative QCD effect up to NNLO and the non-perturbative effects due to
+the kinematical and dynamical higher twist (HT) effects. The numerical results for $F_{iN}^{EM}(x,Q^2)$
+are obtained using Martin, Motylinski, Harland-Lang, Thorne (MMHT) 2014 NLO and NNLO nucleon parton
+distribution functions (PDFs). The dynamical HT correction has been included following the renormalon
+approach as well as the phenomenological approach and the kinematical HT effect is incorporated
+using the works of Schienbein et al. These nucleon structure functions have been used as an input
+to calculate the nuclear structure functions $F_{iA}^{EM} (x,Q^2)$. In a nucleus, the nuclear
+corrections arise because of the Fermi motion, binding energy, nucleon correlations, mesonic
+contribution, shadowing and antishadowing effects. These nuclear corrections are taken into
+account in the numerical calculations to obtain the nuclear structure functions $F_{iA}^{EM}
+(x,Q^2)$, for the various nuclear targets like $^{12}C$, $^{27}Al$, $^{56}Fe$, $^{64}Cu$, $^{118}Sn$,
+$^{197}Au$ and $^{208}Pb$ which are of experimental interest. The effect of isoscalarity correction
+for nonisoscalar nuclear targets has also been studied. The results for the $F_{iA}^{EM} (x,Q^2)$
+are compared with nCTEQ nuclear PDFs parameterization as well as with the experimental results
+from JLab, SLAC and NMC in the kinematic region of $0.1 \le x \le 0.8$ for several nuclei. 

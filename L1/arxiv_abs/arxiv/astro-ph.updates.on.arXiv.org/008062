@@ -1,0 +1,16 @@
+We present two algorithms to identify and flag radio frequency interference (RFI) in radio interferometric
+imaging data. The first algorithm utilizes the redundancy of visibilities inside a UV cell in the
+visibility plane to identify corrupted data, while varying the detection threshold in accordance
+with the observed reduction in noise with radial UV distance. In the second algorithm, we propose
+a scheme to detect faint RFI in the visibility time-channel plane of baselines. The efficacy of identifying
+RFI in the residual visibilities is reduced by the presence of ripples due to inaccurate subtraction
+of the strongest sources. This can be due to several reasons including primary beam asymmetries
+and other direction dependent calibration errors. We eliminated these ripples by clipping the
+corresponding peaks in the associated Fourier plane. RFI was detected in the ripple-free time-channel
+plane but was flagged in the original visibilities. Application of these two algorithms to 5 different
+150 MHz datasets from the GMRT resulted in a reduction in image noise of 20-50% throughout the field
+along with a reduction in systematics and a corresponding increase in the number of detected sources.
+However, on comparing the mean flux densities before and after flagging RFI we find a differential
+change with the fainter sources ($25\sigma <$ S $< 100$ mJy) showing a change of -6% to +1% relative
+to the stronger sources (S $>$ 100 mJy). We are unable to explain this effect but it could be related
+to the CLEAN bias known for interferometers. 

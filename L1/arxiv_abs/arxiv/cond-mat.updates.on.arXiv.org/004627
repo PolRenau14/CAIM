@@ -1,0 +1,16 @@
+We develop an analytical model to describe the phonon dispersion relations of thermoelectrics
+with heavy guest atoms (rattlers). Crucially, the model also accounts for phonon damping arising
+from anharmonicity. The spectrum of low energy states contains acoustic-like and (soft) optical-like
+modes, which display the typical avoided crossing, and which can be derived analytically by considering
+the dynamical coupling between host lattice and guest rattlers. Inclusion of anharmonic damping
+in the model allows us, for the first time, to compute the vibrational density of states (VDOS) and
+the specific heat, unveiling the presence of a boson peak (BP) anomaly indicating the glassy behaviour
+of phonons in the otherwise crystalline material. We discuss the dynamics of the BP as a function
+of the strength of the interaction between the soft modes and the anharmonic lattice, and of the energy
+gap between the two avoided-crossing branches. Upon increasing the coupling strength between
+the host and the guest dynamics, and by decreasing the energy of the soft optical modes, the BP anomaly
+becomes stronger and it moves towards lower frequencies. Moreover, we find a robust linear correlation
+between the BP frequency and the energy of the soft optical-like modes. Our results provide decisive
+evidence for the link between soft gapped modes and glassy phonon anomalies. Finally, it provides
+a useful model for tuning the phonon glass behaviour of thermoelectrics, which is crucial for optimizing
+the energy conversion efficiency in these materials. 

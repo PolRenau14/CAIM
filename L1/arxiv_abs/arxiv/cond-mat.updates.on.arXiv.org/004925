@@ -1,0 +1,16 @@
+A charged droplet can be levitated in the air when suspended in a trap subjected to quadrupole potential.
+The applied potential is typically sinusoidal. Such a charged drop undergoes surface oscillations
+subsequently building enough charge density to undergo Rayleigh breakup. In this work, we investigate
+high-speed imaging of large amplitude surface oscillations of a levitated sub-Rayleigh charged
+drop and corresponding Rayleigh breakup, by applying non-sinusoidal waveform. The droplet oscillation
+behaviour and Rayleigh breakup (recorded at 100k frames per second) are investigated for different
+applied waveforms such as sine, square and ramp at different imposed frequencies but a fixed voltage.
+The surface oscillates in sphere-prolate-sphere-oblate (SPSO) mode and sometimes in the sphere-prolate-sphere
+(SPS) modes depending upon the complex interplay of forces such as charge(Q), applied field ($\Lambda$)
+and shift of the droplet from the geometric center of the trap ($Z_{shift}$). The Fast Fourier Transformation
+(FFT) analysis shows that the droplet oscillates with the imposed frequency irrespective of the
+type of waveform. While in the sinusoidal case, the nonlinearities are strong, in the square and
+ramp potentials, there is an admittance of all the frequencies of the applied voltage. Further,
+the droplet breakup characteristics do not change in the presence of various waveforms. The experimental
+observations are validated with a potential theory with viscus correction and found to be in a fair
+agreement. 

@@ -1,0 +1,16 @@
+The extremely high brightness temperatures of pulsars and fast radio bursts (FRBs) require their
+radiation mechanisms to be coherent. Curvature radiation by bunches is often discussed as a favored
+mechanism. We develop a general radiation theory of coherent curvature radiation by bunches under
+three-dimensional magnetic field geometry from the first principles. We consider a bunch characterized
+by the bunch length, curvature radius of the trajectory family, bunch opening angle, and electron
+energy distribution. We find that the spectrum of coherent curvature radiation is a multi-segment
+broken power law, with the break frequencies depending on bunch properties and trajectory configuration.
+Different from previous works, we find that in the pulsar magnetosphere only fluctuating net charges
+with respect to the Goldreich-Julian outflow can make a contribution to coherent radiation. We
+apply this model to constrain the observed spectra of pulsars and FRBs. For a typical pulsar ($B_p=10^{12}~{\rm
+G}$ and $P=0.1~{\rm s}$), a small fluctuation of net charge. e.g., $\delta n_{\rm GJ}\sim 0.1 n_{\rm
+GJ}$, can provide the observable flux. For FRBs, the fluctuating net charge may be larger due to its
+abrupt nature. For $\delta n_{\rm GJ}\sim n_{\rm GJ}$, a neutron star with strong magnetic field
+and fast rotation is required to power an FRB in the spindown-powered model. The requirement is less
+stringent for the cosmic comb model thanks to the larger cross section and compressed charge density
+of the bunch made by the external astrophysical stream that combs the magnetosphere. 

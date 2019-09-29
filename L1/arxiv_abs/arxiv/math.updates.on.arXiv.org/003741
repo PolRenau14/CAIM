@@ -1,0 +1,16 @@
+An important step in shape optimization with partial differential equation constraints is to adapt
+the geometry during each optimization iteration. Common strategies are to employ mesh-deformation
+or re-meshing, where one or the other typically lacks robustness or is computationally expensive.
+This paper proposes a different approach, in which the computational domain is represented by multiple,
+independent meshes. A Nitsche based finite element method is used to weakly enforce continuity
+over the non-matching mesh interfaces. The optimization is preformed using an iterative gradient
+method, in which the shape-sensitivities are obtained by employing the Hadamard formulas and the
+adjoint approach. An optimize-then-discretize approach is chosen due to its independence of the
+FEM framework. Since the individual meshes may be moved freely, re-meshing or mesh deformations
+can be entirely avoided in cases where the geometry changes consists of rigid motions or scaling.
+By this free movement, we obtain robust and computational cheap mesh adaptation for optimization
+problems even for large domain changes. For general geometry changes, the method can be combined
+with mesh-deformation or re-meshing techniques to reduce the amount of deformation required.
+We demonstrate the capabilities of the method on several examples, including the optimal placement
+of heat emitting wires in a cable to minimize the chance of overheating, the drag minimization in
+Stokes flow, and the orientation of 25 objects in a Stokes flow. 

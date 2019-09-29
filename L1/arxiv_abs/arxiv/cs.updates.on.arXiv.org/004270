@@ -1,0 +1,16 @@
+Low-rank modeling plays a pivotal role in signal processing and machine learning, with applications
+ranging from collaborative filtering, video surveillance, medical imaging, to dimensionality
+reduction and adaptive filtering. Many modern high-dimensional data and interactions thereof
+can be modeled as lying approximately in a low-dimensional subspace or manifold, possibly with
+additional structures, and its proper exploitations lead to significant reduction of costs in
+sensing, computation and storage. In recent years, there is a plethora of progress in understanding
+how to exploit low-rank structures using computationally efficient procedures in a provable manner,
+including both convex and nonconvex approaches. On one side, convex relaxations such as nuclear
+norm minimization often lead to statistically optimal procedures for estimating low-rank matrices,
+where first-order methods are developed to address the computational challenges; on the other
+side, there is emerging evidence that properly designed nonconvex procedures, such as projected
+gradient descent, often provide globally optimal solutions with a much lower computational cost
+in many problems. This survey article will provide a unified overview of these recent advances on
+low-rank matrix estimation from incomplete measurements. Attention is paid to rigorous characterization
+of the performance of these algorithms, and to problems where the low-rank matrix have additional
+structural properties that require new algorithmic designs and theoretical analysis. 

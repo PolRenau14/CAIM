@@ -1,0 +1,17 @@
+OpenCitations is a scholarly infrastructure organization dedicated to open scholarship and the
+publication of open bibliographic and citation data as Linked Open Data using Semantic Web technologies,
+to the development of software tools and services that enable convenient access to these open data,
+and to community advocacy for open citations. This paper describes OpenCitations and its datasets,
+tools, services and activities. It introduces the OpenCitations Data Model and the SPAR (Semantic
+Publishing and Referencing) Ontologies for encoding scholarly bibliographic and citation data
+in RDF, and OpenCitations' open software of generic applicability for searching, browsing and
+providing REST APIs over RDF triplestores. It describes Open Citation Identifiers (OCIs), globally
+unique and persistent identifiers for bibliographic citations, and the OpenCitations OCI Resolution
+Service that returns bibliographic and citation metadata when queried with an OCI. And it describes
+the OpenCitations Corpus (OCC), a database of open downloadable bibliographic and citation data
+harvested from bibliographic references in the scholarly literature and made available in RDF
+under a Creative Commons public domain dedication. Finally, it outlines the Open Citation Indexes
+of citation data openly available in third-party bibliographic databases that OpenCitations
+is currently making available as Linked Open Datasets accessible via its REST API, of which the first
+and largest is COCI, the OpenCitations Index of Crossref DOI-to-DOI Citations which currently
+contains over 445 million bibliographic citations. 

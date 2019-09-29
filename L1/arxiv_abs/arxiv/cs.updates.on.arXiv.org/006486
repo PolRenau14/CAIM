@@ -1,0 +1,16 @@
+We have three contributions in this work: 1. We explore the utility of a stacked denoising autoencoder
+and a paragraph vector model to learn task-independent dense patient representations directly
+from clinical notes. To analyze if these representations are transferable across tasks, we evaluate
+them in multiple supervised setups to predict patient mortality, primary diagnostic and procedural
+category, and gender. We compare their performance with sparse representations obtained from
+a bag-of-words model. We observe that the learned generalized representations significantly
+outperform the sparse representations when we have few positive instances to learn from, and there
+is an absence of strong lexical features. 2. We compare the model performance of the feature set constructed
+from a bag of words to that obtained from medical concepts. In the latter case, concepts represent
+problems, treatments, and tests. We find that concept identification does not improve the classification
+performance. 3. We propose novel techniques to facilitate model interpretability. To understand
+and interpret the representations, we explore the best encoded features within the patient representations
+obtained from the autoencoder model. Further, we calculate feature sensitivity across two networks
+to identify the most significant input features for different classification tasks when we use
+these pretrained representations as the supervised input. We successfully extract the most influential
+features for the pipeline using this technique. 

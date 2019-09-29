@@ -1,0 +1,16 @@
+An extensive analysis of Ulysses observations of the solar wind speed V from 1990 to 2008 is undertaken.
+It is shown that the evolution of V with heliocentric distance r depends substantially on both the
+heliolatitude and the solar activity cycle. Deviations from the predicted Parker's profile of
+V(r) are so considerable that cannot be explained by a scarcity of measurements or other technical
+effects. In particular, the expected smooth growth of the solar wind speed with r is typical only
+for the solar activity maximum and for low heliolatitudes (lower than +/-40deg), while at high latitudes,
+there are two V(r) branches: growing and falling. In the solar activity maximum, V increases toward
+the solar pole in the North hemisphere only; however, in the South hemisphere, it decreases with
+heliolatitude. In the minimum of solar activity, the profile of V(r) at low heliolatitudes has a
+local minimum between 2 and 5 AU. This result is confirmed by the corresponding data from other spacecraft
+(Voyager 1 and Pioneer 10). Unexpected spatial variations in V at low heliolatitudes can be explained
+by the impact of coronal hole flows on the V(r) profile since the flows incline to the ecliptic plane.
+To reproduce the impact of spatial variations of V in the polar corona on the behavior of V at low heliolatitudes,
+a stationary one-fluid ideal MHD-model is developed with account of recent results on imagery of
+the solar wind speed in the corona up to 5.5 solar radii obtained on the basis of combined observations
+from SOHO/UVCS, LASCO, and Mauna Loa. 

@@ -1,0 +1,17 @@
+The implementation of non-classical light sources is becoming increasingly important for various
+quantum applications. A particularly interesting approach is to integrate such functionalities
+on a single chip as this could pave the way towards fully scalable quantum photonic devices. Several
+approaches using dielectric systems have been investigated in the past. However, it is still not
+understood how on-chip nanoplasmonic antennas, interacting with a single quantum emitter, affect
+the quantum statistics of photons reflected or transmitted in the guided mode of a waveguide. Here
+we investigate a quantum photonic platform consisting of an evanescently coupled nanoplasmonic
+cavity-emitter system and discuss the requirements for non-classical light generation. We develop
+an analytical model that incorporates quenching due to the nanoplasmonic cavity to predict the
+quantum statistics of the transmitted and reflected guided waveguide light under weak coherent
+pumping. The analytical predictions match numerical simulations based on a master equation approach.
+It is moreover shown that for resonant excitation the degree of anti-bunching in transmission is
+maximized for an optimal cavity modal volume $V_{c}$ and cavity-emitter distance $s$. In reflection,
+perfectly anti-bunched light can only be obtained for specific $(V_{c},s)$ combinations. Finally,
+our model also applies to dielectric cavities and as such can guide future efforts in the design and
+development of on-chip non-classical light sources using dielectric and nanoplasmonic cavity-emitter
+systems. 

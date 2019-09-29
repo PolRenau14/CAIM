@@ -1,0 +1,16 @@
+We show methods to extract Craig-Lyndon interpolants and access interpolants from clausal first-order
+tableaux as produced by automated first-order theorem provers based on model elimination, the
+connection method, the hyper tableau calculus and instance-based methods in general. Smullyan
+introduced an elegant method for interpolant extraction from "non-clausal" first-order tableaux.
+We transfer this to clausal tableaux where quantifier handling is based on prenexing and Skolemization.
+A lifting technique leads from ground interpolants of Herbrand expansions of Skolemized input
+formulas to quantified interpolants of the original input formulas. This is similar to a known interpolant
+lifting by Huang but based more straightforwardly on Herbrand's theorem instead of the auxiliary
+notion of relational interpolant. Access interpolation is a recent form of interpolation for formulas
+with relativized quantifiers targeted at applications in query reformulation and specified in
+the constructive framework of Smullyan's general tableaux. We transfer this here to clausal tableaux.
+Relativized quantification upon subformulas seems incompatible with lifting techniques that
+only introduce a global quantifier prefix. We thus follow a different approach for access interpolation:
+A structure preserving clausification leads to clausal ground tableaux that can be computed by
+automated first-order provers and, in a postprocessing step, can be restructured such that in essence
+the interpolant extraction from Smullyan's tableaux becomes applicable. 

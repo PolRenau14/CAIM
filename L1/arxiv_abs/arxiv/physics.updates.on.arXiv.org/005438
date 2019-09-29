@@ -1,0 +1,16 @@
+DNA surface-hybridization biosensors utilize the selective hybridization of target sequences
+in solution to surface-immobilized probes. In this process, the target is usually assumed to be
+in excess, so that its concentration does not significantly vary while hybridizing to the surface-bound
+probes. If the target is initially at low concentrations and/or if the number of probes is very large
+and have high affinity for the target, the DNA in solution may get depleted. In this paper we analyze
+the equilibrium and kinetics of hybridization of DNA biosensors in the case of strong target depletion,
+by extending the Langmuir adsorption model. We focus, in particular, on the detection of a small
+amount of a single-nucleotide "mutant" sequence (concentration $c_2$) in a solution with an abundant
+"wild-type" sequence (concentration $c_1 \gg c_2$). We show that depletion can give rise to a strongly-enhanced
+sensitivity of the biosensors. Using representative values of rate constants and hybridization
+free energies, we find that in the depletion regime one could detect relative concentrations $c_2/c_1$
+that are up to three orders of magnitude smaller than in the conventional approach. The kinetics
+is surprisingly rich, and exhibits a non-monotonic adsorption with no counterpart in the no-depletion
+case. Finally, we show that, alongside enhanced detection sensitivity, this approach offers the
+possibility of sample enrichment, by substantially increasing the relative amount of the mutant
+over the wild-type sequence. 

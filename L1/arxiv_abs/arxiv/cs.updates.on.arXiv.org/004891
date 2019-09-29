@@ -1,0 +1,16 @@
+The question of what global information must distributed rational agents a-priori know about the
+network in order for equilibrium to be possible is researched here. Until now, distributed algorithms
+with rational agents have assumed that $n$, the size of the network, is a-priori known to the participants.
+We investigate the above question, considering different distributed computing problems and
+showing how much each agent must a-priori know about $n$ in order for distributed algorithms to be
+equilibria. The main tool considered throughout the paper is the advantage an agent may gain by duplication-
+pretending to be more than one agent. We start by proving that when no bound on $n$ is given equilibrium
+for Coloring and Knowledge Sharing is impossible. %We prove that when agents have no a-priori knowledge
+on $n$, or even a known bound, equilibrium for both Knowledge Sharing and Coloring is impossible.
+We provide new algorithms for both problems when $n$ \emph{is} a-priori known to all agents, thus
+showing that there are algorithms in which the only way for an agent to gain an advantage is duplication.
+We further show that for each distributed problem there is an a-priori known range, an upper and a
+lower bound on $n$, such that if the actual $n$ is guaranteed to lay in that range, equilibrium is possible.
+By providing equilibria for a specific range, and impossibility results for any larger range, we
+prove the tight range necessary for equilibrium in: Leader Election, Knowledge Sharing, Coloring,
+Partition and Orientation. 

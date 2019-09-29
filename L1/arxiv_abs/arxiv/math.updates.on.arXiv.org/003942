@@ -1,0 +1,17 @@
+The notion of a barely set-valued semistandard Young tableau was introduced by Reiner, Tenner and
+Yong in their study of the probability distribution of edges in the Young lattice of partitions.
+Given a partition $\lambda$ and a positive integer $k$, let ${\mathrm{BSSYT}}(\lambda,k)$ (respectively,
+${\mathrm{SYT}}(\lambda,k)$) denote the set of barely set-valued semistandard Young tableaux
+(respectively, ordinary semistandard Young tableaux) of shape $\lambda$ with entries in row $i$
+not exceeding $k+i$. In the case when $\lambda$ is a rectangular staircase partition $\delta_d(b^a)$,
+Reiner, Tenner and Yong conjectured that $|{\mathrm{BSSYT}}(\lambda,k)|= \frac{kab(d-1)}{(a+b)}
+|{\mathrm{SYT}}(\lambda,k)|$. In this paper, we establish a connection between barely set-valued
+tableaux and reverse plane partitions with designated corners. We show that for any shape $\lambda$,
+the expected jaggedness of a subshape of $\lambda$ under the weak probability distribution can
+be expressed as $\frac{2|{\mathrm{BSSYT}}(\lambda,k)|} {k|{\mathrm{SYT}}(\lambda,k)|}$.
+On the other hand, when $\lambda$ is a balanced shape with $r$ rows and $c$ columns, Chan, Haddadan,
+Hopkins and Moci proved that the expected jaggedness of a subshape in $\lambda$ under the weak distribution
+equals $2rc/(r+c)$. Hence, for a balanced shape $\lambda$ with $r$ rows and $c$ columns, we establish
+the relation that $|{\mathrm{BSSYT}}(\lambda,k)|=\frac{krc}{(r+c)}|{\mathrm{SYT}}(\lambda,k)|$.
+Since a rectangular staircase shape $\delta_d(b^a)$ is a balanced shape, we confirm the conjecture
+of Reiner, Tenner and Yong. 

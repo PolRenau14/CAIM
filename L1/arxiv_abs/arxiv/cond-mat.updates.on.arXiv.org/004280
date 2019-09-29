@@ -1,0 +1,16 @@
+Due to its non-equilibrium character, active matter in a steady state can drive engines that autonomously
+deliver work against a constant mechanical force or torque. As a generic model for such an engine,
+we consider systems that contain one or several active components and a single passive one that is
+asymmetric in its geometrical shape or its interactions. Generally, one expects that such an asymmetry
+leads to a persistent, directed current in the passive component, which can be used for the extraction
+of work. We validate this expectation for a minimal model consisting of an active and a passive particle
+on a one-dimensional lattice. It leads us to identify thermodynamically consistent measures for
+the efficiency of the conversion of isotropic activity to directed work. For systems with continuous
+degrees of freedom, work cannot be extracted using a one-dimensional geometry under quite general
+conditions. In contrast, we put forward two-dimensional shapes of a movable passive obstacle that
+are best suited for the extraction of work, which we compare with analytical results for an idealised
+work-extraction mechanism. For a setting with many non-interacting active particles, we use a
+mean-field approach to calculate the power and the efficiency, which we validate by simulations.
+Surprisingly, this approach reveals that the interaction with the passive obstacle can mediate
+cooperativity between otherwise non-interacting active particles, which enhances the extracted
+power per active particle significantly. 

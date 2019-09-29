@@ -1,0 +1,16 @@
+Nowadays, CubeSats are routinely used for low-cost photometry from space. Space-borne spectroscopy,
+however, is still the exclusive domain of much larger platforms. Key astrophysical questions in
+e.g. stellar physics and exoplanet research require uninterrupted spectral monitoring from space
+over weeks or months. Such monitoring of individual sources is unfortunately not affordable with
+these large platforms. With CUBESPEC we plan to offer the astronomical community a low-cost CubeSat
+solution for near-UV/optical/near-IR spectroscopy that enables this type of observations. CUBESPEC
+is a generic spectrograph that can be configured with minimal hardware changes to deliver both low
+resolution (R=100) with very large spectral coverage (200-1000nm), as well as high resolution
+(R=30,000) over a selected wavelength range. It is built around an off-axis Cassegrain telescope
+and a slit spectrograph with configurable dispersion elements. CUBESPEC will use a compact attitude
+determination and control system for coarse pointing of the entire spacecraft, supplemented with
+a fine-guidance system using a fast steering mirror to center the source on the spectrograph slit
+and to cancel out satellite jitter. An extremely compact optical design allows us to house this instrument
+in a 6U CubeSat with a volume of only 10x20x30cm$^{3}$, while preserving a maximized entrance pupil
+of ca. 9x19cm$^{2}$. In this contribution, we give an overview of the CUBESPEC project, discuss
+its most relevant science cases, and present the design of the instrument. 

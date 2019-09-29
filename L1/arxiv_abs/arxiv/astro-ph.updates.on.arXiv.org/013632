@@ -1,0 +1,16 @@
+Centaurus A (Cen~A) is the nearest active radio galaxy, which has kiloparsec (kpc) scale jets and
+{giant lobes detected by various instruments in radio and X-ray frequency ranges}. The $Fermi$--Large
+Area Telescope and High Energy Stereoscopic System (HESS) confirmed, that Cen~A is a very high-energy
+(VHE; $> 0.1$~TeV) $\gamma$-ray emitter with a known spectral {softening} in the energy range from
+a few GeV to TeV. In this work, we consider a synchrotron self-Compton model in the nucleus for the
+broad band spectrum {below the break energy} and an external Compton model in kpc-scale jets for
+the $\gamma$-ray excess. Our results show that the observed $\gamma$-ray excess can be suitably
+described by the inverse Compton scattering of the starlight photons in the kpc-scale jets, which
+is consistent with the recent tentative report by the HESS on the spatial extension of the TeV emission
+along the jets. Considering the spectral fitting results, the excess can only be seen in Cen~A, which
+is probably due to two factors: (1) the host galaxy is approximately 50 times more luminous than other
+typical radio galaxies and (2) the core $\gamma$-ray spectrum quickly decays above a few MeV due
+to the low maximum electron Lorentz factor of $\gamma_{\rm c}=2.8 \times 10^3$ resulting from the
+large magnetic field of 3.8~G in the core. By the comparison with other $\gamma$-ray detected radio
+galaxies, we found that the magnetic field strength of relativistic jets scales with the distance
+from the central black holes $d$ with $B (d) \propto d^{-0.88 \pm 0.14}$. 

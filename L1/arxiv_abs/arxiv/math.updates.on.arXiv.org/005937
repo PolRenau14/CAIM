@@ -1,0 +1,17 @@
+In this paper we establish an exact relationship between the asymptotic probability distributions
+$\nu_0$ and $\nu_2$ of the multiple point range of the planar random walk and the proper functions
+$\Gamma^{[0]}$ and $\Gamma^{[2]}$ respectively of the planar, complex $\phi^4$-theory, setting
+the number of components $m=0$: The characteristic functions $\Phi_0$ and $\Phi_2$ of $\nu_0$
+and $\nu_2$ have simple integral transforms $\zeta^{[0]}$ and $\zeta^{[2]}$ respectively which
+turn out to be the extensions of the proper functions $\Gamma^{[0]}$ and $\Gamma^{[2]}$ onto a Riemann
+surface (with infinitely many sheets) in the coupling constant $g$ and are well defined mathematically.
+$\zeta^{[0]}$ and $\zeta^{[2]}$ restricted to a specific sheet have a (sectorwise) uniform asymptotic
+expansion in $g=0$. The standard perturbation series of $\Gamma^{[0]}$ and $\Gamma^{[2]}$ in
+$g$ have expansion coefficients $\Gamma^{[0],pt}_r$ and $\Gamma^{[2],pt}_r$ which are polynomials
+in $m$. Order by order the lowest nontrivial polynomial coefficient in $m$: $\Gamma^{[0],pt}_{r,1}
+= \zeta^{[0]}_{r}$ and $\Gamma^{[2],pt}_{r,0} = \zeta^{[2]}_{r}$ where $\zeta^{[0]}_{r}$
+and $\zeta^{[2]}_{r}$ are the coefficients of the asymptotic series of $\zeta^{[0]}$ and $\zeta^{[2]}$
+around $g=0$ respectively. $\Phi_0$ and $\Phi_2$ turn out to be modified Borel type summations
+of those series. \\ As an application we derive the rising edge behaviour of $\nu_0$ and $\nu_2$ from
+the large order estimates of Lipatov \citep{lipatov}. It turns out to be of the form of a Gamma distribution
+with parameters known numerically. 

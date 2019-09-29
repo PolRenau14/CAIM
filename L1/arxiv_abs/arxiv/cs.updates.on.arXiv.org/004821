@@ -1,0 +1,16 @@
+Context-sensitive global analysis of large code bases can be expensive, which can be specially
+problematic in interactive uses of analyzers. However, in practice each development iteration
+implies small modifications which are often isolated within a few modules, and analysis cost can
+be reduced by reusing the results of previous analyses. This has been achieved to date on the one hand
+through modular analysis, which reduce memory consumption and on the other hand often localize
+the computation during reanalysis mainly to the modules affected by changes. In parallel, context-sensitive
+incremental fixpoints have been proposed that achieve cost reductions at finer levels of granularity,
+such as changes in program lines. However, these fine-grained techniques are not directly applicable
+to modular programs. This work describes, implements, and evaluates a context-sensitive fixpoint
+analysis algorithm for (Constraint) Logic Programs aimed at achieving both inter-modular (coarse-grain)
+and intra-modular(fine-grain) incrementality, solving the problems related to propagation
+of the fine-grain change information and effects across module boundaries, for additions and deletions
+in multiple modules. The implementation and evaluation of our algorithm shows encouraging results:
+the expected advantages of fine-grain incremental analysis carry over to the modular analysis
+context. Furthermore, the fine-grained propagation of analysis information of our algorithm
+improves performance with respect to traditional modular analysis even when analyzing from scratch.

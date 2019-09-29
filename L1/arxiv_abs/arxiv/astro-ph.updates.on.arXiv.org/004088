@@ -1,0 +1,16 @@
+We perform the non-local thermodynamic equilibrium (NLTE) calculations for Ca I-II with the updated
+model atom that includes new quantum-mechanical rate coefficients for Ca I + H I collisions from
+two recent studies, that is, by Barklem and by Mitrushchenkov, Guitou, Belyaev, Yakovleva, Spielfiedel,
+and Feautrier, and investigate the accuracy of calcium abundance determinations using the Sun,
+Procyon, and five metal-poor (MP) stars with well-determined stellar parameters. We show that
+both collisional recipes lead to very similar NLTE results. When using the subordinate lines of
+Ca I and the high-excitation lines of Ca II, NLTE provides the smaller line-to-line scatter compared
+with the LTE case for each star. For Procyon, NLTE removes a steep trend with line strength among strong
+Ca I lines seen in LTE and leads to consistent [Ca/H] abundances from the two ionisation stages. In
+the MP stars, the NLTE abundance from Ca II 8498 A agrees well with that from the Ca I subordinate lines.
+NLTE largely removes abundance discrepancies between the high-excitation lines of Ca I and Ca II
+8498 A obtained for our four [Fe/H] < -2 stars under the LTE assumption. We investigate the formation
+of the Ca I resonance line in the [Fe/H] < -2 stars. Consistent NLTE abundances from the Ca I resonance
+line and the Ca II lines are found for two hyper metal-poor stars HE0107-5240 and HE1327-2326. We
+provide the NLTE abundance corrections for 28 lines of Ca I in a grid of model atmospheres suitable
+for abundance analysis of FGK-type dwarfs and subgiants. 

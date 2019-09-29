@@ -1,0 +1,16 @@
+Multi-parameter cognition in a cognitive radio network (CRN) provides a more thorough understanding
+of the radio environments, and could potentially lead to far more intelligent and efficient spectrum
+usage for a secondary user. In this paper, we investigate the multi-parameter cognition problem
+for a CRN where the primary transmitter (PT) radiates multiple transmit power levels, and propose
+a learning-based two-stage spectrum sharing strategy. We first propose a data-driven/machine
+learning based multi-level spectrum sensing scheme, including the spectrum learning (Stage I)
+and prediction (the first part in Stage II). This fully blind sensing scheme does not require any
+prior knowledge of the PT power characteristics. Then, based on a novel normalized power level alignment
+metric, we propose two prediction-transmission structures, namely periodic and non-periodic,
+for spectrum access (the second part in Stage II), which enable the secondary transmitter (ST) to
+closely follow the PT power level variation. The periodic structure features a fixed prediction
+interval, while the non-periodic one dynamically determines the interval with a proposed reinforcement
+learning algorithm to further improve the alignment metric. Finally, we extend the prediction-transmission
+structure to an online scenario, where the number of PT power levels might change as a consequence
+of PT adapting to the environment fluctuation or quality of service variation. The simulation results
+demonstrate the effectiveness of the proposed strategy in various scenarios. 

@@ -1,0 +1,16 @@
+This retrospective paper describes the RowHammer problem in Dynamic Random Access Memory (DRAM),
+which was initially introduced by Kim et al. at the ISCA 2014 conference~\cite{rowhammer-isca2014}.
+RowHammer is a prime (and perhaps the first) example of how a circuit-level failure mechanism can
+cause a practical and widespread system security vulnerability. It is the phenomenon that repeatedly
+accessing a row in a modern DRAM chip causes bit flips in physically-adjacent rows at consistently
+predictable bit locations. RowHammer is caused by a hardware failure mechanism called {\em DRAM
+disturbance errors}, which is a manifestation of circuit-level cell-to-cell interference in
+a scaled memory technology. Researchers from Google Project Zero demonstrated in 2015 that this
+hardware failure mechanism can be effectively exploited by user-level programs to gain kernel
+privileges on real systems. Many other follow-up works demonstrated other practical attacks exploiting
+RowHammer. In this article, we comprehensively survey the scientific literature on RowHammer-based
+attacks as well as mitigation techniques to prevent RowHammer. We also discuss what other related
+vulnerabilities may be lurking in DRAM and other types of memories, e.g., NAND flash memory or Phase
+Change Memory, that can potentially threaten the foundations of secure systems, as the memory technologies
+scale to higher densities. We conclude by describing and advocating a principled approach to memory
+reliability and security research that can enable us to better anticipate and prevent such vulnerabilities.

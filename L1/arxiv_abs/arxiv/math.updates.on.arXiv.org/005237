@@ -1,0 +1,17 @@
+In this paper, we investigate neural networks applied to multiscale simulations and discuss a design
+of a novel deep neural network model reduction approach for multiscale problems. Due to the multiscale
+nature of the medium, the fine-grid resolution gives rise to a huge number of degrees of freedom.
+In practice, low-order models are derived to reduce the computational cost. In our paper, we use
+a non-local multicontinuum (NLMC) approach, which represents the solution on a coarse grid [18].
+Using multi-layer learning techniques, we formulate and learn input-output maps constructed
+with NLMC on a coarse grid. We study the features of the coarse-grid solutions that neural networks
+capture via relating the input-output optimization to $l_1$ minimization of PDE solutions. In
+proposed multi-layer networks, we can learn the forward operators in a reduced way without computing
+them as in POD like approaches. We present soft thresholding operators as activation function,
+which our studies show to have some advantages. With these activation functions, the neural network
+identifies and selects important multiscale features which are crucial in modeling the underlying
+flow. Using trained neural network approximation of the input-output map, we construct a reduced-order
+model for the solution approximation. We use multi-layer networks for the time stepping and reduced-order
+modeling, where at each time step the appropriate important modes are selected. For a class of nonlinear
+problems, we suggest an efficient strategy. Numerical examples are presented to examine the performance
+of our method. 

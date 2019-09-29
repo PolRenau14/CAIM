@@ -1,0 +1,16 @@
+Transactional memory (TM) facilitates the development of concurrent applications by letting
+the programmer designate certain code blocks as atomic. Programmers using a TM often would like
+to access the same data both inside and outside transactions, and would prefer their programs to
+have a strongly atomic semantics, which allows transactions to be viewed as executing atomically
+with respect to non-transactional accesses. Since guaranteeing such semantics for arbitrary
+programs is prohibitively expensive, researchers have suggested guaranteeing it only for certain
+data-race free (DRF) programs, particularly those that follow the privatization idiom: from some
+point on, threads agree that a given object can be accessed non-transactionally. In this paper we
+show that a variant of Transactional DRF (TDRF) by Dalessandro et al. is appropriate for a class of
+privatization-safe TMs, which allow using privatization idioms. We prove that, if such a TM satisfies
+a condition we call privatization-safe opacity and a program using the TM is TDRF under strongly
+atomic semantics, then the program indeed has such semantics. We also present a method for proving
+privatization-safe opacity that reduces proving this generalization to proving the usual opacity,
+and apply the method to a TM based on two-phase locking and a privatization-safe version of TL2. Finally,
+we establish the inherent cost of privatization-safety: we prove that a TM cannot be progressive
+and have invisible reads if it guarantees strongly atomic semantics for TDRF programs. 

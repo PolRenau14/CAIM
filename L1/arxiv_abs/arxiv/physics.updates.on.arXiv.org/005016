@@ -1,0 +1,16 @@
+Many astrochemical models today explicitly consider the species that comprise the bulk of interstellar
+dust grain ice-mantles separately from those in the top few monolayers. Bombardment of these ices
+by ionizing radiation - whether in the form of cosmic rays, stellar winds, or radionuclide emission
+- represents an astrochemically viable means of driving a rich chemistry even in the bulk of the ice-mantle,
+now supported by a large body of work in laboratory astrophysics. In this study, using an existing
+rate equation-based astrochemical code modified to include a method of considering radiation
+chemistry recently developed by us, we attempted to simulate two such studies in which (a) pure O$_2$
+ice at 5 K and, (b) pure H$_2$O ice at 16 K and 77 K, were bombarded by keV H$^+$ ions. Our aims are twofold:
+(1) to test the capability of our newly developed method to replicate the results of ice-irradiation
+experiments, and (2) to determine in such a well-constrained system how bulk chemistry is best handled
+using the same gas-grain codes that are used to model the interstellar medium (ISM). We find that
+our modified astrochemical model is able to reproduce both the abundance of O$_3$ in the 5 K pure O$_2$
+ice, as well as both the abundance of H$_2$O$_2$ in the 16 K water ice and the previously noted decrease
+of hydrogen peroxide at higher temperatures. However, these results require the assumption that
+radicals and other reactive species produced via radiolysis react quickly and non-diffusively
+with neighbors in the ice. 

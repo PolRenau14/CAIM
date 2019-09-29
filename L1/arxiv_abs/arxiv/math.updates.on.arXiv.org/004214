@@ -1,0 +1,16 @@
+In the traditional index coding problem, a server employs coding to send messages to $n$ clients
+within the same broadcast domain. Each client already has some messages as side information and
+requests a particular unknown message from the server. All clients learn the coding matrix so that
+they can decode and retrieve their requested data. Our starting observation is that, learning the
+coding matrix can pose privacy concerns: it may enable a client to infer information about the requests
+and side information of other clients. In this paper, we mitigate this privacy concern by allowing
+each client to have limited access to the coding matrix. In particular, we design coding matrices
+so that each client needs only to learn some of (and not all) the rows to decode her requested message.
+By means of two different privacy metrics, we first show that this approach indeed increases the
+level of privacy. Based on this, we propose the use of $k$-limited-access schemes: given an index
+coding scheme that employs $T$ transmissions, we create a $k$-limited-access scheme with $T_k\geq
+T$ transmissions, and with the property that each client needs at most $k$ transmissions to decode
+her message. We derive upper and lower bounds on $T_k$ for all values of $k$, and develop deterministic
+designs for these schemes, which are universal, i.e., independent of the coding matrix. We show
+that our schemes are order-optimal when either $k$ or $n$ is large. Moreover, we propose heuristics
+that complement the universal schemes for the case when both $n$ and $k$ are small. 

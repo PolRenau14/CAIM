@@ -1,0 +1,16 @@
+Reprocessed X-ray radiation carries important information about the structure and physical characteristics
+of the material surrounding the supermassive black hole (SMBH) in active galactic nuclei (AGN).
+We report here on a newly developed simulation platform, RefleX, which allows to reproduce absorption
+and reflection by quasi-arbitrary geometries. We show here the reliability of our approach by comparing
+the results of our simulations with existing spectral models such as pexrav, MYTorus and BNTorus.
+RefleX implements both Compton scattering on free electrons and Rayleigh scattering and Compton
+scattering on bound electrons. We show the effect of bound-electron corrections on a torus geometry
+simulated like in MYTorus. We release with this paper the RefleX executable, as well as RXTorus,
+a model that assumes absorption and reflection from a torus with a varying ratio of the minor to major
+axis of the torus. To allow major flexibility RXTorus is also distributed in three components: absorbed
+primary emission, scattered radiation and fluorescent lines. RXTorus is provided for different
+values of the abundance, and with (atomic configuration) or without (free-electron configuration)
+taking into account Rayleigh scattering and bound electrons. We apply the RXTorus model in both
+configurations on the XMM-Newton and NuSTAR spectrum of the Compton-thick AGN NGC 424 and find that
+the models are able to reproduce very well the observations, but that the assumption on the bound
+or free state of the electrons has significant consequences on the fit parameters. 

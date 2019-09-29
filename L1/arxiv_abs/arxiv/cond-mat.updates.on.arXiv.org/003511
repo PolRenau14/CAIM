@@ -1,0 +1,17 @@
+Pressure alters the physical, chemical and electronic properties of matter. The development of
+the diamond anvil cell (DAC) enables tabletop experiments to investigate a diverse landscape of
+high-pressure phenomena ranging from the properties of planetary interiors to transitions between
+quantum mechanical phases. In this work, we introduce and utilize a novel nanoscale sensing platform,
+which integrates nitrogen-vacancy (NV) color centers directly into the culet (tip) of diamond
+anvils. We demonstrate the versatility of this platform by performing diffraction-limited imaging
+(~600 nm) of both stress fields and magnetism, up to pressures ~30 GPa and for temperatures ranging
+from 25-340 K. For the former, we quantify all six (normal and shear) stress components with accuracy
+$<0.01$ GPa, offering unique new capabilities for characterizing the strength and effective viscosity
+of solids and fluids under pressure. For the latter, we demonstrate vector magnetic field imaging
+with dipole accuracy $<10^{-11}$ emu, enabling us to measure the pressure-driven $\alpha\leftrightarrow\epsilon$
+phase transition in iron as well as the complex pressure-temperature phase diagram of gadolinium.
+In addition to DC vector magnetometry, we highlight a complementary NV-sensing modality using
+T1 noise spectroscopy; crucially, this demonstrates our ability to characterize phase transitions
+even in the absence of static magnetic signatures. By integrating an atomic-scale sensor directly
+into DACs, our platform enables the in situ imaging of elastic, electric and magnetic phenomena
+at high pressures. 

@@ -1,0 +1,16 @@
+This note is mostly based on the lecture delivered at the conference "Algebraic Analysis and Representation
+Theory" in honor of Professor Masaki Kashiwara's 70th birthday. Its main topic is the project aimed
+at obtaining the Plancherel formula for the regular representation of Affine Hecke Algebras (AHA)
+as the limit $q\to 0$ of the integral-type formulas for DAHA inner products in the polynomial and
+related modules. The integrals for the latter as $\Re k>0$ (in the DAHA parameters) must be analytically
+continued to negative $\Re k$, which is a $q$-generalization of "picking up residues" due to Arthur,
+Heckman, Opdam and others, which can be traced back to Hermann Weyl. We arrive at finite sums of integrals
+over double affine residual subtori. This is not related to the DAHA reducibility of the polynomial
+and similar modules; the procedure is nontrivial for any $\Re k<0$. Though such formulas can be used
+for the DAHA stratification when these modules become reducible for singular (negative) $k$. The
+decomposition of the regular AHA representation in terms of (unitary) irreducible modules is an
+important part of algebraic harmonic analysis, involving deep geometric methods (Kazhdan- Lusztig
+and others). As a possible application, our approach would allow to interpret formal degrees of
+AHA discrete series via DAHA. We mainly discuss the spherical case and provide explicit analytic
+continuations only for $A_1$. The key is that the uniqueness of the DAHA inner product fixes the $q$-generalization
+of the corresponding AHA decomposition (and $q$-counterparts of formal degrees) uniquely. 

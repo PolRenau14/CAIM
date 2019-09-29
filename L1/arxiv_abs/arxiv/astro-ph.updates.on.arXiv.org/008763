@@ -1,0 +1,16 @@
+We present nebular phase optical and near-infrared spectroscopy of the Type Ia supernova (SN) 2017cbv.
+The early light curves of SN~2017cbv showed a prominent blue bump in the $U$, $B$ and $g$ bands lasting
+for $\sim$5 d. One interpretation of the early light curve was that the excess blue light was due to
+shocking of the SN ejecta against a nondegenerate companion star -- a signature of the single degenerate
+scenario. If this is the correct interpretation, the interaction between the SN ejecta and the companion
+star could result in significant H$\alpha$ (or helium) emission at late times, possibly along with
+other species, depending on the companion star and its orbital separation. A search for H$\alpha$
+emission in our +302 d spectrum yields a nondetection, with a $L_{H\alpha}$$<$8.0$\times$10$^{35}$
+erg/s (given an assumed distance of $D$=12.3 Mpc), which we have verified by implanting simulated
+H$\alpha$ emission into our data. We make a quantitative comparison to models of swept-up material
+stripped from a nondegenerate companion star, and limit the mass of hydrogen that might remain undetected
+to $M_{\rm H} < 1 \times 10^{-4}$ $\rm M_{\odot}$. A similar analysis of helium star related lines
+yields a $M_{\rm He} < 5 \times 10^{-4}$ $\rm M_{\odot}$. Taken at face value, these results argue
+against a nondegenerate H or He-rich companion in Roche lobe overflow as the progenitor of SN 2017cbv.
+Alternatively, there could be weaknesses in the envelope-stripping and radiative transfer models
+necessary to interpret the strong H and He flux limits. 

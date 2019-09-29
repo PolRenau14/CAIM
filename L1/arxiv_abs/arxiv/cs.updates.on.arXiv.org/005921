@@ -1,0 +1,16 @@
+Causally insufficient structures (models with latent or hidden variables, or with confounding
+etc.) of joint probability distributions have been subject of intense study not only in statistics,
+but also in various AI systems. In AI, belief networks, being representations of joint probability
+distribution with an underlying directed acyclic graph structure, are paid special attention
+due to the fact that efficient reasoning (uncertainty propagation) methods have been developed
+for belief network structures. Algorithms have been therefore developed to acquire the belief
+network structure from data. As artifacts due to variable hiding negatively influence the performance
+of derived belief networks, models with latent variables have been studied and several algorithms
+for learning belief network structure under causal insufficiency have also been developed. Regrettably,
+some of them are known already to be erroneous (e.g. IC algorithm of [Pearl:Verma:91]. This paper
+is devoted to another algorithm, the Fast Causal Inference (FCI) Algorithm of [Spirtes:93]. It
+is proven by a specially constructed example that this algorithm, as it stands in [Spirtes:93],
+is also erroneous. Fundamental reason for failure of this algorithm is the temporary introduction
+of non-real links between nodes of the network with the intention of later removal. While for trivial
+dependency structures these non-real links may be actually removed, this may not be the case for
+complex ones, e.g. for the case described in this paper. A remedy of this failure is proposed. 

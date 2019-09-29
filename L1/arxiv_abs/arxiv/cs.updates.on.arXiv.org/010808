@@ -1,0 +1,16 @@
+In the task of distribution-to-distribution regression, a recently proposed model, distribution
+regression network (DRN) (Kou et al., 2018) has shown superior performance compared to conventional
+neural networks while using much fewer parameters. The key novelty of DRN is that it encodes an entire
+distribution in each network node, and this compact representation allows DRN to achieve better
+accuracies than conventional neural networks. However, the experiments in Kou et al. (2018) focused
+mainly on non-time series data and there is no systematic study on how DRN performs with limited annotated
+data. The ability to train well with limited training data is an important feature in the current
+supervised training paradigm. In this paper, we evaluate DRN for the new task of performing forward
+prediction on time sequences of probability distributions. We also perform extensive studies
+on how the test performance varies with the size of training data since for time series, the number
+of data may be limited given the seasonality of the data. In our experiments, we show that DRN requires
+two to five times fewer training data than neural networks to achieve similar prediction accuracies.
+However, DRN is a feedforward network and does not explicitly model time dependencies. Hence we
+propose a new recurrent architecture for DRN, named recurrent distribution regression network
+(RDRN). In our experiments involving prediction on sequences of distributions, RDRN and DRN outperform
+neural network models, with RDRN achieving similar or better accuracies than DRN. 

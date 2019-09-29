@@ -1,0 +1,16 @@
+While the motion of particles near a rotating, electrically-neutral (Kerr), and charged (Kerr--Newman)
+black hole is always strictly regular, a perturbation in the gravitational or the electromagnetic
+field generally leads to chaos. The transition from regular to chaotic dynamics is relatively gradual
+if the system preserves axial symmetry, whereas non-axisymmetry induces chaos more efficiently.
+Here we study the development of chaos in an oblique (electro-vacuum) magnetosphere of a magnetized
+black hole. Besides the strong gravity of the massive source represented by the Kerr metric we consider
+the presence of a weak, ordered, large-scale magnetic field. An axially-symmetric model consisting
+of a rotating black hole embedded in an aligned magnetic field is generalized by allowing an oblique
+direction of the field having a general inclination, with respect to the rotation axis of the system.
+The inclination of the field acts as an additional perturbation to the motion of charged particles
+as it breaks the axial symmetry of the system and cancels the related integral of motion. The axial
+component of angular momentum is no longer conserved and the resulting system thus has three degrees
+of freedom. Our primary concern within this contribution is to find out how sensitive the system
+of bound particles is to the inclination of the field. We employ the method of the maximal Lyapunov
+exponent to distinguish between regular and chaotic orbits and to quantify their chaoticity. We
+find that even a small misalignment induces chaotic motion. 

@@ -1,0 +1,17 @@
+We measure the bulk system parameters of the seismically active, rapidly-rotating $\delta$-Scuti
+KOI-976 and constrain the orbit geometry of its transiting binary companion using a combined approach
+of asteroseismology and gravity-darkening light curve analysis. KOI-976 is a $1.62\pm0.2~\mathrm{M_\odot}$
+star with a measured $v\sin(i)$ of $120\pm2$ km/s and seismically-induced variable signal that
+varies by $\sim$ 0.6\% of the star's total photometric brightness. We take advantage of the star's
+oblate shape and seismic activity to perform three measurements of its obliquity angle relative
+to the plane of the sky. We first apply rotational splitting theory to the star's variable signal
+observed in short-cadence \emph{Kepler} photometry to constrain KOI-976's obliquity angle,
+and then subtract off variability from that dataset using the linear algorithm for significance
+reduction software {\tt LASR}. We perform gravity-darkened fits to \emph{Kepler} variability-subtracted
+short-cadence photometry and to \emph{Kepler's} phase-folded long-cadence photometry to obtain
+two more measurements of the star's obliquity. We find that the binary system transits in a grazing
+configuration with measured obliquity values of $36^\circ\pm17^\circ$, $46^\circ\pm16^\circ$,
+and $43^\circ\pm20^\circ$ respectively for the three measurements. We perform these analyses
+as a way to demonstrate overcoming the challenges high-mass stars can present to transit light curve
+fitting and to prepare for the large number of exoplanets \emph{TESS} will discover orbiting A/F
+stars. 

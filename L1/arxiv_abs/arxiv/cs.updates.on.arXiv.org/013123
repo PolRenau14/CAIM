@@ -1,0 +1,17 @@
+It is common practice in using regression type models for inferring causal effects, that inferring
+the correct causal relationship requires extra covariates are included or ``adjusted for''. Without
+performing this adjustment erroneous causal effects can be inferred. Given this phenomenon it
+is common practice to include as many covariates as possible, however such advice comes unstuck
+in the presence of M-bias. M-Bias is a problem in causal inference where the correct estimation of
+treatment effects requires that certain variables are not adjusted for i.e. are simply neglected
+from inclusion in the model. This issue caused a storm of controversy in 2009 when Rubin, Pearl and
+others disagreed about if it could be problematic to include additional variables in models when
+inferring causal effects. This paper makes two contributions to this issue. Firstly we provide
+a Bayesian solution to the M-Bias problem. The solution replicates Pearl's solution, but consistent
+with Rubin's advice we condition on all variables. Secondly the fact that we are able to offer a solution
+to this problem in Bayesian terms shows that it is indeed possible to represent causal relationships
+within the Bayesian paradigm, albeit in an extended space. We make several remarks on the similarities
+and differences between causal graphical models which implement the do-calculus and probabilistic
+graphical models which enable Bayesian statistics. We hope this work will stimulate more research
+on unifying Pearl's causal calculus using causal graphical models with traditional Bayesian statistics
+and probabilistic graphical models. 

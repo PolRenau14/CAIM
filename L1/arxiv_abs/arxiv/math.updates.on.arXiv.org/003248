@@ -1,0 +1,17 @@
+Threshold factors govern the maximally allowable step-size at which positivity or contractivity
+preservation of explicit integration methods for initial value problems is guaranteed. An optimal
+threshold factor, $R_{m,n}$, is defined as the largest possible positive real number for which
+there exists a real polynomial $P$ of degree $m$, absolutely monotonic over the interval $[-R_{m,n},0]$
+and such that $P(x)= \exp(x) + \mathcal{O}(x^{n+1})$ when $x \rightarrow 0$. In this paper, we show
+that the task of computing optimal threshold factors is, to a certain extent, equivalent to the problem
+of characterizing positive quadratures with integer nodes with respect to Poisson-Charlier measures.
+Using this equivalence, we provide sharp upper and lower bounds for the optimal threshold factors
+in terms of the zeros of generalized Laguerre polynomials. Also based on this equivalence, we propose
+a highly efficient and stable algorithm for computing these factors based on adaptive spectral
+transformations of Poisson-Charlier measures. The algorithm possesses the remarkable property
+that its complexity depends only on the order of approximation and thus is independent of the degree
+of the underlying polynomials. Our results are achieved by adapting and extending an ingenious
+technique by Bernstein in his seminal work on absolutely monotonic functions. Moreover, the techniques
+introduced in this work can be adapted to solve the integer quadrature problem for any positive discrete
+multi-parametric measure supported on $\mathbb{N}$ under some mild conditions on the zeros of
+the associated orthogonal polynomials. 

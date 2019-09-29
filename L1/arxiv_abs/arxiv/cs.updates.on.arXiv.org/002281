@@ -1,0 +1,16 @@
+There is an implicit assumption in software testing that more diverse and varied test data is needed
+for effective testing and to achieve different types and levels of coverage. Generic approaches
+based on information theory to measure and thus, implicitly, to create diverse data have also been
+proposed. However, if the tester is able to identify features of the test data that are important
+for the particular domain or context in which the testing is being performed, the use of generic diversity
+measures such as this may not be sufficient nor efficient for creating test inputs that show diversity
+in terms of these features. Here we investigate different approaches to find data that are diverse
+according to a specific set of features, such as length, depth of recursion etc. Even though these
+features will be less general than measures based on information theory, their use may provide a
+tester with more direct control over the type of diversity that is present in the test data. Our experiments
+are carried out in the context of a general test data generation framework that can generate both
+numerical and highly structured data. We compare random sampling for feature-diversity to different
+approaches based on search and find a hill climbing search to be efficient. The experiments highlight
+many trade-offs that needs to be taken into account when searching for diversity. We argue that recurrent
+test data generation motivates building statistical models that can then help to more quickly achieve
+feature diversity. 

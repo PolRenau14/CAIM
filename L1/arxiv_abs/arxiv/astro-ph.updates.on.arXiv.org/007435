@@ -1,0 +1,16 @@
+It has long been shown that the extreme ultraviolet spectrum of the ionizing stars of H II regions
+can be estimated by comparing the observed line emission to detailed models. In the Galactic Center
+(GC), however, previous observations have shown that the ionizing spectral energy distribution
+(SED) of the local photon field is strange, producing both very low excitation ionized gas (indicative
+of ionization by late O stars) and also widespread diffuse emission from atoms too highly ionized
+to be found in normal H II regions. This paper describes the analysis of all the GC spectra taken by
+Spitzer's Infrared Spectrograph and downloaded from the Spitzer Heritage Archive. In it, H II region
+densities and abundances are described, and serendipitously discovered candidate planetary
+nebulae, compact shocks, and candidate young stellar objects are tabulated. Models were computed
+with Cloudy, using SEDs from Starburst99 plus additional X-rays, and compared to the observed mid-infrared
+forbidden and recombination lines. The ages inferred from the model fits do not agree with recent
+proposed star formation sequences (star formation in the GC occurring along streams of gas with
+density enhancements caused by close encounters with the black hole, Sgr A*), with Sgr~B1, Sgr~C,
+and the Arches Cluster being all about the same age, around 4.5 Myr old, with similar X-ray requirements.
+The fits for the Quintuplet Cluster appear to give a younger age, but that could be caused by higher-energy
+photons from shocks from stellar winds or from a supernova. 

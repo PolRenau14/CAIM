@@ -1,0 +1,16 @@
+Hypervelocity stars (HVSs) travel from the Galactic Centre across the dark matter halo of the Milky
+Way, where they are observed with velocities in excess of the Galactic escape speed. Because of their
+quasi-radial trajectories, they represent a unique probe of the still poorly constrained dark
+matter component of the Galactic potential. In this paper, we present a new method to produce such
+constraints. Our likelihood is based on the local HVS density obtained by back-propagating the
+observed phase space position and quantifies the ejection probability along the orbit. To showcase
+our method, we apply it to simulated Gaia samples of $\sim200$ stars in three realistic Galactic
+potentials with dark matter components parametrized by spheroidal NFW profiles. We find that individual
+HVSs exhibit a degeneracy in the scale mass-scale radius plane ($M_s-r_s$) and are able to measure
+only the combination $\alpha = M_s/r_s^2$. Likewise, a degeneracy is also present between $\alpha$
+and the spheroidal axis-ratio $q$. In the absence of observational errors, we show the whole sample
+can nail down both parameters with {\it sub-per cent} precision (about $1\%$ and $0.1\%$ for $\alpha$
+and $q$ respectively) with no systematic bias. This remarkable power to constrain deviations from
+a symmetric halo is a consequence of the Galactocentric origin of HVSs. To compare our results with
+other probes, we break the degeneracy in the scale parameters and impose a mass-concentration relation.
+The result is a competitive precision on the virial mass $M_{200}$ of about $10\%$. 

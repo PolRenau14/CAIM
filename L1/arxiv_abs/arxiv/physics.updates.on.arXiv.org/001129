@@ -1,0 +1,16 @@
+The Rashba effect, a spin splitting in electronic band structure, attracts much attention for the
+potential applications in spintronics with no requirement of external magnetic field. Realizing
+one-dimensional (1D) Rashba system is a big challenge due to the difficulties of growing high-quality
+heavy-metal nanowires or introducing strong spin-orbit coupling (SOC) and broken inversion symmetry
+in flexible materials. Here, based on first-principles calculations, we propose a pathway to realize
+the Rashba spin-split by adsorbing Gd atom on zigzag graphene nanoribbons (Gd-ZGNR) and further
+investigate the magnetic anisotropy energy (MAE). Perpendicular MAE and unconventional MAE contributions
+in k-space are found in the self-assembled Gd-ZGNR system, which present a remarkable Rashba effect
+(the estimated strength is 1.89 eV {\AA}) attributed to strong SOC (~65.6 meV) and the asymmetric
+adsorption site at the nanoribbons edge. Moreover, first-order MAE is connected to the intrinsic
+Rashba effect beyond the traditional second-order MAE, which is confirmed based on the analysis
+of electronic structures perturbed with SOC in comparison with metastable Gd-ZGNR at central symmetric
+adsorption site. The dependence of first-order MAE as well as Rashba effect of Gd-ZGNRs on the ribbon
+width are also examined. This work offers new perspective to achieve 1D Rashba system and provides
+fundamental understanding on the magnetic anisotropy, which would be of great significance for
+searching Majorana fermions and promoting the potential applications in spintronics. 

@@ -1,0 +1,16 @@
+We compute the evolution of interstellar dust in a hydrodynamic simulation of an isolated disc galaxy.
+We newly implement the evolution of full grain size distribution by sampling 32 grid points on the
+axis of the grain radius. We solve it consistently with the chemical enrichment and hydrodynamic
+evolution of the galaxy. This enables us to theoretically investigate spatially resolved evolution
+of grain size distribution in a galaxy. The grain size distribution evolves from a large-grain-dominated
+($\gtrsim 0.1~\mu$m) phase to a small-grain production phase, eventually converging to a power-law-like
+grain size distribution similar to the so-called MRN distribution. We find that the small-grain
+abundance is higher in the dense ISM in the early epoch ($t\lesssim 1$ Gyr) because of efficient dust
+growth by accretion, while coagulation makes the small-grain abundance less enhanced in the dense
+ISM later. This leads to steeper extinction curves in the dense ISM than in the diffuse ISM in the early
+phase, while they show the opposite trend later. The radial trend is also described by faster evolution
+in the inner part. We also confirm that the simulation reproduces the observed trend in the relation
+between dust-to-gas ratio and metallicity, and in the radial gradients of dust-to-gas ratio and
+dust-to-metal ratio. Since the above change in the grain size distribution occurs at $t\sim 1$ Gyr,
+the age and density dependence of grain size distribution has a significant impact on the extinction
+curves even at high redshift. 

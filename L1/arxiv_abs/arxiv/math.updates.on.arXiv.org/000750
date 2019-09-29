@@ -1,0 +1,16 @@
+In this article, we consider parabolic equations on a bounded open connected subset $\Omega$ of
+$\R^n$. We model and investigate the problem of optimal shape and location of the observation domain
+having a prescribed measure. This problem is motivated by the question of knowing how to shape and
+place sensors in some domain in order to maximize the quality of the observation: for instance, what
+is the optimal location and shape of a thermometer? We show that it is relevant to consider a spectral
+optimal design problem corresponding to an average of the classical observability inequality
+over random initial data, where the unknown ranges over the set of all possible measurable subsets
+of $\Omega$ of fixed measure. We prove that, under appropriate sufficient spectral assumptions,
+this optimal design problem has a unique solution, depending only on a finite number of modes, and
+that the optimal domain is semi-analytic and thus has a finite number of connected components. This
+result is in strong contrast with hyperbolic conservative equations (wave and Schr\"odinger)
+studied in [56] for which relaxation does occur. We also provide examples of applications to anomalous
+diffusion or to the Stokes equations. In the case where the underlying operator is any positive (possible
+fractional) power of the negative of the Dirichlet-Laplacian, we show that, surprisingly enough,
+the complexity of the optimal domain may strongly depend on both the geometry of the domain and on
+the positive power. The results are illustrated with several numerical simulations. 

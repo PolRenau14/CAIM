@@ -1,0 +1,16 @@
+Since 2014, NASA's K2 mission has observed large portions of the ecliptic plane in search of transiting
+planets and has detected hundreds of planet candidates. With observations planned until at least
+early 2018, K2 will continue to identify more planet candidates. We present here 275 planet candidates
+observed during Campaigns 0-10 of the K2 mission that are orbiting stars brighter than 13th magnitude
+(in Kepler band) and for which we have obtained high-resolution spectra (R = 44,000). These candidates
+are analyzed using the VESPA package (Morton 2012, 2015b) in order to calculate their false positive
+probabilities (FPP). We find that 149 candidates are validated with a FPP less than 0.1%, 39 of which
+were previously only candidates and 56 of which were previously undetected. The processes of data
+reduction, candidate identification, and statistical validation are described, and the demographics
+of the candidates and newly validated planets are explored. We show tentative evidence of a gap in
+the planet radius distribution of our candidate sample. Comparing our sample to the Kepler candidate
+sample investigated by Fulton et al. (2017), we conclude that more planets are required to quantitatively
+confirm the gap with K2 candidates or validated planets. This work, in addition to increasing the
+population of validated K2 planets by roughly 50% and providing new targets for follow-up observations,
+will also serve as a framework for validating candidates from upcoming K2 campaigns and the Transiting
+Exoplanet Survey Satellite (TESS), expected to launch in 2018. 

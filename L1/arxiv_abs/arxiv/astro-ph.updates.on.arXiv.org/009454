@@ -1,0 +1,16 @@
+We derive NUV luminosity functions for 6471 NUV detected galaxies in 28 $0.02 < z < 0.08$ clusters
+and consider their dependence on cluster properties. We consider optically red and blue galaxies
+and explore how their NUV LFs vary in several cluster subsamples, selected to best show the influence
+of environment. Our composite LF is well fit by the Schechter form with $M^*_{NUV}=-18.98 \pm 0.07$
+and $\alpha=-1.87 \pm 0.03$ in good agreement with values for the Coma centre and the Shapley supercluster,
+but with a steeper slope and brighter $L^*$ than in Virgo. The steep slope is due to the contribution
+of massive quiescent galaxies that are faint in the NUV. There are significant differences in the
+NUV LFs for clusters having low and high X-ray luminosities and for sparse and dense clusters, though
+none are particularly well fitted by the Schechter form, making a physical interpretation of the
+parameters difficult. When splitting clusters into two subsamples by X-ray luminosity, the ratio
+of low to high NUV luminosity galaxies is higher in the high X-ray luminosity subsample (i.e the luminosity
+function is steeper across the sampled luminosity range). In subsamples split by surface density,
+when characterised by Schechter functions the dense clusters have an $M^*$ about a magnitude fainter
+than that of the sparse clusters and $\alpha$ is steeper ($-1.9$ vs. $-1.6$ respectively). The differences
+in the data appear to be driven by changes in the LF of blue (star-forming) galaxies. This appears
+to be related to interactions with the cluster gas [abridged] 

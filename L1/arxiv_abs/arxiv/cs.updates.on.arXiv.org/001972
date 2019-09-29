@@ -1,0 +1,16 @@
+Neural networks are known to be vulnerable to adversarial examples, inputs that have been intentionally
+perturbed to remain visually similar to the source input, but cause a misclassification. Until
+now, black-box attacks against neural networks have relied on transferability of adversarial
+examples. White-box attacks are used to generate adversarial examples on a substitute model and
+then transferred to the black-box target model. In this paper, we introduce a direct attack against
+black-box neural networks, that uses another attacker neural network to learn to craft adversarial
+examples. We show that our attack is capable of crafting adversarial examples that are indistinguishable
+from the source input and are misclassified with overwhelming probability - reducing accuracy
+of the black-box neural network from 99.4% to 0.77% on the MNIST dataset, and from 91.4% to 6.8% on
+the CIFAR-10 dataset. Our attack can adapt and reduce the effectiveness of proposed defenses against
+adversarial examples, requires very little training data, and produces adversarial examples
+that can transfer to different machine learning models such as Random Forest, SVM, and K-Nearest
+Neighbor. To demonstrate the practicality of our attack, we launch a live attack against a target
+black-box model hosted online by Amazon: the crafted adversarial examples reduce its accuracy
+from 91.8% to 61.3%. Additionally, we show attacks proposed in the literature have unique, identifiable
+distributions. We use this information to train a classifier that is robust against such attacks.

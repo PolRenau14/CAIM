@@ -1,0 +1,16 @@
+We investigate the computational performance of various numerical methods for the integration
+of the equations of motion and the variational equations for some typical classical many-body models
+of condensed matter physics: the Fermi-Pasta-Ulam-Tsingou (FPUT) chain and the one- and two-dimensional
+disordered, discrete nonlinear Schr\"odinger equations (DDNLS). In our analysis we consider
+methods based on Taylor series expansion, Runge-Kutta discretization and symplectic transformations.
+The latter have the ability to exactly preserve the symplectic structure of Hamiltonian systems,
+which results in keeping bounded the error of the system's computed total energy. We perform extensive
+numerical simulations for several initial conditions of the studied models and compare the numerical
+efficiency of the used integrators by testing their ability to accurately reproduce characteristics
+of the systems' dynamics and quantify their chaoticity through the computation of the maximum Lyapunov
+exponent. We also report the expressions of the implemented symplectic schemes and provide the
+explicit forms of the used differential operators. Among the tested numerical schemes the symplectic
+integrators $ABA864$ and $SRKN^a_{14}$ exhibit the best performance, respectively for moderate
+and high accuracy levels in the case of the FPUT chain, while for the DDNLS models $s9\mathcal{ABC}6$
+and $s11\mathcal{ABC}6$ (moderate accuracy), along with $s17\mathcal{ABC}8$ and $s19\mathcal{ABC}8$
+(high accuracy) proved to be the most efficient schemes. 

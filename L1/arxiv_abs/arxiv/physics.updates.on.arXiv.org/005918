@@ -1,0 +1,17 @@
+Positron Annihilation Lifetime Spectroscopy (PALS) is a non-destructive radiological technique
+widely used in material science studies. PALS typically relies on an analog coincidence measurement
+setup and allows the estimate of the positron lifetime in a material sample under investigation.
+The positronium trapping at vacancies in the material results in an increased lifetime. In this
+work, we have developed and optimized a PALS experimental setup using organic scintillators, fast
+digitizers, and advanced pulse processing algorithms. We tested three pairs of different organic
+scintillation detectors: EJ-309 liquid, EJ-276 newly developed plastic, and BC-418 plastic,
+and optimized the data processing parameters for each pair separately. Our high-throughput data
+analysis method is based on single-pulse interpolation and a constant fraction discrimination
+(CFD) algorithm. The setup based on the BC-418 detector achieved the best time resolution of 198.3
++- 0.8 ps. We used such optimized setup to analyze two single-crystal quartz samples and found lifetimes
+of 156 +- 9 ps and 366 +- 22 ps, in good agreement with the characteristic time constants of this material.
+The proposed experimental set up achieve an excellent time resolution, which makes it possible
+to accurately characterize material vacancies by discriminating between the lifetimes of either
+the spin singlet or triplet states of positronium. The optimized data processing algorithms are
+relevant to all the applications where fast timing is important, such as nuclear medicine and radiation
+imaging. 

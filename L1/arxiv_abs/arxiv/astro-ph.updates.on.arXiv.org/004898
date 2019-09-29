@@ -1,0 +1,16 @@
+We have compiled from the available literature a large set of radio measurements of black hole binaries
+in the hard X-ray state for which measurements of the gigahertz frequency radio spectral index are
+possible. We separate the sample into `radio loud' and `radio quiet' subsets based upon their distribution
+in the radio -- X-ray plane, and investigate the distribution of radio spectral indices within each
+subset. The distribution of spectral indices of the `radio loud' subset is well described by a Gaussian
+distribution with mean spectral index $\alpha = +0.2$ and standard deviation $0.2$ (here spectral
+index is defined such that a positive spectral index means more flux at higher frequencies). The
+sparser sample for the `radio quiet' subset can be approximated, less well, by a Gaussian with mean
+$\alpha = -0.2$ and standard deviation $0.3$; alternatively the simple mean of the distribution
+of the radio quiet subset is $-0.3$. The two spectral index distributions are different at high statistical
+significance. Confirming previous work in the literature, we test to see if the differences in observed
+spectra could result from different distributions of jet viewing angles, but find no evidence for
+this. We conclude therefore that the jets in the two groups are physically different in some way,
+and briefly discuss possible origins and further possible diagnostics. Finally we note that extrapolating
+to lower frequencies the two subsets move closer together in the radio -- X-ray plane, and approximately
+merge into a single distribution at around 400 MHz. 

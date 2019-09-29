@@ -1,0 +1,16 @@
+A topological classification of many classes of dynamical systems with regular dynamics in low
+dimensions is often reduced to combinatorial invariants. In dimension 3 combinatorial invariants
+are proved to be insufficient even for simplest Morse-Smale diffeomorphisms. The complete topological
+invariant for the systems with a single saddle point on the 3-sphere is the embedding of the homotopy
+non-trivial knot into the manifold $\mathbb S^2\times\mathbb S^1$. If a diffeomorphism has several
+saddle points their unstable separatrices form arcs frames in the basin of the sink and circles frame
+in the orbits space. Thus, the type of embedding of the circles frame into $\mathbb S^2\times\mathbb
+S^1$ is a topological invariant for diffeomorphisms of this kind and this type turns out to be the
+complete topological invariant for some classes of Morse-Smale 3-diffeomorphisms. Recently
+it was shown that the problem of embedding of a 3-diffeomorphism into a topological flow is interconnected
+with the properties of embedding of the arcs frame into the 3-Euclidean space. In this paper we consider
+the criteria for the tame embedding of an arcs frame into the 3-Euclidean space as well as for the trivial
+embedding of circles frame into $\mathbb S^2\times\mathbb S^1$. We apply this criteria to prove
+that frames of one-dimensional separatrices in basins of sources of rough 3-diffeomorhisms with
+two-dimensional expanding attractor are tamely embedded and their spaces of orbits are trivial
+embeddings of circles frame into $\mathbb S^2\times\mathbb S^1$. 

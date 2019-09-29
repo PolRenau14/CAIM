@@ -1,0 +1,16 @@
+Discrete optimization is a central problem in mathematical optimization with a broad range of applications,
+among which binary optimization and sparse optimization are two common ones. However, these problems
+are NP-hard and thus difficult to solve in general. Combinatorial search methods such as branch-and-bound
+and exhaustive search find the global optimal solution but are confined to small-sized problems,
+while coordinate descent methods such as coordinate gradient descent are efficient but often suffer
+from poor local minima. In this paper, we consider a hybrid method that combines the effectiveness
+of combinatorial search and the efficiency of coordinate descent. Specifically, we consider random
+strategy or/and greedy strategy to select a subset of coordinates as the working set, and then perform
+global combinatorial search over the working set based on the original objective function. In addition,
+we provide some optimality analysis and convergence analysis for the proposed method. Our method
+finds stronger stationary points than existing methods. Finally, we demonstrate the efficacy
+of our method on some sparse optimization and binary optimization applications. As a result, our
+method achieves state-of-the-art performance in terms of accuracy. For example, our method generally
+outperforms the well-known orthogonal matching pursuit method in sparse optimization. Keywords:
+Sparsity Optimization, Binary Optimization, Coordinate Descent, Combinatorial Search, Discrete
+Optimization, Convergence Analysis. 

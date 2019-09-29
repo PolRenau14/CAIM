@@ -1,0 +1,16 @@
+If a tensor with various symmetries is properly unfolded, then the resulting matrix inherits those
+symmetries. As tensor computations become increasingly important it is imperative that we develop
+efficient structure preserving methods for matrices with multiple symmetries. In this paper we
+consider how to exploit and preserve structure in the pivoted Cholesky factorization when approximating
+a matrix $A$ that is both symmetric ($A=A^T$) and what we call {\em perfect shuffle symmetric}, or
+{\em perf-symmetric}. The latter property means that $A = \Pi A\Pi$ where $\Pi$ is a permutation
+with the property that $\Pi v = v$ if $v$ is the vec of a symmetric matrix and $\Pi v = -v$ if $v$ is the vec
+of a skew-symmetric matrix. Matrices with this structure can arise when an order-4 tensor $\cal
+A$ is unfolded and its elements satisfy ${\cal A}(i_{1},i_{2},i_{3},i_{4}) = {\cal A}(i_{2},i_{1},i_{3},i_{4})
+={\cal A}(i_{1},i_{2},i_{4},i_{3}) ={\cal A}(i_{3},i_{4},i_{1},i_{2}).$ This is the case
+in certain quantum chemistry applications where the tensor entries are electronic repulsion integrals.
+Our technique involves a closed-form block diagonalization followed by one or two half-sized pivoted
+Cholesky factorizations. This framework allows for a lazy evaluation feature that is important
+if the entries in $\cal A$ are expensive to compute. In addition to being a structure preserving rank
+reduction technique, we find that this approach for obtaining the Cholesky factorization reduces
+the work by up to a factor of 4. 

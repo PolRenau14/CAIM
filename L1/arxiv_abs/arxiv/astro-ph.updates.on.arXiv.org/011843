@@ -1,0 +1,16 @@
+Westerlund 1 (Wd1) is potentially the largest star cluster in the Galaxy. That designation critically
+depends upon the distance to the cluster, yet the cluster is highly obscured, making luminosity-based
+distance estimates difficult. Using Gaia Data Release 2 (DR2) parallaxes and Bayesian inference,
+we infer a parallax of $0.31\pm{0.04}$ mas corresponding to a distance of $3.2\pm{0.4}$ kpc. To
+leverage the combined statistics of all stars in the direction of Wd1, we derive the Bayesian model
+for a cluster of stars hidden among Galactic field stars; this model includes both the zero-point
+and astrometric excess noise. We infer the exponential length scale, $L$, for field stars; $L = 0.84_{-0.03}^{+0.02}$
+kpc. This is ~1.7 times smaller than the models used for Bailer-Jones et al. (2018). Previous estimates
+for the distance to Wd1 ranged from 1.2 to 5.5 kpc, although values around 5 kpc have usually been adopted.
+The Gaia DR2 parallaxes reduce the uncertainty from a factor of 3 to 15% and rules out the most often
+quoted value of 5 kpc with 99% confidence. This new distance allows for more accurate mass and age
+determinations for the stars in Wd1. For example, the previously inferred initial mass at the main
+sequence turnoff was around 40 $M_{\odot}$; the new Gaia DR2 distance shifts this down to about 25
+$M_{\odot}$. This has important implications for our understanding of late stages of stellar evolution,
+including the initial mass of the magnetar and the LBV in Wd1. Similarly, the new distance suggests
+that the total cluster mass is about three times lower than previously calculated. 

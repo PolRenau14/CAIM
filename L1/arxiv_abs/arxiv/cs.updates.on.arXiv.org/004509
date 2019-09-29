@@ -1,0 +1,17 @@
+A matrix completion problem, which aims to recover a complete matrix from its partial observations,
+is one of the important problems in the machine learning field and has been studied actively. However,
+there is a discrepancy between the mainstream problem setting, which assumes continuous-valued
+observations, and some practical applications such as recommendation systems and SNS link predictions
+where observations take discrete or even binary values. To cope with this problem, Davenport et
+al. (2014) proposed a binary matrix completion (BMC) problem, where observations are quantized
+into binary values. Hsieh et al. (2015) proposed a PU (Positive and Unlabeled) matrix completion
+problem, which is an extension of the BMC problem. This problem targets the setting where we cannot
+observe negative values, such as SNS link predictions. In the construction of their method for this
+setting, they introduced a methodology of the classification problem, regarding each matrix entry
+as a sample. Their risk, which defines losses over unobserved entries as well, indicates the possibility
+of the use of unobserved entries. In this paper, motivated by a semi-supervised classification
+method recently proposed by Sakai et al. (2017), we develop a method for the BMC problem which can
+use all of positive, negative, and unobserved entries, by combining the risks of Davenport et al.
+(2014) and Hsieh et al. (2015). To the best of our knowledge, this is the first BMC method which exploits
+all kinds of matrix entries. We experimentally show that an appropriate mixture of risks improves
+the performance. 

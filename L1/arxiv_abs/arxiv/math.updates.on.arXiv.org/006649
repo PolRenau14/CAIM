@@ -1,0 +1,16 @@
+This paper concerns a high-dimensional stochastic programming problem of minimizing a function
+of expected cost with a matrix argument. To this problem, one of the most widely applied solution
+paradigms is the sample average approximation (SAA), which uses the average cost over sampled scenarios
+as a surrogate to approximate the expected cost. Traditional SAA theories require the sample size
+to grow rapidly when the problem dimensionality increases. Indeed, for a problem of optimizing
+over a $p$-by-$p$ matrix, the sample complexity of the SAA is given by $\tilde O(1)\cdot \frac{p^2}{\epsilon^2}\cdot{polylog}(\frac{1}{\epsilon})$
+to achieve an $\epsilon$-suboptimality gap, for some poly-logarithmic function ${polylog}(\,\cdot\,)$
+and some quantity $\tilde O(1)$ independent of dimensionality $p$ and sample size $n$. In contrast,
+this paper considers a regularized SAA (RSAA) with a low-rankness-inducing penalty. We demonstrate
+that the sample complexity of RSAA is $\tilde O(1)\cdot \frac{p}{\epsilon^3}\cdot {polylog}(p,\,\frac{1}{\epsilon})$,
+which is almost linear in $p$ and thus indicates a substantially lower dependence on dimensionality.
+Therefore, RSAA can be more advantageous than SAA especially for larger scale and higher dimensional
+problems. Due to the close correspondence between stochastic programming and statistical learning,
+our results also indicate that high-dimensional low-rank matrix recovery is possible generally
+beyond a linear model, even if the common assumption of restricted strong convexity is completely
+absent. 

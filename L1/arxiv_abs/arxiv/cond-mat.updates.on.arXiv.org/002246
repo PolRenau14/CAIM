@@ -1,0 +1,17 @@
+Clustering instabilities are often presumed to lead to enhanced agglomeration between cohesive
+grains due to the reduced relative velocities of particles within a cluster. Our discrete-particle
+simulations exhibit the opposite trend, revealing a new mechanism we coin "cluster-induced deagglomeration".
+We examine relatively dilute gas-solid flows, and isolate agglomerates of cohesive origin from
+overall heterogeneities in the system - i.e., those arising from clusters of hydrodynamic origin
+as well as cohesive agglomerates. We observe enhanced clustering with increasing system size (as
+is the norm for non-cohesive systems) as well as reduced agglomeration. The reduced agglomeration
+is traced to the increased collisional impact velocities of particles at the surface of a cluster
+- i.e., higher levels of clustering lead to larger relative velocities between the clustered and
+non-clustered regions, thereby serving as an additional source of granular temperature. This
+physical picture is further evidenced by a theoretical model based on a balance between the generation
+and breakage rates of agglomerates. Finally, cluster-induced deagglomeration also provides
+an explanation for a surprising saturation of agglomeration levels in gas-solids systems with
+increasing levels of cohesion, as opposed to the monotonic behavior seen in granular flows of cohesive
+grains. Namely, higher cohesion leads to more energy dissipation, which is associated with competing
+effects: enhanced agglomeration and enhanced clustering, the latter of which results in more cluster-induced
+deagglomeration. 

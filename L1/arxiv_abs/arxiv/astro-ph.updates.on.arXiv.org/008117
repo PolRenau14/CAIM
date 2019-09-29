@@ -1,0 +1,16 @@
+We explore the cause of the solar cycle variabilities using a novel 3D Babcock--Leighton dynamo
+model. In this model, based on the toroidal flux at the base of the convection zone, bipolar magnetic
+regions (BMRs) are produced with statistical properties obtained from observed distributions.
+We find that a little quenching in BMR tilt is sufficient to stabilize the dynamo growth. The randomness
+and nonlinearity in the BMR emergences make the poloidal field unequal and cause some variability
+in the solar cycle. However, when observed scatter of BMR tilts around Joy's law with a standard deviation
+of $15^\circ$, is considered, our model produces a variation in the solar cycle, including north-south
+asymmetry comparable to the observations. The morphology of magnetic fields closely resembles
+observations, in particular the surface radial field possesses a more mixed polarity field. Observed
+scatter also produces grand minima. In 11,650 years of simulation, 17 grand minima are detected
+and $11\%$ of its time the model remained in these grand minima. When we double the tilt scatter, the
+model produces correct statistics of grand minima. Importantly, the dynamo continues even during
+grand minima with only a few BMRs, without requiring any additional alpha effect. The reason for
+this is the downward magnetic pumping which suppresses the diffusion of the magnetic flux across
+the surface. The magnetic pumping also helps to achieve 11-year magnetic cycle using the observed
+BMR flux distribution, even at the high diffusivity. 

@@ -1,0 +1,16 @@
+According to what has become a standard history of quantum mechanics, in 1932 von Neumann persuaded
+the physics community that hidden variables are impossible as a matter of principle, after which
+leading proponents of the Copenhagen interpretation put the situation to good use by arguing that
+the completeness of quantum mechanics was undeniable. This state of affairs lasted, so the story
+continues, until Bell in 1966 exposed von Neumann's proof as obviously wrong. The realization that
+von Neumann's proof was fallacious then rehabilitated hidden variables and made serious foundational
+research possible again. It is often added in recent accounts that von Neumann's error had been spotted
+almost immediately by Grete Hermann, but that her discovery was of no effect due to the dominant Copenhagen
+Zeitgeist. We shall attempt to tell a story that is more historically accurate and less ideologically
+charged. Most importantly, von Neumann never claimed to have shown the impossibility of hidden
+variables tout court, but argued that hidden-variable theories must possess a structure that deviates
+fundamentally from that of quantum mechanics. Both Hermann and Bell appear to have missed this point,
+moreover, both raised unjustified technical objections to the proof. Von Neumann's argument was
+basically that hidden-variables schemes must violate the "quantum principle" that physical quantities
+are to be represented by operators in a Hilbert space. As a consequence, hidden-variables schemes,
+though possible in principle, necessarily exhibit a certain kind of contextuality. 

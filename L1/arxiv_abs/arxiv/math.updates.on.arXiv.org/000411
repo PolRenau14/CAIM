@@ -1,0 +1,16 @@
+This paper dwells upon two aspects of affine supergroup theory, investigating the links among them.
+First, I discuss the "splitting" properties of affine supergroups, i.e. special kinds of factorizations
+they may admit - either globally, or pointwise. Second, I present yet another method to study affine
+supergroups (in the algebraic super-geometry setting) by means of super Harish-Chandra pairs.
+Namely, I provide an explicit, functorial construction \Psi\ which, with each super Harish-Chandra
+pair, associates an affine supergroup that is always globally strongly split (in short, gs-split)
+- thus setting a link with the first part of the paper. On the other hand, one has a natural functor \Phi\
+from affine supergroups to super Harish-Chandra pairs; then we show that the new functor \Psi\ we
+introduce - which goes the other way round - is indeed a quasi-inverse to \Phi, provided we restrict
+our attention to the subcategory of affine supergroups that are gs-split. Therefore, (the restrictions
+of) \Phi\ and \Psi\ are equivalences between the categories of gs-split affine supergroups and
+of super Harish-Chandra pairs. Such a result was known in other contexts, such as the smooth differential
+or the complex analytic one, or in some special cases, via different approaches. Here I extend it
+to a much larger setup, with a totally different, more geometrical method - a very naif one, by bare
+hands, somehow. The case of linear algebraic groups is treated also as an intermediate, inspiring
+step. Some examples, applications and further generalizations are presented at the end of the paper.

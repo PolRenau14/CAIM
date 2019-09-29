@@ -1,0 +1,16 @@
+We present a decomposition of the real time evolution operator $e^{-i T H}$ of any local Hamiltonian
+$H$ on lattices $\Lambda \subseteq \mathbb Z^D$ into local unitaries based on Lieb-Robinson bounds.
+Combining this with recent quantum simulation algorithms for real time evolution, we find that
+the resulting quantum simulation algorithm has gate count $\mathcal O( T n ~\mathrm{polylog} (T
+n/\epsilon))$ and depth $\mathcal O( T ~\mathrm{polylog}(Tn/\epsilon))$, where $n$ is the space
+volume or the number of qubits, $T$ is the time of evolution, and $\epsilon$ is the accuracy of the
+simulation in operator norm. In contrast to this, the previous best quantum algorithms have gate
+count $\mathcal O(Tn^{2} ~\mathrm{polylog} (T n/\epsilon))$. Our approach readily generalizes
+to time-dependent Hamiltonians as well, and yields an algorithm with similar gate count for any
+piecewise slowly varying time-dependent bounded local Hamiltonian. Finally, we also prove a matching
+lower bound on the gate count of such a simulation, showing that any quantum algorithm that can simulate
+a piecewise time-independent bounded local Hamiltonian in one dimension requires $\Omega(Tn
+/ \mathrm{polylog}(Tn) )$ gates in the worst case. In the appendix, we prove a Lieb-Robinson bound
+tailored to Hamiltonians with small commutators between local terms. Unlike previous Lieb-Robinson
+bounds, our version gives zero Lieb-Robinson velocity in the limit of commuting Hamiltonians.
+This improves the performance of our algorithm when the Hamiltonian is close to commuting. 

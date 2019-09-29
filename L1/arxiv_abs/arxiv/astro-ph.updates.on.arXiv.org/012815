@@ -1,0 +1,16 @@
+We report the discovery of tidal structures around the intermediate-aged ($\sim$ 700--800~Myr),
+nearby ($\sim85$~pc) star cluster Coma Berenices. The spatial and kinematic grouping of stars
+is determined with the {\it Gaia} DR2 parallax and proper motion data, by a clustering analysis tool,
+\textsc{StarGO}, to map 5D parameters ($X, Y, Z$, $\mu_\alpha \cos\delta, \mu_\delta$) onto a
+2D neural network. A leading and a trailing tails, each with an extension of $\sim50$~pc are revealed
+for the first time around this disrupting star cluster. The cluster members, totaling to $\sim115^{+5}_{-3}\,\rm
+{M_\odot}$, are clearly mass segregated, and exhibit a flat mass function with $\alpha \sim 0.79\pm0.16$,
+in the sense of $dN/dm \propto m^{-\alpha}$, where $N$ is the number of member stars and $m$ is stellar
+mass, in the mass range of $m=0.25$--$2.51~{\rm M_\odot}$. Within the tidal radius of $\sim$6.9~pc,
+there are 77 member candidates with an average position, i.e., as the cluster center, of R.A.= 186.8110~deg,
+and decl.= 25.8112~deg, and an average distance of 85.8~pc. Additional 120 member candidates reside
+in the tidal structures, i.e., outnumbering those in the cluster core. The expansion of escaping
+members lead to an anisotropy in the velocity field of the tidal tails. Our analysis also serendipitously
+uncovers an adjacent stellar group, part of which has been cataloged in the literature. We identify
+218 member candidates, 10 times more than previously known. This star group is some 65~pc away from,
+and $\sim400$~Myr younger than, Coma Ber, but is already at the final stage of disruption. 

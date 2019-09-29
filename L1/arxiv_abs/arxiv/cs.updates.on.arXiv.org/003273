@@ -1,0 +1,17 @@
+Protecting data in the cloud continues to gain in importance, with encryption being used to achieve
+the desired data protection. While there is desire to use encryption, various cloud components
+do not want to deal with key management, which points to a strong need for a separate key management
+system. OpenStack Barbican is a platform developed by the OpenStack community aimed at providing
+cryptographic functions useful for all environments, including large ephemeral clouds. Barbican
+exposes REST APIs designed for the secure storage, provisioning and management of secrets such
+as passwords, encryption keys, and X.509 certificates, and supports plugins for a variety of crypto
+solutions in the backend. Crypto plugins store secrets as encrypted blobs within the Barbican database.
+Software based crypto plugins offer a scalable solution, but are vulnerable to system software
+attacks. Hardware Security Module or HSM plugins offer strong security guarantees, but they are
+expensive and don't scale well. We propose to build an Intel Software Guard Extension or SGX based
+software crypto plugin that offers security similar to an HSM with the low cost and scalability of
+a software based solution. We extend OpenStack Barbican API to support attestation of an Intel SGX
+crypto plugin, to allow clients higher confidence in the software they are using for storing keys.
+In addition, the API provides support for mutual attestation for Intel SGX enabled clients, multi-user
+key distribution, and extensions for protecting the confidentiality and integrity of the backend
+database. 

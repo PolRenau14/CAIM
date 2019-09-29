@@ -1,0 +1,16 @@
+Consider the following class of learning schemes: \begin{equation} \label{eq:main-problem1}
+\hat{\boldsymbol{\beta}} := \underset{\boldsymbol{\beta} \in \mathcal{C}}{\arg\min} \;\sum_{j=1}^n
+\ell(\boldsymbol{x}_j^\top\boldsymbol{\beta}; y_j) + \lambda R(\boldsymbol{\beta}), \qquad
+\qquad \qquad (1) \end{equation} where $\boldsymbol{x}_i \in \mathbb{R}^p$ and $y_i \in \mathbb{R}$
+denote the $i^{\rm th}$ feature and response variable respectively. Let $\ell$ and $R$ be the convex
+loss function and regularizer, $\boldsymbol{\beta}$ denote the unknown weights, and $\lambda$
+be a regularization parameter. $\mathcal{C} \subset \mathbb{R}^{p}$ is a closed convex set. Finding
+the optimal choice of $\lambda$ is a challenging problem in high-dimensional regimes where both
+$n$ and $p$ are large. We propose three frameworks to obtain a computationally efficient approximation
+of the leave-one-out cross validation (LOOCV) risk for nonsmooth losses and regularizers. Our
+three frameworks are based on the primal, dual, and proximal formulations of (1). Each framework
+shows its strength in certain types of problems. We prove the equivalence of the three approaches
+under smoothness conditions. This equivalence enables us to justify the accuracy of the three methods
+under such conditions. We use our approaches to obtain a risk estimate for several standard problems,
+including generalized LASSO, nuclear norm regularization, and support vector machines. We empirically
+demonstrate the effectiveness of our results for non-differentiable cases. 

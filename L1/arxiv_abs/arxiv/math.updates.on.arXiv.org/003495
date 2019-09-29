@@ -1,0 +1,16 @@
+We discuss the problem of deriving compact and tractable lower bounds for the Fisher information
+matrix. To motivate our particular approach towards such expressions, we first examine the structure
+of the exact Fisher information matrix in the context of exponential family models. Then, by replacing
+an arbitrary data model by an equivalent distribution within the exponential family of distributions,
+we derive a lower bound for the Fisher information measure of probabilistic models with multivariate
+output and multiple parameters. The pessimistic information matrix allows a tractable quantitative
+analysis of the parameter-specific information flow through nonlinear random systems. Therefore,
+the technique is exploited for the performance analysis concerning direction-of-arrival estimation
+of wireless source signals with a binary radio sensor array. Further, by the example of a sensing
+device exhibiting amplifier saturation, we outline how the information bound can be used to learn
+compression schemes which preserve the parameter-specific information within the data while
+the probabilistic model is unknown. We also show that the conservative estimation performance
+characterized by the pessimistic Fisher information matrix is asymptotically achieved by a consistent
+estimator operating on compressed data. A reformulation of the estimation algorithm turns out
+to be reminiscent of Hansen's generalized method of moments while the pessimistic Fisher information
+matrix shows a vivid interpretation within a particular Gaussian modeling framework. 

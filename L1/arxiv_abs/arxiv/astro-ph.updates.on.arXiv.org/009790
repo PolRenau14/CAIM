@@ -1,0 +1,17 @@
+SN 2015bn is a nearby hydrogen-poor superluminous supernova (SLSN-I) that has been intensively
+observed in X-rays with the goal to detect the spin-down powered emission from a magnetar engine.
+The early-time UV/optical/infrared (UVOIR) data fit well to the magnetar model, but require leakage
+of energy at late times of $\lesssim 10^{43}$ erg s$^{-1}$, which is expected to be partially emitted
+in X-rays. Deep X-ray limits until $\sim$300 days after explosion revealed no X-ray emission. Here,
+we present the latest deep 0.3--10 keV X-ray limit at 805 days obtained with \textit{XMM-Newton}.
+We find $L_X < 10^{41}$ erg s$^{-1}$, with no direct evidence for central-engine powered emission.
+While the late-time optical data still follow the prediction of the magnetar model, the best-fit
+model to the bolometric light curve predicts that $\sim$97\% of the total input luminosity of the
+magnetar is escaping outside of the UVOIR bandpass at the time of observation. Our X-ray upper limit
+is $<$1.5\% of the input luminosity, strongly constraining the high-energy leakage, unless non-radiative
+losses are important. These deep X-ray observations identify a missing energy problem in SLSNe-I
+and we suggest future observations in hard X-rays and $\gamma$-rays for better constraints. Also,
+independent of the optical data, we constrain the parameter spaces of various X-ray emission scenarios,
+including ionization breakout by magnetar spin-down, shock interaction between the ejecta and
+external circumstellar medium, off-axis $\gamma$-ray burst afterglow, and black hole fallback
+accretion. 

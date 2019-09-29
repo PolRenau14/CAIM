@@ -1,0 +1,17 @@
+A sequence of chains exhibits (total-variation) cutoff (resp., pre-cutoff) if for all $0<\epsilon<
+1/2$, the ratio $t_{\mathrm{mix}}^{(n)}(\epsilon)/t_{\mathrm{mix}}^{(n)}(1-\epsilon)$
+tends to 1 as $n \to \infty $ (resp., the $\limsup$ of this ratio is bounded uniformly in $\epsilon$),
+where $t_{\mathrm{mix}}^{(n)}(\epsilon)$ is the $\epsilon$-total-variation mixing-time
+of the $n$th chain in the sequence. We construct a sequence of bounded degree graphs $G_n$, such that
+the lazy simple random walks (LSRW) on $G_n$ satisfy the "product condition" $\mathrm{gap}(G_n)
+t_{\mathrm{mix}}^{(n)}(\epsilon) \to \infty $ as $n \to \infty$, where $\mathrm{gap}(G_n)$
+is the spectral gap of the LSRW on $G_n$ (a known necessary condition for pre-cutoff that is often
+sufficient for cutoff), yet this sequence does not exhibit pre-cutoff. Recently, Chen and Saloff-Coste
+showed that total-variation cutoff is equivalent for the sequences of continuous-time and lazy
+versions of some given sequence of chains. Surprisingly, we show that this is false when considering
+separation cutoff. We also construct a sequence of bounded degree graphs $G_n=(V_{n},E_{n})$
+that does not exhibit cutoff, for which a certain bounded perturbation of the edge weights leads
+to cutoff and increases the order of the mixing-time by an optimal factor of $\Theta (\log |V_n|)$.
+Similarly, we also show that "lumping" states together may increase the order of the mixing-time
+by an optimal factor of $\Theta (\log |V_n|)$. This gives a negative answer to a question asked by
+Aldous and Fill. 

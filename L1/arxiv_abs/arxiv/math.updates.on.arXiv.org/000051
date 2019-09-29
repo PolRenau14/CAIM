@@ -1,0 +1,17 @@
+In this paper, we provide explicit constructions for a class of exact-repair regenerating codes
+that possess a layered structure. These regenerating codes correspond to interior points on the
+storage-repair-bandwidth tradeoff, and compare very well in comparison to scheme that employs
+space-sharing between MSR and MBR codes. For the parameter set $(n,k,d=k)$ with $n < 2k-1$, we
+construct a class of codes with an auxiliary parameter $w$, referred to as canonical codes. With
+$w$ in the range $n-k < w < k$, these codes operate in the region between the MSR point and the
+MBR point, and perform significantly better than the space-sharing line. They only require a field
+size greater than $w+n-k$. For the case of $(n,n-1,n-1)$, canonical codes can also be shown to achieve
+an interior point on the line-segment joining the MSR point and the next point of slope-discontinuity
+on the storage-repair-bandwidth tradeoff. Thus we establish the existence of exact-repair codes
+on a point other than the MSR and the MBR point on the storage-repair-bandwidth tradeoff. We also
+construct layered regenerating codes for general parameter set $(n,k<d,k)$, which we refer
+to as non-canonical codes. These codes also perform significantly better than the space-sharing
+line, though they require a significantly higher field size. All the codes constructed in this paper
+are high-rate, can repair multiple node-failures and do not require any computation at the helper
+nodes. We also construct optimal codes with locality in which the local codes are layered regenerating
+codes. 

@@ -1,0 +1,16 @@
+This paper is part of a program to combine a staggered time and staggered spatial discretization
+of continuum mechanics problems so that any property of the continuum that is proved using vector
+calculus can be proven in an analogous way for the discretized system. We require that the discretizations
+be second order accurate and have a conserved quantity that approximates the energy for the system
+and guarantees stability for a reasonable constraint on the time step. We also require that the discretization
+is time explicit so as to avoid the solution of large system of possibly nonlinear algebraic equations.
+The well known Yee grid discretization of Maxwell's equations is the same as our discretization
+and is an early example of using a staggered space and time grid . To motivate our discussion we begin
+by studying the staggered time or leapfrog discretization of the harmonic oscillator and use this
+to introduce the modification of the energy that is conserved. Next we use systems of linear equations
+to motivate the definition of the modified energy for more complex systems of ordinary differential
+equations and then apply our ideas to the scalar wave equation in one spatial dimension. We finish
+by discretizing the three dimensional scalar wave and Maxwell's equations. Because the spatial
+discretization is mimetic, we obtain that the divergence of the electric and magnetic fields are
+constant when there are no sources. Using the mimetic properties the proof of this trivial and is
+essentially the same as in the continuum. 

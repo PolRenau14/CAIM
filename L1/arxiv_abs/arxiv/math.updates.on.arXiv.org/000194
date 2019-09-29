@@ -1,0 +1,16 @@
+In this paper we consider the use of probabilistic or random models within a classical trust-region
+framework for optimization of deterministic smooth general nonlinear functions. Our method and
+setting differs from many stochastic optimization approaches in two principal ways. Firstly,
+we assume that the value of the function itself can be computed without noise, in other words, that
+the function is deterministic. Secondly, we use random models of higher quality than those produced
+by usual stochastic gradient methods. In particular, a first order model based on random approximation
+of the gradient is required to provide sufficient quality of approximation with probability greater
+than or equal to 1/2. This is in contrast with stochastic gradient approaches, where the model is
+assumed to be "correct" only in expectation. As a result of this particular setting, we are able to
+prove convergence, with probability one, of a trust-region method which is almost identical to
+the classical method. Hence we show that a standard optimization framework can be used in cases when
+models are random and may or may not provide good approximations, as long as "good" models are more
+likely than "bad" models. Our results are based on the use of properties of martingales. Our motivation
+comes from using random sample sets and interpolation models in derivative-free optimization.
+However, our framework is general and can be applied with any source of uncertainty in the model.
+We discuss various applications for our methods in the paper. 

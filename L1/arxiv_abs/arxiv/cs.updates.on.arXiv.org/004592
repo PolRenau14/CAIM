@@ -1,0 +1,16 @@
+We study the continuity properties of stochastic control problems with respect to transition kernels
+and applications of these to the robustness of optimal control policies applied to systems with
+incomplete or incorrect probabilistic models. We study both fully observed and partially observed
+Markov Decision Processes. We show that for infinite horizon discounted cost setup, continuity
+and robustness cannot be established under weak convergence and set-wise convergence of transition
+kernels in general, but that the optimal cost is continuous in the transition kernels under the convergence
+in total variation under mild conditions. By imposing further assumptions on the measurement models
+and on the kernel itself, we also show that the optimal cost can be made continuous under weak convergence
+of transition kernels. Using these continuity results we find bounds on the mismatch error that
+occurs due to the application of a control policy which is designed for an incorrectly estimated
+system model in terms of a distance measure between true model and the incorrect one. In particular,
+compared to the existing literature, we obtain strictly refined and strong robustness results
+that are applicable even under the errors that can be investigated under weak convergence criteria,
+in addition to total variation criteria. These lead to practically important results on empirical
+learning in (data-driven) stochastic control since often, in engineering applications, system
+models are learned through training data. 

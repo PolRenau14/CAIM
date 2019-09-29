@@ -1,0 +1,16 @@
+The TRAPPIST-1 system has 7 known terrestrial planets arranged compactly in a mean-motion resonant
+chain around an ultra-cool central star, some within the estimated habitable zone. Given their
+short orbital periods of just a few days, it is often presumed that the planets are likely tidally
+locked such that the spin rate is equal to that of the orbital mean motion. However, the compact, and
+resonant, nature of the system implies that there can be significant variations in the mean motion
+of these planets due to their mutual interactions. Such fluctuations create a moving target between
+the spin rotation rate and the orbital mean motion, which we show can then have significant effects
+on the spin states of these planets. In this paper, we analyze, using detailed numerical simulations,
+the mean motion histories of the three planets that are thought to lie within or close to the habitable
+zone of the system: planets d, e, and f. We demonstrate that, depending on the strength of the mutual
+interactions within the system, these planets can be pushed into spin states which are effectively
+non-synchronous. We find that it can produce significant wobble of the spin state, if not complete
+circulation in the co-rotating frame. We also show that these spin states are likely to be unable
+to sustain long-term stability, with many of our simulations suggesting that the spin evolves,
+under the influence of tidal synchronization forces, into quasi-stable attractor states, which
+last on timescales of thousands of years. 

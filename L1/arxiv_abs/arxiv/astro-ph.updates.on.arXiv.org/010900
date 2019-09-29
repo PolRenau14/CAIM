@@ -1,0 +1,16 @@
+The Deep Underground Neutrino Experiment (DUNE) could be revolutionary for MeV neutrino astrophysics,
+due to its huge detector volume, unique event reconstruction capabilities, and excellent sensitivity
+to the $\nu_e$ flavor. However, its backgrounds are not yet known. A major background is expected
+due to muon spallation of argon, which produces unstable isotopes that later beta decay. We present
+the first comprehensive study of MeV spallation backgrounds in argon, detailing isotope production
+mechanisms and decay properties, analyzing beta energy and time distributions, and proposing
+experimental cuts. We show that above a nominal detection threshold of 5 MeV, the most important
+backgrounds are --- surprisingly --- due to low-A isotopes, such as Li, Be, and B, even though high-A
+isotopes near argon are abundantly produced. We show that spallation backgrounds can be powerfully
+rejected by simple cuts, with clear paths for improvements. We compare these background rates to
+rates of possible MeV astrophysical neutrino signals in DUNE, including solar neutrinos (detailed
+in a companion paper arXiv:1808.08232), supernova burst neutrinos, and the diffuse supernova
+neutrino background. Further, to aid trigger strategies, we quantify the rates of single and multiple
+MeV events due to spallation, radiogenic neutron capture, and other backgrounds, including through
+pileup. Our overall conclusion is that DUNE has high potential for MeV neutrino astrophysics, but
+reaching this potential requires new experimental initiatives. 

@@ -1,0 +1,16 @@
+Given the forthcoming launch of the James Webb Space Telescope (JWST) which will allow observ- ing
+exoplanet atmospheres with unprecedented signal-over-noise ratio, spectral coverage and spatial
+resolution, the uncertainties in the atmosphere modelling used to interpret the data need to be
+as- sessed. As the first step, we compare three independent 1D radiative-convective models: ATMO,
+Exo-REM and petitCODE. We identify differences in physical and chemical processes taken into ac-
+count thanks to a benchmark protocol we developed. We study the impact of these differences on the
+analysis of observable spectra. We show the importance of selecting carefully relevant molecular
+linelists to compute the atmospheric opacity. Indeed, differences between spectra calculated
+with Hitran and ExoMol exceed the expected uncertainties of future JWST observations. We also show
+the limitation in the precision of the models due to uncertainties on alkali and molecule lineshape,
+which induce spectral effects also larger than the expected JWST uncertainties. We compare two
+chemical models, Exo-REM and Venot Chemical Code, which do not lead to significant differences
+in the emission or transmission spectra. We discuss the observational consequences of using equilibrium
+or out-of- equilibrium chemistry and the major impact of phosphine, detectable with the JWST.Each
+of the models has benefited from the benchmarking activity and has been updated. The protocol developed
+in this paper and the online results can constitute a test case for other models. 

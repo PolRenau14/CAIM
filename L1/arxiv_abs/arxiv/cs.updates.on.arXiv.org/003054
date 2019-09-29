@@ -1,0 +1,17 @@
+Particle swarm optimization comes under lot of changes after James Kennedy and Russell Eberhart
+first proposes the idea in 1995. The changes has been done mainly on Inertia parameters in velocity
+updating equation so that the convergence rate will be higher. We are proposing a novel approach
+where particles movement will not be depend on its velocity rather it will be decided by constrained
+biased random walk of particles. In random walk every particles movement based on two significant
+parameters, one is random process like toss of a coin and other is how much displacement a particle
+should have. In our approach we exploit this idea by performing a biased random operation and based
+on the outcome of that random operation, PSO particles choose the direction of the path and move non-uniformly
+into the solution space. This constrained, non-uniform movement helps the random walking particle
+to converge quicker then classical PSO. In our constrained biased random walking approach, we no
+longer needed velocity term (Vi), rather we introduce a new parameter (K) which is a probabilistic
+function. No global best particle (PGbest), local best particle (PLbest), Constriction parameter
+(W) are required rather we use a new term called Ptarg which is loosely influenced by PGbest.We test
+our algorithm on five different benchmark functions, and also compare its performance with classical
+PSO and Quantum Particle Swarm Optimization (QPSO).This new approach have been shown significantly
+better than basic PSO and sometime outperform QPSO in terms of convergence, search space, number
+of iterations. 

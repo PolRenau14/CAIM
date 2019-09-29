@@ -1,0 +1,16 @@
+In this article, we use a many-body approach to study the absorption spectra of electron-doped two-dimensional
+semiconductors. Optical absorption is modeled by a many-body scattering Hamiltonian which describes
+an exciton immersed in a Fermi sea. The interaction between electron and exciton is approximated
+by an effective scattering potential, and optical spectra are calculated by solving for the exciton
+Green's function. From this approach, a trion state can be assigned as a bound state of an electron-exciton
+scattering process, and the doping-dependent phenomena observed in the spectra can be attributed
+to several many-body effects induced by the interaction with the Fermi sea. While the many-body
+scattering Hamiltonian can not solved exactly, we reduce the problem to two limiting solvable situations.
+The first approach approximates the full many-body problem by a simple scattering process between
+the electron and the exciton, with a self-energy obtained by solving a Bethe-Salpeter equation
+(BSE). An alternate approach assumes an infinite mass for the exciton, such that the many-body scattering
+Hamiltonian reduces to a Mahan-Nozieres-De Dominicis (MND) model. The exciton Green's function
+can then be solved numerically exactly by a determinantal formulation, and the optical spectra
+show signatures of the Fermi-edge singularity at high doping densities. The full doping dependence
+and temperature dependence of the exciton and trion lineshapes are simulated via these two approximate
+approaches, with the results compared to each other and to experimental expectations. 

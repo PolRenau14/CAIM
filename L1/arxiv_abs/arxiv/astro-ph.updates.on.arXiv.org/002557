@@ -1,0 +1,16 @@
+We study the two-point cross-correlation function between two populations of galaxies: for instance
+a bright population and a faint population. We show that this cross-correlation is asymmetric under
+the exchange of the line-of-sight coordinate of the galaxies, i.e. that the correlation is different
+if the bright galaxy is in front of, or behind, the faint galaxy. We give an intuitive, quasi-Newtonian
+derivation of all the effects that contribute to such an asymmetry in large-scale structure: gravitational
+redshift, Doppler shift, lensing, light-cone, evolution and Alcock-Paczynski effects - interestingly,
+the gravitational redshift term is exactly canceled by some of the others, assuming geodesic motion.
+Most of these effects are captured by previous calculations of general relativistic corrections
+to the observed galaxy density fluctuation; the asymmetry arises from terms that are suppressed
+by the ratio H/k - H is the Hubble constant and k is the wavenumber - which are more readily observable
+than the terms suppressed by (H/k)^2. Some of the contributions to the asymmetry, however, arise
+from terms that are generally considered 'Newtonian' - the lensing and evolution - and thus represent
+a contaminant in the search for general relativistic corrections. We propose methods to disentangle
+these different contributions. A simple method reduces the contamination to a level of < 10%
+for redshifts z<1. We also clarify the relation to recent work on measuring gravitational redshifts
+by stacking clusters. 

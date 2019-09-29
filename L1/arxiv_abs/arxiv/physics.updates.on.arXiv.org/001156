@@ -1,0 +1,17 @@
+The parameters in a nuclear magnetic resonance (NMR) free induction decay (FID) signal contain
+information that is useful in magnetic field measurement, magnetic resonance sounding (MRS) and
+other related applications. A real time sampled FID signal is well modeled as a finite mixture of
+exponential sequences plus noise. We propose to use the Hilbert-Huang Transform (HHT) for noise
+reduction and characterization, where the generalized Hilbert-Huang represents a way to decompose
+a signal into so-called intrinsic mode function (IMF) along with a trend, and obtain instantaneous
+frequency data. Moreover, the HHT for an FID signal's feature analysis is applied for the first time.
+First, acquiring the actual untuned FID signal by a developed prototype of proton magnetometer,
+and then the empirical mode decomposition (EMD) is performed to decompose the noise and original
+FID. Finally, the HHT is applied to the obtained IMFs to extract the Hilbert energy spectrum, to indicate
+the energy distribution of the signal on the frequency axis. By theory analysis and the testing of
+an actual FID signal, the results show that, compared with general noise reduction methods such
+as auto correlation and singular value decomposition (SVD), combined with the proposed method
+can further suppress the interfered signals effectively, and can obtain different components
+of FID signal, which can use to identify the magnetic anomaly, the existence of groundwater etc.
+This is a very important property since it can be exploited to separate the FID signal from noise and
+to estimate exponential sequence parameters of FID signal. 

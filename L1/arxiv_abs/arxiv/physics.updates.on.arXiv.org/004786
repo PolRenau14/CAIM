@@ -1,0 +1,16 @@
+Satellites are subject to various severe vibration during different phases of flight. The concept
+of satellite smart adapter is proposed in this study to achieve active vibration control of launch
+vehicle on satellite. The satellite smart adapter has 18 active struts in which the middle section
+of each strut is made of piezoelectric stack actuator. Comprehensive conceptual design of the satellite
+smart adapter is presented to indicate the design parameters, requirements and philosophy applied
+which are based on the reliability and durability criterions to ensure successful functionality
+of the proposed system, also fabrication process of the proposed piezoelectric stack actuator
+is discussed in detail. The coupled electromechanical virtual work equation for the piezoelectric
+stack actuator in each active strut is derived by applying D'Alembert's principle to calculate
+the consistent mass matrix, the stiffness matrix and the load vector using finite element approximation.
+Modal analysis is performed to characterize the inherent properties of the smart adapter and extraction
+of a mathematical model of the system. Active vibration control analysis was conducted using fuzzy
+logic control with triangular membership functions and acceleration feedback. The control results
+conclude that the proposed satellite smart adapter configuration which benefits from piezoelectric
+stack actuator as elements of its 18 active struts has high strength and shows excellent robustness
+and effectiveness in vibration suppression of launch vehicle on satellite. 

@@ -1,0 +1,16 @@
+We consider tidal encounters between a white dwarf and an intermediate mass black hole. Both weak
+encounters and those at the threshold of disruption are modeled. The numerical code combines mesh-based
+(PPM) hydrodynamics, a spectral method (FFT) solution of the self-gravity, and a general relativistic
+Fermi normal coordinate (FNC) system that follows the star and debris. FNCs provide an expansion
+of the black hole tidal field that includes quadrupole and higher multipole moments and relativistic
+corrections. We compute the mass loss from the white dwarf that occurs in weak tidal encounters.
+Secondly, we compute carefully the energy deposition onto the star, examining the effects of non-radial
+and radial mode excitation, surface layer heating, mass loss, and relativistic orbital motion.
+We find evidence of a slight relativistic suppression in tidal energy transfer. Tidal energy deposition
+is compared to orbital energy loss due to gravitational bremsstrahlung and the combined losses
+are used to estimate tidal capture orbits. Heating and partial mass stripping will lead to an expansion
+of the white dwarf, making it easier for the star to be tidally disrupted on the next passage. Finally,
+we examine angular momentum deposition. By including the octupole tide, we are able for the first
+time to calculate deflection of the center of mass of the star and debris. With this observed deflection,
+and taking into account orbital relativistic effects, we compute directly the change in orbital
+angular momentum and show its balance with computed spin angular momentum deposition. 

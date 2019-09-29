@@ -1,0 +1,17 @@
+We report the formation of bound star clusters in a sample of high-resolution cosmological zoom-in
+simulations of z>5 galaxies from the FIRE project. We find that bound clusters preferentially form
+in high-pressure clouds with gas surface densities over 10^4 Msun pc^-2, where the cloud-scale
+star formation efficiency is near unity and young stars born in these regions are gravitationally
+bound at birth. These high-pressure clouds are compressed by feedback-driven winds and/or collisions
+of smaller clouds/gas streams in highly gas-rich, turbulent environments. The newly formed clusters
+follow a power-law mass function of dN/dM~M^-2. The cluster formation efficiency is similar across
+galaxies with stellar masses of ~10^7-10^10 Msun at z>5. The age spread of cluster stars is typically
+a few Myrs and increases with cluster mass. The metallicity dispersion of cluster members is ~0.08
+dex in [Z/H] and does not depend on cluster mass significantly. Our findings support the scenario
+that present-day old globular clusters (GCs) were formed during relatively normal star formation
+in high-redshift galaxies. Simulations with a stricter/looser star formation model form a factor
+of a few more/fewer bound clusters per stellar mass formed, while the shape of the mass function is
+unchanged. Simulations with a lower local star formation efficiency form more stars in bound clusters.
+The simulated clusters are larger than observed GCs due to finite resolution. Our simulations are
+among the first cosmological simulations that form bound clusters self-consistently in a wide
+range of high-redshift galaxies. 

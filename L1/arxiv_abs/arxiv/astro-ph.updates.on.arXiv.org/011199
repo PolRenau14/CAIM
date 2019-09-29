@@ -1,0 +1,17 @@
+The Andromeda Galaxy is the closest spiral galaxy to us and has been the subject of numerous studies.
+It harbors a massive dark matter (DM) halo which may span up to ~600 kpc across and comprises ~90% of
+the galaxy's total mass. This halo size translates into a large diameter of 42 degrees on the sky for
+an M31-Milky Way (MW) distance of 785 kpc, but its presumably low surface brightness makes it challenging
+to detect with gamma-ray telescopes. Using 7.6 years of Fermi Large Area Telescope (Fermi-LAT)
+observations, we make a detailed study of the gamma-ray emission between 1-100 GeV towards M31's
+outer halo, with a total field radius of 60 degrees centered at M31, and perform an in-depth analysis
+of the systematic uncertainties related to the observations. We use the cosmic ray (CR) propagation
+code GALPROP to construct specialized interstellar emission models (IEMs) to characterize the
+foreground gamma-ray emission from the MW, including a self-consistent determination of the isotropic
+component. We find evidence for an extended excess that appears to be distinct from the conventional
+MW foreground, having a total radial extension upwards of ~120-200 kpc from the center of M31. We
+discuss plausible interpretations of the excess emission but emphasize that uncertainties in
+the MW foreground, and in particular, modeling of the H I-related components, have not been fully
+explored and may impact the results. This study was first presented in a poster at the 8th International
+Fermi Symposium. The article describing the full analysis is under preparation and will be published
+elsewhere. 

@@ -1,0 +1,17 @@
+We perform a Very Large Telescope FOcal Reducer and low dispersion Spectrograph 2 (VLT/FORS2) narrowband
+imaging search around 5 star-forming galaxies at redshift z=0.67-0.69 in the Great Observatories
+Origins Deep Survey South (GOODS-S) field to constrain the radial extent of large-scale outflows
+traced by resonantly scattered MgII emission. The sample galaxies span star formation rates in
+the range 4 $M_{\odot}/yr$ < SFR < $40\ M_{\odot}/yr$ and have stellar masses $9.9 \lesssim \log
+M_{*}/M_{\odot} \lesssim 11.0$, and exhibit outflows traced by MgII absorption with velocities
+~150-420 km s$^{-1}$ . These observations are uniquely sensitive, reaching surface brightness
+limits of 5.81 $\times$ $10^{-19}$ ergs sec $^{-1}$ cm$^{-2}$ arcsec$^2$ per 1 arcsec$^2$ aperture
+(at 5$\sigma$ significance). We do not detect any extended emission around any of the sample galaxies,
+thus placing 5$\sigma$ upper limits on the brightness of extended MgII emission of $<6.51 \times
+10^{-19}$ ergs sec $^{-1}$ cm$^{-2}$ arcsec$^2$ at projected distances $R_{\perp} > 8-21$ kpc.
+The imaging also resolves the MgII absorption observed toward each galaxy spatially, revealing
+approximately constant absorption strengths across the galaxy disks. In concert with radiative
+transfer models predicting the surface brightness of MgII emission for a variety of simple wind
+morphologies, our detection limits suggest that either (1) the extent of the MgII-emitting material
+in the outflows from these galaxies is limited to $\lesssim 20$ kpc; or (2) the outflows are anisotropic
+and/or dusty. 

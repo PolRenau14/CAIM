@@ -1,0 +1,16 @@
+The persistent homology pipeline includes the reduction of a, so-called, boundary matrix. We extend
+the work of Bauer et al. (2014) and Chen et al. (2011) where they show how to use dependencies in the
+boundary matrix to adapt the reduction algorithm presented in Edelsbrunner et al. (2002) in such
+a way as to reduce its computational cost. Herein we present a number of additional dependencies
+in the boundary matrices and propose a novel parallel algorithms for the reduction of boundary matrices.
+In particular, we show: that part of the reduction is immediately apparent, give bounds on the reduction
+needed for remaining columns, and from these give a framework for which the boundary reduction process
+can be massively parallelised. Simulations on four synthetic examples show that the computational
+burden can be conducted in approximately a thousandth the number of iterations needed by traditional
+methods. Moreover, whereas the traditional boundary reductions reveal barcodes sequentially
+from a filtration order, this approach gives an alternative method by which barcodes are partly
+revealed for multiple scales simultaneously and further refined as the algorithm progresses;
+simulations show that for a Vietoris-Rips filtration with $\sim10^4$ simplices, an estimate of
+the essential simplices with 95% precision can be computed in two iterations and that the reduction
+completed to within 1% in about ten iterations of our algorithm as opposed to nearly approximately
+eight thousand iterations for traditional methods. 

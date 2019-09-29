@@ -1,0 +1,17 @@
+Efficient large-scale annotation of genomic intervals is essential for personal genome interpretation
+in the realm of precision medicine. There are 13 possible relations between two intervals according
+to Allen's interval algebra. Conventional interval trees are routinely used to identify the genomic
+intervals satisfying a coarse relation with a query interval, but cannot support efficient query
+for more refined relations such as all Allen's relations. We design and implement a novel approach
+to address this unmet need. Through rewriting Allen's interval relations, we transform an interval
+query to a range query, then adapt and utilize the range trees for querying. We implement two types
+of range trees: a basic 2-dimensional range tree (2D-RT) and an augmented range tree with fractional
+cascading (RTFC) and compare them with the conventional interval tree (IT). Theoretical analysis
+shows that RTFC can achieve the best time complexity for interval queries regarding all Allen's
+relations among the three trees. We also perform comparative experiments on the efficiency of RTFC,
+2D-RT and IT in querying noncoding element annotations in a large collection of personal genomes.
+Our experimental results show that 2D-RT is more efficient than IT for interval queries regarding
+most of Allen's relations, RTFC is even more efficient than 2D-RT. The results demonstrate that
+RTFC is an efficient data structure for querying large-scale datasets regarding Allen's relations
+between genomic intervals, such as those required by interpreting genome-wide variation in large
+populations. 

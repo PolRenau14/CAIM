@@ -1,0 +1,16 @@
+This paper considers an unsignalized intersection used by two traffic streams. A stream of cars
+is using a primary road, and has priority over the other stream. Cars belonging to the latter stream
+cross the primary road if the gaps between two subsequent cars on the primary road are larger than
+their critical headways. A question that naturally arises relates to the capacity of the secondary
+road: given the arrival pattern of cars on the primary road, what is the maximum arrival rate of low-priority
+cars that can be sustained? This paper addresses this issue by considering a compact model that sheds
+light on the dynamics of the considered unsignalized intersection. The model, which is of a queueing-theoretic
+nature, reveals interesting insights into the impact of the user behavior on stability. The contributions
+of this paper are threefold. First, we obtain new results for the aforementioned model that includes
+driver impatience. Secondly, we reveal some surprising aspects that have remained unobserved
+in the existing literature so far, many of which are caused by the fact that the capacity of the minor
+road cannot be expressed in terms of the \emph{mean} gap size; instead more detailed characteristics
+of the critical headway distribution play a crucial role. The third contribution is the introduction
+of a new form of bunching on the main road, called Markov platooning. The tractability of this model
+allows us to study the impact of various platoon formations on the main road on the capacity of the
+minor road. 

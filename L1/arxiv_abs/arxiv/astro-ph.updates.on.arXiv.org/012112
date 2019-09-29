@@ -1,0 +1,16 @@
+Cosmic voids are the major volume component in the matter distribution of the Universe. They posses
+great potential for constraining dark energy as well as for testing theories of gravity. Nevertheless,
+in spite of their growing popularity as cosmological probes, a gap of knowledge between cosmic void
+observations and theory still persists. In particular, the void size function models proposed
+in literature have been proven unsuccessful in reproducing the results obtained from cosmological
+simulations in which cosmic voids are detected from biased tracers of the density field, undermining
+the possibility of using them as cosmological probes. The goal of this work is to cover this gap. In
+particular, we make use of the findings of a previous work in which we have improved the void selection
+procedure, presenting an algorithm that redefines the void ridges and, consequently, their radius.
+By applying this algorithm, we validate the volume conserving model of the void size function on
+a set of unbiased simulated density field tracers. We highlight the difference in the internal structure
+between voids selected in this way and those identified by the popular VIDE void finder. We also extend
+the validation of the model to the case of biased tracers. We find that a relation exists between the
+tracer used to sample the underlying dark matter density field and its unbiased counterpart. Moreover,
+we demonstrate that, as long as this relation is accounted for, the size function is a viable approach
+for studying cosmology with cosmic voids. 

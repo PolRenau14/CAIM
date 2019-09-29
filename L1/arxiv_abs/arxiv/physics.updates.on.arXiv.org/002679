@@ -1,0 +1,16 @@
+The solidification theory has been accepted as a thermodynamically sound way to describe the creep
+reduction due to deposition of hydrated material in the pores of concrete. The concept of self-equilibrated
+nanoscale microprestress has been accepted as a viable model for marked multi-decade decline of
+creep viscosity after the hydration effect became too feeble, and for increase of creep viscosity
+after any sudden change of pore humidity or temperature. Recently, though, it appeared that the
+original microprestress-solidification theory (MPS) predicts incorrectly the diffusion size
+effect on drying creep and the delay of drying creep behind drying shrinkage. Presented here is an
+extension (XMPS) that overcomes both problems and also improves a few other features of the model
+response. To this end, different nano- and macro-scale viscosities are distinguished. The aforementioned
+incorrect predictions are overcome by a dependence of the macro-scale viscosity on the rate of pore
+humidity change, which is a new feature inspired by previous molecular dynamics (MD) simulations
+of a molecular layer of water moving between two parallel sliding C-S-H sheets. The aging is based
+on calculating the hydration degree, and the temperature change effect on pore relative humidity
+is taken into account. Empirical formula for estimating the parameters of permeability dependence
+on pore humidity from concrete mix composition are also developed. Extensive validations by pertinent
+test data from the literature are demonstrated. 

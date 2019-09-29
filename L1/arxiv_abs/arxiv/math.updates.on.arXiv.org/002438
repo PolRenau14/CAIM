@@ -1,0 +1,16 @@
+The quasi-potential is a key concept of the Large Deviation Theory for Stochastic Differential
+Equations (SDEs). Once the quasi-potential with respect to an attractor of the corresponding deterministic
+system is found, one can readily obtain maximum likelihood exit paths and estimate the exit rate
+from the basin of attraction and the invariant probability density near the attractor. The quasi-potential
+for a linear SDE with asymptotically stable equilibrium at the origin is a quadratic form whose matrix
+was found by Z. Chen and M. Freidlin (2005). Their formula involves an integral of certain matrix
+exponentials and is inconvenient for numerical evaluation. In this work, I propose a different
+approach for constructing the quasi-potential matrix for linear SDEs based on a certain easy-to-obtain
+hierarchy of orthogonal decompositions inspired by those used by M. Tao (2018). A number of properties
+of these decompositions, named false quasi-potential decompositions, is established. A geometric
+recursive algorithm implementing this approach is presented. It involves only numerically stable
+sub-algorithms such as the computation of Schur decompositions and solving systems of linear equations
+or quadratic least squares problems. This work is motivated by the need to initialize the quasi-potential
+solvers near asymptotically stable equilibria. An accurate way to do it is to linearize the SDE near
+the equilibrium and set the values of the quasi-potential at the neighboring mesh points to the exact
+quasi-potential of the linearized system. 

@@ -1,0 +1,17 @@
+The area of networks is very interdisciplinary and exhibits many applications in several fields
+of science. Nevertheless, there are few studies focusing on geographically located $d$-dimensional
+networks. In this paper, we study scaling properties of a wide class of $d$-dimensional geographically
+located networks which grow with preferential attachment involving Euclidean distances through
+$r_{ij}^ {-\alpha_A} \;(\alpha_A \geq 0)$. We have numerically analyzed the time evolution of
+the connectivity of sites, the average shortest path, the degree distribution entropy, and the
+average clustering coefficient, for $d=1,2,3,4$, and typical values of $\alpha_A$. Remarkably
+enough, virtually all the curves can be made to collapse as functions of the scaled variable $\alpha_A/d$.
+These observations confirm the existence of three regimes. The first one occurs in the interval
+$\alpha_A/d \in [0,1]$; it is non-Boltzmannian with very-long-range interactions in the sense
+that the degree distribution is a $q$-exponential with $q$ constant and above unity. The critical
+value $\alpha_A/d =1$ that emerges in many of these properties is replaced by $\alpha_A/d =1/2$
+for the $\beta$-exponent which characterizes the time evolution of the connectivity of sites.
+The second regime is still non-Boltzmannian, now with moderately long-range interactions, and
+reflects in an index $q$ monotonically decreasing with $\alpha_A/d$ increasing from its critical
+value to a characteristic value $\alpha_A/d \simeq 5$. Finally, the third regime is Boltzmannian
+(with $q=1$), and corresponds to short-range interactions. 

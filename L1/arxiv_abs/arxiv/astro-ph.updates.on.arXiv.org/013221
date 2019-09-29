@@ -1,0 +1,16 @@
+The dark matter content of the ultra diffuse galaxy NGC1052-DF2, as inferred from globular cluster
+(GC) and stellar kinematics, carries a considerable amount of uncertainty, with current constraints
+also allowing for the complete absence of dark matter. We test the viability of such a scenario by
+examining whether in a `baryon-only' mass model, the observed GC population experiences rapid
+orbital decay due to dynamical friction. Using a suite of 50 multi-GC N-body simulations that match
+observational constraints on both the stellar component of NGC1052-DF2 and its GC population but
+differ in the initial line-of-sight positions and the tangential velocities of the GCs, we show
+that there is a substantial amount of realization-to-realization variance in the evolution of
+the GCs. Nevertheless, over 10 Gyr, some of the GCs experience significant orbital evolution. Others
+evolve less. A combination of reduced dynamical friction in the galaxy core and GC-GC scattering
+keeps the GCs afloat, preventing them from sinking all the way to the galaxy center. While the current
+phase-space coordinates of the GCs are not unlikely for a baryon-only mass model, the GC system does
+evolve over time. Therefore, if NGC1052-DF2 has no dark matter, some of its GCs must have formed further
+out, and the GC system must have been somewhat more extended in the past. The presence of a low mass
+cuspy halo, while allowed by the kinematics, seems improbable as significantly shorter inspiral
+timescales in the central region would quickly lead to the formation of a nuclear star cluster. 

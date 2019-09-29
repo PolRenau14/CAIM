@@ -1,0 +1,17 @@
+We consider the problem of multi-objective maximization of monotone submodular functions subject
+to cardinality constraint, often formulated as $\max_{|A|=k}\min_{i\in\{1,\dots,m\}}f_i(A)$.
+While it is widely known that greedy methods work well for a single objective, the problem becomes
+much harder with multiple objectives. In fact, Krause et al.\ (2008) showed that when the number
+of objectives $m$ grows as the cardinality $k$ i.e., $m=\Omega(k)$, the problem is inapproximable
+(unless $P=NP$). On the other hand, when $m$ is constant Chekuri et al.\ (2010) showed a randomized
+$(1-1/e)-\epsilon$ approximation with runtime (number of queries to function oracle) $n^{m/\epsilon^3}$.
+%In fact, the result of Chekuri et al.\ (2010) is for the far more general case of matroid constant.
+We focus on finding a fast and practical algorithm that has (asymptotic) approximation guarantees
+even when $m$ is super constant. We first modify the algorithm of Chekuri et al.\ (2010) to achieve
+a $(1-1/e)$ approximation for $m=o(\frac{k}{\log^3 k})$. This demonstrates a steep transition
+from constant factor approximability to inapproximability around $m=\Omega(k)$. Then using
+Multiplicative-Weight-Updates (MWU), we find a much faster $\tilde{O}(n/\delta^3)$ time asymptotic
+$(1-1/e)^2-\delta$ approximation. While the above results are all randomized, we also give a simple
+deterministic $(1-1/e)-\epsilon$ approximation with runtime $kn^{m/\epsilon^4}$. Finally,
+we run synthetic experiments using Kronecker graphs and find that our MWU inspired heuristic outperforms
+existing heuristics. 

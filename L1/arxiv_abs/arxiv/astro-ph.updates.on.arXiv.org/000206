@@ -1,0 +1,16 @@
+Galaxy clusters are the most massive objects in the universe, and they comprise a high temperature
+intracluster medium of about $10^7$K, believed to offer a main foreground effect for the CMB data
+with thermal Sunyaev-Zel'dovich (SZ) effect. This assumption has been confirmed with SZ signal
+detection in hundreds of clusters, but comparing with the huge numbers of clusters within optical
+selected samples from SDSS data, this only accounts for a few percent. Here we introduce a model-independent
+new method to confirm this assumption that most galaxy clusters can offer the thermal SZ signal as
+their main foreground effect. For the WMAP 7year data (and a given galaxy cluster sample), we introduce
+a parameter $d_1$ as each pixel's nearest neighbor cluster's angular distance, then we classified
+data pixels as "to be"($d_1 \rightarrow 0$ case) or "not to be"($d_1$ large enough) affected by the
+sample clusters. By comparing the statistical results of these two kinds of pixels, we can see how
+the sample clusters affect the CMB data directly. We find that Planck-ESZ sample and the Xray samples($\sim10^2$
+clusters) can lead to obvious temperature depression in WMAP 7year data, this confirms the SZ effect
+prediction. However, each optical selected sample ($> 10^4$ clusters), shows an opposite result:
+the mean temperature rises to about 10 uK. The unexpected qualitative scenario implies that the
+main foreground effect of most clusters is NOT always the expected SZ effect. This is maybe the reason
+why the SZ signal detection result is lower than what is expected by the model. 

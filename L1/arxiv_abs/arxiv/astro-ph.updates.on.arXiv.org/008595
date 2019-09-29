@@ -1,0 +1,16 @@
+The amplitude of redshifted 21 cm fluctuations during the Epoch of Reionization (EoR) is expected
+to show a distinctive "rise and fall" behavior with decreasing redshift as reionization proceeds.
+On large scales (k <~ 0.1 Mpc^{-1}) this can mostly be characterized by evolution in the product of
+the mean 21 cm brightness temperature and a bias factor, b_21(z). This quantity evolves in a distinctive
+way that can help in determining the average ionization history of the intergalactic medium (IGM)
+from upcoming 21 cm fluctuation data sets. Here we consider extracting <T_21> b_21(z) using a combination
+of future redshifted 21 cm and [CII] line-intensity mapping data sets. Our method exploits the dependence
+of the 21 cm-[CII]-[CII] cross-bispectrum on the shape of triangle configurations in Fourier space.
+This allows one to determine <T_21> b_21(z) yet, importantly, is less sensitive to foreground contamination
+than the 21 cm auto-spectrum, and so can provide a valuable cross-check. We compare the results of
+simulated bispectra with second-order perturbation theory: on large scales the perturbative
+estimate of <T_21> b_21(z) matches the true value to within 10% for <x_i> <~ 0.8. We consider the 21
+cm auto-bispectrum and show that this statistic may also be used to extract the 21 cm bias factor.
+Finally, we discuss the survey requirements for measuring the cross-bispectrum. Although we focus
+on the 21 cm-[CII]-[CII] bispectrum during reionization, our method may be of broader interest
+and can be applied to any two fields throughout cosmic history. 

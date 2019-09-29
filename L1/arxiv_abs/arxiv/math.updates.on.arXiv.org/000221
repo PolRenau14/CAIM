@@ -1,0 +1,16 @@
+We investigate some of the discrete Painleve equations (dPII, qPI and qPII) and the discrete KdV
+equation over finite fields. The first part concerns the discrete Painleve equations. We review
+some of the ideas introduced in our previous papers and give some detailed discussions. We first
+show that they are well defined by extending the domain according to the theory of the space of initial
+conditions. We then extend them to the field of p-adic numbers and observe that they have a property
+that is called an `almost good reduction' of dynamical systems over finite fields. We can use this
+property, which can be interpreted as an arithmetic analogue of singularity confinement, to avoid
+the indeterminacy of the equations over finite fields and to obtain special solutions from those
+defined originally over fields of characteristic zero. In the second part we study the discrete
+KdV equation. We review the previous discussions and present a way to resolve the indeterminacy
+of the equation by treating it over a field of rational functions instead of the finite field itself.
+Explicit forms of soliton solutions and their periods over finite fields are obtained. Note: This
+is a review article on the recent developments in the theory of discrete integrable equations over
+finite fields based on arXiv:1201.5429 , arXiv:1206.4456 , arXiv:1209.0223 . This article is accepted
+for publication in "RIMS Kokyuroku Bessatsu" as the proceedings of the domestic conference `Expansion
+of the theory of nonlinear discrete integrable systems' in RIMS, Kyoto, Japan, on August 2012. 

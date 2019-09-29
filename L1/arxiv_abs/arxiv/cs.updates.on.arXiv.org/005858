@@ -1,0 +1,16 @@
+We present a novel approach that enables photo-realistic re-animation of portrait videos using
+only an input video. In contrast to existing approaches that are restricted to manipulations of
+facial expressions only, we are the first to transfer the full 3D head position, head rotation, face
+expression, eye gaze, and eye blinking from a source actor to a portrait video of a target actor. The
+core of our approach is a generative neural network with a novel space-time architecture. The network
+takes as input synthetic renderings of a parametric face model, based on which it predicts photo-realistic
+video frames for a given target actor. The realism in this rendering-to-video transfer is achieved
+by careful adversarial training, and as a result, we can create modified target videos that mimic
+the behavior of the synthetically-created input. In order to enable source-to-target video re-animation,
+we render a synthetic target video with the reconstructed head animation parameters from a source
+video, and feed it into the trained network -- thus taking full control of the target. With the ability
+to freely recombine source and target parameters, we are able to demonstrate a large variety of video
+rewrite applications without explicitly modeling hair, body or background. For instance, we can
+reenact the full head using interactive user-controlled editing, and realize high-fidelity visual
+dubbing. To demonstrate the high quality of our output, we conduct an extensive series of experiments
+and evaluations, where for instance a user study shows that our video edits are hard to detect. 

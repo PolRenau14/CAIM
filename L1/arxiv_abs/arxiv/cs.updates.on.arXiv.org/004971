@@ -1,0 +1,16 @@
+The personnel scheduling problem is a well-known NP-hard combinatorial problem. Due to the complexity
+of this problem and the size of the real-world instances, it is not possible to use exact methods,
+and thus heuristics, meta-heuristics, or hyper-heuristics must be employed. The majority of heuristic
+approaches are based on iterative search, where the quality of intermediate solutions must be calculated.
+Unfortunately, this is computationally highly expensive because these problems have many constraints
+and some are very complex. In this study, we propose a machine learning technique as a tool to accelerate
+the evaluation phase in heuristic approaches. The solution is based on a simple classifier, which
+is able to determine whether the changed solution (more precisely, the changed part of the solution)
+is better than the original or not. This decision is made much faster than a standard cost-oriented
+evaluation process. However, the classification process cannot guarantee 100% correctness.
+Therefore, our approach, which is illustrated using a tabu search algorithm in this study, includes
+a filtering mechanism, where the classifier rejects the majority of the potentially bad solutions
+and the remaining solutions are then evaluated in a standard manner. We also show how the boosting
+algorithms can improve the quality of the final solution compared with a simple classifier. We verified
+our proposed approach and premises, based on standard and real-world benchmark instances, to demonstrate
+the significant speedup obtained with comparable solution quality. 

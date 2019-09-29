@@ -1,0 +1,16 @@
+The classical theorem of F\'{a}ry states that every planar graph can be represented by an embedding
+in which every edge is represented by a straight line segment. We consider generalizations of F\'{a}ry's
+theorem to surfaces equipped with Riemannian metrics. In this setting, we require that every edge
+is drawn as a shortest path between its two endpoints and we call an embedding with this property a
+shortest path embedding. The main question addressed in this paper is whether given a closed surface
+S, there exists a Riemannian metric for which every topologically embeddable graph admits a shortest
+path embedding. This question is also motivated by various problems regarding crossing numbers
+on surfaces. We observe that the round metrics on the sphere and the projective plane have this property.
+We provide flat metrics on the torus and the Klein bottle which also have this property. Then we show
+that for the unit square flat metric on the Klein bottle there exists a graph without shortest path
+embeddings. We show, moreover, that for large g, there exist graphs G embeddable into the orientable
+surface of genus g, such that with large probability a random hyperbolic metric does not admit a shortest
+path embedding of G, where the probability measure is proportional to the Weil-Petersson volume
+on moduli space. Finally, we construct a hyperbolic metric on every orientable surface S of genus
+g, such that every graph embeddable into S can be embedded so that every edge is a concatenation of
+at most O(g) shortest paths. 

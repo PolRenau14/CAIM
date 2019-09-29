@@ -1,0 +1,16 @@
+Compact optimization algorithms are a class of Estimation of Distribution Algorithms (EDAs) characterized
+by extremely limited memory requirements (hence they are called "compact"). As all EDAs, compact
+algorithms build and update a probabilistic model of the distribution of solutions within the search
+space, as opposed to population-based algorithms that instead make use of an explicit population
+of solutions. In addition to that, to keep their memory consumption low, compact algorithms purposely
+employ simple probabilistic models that can be described with a small number of parameters. Despite
+their simplicity, compact algorithms have shown good performances on a broad range of benchmark
+functions and real-world problems. However, compact algorithms also come with some drawbacks,
+i.e. they tend to premature convergence and show poorer performance on non-separable problems.
+To overcome these limitations, here we investigate a possible memetic computing approach obtained
+by combining compact algorithms with a non-disruptive restart mechanism taken from the literature,
+named Re-Sampled Inheritance (RI). The resulting compact algorithms with RI are then tested on
+the CEC 2014 benchmark functions. The numerical results show on the one hand that the use of RI consistently
+enhances the performances of compact algorithms, still keeping a limited usage of memory. On the
+other hand, our experiments show that among the tested algorithms, the best performance is obtained
+by compact Differential Evolution with RI. 

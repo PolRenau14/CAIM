@@ -1,0 +1,16 @@
+Consider an advancing `front' $ R(t) \in \mathbb{Z}_{\geq 0} $ and particles performing independent
+continuous time random walks on $ (R(t),\infty)\cap\mathbb{Z} $. Starting at $R(0)=0$, whenever
+a particle attempts to jump into $R(t)$ the latter instantaneously moves $k \ge 1$ steps to the right,
+absorbing all particles along its path. We take $ k $ to be the minimal random integer such that exactly
+$ k $ particles are absorbed by the move of $ R $, and view the particle system as a discrete version of
+the Stefan problem \begin{align*} &\partial_t u_*(t,\xi) = \tfrac12 \partial^2_{\xi} u_*(t,\xi),
+\quad \xi >r(t), &u_*(t,r(t))=0, &\tfrac{d~}{dt}r(t) = \tfrac12 \partial_\xi u_*(t,r(t)),
+&t\mapsto r(t) \text{ non-decreasing }, \quad r(0):=0. \end{align*} For a constant initial particles
+density $u_*(0,\xi)=\rho {\bf 1}_{\{\xi >0\}}$, at $\rho<1$ the particle system and the PDE exhibit
+the same diffusive behavior at large time, whereasat $\rho \ge 1$ the PDE explodes instantaneously.
+Focusing on the critical density $ \rho=1 $, we analyze the large time behavior of the front $ R(t)
+$ for the particle system, and obtain both the scaling exponent of $R(t)$ and an explicit description
+of its random scaling limit. Our result unveils a rarely seen phenomenon where the macroscopic scaling
+exponent is sensitive to the amount of initial local fluctuations. Further, the scaling limit demonstrates
+an interesting oscillation between instantaneous super- and sub-critical phases. Our method
+is based on a novel monotonicity as well as PDE-type estimates. 

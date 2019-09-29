@@ -1,0 +1,16 @@
+Using a coarse-grained model, self-organized assembly of proteins (e.g. CorA and its inner segment
+iCorA) is studied by examining quantities such as contact profile, radius of gyration, and structure
+factor as a function of protein concentration at a range of low (native phase) to high (denature phase)
+temperatures. Visual inspections show distinct structures, i.e. isolated globular bundles to
+entangled network on multiple length scales in dilute to crowded protein concentrations. In native
+phase, the radius of gyration of the protein does not vary much with the protein concentration while
+that of its inner segment increases systematically. In contrast, the radius of gyration of the protein
+shows enormous growth with the concentration due to entanglement while that of the inner segment
+remains almost constant in denatured phase. The multi-scale morphology of the collective assembly
+is quantified by estimating the effective dimension D of protein from scaling of the structure factor:
+collective assembly from inner segments remains globular (D aroud 3) at almost all length scales
+in its native phase while that from protein chains shows sparsely distributed morphology with D
+around 2 in entire temperature range due to entanglement except in crowded environment at low temperature
+where D around 2.6. Higher morphological response of chains with only the inner-segments due to
+selective interactions in its native phase may be more conducive to self-organizing mechanism
+than that of the remaining segments of the protein chains. 

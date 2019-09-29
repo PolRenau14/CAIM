@@ -1,0 +1,17 @@
+Scrupulous measurements and detailed data analysis of the torque in a swirling turbulent flow driven
+by counter-rotating bladed disks reveals an apparent breaking of the law of similarity. Potentially,
+such breakdown could arise from several possible factors, including dependence on dimensionless
+numbers other that $Re$ or velocity coupling to other fields such as temperature. However, careful
+redesign and calibration of the experiment showed that this unexpected result was due to background
+errorscaused by minute misalignments which lead to a noisy and irreproducible torque signal at
+low rotation speeds and prevented correct background subtraction normally ascribed to frictional
+losses. An important lesson to be learnt is that multiple minute misalignments can nonlinearly
+couple to the torque signal and provide a dc offset that cannot be removed by averaging. That offset
+can cause the observed divergence of the friction coefficient C_f from its constant value observed
+in the turbulent regime. To minimize the friction and misalignments, we significantly modified
+the experimental setup and carried out the experiment with one bladed disk where the disk, torque
+meter and motor shaft axes can be aligned with significantly smaller error, close to the torque meter
+resolution. As a result we made precise measurements with high resolution and sensitivity of the
+small torques produced for low rotation speeds for several water-glycerin solutions of different
+viscosities and confirmed the similarity law in a wide range of Re in particular in low viscosity
+fluids. 

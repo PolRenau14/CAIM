@@ -1,0 +1,17 @@
+The development of high-quality software or software-intensive systems requires custom-tailored
+process models that fit the organizational and project goals as well as the development contexts.
+These models are a necessary prerequisite for creating project plans that are expected to fulfill
+business goals. Although project planners require individual process models custom-tailored
+to their constraints, software or system developing organizations also require generic processes
+(i.e., reference processes) that capture project-independent knowledge for similar development
+contexts. The latter is emphazised by assessment approaches (such as CMMI, SPICE) that require
+explicit process descriptions in order to reach a certain capability or maturity level. Among other
+concepts such as polymorphism, templates, or generator-based descriptions, software process
+patterns are used to describe generic process knowledge. Several approaches for describing the
+architecture of process patterns have already been published (e.g., [7]). However, there is a lack
+of descriptions on how to compose process patterns for a specific decelopment context in order to
+gain a custom-tailored process model for a project. This paper focuses on the composition of process
+patterns in a goal-oriented way. First, the paper describes which information a process pattern
+should contain so that it can be used for systematic composition. Second, a composition method is
+sketched. Afterwards, the results of a proof-of-concept evaluation of the method are described.
+Finally, the paper is summarized and open research questions are sketched. 

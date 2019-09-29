@@ -1,0 +1,16 @@
+The G2 object has recently passed its pericenter passage in our Galactic Center. While the $Br_\gamma$
+emission shows clear signs of tidal interaction, the change in the observed luminosity is only of
+about a factor of 2, in contention with all previous predictions. We present high resolution simulations
+performed with the moving mesh code, RICH, together with simple analytical arguments that reproduce
+the observed $Br_\gamma$ emission. In our model, G2 is a gas cloud that undergoes tidal disruption
+in a dilute ambient medium. We find that during pericenter passage, the efficient cooling of the
+cloud results in a vertical collapse, compressing the cloud by a factor of $\sim5000$. By properly
+taking into account the ionization state of the gas, we find that the cloud is UV starved and are able
+to reproduce the observed $Br_\gamma$ luminosity. For densities larger than $\approx500\;\mathrm{cm}^{-3}$
+at pericenter, the cloud fragments, due to cooling instabilities and the emitted radiation is inconsistent
+with observations. For lower densities, the cloud survives the pericenter passage intact and its
+emitted radiation matches the observed lightcurve. From the duration of $Br_\gamma$ emission
+which contains both redshifted and blueshifted components, we show that the cloud is not spherical
+but rather elongated with a size ratio of 4 at year 2001. The simulated cloud's elongation grows as
+it travels towards pericenter and is consistent with observations, due to viewing angles. The simulation
+is also consistent with having a spherical shape at apocenter. 

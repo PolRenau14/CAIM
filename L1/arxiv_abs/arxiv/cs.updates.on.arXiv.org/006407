@@ -1,0 +1,16 @@
+Although public clouds still occupy the largest portion of the total cloud infrastructure, private
+clouds are attracting increasing interest from both industry and academia because of their better
+security and privacy control. According to the existing studies, the high upfront cost is among
+the most critical challenges associated with private clouds. To reduce cost and improve performance,
+virtual machine placement (VMP) methods have been extensively investigated for a number of years;
+however, few of these methods have focused on private clouds. In this paper, we propose a heterogeneous
+and multidimensional clairvoyant dynamic bin packing (CDBP) model, in which the scheduler can
+conduct more efficient VMP processes with additional information of the arrival time and duration
+of virtual machines to reduce the scale of the datacenter and thereby decrease the upfront cost of
+private clouds. In addition, a novel branch-and-bound algorithm with a divide-and-conquer strategy
+(DCBB) is proposed to effectively and efficiently handle the derived problem. Extensive experiments
+are conducted on both real-world and synthetic workloads to evaluate the accuracy and efficiency
+of the algorithms. The experimental results demonstrate that DCBB delivers near-optimal solutions
+with a much faster convergence rate than those of the other search-based algorithms that we evaluated.
+In particular, DCBB yields the optimal solution on the real-world workload with an order of magnitude
+less execution time than that required by the original branch-and-bound (BB) algorithm. 

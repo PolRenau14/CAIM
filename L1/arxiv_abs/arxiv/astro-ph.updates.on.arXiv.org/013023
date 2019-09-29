@@ -1,0 +1,16 @@
+We construct two classes of magnetohydrostatic (MHS) equilibria for an axisymmetric vertical
+flux tube spanning from the photosphere to the lower part of the transition region within a realistic
+stratified solar atmosphere subject to solar gravity. We assume a general quadratic expression
+of the magnetic flux function for the gas pressure and poloidal current and solve the Grad-Shafranov
+equation analytically. The solution is a combination of a homogeneous and a particular part where
+the former is separable by a Coulomb function in $r$ and exponential in $z$, while the particular
+part is an open configuration that has no $z$ dependence. We also present another open field solution
+by using a self-similar formulation with two different profile functions and incorporating stratified
+solar gravity to maintain the magnetohydrostatic equilibria, which is a modification of earlier
+self-similar models with a twist. We study the admitted parameter space that is consistent with
+the conditions in the solar atmosphere and derive magnetic and the thermodynamic structures inside
+the flux tube that are reasonably consistent with the photospheric magnetic bright points (MBPs)
+for both open and closed field Coulomb function and self-similar models as estimated from observations
+and simulations. The obtained open and closed field flux tube solutions can be used as the background
+conditions for the numerical simulations for the study of the wave propagation through the flux
+tubes. The solutions can also be used to construct realistic magnetic canopies. 

@@ -1,0 +1,16 @@
+The dust mass absorption coefficient, $\kappa_{d}$, is the conversion function used to infer physical
+dust masses from observations of dust emission. However, it is notoriously poorly constrained,
+and it is highly uncertain how it varies, either between or within galaxies. Here we present the results
+of a proof-of concept study, using the DustPedia data for two nearby face-on spiral galaxies M74
+(NGC 628) and M83 (NGC 5236), to create the first ever maps of $\kappa_{d}$ in galaxies. We determine
+$\kappa_{d}$ using an empirical method that exploits the fact that the dust-to-metals ratio of
+the interstellar medium is constrained by direct measurements of the depletion of gas-phase metals.
+We apply this method pixel-by-pixel within M74 and M83, to create maps of $\kappa_{d}$. We also demonstrate
+a novel method of producing metallicity maps for galaxies with irregularly-sampled measurements,
+using the machine learning technique of Gaussian process regression. We find strong evidence for
+significant variation in $\kappa_{d}$. We find values of $\kappa_{d}$ at 500 $\mu$m spanning the
+range 0.11-0.25 ${\rm m^{2}\,kg^{-1}}$ in M74, and 0.15-0.80 ${\rm m^{2}\,kg^{-1}}$ in M83. Surprisingly,
+we find that $\kappa_{d}$ shows a distinct inverse correlation with the local density of the interstellar
+medium. This inverse correlation is the opposite of what is predicted by standard dust models. However,
+we find this relationship to be robust against a large range of changes to our method - only the adoption
+of unphysical or highly unusual assumptions would be able to suppress it. 

@@ -1,0 +1,17 @@
+With a view to statistical inference for discretely observed diffusion models, we propose simple
+methods of simulating diffusion bridges, approximately and exactly. Diffusion bridge simulation
+plays a fundamental role in likelihood and Bayesian inference for diffusion processes. First a
+simple method of simulating approximate diffusion bridges is proposed and studied. Then these
+approximate bridges are used as proposal for an easily implemented Metropolis-Hastings algorithm
+that produces exact diffusion bridges. The new method utilizes time-reversibility properties
+of one-dimensional diffusions and is applicable to all one-dimensional diffusion processes with
+finite speed-measure. One advantage of the new approach is that simple simulation methods like
+the Milstein scheme can be applied to bridge simulation. Another advantage over previous bridge
+simulation methods is that the proposed method works well for diffusion bridges in long intervals
+because the computational complexity of the method is linear in the length of the interval. For $\rho$-mixing
+diffusions the approximate method is shown to be particularly accurate for long time intervals.
+In a simulation study, we investigate the accuracy and efficiency of the approximate method and
+compare it to exact simulation methods. In the study, our method provides a very good approximation
+to the distribution of a diffusion bridge for bridges that are likely to occur in applications to
+statistical inference. To illustrate the usefulness of the new method, we present an EM-algorithm
+for a discretely observed diffusion process. 

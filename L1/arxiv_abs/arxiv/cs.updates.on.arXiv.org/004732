@@ -1,0 +1,16 @@
+Given a model and a specification, the fundamental model-checking problem asks for algorithmic
+verification of whether the model satisfies the specification. We consider graphs and Markov decision
+processes (MDPs), which are fundamental models for reactive systems. One of the very basic specifications
+that arise in verification of reactive systems is the strong fairness (aka Streett) objective.
+Given different types of requests and corresponding grants, the objective requires that for each
+type, if the request event happens infinitely often, then the corresponding grant event must also
+happen infinitely often. All $\omega$-regular objectives can be expressed as Streett objectives
+and hence they are canonical in verification. To handle the state-space explosion, symbolic algorithms
+are required that operate on a succinct implicit representation of the system rather than explicitly
+accessing the system. While explicit algorithms for graphs and MDPs with Streett objectives have
+been widely studied, there has been no improvement of the basic symbolic algorithms. The worst-case
+numbers of symbolic steps required for the basic symbolic algorithms are as follows: quadratic
+for graphs and cubic for MDPs. In this work we present the first sub-quadratic symbolic algorithm
+for graphs with Streett objectives, and our algorithm is sub-quadratic even for MDPs. Based on our
+algorithmic insights we present an implementation of the new symbolic approach and show that it
+improves the existing approach on several academic benchmark examples. 

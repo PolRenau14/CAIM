@@ -1,0 +1,16 @@
+Quantum dots tuned to atomic resonances represent an emerging field of hybrid quantum systems where
+the advantages of quantum dots and natural atoms can be combined. Embedding quantum dots in nanowires
+boosts these systems with a set of powerful possibilities, such as precise positioning of the emitters,
+excellent photon extraction efficiency and direct electrical contacting of quantum dots. Notably,
+nanowire structures can be grown on silicon substrates, allowing for a straightforward integration
+with silicon-based photonic devices. In this work we show controlled growth of nanowire-quantum-dot
+structures on silicon, frequency tuned to atomic transitions. We grow GaAs quantum dots in AlGaAs
+nanowires with a nearly pure crystal structure and excellent optical properties. We precisely
+control the dimensions of quantum dots and their position inside nanowires, and demonstrate that
+the emission wavelength can be engineered over the range of at least $30\,nm$ around $765\,nm$.
+By applying an external magnetic field we are able to fine tune the emission frequency of our nanowire
+quantum dots to the $D_{2}$ transition of $^{87}$Rb. We use the Rb transitions to precisely measure
+the actual spectral linewidth of the photons emitted from a nanowire quantum dot to be $9.4 \pm 0.7
+\mu eV$, under non-resonant excitation. Our work brings highly-desirable functionalities to
+quantum technologies, enabling, for instance, a realization of a quantum network, based on an arbitrary
+number of nanowire single-photon sources, all operating at the same frequency of an atomic transition.

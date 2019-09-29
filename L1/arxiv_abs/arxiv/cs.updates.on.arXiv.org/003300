@@ -1,0 +1,16 @@
+This paper proposes an uncertain data clustering approach to quantitatively analyze the complexity
+of prefabricated construction components through the integration of quality performance-based
+measures with associated engineering design information. The proposed model is constructed in
+three steps, which (1) measure prefabricated construction product complexity (hereafter referred
+to as product complexity) by introducing a Bayesian-based nonconforming quality performance
+indicator; (2) score each type of product complexity by developing a Hellinger distance-based
+distribution similarity measurement; and (3) cluster products into homogeneous complexity groups
+by using the agglomerative hierarchical clustering technique. An illustrative example is provided
+to demonstrate the proposed approach, and a case study of an industrial company in Edmonton, Canada,
+is conducted to validate the feasibility and applicability of the proposed model. This research
+inventively defines and investigates product complexity from the perspective of product quality
+performance with design information associated. The research outcomes provide simplified, interpretable,
+and informative insights for practitioners to better analyze and manage product complexity. In
+addition to this practical contribution, a novel hierarchical clustering technique is devised.
+This technique is capable of clustering uncertain data (i.e., beta distributions) with lower computational
+complexity and has the potential to be generalized to cluster all types of uncertain data. 

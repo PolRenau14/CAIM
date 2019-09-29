@@ -1,0 +1,16 @@
+We consider a discrete-continuum model of a biomembrane with embedded particles. While the membrane
+is represented by a continuous surface, embedded particles are described by rigid discrete objects
+which are free to move and rotate in lateral direction. For the membrane we consider a linearized
+Canham-Helfrich energy functional and height and slope boundary conditions imposed on the particle
+boundaries resulting in a coupled minimization problem for the membrane shape and particle positions.
+When considering the energetically optimal membrane shape for each particle position we obtain
+a reduced energy functional that models the implicitly given interaction potential for the membrane-mediated
+mechanical particle-particle interactions. We show that this interaction potential is differentiable
+with respect to the particle positions and orientations. Furthermore we derive a fully practical
+representation of the derivative only in terms of well defined derivatives of the membrane. This
+opens the door for the application of minimization algorithms for the computation of minimizers
+of the coupled system and for further investigation of the interaction potential of membrane-mediated
+mechanical particle-particle interaction. The results are illustrated with numerical examples
+comparing the explicit derivative formula with difference quotient approximations. We furthermore
+demonstrate the application of the derived formula to implement a gradient flow for the approximation
+of optimal particle configurations. 

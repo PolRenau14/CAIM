@@ -1,0 +1,16 @@
+The core-accretion model predicts that planetary cores as massive as super-Earths undergo runaway
+gas accretion to become gas giants. However, the exoplanet census revealed the prevalence of super-Earths
+close to their host stars, which should have avoided runaway gas accretion. In fact, mass-radius
+relationships of transiting planets suggest that some close-in super-Earths possess H$_2$/He
+atmospheres of ~ 0.1-10% by mass. Previous studies indicated that properties of a disk gas such as
+metallicity and the inflow/outflow cycle of a disk gas around a super-Earth can regulate accumulation
+of a H$_2$/He atmosphere onto itself. In this paper, we propose a new mechanism that radial mass accretion
+in a disk can limit the gas accretion onto super-Earth cores. Recent magneto-hydrodynamic simulations
+found that magnetically driven disk winds can drive a rapid gas flow near the disk surface. Such a
+rapid gas flow may slip out of a planetary core and regulate gas supply to an accreting gas onto the
+core. We performed N-body simulations for formation of super-Earths with accretion of atmospheres
+in a viscous accretion disk including effects of wind-driven accretion. We found that even super-Earth
+cores can avoid triggering runaway gas accretion if the inflow of a disk gas toward the cores is limited
+by viscous accretion. Our model predicts that super-Earths having H$_2$/He atmosphere of ~ 0.1-10
+wt % form within $\lesssim$ 1 au of the central star, whereas gas giants are born in the outer region.
+This mechanism can explain the radial dependence of observed giant planets beyond the solar system.

@@ -1,0 +1,16 @@
+During the last decade, imaging atmospheric Cherenkov telescopes (IACTs) have proven themselves
+as astronomical detectors in the very-high-energy (VHE; E>0.1 TeV) regime. The IACT technique
+observes the VHE photons indirectly, using the Earth's atmosphere as a calorimeter. Much of the
+calibration of Cherenkov telescope experiments is done using Monte Carlo simulations of the air
+shower development, Cherenkov radiation and detector, assuming certain models for the atmospheric
+conditions. Any deviation of the real conditions during observations from the assumed atmospheric
+model will result in a wrong reconstruction of the primary gamma-ray energy and the resulting source
+spectra. During eight years of observations, the High Energy Stereoscopic System (H.E.S.S.) has
+experienced periodic natural as well as anthropogenic variations of the atmospheric transparency
+due to aerosols created by biomass burning. In order to identify data that have been taken under such
+long-term reductions in atmospheric transparency, a new monitoring quantity, the Cherenkov transparency
+coefficient, has been developed and will be presented here. This quantity is independent of hardware
+changes in the detector and, therefore, isolates atmospheric factors that can impact the performance
+of the instrument, and in particular the spectral results. Its positive correlation with independent
+measurements of the atmospheric optical depth (AOD) retrieved from data of the Multi-angle Imaging
+SpectroRadiometer (MISR) on board of the Terra NASA's satellite is also presented here. 

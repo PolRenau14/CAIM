@@ -1,0 +1,16 @@
+Since the advent of CoRoT, and NASA Kepler and K2, the number of low- and intermediate-mass stars
+classified as pulsators has increased very rapidly with time, now accounting for several $10^4$
+targets. With the recent launch of NASA TESS space mission, we have confirmed our entrance to the
+era of all-sky observations of oscillating stars. TESS is currently releasing good quality datasets
+that already allow for the characterization and identification of individual oscillation modes
+even from single 27-days shots on some stars. When ESA PLATO will become operative by the next decade,
+we will face the observation of several more hundred thousands stars where identifying individual
+oscillation modes will be possible. However, estimating the individual frequency, amplitude,
+and lifetime of the oscillation modes is not an easy task. This is because solar-like oscillations
+and especially their evolved version, the red giant branch (RGB) oscillations, can vary significantly
+from one star to another depending on its specific stage of the evolution, mass, effective temperature,
+metallicity, as well as on its level of rotation and magnetism. In this perspective I will present
+a novel, fast, and powerful way to derive individual oscillation mode frequencies by building on
+previous results obtained with \diamonds. I will show that the oscillation frequencies obtained
+with this new approach can reach precisions of about 0.1 % and accuracies of about 0.01 % when compared
+to published literature values for the RGB star KIC~12008916. 

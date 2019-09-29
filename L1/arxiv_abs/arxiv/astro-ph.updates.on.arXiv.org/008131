@@ -1,0 +1,16 @@
+The origin of cosmic magnetic fields is an unsolved problem and magnetogenesis could have occurred
+in the early Universe. We study the evolution of such primordial magnetic fields across the cosmological
+recombination epoch via 3D magnetohydrodynamic numerical simulations. We compute the effective
+or net heating rate of baryons due to decaying magnetic fields and its dependence on the magnetic
+field strength and spectral index. In the drag-dominated regime ($z \gtrsim 1500$), prior to recombination,
+we find no real heating is produced. Our simulations allow us to smoothly trace a new transition regime
+($600 \lesssim z \lesssim 1500$), where magnetic energy decays, at first, into the kinetic energy
+of baryons. A turbulent velocity field is built up until it saturates, as the net heating rate rises
+from a low value at recombination to its peak towards the end of the transition regime. This is followed
+by a turbulent decay regime ($z \lesssim 600$) where magnetic energy dissipates via turbulent decay
+of both magnetic and velocity fields while net heating remains appreciable and declines slowly.
+Both the peak of the net heating rate and the onset of turbulent decay are delayed significantly beyond
+recombination, by up to 0.5 Myr (until $z\simeq 600-700$), for scale-invariant magnetic fields.
+We provide analytic approximations and present numerical results for a range of field strengths
+and spectral indices, illustrating the redshift-dependence of dissipation and net heating rates.
+These can be used to study cosmic microwave background constraints on primordial magnetic fields.

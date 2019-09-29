@@ -1,0 +1,16 @@
+In this article we provide a general construction when $n\ge3$ for immersed in Euclidean $(n+1)$-space,
+complete, smooth, constant mean curvature hypersurfaces of finite topological type (in short
+CMC $n$-hypersurfaces). More precisely our construction converts certain graphs in Euclidean
+$(n+1)$-space to CMC $n$-hypersurfaces with asymptotically Delaunay ends in two steps: First
+appropriate small perturbations of the given graph have their vertices replaced by round spherical
+regions and their edges and rays by Delaunay pieces so that a family of initial smooth hypersurfaces
+is constructed. One of the initial hypersurfaces is then perturbed to produce the desired CMC $n$-hypersurface
+which depends on the given family of perturbations of the graph and a small in absolute value parameter
+$\underline\tau$. This construction is very general because of the abundance of graphs which satisfy
+the required conditions and because it does not rely on symmetry requirements. For any given $k\ge2$
+and $n\ge3$ it allows us to realize infinitely many topological types as CMC $n$-hypersurfaces
+in $\mathbb R^{n+1}$ with $k$ ends. Moreover for each case there is a plethora of examples reflecting
+the abundance of the available graphs. This is in sharp contrast with the known examples which in
+the best of our knowledge are all (generalized) cylindrical obtained by ODE methods and are compact
+or with two ends. Furthermore we construct embedded examples when $k\ge3$ where the number of possible
+topological types for each $k$ is finite but tends to $\infty$ as $k\to\infty$. 

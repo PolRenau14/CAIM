@@ -1,0 +1,17 @@
+Despite the great achievements made by neural networks on tasks such as image classification, they
+are brittle and vulnerable to adversarial examples (AEs). By adding adversarial noise to input
+images, adversarial examples can be crafted to mislead neural network based image classifiers.
+One type of AE attack in particular, known as an L0 AE, has been used in several notable real-world
+incidents. Our observation is that, while L0 corruptions modify as few pixels as possible, they
+tend to cause large-amplitude perturbations to the modified pixels. We consider this to be an inherent
+limitation of L0 AEs which can be exploited. To show the weakness of L0 AEs, we thwart samples of these
+attacks by both detecting and rectifying them. The main novelty of the proposed detector is that
+we convert the AE detection problem into an image comparison problem by exploiting the inherent
+characteristics of L0 AEs. More concretely, given an image I, it is pre-processed to obtain another
+image I'. We use a Siamese network which is known to be effective in comparison, to take I and I' as the
+input pair. A well trained Siamese network can automatically capture the discrepancy between I
+and I' to detect L0 noises. In addition, the straightforward pre-processor based on heuristics
+can be deployed as an effective defense, having a high probability of removing the adversarial influence
+of L0 perturbations. The proposed technique shows not only a high accuracy but also a resilience
+to the adaptive adversary, which outperforms other state-of-the-art methods. We accordingly
+argue that L0 attacks are not strong enough. 

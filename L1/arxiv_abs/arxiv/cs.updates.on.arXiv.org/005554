@@ -1,0 +1,17 @@
+With the emergence of large-scale data-intensive high-performance applications, new I/O challenges
+appear in the efficient management of petabytes of information in High-Performance Computing
+(HPC) environments. Data management environments must meet the performance needs of such applications,
+represented by various Quality-of-Service (QoS) metrics such as desired bandwidth, response
+time guarantee, and resource utilization. Traditional high-performance management platforms
+are facing considerable challenges regarding flexibility, as well as the need to address a variety
+of QoS metrics and constraints. To tackle these challenges, a Software-Defined approach is considered
+promising, and various prototypes have already been deployed in Cloud-based data centers. In this
+paper, we investigate the idea of utilizing a software-defined approach to provide I/O QoS provisioning
+for HPC applications. We identify the key challenges towards the high degree of concurrency and
+variation in HPC platforms, and propose a series of novel designs into the general software-defined
+approach in order to deliver our goal. Specifically, we introduced a borrowing-based strategy
+and a new M-LWDF algorithm based on traditional token-bucket algorithms to assure a fair and efficient
+utilization of resources for HPC applications. Due to the lack of software-defined frameworks
+in current HPC platform, we evaluated our framework through simulation. The experimental results
+show that our strategies make a significant improvement upon the general HPC frameworks and lead
+to clear performance gain for HPC applications. 

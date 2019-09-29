@@ -1,0 +1,16 @@
+The composition of the scientific workforce shapes the direction of scientific research, directly
+through the selection of questions to investigate, and indirectly through its influence on the
+training of future scientists. In most fields, however, complete census information is difficult
+to obtain, complicating efforts to study workforce dynamics and the effects of policy. This is particularly
+true in computer science, which lacks a single, all-encompassing directory or professional organization.
+A full census of computer science would serve many purposes, not the least of which is a better understanding
+of the trends and causes of unequal representation in computing. Previous academic census efforts
+have relied on narrow or biased samples, or on professional society membership rolls. A full census
+can be constructed directly from online departmental faculty directories, but doing so by hand
+is prohibitively expensive and time-consuming. Here, we introduce a topical web crawler for automating
+the collection of faculty information from web-based department rosters, and demonstrate the
+resulting system on the 205 PhD-granting computer science departments in the U.S. and Canada. This
+method constructs a complete census of the field within a few minutes, and achieves over 99% precision
+and recall. We conclude by comparing the resulting 2017 census to a hand-curated 2011 census to quantify
+turnover and retention in computer science, in general and for female faculty in particular, demonstrating
+the types of analysis made possible by automated census construction. 

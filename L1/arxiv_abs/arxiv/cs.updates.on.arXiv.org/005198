@@ -1,0 +1,16 @@
+When multiple processor cores (CPUs) and a GPU integrated together on the same chip share the off-chip
+DRAM, requests from the GPU can heavily interfere with requests from the CPUs, leading to low system
+performance and starvation of cores. Unfortunately, state-of-the-art memory scheduling algorithms
+are ineffective at solving this problem due to the very large amount of GPU memory traffic, unless
+a very large and costly request buffer is employed to provide these algorithms with enough visibility
+across the global request stream. Previously-proposed memory controller (MC) designs use a single
+monolithic structure to perform three main tasks. First, the MC attempts to schedule together requests
+to the same DRAM row to increase row buffer hit rates. Second, the MC arbitrates among the requesters
+(CPUs and GPU) to optimize for overall system throughput, average response time, fairness and quality
+of service. Third, the MC manages the low-level DRAM command scheduling to complete requests while
+ensuring compliance with all DRAM timing and power constraints. This paper proposes a fundamentally
+new approach, called the Staged Memory Scheduler (SMS), which decouples the three primary MC tasks
+into three significantly simpler structures that together improve system performance and fairness.
+Our evaluation shows that SMS provides 41.2% performance improvement and fairness improvement
+compared to the best previous state-of-the-art technique, while enabling a design that is significantly
+less complex and more power-efficient to implement. 

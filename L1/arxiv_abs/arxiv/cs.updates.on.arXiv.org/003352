@@ -1,0 +1,16 @@
+Data is inherently dirty and there has been a sustained effort to come up with different approaches
+to clean it. A large class of data repair algorithms rely on data-quality rules and integrity constraints
+to detect and repair the data. A well-studied class of integrity constraints is Functional Dependencies
+(FDs, for short) that specify dependencies among attributes in a relation. In this paper, we address
+three major challenges in data repairing: (1) Accuracy: Most existing techniques strive to produce
+repairs that minimize changes to the data. However, this process may produce incorrect combinations
+of attribute values (or patterns). In this work, we formalize the interaction of FD-induced patterns
+and select repairs that result in preserving frequent patterns found in the original data. This
+has the potential to yield a better repair quality both in terms of precision and recall. (2) Interpretability
+of repairs: Current data repair algorithms produce repairs in the form of data updates that are not
+necessarily understandable. This makes it hard to debug repair decisions and trace the chain of
+steps that produced them. To this end, we define a new formalism to declaratively express repairs
+that are easy for users to reason about. (3) Scalability: We propose a linear-time algorithm to compute
+repairs that outperforms state-of-the-art FD repairing algorithms by orders of magnitude in repair
+time. Our experiments using both real-world and synthetic data demonstrate that our new repair
+approach consistently outperforms existing techniques both in terms of repair quality and scalability.

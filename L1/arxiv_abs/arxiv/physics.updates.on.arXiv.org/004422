@@ -1,0 +1,16 @@
+We review a scalable two- and three-dimensional computer code for low-temperature plasma simulations
+in multi-material complex geometries. Our approach is based on embedded boundary (EB) finite volume
+discretizations of the minimal fluid-plasma model on adaptive Cartesian grids, extended to also
+account for charging of insulating surfaces. We discuss the spatial and temporal discretization
+methods, and show that the resulting overall method is second order convergent, monotone, and conservative
+(for smooth solutions). Weak scalability with parallel efficiencies over 70\% are demonstrated
+up to 8192 cores and more than one billion cells. We then demonstrate the use of adaptive mesh refinement
+in multiple two- and three-dimensional simulation examples at modest cores counts. The examples
+include two-dimensional simulations of surface streamers along insulators with surface roughness;
+fully three-dimensional simulations of filaments in experimentally realizable pin-plane geometries,
+and three-dimensional simulations of positive plasma discharges in multi-material complex geometries.
+The largest computational example uses up to $800$ million mesh cells with billions of unknowns
+on $4096$ computing cores. Our use of computer-aided design (CAD) and constructive solid geometry
+(CSG) combined with capabilities for parallel computing offers possibilities for performing
+three-dimensional transient plasma-fluid simulations, also in multi-material complex geometries
+at moderate pressures and comparatively large scale. 

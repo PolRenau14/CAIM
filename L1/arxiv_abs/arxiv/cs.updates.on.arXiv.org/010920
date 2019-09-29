@@ -1,0 +1,16 @@
+Learning with less supervision is a major challenge in artificial intelligence. One sensible approach
+to decrease the amount of supervision is to leverage prior experience and transfer knowledge from
+tasks seen in the past. However, a necessary condition for a successful transfer is the ability to
+remember how to perform previous tasks. The Continual Learning (CL) setting, whereby an agent learns
+from a stream of tasks without seeing any example twice, is an ideal framework to investigate how
+to accrue such knowledge. In this work, we consider supervised learning tasks and methods that leverage
+a very small episodic memory for continual learning. Through an extensive empirical analysis across
+four benchmark datasets adapted to CL, we observe that a very simple baseline, which jointly trains
+on both examples from the current task as well as examples stored in the memory, outperforms state-of-the-art
+CL approaches with and without episodic memory. Surprisingly, repeated learning over tiny episodic
+memories does not harm generalization on past tasks, as joint training on data from subsequent tasks
+acts like a data dependent regularizer. We discuss and evaluate different approaches to write into
+the memory. Most notably, reservoir sampling works remarkably well across the board, except when
+the memory size is extremely small. In this case, writing strategies that guarantee an equal representation
+of all classes work better. Overall, these methods should be considered as a strong baseline candidate
+when benchmarking new CL approaches 

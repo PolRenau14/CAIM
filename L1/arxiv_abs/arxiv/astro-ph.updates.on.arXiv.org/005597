@@ -1,0 +1,16 @@
+It is well known that solar filaments are features in the solar atmosphere which show a hemispheric
+preference in their chirality. The hemispheric preference is such that the dextral chirality dominates
+in the northern hemisphere while the sinistral chirality dominates in the southern. Determining
+the strength and cyclic variation of the degree of this hemispheric preference, however, is challenging
+and tedious and thus needs to be automated. In this paper, we follow Dr. Pietro Bernasconi's algorithm
+(Bernasconi et al. 2005) to detect filament chirality with two parallel channels of application.
+The algorithm is applied to H-alpha images by "Advanced Automated Filament Detection and Characterization
+Code" (AAFDCC) (Bernasconi et al. 2005) or the algorithm is explained to a human and the human determines
+the chirality of the solar filament. We have conducted this exercise on data during the month of August
+from years 2000 to 2016 and we found that 83 % of our visually determined filaments follow the hemispheric
+chirality preference, while 58 % of automatically determined filaments follow it. Our visually
+compiled results have over 90 % agreement with those of Pevtsov et al. (2003), yet the visually determined
+chiralities of filaments disagree with automated determinations significantly. We find that
+the hemispheric preference remained the same between solar cycles 23 and 24 but the preference is
+very difficult to determine during the solar minimum of 2008-2010 primarily due to the absence of
+filaments. 

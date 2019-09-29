@@ -1,0 +1,16 @@
+A compact device lifted over the ground surface might be used to observe optical radiation of extensive
+air showers (EAS). Here we consider spatial and temporal characteristics of Vavilov-Cherenkov
+radiation ("Cherenkov light") reflected from the snow surface of Lake Baikal, as registered by
+the SPHERE-2 detector. We perform detailed full direct Monte Carlo simulations of EAS development
+and present a dedicated highly modular code intended for detector response simulations. Detector
+response properties are illustrated by example of several model EAS events. The instrumental acceptance
+of the SPHERE-2 detector was calculated for a range of observation conditions. We introduce the
+concept of "composite model quantities", calculated for detector responses averaged over photoelectron
+count fluctuations, but retaining EAS development fluctuations. The distortions of EAS Cherenkov
+light lateral distribution function (LDF) introduced by the SPHERE-2 telescope are understood
+by comparing composite model LDF with the corresponding function as would be recorded by an ideal
+detector situated at the ground surface. We show that the uncertainty of snow optical properties
+does not change our conclusions, and, moreover, that the expected performance of the SPHERE experiment
+in the task of cosmic ray mass composition study in the energy region $\sim$10 PeV is comparable with
+other contemporary experiments. Finally, we compare the reflected Cherenkov light method with
+other experimental techniques and briefly discuss its prospects. 

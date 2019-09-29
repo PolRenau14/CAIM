@@ -1,0 +1,16 @@
+Active regions are the source of the majority of magnetic flux rope ejections that become Coronal
+Mass Ejections (CMEs). To identify in advance which active regions will produce an ejection is key
+for both space weather prediction tools and future science missions such as Solar Orbiter. The aim
+of this study is to develop a new technique to identify which active regions are more likely to generate
+magnetic flux rope ejections. The new technique will aim to: (i) produce timely space weather warnings
+and (ii) open the way to a qualified selection of observational targets for space-borne instruments.
+We use a data-driven Non-linear Force-Free Field (NLFFF) model to describe the 3D evolution of the
+magnetic field of a set of active regions. We determine a metric to distinguish eruptive from non-eruptive
+active regions based on the Lorentz force. Furthermore, using a subset of the observed magnetograms,
+we run a series of simulations to test whether the time evolution of the metric can be predicted. The
+identified metric successfully differentiates active regions observed to produce eruptions
+from the non-eruptive ones in our data sample. A meaningful prediction of the metric can be made between
+6 to 16 hours in advance. This initial study presents an interesting first step in the prediction
+of CME onset using only LOS magnetogram observations combined with NLFFF modelling. Future studies
+will address how to generalise the model such that it can be used in a more operational sense and for
+a variety of simulation approaches. 

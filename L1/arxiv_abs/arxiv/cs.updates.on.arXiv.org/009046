@@ -1,0 +1,16 @@
+We consider a system where a human operator processes a sequence of tasks that are similar in nature
+under a total time constraint. In these systems, the performance of the operator depends on its past
+utilization. This is akin to $\textit{state-dependent}$ channels where the past actions of the
+transmitter affects the future quality of the channel (also known as $\textit{action-dependent}$
+or $\textit{use-dependent}$ channels). For $\textit{human channels}$, a well-known psychological
+phenomena, known as $\textit{Yerkes-Dodson law}$, states that a human operator performs worse
+when he/she is over-utilized or under-utilized. Over such a $\textit{use-dependent}$ human channel,
+we consider the problem of maximizing a utility function, which is monotonically increasing and
+concave in the time allocated for each task, under explicit minimum and maximum $\textit{utilization}$
+constraints. We show that the optimal solution is to keep the utilization ratio of the operator as
+high as possible, and to process all the tasks. We prove that the optimal policy consists of two major
+strategies: utilize the operator without resting until reaching the maximum allowable utilization
+ratio, and then alternate between working and resting the operator each time reaching the maximum
+allowable utilization at the end of work-period. We show that even though the tasks are similar in
+difficulty, the time allocated for the tasks can be different depending on the strategy in which
+a task is processed; however, the tasks processed in the same strategy are processed equally. 

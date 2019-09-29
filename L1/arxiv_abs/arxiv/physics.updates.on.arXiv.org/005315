@@ -1,0 +1,16 @@
+Radiative and non-radiative charge carrier recombination in thin-film diodes plays a key role
+in determining the efficiency of electronic devices made of next generation semiconductors such
+as organic, perovskite and nanocrystals. In this work, we show that lowering the bulk recombination
+does not necessarily result in enhanced performance metrics of electronic devices. From the perspective
+of charge carrier extraction and injection, the radiative limit of the open-circuit voltage of
+solar cells, noise current of photodetectors and lasing threshold of injection lasers cannot be
+improved if the contacts are not perfectly selective. A numerical drift-diffusion model is used
+to investigate the interplay between bulk recombination and surface recombination of minority
+carriers at the contacts in bipolar thin diode devices based on low-mobility semiconductors. The
+surface recombination becomes prominent in case of reduced bulk recombination strengths when
+non-selective contacts, i. e. contacts that are either metallic or have imperfect charge-selective
+interlayer, are employed. Finally, we derive analytical approximations for the case when diffusion-limited
+surface recombination of minority carriers at Ohmic contacts dominates the dark current. These
+results indicate that having perfectly selective contacts becomes crucial in systems with suppressed
+bulk recombination - a challenging requirement for future state-of-the-art thin-film solar cells,
+light-emitting devices and photodetectors made of next generation semiconductors. 

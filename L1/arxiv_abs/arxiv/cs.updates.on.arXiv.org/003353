@@ -1,0 +1,16 @@
+The copyright protection of 3D videos has become a crucial issue. In this study, a novel zero-watermark
+scheme with similarity-based retrieval is proposed. In our proposed scheme the features of both
+2D-video and depth-map components are first extracted. Next, master shares and ownership shares
+are generated from these features and their relevant copyright information based on (2,2) visual
+secret sharing scheme. Different with traditional zero-watermark schemes, both the features
+and ownership shares are stored in relevant databases. When a 3D video is queried, a novel similarity-based
+retrieval phase is designed to obtain the ownership shares relevant to the particular 3D video.
+After that, the queried master shares are generated from this 3D video and stacked with its relevant
+ownership shares to identify its copyright ownership. To satisfy different DRM requirements of
+3D videos, flexible mechanisms are designed for both similarity-based retrieval and copyright
+identification functions in our study. The experimental results demonstrate that RZW-SR3D not
+only obtains the ownership shares relevant to a particular 3D video precisely and reliably when
+processing numerous videos, which outperforms the traditional zero-watermark schemes, but also
+identifies the copyrights of 2D-video and depth-map components of 3D videos reliably, independently
+and simultaneously without any content distortion or watermark-embedding limitation, which
+outperforms existing 2D-video based and depth-map based watermark schemes for protecting 3D video.

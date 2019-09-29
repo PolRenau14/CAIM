@@ -1,0 +1,16 @@
+We motivate this study from a recent work on a Stochastic Gradient Descent (SGD) method with only
+one projection, which aims at alleviating the computational bottleneck of a standard SGD method
+in performing the projection at each iteration. It can find applications in many learning problems,
+especially when the optimization domain is complex (e.g., a PSD cone). It has been shown to enjoy
+an $O(\log T/T)$ convergence rate for strongly convex optimization. Recently, \cite{Zhang:arXiv1304.0740}
+improve the convergence rate to an optimal convergence rate of $O(1/T)$ with $O(\log T)$ projections.
+However, their algorithm has several drawbacks: (i) first they assume the objective function is
+both strongly convex and smooth and (ii) the number of projections in their algorithm depend on the
+condition number of the problem (namely the ratio of the smoothness parameter to the strong convexity
+parameter). In this paper, we make further contributions along the line. First, we develop an epoch
+projection SGD method that only makes $\log (T)$ projections but achieves an optimal convergence
+rate $O(1/T)$ for {\it strongly convex optimization}. Second, we present a proximal extension
+to utilize the structure of the objective function that could further speed-up the computation
+and convergence for sparse regularized loss minimization problems. Finally, we consider an application
+of the proposed techniques to solving the high dimensional large margin nearest neighbor classification
+problem, yielding a speed-up of orders of magnitude. 

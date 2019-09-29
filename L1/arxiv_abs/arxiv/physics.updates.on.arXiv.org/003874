@@ -1,0 +1,17 @@
+In this paper, we develop an analytic physics-based model to describe current conduction in ultra-thin
+black phosphorus (BP) field-effect transistors (FETs). The model extends the concept of virtual
+source charge calculation to capture the effect of both hole and electron charges for ambipolar
+transport characteristics. The model comprehends the in-plane band-structure anisotropy in
+BP, as well as the asymmetry in electron and hole current conduction characteristics. The model
+also includes the effect of Schottky-type source/drain contact resistances, which are voltage-dependent
+and can significantly limit current conduction in the on-state in BP FETs. Model parameters are
+extracted using measured data of back-gated BP transistors with gate lengths of 1000 nm and 300 nm
+with BP thickness of 7.3 nm and 8.1 nm, and for the temperature range of 180 K to 298 K. Compared to previous
+BP models that are validated only for room-temperature and near-equilibrium bias conditions (low
+drain-source voltage), we demonstrate excellent agreement between the data and model over a broad
+range of bias and temperature values. The model is also validated against numerical TCAD data of
+top-gated BP transistors with a channel length of 300 nm. The model is implemented in Verilog-A and
+the capability of the model to handle both dc and transient circuit simulations is demonstrated
+using SPECTRE. The model not only provides a physical insight into technology-device interaction
+in BP transistors, but can also be used to design and optimize BP-based circuits using a standard
+hierarchical circuit simulator. 

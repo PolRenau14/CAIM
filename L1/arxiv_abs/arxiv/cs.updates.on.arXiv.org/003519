@@ -1,0 +1,16 @@
+A Not-All-Equal (NAE) decomposition of a graph $G$ is a decomposition of the vertices of $G$ into
+two parts such that each vertex in $G$ has at least one neighbor in each part. Also, a 1-in-Degree decomposition
+of a graph $G$ is a decomposition of the vertices of $G$ into two parts $A$ and $B$ such that each vertex
+in the graph $G$ has exactly one neighbor in part $A$. Among our results, we show that for a given graph
+$G$, if $G$ does not have any cycle of length congruent to 2 mod 4, then there is a polynomial time algorithm
+to decide whether $G$ has a 1-in-Degree decomposition. In sharp contrast, we prove that for every
+$r$, $r\geq 3$, for a given $r$-regular bipartite graph $G$ determining whether $G$ has a 1-in-Degree
+decomposition is $ \mathbf{NP} $-complete. These complexity results have been especially useful
+in proving $ \mathbf{NP} $-completeness of various graph related problems for restricted classes
+of graphs. In consequence of these results we show that for a given bipartite 3-regular graph $G$
+determining whether there is a vector in the null-space of the 0,1-adjacency matrix of $G$ such that
+its entries belong to $\{\pm 1,\pm 2\}$ is $\mathbf{NP} $-complete. Among other results, we introduce
+a new version of {Planar 1-in-3 SAT} and we prove that this version is also $ \mathbf{NP} $-complete.
+In consequence of this result, we show that for a given planar $(3,4)$-semiregular graph $G$ determining
+whether there is a vector in the null-space of the 0,1-incidence matrix of $G$ such that its entries
+belong to $\{\pm 1,\pm 2\}$ is $\mathbf{NP} $-complete. 

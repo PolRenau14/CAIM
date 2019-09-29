@@ -1,0 +1,16 @@
+We consider the classical camera pose estimation problem that arises in many computer vision applications,
+in which we are given n 2D-3D correspondences between points in the scene and points in the camera
+image (some of which are incorrect associations), and where we aim to determine the camera pose (the
+position and orientation of the camera in the scene) from this data. We demonstrate that this posing
+problem can be reduced to the problem of computing {\epsilon}-approximate incidences between
+two-dimensional surfaces (derived from the input correspondences) and points (on a grid) in a four-dimensional
+pose space. Similar reductions can be applied to other camera pose problems, as well as to similar
+problems in related application areas. We describe and analyze three techniques for solving the
+resulting {\epsilon}-approximate incidences problem in the context of our camera posing application.
+The first is a straightforward assignment of surfaces to the cells of a grid (of side-length {\epsilon})
+that they intersect. The second is a variant of a primal-dual technique, recently introduced by
+a subset of the authors [2] for different (and simpler) applications. The third is a non-trivial
+generalization of a data structure Fonseca and Mount [3], originally designed for the case of hyperplanes.
+We present and analyze this technique in full generality, and then apply it to the camera posing problem
+at hand. We compare our methods experimentally on real and synthetic data. Our experiments show
+that for the typical values of n and {\epsilon}, the primal-dual method is the fastest, also in practice.

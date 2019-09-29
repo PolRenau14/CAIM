@@ -1,0 +1,16 @@
+This paper studies the problem of constructing control Lyapunov functions (CLFs) and feedback
+stabilization strategies for deterministic nonlinear control systems described by ordinary
+differential equations. Many numerical methods for solving the Hamilton-Jacobi-Bellman partial
+differential equations specifying CLFs typically require dense state space discretizations
+and consequently suffer from the curse of dimensionality. A relevant direction of attenuating
+the curse of dimensionality concerns reducing the computation of the values of CLFs and associated
+feedbacks at any selected states to finite-dimensional nonlinear programming problems. In this
+work, exit-time optimal control is used for that purpose. First, we state an exit-time optimal control
+problem with respect to a sublevel set of an appropriate local CLF and establish that, under a number
+of reasonable conditions, the concatenation of the corresponding value function and the local
+CLF is a global CLF in the whole domain of asymptotic null-controllability. This leads to a curse-of-dimensionality-free
+approach to feedback stabilization. We also investigate the formulated optimal control problem.
+A modification of these constructions for the case when one does not find a suitable local CLF is provided
+as well. Supporting numerical simulation results that illustrate our development are subsequently
+presented and discussed. Furthermore, it is pointed out that the curse of complexity may cause significant
+issues in practical implementation even if the curse of dimensionality is mitigated. 

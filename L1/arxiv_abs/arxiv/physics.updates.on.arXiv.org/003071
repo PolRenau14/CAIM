@@ -1,0 +1,17 @@
+Falls and their related injuries pose a significant risk to human health. One of the most common falls,
+the forward fall, frequently occurs among adults and the elderly. In this study, we propose using
+a human body model, developed using the MAthematical DYnamic MOdel (MADYMO) software, in place
+of human subjects, to investigate forward fall-related injuries. The MADYMO human body model is
+capable of simulating items that cannot be assessed on human subjects, such as human kinematics,
+human dynamics, and the possibility of injuries. In order to achieve our goal, a set of experiments
+was conducted to measure the impact force during a worst-case forward fall scenario (the outstretched
+hand position) for two short fall heights. Similar to the experimental design used on the human subjects,
+we generated a MADYMO human model. After performing the simulations, the results of the experiment
+on the human subjects and the MADYMO simulation model were compared. We demonstrated a significant
+correlation between the MADYMO simulation and the human subject experiments with respect to the
+magnitude and timing of the impact forces. Consequently, we validated the MADYMO human body model
+as a means to accurately assess forward fall-related injuries. Additionally, we compared the predicted
+results of a mathematical model with the MADYMO human body model. The MADYMO model is reliable and
+can demonstrate an accurate impact time. Therefore, we conclude that the MADYMO human model can
+be utilized as a reliable model to investigate forward fall-related injuries from a typical standing
+position. 

@@ -1,0 +1,17 @@
+Fourier ptychography (FP) is a promising computational imaging technique that overcomes the physical
+space-bandwidth product (SBP) limit of a conventional microscope by applying angular diversity
+illuminations. However, to date, the effective imaging numerical aperture (NA) achievable with
+a commercial LED board is still limited to the range of 0.3 to 0.7 with a 4X0.1 NA objective due to the
+constraint of planar geometry with weak illumination brightness and attenuated signal-to-noise
+ratio (SNR). Thus the highest achievable half-pitch resolution is usually constrained between
+500 to 1000 nm, which cannot fulfill some needs of high-resolution biomedical imaging applications.
+Although it is possible to improve the resolution by using a higher magnification objective with
+larger NA instead of enlarging the illumination NA, the SBP is suppressed to some extent, making
+the FP technique less appealing, since the reduction of field-of-view (FOV) is much larger than
+the improvement of resolution in this FP platform. Herein, in this paper, we initially present a
+subwavelength resolution Fourier ptychography (SRFP) platform with a hemispherical digital
+condenser to provide high-angle programmable plane-wave illuminations of 0.95NA, attaining
+a 4X0.1 NA objective with the final effective imaging performance of 1.05NA at a half-pitch resolution
+of 244 nm with a wavelength of 465 nm across a wide FOV of 14.60 mm2, corresponding to an SBP of 245 megapixels.
+Our work provides an essential step of FP towards high-NA imaging applications without scarfing
+the FOV, making it more practical and appealing. 

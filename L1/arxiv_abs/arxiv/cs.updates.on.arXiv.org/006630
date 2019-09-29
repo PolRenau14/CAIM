@@ -1,0 +1,16 @@
+Subitizing, or the sense of small natural numbers, is a cognitive construct so primary and critical
+to the survival and well-being of humans and primates that is considered and proven to be innate;
+it responds to visual stimuli prior to the development of any symbolic skills, language or arithmetic.
+Given highly acclaimed successes of deep convolutional neural networks (DCNN) in tasks of visual
+intelligence, one would expect that DCNNs can learn subitizing. But somewhat surprisingly, our
+carefully crafted extensive experiments, which are similar to those of cognitive psychology,
+demonstrate that DCNNs cannot, even with strong supervision, see through superficial variations
+in visual representations and distill the abstract notion of natural number, a task that children
+perform with high accuracy and confidence. The DCNN black box learners driven by very large training
+sets are apparently still confused by geometric variations and fail to grasp the topological essence
+in subitizing. In sharp contrast to the failures of the black box learning, by incorporating a mechanism
+of mathematical morphology into convolutional kernels, we are able to construct a recurrent convolutional
+neural network that can perform subitizing deterministically. Our findings in this study of cognitive
+computing, without and with prior of human knowledge, are discussed; they are, we believe, significant
+and thought-provoking in the interests of AI research, because visual-based numerosity is a benchmark
+of minimum sort for human cognition. 

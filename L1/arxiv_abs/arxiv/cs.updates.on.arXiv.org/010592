@@ -1,0 +1,17 @@
+Heterogeneous cellular networks (HCNs) with millimeter wave (mm-wave) communications are considered
+as a promising technology for the fifth generation mobile networks. Mm-wave has the potential to
+provide multiple gigabit data rate due to the broad spectrum. Unfortunately, additional free space
+path loss is also caused by the high carrier frequency. On the other hand, mm-wave signals are sensitive
+to obstacles and more vulnerable to blocking effects. To address this issue, highly directional
+narrow beams are utilized in mm-wave networks. Additionally, device-to-device (D2D) users make
+full use of their proximity and share uplink spectrum resources in HCNs to increase the spectrum
+efficiency and network capacity. Towards the caused complex interferences, the combination of
+D2D-enabled HCNs with small cells densely deployed and mm-wave communications poses a big challenge
+to the resource allocation problems. In this paper, we formulate the optimization problem of D2D
+communication spectrum resource allocation among multiple micro-wave bands and multiple mm-wave
+bands in HCNs. Then, considering the totally different propagation conditions on the two bands,
+a heuristic algorithm is proposed to maximize the system transmission rate and approximate the
+solutions with sufficient accuracies. Compared with other practical schemes, we carry out extensive
+simulations with different system parameters, and demonstrate the superior performance of the
+proposed scheme. In addition, the optimality and complexity are simulated to further verify effectiveness
+and efficiency. 

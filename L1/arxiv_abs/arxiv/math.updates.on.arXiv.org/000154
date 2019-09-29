@@ -1,0 +1,17 @@
+In this paper we deal with a notion of Banach space-valued mappings defined on a set consisting of
+finite graphs with uniformly bounded vertex degree. These functions will be endowed with certain
+boundedness and additivity criteria. We examine their normalized long-term behaviour along a
+particular class of graph sequences. Using techniques developed by Elek, we show convergence in
+the topology of the Banach space if the corresponding graph sequence possesses a hyperfinite structure.
+These considerations extend and complement the corresponding results for amenable groups. As
+an application, we verify the uniform approximation of the integrated density of states for bounded,
+finite range operators on discrete structures. Further, we generalize the results concerning
+an abstract version of Fekete's Lemma for cancellative, amenable (semi-)groups to the geometric
+situation of convergent graph sequences. To complete the geometric picture, it will also be demonstrated
+that the conditions on the functions under consideration are not appropriate for convergence along
+graph sequences with non-hyperfinite geometries. However, as far as the question of pointwise
+convergence of spectral distribution functions is concerned, we can bypass this problem by extending
+parts of the algebraic eigenvalue conjecture proven for sofic groups by Thom to the general geometric
+case of graph sequences. More precisely, we derive the uniform existence of the integrated density
+of states for bounded, integer coefficient operators on all approximable, discrete structures
+with uniform vertex degree bound. 

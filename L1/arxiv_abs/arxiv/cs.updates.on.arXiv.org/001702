@@ -1,0 +1,17 @@
+Network coding based peer-to-peer streaming represents an effective solution to aggregate user
+capacities and to increase system throughput in live multimedia streaming. Nonetheless, such
+systems are vulnerable to pollution attacks where a handful of malicious peers can disrupt the communication
+by transmitting just a few bogus packets which are then recombined and relayed by unaware honest
+nodes, further spreading the pollution over the network. Whereas previous research focused on
+malicious nodes identification schemes and pollution-resilient coding, in this paper we show
+pollution countermeasures which make a standard network coding scheme resilient to pollution
+attacks. Thanks to a simple yet effective analytical model of a reference node collecting packets
+by malicious and honest neighbors, we demonstrate that i) packets received earlier are less likely
+to be polluted and ii) short generations increase the likelihood to recover a clean generation.
+Therefore, we propose a recombination scheme where nodes draw packets to be recombined according
+to their age in the input queue, paired with a decoding scheme able to detect the reception of polluted
+packets early in the decoding process and short generations. The effectiveness of our approach
+is experimentally evaluated in a real system we developed and deployed on hundreds to thousands
+peers. Experimental evidence shows that, thanks to our simple countermeasures, the effect of a
+pollution attack is almost canceled and the video quality experienced by the peers is comparable
+to pre-attack levels. 

@@ -1,0 +1,17 @@
+In Peer-to-Peer (P2P) network systems, content (object) delivery between nodes is often required.
+One way to study such a distributed system is by defining games, which involve selfish nodes that
+make strategic choices on replicating content in their local limited memory (cache) or accessing
+content from other nodes for a cost. These Selfish Replication games have been introduced in [8]
+for nodes that do not have any capacity limits, leaving the capacitated problem, i.e. Capacitated
+Selfish Replication (CSR) games, open. In this work, we first form the model of the CSR games, for
+which we perform a Nash equilibria analysis. In particular, we focus on hierarchical networks,
+given their extensive use to model communication costs of content delivery in P2P systems. We present
+an exact polynomial-time algorithm for any hierarchical network, under two constraints on the
+utility functions: 1) "Nearer is better", i.e. the closest the content is to the node the less its
+access cost is, and 2) "Independence of irrelevant alternatives", i.e. aggregation of individual
+node preferences. This generalization represents a vast class of utilities and more interestingly
+allows each of the nodes to have simultaneously completely different functional forms of utility
+functions. In this general framework, we present CSR games results on arbitrary networks and outline
+the boundary between intractability and effective computability in terms of the network structure,
+object preferences, and the total number of objects. Moreover, we prove that the problem of equilibria
+existence becomes NP-hard for general CSR games. 

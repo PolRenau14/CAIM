@@ -1,0 +1,16 @@
+We describe a setup to study ultrafast dynamics in gas-phase molecules using time-resolved photoelectron
+and photoion spectroscopy. The vacuum ultraviolet (VUV) probe pulses are generated via strong
+field high-order harmonic generation from infrared femtosecond laser pulses. The band pass characteristic
+in transmission of thin indium (In) metal foil is exploited to isolate the $9^{\text{th}}$ harmonic
+of the 800 nm fundamental (H9, 14 eV, 89 nm) from all other high harmonics. The $9^{\text{th}}$ harmonic
+is obtained with high conversion efficiencies and has sufficient photon energy to access the complete
+set of valence electron levels in most molecules. The setup also allows for direct comparison of
+VUV single-photon probe with 800 nm multi-photon probe without influencing the delay of excitation
+and probe pulse or the beam geometry. We use a magnetic bottle spectrometer with high collection
+efficiency for electrons, serving at the same time as a time of flight spectrometer for ions. Characterization
+measurements on Xe reveal the spectral width of H9 to be $190\pm60$ meV and a photon flux of $\sim1\cdot10^{7}$
+photons/pulse after spectral filtering. As a first application, we investigate the S$_1$ excitation
+of perylene using time-resolved ion spectra obtained with multi-photon probing and time-resolved
+electron spectra from VUV single-photon probing. The time resolution extracted from cross-correlation
+measurements is $65\pm10$ fs for both probing schemes and the pulse duration of H9 is found to be $35\pm8$
+fs. 

@@ -1,0 +1,16 @@
+Magnetorotational instability (MRI) is one of the fundamental processes in astrophysics, driving
+angular momentum transport and mass accretion in a wide variety of cosmic objects. Despite much
+theoretical/numerical and experimental efforts over the last decades, its saturation mechanism
+and amplitude, which sets the angular momentum transport rate, remains not well understood, especially
+in the limit of high resistivity, or small magnetic Prandtl numbers typical to interiors of protoplanetary
+disks, liquid cores of planets and liquid metals in laboratory. We investigate the nonlinear development
+and saturation properties of the helical magnetorotational instability (HMRI) in a magnetized
+Taylor-Couette flow using direct numerical simulations. From the linear theory of HMRI, it is known
+that the Elsasser number, or interaction parameter plays a special role for its dynamics and determines
+its growth rate. We show that this parameter is also important in the nonlinear problem. By increasing
+its value, a sudden transition from weakly nonlinear, where the system is slightly above the linear
+stability threshold, to turbulent regime occurs. We calculate the azimuthal and axial energy spectra
+corresponding to these two regimes and show that they differ qualitatively. Remarkably, the nonlinear
+states remain in all cases nearly axisymmetric suggesting that HMRI turbulence is quasi two-dimensional
+in nature. Although the contribution of non-axisymmetric modes increases moderately with the
+Elsasser number, their total energy remains much smaller than that of the axisymmetric ones. 

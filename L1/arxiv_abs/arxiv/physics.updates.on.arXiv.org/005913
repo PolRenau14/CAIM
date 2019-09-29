@@ -1,0 +1,16 @@
+Deep Reinforcement Learning (DRL) has recently been proposed as a methodology to discover complex
+Active Flow Control (AFC) strategies [Rabault, J., Kuchta, M., Jensen, A., Reglade, U., & Cerardi,
+N. (2019): "Artificial neural networks trained through deep reinforcement learning discover
+control strategies for active flow control", Journal of Fluid Mechanics, 865, 281-302]. However,
+while promising results were obtained on a simple 2D benchmark flow at a moderate Reynolds number,
+considerable speedups will be required to investigate more challenging flow configurations.
+In the case of DRL trained with Computational Fluid Dynamics (CFD) data, it was found that the CFD
+part, rather than training the Artificial Neural Network, was the limiting factor for speed of execution.
+Therefore, speedups should be obtained through a combination of two approaches. The first one,
+which is well documented in the literature, is to parallelize the numerical simulation itself.
+The second one is to adapt the DRL algorithm for parallelization. Here, a simple strategy is to use
+several independent simulations running in parallel to collect experiences faster. In the present
+work, we discuss this solution for parallelization. We illustrate that perfect speedups can be
+obtained up to the batch size of the DRL agent, and slightly suboptimal scaling still takes place
+for an even larger number of simulations. This is, therefore, an important step towards enabling
+the study of more sophisticated Fluid Mechanics problems through DRL. 

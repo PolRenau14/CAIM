@@ -1,0 +1,16 @@
+We focus on solving the clustered lasso problem, which is a least squares problem with the $\ell_1$-type
+penalties imposed on both the coefficients and their pairwise differences to learn the group structure
+of the regression parameters. Here we first reformulate the clustered lasso regularizer as a weighted
+ordered-lasso regularizer, which is essential in reducing the computational cost from $O(n^2)$
+to $O(n\log (n))$. We then propose an inexact semismooth Newton augmented Lagrangian ({\sc Ssnal})
+algorithm to solve the clustered lasso problem or its dual via this equivalent formulation, depending
+on whether the sample size is larger than the dimension of the features. An essential component of
+the {\sc Ssnal} algorithm is the computation of the generalized Jacobian of the proximal mapping
+of the clustered lasso regularizer. Based on the new formulation, we derive an efficient procedure
+for its computation. Comprehensive results on the global convergence and local linear convergence
+of the {\sc Ssnal} algorithm are established. For the purpose of exposition and comparison, we also
+summarize/design several first-order methods that can be used to solve the problem under consideration,
+but with the key improvement from the new formulation of the clustered lasso regularizer. As a demonstration
+of the applicability of our algorithms, numerical experiments on the clustered lasso problem are
+performed. The experiments show that the {\sc Ssnal} algorithm substantially outperforms the
+best alternative algorithm for the clustered lasso problem. 

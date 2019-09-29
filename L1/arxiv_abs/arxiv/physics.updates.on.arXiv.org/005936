@@ -1,0 +1,17 @@
+In this paper, the validity and accuracy of three interatomic potentials, commonly used to study
+carbon nanostructures in molecular dynamics, and the continuum shell model of Ghaffari and Sauer
+[1] are investigated. The mechanical behavior of single-layered graphene sheets (SLGSs) near
+zero Kelvin is studied for this comparison. The validity of the molecular and continuum models is
+assessed by direct comparison with density functional theory (DFT) data available in the literature.
+The molecular simulations are carried out employing the MM3, Tersoff and REBO+LJ potentials. The
+continuum formulation uses an anisotropic hyperelastic material model in the framework of the
+geometrically exact Kirchhoff-Love shell theory and isogeometric finite elements. For the comparison,
+the nonlinear response of a square graphene sheet under uniaxial stretching, biaxial stretching
+and pure bending is studied. Results from the continuum model are in good agreement with those of
+DFT. The results from the MM3 potential agree well with the DFT results up to the instability point,
+whereas those from the REBO+LJ and Tersoff potentials agree with the DFT results only within the
+range of small deformations. In contrast to the other potentials, the Tersoff potential yields
+auxetic response in SLGSs under uniaxial stretch. Additionally, the transverse vibration frequencies
+of a pre-stretched graphene sheet and a carbon nanocone are obtained using the continuum model and
+molecular simulations with the MM3 potential. The variations of the frequencies obtained from
+these two approaches agree within an accuracy of about 95%. 

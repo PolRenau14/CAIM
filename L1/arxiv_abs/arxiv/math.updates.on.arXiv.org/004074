@@ -1,0 +1,16 @@
+For a regular (in a sense) mapping $v:\R^n\to\R^d$ we study the following problem:\ {\sl let $S$
+be a subset of $m$-critical a set~$\ZZ_{v,m}=\{\rank \nabla v\le m\}$ and the equality $\H^\tau(S)=0$
+(or the~ inequality~ $\H^\tau(S)<\infty$\,) holds for some $\t>0$. Does it imply that $\H^{\sigma}(v(S))=0$
+for some $\sigma=\sigma(\tau,m)$?} (Here $\H^\t$ means the $\t$-dimensional Hausdorff measure.)
+For the classical classes $C^k$-smooth and $C^{k+\al}$-Holder mappings this problem was solved
+in the papers by Bates and Moreira. We solve the problem for Sobolev $W^k_p$ and fractional Sobolev
+$W^{k+\al}_p$ classes as well. Note that we study the Sobolev case under minimal integrability
+assumptions $p=\max(1,n/k)$, i.e., it guarantees in general only {\it the continuity} (not everywhere
+differentiability) of a~mapping. In particular, there is an interesting and unexpected analytical
+phenomena here: if $\t=n$ (i.e., in the case of Morse--Sard theorem), then the value $\sigma(\tau)$
+is the same for the~Sobolev $W^k_p$ and for the classical $C^k$-smooth case. But if $\t<n$, then
+the value $\sigma$ depends on~$p$ also; the value~$\sigma$ for $C^k$ case could be obtained as the
+limit when~$p\to\infty$. The similar phenomena holds for Holder continuous $C^{k+\al}$ and for
+the fractional Sobolev $W^{k+\al}_p$ classes. The proofs of the most results are based on our previous
+joint papers with J.~Bourgain and J.~Kristensen (2013, 2015). We also crucially use very deep Y.~Yomdin's
+entropy estimates of near critical values for polynomials (based on algebraic geometry tools).

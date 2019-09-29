@@ -1,0 +1,16 @@
+We present a robust numerical method for solving incompressible, immiscible two-phase flows.
+The method extends the monolithic phase conservative level set method with embedded redistancing
+by Quezada de Luna et al. [38] and a semi-implicit high-order projection scheme for variable-density
+flows by Guermond and Salgado [17]. The level set method can be initialized conveniently via a simple
+phase indicator field, which is pre-processed to obtain an approximate signed distance function.
+To do this, we propose a new PDE-based redistancing method. We also improve the scheme in [38] to provide
+more accuracy and robustness in full two-phase flow simulations. Specifically, we perform an extra
+step to ensure convergence to the signed distance level set function and simplify other aspects
+of the original scheme. Lastly, we introduce consistent artificial viscosity to stabilize the
+momentum equations in the context of the projection scheme. This stabilization is algebraic, has
+no tunable parameters and is suitable for unstructured meshes and arbitrary refinement levels.
+The overall methodology includes few numerical tuning parameters; however, for the wide range
+of problems that we solve, we identify only one parameter that strongly affects performance of the
+computational model and provide a value that provides accurate results across all the benchmarks
+presented. The result is a robust, accurate, and efficient two-phase flow model, which is mass-
+and volume-conserving on unstructured meshes and has low user input requirements for real applications.

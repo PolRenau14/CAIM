@@ -1,0 +1,17 @@
+The increasing number of protein-based metamaterials demands reliable and efficient methods
+to study the physicochemical properties they may display. In this regard, we develop a simulation
+strategy based on Molecular Dynamics (MD) that addresses the geometric degrees of freedom of an
+auxetic two-dimensional protein crystal. This model consists of a network of impenetrable rigid
+squares linked through massless rigid rods, thus featuring a large number of both holonomic and
+nonholonomic constraints. Our MD methodology is optimized to study highly constrained systems
+and allows for the simulation of long-time dynamics with reasonably large timesteps. The data extracted
+from the simulations shows a persistent motional interdependence among the protein subunits in
+the crystal. We characterize the dynamical correlations featured by these subunits and identify
+two regimes characterized by their locality or nonlocality, depending on the geometric parameters
+of the crystal. From the same data, we also calculate the Poisson\rq{}s (longitudinal to axial strain)
+ratio of the crystal, and learn that, due to holonomic constraints (rigidness of the rod links),
+the crystal remains auxetic even after significant changes in the original geometry. The nonholonomic
+ones (collisions between subunits) increase the number of inhomogeneous deformations of the crystal,
+thus driving it away from an isotropic response. Our work provides the first simulation of the dynamics
+of protein crystals and offers insights into promising mechanical properties afforded by these
+materials. 

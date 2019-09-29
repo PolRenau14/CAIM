@@ -1,0 +1,17 @@
+The General Data Protection Regulation (GDPR) is a European Union regulation that will replace
+the existing Data Protection Directive on 25 May 2018. The most significant change is a huge increase
+in the maximum fine that can be levied for breaches of the regulation. Yet fewer than half of UK companies
+are fully aware of GDPR - and a number of those who were preparing for it stopped doing so when the Brexit
+vote was announced. A last-minute rush to become compliant is therefore expected, and numerous
+companies are starting to offer advice, checklists and consultancy on how to comply with GDPR. In
+such an environment, artificial intelligence technologies ought to be able to assist by providing
+best advice; asking all and only the relevant questions; monitoring activities; and carrying out
+assessments. The paper considers four areas of GDPR compliance where rule based technologies and/or
+machine learning techniques may be relevant: * Following compliance checklists and codes of conduct;
+* Supporting risk assessments; * Complying with the new regulations regarding technologies that
+perform automatic profiling; * Complying with the new regulations concerning recognising and
+reporting breaches of security. It concludes that AI technology can support each of these four areas.
+The requirements that GDPR (or organisations that need to comply with GDPR) state for explanation
+and justification of reasoning imply that rule-based approaches are likely to be more helpful than
+machine learning approaches. However, there may be good business reasons to take a different approach
+in some circumstances. 

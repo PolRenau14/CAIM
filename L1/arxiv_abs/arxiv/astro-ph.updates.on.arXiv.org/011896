@@ -1,0 +1,16 @@
+We present Atacama Large Millimeter/submillimeter Array (ALMA) observations of high-J CO lines
+($J_\mathrm{up}=6$, 7, 8) and associated dust continuum towards five strongly lensed, dusty,
+star-forming galaxies (DSFGs) at redshift $z = 2.7$-5.7. These galaxies, discovered in the South
+Pole Telescope survey, are observed at $0.2''$-$0.4''$ resolution with ALMA. Our high-resolution
+imaging coupled with the lensing magnification provides a measurement of the structure and kinematics
+of molecular gas in the background galaxies with spatial resolutions down to kiloparsec scales.
+We derive visibility-based lens models for each galaxy, accurately reproducing observations
+of four of the galaxies. Of these four targets, three show clear velocity gradients, of which two
+are likely rotating disks. We find that the reconstructed region of CO emission is less concentrated
+than the region emitting dust continuum even for the moderate-excitation CO lines, similar to what
+has been seen in the literature for lower-excitation transitions. We find that the lensing magnification
+of a given source can vary by 20-50% across the line profile, between the continuum and line, and between
+different CO transitions. We apply Large Velocity Gradient (LVG) modeling using apparent and intrinsic
+line ratios between lower-J and high-J CO lines. Ignoring these magnification variations can bias
+the estimate of physical properties of interstellar medium of the galaxies. The magnitude of the
+bias varies from galaxy to galaxy and is not necessarily predictable without high resolution observations.

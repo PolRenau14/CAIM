@@ -1,0 +1,17 @@
+Given the reach of web platforms, bad actors have considerable incentives to manipulate and defraud
+users at the expense of platform integrity. This has spurred research in numerous suspicious behavior
+detection tasks, including detection of sybil accounts, false information, and payment scams/fraud.
+In this paper, we draw the insight that many such initiatives can be tackled in a common framework
+by posing a detection task which seeks to find groups of entities which share too many properties
+with one another across multiple attributes (sybil accounts created at the same time and location,
+propaganda spreaders broadcasting articles with the same rhetoric and with similar reshares,
+etc.) Our work makes four core contributions: Firstly, we posit a novel formulation of this task
+as a multi-view graph mining problem, in which distinct views reflect distinct attribute similarities
+across entities, and contextual similarity and attribute importance are respected. Secondly,
+we propose a novel suspiciousness metric for scoring entity groups given the abnormality of their
+synchronicity across multiple views, which obeys intuitive desiderata that existing metrics
+do not. Finally, we propose the SliceNDice algorithm which enables efficient extraction of highly
+suspicious entity groups, and demonstrate its practicality in production, in terms of strong detection
+performance and discoveries on Snapchat's large advertiser ecosystem (89% precision and numerous
+discoveries of real fraud rings), marked outperformance of baselines (over 97% precision/recall
+in simulated settings) and linear scalability. 

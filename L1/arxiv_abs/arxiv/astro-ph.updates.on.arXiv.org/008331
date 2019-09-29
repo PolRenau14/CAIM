@@ -1,0 +1,16 @@
+Over-contact binaries are a subclass of eclipsing binaries whose component stars share a common
+envelope apart from filling their Roche lobes. We conduct a detailed analysis of the underlying
+nonlinear dynamics of about 463 over contact binary stars, classified as such in the second revision
+of the eclipsing binary catalog, in the Kepler Field of view (\cite{prvsa2011kepler}). We use two
+main techniques, namely the correlation dimension($D_2$), calculated from the reconstructed
+dynamics and the main peak bicoherence function from Fourier transforms of the light curves of these
+star systems. Our results indicate that almost all the light curves show signatures of deterministic
+chaos. This will be a helpful addition in understanding the origin of variable maxima and eclipse
+time variations in eclipsing binaries. We also check for correlations of the bicoherence of the
+light curves and the fractal properties of the reconstructed phase space of the stars with the inherent
+properties of the binary, and find that significant correlations exist between many of these properties,
+the most significant among which is the correlation between the fill-out factor with correlation
+dimension, $D_2$ and main peak bicoherence, $b_F(f)$. These results indicate that the nonlinear
+properties of the stars change as the system evolves. These correlations seem to be the first of its
+kind made between the nonlinear properties of the underlying dynamics of a class of astrophysical
+objects, and its inherent physical properties. 

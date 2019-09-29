@@ -1,0 +1,17 @@
+Non-invasive detection of cardiovascular disorders from radiology scans requires quantitative
+image analysis of the heart and its substructures. There are well-established measurements that
+radiologists use for diseases assessment such as ejection fraction, volume of four chambers, and
+myocardium mass. These measurements are derived as outcomes of precise segmentation of the heart
+and its substructures. The aim of this paper is to provide such measurements through an accurate
+image segmentation algorithm that automatically delineates seven substructures of the heart
+from MRI and/or CT scans. Our proposed method is based on multi-planar deep convolutional neural
+networks (CNN) with an adaptive fusion strategy where we automatically utilize complementary
+information from different planes of the 3D scans for improved delineations. For CT and MRI, we have
+separately designed three CNNs (the same architectural configuration) for three planes, and have
+trained the networks from scratch for voxel-wise labeling for the following cardiac structures:
+myocardium of left ventricle (Myo), left atrium (LA), left ventricle (LV), right atrium (RA), right
+ventricle (RV), ascending aorta (Ao), and main pulmonary artery (PA). We have evaluated the proposed
+method with 4-fold-cross validation on the multi-modality whole heart segmentation challenge
+(MM-WHS 2017) dataset. The precision and dice index of 0.93 and 0.90, and 0.87 and 0.85 were achieved
+for CT and MR images, respectively. While a CT volume was segmented about 50 seconds, an MRI scan was
+segmented around 17 seconds with the GPUs/CUDA implementation. 

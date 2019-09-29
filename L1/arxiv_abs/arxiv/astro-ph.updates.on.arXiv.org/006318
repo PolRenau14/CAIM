@@ -1,0 +1,16 @@
+The main objective of the Cosmic-Ray Extremely Distributed Observatory (CREDO) is the detection
+and analysis of extended cosmic ray phenomena, so-called super-preshowers (SPS), using existing
+as well as new infrastructure (cosmic-ray observatories, educational detectors, single detectors
+etc.). The search for ensembles of cosmic ray events initiated by SPS is yet an untouched ground,
+in contrast to the current state-of-the-art analysis, which is focused on the detection of single
+cosmic ray events. Theoretical explanation of SPS could be given either within classical (e.g.,
+photon-photon interaction) or exotic (e.g., Super Heavy Dark Matter decay or annihilation) scenarios,
+thus detection of SPS would provide a better understanding of particle physics, high energy astrophysics
+and cosmology. The ensembles of cosmic rays can be classified based on the spatial and temporal extent
+of particles constituting the ensemble. Some classes of SPS are predicted to have huge spatial distribution,
+a unique signature detectable only with a facility of the global size. Since development and commissioning
+of a completely new facility with such requirements is economically unwarranted and time-consuming,
+the global analysis goals are achievable when all types of existing detectors are merged into a worldwide
+network. The idea to use the instruments in operation is based on a novel trigger algorithm: in parallel
+to looking for neighbour surface detectors receiving the signal simultaneously, one should also
+look for spatially isolated stations clustered in a small time window. 

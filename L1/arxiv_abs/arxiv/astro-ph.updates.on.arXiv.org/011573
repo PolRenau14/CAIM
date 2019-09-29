@@ -1,0 +1,17 @@
+We report the discovery of a new eclipsing polar, MASTER OT J061451.70-272535.5, detected as an
+optical transient by MASTER auto-detection software at the recently commissioned MASTER-SAAO
+telescope. Time resolved (10-20 s) photometry with the SAAO 1.9-m, and 1.0-m telescopes, utilizing
+the SHOC EM-CCD cameras, revealed that the source eclipses, with a period of 2.08 hours (7482.9$\pm$3.5$\,$s).
+The eclipse light curve has a peculiar morphology, comprising an initial dip, where the source brightness
+drops to ${\sim}$50% of the pre-eclipse level before gradually increasing again in brightness.
+A second rapid ingress follows, where the brightness drops by ${\sim}$60-80%, followed by a more
+gradual decrease to zero flux. We interpret the eclipse profile as the result of an initial obscuration
+of the accretion hot-spot on the magnetic white dwarf by the accretion stream, followed by an eclipse
+of both the hot-spot and the partially illuminated stream by the red dwarf donor star. This is similar
+to what has been observed in other eclipsing polars such as HU Aqr, but here the stream absorption
+is more pronounced. The object was subsequently observed with South African Large Telescope (SALT)
+using the Robert Stobie Spectrograph (RSS). This revealed a spectrum with all of the Balmer lines
+in emission, a strong HeII 4686\AA{} line with a peak flux greater than that of H$\beta$, as well as
+weaker HeI lines. The spectral features, along with the structure of the light curve, suggest that
+MASTER OT J061451.70-272535.5 is a new magnetic cataclysmic variable, most likely of the synchronised
+Polar subclass. 

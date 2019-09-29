@@ -1,0 +1,16 @@
+To well understand crowd behavior, microscopic models have been developed in recent decades, in
+which an individual's behavioral/psychological status can be modeled and simulated. A well-known
+model is the social-force model innovated by physical scientists (Helbing and Molnar, 1995; Helbing,
+Farkas and Vicsek, 2000; Helbing et al., 2002). This model has been widely accepted and mainly used
+in simulation of crowd evacuation in the past decade. A problem, however, is that the testing results
+of the model were not explained in consistency with the psychological findings, resulting in misunderstanding
+of the model by psychologists. This paper will bridge the gap between psychological studies and
+physical explanation about this model. We reinterpret this physics-based model from a psychological
+perspective, clarifying that the model is consistent with psychological theories on stress, including
+time-related stress and interpersonal stress. Based on the conception of stress, we renew the model
+at both micro-and-macro level, referring to multi-agent simulation in a microscopic sense and
+fluid-based analysis in a macroscopic sense. Existing simulation results such as faster-is-slower
+effect will be reinterpreted by Yerkes-Dodson law, and herding and grouping effect are further
+discussed by integrating attraction into the social force. In brief the social-force model exhibits
+a bridge between the physics laws and psychological principles regarding crowd motion, and this
+paper will renew and reinterpret the model on the foundation of psychological studies. 

@@ -1,0 +1,16 @@
+In this paper we initiate the study of equivariant wave maps from 2d hyperbolic space into rotationally
+symmetric surfaces. This problem exhibits markedly different phenomena than its Euclidean counterpart
+due to the exponential volume growth of concentric geodesic spheres on the domain. In particular,
+when the target is the 2-sphere, we find a family of equivariant harmonic maps indexed by a parameter
+that measures how far the image of each harmonic map wraps around the sphere. These maps have energies
+taking all values between zero and the energy of the unique co-rotational Euclidean harmonic map,
+Q, from the Euclidean plane to the 2-sphere, given by stereographic projection. We prove that the
+harmonic maps are asymptotically stable for values of the parameter smaller than a threshold that
+is large enough to allow for maps that wrap more than halfway around the sphere. Indeed, we prove Strichartz
+estimates for the operator obtained by linearizing around such a harmonic map. However, for harmonic
+maps with energies approaching the Euclidean energy of Q, asymptotic stability via a perturbative
+argument based on Strichartz estimates is precluded by the existence of gap eigenvalues in the spectrum
+of the linearized operator. When the target is 2d hyperbolic space, we find a continuous family of
+asymptotically stable equivariant harmonic maps with arbitrarily small and arbitrarily large
+energies. This stands in sharp contrast to the corresponding problem on Euclidean space, where
+all finite energy solutions scatter to zero as time tends to infinity. 

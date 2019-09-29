@@ -1,0 +1,17 @@
+The material lost through stellar winds of Asymptotic Giant Branch (AGB) stars is one of the main
+contributors to the chemical enrichment of galaxies. The general hypothesis of the mass loss mechanism
+of AGB winds is a combination of stellar pulsations and radiative pressure on dust grains, yet current
+models still suffer from limitations. Among others, they assume chemical equilibrium of the gas,
+which may not be justified due to rapid local dynamical changes in the wind. This is important as it
+is the chemical composition that regulates the thermal structure of the wind, the creation of dust
+grains in the wind, and ultimately the mass loss by the wind. Using a self-consistent hydrochemical
+model, we investigated how non-equilibrium chemistry affects the dynamics of the wind. This paper
+compares a hydrodynamical and a hydrochemical dust-free wind, with focus on the chemical heating
+and cooling processes. No sustainable wind arises in a purely hydrodynamical model with physically
+reasonable pulsations. Moreover, temperatures are too high for dust formation to happen, rendering
+radiative pressure on grains impossible. A hydrochemical wind is even harder to initiate due to
+efficient chemical cooling. However, temperatures are sufficiently low in dense regions for dust
+formation to take place. These regions occur close to the star, which is needed for radiation pressure
+on dust to sufficiently aid in creating a wind. Extending this model self-consistently with dust
+formation and evolution, and including radiation pressure, will help to understand the mass loss
+by AGB winds. 

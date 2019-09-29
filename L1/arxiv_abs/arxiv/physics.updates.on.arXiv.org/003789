@@ -1,0 +1,16 @@
+The concept of Maximum Potential Intensity (PI) relates the maximum velocity of tropical storms
+to environmental parameters. Since its original formulation by Emanuel (1986), two major modifications
+were made resulting in a considerable range of predicted PI values. First, dissipative heating
+was suggested to increase maximum velocity by up to 20%. Second, the power expended to lift water
+(the gravitational power of precipitation) was recently suggested to reduce maximum velocities
+by 10-30%. Here we re-derive the PI concept separating its dynamic and thermodynamic assumptions.
+First, we show that there is no ambiguity from dissipative heating: irrespective of whether thermal
+dissipation occurs or not, the PI concept uniquely relates maximum velocity to the latent heat flux
+(not the total oceanic heat flux as in the original formulation). Our revised velocity estimate
+is independent of sensible heat flux. Second, we clarify that accounting for the gravitational
+power of precipitation has little impact on PI. Third, we demonstrate that a key feature of the PI
+concept is that the negative work of the pressure gradient in the upper atmosphere consumes all the
+kinetic energy generated in the boundary layer. This dynamic constraint is independent of thermodynamic
+assumptions such as isothermal heat input from the ocean, and thus can apply to diverse circulation
+patterns. Finally, we show that the maximum kinetic energy per unit volume in the PI concept is approximately
+equal to the partial pressure of water vapor at the surface. 

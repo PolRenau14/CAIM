@@ -1,0 +1,16 @@
+Large ultra-sensitive detector arrays are needed for present and future observatories for far
+infra-red, submillimeter wave (THz), and millimeter wave astronomy. With increasing array size,
+it is increasingly important to control stray radiation inside the detector chips themselves,
+the surface wave. We demonstrate this effect with focal plane arrays of 880 lens-antenna coupled
+Microwave Kinetic Inductance Detectors (MKIDs). Presented here are near field measurements of
+the MKID optical response versus the position on the array of a reimaged optical source. We demonstrate
+that the optical response of a detector in these arrays saturates off-pixel at the $\sim-30$ dB level
+compared to the peak pixel response. The result is that the power detected from a point source at the
+pixel position is almost identical to the stray response integrated over the chip area. With such
+a contribution, it would be impossible to measure extended sources, while the point source sensitivity
+is degraded due to an increase of the stray loading. However, we show that by incorporating an on-chip
+stray light absorber, the surface wave contribution is reduced by a factor $>$10. With the on-chip
+stray light absorber the point source response is close to simulations down to the $\sim-35$ dB level,
+the simulation based on an ideal Gaussian illumination of the optics. In addition, as a crosscheck
+we show that the extended source response of a single pixel in the array with the absorbing grid is
+in agreement with the integral of the point source measurements. 

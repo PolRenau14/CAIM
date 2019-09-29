@@ -1,0 +1,16 @@
+We report distance estimates for Galactic black hole X-ray binaries with the second data release
+(DR2) of Gaia, concentrating on sources that are dynamically-confirmed transients or are strong
+candidates for hosting black holes. While DR1 did not provide parallaxes and proper motions for
+any of the confirmed black hole binaries, DR2 provides the five-parameter astrometric solutions,
+including position, parallax and proper motions, for 11 out of a sample of 24 systems, albeit with
+large uncertainties in some cases. Distance estimates are derived by parallax inversion as well
+as using Bayesian inference. DR2 distances largely agree with previous estimates. The biggest
+potential surprise is BW Cir, which DR2 places at a naive (parallax-inversion) distance of ~0.6+/-0.2
+kpc, possibly making it the nearest dynamically-confirmed black hole transient. However, Bayesian
+estimates do allow somewhat larger distances and we caution that correlations between the astrometric
+parameters need to be accounted for, and that the nearby distance estimate creates problems for
+the physical interpretation of the properties of the donor star. Under similar caveats regarding
+the astrometric fit, the super-bright hard-state transient MAXI J1820+070 lies at a likely distance
+of ~3 kpc. Thus, some care is needed for estimating distances to black hole binaries which typically
+lie in the faint regime. Peculiar velocities are also computed for 10 sources, and BW Cir could potentially
+be a new high peculiar-velocity Galactic black hole X-ray binary. 

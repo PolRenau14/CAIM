@@ -1,0 +1,16 @@
+We propose a symbolic-numeric algorithm to count the number of solutions of a polynomial system
+within a local region. More specifically, given a zero-dimensional system $f_1=\cdots=f_n=0$,
+with $f_i\in\mathbb{C}[x_1,\ldots,x_n]$, and a polydisc $\mathbf{\Delta}\subset\mathbb{C}^n$,
+our method aims to certify the existence of $k$ solutions (counted with multiplicity) within the
+polydisc. In case of success, it yields the correct result under guarantee. Otherwise, no information
+is given. However, we show that our algorithm always succeeds if $\mathbf{\Delta}$ is sufficiently
+small and well-isolating for a $k$-fold solution $\mathbf{z}$ of the system. Our analysis of the
+algorithm further yields a bound on the size of the polydisc for which our algorithm succeeds under
+guarantee. This bound depends on local parameters such as the size and multiplicity of $\mathbf{z}$
+as well as the distances between $\mathbf{z}$ and all other solutions. Efficiency of our method
+stems from the fact that we reduce the problem of counting the roots in $\mathbf{\Delta}$ of the original
+system to the problem of solving a truncated system of degree $k$. In particular, if the multiplicity
+$k$ of $\mathbf{z}$ is small compared to the total degrees of the polynomials $f_i$, our method considerably
+improves upon known complete and certified methods. For the special case of a bivariate system,
+we report on an implementation of our algorithm, and show experimentally that our algorithm leads
+to a significant improvement, when integrated as inclusion predicate into an elimination method.

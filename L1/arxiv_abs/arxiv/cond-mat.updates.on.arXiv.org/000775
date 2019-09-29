@@ -1,0 +1,17 @@
+We develop a method for calculation of charge transfer statistics of persistent current in nanostructures
+in terms of the cumulant generating function (CGF) of transferred charge. We consider a simply connected
+one-dimensional system (a wire) and develop a procedure for the calculation of the CGF of persistent
+currents when the wire is closed into a ring via a weak link. For the non-interacting system we derive
+a general formula in terms of the two-particle Green's functions. We show that, contrary to the conventional
+tunneling contacts, the resulting cumulant generating function has a doubled periodicity as a
+function of the counting field. We apply our general formula to short tight-binding chains and show
+that the resulting CGF perfectly reproduces the known evidence for the persistent current. Its
+second cumulant turns out to be maximal at the switching points and vanishes identically at zero
+temperature. Furthermore, we apply our formalism for a computation of the charge transfer statistics
+of genuinely interacting systems. First we consider a ring with an embedded Anderson impurity and
+employing a self-energy approximation find an overall suppression of persistent current as well
+as of its noise. Finally, we compute the charge transfer statistics of a double quantum dot system
+in the deep Kondo limit using an exact analytical solution of the model at the Toulouse point. We analyze
+the behaviour of the resulting cumulants and compare them with those of a noninteracting double
+quantum dot system and find several pronounced differences, which can be traced back to interaction
+effects. 

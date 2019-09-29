@@ -1,0 +1,16 @@
+Feynman diagrams have been superseded as the tool of choice for calculating scattering amplitudes.
+Various other methods are not only more efficient but also explicitly exhibit beautiful structures
+obscured by Feynman diagrams. This thesis aims to lay some groundwork on how two of these methods,
+ambitwistor strings and the double copy, can be generalised to scattering in curved backgrounds.
+In the first part of this thesis, a heterotic ambitwistor string model coupled to a non-abelian background
+gauge field is constructed. It is shown that after decoupling gravity this model is anomaly free
+if and only if the background field is a solution to the Yang-Mills equations. A fixed gluon vertex
+operator for the aforementioned heterotic model as well as a vertex operator encoding graviton,
+B-field and dilaton for type II ambitwistor strings in a curved background are presented. It is shown
+that they are BRST closed if and only if they correspond to physical on-shell states. In the second
+part, sandwich plane waves are considered. It is shown that scattering of gluons and gravitons is
+well defined on these backgrounds. 3-point amplitudes are calculated using quantum field theory
+techniques and a double copy relation between gluons on a gauge theory plane wave and gravitons on
+a gravitational plane wave is proposed. Using the results from the first part of this thesis, it is
+then shown that curved background heterotic and type II ambitwistor string models correctly reproduce
+these 3-point amplitudes on sandwich plane waves. 

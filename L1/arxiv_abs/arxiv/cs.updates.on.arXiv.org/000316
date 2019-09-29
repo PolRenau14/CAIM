@@ -1,0 +1,17 @@
+While there is no lack of efficient Krylov subspace solvers for Hermitian systems, there are few
+for complex symmetric, skew symmetric, or skew Hermitian systems, which are increasingly important
+in modern applications including quantum dynamics, electromagnetics, and power systems. For
+a large consistent complex symmetric system, one may apply a non-Hermitian Krylov subspace method
+disregarding the symmetry of $A$, or a Hermitian Krylov solver on the equivalent normal equation
+or an augmented system twice the original dimension. These have the disadvantages of increasing
+either memory, conditioning, or computational costs. An exception is a special version of QMR by
+Freund (1992), but that may be affected by non-benign breakdowns unless look-ahead is implemented;
+furthermore, it is designed for only consistent and nonsingular problems. For skew symmetric systems,
+Greif and Varah (2009) adapted CG for nonsingular skew symmetric linear systems that are necessarily
+and restrictively of even order. We extend the symmetric and Hermitian algorithms MINRES and MINRES-QLP
+by Choi, Paige and Saunders (2011) to complex symmetric, skew symmetric, and skew Hermitian systems.
+In particular, MINRES-QLP uses a rank-revealing QLP decomposition of the tridiagonal matrix from
+a three-term recurrent complex-symmetric Lanczos process. Whether the systems are real or complex,
+singular or invertible, compatible or inconsistent, MINRES-QLP computes the unique minimum-length,
+i.e., pseudoinverse, solutions. It is a significant extension of MINRES by Paige and Saunders (1975)
+with enhanced stability and capability. 

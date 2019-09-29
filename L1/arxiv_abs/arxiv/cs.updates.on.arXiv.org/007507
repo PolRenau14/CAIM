@@ -1,0 +1,16 @@
+In this article, we study the problem of controlling a highway segment facing stochastic perturbations,
+such as recurrent incidents and moving bottlenecks. To model traffic flow under perturbations,
+we use the cell-transmission model with Markovian capacities. The control inputs are: (i) the inflows
+that are sent to various on-ramps to the highway (for managing traffic demand), and (ii) the priority
+levels assigned to the on-ramp traffic relative to the mainline traffic (for allocating highway
+capacity). The objective is to maximize the throughput while ensuring that on-ramp queues remain
+bounded in the long-run. We develop a computational approach to solving this stability-constrained,
+throughput-maximization problem. Firstly, we use the classical drift condition in stability
+analysis of Markov processes to derive a sufficient condition for boundedness of on-ramp queues.
+Secondly, we show that our control design problem can be formulated as a mixed integer program with
+linear or bilinear constraints, depending on the complexity of Lyapunov function involved in the
+stability condition. Finally, for specific types of capacity perturbations, we derive intuitive
+criteria for managing demand and/or selecting priority levels. These criteria suggest that inflows
+and priority levels should be determined simultaneously such that traffic queues are placed at
+locations that discharge queues fast. We illustrate the performance benefits of these criteria
+through a computational study of a segment on Interstate 210 in California, USA. 

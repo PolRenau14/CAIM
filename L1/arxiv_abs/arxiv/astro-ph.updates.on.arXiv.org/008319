@@ -1,0 +1,16 @@
+The present paper describes the current baseline optical design of POLLUX, a high-resolution spectropolarimeter
+for the future LUVOIR mission. The instrument will operate in the ultraviolet (UV) domain from 90
+to 390 nm in both spectropolarimetric and pure spectroscopic modes. The working range is split between
+3 channels -- far (90-124.5 nm), medium (118.5-195 nm) and near (195-390 nm) UV. Each of the channels
+is composed of a polarimeter followed by an echelle spectrograph consisting of a classical off-axis
+paraboloid collimator, echelle grating with a high grooves frequency and a cross-disperser grating
+operating also as a camera. The latter component integrates some advanced technologies: it is a
+blazed grating with a complex grooves pattern formed by holographic recording, which is manufactured
+on a freeform surface. One of the key features underlying the current design is the large spectral
+length of each order ~6 nm, which allows to record wide spectral lines without any discontinuities.
+The modelling results show that the optical design will provide the required spectral resolving
+power higher than R ~ 120,000 over the entire working range for a point source object with angular
+size of 30 mas. It is also shown that with the 15-m primary mirror of the LUVOIR telescope the instrument
+will provide an effective collecting area up to 38 569 cm 2. Such a performance will allow to perform
+a number of groundbreaking scientific observations. Finally, the future work and the technological
+risks of the design are discussed in details. 

@@ -1,0 +1,16 @@
+Internet video traffic has been been rapidly increasing and is further expected to increase with
+the emerging 5G applications such as higher definition videos, IoT and augmented/virtual reality
+applications. As end-users consume video in massive amounts and in an increasing number of ways,
+the content distribution network (CDN) should be efficiently managed to improve the system efficiency.
+The streaming service can include multiple caching tiers, at the distributed servers and the edge
+routers, and efficient content management at these locations affect the quality of experience
+(QoE) of the end users. In this paper, we propose a model for video streaming systems, typically composed
+of a centralized origin server, several CDN sites, and edge-caches located closer to the end user.
+We comprehensively consider different systems design factors including the limited caching space
+at the CDN sites, allocation of CDN for a video request, choice of different ports (or paths) from
+the CDN and the central storage, bandwidth allocation, the edge-cache capacity, and the caching
+policy. We focus on minimizing a performance metric, stall duration tail probability (SDTP), and
+present a novel and efficient algorithm accounting for the multiple design flexibilities. The
+theoretical bounds with respect to the SDTP metric are also analyzed and presented. The implementation
+on a virtualized cloud system managed by Openstack demonstrate that the proposed algorithms can
+significantly improve the SDTP metric, compared to the baseline strategies. 

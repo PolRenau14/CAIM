@@ -1,0 +1,16 @@
+To increase productivity, today's compilers offer a two-fold abstraction: they hide hardware
+complexity from the software developer, and they support many architectures and programming languages.
+At the same time, due to fierce market competition, most processor vendors do not disclose many of
+their implementation details. These factors force software developers to treat both compilers
+and architectures as black boxes. In practice, this leads to a suboptimal compiler behavior where
+the maximum potential of improving an application's resource usage, such as execution time, is
+often not realized. This paper exposes missed optimization opportunities and is of interest to
+all three communities, compiler engineers, software developers and hardware architects. By exploiting
+the behavior of the standard optimization levels, such as the -O3, of the LLVM v6.0 compiler, we show
+how to reveal hidden cross-architecture and architecture-dependent potential optimizations
+on two popular processors: the Intel i5-6300U, widely used in portable PCs, and the ARM Cortex-A53-based
+Broadcom BCM2837 used in the Raspberry Pi 3B+. The classic nightly regression testing can then be
+extended to use the resource usage and compilation information collected while exploiting subsequences
+of the standard optimization levels. This provides a systematic means of detecting and tracking
+missed optimization opportunities. The enhanced nightly regression system is capable of driving
+the improvement and tuning of the compiler's common optimizer 

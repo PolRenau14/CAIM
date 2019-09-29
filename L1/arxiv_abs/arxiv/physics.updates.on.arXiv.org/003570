@@ -1,0 +1,16 @@
+In this work we have used micromagnetic simulations to report four ways to build traps for magnetic
+skyrmions. Magnetic defects have been modeled as local variations in the material parameters,
+such as the exchange stiffness, saturation magnetization, magnetocrystalline anisotropy and
+Dzyaloshinskii-Moriya constant. We observe both pinning (potential well) and scattering (potential
+barrier) traps when tuning either a local increase or a local reduction for each one of these magnetic
+properties. It is found that the skyrmion-defect aspect ratio is a crucial parameter to build traps
+for skyrmions. In particular, the efficiency of the trap is compromised if the defect size is smaller
+than the skyrmion size, because they interact weakly. On the other hand, if the defect size is larger
+than the skyrmion diameter, the skyrmion-defect interaction becomes evident. Thus, the strength
+of the skyrmion-defect interaction can be tuned by the modification of the magnetic properties
+within a region with suitable size. Furthermore, the basic physics behind the mechanisms for pinning
+and for scattering is discussed. In particular, we discover that skyrmions move towards the magnetic
+region which tends to maximize its diameter, it enables the magnetic system to minimize its energy.
+Thus, we are able to explain why skyrmions are either attracted or repelled by a region with modified
+magnetic properties. Results here presented are of utmost significance for the development and
+realization of future spintronic devices, in which skyrmions will work as information carriers.

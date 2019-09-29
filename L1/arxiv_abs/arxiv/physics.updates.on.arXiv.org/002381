@@ -1,0 +1,17 @@
+The biotransport of the intravascular nanoparticle (NP) is influenced by both the complex cellular
+flow environment and the NP characteristics. Being able to computationally simulate such intricate
+transport phenomenon with high efficiency is of far-reaching significance to the development
+of nanotherapeutics, yet challenging due to large length-scale discrepancies between NP and red
+blood cell (RBC) as well as the complexity of NP dynamics. Recently, a lattice-Boltzmann (LB) based
+multiscale simulation method has been developed to capture both NP scale and cellular level transport
+phenomenon at high computational efficiency. The basic components of this method include the LB
+treatment for the fluid phase, a spectrin-link method for RBCs, and a Langevin dynamics (LD) approach
+to capturing the motion of the suspended NPs. Comprehensive two-way coupling schemes are established
+to capture accurate interactions between each component. The accuracy and robustness of the LB-LD
+coupling method are demonstrated through the relaxation of a single NP with initial momentum and
+self-diffusion of NPs. This approach is then applied to study the migration of NPs in a capillary
+vessel under physiological conditions. It is shown that Brownian motion is most significant for
+the NP distribution in capillary vessels. For 1~100 nm particles, the Brownian diffusion is the
+dominant radial diffusive mechanism compared to the RBC-enhanced diffusion. For ~500 nm particles,
+the Brownian diffusion and RBC-enhanced diffusion are comparable drivers for the particle radial
+diffusion process. 

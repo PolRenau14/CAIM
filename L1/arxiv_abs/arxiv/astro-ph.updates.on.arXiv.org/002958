@@ -1,0 +1,16 @@
+We use cosmological hydrodynamical simulations to investigate how the inclusion of physical processes
+relevant to galaxy formation (star formation, metal-line cooling, stellar winds, supernovae
+and feedback from Active Galactic Nuclei, AGN) change the properties of haloes, over four orders
+of magnitude in mass. We find that gas expulsion and the associated dark matter (DM) expansion induced
+by supernova-driven winds are important for haloes with masses M200 < 10^13 Msun, lowering their
+masses by up to 20% relative to a DM-only model. AGN feedback, which is required to prevent overcooling,
+has a significant impact on halo masses all the way up to cluster scales (M200 ~ 10^15 Msun). Baryonic
+physics changes the total mass profiles of haloes out to several times the virial radius, a modification
+that cannot be captured by a change in the halo concentration. The decrease in the total halo mass
+causes a decrease in the halo mass function of about 20%. This effect can have important consequences
+for abundance matching technique as well as for most semi-analytic models of galaxy formation.
+We provide analytic fitting formulae, derived from simulations that reproduce the observed baryon
+fractions, to correct halo masses and mass functions from DM-only simulations. The effect of baryonic
+physics (AGN feedback in particular) on cluster number counts is about as large as changing the cosmology
+from WMAP7 to Planck, even when a moderately high mass limit of M500 ~ 10^14 Msun is adopted. Thus,
+for precision cosmology the effects of baryons must be accounted for. 

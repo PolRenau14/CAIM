@@ -1,0 +1,16 @@
+In the local Universe, there is a strong division in the star-forming properties of low-mass galaxies,
+with star formation largely ubiquitous amongst the field population while satellite systems are
+predominantly quenched. This dichotomy implies that environmental processes play the dominant
+role in suppressing star formation within this low-mass regime (${M}_{\star} \sim 10^{5.5-8}~{\rm
+M}_{\odot}$). As shown by observations of the Local Volume, however, there is a non-negligible
+population of passive systems in the field, which challenges our understanding of quenching at
+low masses. By applying the satellite quenching models of Fillingham et al. (2015) to subhalo populations
+in the Exploring the Local Volume In Simulations (ELVIS) suite, we investigate the role of environmental
+processes in quenching star formation within the nearby field. Using model parameters that reproduce
+the satellite quenched fraction in the Local Group, we predict a quenched fraction -- due solely
+to environmental effects -- of $\sim 0.52 \pm 0.26$ within $1< R/R_{\rm vir} < 2$ of the Milky Way and
+M31. This is in good agreement with current observations of the Local Volume and suggests that the
+majority of the passive field systems observed at these distances are quenched via environmental
+mechanisms. Beyond $2~R_{\rm vir}$, however, dwarf galaxy quenching becomes difficult to explain
+through an interaction with either the Milky Way or M31, such that more isolated, field dwarfs may
+be self-quenched as a result of star-formation feedback. 

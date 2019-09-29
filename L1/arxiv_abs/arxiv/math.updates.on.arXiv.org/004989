@@ -1,0 +1,16 @@
+Regular semisimple Hessenberg varieties are subvarieties of the flag variety $\mathrm{Flag}(\mathbb{C}^n)$
+arising naturally in the intersection of geometry, representation theory, and combinatorics.
+Recent results of Abe-Horiguchi-Masuda-Murai-Sato and Abe-DeDieu-Galetto-Harada relate the
+volume polynomials of regular semisimple Hessenberg varieties to the volume polynomial of the
+Gelfand-Zetlin polytope $\mathrm{GZ}(\lambda)$ for $\lambda=(\lambda_1,\lambda_2,\ldots,\lambda_n)$.
+The main results of this manuscript use and generalize tools developed by Anderson-Tymoczko, Kiritchenko-Smirnov-Timorin,
+and Postnikov, in order to derive an explicit formula for the volume polynomials of regular semisimple
+Hessenberg varieties in terms of the volumes of certain faces of the Gelfand-Zetlin polytope, and
+also exhibit a manifestly positive, combinatorial formula for their coefficients with respect
+to the basis of monomials in the $\alpha_i := \lambda_i-\lambda_{i+1}$. In addition, motivated
+by these considerations, we carefully analyze the special case of the permutohedral variety, which
+is also known as the toric variety associated to Weyl chambers. In this case, we obtain an explicit
+decomposition of the permutohedron (the moment map image of the permutohedral variety) into combinatorial
+$(n-1)$-cubes, and also give a geometric interpretation of this decomposition by expressing the
+cohomology class of the permutohedral variety in $\mathrm{Flag}(\mathbb{C}^n)$ as a sum of the
+cohomology classes of a certain set of Richardson varieties. 

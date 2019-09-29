@@ -1,0 +1,16 @@
+With the fast development of Internet of things (IoT), the fifth generation (5G) wireless networks
+need to provide massive connectivity of IoT devices and meet the demand for low latency. To satisfy
+these requirements, Non-Orthogonal Multiple Access (NOMA) has been recognized as a promising
+solution for 5G networks to significantly improve the network capacity. In parallel with the development
+of NOMA techniques, Mobile Edge Computing (MEC) is becoming one of the key emerging technologies
+to reduce the latency and improve the Quality of Service (QoS) for 5G networks. In order to capture
+the potential gains of NOMA in the context of MEC, this paper proposes an edge computing aware NOMA
+technique which can enjoy the benefits of uplink NOMA in reducing MEC users' uplink energy consumption.
+To this end, we formulate a NOMA based optimization framework which minimizes the energy consumption
+of MEC users via optimizing the user clustering, computing and communication resource allocation,
+and transmit powers. In particular, similar to frequency Resource Blocks (RBs), we divide the computing
+capacity available at the cloudlet to computing RBs. Accordingly, we explore the joint allocation
+of the frequency and computing RBs to the users that are assigned to different order indices within
+the NOMA clusters. We also design an efficient heuristic algorithm for user clustering and RBs allocation,
+and formulate a convex optimization problem for the power control to be solved independently per
+NOMA cluster. The performance of the proposed NOMA scheme is evaluated via simulations. 

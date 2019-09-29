@@ -1,0 +1,16 @@
+We investigate the possibility of measuring intergalactic magnetic fields using the dispersion
+measures and rotation measures of fast radio bursts. With Bayesian methods, we produce probability
+density functions for values of these measures. We distinguish between contributions from the
+intergalactic medium, the host galaxy and the local environment of the progenitor. To this end,
+we use constrained, magnetohydrodynamic simulations of the local Universe to compute lines-of-sight
+integrals from the position of the Milky Way. In particular, we differentiate between predominantly
+astrophysical and primordial origins of magnetic fields in the intergalactic medium. We test different
+possible types of host galaxies and probe different distribution functions of fast radio burst
+progenitor locations inside the host galaxy. Under the assumption that fast radio bursts are produced
+by magnetars, we use analytic predictions to account for the contribution of the local environment.
+We find that less than 100 fast radio bursts from magnetars in stellar-wind environments hosted
+by starburst dwarf galaxies at redshift $z \gtrsim 0.5$ suffice to discriminate between predominantly
+primordial and astrophysical origins of intergalactic magnetic fields. However, this requires
+the contribution of the Milky Way to be removed with a precision of $\approx 1 \rm~rad~m^{-2}$. We
+show the potential existence of a subset of fast radio bursts whose rotation measure carry information
+on the strength of the intergalactic magnetic field and its origins. 

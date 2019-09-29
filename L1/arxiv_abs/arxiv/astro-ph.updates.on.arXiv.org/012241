@@ -1,0 +1,16 @@
+PSR J1141$-$6545 is a precessing binary pulsar that has the rare potential to reveal the two-dimensional
+structure of a non-recycled pulsar emission cone. It has undergone $\sim 25 \deg$ of relativistic
+spin precession in the $\sim18$ years since its discovery. In this paper, we present a detailed Bayesian
+analysis of the precessional evolution of the width of the total intensity profile, to understand
+the changes to the line-of-sight impact angle ($\beta$) of the pulsar using four different physically
+motivated prior distribution models. Although we cannot statistically differentiate between
+the models with confidence, the temporal evolution of the linear and circular polarisations strongly
+argue that our line-of-sight crossed the magnetic pole around MJD 54000 and that only two models
+remain viable. For both these models, it appears likely that the pulsar will precess out of our line-of-sight
+in the next $3-5$ years, assuming a simple beam geometry. Marginalising over $\beta$ suggests that
+the pulsar is a near-orthogonal rotator and provides the first polarization-independent estimate
+of the scale factor ($\mathbb{A}$) that relates the pulsar beam opening angle ($\rho$) to its rotational
+period ($P$) as $\rho = \mathbb{A}P^{-0.5}$ : we find it to be $> 6 \rm~deg~s^{0.5}$ at 1.4 GHz with
+99\% confidence. If all pulsars emit from opposite poles of a dipolar magnetic field with comparable
+brightness, we might expect to see evidence of an interpulse arising in PSR J1141$-$6545, unless
+the emission is patchy. 

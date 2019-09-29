@@ -1,0 +1,16 @@
+Correlated many-body problems ubiquitously appear in various fields of physics such as condensed
+matter physics, nuclear physics, and statistical physics. However, due to the interplay of the
+large number of degrees of freedom, it is generically impossible to treat these problems from first
+principles. Thus the construction of a proper model, namely effective Hamiltonian, is essential.
+Here, we propose a simple scheme of constructing Hamiltonians from given energy or entanglement
+spectra with machine learning. We apply the proposed scheme to the Hubbard model at the half-filling,
+and compare the obtained effective low-energy spin-1/2 model with several analytic results based
+on the high order perturbation theory which have been inconsistent with each other. We also show
+that our approach can be used to construct the entanglement Hamiltonian of a quantum many-body state
+from its entanglement spectrum as well. We exemplify this using the ground states of the $S=1/2$
+two-leg Heisenberg ladders. We observe a qualitative difference between the entanglement Hamiltonians
+of the two phases (the Haldane phase and the Rung Singlet phase) of the model due to the different origin
+of the entanglement. In the Haldane phase, we find that the entanglement Hamiltonian is non-local
+by nature, and the locality can be restored by introducing the anisotropy and turning the system
+into the large-$D$ phase. Possible applications to the study of strongly-correlated systems and
+the model construction from experimental data are discussed. 

@@ -1,0 +1,17 @@
+A quantitative descriptor of local atomic environments is often required for the analysis of atomistic
+data. Descriptors of the local atomic environment ideally provide physically and chemically intuitive
+insight. This requires descriptors that are low-dimensional representations of the interplay
+between atomic geometry and electronic bond formation. The moments of the local density of states
+(DOS) relate the atomic structure to the electronic structure and bond chemistry. This makes it
+possible to construct electronic structure based descriptors of the local atomic environment
+that have an immediate relation to the binding energy. We show that a low-dimensional moments-descriptor
+is sufficient as the lowest moments, calculated from the closest atomic neighborhood, carry the
+largest contributions to the local bond energy. Here, we construct moments-descriptors that project
+the space of local atomic environments on a 2-D map. We discuss in detail the separation of various
+atomic environments and their connections in the map. The distances in the map may be related to energy
+differences between local atomic environments as we show by analytic considerations based on analytic
+bond-order potentials (BOP) and by numerical assessment using TB and density-functional theory
+calculations. Possible applications of the proposed moments-descriptors include the classification
+of local atomic environments in molecular-dynamic simulations, the selection of structure sets
+for developing and testing interatomic potentials, as well as the construction of descriptors
+for machine-learning applications. 

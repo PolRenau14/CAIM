@@ -1,0 +1,17 @@
+We theoretically model a dissipative system which exhibits self-defocussing nonlinearity and
+numerically study the dynamics of optical dissipative solitons (DSs) whose evolution is governed
+by a complex Ginzburg-Landau equation (GLE). We show that the formation of DSs is not restricted
+in the domain exhibiting positive nonlinearity. Stable DSs are excited even in the regime where
+the nonlinearity is negative. Based on the numeric sign of dispersion and nonlinear coefficient,
+we classify the operational regime into four discrete domains and study the formation of DSs in those
+regimes. We design a realistic waveguide that exhibits strong frequency dependent nonlinearity
+which changes its sign across a certain frequency called zero-nonlinearity point (ZNP). We adopt
+a variational technique to theoretically study the overall dynamics of DSs under various perturbations
+by choosing Pereira-Stenflo type soliton as our ansatz since it is the natural solution of the unperturbed
+GLE. An extensive numerical study reveals that the ZNP plays a dominant role on the pulse dynamics
+and depending on its relative location with respect to input frequency, it can either suppress or
+enhance Raman induced frequency down-shifting. This is further supported by the variational method
+which quantitatively determines the location of the Raman frequency as a function of the ZNP. The
+dispersive radiation generated due to third-order dispersion changes drastically with the location
+of the ZNP. We analytically derive a phase matching equation that predicts the location of radiation
+frequency in presence of the ZNP. 

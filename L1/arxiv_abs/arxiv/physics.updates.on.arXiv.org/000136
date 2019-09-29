@@ -1,0 +1,16 @@
+Mitochondrial adenine nucleotide (AdN) content is regulated through the Ca2+-activated, electroneutral
+ATP-Mg/Pi carrier (APC). The APC is a protein in the mitochondrial carrier super family that localizes
+to the inner mitochondrial membrane (IMM). It is known to modulate a number of processes that depend
+on mitochondrial AdN content, such as gluconeogenesis, protein synthesis, and citrulline synthesis.
+Despite this critical role, a kinetic model of the underlying mechanism has not been developed and
+validated. Here, a biophysical model of the APC is developed that is thermodynamically balanced
+and accurately reproduces a number of reported data sets from isolated rat liver and rat kidney mitochondria.
+The model is based on an ordered bi-bi mechanism for hetero-exchange of ATP and Pi and also includes
+homo-exchanges of ATP and Pi to explain both the initial rate and time course data on ATP and Pi transport
+via the APC. The model invokes seven kinetic parameters regarding the APC mechanism and three parameters
+related to matrix pH regulation by external Pi. These parameters are estimated based on nineteen
+independent data curves; the estimated parameters are validated using six additional data curves.
+The model takes into account the effects of pH, Mg2+ and Ca2+ on ATP and Pi transport via the APC and
+supports the conclusion that the pH gradient across the IMM serves as the primary driving force for
+AdN uptake or efflux. Moreover, computer simulations demonstrate that extra-matrix Ca2+ modulates
+the turnover rate of the APC and not the binding affinity of ATP, as previously suggested. 

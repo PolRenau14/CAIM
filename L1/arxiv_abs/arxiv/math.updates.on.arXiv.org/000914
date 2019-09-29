@@ -1,0 +1,16 @@
+Let $S$ be a noncompact, finite area hyperbolic surface of type $(g, n)$. Let $\Delta_S$ denote the
+Laplace operator on $S$. As $S$ varies over the {\it moduli space} ${\mathcal{M}_{g, n}}$ of finite
+area hyperbolic surfaces of type $(g, n)$, we study, adapting methods of Lizhen Ji \cite{Ji} and
+Scott Wolpert \cite{Wo}, the behavior of {\it small cuspidal eigenpairs} of $\Delta_S$. In Theorem
+2 we describe limiting behavior of these eigenpairs on surfaces ${S_m} \in {\mathcal{M}_{g, n}}$
+when $({S_m})$ converges to a point in $\overline{\mathcal{M}_{g, n}}$. Then we consider the $i$-th
+{\it cuspidal eigenvalue}, ${\lambda^c_i}(S)$, of $S \in {\mathcal{M}_{g, n}}$. Since {\it non-cuspidal}
+eigenfunctions ({\it residual eigenfunctions} or {\it generalized eigenfunctions}) may converge
+to cuspidal eigenfunctions, it is not known if ${\lambda^c_i}(S)$ is a continuous function. However,
+applying Theorem 2 we prove that, for all $k \geq 2g-2$, the sets $${{\mathcal{C}_{g, n}^{\frac{1}{4}}}}(k)=
+\{ S \in {\mathcal{M}_{g, n}}: {\lambda_k^c}(S) > \frac{1}{4} \}$$ are open and contain a neighborhood
+of ${\cup_{i=1}^n}{\mathcal{M}_{0, 3}} \cup {\mathcal{M}_{g-1, 2}}$ in $\overline{\mathcal{M}_{g,
+n}}$. Moreover, using topological properties of nodal sets of {\it small eigenfunctions} from
+\cite{O}, we show that ${{\mathcal{C}_{g, n}^{\frac{1}{4}}}}(2g-1)$ contains a neighborhood
+of ${\mathcal{M}_{0, n+1}} \cup {\mathcal{M}_{g, 1}}$ in $\overline{\mathcal{M}_{g, n}}$.
+These results provide evidence in support of a conjecture of Otal-Rosas \cite{O-R}. 

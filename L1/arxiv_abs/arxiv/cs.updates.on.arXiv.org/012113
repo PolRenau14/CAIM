@@ -1,0 +1,16 @@
+The notion of socioeconomic status (SES) of a person or family reflects the corresponding entity's
+social and economic rank in society. Such information may help applications like bank loaning decisions
+and provide measurable inputs for related studies like social stratification, social welfare
+and business planning. Traditionally, estimating SES for a large population is performed by national
+statistical institutes through a large number of household interviews, which is highly expensive
+and time-consuming. Recently researchers try to estimate SES from data sources like mobile phone
+call records and online social network platforms, which is much cheaper and faster. Instead of relying
+on these data about users' cyberspace behaviors, various alternative data sources on real-world
+users' behavior such as mobility may offer new insights for SES estimation. In this paper, we leverage
+Smart Card Data (SCD) for public transport systems which records the temporal and spatial mobility
+behavior of a large population of users. More specifically, we develop S2S, a deep learning based
+approach for estimating people's SES based on their SCD. Essentially, S2S models two types of SES-related
+features, namely the temporal-sequential feature and general statistical feature, and leverages
+deep learning for SES estimation. We evaluate our approach in an actual dataset, Shanghai SCD, which
+involves millions of users. The proposed model clearly outperforms several state-of-art methods
+in terms of various evaluation metrics. 

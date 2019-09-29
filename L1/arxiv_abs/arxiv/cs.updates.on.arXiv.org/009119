@@ -1,0 +1,17 @@
+Privacy problems are lethal and getting more attention than any other issue with the notion of the
+Internet of Things (IoT). Since IoT has many application areas including smart home, smart grids,
+smart healthcare system, smart and intelligent transportation and many more. Most of these applications
+are fueled by the resource-constrained sensor network, such as Smart healthcare system is powered
+by Wireless Body Area Network (WBAN) and Smart home and weather monitoring systems are fueled by
+Wireless Sensor Networks (WSN). In the mentioned application areas sensor node life is a very important
+aspect of these technologies as it explicitly effects the network life and performance. Data aggregation
+techniques are used to increase sensor node life by decreasing communication overhead. However,
+when the data is aggregated at intermediate nodes to reduce communication overhead, data privacy
+problems becomes more vulnerable. Different Privacy-Preserving Data Aggregation (PPDA) techniques
+have been proposed to ensure data privacy during data aggregation in resource-constrained sensor
+nodes. We provide a review and comparative analysis of the state of the art PPDA techniques in this
+paper. The comparative analysis is based on Computation Cost, Communication overhead, Privacy
+Level, resistance against malicious aggregator, sensor node life and energy consumption by the
+sensor node. We have studied the most recent techniques and provide in-depth analysis of the minute
+steps involved in these techniques. To the best of our knowledge, this survey is the most recent and
+comprehensive study of PPDA techniques. 

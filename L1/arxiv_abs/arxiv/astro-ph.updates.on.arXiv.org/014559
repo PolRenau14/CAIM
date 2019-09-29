@@ -1,0 +1,16 @@
+We present high-resolution and high-quality UVES spectroscopic data of the metal-poor double-lined
+spectroscopic binary CS 22876--032 ([Fe/H] $\sim -3.7$ dex), with the goal to derive the $^6$Li/$^7$Li
+isotopic ratio by analysing the \ion{Li}{i} $\lambda$~670.8~nm doublet. We coadd all 28 useful
+spectra normalised and corrected for radial velocity to the rest frame of the primary star. We fit
+the Li profile with a grid of the 3D-NLTE synthetic spectra, to take into account the line profile
+asymmetries induced by stellar convection, and perform Monte Carlo simulations to evaluate the
+uncertainty of the fit of the Li line profile. We check that the veiling factor does not affect the
+derived isotopic ratio, $^6$Li/$^7$Li, and only modifies the Li abundance, A(Li), by about 0.15~dex.
+The best fit of the Li profile of the primary star provides A(Li)~$ = 2.17 \pm 0.01$~dex and $^6$Li/$^7$Li~$=8^{+2}_{-5}$\%
+at 68\% confidence level. In addition, we improve the Li abundance of the secondary star at A(Li)~$=
+1.55 \pm 0.04$~dex, which is about 0.6~dex lower than that of the primary star. The analysis of the
+Li profile of the primary star is consistent with no detection of $^6$Li and provides an upper-limit
+to the isotopic ratio of $^6$Li/$^7$Li~$< 10$\% at this very low metallicity, about 0.5~dex lower
+in metallicity than previous attempts for detection of $^6$Li in extremely metal poor stars. These
+results do not solve or worsen the cosmological $^7$Li problem, nor support the need for non standard
+$^6$Li production in the early Universe. 

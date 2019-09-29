@@ -1,0 +1,17 @@
+This paper addresses the distributed frequency control problem in a multi-area power system taking
+into account of unknown time-varying power imbalance. Particularly, fast controllable loads
+are utilized to restore system frequency under changing power imbalance in an optimal manner. The
+imbalanced power causing frequency deviation is decomposed into three parts: a known constant
+part, an unknown low-frequency variation and a high-frequency residual. The known steady part
+is usually the prediction of power imbalance. The variation may result from the fluctuation of renewable
+resources, electric vehicle charging, etc., which is usually unknown to operators. The high-frequency
+residual is usually unknown and treated as an external disturbance. Correspondingly, in this paper,
+we resolve the following three problems in different timescales: 1) allocate the steady part of
+power imbalance economically; 2) mitigate the effect of unknown low-frequency power variation
+locally; 3) attenuate unknown high-frequency disturbances. To this end, a distributed controller
+combining consensus method with adaptive internal model control is proposed. We first prove that
+the closed-loop system is asymptotically stable and converges to the optimal solution of an optimization
+problem if the external disturbance is not included. We then prove that the power variation can be
+mitigated accurately. Furthermore, we show that the closed-loop system is robust against both
+parameter uncertainty and external disturbances. The New England system is used to verify the efficacy
+of our design. 

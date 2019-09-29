@@ -1,0 +1,16 @@
+Cardiovascular disease (CD) is the number one leading cause of death worldwide, accounting for
+more than 17 million deaths in 2015. Critical indicators of CD include heart murmurs, intense sounds
+emitted by the heart during periods of irregular blood flow. Current diagnosis of heart murmurs
+relies on echocardiography (ECHO), which costs thousands of dollars and medical professionals
+to analyze the results, making it very unsuitable for areas with inadequate medical facilities.
+Thus, there is a need for an accessible alternative. Based on a simple interface and deep learning,
+HeartFit allows users to administer diagnoses themselves. An inexpensive, custom designed stethoscope
+in conjunction with a mobile application allows users to record and upload audio of their heart to
+a database. Using a deep learning network architecture, the database classifies the audio and returns
+the diagnosis to the user. The model consists of a deep recurrent convolutional neural network trained
+on 300 prelabeled heartbeat audio samples. After the model was validated on a previously unseen
+set of 100 heartbeat audio samples, it achieved a f beta score of 0.9545 and an accuracy of 95.5 percent.
+This value exceeds that of clinical examination accuracy, which is around 83 percent to 91 percent
+and costs orders of magnitude less than ECHO, demonstrating the effectiveness of the HeartFit platform.
+Through the platform, users can obtain immediate, accurate diagnosis of heart murmurs without
+any professional medical assistance, revolutionizing how we combat CD. 

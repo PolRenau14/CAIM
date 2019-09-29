@@ -1,0 +1,16 @@
+The well-known DeMillo-Lipton-Schwartz-Zippel lemma says that $n$-variate polynomials of total
+degree at most $d$ over grids, i.e. sets of the form $A_1 \times A_2 \times \cdots \times A_n$, form
+error-correcting codes (of distance at least $2^{-d}$ provided $\min_i\{|A_i|\}\geq 2$). In
+this work we explore their local decodability and local testability. While these aspects have been
+studied extensively when $A_1 = \cdots = A_n = \mathbb{F}_q$ are the same finite field, the setting
+when $A_i$'s are not the full field does not seem to have been explored before. In this work we focus
+on the case $A_i = \{0,1\}$ for every $i$. We show that for every field (finite or otherwise) there
+is a test whose query complexity depends only on the degree (and not on the number of variables). In
+contrast we show that decodability is possible over fields of positive characteristic (with query
+complexity growing with the degree of the polynomial and the characteristic), but not over the reals,
+where the query complexity must grow with $n$. As a consequence we get a natural example of a code (one
+with a transitive group of symmetries) that is locally testable but not locally decodable. Classical
+results on local decoding and testing of polynomials have relied on the 2-transitive symmetries
+of the space of low-degree polynomials (under affine transformations). Grids do not possess this
+symmetry: So we introduce some new techniques to overcome this handicap and in particular use the
+hypercontractivity of the (constant weight) noise operator on the Hamming cube. 

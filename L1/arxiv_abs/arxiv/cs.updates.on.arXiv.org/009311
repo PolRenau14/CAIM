@@ -1,0 +1,16 @@
+While cryptocurrencies and blockchain applications continue to gain popularity, their energy
+cost is evidently becoming unsustainable. In most instances, the main cost comes from the required
+amount of energy for the Proof-of-Work, and this cost is inherent to the design. In addition, useless
+costs from discarded work (e.g., the so-called Forks) and lack of scalability (in number of users
+and in rapid transactions) limit their practical effectiveness. In this paper, we present an innovative
+scheme which eliminates the nonce and thus the burden of the Proof-of-Work which is the main cause
+of the energy waste in cryptocurrencies such as Bitcoin. We prove that our scheme guarantees a tunable
+and bounded average number of simultaneous mining whatever the size of the population in competition,
+thus by making the use of nonce-based techniques unnecessary, achieves scalability without the
+cost of consuming a large volume of energy. The technique used in the proof of our scheme is based on
+the analogy of the analysis of a green leader election. The additional difference with Proof-of-Work
+schemes (beyond the suppression of the nonce field that is triggering most of the waste), is the introduction
+of (what we denote as) "empty blocks" which aim are to call regular blocks following a staircase set
+of values. Our scheme reduces the risk of Forks and provides tunable scalability for the number of
+users and the speed of block generation. We also prove using game theoretical analysis that our scheme
+is resilient to unfair competitive investments and block nursing. 

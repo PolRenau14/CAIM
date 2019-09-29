@@ -1,0 +1,16 @@
+In our study we investigate the behaviour of the net force (NF) emerging between an ellipsoidal particle
+and a thick plate (slab), when the interaction takes place in a near critical fluid medium with account
+for the omnipresent van der Waals forces (vdWF). Here we consider the case of complete wetting of
+the objects surfaces by the medium, due to strong adsorbing local surface potentials, exerted by
+thin solid coating films. The influence of the bulk inner regions of the particle and the slab on the
+constituents of the fluid results in long-ranged competing dispersion potentials. As a consequence
+from the critical fluctuations of the medium, the system experiences an additional effective interaction,
+traditionally termed critical Casimir force (CCF). The forces of interest are evaluated numerically
+from integral expressions obtained utilizing general scaling arguments and mean-field type calculations
+in combination with the so-called "surface integration approach" (SIA). Within the scenario considered
+here, this technique is applicable if one has knowledge of the forces between two parallel semi-infinite
+plates, confining in between some fluctuating fluid medium characterized by its temperature $T$
+and chemical potential $\mu$. It is demonstrated that for a suitable set of particle-fluid, slab-fluid,
+and fluid-fluid coupling parameters the competition between the effects due to the coatings and
+the core regions of the objects result, when one changes $T$ or $\mu$, in {\it sign change} of the NF
+acting between the ellipsoid and the slab. 

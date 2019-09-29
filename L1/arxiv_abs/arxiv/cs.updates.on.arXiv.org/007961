@@ -1,0 +1,17 @@
+We consider a multi-pair amplify-and-forward relay network where the energy-constrained relays
+adopting time-switching protocol harvest energy from the radio frequency signals transmitted
+by the users for assisting user data transmission. Both one-way and two-way relaying techniques
+are investigated. Aiming at energy efficiency (EE) fairness among the user pairs, we construct
+an energy consumption model incorporating rate-dependent signal processing power, the dependence
+on output power level of power amplifiers' efficiency, and nonlinear energy harvesting (EH) circuits.
+Then we formulate the max-min EE fairness problems in which the data rates, users' transmit power,
+relays' processing coefficient, and EH time are jointly optimized under the constraints on the
+quality of service and users' maximum transmit power. To achieve efficient suboptimal solutions
+to these nonconvex problems, we devise monotonic descent algorithms based on the inner approximation
+(IA) framework, which solve a second-order-cone program in each iteration. To further simplify
+the designs, we propose an approach combining IA and zero-forcing beamforming, which eliminates
+inter-pair interference and reduces the numbers of variables and required iterations. Finally,
+extensive numerical results are presented to validate the proposed approaches. More specifically,
+the results demonstrate that ignoring the realistic aspects of power consumption might degrade
+the performance remarkably, and jointly designing parameters involved could significantly enhance
+the energy efficiency. 

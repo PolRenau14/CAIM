@@ -1,0 +1,16 @@
+Using analytical method, we study the Singular Isothermal Quadrupole (SIQ) lens system, which
+is the simplest lens model that can produce four images. In this case, the radial mass distribution
+is in accord with the profile of the Singular Isothermal Sphere (SIS) lens, and the tangential distribution
+is given by adding a quadrupole on the monopole component. The basic properties of the SIQ lens have
+been studied in this paper, including deflection potential, deflection angle, magnification,
+critical curve, caustic, pseudo-caustic and transition locus. Analytical solutions of the image
+positions and magnifications for the source on axes are derived. As have been found, naked cusps
+will appear when the relative intensity $k$ of quadrupole to monopole is larger than 0.6. According
+to the magnification invariant theory of the SIQ lens, the sum of the signed magnifications of the
+four images should be equal to unity \citep{dal98}. However, if a source lies in the naked cusp, the
+summed magnification of the left three images is smaller than the invariant 1. With this simple lens
+system, we study the situations that a point source infinitely approaches a cusp or a fold. The sum
+of magnifications of cusp image triplet is usually not equal to 0, and it is usually positive for major
+cusp while negative for minor cusp. Similarly, the sum of magnifications of fold image pair is usually
+neither equal to 0. Nevertheless, the cusp and fold relations are still equal to 0, in that the sum
+values are divided by infinite absolute magnifications by definition. 

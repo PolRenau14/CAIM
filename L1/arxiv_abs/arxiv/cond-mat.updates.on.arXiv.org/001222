@@ -1,0 +1,16 @@
+TiO2 nanoparticles (NPs) are nowadays considered fundamental building blocks for many technological
+applications. Morphology is found to play a key role with spherical NPs presenting higher binding
+properties and chemical activity. From the experimental point of view, the characterization of
+these nano-objects is extremely complex, opening a large room for computational investigations.
+In this work, TiO2 spherical NPs of different size (from 300 to 4000 atoms) have been studied with
+a two-scale computational approach. Global optimization to obtain stable and equilibrated NSs
+was performed with a self-consistent charge density functional tight-binding (SCC-DFTB) simulated
+annealing process, causing a considerable atomic rearrangement within the nanospheres. Those
+SCC-DFTB relaxed structures have been then optimized at DFT(B3LYP) level of theory. We present
+a systematic and comparative SCC-DFTB vs DFT(B3LYP) study of the structural properties, with particular
+emphasis on the surface-to-bulk sites ratio, coordination distribution of surface sites and surface
+energy. From the electronic point of view, we compare HOMO-LUMO and Kohn-Sham gaps, total and projected
+density of states. Overall, the comparisons between DFTB and hybrid DFT show that DFTB provides
+a rather accurate geometrical and electronic description of these nanospheres of realistic size
+(up to a diameter of 4.4 nm) at an extremely reduced computational cost. This opens for new challenges
+in simulations of very large systems and more extended molecular dynamics. 

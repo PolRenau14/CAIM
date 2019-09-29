@@ -1,0 +1,16 @@
+This paper has expounded the serious defects and incomplete in mathematical structure of generalized
+Hamilton system on the connection space. GHS known as $\frac{dx}{dt}=J\left( x \right)\nabla
+H\left( x \right)$ which is only for the flat Euclidean space, as for the general non-Euclidean space
+which often carries the connection structure, the GHS cannot well apply. Hence a complete dynamical
+system needs to be rebuilt for the non Euclidean space. We can use GCHS as a real dynamical system which
+is mathematically well-defined as $$\frac{\mathcal{D}x}{dt}=W\left( x \right)DH\left( x \right)$$by
+using the covariant derivative $D_{k}$ to replace the ordinary derivative $\partial_{k}$. The
+GHS is only a special case of GCHS, we get some results based on GCHS including the general covariant
+Possion bracket (GCPB), generalized covariant Jacobi identity (GCJI), by studying the stability
+properties of GCHS which lead to more abundant results. Synchronously, we have successfully obtained
+a new operator--Wang operator $\widehat{W}$ which has similar functions to GCPB, GCPB is mathematically
+described by \[\left\{ F,G \right\}=\widehat{W}\left( FG \right)+{{\left\{ F,G \right\}}_{GHS}}\]then
+GCHS can be shown as $\frac{\mathcal{D}{{x}_{k}}}{dt}=\left\{ {{x}_{k}},H \right\}$, GCHS
+is a new theoretical framework built on Wang operator $\widehat{W}$, we also define a new dynamics--Wang
+dynamics\[w=\widehat{W}H\]built on the Wang operator along with Hamiltonian system $H$. Naturally,
+we have spontaneously deduced the acceleration flow as the second order form of GCHS. 

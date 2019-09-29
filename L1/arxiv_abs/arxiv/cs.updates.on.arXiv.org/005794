@@ -1,0 +1,17 @@
+Achieving a good measure of model generalization remains a challenge within machine learning.
+One of the highest-performing learning models is the biological brain, which has unparalleled
+generalization capabilities. In this work, we propose and evaluate a human-model similarity metric
+for determining model correspondence to the human brain, as inspired by representational similarity
+analysis. We evaluate this metric on unsupervised predictive coding networks. These models are
+designed to mimic the phenomenon of residual error propagation in the visual cortex, implying their
+potential for biological fidelity. The human-model similarity metric is calculated by measuring
+the similarity between human brain fMRI activations and predictive coding network activations
+over a shared set of stimuli. In order to study our metric in relation to standard performance evaluations
+on cross-domain tasks, we train a multitude of predictive coding models across various conditions.
+Each unsupervised model is trained on next frame prediction in video and evaluated using three metrics:
+1) mean squared error of next frame prediction, 2) object matching accuracy, and 3) our human-model
+similarity metric. Through this evaluation, we show that models with higher human-model similarity
+are more likely to generalize to cross-domain tasks. We also show that our metric facilitates a substantial
+decrease in model search time because the similarity metric stabilizes quickly --- in as few as 10
+epochs. We propose that this metric could be deployed in model search to quickly identify and eliminate
+weaker models. 

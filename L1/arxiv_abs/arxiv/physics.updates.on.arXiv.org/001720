@@ -1,0 +1,16 @@
+For future human missions to Mars, it is important to study the surface radiation environment during
+extreme and elevated conditions. In the long term, it is mainly Galactic Cosmic Rays (GCRs) modulated
+by solar activity that contributes to the radiation on the surface of Mars, but intense solar energetic
+particle (SEP) events may induce acute health effects. Such events may enhance the radiation level
+significantly and should be detected as immediately as possible to prevent severe damage to humans
+and equipment. However, the energetic particle environment on the Martian surface is significantly
+different from that in deep space due to the influence of the Martian atmosphere. Depending on the
+intensity and shape of the original solar particle spectra as well as particle types, the surface
+spectra may induce entirely different radiation effects. In order to give immediate and accurate
+alerts while avoiding unnecessary ones, it is important to model and well understand the atmospheric
+effect on the incoming SEPs including both protons and helium ions. In this paper, we have developed
+a generalized approach to quickly model the surface response of any given incoming proton/helium
+ion spectra and have applied it to a set of historical large solar events thus providing insights
+into the possible variety of surface radiation environments that may be induced during SEP events.
+Based on the statistical study of more than 30 significant solar events, we have obtained an empirical
+model for estimating the surface dose rate directly from the intensities of a power-law SEP spectra.

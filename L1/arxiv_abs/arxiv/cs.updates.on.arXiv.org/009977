@@ -1,0 +1,16 @@
+Many real-world systems such as taxi systems, traffic networks and smart grids involve self-interested
+actors that perform individual tasks in a shared environment. However, in such systems, the self-interested
+behaviour of agents produces welfare inefficient and globally suboptimal outcomes that are detrimental
+to all - some common examples are congestion in traffic networks, demand spikes for resources in
+electricity grids and over-extraction of environmental resources such as fisheries. We propose
+an incentive-design method which modifies agents' rewards in non-cooperative multi-agent systems
+that results in independent, self-interested agents choosing actions that produce optimal system
+outcomes in strategic settings. Our framework combines multi-agent reinforcement learning to
+simulate (real-world) agent behaviour and black-box optimisation to determine the optimal modifications
+to the agents' rewards or incentives given some fixed budget that results in optimal system performance.
+By modifying the reward functions and generating agents' equilibrium responses within a sequence
+of offline Markov games, our method enables optimal incentive structures to be determined offline
+through iterative updates of the reward functions of a simulated game. Our theoretical results
+show that our method converges to reward modifications that induce system optimality. We demonstrate
+the applications of our framework by tackling a challenging problem within economics that involves
+thousands of selfish agents and tackle a traffic congestion problem. 

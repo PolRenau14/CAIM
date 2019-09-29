@@ -1,0 +1,16 @@
+We propose to construct a compact and portable x-pinch driver with x-ray radiation performance,
+comparable to standard x-pinch drivers. Such a new x-pinch driver was recently designed, fabricated
+and tested at the Idaho Accelerator Center. The generator is based on two slow LTD bricks combined
+into one solid unit, and can be described by a simple RLC circuit with four fast 140-nF, 100-kV capacitors
+that store up to 2.8 kJ. The test data reveals that when charged to 80 kV, the driver supplies 185-kA
+peak-current into a short Ni-wire load with 220-ns, 10-90%, rise time. The total internal inductance
+of our driver was measured to be about 60 nH. The revised driver model shows that when fully charged
+to 100 kV, the driver will supply 180-kA peak-current with 150-ns rise-time into the x-pinch load.
+The corresponding current rise rate is about 1.2 kA/ns. To prove the driver x-pinch efficiency and
+to estimate the x-ray radiation performance, we could, for example, image an exploding wires, placed
+in a separate HV pulser, with our x-pinch x-ray radiation source. The study of exploding wires helps
+to understand the behavior of a warm dense matter, and our x-pinch driver can be part of the diagnostics
+needed for this study which is currently under progress at the IAC. Our driver contains no oil inside,
+is very compact and portable, and can be easily relocated to practically anywhere, which makes it
+an ideal backlighting diagnostic tool in many areas of plasma physics, biology, and industry where
+a bright, fast, and small x-pinch radiation source is required. 

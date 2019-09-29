@@ -1,0 +1,16 @@
+Jupiter's atmosphere has been observed to be depleted in helium (Yatm~0.24), suggesting active
+helium sedimentation in the interior. This is accounted for in standard Jupiter structure and evolution
+models through the assumption of an outer, He-depleted envelope that is separated from the He-enriched
+deep interior by a sharp boundary. Here we aim to develop a model for Jupiter's inhomogeneous thermal
+evolution that relies on a more self-consistent description of the internal profiles of He abundance,
+temperature, and heat flux. We make use of recent numerical simulations on H/He demixing, and on
+layered (LDD) and oscillatory (ODD) double diffusive convection, and assume an idealized planet
+model composed of a H/He envelope and a massive core. A general framework for the construction of
+interior models with He rain is described. Despite, or perhaps because of, our simplifications
+made we find that self-consistent models are rare. For instance, no model for ODD convection is found.
+We modify the H/He phase diagram of Lorenzen et al. to reproduce Jupiter's atmospheric helium abundance
+and examine evolution models as a function of the LDD layer height, from those that prolong Jupiter's
+cooling time to those that actually shorten it. Resulting models that meet the luminosity constraint
+have layer heights of about 0.1-1 km, corresponding to ~10,-20,000 layers in the rain zone between
+~1 and 3-4.5 Mbars. Present limitations and directions for future work are discussed, such as the
+formation and sinking of He droplets. 

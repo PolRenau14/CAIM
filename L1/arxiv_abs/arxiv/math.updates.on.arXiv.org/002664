@@ -1,0 +1,16 @@
+We study the perturbed sine-Gordon equation $\theta_{tt}-\theta_{xx}+\sin \theta= F(\varepsilon,x)$,
+where we assume that the perturbation $F$ is analytic in $\varepsilon$ and that its derivatives
+with respect to $\varepsilon$ satisfy certain bounds at $\varepsilon=0$. We construct implicitly
+an, adjusted to the perturbation $F$, virtual solitary manifold, which is invariant in the following
+sense: The initial value problem for the perturbed sine-Gordon equation with an appropriate initial
+state on the constructed manifold has a unique solution, which follows a trajectory on the virtual
+solitary manifold. The trajectory is precisely described by two parameters, which satisfy a specific
+system of ODEs. The approach is based on the work of Mashkin (arXiv:1705.05713), where we constructed
+by an iteration scheme a virtual solitary manifold for the perturbed sine-Gordon equation. In arXiv:1705.05713
+we proved a stability result for the perturbed sine-Gordon equation with initial data close to the
+virtual solitary manifold. The employed iteration scheme produces a sequence of virtual solitary
+manifolds such that the accuracy of the corresponding stability statements increases after each
+iteration step, as long as the perturbation $F$ is sufficiently often differentiable. The invariant
+virtual solitary manifold constructed in this work is generated as a limit of the virtual solitary
+manifolds produced by the iteration scheme. The method and the kind of result presented in this paper
+is to our knowledge a novelty in the field of stability of solitons. 

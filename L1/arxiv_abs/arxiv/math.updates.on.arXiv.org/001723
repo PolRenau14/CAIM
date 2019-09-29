@@ -1,0 +1,16 @@
+Since their inception in the 1980's, regression trees have been one of the more widely used non-parametric
+prediction methods. Tree-structured methods yield a histogram reconstruction of the regression
+surface, where the bins correspond to terminal nodes of recursive partitioning. Trees are powerful,
+yet susceptible to over-fitting. Strategies against overfitting have traditionally relied on
+pruning greedily grown trees. The Bayesian framework offers an alternative remedy against overfitting
+through priors. Roughly speaking, a good prior charges smaller trees where overfitting does not
+occur. While the consistency of random histograms, trees and their ensembles has been studied quite
+extensively, the theoretical understanding of the Bayesian counterparts has been missing. In
+this paper, we take a step towards understanding why/when do Bayesian trees and their ensembles
+not overfit. To address this question, we study the speed at which the posterior concentrates around
+the true smooth regression function. We propose a spike-and-tree variant of the popular Bayesian
+CART prior and establish new theoretical results showing that regression trees (and their ensembles)
+(a) are capable of recovering smooth regression surfaces, achieving optimal rates up to a log factor,
+(b) can adapt to the unknown level of smoothness and (c) can perform effective dimension reduction
+when p>n. These results provide a piece of missing theoretical evidence explaining why Bayesian
+trees (and additive variants thereof) have worked so well in practice. 

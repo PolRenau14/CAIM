@@ -1,0 +1,17 @@
+Quantum spin Hall insulators are a class of two-dimensional materials with a finite electronic
+band gap in the bulk and gapless helical edge states. In the presence of time-reversal symmetry,
+$\mathbb{Z}_2$ topological order distinguishes the topological phase from the ordinary insulating
+one. Some of the phenomena that can be hosted in these materials, from one-dimensional low-dissipation
+electronic transport to spin filtering, could be very promising for many technological applications
+in the fields of electronics, spintronics and topological quantum computing. Nevertheless, the
+rarity of two-dimensional materials that can exhibit non-trivial $\mathbb{Z}_2$ topological
+order at room temperature hinders development. Here, we screen a comprehensive database we recently
+created of 1825 monolayers that can be exfoliated from experimentally known compounds, to search
+for novel quantum spin Hall insulators. Using density-functional and many-body perturbation
+theory simulations, we identify 13 monolayers that are candidates for quantum spin Hall insulators,
+including high-performing materials such as AsCuLi$_2$ and jacutingaite (Pt$_2$HgSe$_3$).
+We also identify monolayer Pd$_2$HgSe$_3$ as a novel Kane-Mele quantum spin Hall insulator, and
+compare it with jacutingaite. Such a handful of promising materials are mechanically stable and
+exhibit $\mathbb{Z}_2$ topological order, either unpertubed or driven by a small amount of strain.
+Such screening highlights a relative abundance of $\mathbb{Z}_2$ topological order of around
+1%, and provides an optimal set of candidates for experimental efforts. 

@@ -1,0 +1,17 @@
+We study fluid-structure interactions (FSIs) in a long and shallow microchannel, conveying a non-Newtonian
+fluid, at steady state. The microchannel has a linearly elastic and compliant top wall, while its
+three other walls are rigid. The fluid flowing inside the microchannel has a shear-dependent viscosity
+described by the power-law rheological model. We employ lubrication theory to solve for the flow
+problem inside the long and shallow microchannel. For the structural problem, we employ two plate
+theories, namely Kirchhoff-Love theory of thin plates and Reissner-Mindlin first-order shear
+deformation theory. The hydrodynamic pressure couples the flow and deformation problem by acting
+as a distributed load onto the soft top wall. Within our perturbative (lubrication theory) approach,
+we determine the relationship between flow rate and the pressure gradient, which is a nonlinear
+first-order ordinary differential equation for the pressure. From the solution of this differential
+equation, all other quantities of interest in non-Newtonian microchannel FSIs follow. Through
+illustrative examples, we show the effect of FSI coupling strength and the plate thickness on the
+pressure drop across the microchannel. Through direct numerical simulation of non-Newtonian
+microchannel FSIs using commercial computational engineering tools, we benchmark the prediction
+from our mathematical prediction for the flow rate-pressure drop relation and the structural deformation
+profile of the top wall. In doing so, we also establish the limits of applicability of our perturbative
+theory. 

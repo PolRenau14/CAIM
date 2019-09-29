@@ -1,0 +1,16 @@
+Quantum searching for one of \(N\) marked items in an unsorted database of \(n\) items is solved in
+\(\mathcal{O}(\sqrt{n/N})\) steps using Grover's algorithm. Using nonlinear quantum dynamics
+with a Gross-Pitaevskii type quadratic nonlinearity, Childs and Young discovered a quantum search
+algorithm with a complexity \(\mathcal{O}( \min \{ 1/g' \, \log (g' n), \sqrt{n} \} ) \), which can
+be used to find a marked node after \(o(\log(n))\) repetitions, where \(g'\) is the nonlinearity
+strength \cite{PhysRevA.93.022314}. In this work we find a new quantum control protocol which
+can be realised on a linear or nonlinear quantum Turing machine. Our continuous time search algorithm
+finds a marked node on complete graphs with running time \(\mathcal{O}((N^{\perp} - N) / (g \sqrt{N
+N^{\perp}}) )\), when \(N^{\perp} > N\) and \(N^{\perp}\) denotes the number of unmarked nodes.
+When \(N^{\perp} \leq N\), we obtain a runtime \(\mathcal{O}( 1 / (2 N) \, )\). Even for constant \(g\),
+this protocol scales better than Grover's and nonlinear quantum searches when \(N^{\perp} \leq
+N\). In our protocol the nonlinearity is time dependent and can always be chosen less than or equal
+to \(g\). In the linear case \(g\) represents the difference in the Hamiltonian of the marked and
+unmarked states. This protocol can be implemented on a linear quantum Turing machine and we discuss
+the potential to implement this algorithm according to nonlinear quantum regimes using Bose-Einstein
+Condensates in optical lattices and photons in nonlinear optical waveguides. 

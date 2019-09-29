@@ -1,0 +1,16 @@
+We perform local, vertically stratified shearing-box MHD simulations of protoplanetary disks
+(PPDs) at a fiducial radius of 1 AU that take into account the effects of both Ohmic resistivity and
+ambipolar diffusion (AD). The magnetic diffusion coefficients are evaluated self-consistently
+from a look-up table based on equilibrium chemistry. We first show that the inclusion of AD dramatically
+changes the conventional picture of layered accretion. Without net vertical magnetic field, the
+system evolves into a toroidal field dominated configuration with extremely weak turbulence in
+the far-UV ionization layer that is far too inefficient to drive rapid accretion. In the presence
+of a weak net vertical field (plasma beta~10^5 at midplane), we find that the MRI is completely suppressed,
+resulting in a fully laminar flow throughout the vertical extent of the disk. A strong magnetocentrifugal
+wind is launched that efficiently carries away disk angular momentum and easily accounts for the
+observed accretion rate in PPDs. Moreover, under a physical disk wind geometry, all the accretion
+flow proceeds through a strong current layer with thickness of ~0.3H that is offset from disk midplane
+with radial velocity of up to 0.4 times the sound speed. Both Ohmic resistivity and AD are essential
+for the suppression of the MRI and wind launching. The efficiency of wind transport increases with
+increasing net vertical magnetic flux and the penetration depth of the FUV ionization. Our laminar
+wind solution has important implications on planet formation and global evolution of PPDs. 

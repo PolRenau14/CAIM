@@ -1,0 +1,16 @@
+Physics-based motion planning is a challenging task, since it requires the computation of the robot
+motions while allowing possible interactions with (some of) the obstacles in the environment.
+Kinodynamic motion planners equipped with a dynamic engine acting as state propagator are usually
+used for that purpose. The difficulties arise in the setting of the adequate forces for the interactions
+and because these interactions may change the pose of the manipulatable obstacles, thus either
+facilitating or preventing the finding of a solution path. The use of knowledge can alleviate the
+stated difficulties. This paper proposes the use of an enhanced state propagator composed of a dynamic
+engine and a low-level geometric reasoning process that is used to determine how to interact with
+the objects, i.e. from where and with which forces. The proposal, called \k{appa}-PMP can be used
+with any kinodynamic planner, thus giving rise to e.g. \k{appa}-RRT. The approach also includes
+a preprocessing step that infers from a semantic abstract knowledge described in terms of an ontology
+the manipulation knowledge required by the reasoning process. The proposed approach has been validated
+with several examples involving an holonomic mobile robot, a robot with differential constraints
+and a serial manipulator, and benchmarked using several state-of-the art kinodynamic planners.
+The results showed a significant difference in the power consumption with respect to simple physics-based
+planning, an improvement in the success rate and in the quality of the solution paths. 

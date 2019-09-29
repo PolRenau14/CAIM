@@ -1,0 +1,16 @@
+The moist-air entropy can be used to analyze and better understand the general circulation of the
+atmosphere or convective motions. Isentropic analyses are commonly based on studies of different
+equivalent potential temperatures, all of which are assumed to fully represent the entropy of moist
+air. It is, however, possible to rely either on statistical physics or the third law of thermodynamics
+when defining and computing the absolute entropy of moist air and to study the corresponding third-law
+potential temperature, which is different from the previous ones. The third law assumes that the
+entropy for the most stable crystalline state of all substances is zero when approaching absolute
+zero temperature. This paper shows that the way all these moist-air potential temperatures are
+defined has a large impact on: (i) the plotting of the isentropes for a simulation of the Hurricane
+DUMILE; (ii) the changes in moist-air entropy computed for a steam cycle defined for this Hurricane;
+(iii) the analyses of isentropic stream functions computed for this Hurricane; and (iv) the computations
+of the heat input, the work function, and the efficiency defined for this steam cycle. The moist-air
+entropy is a state function and the isentropic analyses must be completely determined by the local
+moist-air conditions. The large differences observed between the different formulations of moist-air
+entropy are interpreted as proof that the isentropic analyses of moist-air atmospheric motions
+must be achieved by using the third-law potential temperature defined from general thermodynamics.

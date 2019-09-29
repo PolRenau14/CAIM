@@ -1,0 +1,16 @@
+Intersection norms are integer norms on the first homology group of a surface. In this article, we
+prove that there are some polytopes which are not dual unit balls of such norms. By the way, we prove
+that, up to diffeomorphism, there are four collections of curves on $\Sigma$ 2 whose complement
+is a disk. Intersection norms on surfaces were first quickly introduced by Turaev [6] (page 143),
+and studied by M. Cossarini and P. Dehornoy [1]. They use intersection norms to classify, up to isotopy
+all surfaces transverse to the geodesic flow on the complement of special links in the unit tangent
+bundle of a closed oriented surface. Their result makes explicit Thurston's fiber faced theory
+for Thurston norms on compact oriented 3-manifolds. It tells us that the intersection norm on a surface
+(respectively the Thurston norm on a 3-manifold) encodes the open book decompositions of the unit
+tangent bundle of that surface (respectively the topology of a fibered 3-manifold). 1 Our purpose
+in this article is to study intersection norms for their own. Let $\Sigma$ g be a closed oriented surface
+of genus g $\ge$ 1, and $\Gamma$ a collection of closed curves on $\Sigma$ g. We assume that $\Gamma$
+has only double intersection points. Let $\alpha$ be loop on $\Sigma$ g , we define the number i $\Gamma$
+($\alpha$) as follows : i $\Gamma$ ($\alpha$) = inf{\#{$\alpha$ $\cap$ $\Gamma$}; $\alpha$ $\sim$
+$\alpha$; $\alpha$ $\Gamma$}; where the symbol $\sim$ (respectively) is the free homotopy relation
+(respectively transversality). 

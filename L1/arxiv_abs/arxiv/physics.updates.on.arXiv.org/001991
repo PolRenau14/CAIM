@@ -1,0 +1,16 @@
+The present work is related to the study of the nitrogen gas flow through diverging micro and nano-channels.
+The direct simulation Monte-Carlo (DSMC) method has been used to study the flow. The Simplified
+Bernoulli Trials (SBT) collision scheme has been employed to reduce the computational costs and
+required amounts of the computer resources. The effects of various divergence angles on flow and
+thermal fields have been studied for different Knudsen numbers in late-slip and early-transition
+regimes. The inlet-to-outlet pressure ratio has been set to 2.5 for micro and nano-channels with
+a uniform constant wall temperature. By analyzing the numerical results no flow separation has
+been found due to slip at the wall which is different than flow behavior in continuum regime. The results
+indicate that the viscous component has a relatively large contribution to the overall pressure
+drop and flow behavior. It observed that for low divergence angles the effects of pressure forces
+dominate the effects of shear stress and divergence angle and cause the flow to accelerate along
+the channel while by increasing the divergence angle and therefore the effects of flow expansion,
+the flow decelerates along the channel. The mass flow rate through channel increases by increasing
+the divergence angle. Cold-to-hot heat transfer has been observed in diverging micro and nano-channels.
+In order to investigate the thermal behavior in diverging micro and nano-channels, the results
+have been compared to weakly non-linear constitutive laws derived from Boltzmann's equation.

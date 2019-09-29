@@ -1,0 +1,16 @@
+Modern data introduces new challenges to classic signal processing approaches, leading to a growing
+interest in the field of graph signal processing. A powerful and well established model for real
+world signals in various domains is sparse representation over a dictionary, combined with the
+ability to train the dictionary from signal examples. This model has been successfully applied
+to graph signals as well by integrating the underlying graph topology into the learned dictionary.
+Nonetheless, dictionary learning methods for graph signals are typically restricted to small
+dimensions due to the computational constraints that the dictionary learning problem entails,
+and due to the direct use of the graph Laplacian matrix. In this paper, we propose a dictionary learning
+algorithm that applies to a broader class of graph signals, and is capable of handling much higher
+dimensional data. We incorporate the underlying graph topology both implicitly, by forcing the
+learned dictionary atoms to be sparse combinations of graph-wavelet functions, and explicitly,
+by adding direct graph constraints to promote smoothness in both the feature and manifold domains.
+The resulting atoms are thus adapted to the data of interest while adhering to the underlying graph
+structure and possessing a desired multi-scale property. Experimental results on several datasets,
+representing both synthetic and real network data of different nature, demonstrate the effectiveness
+of the proposed algorithm for graph signal processing even in high dimensions. 

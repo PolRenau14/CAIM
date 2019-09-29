@@ -1,0 +1,16 @@
+The wiretap channel models secure communication between two users in the presence of an eavesdropper
+who must be kept ignorant of transmitted messages. The performance of such a system is usually characterized
+by its secrecy capacity which determines the maximum transmission rate of secure communication.
+In this paper, the issue of whether or not the secrecy capacity is a continuous function of the system
+parameters is examined. In particular, this is done for channel uncertainty modeled via compound
+channels and arbitrarily varying channels, in which the legitimate users know only that the true
+channel realization is from a pre-specified uncertainty set. In the former model, this realization
+remains constant for the entire duration of transmission, while in the latter the realization varies
+from channel use to channel use in an unknown and arbitrary manner. These models not only capture
+the case of channel uncertainty, but are also suitable for modeling scenarios in which a malicious
+adversary jams or otherwise influence the legitimate transmission. The secrecy capacity of the
+compound wiretap channel is shown to be robust in the sense that it is a continuous function of the
+uncertainty set. Thus, small variations in the uncertainty set lead to small variations in secrecy
+capacity. On the other hand, the deterministic secrecy capacity of the \emph{arbitrarily varying
+wiretap channel} is shown to be discontinuous in the uncertainty set meaning that small variations
+can lead to dramatic losses in capacity. 

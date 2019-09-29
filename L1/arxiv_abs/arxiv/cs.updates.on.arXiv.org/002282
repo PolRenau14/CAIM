@@ -1,0 +1,17 @@
+In this paper, a novel technique for tight outer-approximation of the intersection region of a finite
+number of ellipses in 2-dimensional (2D) space is proposed. First, the vertices of a tight polygon
+that contains the convex intersection of the ellipses are found in an efficient manner. To do so,
+the intersection points of the ellipses that fall on the boundary of the intersection region are
+determined, and a set of points is generated on the elliptic arcs connecting every two neighbouring
+intersection points. By finding the tangent lines to the ellipses at the extended set of points,
+a set of half-planes is obtained, whose intersection forms a polygon. To find the polygon more efficiently,
+the points are given an order and the intersection of the half-planes corresponding to every two
+neighbouring points is calculated. If the polygon is convex and bounded, these calculated points
+together with the initially obtained intersection points will form its vertices. If the polygon
+is non-convex or unbounded, we can detect this situation and then generate additional discrete
+points only on the elliptical arc segment causing the issue, and restart the algorithm to obtain
+a bounded and convex polygon. Finally, the smallest area ellipse that contains the vertices of the
+polygon is obtained by solving a convex optimization problem. Through numerical experiments,
+it is illustrated that the proposed technique returns a tighter outer-approximation of the intersection
+of multiple ellipses, compared to conventional techniques, with only slightly higher computational
+cost. 

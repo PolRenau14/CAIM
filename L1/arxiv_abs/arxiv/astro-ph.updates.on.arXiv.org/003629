@@ -1,0 +1,16 @@
+We present the results of smoothed particle hydrodynamics (SPH) simulations of the disc around
+the young, eccentric stellar binary HD 104237. We find that the binary clears out a large cavity in
+the disc, driving a significant eccentricity at the cavity edge. This then precesses around the
+binary at a rate of $\dot{\varpi} = 0.48^{\circ}T_{\mathrm{b}}^{-1}$, which for HD 104237 corresponds
+to 40 years. We find that the accretion pattern into the cavity and onto the binary changes with this
+precession, resulting in a periodic accretion variability driven purely by the physical parameters
+of the binary and its orbit. For each star we find that this results in order of magnitude changes in
+the accretion rate. We also find that the accretion variability allows the primary to accrete gas
+at a higher rate than the secondary for approximately half of each precession period. Using a large
+number of 3-body integrations of test particles orbiting different binaries, we find good agreement
+between the precession rate of a test particle and our SPH disc precession. These rates also agree
+very well with the precession rates predicted by the analytic theory of Leung & Lee (2013), showing
+that their prescription can be accurately used to predict long-term accretion variability timescales
+for eccentric binaries accreting from a disc. We discuss the implications of our result, and suggest
+that this process provides a viable way of preserving unequal mass ratios in accreting eccentric
+binaries in both the stellar and supermassive black hole regimes 

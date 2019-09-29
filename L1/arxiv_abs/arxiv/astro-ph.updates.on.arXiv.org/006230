@@ -1,0 +1,16 @@
+Our nearest large cosmological neighbour, the Andromeda galaxy (M31), is a dynamical system, and
+an accurate measurement of its total mass is central to our understanding of its assembly history,
+the life-cycles of its satellite galaxies, and its role in shaping the Local Group environment.
+Here, we apply a novel approach to determine the dynamical mass of M31 using high velocity Planetary
+Nebulae (PNe), establishing a hierarchical Bayesian model united with a scheme to capture potential
+outliers and marginalize over tracers unknown distances. With this, we derive the escape velocity
+run of M31 as a function of galacto-centric distance, with both parametric and non-parametric approaches.
+We determine the escape velocity of M31 to be $470\pm{40}$ km s$^{-1}$ at a galacto-centric distance
+of 15 kpc, and also, derive the total potential of M31, estimating the virial mass and radius of the
+galaxy to be $0.8\pm{0.1}\times10^{12}\,M_\odot$ and $240\pm{10}$ kpc, respectively. Our M31
+mass is on the low-side of the measured range, this supports the lower expected mass of the M31-Milky
+Way system from the timing and momentum arguments, satisfying the HI constraint on circular velocity
+between $10\lesssim R/\textrm{kpc}<35$, and agreeing with the stellar mass Tully-Fisher relation.
+To place these results in a broader context, we compare them to the key predictions of the $\Lambda{\rm
+CDM}$ cosmological paradigm, including the stellar-mass-halo-mass and the dark matter halo concentration-virial
+mass correlation, and finding it to be an outlier to this relation. 

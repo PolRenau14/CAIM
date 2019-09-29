@@ -1,0 +1,16 @@
+We carry out an independent search of Kepler photometry for small transiting planets with sizes
+0.5--8.0 times that of Earth and orbital periods between 5 and 50 days, with the goal of measuring
+the fraction of stars harboring such planets. We use a new transit search algorithm, TERRA, optimized
+to detect small planets. We restrict our stellar sample to include the 12,000 stars having the lowest
+photometric noise in the Kepler survey. We report 129 planet candidates having radii less than 6
+Earth-radii found in 3 years of Kepler photometry. Forty-seven of these candidates are not in Batalha
+et al. (2012). We gather Keck HIRES spectra for the majority of these targets leading to precise stellar
+radii and hence precise planet radii. We inject synthetic dimmings from mock transiting planets
+into the actual Kepler photometry and analyze that photometry with TERRA to assess detection completeness.
+We compute the occurrence of planets as a function of planet radius and period, correcting for the
+detection completeness. The resulting distribution of planet sizes exhibits a power law rise in
+occurrence from 5.7 Earth-radii down to 2 Earth-radii, as found in Howard et al. (2012). That rise
+clearly ends at 2 Earth-radii. The occurrence of planets is consistent with constant from 2 Earth-radii
+toward 1 Earth-radius. This unexpected plateau in planet occurrence at 2 Earth-radii suggests
+distinct planet formation processes for planets above and below 2 Earth-radii. We find 15.1% of
+solar type stars---roughly one in six---has a 1--2 Earth-radii planet with P = 5--50 days. 

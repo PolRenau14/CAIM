@@ -1,0 +1,16 @@
+Let $X$ be a projective variety over an algebraically closed field $k$ of arbitrary characteristic
+$p \ge 0$. A surjective endomorphism $f$ of $X$ is $q$-polarized if $f^\ast H \sim qH$ for some ample
+Cartier divisor $H$ and integer $q > 1$. When $f$ is separable and $X$ is $Q$-Gorenstein and normal,
+we show that the anti-canonical divisor $-K_X$ is numerically equivalent to an effective $Q$-Cartier
+divisor, strengthening slightly the conclusion of Boucksom, de Fernex and Favre (Theorem C) and
+also covering singular varieties over an algebraically closed field of arbitrary characteristic.
+Let $f^{Gal}:\overline{X}\to X$ be the Galois closure of $f$. We show that if $p>5$ and co-prime
+to $deg\, f^{Gal}$ then one can run the minimal model program (MMP) $f$-equivariantly, after replacing
+$f$ by a positive power, for a mildly singular threefold $X$ and reach a variety $Y$ with torsion canonical
+divisor (and also with $Y$ being a quasi-\'etale quotient of an abelian variety when $dim(Y)\le
+2$). Along the way, we show that a power of $f$ acts as a scalar multiplication on the Neron-Severi
+group of $X$ (modulo torsion) when $X$ is a smooth and rationally chain connected projective variety
+of dimension at most three. In the appendix, suppose $X$ is a normal projective variety with a polarized
+separable endomorphism $f$. We show that the Albanese morphism of $X$ is an algebraic fibre space
+and $f$ induces polarized endomorphisms on the Albanese and also the Picard variety of $X$, and $K_X$
+being pseudo-effective and $Q$-Cartier means being a torsion $Q$-divisor. 

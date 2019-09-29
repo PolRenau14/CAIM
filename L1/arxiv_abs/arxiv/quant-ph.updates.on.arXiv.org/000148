@@ -1,0 +1,16 @@
+Mochon's proof [Moc07] of existence of quantum weak coin flipping with arbitrarily small bias is
+a fundamental result in quantum cryptography, but at the same time one of the least understood. Though
+used several times as a black box in important follow-up results [Gan09, CK09, AS10, CK11, KZ13]
+the result has not been peer-reviewed, its novel techniques (and in particular Kitaev's point game
+formalism) have not been applied anywhere else, and an explicit protocol is missing. We believe
+that truly understanding the existence proof and the novel techniques it relies on would constitute
+a major step in quantum information theory, leading to deeper understanding of entanglement and
+of quantum protocols in general. In this work, we make a first step in this direction. We simplify
+parts of Mochon's construction considerably, making about 20 pages of analysis in the original
+proof superfluous, clarifying some other parts of the proof on the way, and presenting the proof
+in a way which is conceptually easier to grasp. We believe the resulting proof of existence is easier
+to understand, more readable, and certainly verifiable. Moreover, we analyze the resources needed
+to achieve a bias $\epsilon$ and show that the number of qubits is $O(\log 1/\epsilon)$, while the
+number of rounds is $(1/\epsilon)^{O(1/\epsilon)}$. A true understanding of the proof, including
+Kitaev's point game techniques and their applicability, as well as completing the task of constructing
+an explicit (and also simpler and more efficient) protocol, are left to future work. 

@@ -1,0 +1,16 @@
+An $O(3)$ spinor, $\Phi$, as a doublet denoted by ${\bf 2}_D$ consists of an $SO(3)$ spinor, $\phi$,
+and its complex conjugate, $\phi^\ast$, which form $\Phi=\left(\phi,\phi^\ast\right)^T$.
+In terms of the Pauli matrices denoted by $\tau_i$ ($i=1,2,3$), generators $\Sigma_{ij}$ ($i,j=1,2,3$)
+of $O(3)$ are identified to be $\Sigma_{ij} = \left[\Gamma_i,\Gamma_j\right]/2i$, where $\Gamma_i=\text{diag.}\left(\tau_i,\tau^\ast_i\right)$.
+Our spinorial description is consistent with $O(3)=SO(3)\times\boldsymbol{Z}_2$. The $\boldsymbol{Z}_2$
+parity together with the axis reflection can be taken care of by block off-diagonal $\tilde \Sigma_{1,2,3}$
+satisfying $[ {\tilde \Sigma }_i,{\tilde \Sigma }_j] = 2i\Sigma _{ij}$, which connect $\phi$ to
+$\phi^\ast$. We obtain that $\Phi^\dagger\Phi$ and $\Phi^\dagger \Gamma_i\Phi$, respectively,
+transform as ${\bf 1}$ and ${\bf 3}$; namely, ${\bf 2}_D\otimes{\bf 2}_D$ = {\bf 1}$\oplus${\bf
+3} is obtained. In addition, $\Phi^\dagger {\tilde \Sigma }_i\Phi$ as {\bf 3} transforms as the
+axial vector of $O(3)$. While $\Phi$ is regarded as a scalar, a fermionic $O(3)$ spinor is constructed
+out of an $SO(3)$ doublet Dirac spinor and its charge conjugate. It is also possible to introduce
+a gauge symmetry based on $SO(3)\times\boldsymbol{Z}_2$, where the $\boldsymbol{Z}_2$ parity
+is described by a $U(1)$ charge giving 1 for a particle as the $SO(3)$ spinor and $-1$ for an antiparticle
+as its conjugate. The triplet gauge bosons transform as the axial vector of $O(3)$ and the singlet
+one as the pseudoscalar of $O(3)$. 

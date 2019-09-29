@@ -1,0 +1,16 @@
+We present a non-Markovian quantum jump approach for simulating coherent energy transfer dynamics
+in molecular systems in the presence of laser fields. By combining a coherent modified Redfield
+theory (CMRT) and a non-Markovian quantum jump (NMQJ) method, this new approach inherits the broad-range
+validity from the CMRT and highly efficient propagation from the NMQJ. To implement NMQJ propagation
+of CMRT, we show that the CMRT master equation can be casted into a generalized Lindblad form. Moreover,
+we extend the NMQJ approach to treat time-dependent Hamiltonian, enabling the description of excitonic
+systems under coherent laser fields. As a benchmark of the validity of this new method, we show that
+the CMRT-NMQJ method accurately describes the energy transfer dynamics in a prototypical photosynthetic
+complex. Finally, we apply this new approach to simulate the quantum dynamics of a dimer system coherently
+excited to coupled single-excitation states under the influence of laser fields, which allows
+us to investigate the interplay between the photoexcitation process and ultrafast energy transfer
+dynamics in the system. We demonstrate that laser-field parameters significantly affect coherence
+dynamics of photoexcitations in excitonic systems, which indicates that the photoexcitation
+process must be explicitly considered in order to properly describe photon-induced dynamics in
+photosynthetic systems. This work should provide a valuable tool for efficient simulations of
+coherent control of energy flow in photosynthetic systems and artificial optoelectronic materials.

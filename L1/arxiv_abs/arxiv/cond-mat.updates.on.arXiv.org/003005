@@ -1,0 +1,16 @@
+Grusdt et al. [New J. Phys. 19, 103035 (2017)] recently made a renormalization group study of a one-dimensional
+Bose polaron in cold atoms. Their study went beyond the usual Frohlich description, which includes
+only single-phonon processes, by including two-phonon processes in which two phonons are simultaneously
+absorbed or emitted during impurity scattering [Shchadilova et al. Phys. Rev. Lett. 117, 113002
+(2016)]. We study this same beyond-Frohlich model, but in the static impurity limit where the ground
+state is described by a multimode squeezed state instead of the multimode coherent state in the static
+Frohlich model. We solve the system exactly by applying the generalized Bogoliubov transformation,
+an approach that can be straightforwardly adapted to higher dimensions. Using our exact solution,
+we obtain a polaron energy free of infrared divergences and construct analytically the polaron
+phase diagram. We find that the repulsive polaron is stable on the positive side of the impurity-boson
+interaction but is always thermodynamically unstable on the negative side of the impurity-boson
+interaction, featuring a bound state, whose binding energy we obtain analytically. We find that
+the attractive polaron is always dynamically unstable, featuring a pair of imaginary energies
+which we obtain analytically. We expect the multimode squeezed state to help with studies that go
+not only beyond the Frohlich paradigm but also beyond Bogoliubov theory, just as the multimode coherent
+state has helped with the study of Frohlich polarons. 

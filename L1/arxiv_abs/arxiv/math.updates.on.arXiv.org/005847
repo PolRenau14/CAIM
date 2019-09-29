@@ -1,0 +1,16 @@
+The fundamental theorem of finitely generated abelian groups states that every finitely generated
+abelian group $A$ has a basis. That means, every element can be presented uniquely as a product of
+powers of the elements of the basis in a given order. It motivate us considering a generalization
+of the theorem for some non-abelian groups, which is called OGS decomposition. It is easy to see that
+existence of an OGS decomposition for all the composition factors of a non-abelian group implies
+the existence of an OGS for the group itself. Since the composition factors of a solvable group are
+cyclic groups, it obviously has an OGS decomposition. Therefore, the question of the existence
+of an OGS decomposition is interesting for non-solvable groups. The Jordan-Holder Theorem motivate
+us to consider an existence of an OGS decomposition for the finite simple groups. In the case of a finite
+simple group of Lie-type, there is a BN-pair decomposition, which allows for writing a group as a
+product of BNB, where B and N$ are solvable groups. In this paper, we find an OGS decomposition of PSL_{2}(q),
+which is closely connected to the BN-pair decomposition of the group. By the mentioned OGS decomposition,
+we deduce a decomposition of PSL_{2}(q) in a form of XB or XYB (depending on the characteristic of
+the finite field F{q}), where X and Y are cyclic groups. We also show that the BN-pair decomposition
+of the elements of X and of Y leads to sequences over F{q}, which can be defined recursively, with very
+interesting properties. 

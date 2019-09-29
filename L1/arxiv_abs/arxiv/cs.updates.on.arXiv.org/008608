@@ -1,0 +1,16 @@
+Symbolic analysis of security exploits in smart contracts has demonstrated to be valuable for analyzing
+predefined vulnerability properties. While some symbolic tools perform complex analysis steps
+(which require predetermined invocation depth to search the execution paths), they employ fixed
+definitions of these vulnerabilities. However, vulnerabilities evolve. The number of contracts
+on blockchains like Ethereum has increased 176 fold since December 2015. If these symbolic tools
+fail to update over time, they could allow entire classes of vulnerabilities to go undetected, leading
+to unintended consequences. In this paper, we aim to have smart contracts that are less vulnerable
+to a broad class of emerging threats. In particular, we propose a novel approach of sequential learning
+of smart contract vulnerabilities using machine learning --- long-short term memory (LSTM) ---
+that perpetually learns from an increasing number of contracts handled over time, leading to safer
+smart contracts. Our experimental studies on approximately one million smart contracts for learning
+revealed encouraging results. A detection accuracy of 97% on contract vulnerabilities has been
+observed. In addition, our machine learning approach also correctly detected 76% of contract vulnerabilities
+that would otherwise be deemed as false positive errors by a symbolic tool. Last but not least, the
+proposed approach correctly identified a broader class of vulnerabilities when considering a
+subset of 10,000 contracts that are sampled from unflagged contracts. 

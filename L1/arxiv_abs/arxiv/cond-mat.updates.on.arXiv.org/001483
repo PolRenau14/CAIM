@@ -1,0 +1,16 @@
+Suspensions of unicellular microswimmers such as flagellated bacteria or motile algae exhibit
+spontaneous density heterogeneities at large enough concentrations. Based on the relative location
+of the biological actuation appendages i.e. flagella or cilia) microswimmers' propulsion mechanism
+can be classified into two categories: (i) pushers, like \textit{E. coli} bacteria or spermatozoa,
+that generate thrust in their rear, push fluid away from them and propel themselves forward; (ii)
+pullers, like the microalgae \textit{Chlamydomonas reinhardtii}, that have two flagella attached
+to their front, pull the fluid in and thereby generate thrust in their front. We introduce a novel
+model for biological microswimmers that creates the flow field of the corresponding microswimmers,
+and takes into account the shape anisotropy of the swimmer's body and stroke-averaged flagella.
+By employing multiparticle collision dynamics, we directly couple the swimmer's dynamics to the
+fluid's. We characterize the nonequilibrium phase diagram, as the filling fraction and P\'eclet
+number are varied, and find density heterogeneities in the distribution of both pullers and pushers,
+due to hydrodynamic instabilities. We find a maximum degree of clustering at intermediate filling
+fractions and at large P\'eclet numbers resulting from a competition of hydrodynamic and steric
+interactions between the swimmers. We develop an analytical theory that supports these results.
+This maximum might represent an optimum for the microorganisms' colonization of their environment.

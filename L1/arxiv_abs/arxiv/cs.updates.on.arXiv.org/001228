@@ -1,0 +1,16 @@
+We design a class of mechanisms called monotone aggregation mechanisms that enable a group of buyers
+with private utilities to collectively purchase a divisible resource that they intend to share.
+We assume that the resource is being sold in a deterministic truthful auction which solicits bids
+for the entire resource. Our mechanism then truthfully elicits utility functions from the buyers,
+prescribes a joint bid, and prescribes a division of the payment and the resource in the event that
+they win the resource in the auction. This mechanism is group-rational, which means that if there
+is a buyer in the group who can afford to individually pay for the entire resource on his own, then the
+group buys the resource in the outcome of the mechanism. Further, this mechanism satisfies a popular
+notion of collusion-resistance known as group-strategyproofness. We give two explicit characterizations
+of this generic class for the naturally occurring case where the utility functions of the buyers
+are non-decreasing and concave. We finally consider the case where the resource is not divisible,
+but is of the type where each buyer has a utility value for having access to the resource, and once this
+resource is bought then no buyer in the group can be excluded from enjoying it. We propose a class of
+collective purchasing mechanisms that satisfy this non-excludability requirement. Assuming
+that the resource is being sold in a truthful auction (not necessarily deterministic), we show that
+this mechanism is group-strategyproof. 

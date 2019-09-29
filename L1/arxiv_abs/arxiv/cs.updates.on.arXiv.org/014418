@@ -1,0 +1,17 @@
+The Maximum Common Subgraph is a computationally challenging problem with countless practical
+applications. Even if it has been long proven NP-hard, its importance still motivates searching
+for exact solutions. This work starts by discussing the possibility to extend an existing, very
+effective branch-and-bound procedure on parallel multi-core and many-core architectures. We
+analyze a parallel multi-core implementation that exploits a divide-and-conquer approach based
+on a thread-pool, which does not deteriorate the original algorithmic efficiency and it is not memory
+bound. We extend the algorithm to parallel many-core GPU architectures adopting the CUDA programming
+framework, and we show how to handle the heavily workload-unbalance and the massive data dependency.
+Then, we suggest new heuristics that reorder the adjacency matrix, deal with "dead-ends" and randomize
+the search with automatic restarts, achieving significant improvements on specific cases. Finally,
+we propose a portfolio approach, which integrates all the different local search algorithms as
+component tools. Such portfolio, rather than choosing the best tool for a given instance up-front,
+takes the decision on-line. The proposed approach drastically limits memory bandwidth constraints
+and avoids other typical portfolio fragilities as CPU and GPU versions often show a complementary
+efficiency and run on separated platforms. Experimental results support the claims and motivate
+further research to better exploit GPUs in embedded task-intensive, and multi-engine parallel
+applications. 

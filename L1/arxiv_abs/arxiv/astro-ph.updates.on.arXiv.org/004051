@@ -1,0 +1,16 @@
+The merger of two neutron stars may give birth to a long-lived hypermassive neutron star. If it harbours
+a strong magnetic field of magnetar strength, its spin-down could explain several features of short
+gamma-ray burst afterglows. The magnetorotational instability (MRI) has been proposed as a mechanism
+to amplify the magnetic field to the required strength. Previous studies have, however, neglected
+neutrinos, which may have an important impact on the MRI by inducing a viscosity and drag. We investigate
+the impact of these neutrino effects on the linear growth of the MRI by applying a local stability
+analysis to snapshots of a neutron star merger simulation. We find that neutrinos have a significant
+impact inside the hypermassive neutron star, but have at most a marginal effect in the torus surrounding
+it. Inside the hypermassive neutron star, the MRI grows in different regimes depending on the radius
+and on the initial magnetic field strength. For magnetic fields weaker than $10^{13}-10^{14}\,{\rm
+G}$, the growth rate of the MRI is significantly reduced due to the presence of neutrinos. We conclude
+that neutrinos should be taken into account when studying the growth of the MRI from realistic initial
+magnetic fields. Current numerical simulations, which neglect neutrino viscosity, are only consistent,
+i.e. in the adopted ideal regime, if they start from artificially strong initial magnetic fields
+above $\sim10^{14}\,{\rm G}$. One should be careful when extrapolating these results to lower
+initial magnetic fields, where the MRI growth is strongly affected by neutrino viscosity or drag.

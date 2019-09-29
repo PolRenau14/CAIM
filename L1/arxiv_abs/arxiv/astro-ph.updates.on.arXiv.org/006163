@@ -1,0 +1,17 @@
+Accreting black holes show characteristic reflection features in their X-ray spectrum, including
+an iron K$\alpha$ line, resulting from hard X-ray continuum photons illuminating the accretion
+disk. The reverberation lag resulting from the path length difference between direct and reflected
+emission provides a powerful tool to probe the innermost regions around both stellar-mass and supermassive
+black holes. Here, we present for the first time a reverberation mapping formalism that enables
+modeling of energy dependent time lags and variability amplitude for a wide range of variability
+timescales, taking the complete information of the cross-spectrum into account. We use a pivoting
+power-law model to account for the spectral variability of the continuum that dominates over the
+reverberation lags for longer time scale variability. We use an analytic approximation to self-consistently
+account for the non-linear effects caused by this continuum spectral variability, which have been
+ignored by all previous reverberation studies. We find that ignoring these non-linear effects
+can bias measurements of the reverberation lags, particularly at low frequencies. Since our model
+is analytic, we are able to fit simultaneously for a wide range of Fourier frequencies without prohibitive
+computational expense. We also introduce a formalism of fitting to real and imaginary parts of our
+cross-spectrum statistic, which naturally avoids some mistakes/inaccuracies previously common
+in the literature. We perform proof-of-principle fits to Rossi X-ray Timing Explorer data of Cygnus
+X-1. 

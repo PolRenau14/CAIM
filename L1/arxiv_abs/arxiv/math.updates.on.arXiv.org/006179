@@ -1,0 +1,16 @@
+Suppose $V^G$ is the fixed-point vertex operator subalgebra of a compact group $G$ acting on a simple
+abelian intertwining algebra $V$. We show that if all irreducible $V^G$-modules contained in $V$
+live in some braided tensor category of $V^G$-modules, then they generate a tensor subcategory
+equivalent to the category $\mathrm{Rep}\,G$ of finite-dimensional representations of $G$,
+with associativity and braiding isomorphisms modified by the abelian $3$-cocycle defining the
+abelian intertwining algebra structure on $V$. Additionally, we show that if the fusion rules for
+the irreducible $V^G$-modules contained in $V$ agree with the dimensions of spaces of intertwiners
+among $G$-modules, then the irreducibles contained in $V$ already generate a braided tensor category
+of $V^G$-modules. These results do not require rigidity on any tensor category of $V^G$-modules
+and thus apply to many examples where braided tensor category structure is known to exist but rigidity
+is not known; for example they apply when $V^G$ is $C_2$-cofinite but not necessarily rational.
+When $V^G$ is both $C_2$-cofinite and rational and $V$ is a vertex operator algebra, we use the equivalence
+between $\mathrm{Rep}\,G$ and the corresponding subcategory of $V^G$-modules to show that $V$
+is also rational. As another application, we show that a certain category of modules for the Virasoro
+algebra at central charge $1$ admits a braided tensor category structure equivalent to $\mathrm{Rep}\,SU(2)$,
+up to modification by an abelian $3$-cocycle. 

@@ -1,0 +1,16 @@
+Constraints on the properties of the cosmological dark matter have previously been obtained in
+a model-independent fashion using the Generalised Dark Matter (GDM) framework. Here we extend
+that work in several directions: We consider the inclusion of WiggleZ matter power spectrum data,
+and show that this improves the constraints on the two perturbative GDM parameters, $c^2_s$ and
+$c^2_\text{vis}$, by a factor of 3, for a conservative choice of wavenumber range. A less conservative
+choice can yield an improvement of up to an order of magnitude compared to previous constraints.
+In order to examine the robustness of this result we develop a GDM halo model to explore how non-linear
+structure formation could proceed in this framework, since currently GDM has only been defined
+perturbatively and only linear theory has been used when generating constraints. We then examine
+how the halo model affects the constraints obtained from the matter power spectrum data. The less-conservative
+wavenumber range shows a significant difference between linear and non-linear modelling, with
+the latter favouring GDM parameters inconsistent with $\Lambda$CDM, underlining the importance
+of careful non-linear modelling when using this data. We also use this halo model to establish the
+robustness of previously obtained constraints, particularly those that involve weak gravitational
+lensing of the cosmic microwave background. Additionally, we show how the inclusion of neutrino
+mass as a free parameter affects previous constraints on the GDM parameters. 

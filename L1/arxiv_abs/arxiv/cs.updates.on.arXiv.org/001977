@@ -1,0 +1,16 @@
+Heart-rate estimation is a fundamental feature of modern wearable devices. In this paper we propose
+a machine intelligent approach for heart-rate estimation from electrocardiogram (ECG) data collected
+using wearable devices. The novelty of our approach lies in (1) encoding spatio-temporal properties
+of ECG signals directly into spike train and using this to excite recurrently connected spiking
+neurons in a Liquid State Machine computation model; (2) a novel learning algorithm; and (3) an intelligently
+designed unsupervised readout based on Fuzzy c-Means clustering of spike responses from a subset
+of neurons (Liquid states), selected using particle swarm optimization. Our approach differs
+from existing works by learning directly from ECG signals (allowing personalization), without
+requiring costly data annotations. Additionally, our approach can be easily implemented on state-of-the-art
+spiking-based neuromorphic systems, offering high accuracy, yet significantly low energy footprint,
+leading to an extended battery life of wearable devices. We validated our approach with CARLsim,
+a GPU accelerated spiking neural network simulator modeling Izhikevich spiking neurons with Spike
+Timing Dependent Plasticity (STDP) and homeostatic scaling. A range of subjects are considered
+from in-house clinical trials and public ECG databases. Results show high accuracy and low energy
+footprint in heart-rate estimation across subjects with and without cardiac irregularities,
+signifying the strong potential of this approach to be integrated in future wearable devices. 

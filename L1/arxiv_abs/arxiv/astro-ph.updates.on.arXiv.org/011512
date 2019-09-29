@@ -1,0 +1,16 @@
+With 30 antennas and a maximum baseline length of 25 km, the Giant Metrewave Radio Telescope (GMRT)
+is the premier low-frequency radio interferometer today. We have carried out a study of possible
+expansions of the GMRT, via adding new antennas and installing focal plane arrays (FPAs), to improve
+its point-source sensitivity, surface brightness sensitivity, angular resolution, field of
+view, and U-V coverage. We have carried out array configuration studies, aimed at minimizing the
+number of new GMRT antennas required to obtain a well-behaved synthesized beam over a wide range
+of angular resolutions for full-synthesis observations. This was done via two approaches, tomographic
+projection and random sampling, to identify the optimal locations for the new antennas. We report
+results for the optimal locations of the antennas of an expanded array (the "EGMRT"), consisting
+of the existing 30 GMRT antennas, 30 new antennas at short distances, $\leq 2.5$ km from the array
+centre, and 26 new antennas at long distances, $\approx 5-25$ km from the array centre. The collecting
+area and the field of view of the proposed EGMRT array would be larger by factors of, respectively,
+$\approx 3$ and $\approx 30$, than those of the GMRT. Indeed, the EGMRT continuum sensitivity and
+survey speed with 550-850 MHz FPAs installed on the 45 antennas within a distance of $\approx 2.5$
+km of the array centre would be far better than those of any existing interferometer, and comparable
+to the sensitivity and survey speed of Phase-1 of the Square Kilometre Array. 

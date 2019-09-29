@@ -1,0 +1,16 @@
+We present the Herschel-SPIRE photometric atlas for a complete flux limited sample of 43 local Ultraluminous
+Infrared Galaxies (ULIRGs), selected at 60${\mu}$m by IRAS, as part of the HERschel ULIRG Survey
+(HERUS). Photometry observations were obtained using the SPIRE instrument at 250, 350 and 500${\mu}$m.
+We describe these observations, present the results, and combine the new observations with data
+from IRAS to examine the far-IR spectral energy distributions (SEDs) of these sources. We fit the
+observed SEDs of HERUS objects with a simple parameterised modified black body model where temperature
+and emissivity $\beta$ are free parameters. We compare the fitted values to those of non-ULIRG local
+galaxies, and find, in agreement with earlier results, that HERUS ULIRGs have warmer dust (median
+temperature T = 37.9+/-4.7 K compared to 21.3+/-3.4 K) but a similar $\beta$ distribution (median
+$\beta$ = 1.7 compared to 1.8) to the Herschel reference sample (HRS, Cortese et al., 2014) galaxies.
+Dust masses are found to be in the range of 10^7.5 to 10^9 Msun significantly higher than that of Herschel
+Reference Sample (HRS) sources. We compare our results for local ULIRGs with higher redshift samples
+selected at 250 and 850${\mu}$m. These latter sources generally have cooler dust and/or redder
+100-to-250 ${\mu}$m colours than our 60${\mu}$m-selected ULIRGs. We show that this difference
+may in part be the result of the sources being selected at different wavelengths rather than being
+a simple indication of rapid evolution in the properties of the population. 

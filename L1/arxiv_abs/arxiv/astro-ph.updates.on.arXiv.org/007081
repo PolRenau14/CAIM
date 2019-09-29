@@ -1,0 +1,16 @@
+We measure H$_2$ temperatures and column densities across the Orion BN/KL explosive outflow from
+a set of thirteen near-IR H$_2$ rovibrational emission lines observed with the TripleSpec spectrograph
+on Apache Point Observatory's 3.5-meter telescope. We find that most of the region is well-characterized
+by a single temperature (~2000-2500 K), which may be influenced by the limited range of upper energy
+levels (6000-20,000 K) probed by our data set. The H$_2$ column density maps indicate that warm H$_2$
+comprises 10$^{-5}$ - 10$^{-3}$ of the total H$_2$ column density near the center of the outflow.
+Combining column density measurements for co-spatial H$_2$ and CO at T = 2500 K, we measure a CO/H$_2$
+fractional abundance of 2$\times$10$^{-3}$, and discuss possible reasons why this value is in
+excess of the canonical 10$^{-4}$ value, including dust attenuation, incorrect assumptions on
+co-spatiality of the H$_2$ and CO emission, and chemical processing in an extreme environment.
+We model the radiative transfer of H$_2$ in this region with UV pumping models to look for signatures
+of H$_2$ fluorescence from H I Ly$\alpha$ pumping. Dissociative (J-type) shocks and nebular emission
+from the foreground Orion H II region are considered as possible Ly$\alpha$ sources. From our radiative
+transfer models, we predict that signatures of Ly$\alpha$ pumping should be detectable in near-IR
+line ratios given a sufficiently strong source, but such a source is not present in the BN/KL outflow.
+The data are consistent with shocks as the H$_2$ heating source. 

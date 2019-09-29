@@ -1,0 +1,16 @@
+The delay-time distribution (DTD) of Type-Ia supernovae (SNe-Ia) is a valuable probe of SN Ia progenitors
+and physics. The SN-Ia rate in galaxy clusters as a function of cluster redshift is an almost-direct
+measure of the DTD, but current estimates have been limited out to a mean redshift z=1.1, corresponding
+to time delays, after cluster star-formation, of >3.2 Gyr. We analyze data from a Hubble Space Telescope
+monitoring project of 12 galaxy clusters at z=1.13-1.75, where we discover 29 SN candidates, and
+present their multi-band light curves. Based on the SN photometry and the apparent host galaxies,
+we estimate that 9 cases are likely SNe-Ia in cluster galaxies and 6 more are possible, but not certain,
+cluster SNe-Ia. We simulate the SN detection efficiency and completeness, and perform photometry
+of the cluster galaxies to derive the cluster stellar masses. With this input, we obtain a mean z=1.35
+cluster SN-Ia rate per unit formed stellar mass of R=2.4(+3.4-1.6)e-13/yr/Msun. Separating into
+low-z (z=1.25) and high-z (z=1.58) bins, the rates are R=1.9(+2.8-1.4)e-13/yr/Msun, and R=3.5(+6.6-2.8)e-13/yr/Msun.
+Together with previously measured cluster SN-Ia rates, we fit the DTD, now down to delays of 1.5 Gyr,
+with a power-law dependence, t^alpha, and find alpha=-1.30(+0.24-0.15). We confirm previous
+indications for a SN Ia production efficiency several times higher in galaxy clusters than in the
+field, perhaps caused by a peculiar stellar initial mass function in clusters, or by a higher incidence
+of tight binaries. 

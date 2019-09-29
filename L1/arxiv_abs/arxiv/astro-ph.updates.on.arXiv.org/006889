@@ -1,0 +1,16 @@
+With our neutron star crust cooling code {\tt NSCool} we track the thermal evolution of the neutron
+star in Aql X$-$1 over the full accretion outburst history from 1996 until 2015. For the first time,
+we model many outbursts (23 outbursts were detected) collectively and in great detail. This allows
+us to investigate the influence of previous outbursts on the internal temperature evolution and
+to test different neutron star crust cooling scenarios. Aql X$-$1 is an ideal test source for this
+purpose, because it shows frequent, short outbursts and thermally dominated quiescence spectra.
+The source goes into outburst roughly once a year for a few months. Assuming that the quiescent {\it
+Swift}/XRT observations of Aql X$-$1 can be explained within the crust cooling scenario (Waterhouse
+et al. 2016), we find three main conclusions. Firstly, the data are well reproduced by our model if
+the envelope composition and shallow heating parameters are allowed to change between outbursts.
+This is not the case if both shallow heating parameters (strength and depth) are tied throughout
+all accretion episodes, supporting earlier results that the properties of the shallow heating
+mechanism are not constant between outbursts. Second, from our models shallow heating could not
+be connected to one specific spectral state during outburst. Third, and most importantly, we find
+that the neutron star in Aql X$-$1 does not have enough time between outbursts to cool down to crust-core
+equilibrium and that heating during one outburst influences the cooling curves of the next. 

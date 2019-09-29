@@ -1,0 +1,15 @@
+We prove an inequality on decision trees on monotonic measures which generalizes the OSSS inequality
+on product spaces. As an application, we use this inequality to prove a number of new results on lattice
+spin models and their random-cluster representations. More precisely, we prove that 1. For the
+Potts model on transitive graphs, correlations decay exponentially fast for $\beta<\beta_c$.
+2. For the random-cluster model with cluster weight $q\geq1$ on transitive graphs, correlations
+decay exponentially fast in the subcritical regime and the cluster-density satisfies the mean-field
+lower bound in the supercritical regime. 3. For the random-cluster models with cluster weight $q\geq1$
+on planar quasi-transitive graphs $\mathbb{G}$, $$\frac{p_c(\mathbb{G})p_c(\mathbb{G}^*)}{(1-p_c(\mathbb{G}))(1-p_c(\mathbb{G}^*))}~=~q.$$
+As a special case, we obtain the value of the critical point for the square, triangular and hexagonal
+lattices (this provides a short proof of the result of Beffara and Duminil-Copin [Probability Theory
+and Related Fields, 153(3-4):511--542, 2012]). These results have many applications for the understanding
+of the subcritical (respectively disordered) phase of all these models. The techniques developed
+in this paper have potential to be extended to a wide class of models including the Ashkin-Teller
+model, continuum percolation models such as Voronoi percolation and Boolean percolation, super-level
+sets of massive Gaussian Free Field, and random-cluster and Potts model with infinite range interactions.

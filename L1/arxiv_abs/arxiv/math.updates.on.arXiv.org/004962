@@ -1,0 +1,16 @@
+A self-avoiding walk (SAW) is a path on a graph that visits each vertex at most once. The mean square
+displacement of an $n$-step SAW is the expected value of the square of the distance between the ending
+point and the starting point of an $n$-step SAW, where the expectation is taken with respect to the
+uniform measure on $n$-step SAWs starting from a fixed vertex. It is conjectured that the mean square
+displacement of an $n$-step SAW is asymptotically $n^{2\nu}$, where $\nu$ is a constant. Computing
+the exact values of the exponent $\nu$ on various graphs has been a challenging problem in mathematical
+and scientific research for long. In this paper we show that on any locally finite Cayley graph of
+an infinite, finitely-generated group with more than two ends, the number of SAWs whose end-to-end
+distances are linear in lengths has the same exponential growth rate as the number of all the SAWs.
+We also prove that for any infinite, finitely-generated group with more than one end, there exists
+a locally finite Cayley graph on which SAWs have positive speed - this implies that the mean square
+displacement exponent $\nu=1$ on such graphs. These results are obtained by proving more general
+theorems for SAWs on quasi-transitive graphs with more than one end, which make use of a variation
+of Kesten's pattern theorem in a surprising way, as well as the Stalling's splitting theorem. Applications
+include proving that SAWs have positive speed on the square grid in an infinite cylinder, and on the
+infinite free product graph of two connected, quasi-transitive graphs. 

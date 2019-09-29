@@ -1,0 +1,15 @@
+We investigate dust obscuration as parameterised by the infrared excess IRX$\equiv$$L_{\rm IR}/L_{\rm
+UV}$ in relation to global galaxy properties, using a sample of $\sim$32$\,$000 local star-forming
+galaxies (SFGs) selected from SDSS, GALEX and WISE. We show that IRX generally correlates with stellar
+mass ($M_\ast$), star formation rate (SFR), gas-phase metallicity ($Z$), infrared luminosity
+($L_{\rm IR}$) and the half-light radius ($R_{\rm e}$). A weak correlation of IRX with axial ratio
+(b/a) is driven by the inclination and thus seen as a projection effect. By examining the tightness
+and the scatter of these correlations, we find that SFGs obey an empirical relation of the form $IRX$=$10^\alpha\,(L_{\rm
+IR})^{\beta}\,R_{\rm e}^{-\gamma}\,(b/a)^{-\delta}$ where the power-law indices all increase
+with metallicity. The best-fitting relation yields a scatter of $\sim$0.17$\,$dex and no dependence
+on stellar mass. Moreover, this empirical relation also holds for distant SFGs out to $z=3$ in a population-averaged
+sense, suggesting it to be universal over cosmic time. Our findings reveal that IRX approximately
+increases with $L_{\rm IR}/R_{\rm e}^{[1.3 - 1.5]}$ instead of $L_{\rm IR}/R_{\rm e}^{2}$ (i.e.,
+surface density). We speculate this may be due to differences in the spatial extent of stars versus
+star formation and/or complex star-dust geometries. We conclude that not stellar mass but IR luminosity,
+metallicity and galaxy size are the key parameters jointly determining dust obscuration in SFGs.

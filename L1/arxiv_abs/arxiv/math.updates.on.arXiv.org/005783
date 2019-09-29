@@ -1,0 +1,17 @@
+In this paper we derive a novel fourth order gauge-invariant phenomenological model of infinitesimal
+rate-independent gradient plasticity with isotropic hardening and Kr\"oner's incompatibility
+tensor $inc(\epsilon_p):= Curl[(Curl \epsilon_p)^T]$, where $\epsilon_p=sym p$ is the symmetric
+infinitesimal plastic strain tensor and $p$ is the (non-symmetric) infinitesimal plastic distortion.
+Here, gauge-invariance denotes invariance under diffeomorphic reparametrizations of the reference
+configuration, suitably adapted to the geometrically linear setting. The model features a defect
+energy contribution which is quadratic in the tensor $inc(\epsilon_p)$ and it contains isotropic
+hardening based on the rate of the symmetric infinitesimal plastic strain tensor $\dot{\epsilon_p}$.
+We motivate the new model by introducing a novel rotational invariance requirement in gradient
+plasticity, which we call micro-randomness, suitable for the description of polycrystalline
+aggregates on a mesoscopic scale and not coinciding with classical isotropy requirements. This
+new condition effectively reduces the increments of the non-symmetric infinitesimal plastic
+distortion $\dot{p}$ to their symmetric counterpart $\dot{\epsilon_p}$. In the polycrystalline
+case, this condition is a statement about insensitivity to arbitrary superposed grain rotations.
+We formulate a mathematical existence result for a suitably regularized non-gauge-invariant
+model. The regularized model is rather invariant under reparametrizations of the reference configuration
+including infinitesimal conformal mappings. 

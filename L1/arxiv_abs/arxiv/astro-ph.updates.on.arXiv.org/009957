@@ -1,0 +1,17 @@
+The near-infrared background between 0.5 $\mu$m to 2 $\mu$m contains a wealth of information related
+to radiative processes in the universe. Infrared background anisotropies encode the redshift-weighted
+total emission over cosmic history, including any spatially diffuse and extended contributions.
+The anisotropy power spectrum is dominated by undetected galaxies at small angular scales and diffuse
+background of Galactic emission at large angular scales. In addition to these known sources, the
+infrared background also arises from intra-halo light (IHL) at $z < 3$ associated with tidally-stripped
+stars during galaxy mergers. Moreover, it contains information on the very first galaxies from
+the epoch of reionization (EoR). The EoR signal has a spectral energy distribution (SED) that goes
+to zero near optical wavelengths due to Lyman absorption, while other signals have spectra that
+vary smoothly with frequency. Due to differences in SEDs and spatial clustering, these components
+may be separated in a multi-wavelength-fluctuation experiment. To study the extent to which EoR
+fluctuations can be separated in the presence of IHL, extra-galactic and Galactic foregrounds,
+we develop a maximum likelihood technique that incorporates a full covariance matrix among all
+the frequencies at different angular scales. We apply this technique to simulated deep imaging
+data over a 2$\times$100 deg$^2$ sky area from 0.75 $\mu$m to 5 $\mu$m in 9 bands and find that such
+a "frequency tomography" can successfully reconstruct both the amplitude and spectral shape for
+representative EoR, IHL and the foreground signals. 

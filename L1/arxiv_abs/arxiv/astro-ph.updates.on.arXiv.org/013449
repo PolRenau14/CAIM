@@ -1,0 +1,16 @@
+The Large Synoptic Survey Telescope (LSST) project will conduct a ten year multi-band survey starting
+in 2022. Observing strategies for this survey are being actively investigated, and the science
+capabilities can be best forecasted on the basis of simulated strategies from the LSST Operations
+Simulator (OpSim). OpSim simulates a stochastic realization of the sequence of LSST pointings
+over the survey duration, and is based on a model of the observatory (including telescope) and historical
+data of observational conditions. OpSim outputs contain a record of each simulated pointing of
+the survey along with a complete characterization of the pointing in terms of observing conditions,
+and some useful quantities derived from the characteristics of the pointing. Thus, each record
+can be efficiently used to derive the properties of observations of all astrophysical sources found
+in that pointing. However, in order to obtain the time series of observations (light curves) of a
+set of sources, it is often more convenient to compute all observations of an astrophysical source,
+and iterate over sources. In this document, we describe the open source python package OpSimSummary
+which allows for a convenient reordering. The objectives of this package are to provide users with
+an Application Programming Interface (API) for accessing all such observations and summarizing
+this information in the form intermediate data products usable by third party software such as SNANA,
+thereby also bridging the gap between official LSST products and pre-existing simulation codes.

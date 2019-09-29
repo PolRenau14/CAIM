@@ -1,0 +1,16 @@
+Consider a system of $N$ parallel single-server queues with unit-exponential service time distribution
+and a single dispatcher where tasks arrive as a Poisson process of rate $\lambda(N)$. When a task
+arrives, the dispatcher assigns it to one of the servers according to the Join-the-Shortest Queue
+(JSQ) policy. Eschenfeldt and Gamarnik (2015) identified a novel limiting diffusion process that
+arises as the weak-limit of the appropriately scaled occupancy measure of the system under the JSQ
+policy in the Halfin-Whitt regime, where $(N - \lambda(N)) / \sqrt{N} \to \beta > 0$ as $N \to \infty$.
+The analysis of this diffusion goes beyond the state of the art techniques, and even proving its ergodicity
+is non-trivial, and was left as an open question. Recently, exploiting a generator expansion framework
+via the Stein's method, Braverman (2018) established its exponential ergodicity, and adapting
+a regenerative approach, Banerjee and Mukherjee (2018) analyzed the tail properties of the stationary
+distribution and path fluctuations of the diffusion. However, the analysis of the bulk behavior
+of the stationary distribution, viz., the moments, remained intractable until this work. In this
+paper, we perform a thorough analysis of the bulk behavior of the stationary distribution of the
+diffusion process, and discover that it exhibits surprisingly different qualitative behavior,
+depending on the value of the heavy-traffic parameter $\beta$. Moreover, we obtain precise asymptotic
+laws of the centered and scaled steady state distribution, as $\beta$ tends to 0 and $\infty$. 

@@ -1,0 +1,16 @@
+Swift intensive accretion disk reverberation mapping of four AGN yielded light curves sampled
+$\sim$200-350 times in 0.3-10 keV X-ray and six UV/optical bands. Uniform reduction and cross-correlation
+analysis of these datasets yields three main results: 1) The X-ray/UV correlations are much weaker
+than those within the UV/optical, posing severe problems for the lamp-post reprocessing model
+in which variations in a central X-ray corona drive and power those in the surrounding accretion
+disk. 2) The UV/optical interband lags are generally consistent with $ \tau \propto \lambda^{4/3}
+$ as predicted by the centrally illuminated thin accretion disk model. While the average interband
+lags are somewhat larger than predicted, these results alone are not inconsistent with the thin
+disk model given the large systematic uncertainties involved. 3) The one exception is the U band
+lags, which are on average a factor of $\sim$2.2 larger than predicted from the surrounding band
+data and fits. This excess appears due to diffuse continuum emission from the broad-line region
+(BLR). The precise mixing of disk and BLR components cannot be determined from these data alone.
+The lags in different AGN appear to scale with mass or luminosity. We also find that there are systematic
+differences between the uncertainties derived by javelin vs. more standard lag measurement techniques,
+with javelin reporting smaller uncertainties by a factor of 2.5 on average. In order to be conservative
+only standard techniques were used in the analyses reported herein. 

@@ -1,0 +1,17 @@
+The dramatic relativistic jets pointing directly at us in BL Lac objects can be well modelled by bulk
+motion beaming of synchrotron self-Compton emission powered by a low Eddington fraction accretion
+flow. Nearly 500 of these AGN are seen in the 2nd Fermi Large Area Telescope catalogue of AGN. We combine
+the jet models which describe individual spectra with the expected jet parameter scalings with
+mass and mass accretion rate to predict the expected number of Fermi detected sources given the number
+densities of AGN from cosmological simulations. We select only sources with Eddington scaled mass
+accretion rate $< 0.01$ (i.e. radiatively inefficient flows), and include cooling, orientation
+effects, and the effects of absorption from pair production on the extragalactic IR background.
+These models overpredict the number of Fermi detected BL Lacs by a factor of 1000! This clearly shows
+that one of the underlying assumptions is incorrect, almost certainly that jets do not scale simply
+with mass and accretion rate. The most plausible additional parameter which can affect the region
+producing the Fermi emission is black hole spin. We can reproduce the observed numbers of BL Lacs
+if such relativistic jets are only produced by the highest spin ($a_*>0.8$) black holes, in agreement
+with the longstanding spin-jet paradigm. This also requires that high spins are intrinsically
+rare, as predicted by the cosmological simulations for growing black hole mass via chaotic (randomly
+aligned) accretion episodes, where only the most massive black holes have high spin due to black
+hole-black hole mergers. 

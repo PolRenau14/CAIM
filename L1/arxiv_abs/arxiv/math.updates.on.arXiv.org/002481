@@ -1,0 +1,16 @@
+In this article, we conduct a study of integral operators defined in terms of non-convolution type
+kernels with singularities of various degrees. The operators that fall within our scope of research
+include fractional integrals, fractional derivatives, pseudodifferential operators, Calder\'on-Zygmund
+operators, and many others. The main results of this article are built around the notion of an operator
+calculus that connects operators with different kernel singularities via vanishing moment conditions
+and composition with fractional derivative operators. We also provide several boundedness results
+on weighted and unweighted distribution spaces, including homogeneous Sobolev, Besov, and Triebel-Lizorkin
+spaces, that are necessary and sufficient for the operator's vanishing moment properties, as well
+as certain behaviors for the operator under composition with fractional derivative and integral
+operators. As applications, we prove $T1$ type theorems for singular integral operators with different
+singularities, boundedness results for pseudodifferential operators belonging to the forbidden
+class $S_{1,1}^0$, fractional order and hyper-singular paraproduct boundedness, a smooth-oscillating
+decomposition for singular integrals, sparse domination estimates that quantify regularity
+and oscillation, and several operator calculus results. It is of particular interest that many
+of these results do not require $L^2$-boundedness of the operator, and furthermore, we apply our
+results to some operators that are known not to be $L^2$-bounded. 

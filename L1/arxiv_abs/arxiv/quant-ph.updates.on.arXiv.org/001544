@@ -1,0 +1,17 @@
+Decoherence is a fundamental obstacle to the implementation of large-scale and low-noise quantum
+information processing devices. In this work, we suggest an approach for suppressing errors by
+employing pre-processing and post-processing unitary operations, which precede and follow the
+action of a decoherence channel. In contrast to quantum error correction and measurement-based
+methods, the suggested approach relies on specifically designed unitary operators for a particular
+state without the need in ancillary qubits or post-selection procedures. We consider the case of
+decoherence channels acting on a single qubit belonging to a many-qubit state. Pre-processing
+and post-processing operators can be either individual, that is acting on the qubit effected by
+the decoherence channel only, or collective, that is acting on the whole multi-qubit state. We give
+a classification of possible strategies for the protection scheme, analyze them, and derive expressions
+for the optimal unitary operators providing the maximal value of the fidelity regarding initial
+and final states. Specifically, we demonstrate the equivalence of the schemes where one of the unitary
+operations is individual while the other is collective. We then consider the realization of our
+approach for the basic decoherence models, which include single-qubit depolarizing, dephasing,
+and amplitude damping channels. We also demonstrate that the decoherence robustness of multi-qubit
+states for these decoherence models is determined by the entropy of the reduced state of the qubit
+undergoing the decoherence channel. 

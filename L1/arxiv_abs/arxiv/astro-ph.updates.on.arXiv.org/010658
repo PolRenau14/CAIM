@@ -1,0 +1,16 @@
+We test and improve the numerical schemes in our smoothed particle hydrodynamics (SPH) code for
+cosmological simulations, including the pressure-entropy formulation (PESPH), a time-dependent
+artificial viscosity, a refined timestep criterion, and metal-line cooling that accounts for
+photoionisation in the presence of a recently refined Haardt \& Madau (2012) model of the ionising
+background. The PESPH algorithm effectively removes the artificial surface tension present in
+the traditional SPH formulation, and in our test simulations it produces better qualitative agreement
+with mesh-code results for Kelvin-Helmholtz instability and cold cloud disruption. Using a set
+of cosmological simulations, we examine many of the quantities we have studied in previous work.
+Results for galaxy stellar and HI mass functions, star formation histories, galaxy scaling relations,
+and statistics of the Ly$\alpha$ forest are robust to the changes in numerics and microphysics.
+As in our previous simulations, cold gas accretion dominates the growth of high-redshift galaxies
+and of low mass galaxies at low redshift, and recycling of winds dominates the growth of massive galaxies
+at low redshift. However, the PESPH simulation removes spurious cold clumps seen in our earlier
+simulations, and the accretion rate of hot gas increases by up to an order of magnitude at some redshifts.
+The new numerical model also influences the distribution of metals among gas phases, leading to
+considerable differences in the statistics of some metal absorption lines, most notably NeVIII.

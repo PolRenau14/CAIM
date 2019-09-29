@@ -1,0 +1,17 @@
+By the continuous mapping theorem, if a sequence of $d$-dimensional random vectors $(\mathbf{W}_n)_{n\geq1}$
+converges in distribution to a multivariate normal random variable $\Sigma^{1/2}\mathbf{Z}$,
+then the sequence of random variables $(g(\mathbf{W}_n))_{n\geq1}$ converges in distribution
+to $g(\Sigma^{1/2}\mathbf{Z})$ if $g:\mathbb{R}^d\rightarrow\mathbb{R}$ is continuous.
+In this paper, we develop Stein's method for the problem of deriving explicit bounds on the distance
+between $g(\mathbf{W}_n)$ and $g(\Sigma^{1/2}\mathbf{Z})$ with respect to smooth probability
+metrics. We obtain several bounds for the case that the $j$-component of $\mathbf{W}_n$ is given
+by $W_{n,j}=\frac{1}{\sqrt{n}}\sum_{i=1}^nX_{ij}$, where the $X_{ij}$ are independent. In
+particular, provided $g$ satisfies certain differentiability and growth rate conditions, we
+obtain an order $n^{-(p-1)/2}$ bound, for smooth test functions, if the first $p$ moments of the
+$X_{ij}$ agree with those of the normal distribution. If $p$ is an even integer and $g$ is an even function,
+this convergence rate can be improved further to order $n^{-p/2}$. These convergence rates are
+shown to be of optimal order. We apply our general bounds to some examples, which include the distributional
+approximation of asymptotically chi-square distributed statistics; the approximation of expectations
+of smooth functions of binomial and Poisson random variables; rates of convergence in the delta
+method; and a quantitative variance-gamma approximation of the $D_2^*$ statistic for alignment-free
+sequence comparison in the case of binary sequences. 

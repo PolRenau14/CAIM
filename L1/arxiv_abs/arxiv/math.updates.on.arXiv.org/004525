@@ -1,0 +1,16 @@
+A common approach to analyzing categorical correlated time series data is to fit a generalized linear
+model (GLM) with past data as covariate inputs. There remain challenges to conducting inference
+for short time series length. By treating the historical data as covariate inputs, standard errors
+of estimates of GLM parameters computed using the empirical Fisher information do not fully account
+the auto-correlation in the data. To overcome this serious limitation, we derive the exact conditional
+Fisher information matrix of a general logistic autoregressive model with endogenous covariates
+for any series length $T$. Moreover, we also develop an iterative computational formula that allows
+for relatively easy implementation of the proposed estimator. Our simulation studies show that
+confidence intervals derived using the exact Fisher information matrix tend to be narrower than
+those utilizing the empirical Fisher information matrix while maintaining type I error rates at
+or below nominal levels. Further, we establish that the exact Fisher information matrix approaches,
+as T tends to infinity, the asymptotic Fisher information matrix previously derived for binary
+time series data. The developed exact conditional Fisher information matrix is applied to time-series
+data on respiratory rate among a cohort of expectant mothers where it is found to provide narrower
+confidence intervals for functionals of scientific interest and lead to greater statistical power
+when compared to the empirical Fisher information matrix. 

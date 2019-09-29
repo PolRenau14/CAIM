@@ -1,0 +1,16 @@
+This two-part paper considers the strategic topology switching for the second-order multi-agent
+systems under a special class of stealthy attacks, namely the "zero-dynamics" attack. The main
+mathematical tool proposed here to prevent such attacks is strategically switching the network
+topology to detect a possible zero-dynamics attack. However, it is not clear a priori that such a
+switching strategy will simplify control protocol and still yield consensus, while maintaining
+the advantages of traditional control protocols, in this switched system in the normal (un-attacked)
+operation mode. In Part I, we propose a strategy on switching times that enables the strategic topology-switching
+algorithm proposed in Part II~\cite{mao2017strategic} to reach the second-order consensus in
+the absence of a zero-dynamics attack. The control protocol introduced is governed only by the relative
+positions of agents. Based on the stability of switched linear systems with unstable subsystems,
+and the property of the multi-agent systems under fixed topology, the strategy on dwell time of topology-switching
+signal is derived. Employing this strategy, a decentralized time-dependent topology-switching
+algorithm is proposed. The primary advantages of the proposed algorithm are: (i) the control protocol
+relies only on relative position measurements (no velocity measurements are needed); (ii) it does
+not impose any constraint on the magnitudes of coupling weights. The aforementioned theoretical
+results are supported by the numerical evidence obtained via simulations. 

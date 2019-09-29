@@ -1,0 +1,17 @@
+We report on experimental observations on the modifications in the propagation characteristics
+of precursor solitons due to the different shapes and sizes of the object over which the dust fluid
+flows. The experiments have been performed in a $\Pi$ shaped Dusty Plasma Experimental (DPEx) device
+where dusty plasma is created in a DC glow discharge Ar plasma using kaolin particles. A floating
+copper wire installed radially on the cathode, acts as a charged object in the plasma environment.
+The flow on the dust fluid is initiated by suddenly lowering the potential of the charged object from
+grounded potential to close to floating potential. The size (height and width) of the potential
+hill is then varied by drawing current from the wire through a variable resistance. With a decrease
+in the height of the potential hill, the amplitude, velocity and the number of exciting precursor
+solitons are found to decrease whereas the widths of the solitons are seen to increase. It is found
+that below a threshold value these solitary waves are not excited and the dust fluid simply flows
+over the hill. To examine the effect due to the shape of the potential profiles, the wire is replaced
+by a triangular object. Only trailing wakes are seen to be excited when the dust fluid faces the linearly
+increasing slope of the potential profile whereas both solitons and wakes get excited when the object
+is placed with the sharp edge facing the flow. All the experimental findings qualitatively agree
+with numerical solutions obtained with different source terms in the forced-Korteweg de Vries
+(f-KdV) model equation. 

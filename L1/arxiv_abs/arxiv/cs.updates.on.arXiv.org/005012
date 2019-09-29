@@ -1,0 +1,16 @@
+String attractors [STOC 2018] are combinatorial objects recently introduced to unify all known
+dictionary compression techniques in a single theory. A set $\Gamma\subseteq [1..n]$ is a $k$-attractor
+for a string $S\in[1..\sigma]^n$ if and only if every distinct substring of $S$ of length at most
+$k$ has an occurrence straddling at least one of the positions in $\Gamma$. Finding the smallest
+$k$-attractor is NP-hard for $k\geq3$, but polylogarithmic approximations can be found using
+reductions from dictionary compressors. It is easy to reduce the $k$-attractor problem to a set-cover
+instance where string's positions are interpreted as sets of substrings. The main result of this
+paper is a much more powerful reduction based on the truncated suffix tree. Our new characterization
+of the problem leads to more efficient algorithms for string attractors: we show how to check the
+validity and minimality of a $k$-attractor in near-optimal time and how to quickly compute exact
+and approximate solutions. For example, we prove that a minimum $3$-attractor can be found in optimal
+$O(n)$ time when $\sigma\in O(\sqrt[3+\epsilon]{\log n})$ for any constant $\epsilon>0$, and
+$2.45$-approximation can be computed in $O(n)$ time on general alphabets. To conclude, we introduce
+and study the complexity of the closely-related sharp-$k$-attractor problem: to find the smallest
+set of positions capturing all distinct substrings of length exactly $k$. We show that the problem
+is in P for $k=1,2$ and is NP-complete for constant $k\geq 3$. 

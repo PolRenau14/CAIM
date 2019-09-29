@@ -1,0 +1,16 @@
+The Adaptive Lasso(Alasso) was proposed by Zou [\textit{J. Amer. Statist. Assoc. \textbf{101}
+(2006) 1418-1429}] as a modification of the Lasso for the purpose of simultaneous variable selection
+and estimation of the parameters in a linear regression model. Zou (2006) established that the Alasso
+estimator is variable-selection consistent as well as asymptotically Normal in the indices corresponding
+to the nonzero regression coefficients in certain fixed-dimensional settings. In an influential
+paper, Minnier, Tian and Cai [\textit{J. Amer. Statist. Assoc. \textbf{106} (2011) 1371-1382}]
+proposed a perturbation bootstrap method and established its distributional consistency for
+the Alasso estimator in the fixed-dimensional setting. In this paper, however, we show that this
+(naive) perturbation bootstrap fails to achieve second order correctness in approximating the
+distribution of the Alasso estimator. We propose a modification to the perturbation bootstrap
+objective function and show that a suitably studentized version of our modified perturbation bootstrap
+Alasso estimator achieves second-order correctness even when the dimension of the model is allowed
+to grow to infinity with the sample size. As a consequence, inferences based on the modified perturbation
+bootstrap will be more accurate than the inferences based on the oracle Normal approximation. We
+give simulation studies demonstrating good finite-sample properties of our modified perturbation
+bootstrap method as well as an illustration of our method on a real data set. 

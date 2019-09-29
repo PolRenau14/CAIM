@@ -1,0 +1,16 @@
+We introduce an updated physical model to simulate the formation and evolution of galaxies in cosmological,
+large-scale gravity+magnetohydrodynamical simulations with the moving mesh code AREPO. The
+overall framework builds upon the successes of the Illustris galaxy formation model, and includes
+prescriptions for star formation, stellar evolution, chemical enrichment, primordial and metal-line
+cooling of the gas, stellar feedback with galactic outflows, and black hole formation, growth and
+multi-mode feedback. In this paper we give a comprehensive description of the physical and numerical
+advances which form the core of the IllustrisTNG (The Next Generation) framework. We focus on the
+revised implementation of the galactic winds, of which we modify the directionality, velocity,
+thermal content, and energy scalings, and explore its effects on the galaxy population. As described
+in earlier works, the model also includes a new black hole driven kinetic feedback at low accretion
+rates, magnetohydrodynamics, and improvements to the numerical scheme. Using a suite of (25 Mpc
+$h^{-1}$)$^3$ cosmological boxes we assess the outcome of the new model at our fiducial resolution.
+The presence of a self-consistently amplified magnetic field is shown to have an important impact
+on the stellar content of $10^{12} M_{\rm sun}$ haloes and above. Finally, we demonstrate that the
+new galactic winds promise to solve key problems identified in Illustris in matching observational
+constraints and affecting the stellar content and sizes of the low mass end of the galaxy population.

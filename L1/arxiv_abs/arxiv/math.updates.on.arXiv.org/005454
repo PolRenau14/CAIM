@@ -1,0 +1,16 @@
+Recently, Peeva and the second author constructed irreducible projective varieties with regularity
+much larger than their degree, yielding counterexamples to the Eisenbud-Goto Conjecture. Their
+construction involved two new ideas: Rees-like algebras and step-by-step homogenization. Yet,
+all of these varieties are singular and the nature of the geometry of these projective varieties
+was left open. The purpose of this paper is to study the singularities inherent in this process. We
+compute the codimension of the singular locus of an arbitrary Rees-like algebra over a polynomial
+ring. We then show that the relative size of the singular locus can increase under step-by-step homogenization.
+To address this defect, we construct a new process, we call prime standardization, which plays a
+similar role as step-by-step homogenization but also preserves the codimension of the singular
+locus. This is derived from ideas of Ananyan and Hochster and we use this to study the regularity of
+certain smooth hyperplane sections of Rees-like algebras, showing that they all satisfy the Eisenbud-Goto
+Conjecture, as expected. On a more qualitative note, while Rees-like algebras are almost never
+Cohen-Macaulay and never normal, we characterize when they are seminormal, weakly normal, and,
+in positive characteristic, F-split. Finally, we construct a finite free resolution of the canonical
+module of a Rees-like Algebra over the presenting polynomial ring showing that it is always Cohen-Macaulay
+and has a surprising self-dual structure. 

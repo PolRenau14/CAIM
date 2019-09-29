@@ -1,0 +1,17 @@
+Several experiments show that the three dimensional (3D) organization of chromosomes affects
+genetic processes such as transcription and gene regulation. To better understand this connection,
+researchers developed the Hi-C method that is able to detect the pairwise physical contacts of all
+chromosomal loci. The Hi-C data shows that chromosomes are composed of 3D compartments that range
+over a variety of scales. However, it is challenging to systematically detect these cross-scale
+structures. Most studies have therefore designed methods for specific scales to study foremost
+topologically associated domains (TADs) and A/B compartments. To go beyond this limitation, we
+tailor a network community detection method that finds communities in compact fractal globule
+polymer systems. Our method allows us to continuously scan through all scales with a single resolution
+parameter. We found: (i) polymer segments belonging to the same 3D community do not have to be in consecutive
+order along the polymer chain. In other words, several TADs may belong to the same 3D community. (ii)
+CTCF proteins---a loop-stabilizing protein that is ascribed a big role in TAD formation---are
+correlated well with community borders only at one level of organization. (iii) TADs and A/B compartments
+are traditionally treated as two weakly related 3D structures and detected with different algorithms.
+With our method, we detect both by simply adjusting the resolution parameter. We therefore argue
+that they represent two specific levels of a continuous spectrum 3D communities, rather than seeing
+them as different structural entities. 

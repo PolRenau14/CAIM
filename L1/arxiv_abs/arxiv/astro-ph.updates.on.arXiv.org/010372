@@ -1,0 +1,16 @@
+We derive a self-similar description for the 2D streamline topology and flow structure of an axi-symmetric,
+thermally driven wind originating from a disc in which the density is a power law function of radius.
+Our scale-free solution is strictly only valid in the absence of gravity or centrifugal support;
+comparison with 2D hydrodynamic simulations of winds from Keplerian discs however demonstrates
+that the scale-free solution is a good approximation also in the outer regions of such discs, and
+can provide a reasonable description even for launch radii well within the gravitational radius
+of the flow. Although other authors have considered the flow properties along streamlines whose
+geometry has been specified in advance, this is the first isothermal calculation in which the flow
+geometry and variation of flow variables along streamlines is determined self-consistently.
+It is found that the flow trajectory is very sensitive to the power-law index of radial density variation
+in the disc: the steeper the density gradient, the stronger is the curvature of streamlines close
+to the flow base that is required in order to maintain momentum balance perpendicular to the flow.
+Steeper disc density profiles are also associated with more rapid acceleration, and a faster fall-off
+of density, with height above the disc plane. The derivation of a set of simple governing equations
+for the flow structure of thermal winds from the outer regions of power law discs offers the possibility
+of deriving flow observables without having to resort to hydrodynamical simulation. 

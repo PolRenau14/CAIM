@@ -1,0 +1,17 @@
+Partial measurements of relative position are a relatively common event during the observation
+of visual binary stars. However, these observations are typically discarded when estimating the
+orbit of a visual pair. In this article we present a novel framework to characterize the orbits from
+a Bayesian standpoint, including partial observations of relative position as an input for the
+estimation of orbital parameters. Our aim is to formally incorporate the information contained
+in those partial measurements in a systematic way into the final inference. In the statistical literature,
+an imputation is defined as the replacement of a missing quantity with a plausible value. To compute
+posterior distributions of orbital parameters with partial observations, we propose a technique
+based on Markov chain Monte Carlo with multiple imputation. We present the methodology and test
+the algorithm with both synthetic and real observations, studying the effect of incorporating
+partial measurements in the parameter estimation. Our results suggest that the inclusion of partial
+measurements into the characterization of visual binaries may lead to a reduction in the uncertainty
+associated to each orbital element, in terms of a decrease in dispersion measures (such as the interquartile
+range) of the posterior distribution of relevant orbital parameters. The extent to which the uncertainty
+decreases after the incorporation of new data (either complete or partial) depends on how informative
+those newly-incorporated measurements are. Quantifying the information contained in each measurement
+remains an open issue. 

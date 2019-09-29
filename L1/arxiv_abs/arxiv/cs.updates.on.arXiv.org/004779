@@ -1,0 +1,16 @@
+In multiple-input multiple-output (MIMO) fading channels, the design criterion for full-diversity
+space-time block codes (STBCs) is primarily determined by the decoding method at the receiver.
+Although constructions of STBCs have predominantly matched the maximum-likelihood (ML) decoder,
+design criteria and constructions of full-diversity STBCs have also been reported for low-complexity
+linear receivers. A new receiver architecture called Integer-Forcing (IF) linear receiver has
+been proposed to MIMO channels by Zhan et al. which showed promising results for the high-rate V-BLAST
+encoding scheme. In this paper, we address the design of full-diversity STBCs for IF linear receivers.
+In particular, we are interested in characterizing the structure of STBCs that provide full-diversity
+with the IF receiver. Along that direction, we derive an upper bound on the probability of decoding
+error, and show that STBCs that satisfy the restricted non-vanishing singular value (RNVS) property
+provide full-diversity for the IF receiver. Furthermore, we prove that all known STBCs with the
+non-vanishing determinant property provide full-diversity with IF receivers, as they guarantee
+the RNVS property. By using the formulation of RNVS property, we also prove the existence of a full-diversity
+STBC outside the class of perfect STBCs, thereby adding significant insights compared to the existing
+works on STBCs with IF decoding. Finally, we present extensive simulation results to demonstrate
+that linear designs with RNVS property provide full-diversity for IF receiver. 

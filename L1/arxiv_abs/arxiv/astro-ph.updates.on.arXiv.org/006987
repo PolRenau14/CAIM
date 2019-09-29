@@ -1,0 +1,16 @@
+We present the first short time-scale ($\sim$hours to days) optical variability study of a large
+sample of Active Galactic Nuclei (AGN) observed with the Kepler/K2 mission. The sample contains
+252 AGN observed over four campaigns with $\sim 30$ minute cadence selected from the Million Quasar
+Catalogue with R magnitude $< 19$. We performed time series analysis to determine their variability
+properties by means of the power spectral densities (PSDs) and applied Monte Carlo techniques to
+find the best model parameters that fit the observed power spectra. A power-law model is sufficient
+to describe all the PSDs of our sample. A variety of power-law slopes were found indicating that there
+is not a universal slope for all AGN. We find that the rest-frame amplitude variability in the frequency
+range of $6\times10^{-6}-10^{-4}$ Hz varies from $1-10$ % with an average of 1.7 %. We explore correlations
+between the variability amplitude and key parameters of the AGN, finding a significant correlation
+of rest-frame short-term variability amplitude with redshift. We attribute this effect to the
+known "bluer when brighter" variability of quasars combined with the fixed bandpass of Kepler data.
+This study also enables us to distinguish between Seyferts and Blazars and confirm AGN candidates.
+For our study we have compared results obtained from light curves extracted using different aperture
+sizes and with and without de-trending. We find that limited de-trending of the optimal photometric
+precision light curve is the best approach, although some systematic effects still remain present.

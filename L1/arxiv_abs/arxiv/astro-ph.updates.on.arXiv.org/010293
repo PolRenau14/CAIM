@@ -1,0 +1,16 @@
+We present a detailed analysis of the properties of twisted, force-free magnetospheres of non-rotating
+neutron stars, which are of interest in the modelling of magnetar properties and evolution. In our
+models the magnetic field smoothly matches to a current-free (vacuum) solution at some large external
+radius, and they are specifically built to avoid pathological surface currents at any of the interfaces.
+By exploring a large range of parameters, we find a few remarkable general trends. We find that the
+total dipolar moment can be increased by up to $40\%$ with respect to a vacuum model with the same surface
+magnetic field, due to the contribution of magnetospheric currents to the global magnetic field.
+Thus, estimates of the surface magnetic field based on the large-scale dipolar braking torque are
+slightly overestimating the surface value by the same amount. Consistently, there is a moderate
+increase in the total energy of the model with respect to the vacuum solution of up to $25\%$, which
+would be the available energy budget in the event of a fast, global magnetospheric reorganization
+commonly associated with magnetar flares. We have also found the interesting result of the existence
+of a critical twist ($\varphi_{\rm max} \lesssim 1.5$ rad), beyond which we cannot find any more
+numerical solutions. Combining the models considered in this paper with the evolution of the interior
+of neutron stars will allow us to study the influence of the magnetosphere on the long-term magnetic,
+thermal, and rotational evolution. 

@@ -1,0 +1,16 @@
+Despite the hypothesized similar face-on viewing angles, the infrared emission of type-1 AGNs
+has diverse spectral energy distribution (SED) shapes that deviate substantially from the well-characterized
+quasar templates. Motivated by the commonly-seen UV-optical obscuration and the discovery of
+parsec-scale mid-IR polar dust emission in some nearby AGNs, we develop semi-empirical SED libraries
+for reddened type-1 AGNs built on the quasar intrinsic templates, assuming low-level extinction
+caused by an extended distribution of large dust grains. We demonstrate that this model can reproduce
+the nuclear UV-to-IR SED and the strong mid-IR polar dust emission of NGC 3783, the type-1 AGN with
+the most relevant and robust observational constraints. In addition, we compile 64 low-$z$ Seyfert-1
+nuclei with negligible mid-IR star formation contamination and satisfactorily fit the individual
+IR SEDs as well as the composite UV to mid-IR composite SEDs. Given the success of these fits, we characterize
+the possible infrared SED of AGN polar dust emission and utilize a simple but effective strategy
+to infer its prevalence among type-1 AGNs. The SEDs of high-$z$ peculiar AGNs, including the extremely
+red quasars, mid-IR warm-excess AGNs, and hot dust-obscured galaxies, can be also reproduced by
+our model. These results indicate that the IR SEDs of most AGNs, regardless of redshift or luminosity,
+arise from similar circumnuclear torus properties but differ mainly due to the optical depths of
+extended obscuring dust components. 

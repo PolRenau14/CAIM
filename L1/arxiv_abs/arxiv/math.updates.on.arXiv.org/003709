@@ -1,0 +1,16 @@
+This work aims to design the uplink (UL) of a cellular network for maximal energy efficiency (EE).
+Each base station (BS) is randomly deployed within a given area and is equipped with $M$ antennas
+to serve $K$ user equipments (UEs). A multislope (distance-dependent) path loss model is considered
+and linear processing is used, under the assumption that channel state information is acquired
+by using pilot sequences (reused across the network). Within this setting, a lower bound on the UL
+spectral efficiency and a realistic circuit power consumption model are used to evaluate the network
+EE. Numerical results are first used to compute the optimal BS density and pilot reuse factor for
+a Massive MIMO network with three different detection schemes, namely, maximum ratio combining,
+zero-forcing (ZF) and multicell minimum mean-squared error. The numerical analysis shows that
+the EE is a unimodal function of BS density and achieves its maximum for a relatively small density
+of BS, irrespective of the employed detection scheme. This is in contrast to the single-slope (distance-independent)
+path loss model, for which the EE is a monotonic non-decreasing function of BS density. Then, we concentrate
+on ZF and use stochastic geometry to compute a new lower bound on the spectral efficiency, which is
+then used to optimize, for a given BS density, the pilot reuse factor, number of BS antennas and UEs.
+Closed- form expressions are computed from which valuable insights into the interplay between
+optimization variables, hardware characteristics, and propagation environment are obtained.

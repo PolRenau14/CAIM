@@ -1,0 +1,16 @@
+We describe additive (unstable) operations from a theory A^* obtained from Algebraic Cobordism
+of M.Levine-F.Morel by change of coefficients to any oriented cohomology theory B^*. We prove that
+there is 1-to-1 correspondence between the set of operations, and the set of transformations: A^n((P^{\infty})^{\times
+r}) ---> B^m((P^{\infty})^{\times r}) satisfying certain simple properties. This provides an
+effective tool of constructing such operations. As an application, we prove that (unstable) additive
+operations in Algebraic Cobordism are in 1-to-1 correspondence with the L\otimes_Z Q-linear combinations
+of Landweber-Novikov operations which take integral values on the products of projective spaces.
+On our way we obtain that stable operations there are exactly L-linear combinations of Landweber-Novikov
+operations. We also show that multiplicative operations A^* ---> B^* are in 1-to-1 correspondence
+with the morphisms of the respective formal group laws. We construct Integral (!) Adams Operations
+in Algebraic Cobordism, and all theories obtained from it by change of coefficients, giving classical
+Adams operations in the case of K_0. Finally, we construct Symmetric Operations for all primes p
+(these operations in Algebraic Cobordism, previously known only for p=2, are more subtle than the
+Landweber-Novikov operations, and have applications to rationality questions), as well as the
+T.tom Dieck - style Steenrod operations in Algebraic Cobordism. As a bi-product of the proof of our
+main theorem we get the Riemann-Roch Theorem for additive (unstable) operations. 

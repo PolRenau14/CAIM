@@ -1,0 +1,16 @@
+The radio luminosity functions (RLFs) of active galactic nuclei (AGNs) are traditionally measured
+based on total emission, which doesn't reflect the current activity of the central black hole. The
+increasing interest in compact radio cores of AGNs requires determination of the RLF based on core
+emission (i.e., core RLF). In this work we have established a large sample (totaling 1207) of radio-loud
+AGNs, mainly consisting of radio galaxies (RGs) and steep-spectrum radio quasars (SSRQs). Based
+on the sample, we explore the relationship between core luminosity ($L_c$) and total luminosity
+($L_t$) via a powerful statistical tool called "Copula". The conditional probability distribution
+$p(\log L_{c} \mid \log L_{t})$ is obtained. We derive the core RLF as a convolution of $p(\log L_{c}
+\mid \log L_{t})$ with the total RLF which was determined by previous work. We relate the separate
+RG and SSRQ core RLFs via a relativistic beaming model and find that SSRQs have an average Lorentz
+factor of $\gamma=9.84_{-2.50}^{+3.61}$, and that most are seen within $8^{\circ} \lesssim \theta
+\lesssim 45^{\circ}$ of the jet axis. Compared with the total RLF which is mainly contributed by
+extended emission, the core RLF shows a very weak luminosity-dependent evolution, with the number
+density peaking around $z\thicksim 0.8$ for all luminosities. Differences between core and total
+RLFs can be explained in a framework involving a combination of density and luminosity evolutions
+where the cores have significantly weaker luminosity evolution than the extended emission. 

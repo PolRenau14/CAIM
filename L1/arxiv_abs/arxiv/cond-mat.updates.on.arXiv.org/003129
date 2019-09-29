@@ -1,0 +1,16 @@
+A new approach to the Berezinskii-Kosterlitz-Thouless transition in the two-dimensional Coulomb
+gas model is explored by MC simulation and finite size scaling. The usual mapping of a neutral two-dimensional
+superconductor in zero magnetic field to a Coulomb gas leads to an unscreened logarithmic interaction
+between the vortices, and with periodic boundary conditions vortex configurations are always
+vorticity neutral with an equal number of plus and minus vortices. We demonstrate that relaxing
+the neutrality condition has certain advantages. It leads to non-neutral vortex configurations
+that can appear in real systems with open boundary conditions and permits calculation of the compressibility,
+which for thin film superconductors corresponds to the magnetic permeability. The vortex-number
+fluctuation has remarkable scaling properties at and below the Berezinskii-Kosterlitz-Thouless
+transition. The fugacity variable becomes dangerously irrelevant in the low-temperature phase
+and leads to a multiplicative scaling correction to the mean-square vortex-number fluctuation
+and to the magnetic permeability. This multiplicative correction strongly affects the scaling
+properties of the vorticity fluctuation at and below the transition. Consequences of these findings
+are demonstrated using Monte Carlo simulations. Inclusion of the next-higher order correction
+to scaling is found to play an important role in the analysis of numerical data for the vortex number
+fluctuation and permits accurate determination of the critical properties. 

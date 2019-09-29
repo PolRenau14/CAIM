@@ -1,0 +1,16 @@
+In string bit models, the superstring emerges as a very long chain of "bits", in which s fermionic
+degrees of freedom contribute positively to the ground state energy in a way to exactly cancel the
+destabilizing negative contributions of d=s bosonic degrees of freedom. We propose that the physics
+of string formation be studied nonperturbatively in the class of string bit models in which s>d,
+so that a long chain is stable, in contrast to the marginally stable (s=d=8) superstring chain. We
+focus on the simplest of these models with s=1 and d=0, in which the string bits live in zero space dimensions.
+The string bit creation operators are N X N matrices. We choose a Hamiltonian such that the large N
+limit produces string moving in one space dimension, with excitations corresponding to one Grassmann
+lightcone worldsheet field (s=1) and no bosonic worldsheet field (d=0). We study this model at finite
+N to assess the role of the large N limit in the emergence of the spatial dimension. Our results suggest
+that string-like states with large bit number M may not exist for N<(M-1)/2. If this is correct,
+one can have finite chains of string bits, but not continuous string, at finite N. Only for extremely
+large N can such chains behave approximately like continuous string, in which case there will also
+be the (approximate) emergence of a new spatial dimension. In string bit models designed to produce
+critical superstring at N=infinity, we can then expect only approximate Lorentz invariance at
+finite N, with violations of order 1/N^2. 

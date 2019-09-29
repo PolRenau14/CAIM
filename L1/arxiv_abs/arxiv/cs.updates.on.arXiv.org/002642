@@ -1,0 +1,16 @@
+The modeling of networks, specifically generative models, have been shown to provide a plethora
+of information about the underlying network structures, as well as many other benefits behind their
+construction. Recently there has been a considerable increase in interest for the better understanding
+and modeling of networks, but the vast majority of this work has been for unsigned networks. However,
+many networks can have positive and negative links(or signed networks), especially in online social
+media, and they inherently have properties not found in unsigned networks due to the added complexity.
+Specifically, the positive to negative link ratio and the distribution of signed triangles in the
+networks are properties that are unique to signed networks and would need to be explicitly modeled.
+This is because their underlying dynamics are not random, but controlled by social theories, such
+as Structural Balance Theory, which loosely states that users in social networks will prefer triadic
+relations that involve less tension. Therefore, we propose a model based on Structural Balance
+Theory and the unsigned Transitive Chung-Lu model for the modeling of signed networks. Our model
+introduces two parameters that are able to help maintain the positive link ratio and proportion
+of balanced triangles. Empirical experiments on three real-world signed networks demonstrate
+the importance of designing models specific to signed networks based on social theories to obtain
+better performance in maintaining signed network properties while generating synthetic networks.

@@ -1,0 +1,17 @@
+We present a hydro-dynamical simulation at sub-parsec and few solar mass resolution of a merger
+between two gas-rich dwarf galaxies. Our simulation includes a detailed model for the multi-phase
+interstellar medium (ISM) and is able to follow the entire formation history of spatially resolved
+star clusters, including feedback from individual massive stars. Shortly after the merger we find
+a population of $\sim 900$ stellar clusters with masses above $10^{2.5}\; \rm{M_\odot}$ and a cluster
+mass function (CMF), which is well fitted with a power-law with a slope of $\alpha=-1.70\pm0.08$.
+We describe here in detail the formation of the three most massive clusters (M$_{*} \gtrsim 10^5$
+M$_\odot$), which populate the high-mass end of the CMF. The simulated clusters form rapidly on
+a timescale of $6$-$8$ Myr in converging flows of dense gas. The embedded merger phase has extremely
+high star formation rate surface densities of $\Sigma_\mathrm{SFR}>10\; \mathrm{M}_\odot\;
+\mathrm{yr}^{-1}\; \mathrm{kpc}^{-2}$ and thermal gas pressures in excess of $P_{\rm th}\sim10^7
+\; \mathrm{k}_{\rm B}\;(\rm K\;\mathrm{cm}^{-3})^{-1}$. The formation process is terminated
+by rapid gas expulsion driven by the first generation of supernovae, after which the cluster centers
+relax and both their structure and kinematics become indistinguishable from observed local globular
+clusters. The simulation presented here provides a general model for the formation of metal-poor
+globular clusters in chemically unevolved starbursting environments of low-mass dwarf galaxies,
+which are common at high redshifts. 

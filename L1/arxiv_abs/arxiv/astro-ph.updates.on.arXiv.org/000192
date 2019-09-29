@@ -1,0 +1,16 @@
+We describe the construction and general features of VIPERS, the VIMOS Public Extragalactic Redshift
+Survey. This `Large Programme' has been using the ESO VLT with the aim of building a spectroscopic
+sample of ~100,000 galaxies with i_{AB}<22.5 and 0.5<z<1.5. The survey covers a total
+area of ~24 deg^2 within the CFHTLS-Wide W1 and W4 fields. VIPERS is designed to address a broad range
+of problems in large-scale structure and galaxy evolution, thanks to a unique combination of volume
+(~ 5 x 10^7 h^{-3} Mpc^3) and sampling rate (~ 40%), comparable to state-of-the-art surveys of the
+local Universe, together with extensive multi-band optical and near-infrared photometry. Here
+we present the survey design, the selection of the source catalogue and the development of the spectroscopic
+observations. We discuss in detail the overall selection function that results from the combination
+of the different constituents of the project. This includes the masks arising from the parent photometric
+sample and the spectroscopic instrumental footprint, together with the weights needed to account
+for the sampling and the success rates of the observations. Using the catalogue of 53,608 galaxy
+redshifts composing the forthcoming VIPERS Public Data Release 1 (PDR-1), we provide a first assessment
+of the quality of the spectroscopic data. Benefiting from the combination of size and detailed sampling
+of this dataset, we conclude by presenting a map showing in unprecedented detail the large-scale
+distribution of galaxies between 5 and 8 billion years ago. [abridged] 

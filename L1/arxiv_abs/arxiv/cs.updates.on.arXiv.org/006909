@@ -1,0 +1,16 @@
+An advantage of scientific workflow systems is their ability to collect runtime provenance information
+as an execution trace. Traces include the computation steps invoked as part of the workflow run along
+with the corresponding data consumed and produced by each workflow step. The information captured
+by a trace is used to infer "lineage" relationships among data items, which can help answer provenance
+queries to find workflow inputs that were involved in producing specific workflow outputs. Determining
+lineage relationships, however, requires an understanding of the dependency patterns that exist
+between each workflow step's inputs and outputs, and this information is often under-specified
+or generally assumed by workflow systems. For instance, most approaches assume all outputs depend
+on all inputs, which can lead to lineage "false positives". In prior work, we defined annotations
+for specifying detailed dependency relationships between inputs and outputs of computation steps.
+These annotations are used to define corresponding rules for inferring fine-grained data dependencies
+from a trace. In this paper, we extend our previous work by considering the impact of dependency annotations
+on workflow specifications. In particular, we provide a reasoning framework to ensure the set of
+dependency annotations on a workflow specification is consistent. The framework can also infer
+a complete set of annotations given a partially annotated workflow. Finally, we describe an implementation
+of the reasoning framework using answer-set programming. 

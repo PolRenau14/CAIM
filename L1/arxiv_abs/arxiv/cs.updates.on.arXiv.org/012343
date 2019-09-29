@@ -1,0 +1,16 @@
+Utilization of directional antennas is a promising solution for efficient spectrum sensing and
+accurate source localization and tracking. Spectrum sensors equipped with directional antennas
+should constantly scan the space in order to track emitting sources and discover new activities
+in the area of interest. In this paper, we propose a new formulation that unifies received-signal-strength
+(RSS) and direction of arrival (DoA) in a compressive sensing (CS) framework. The underlying CS
+measurement matrix is a function of beamforming vectors of sensors and is referred to as the propagation
+matrix. Comparing to the omni-directional antenna case, our employed propagation matrix provides
+more incoherent projections, an essential factor in the compressive sensing theory. Based on the
+new formulation, we optimize the antenna beams, enhance spectrum sensing efficiency, track active
+primary users accurately and monitor spectrum activities in an area of interest. In many practical
+scenarios there is no fusion center to integrate received data from spectrum sensors. We propose
+the distributed version of our algorithm for such cases. Experimental results show a significant
+improvement in source localization accuracy, compared with the scenario when sensors are equipped
+with omni-directional antennas. Applicability of the proposed framework for dynamic radio cartography
+is shown. Moreover, comparing the estimated dynamic RF map over time with the ground truth demonstrates
+the effectiveness of our proposed method for accurate signal estimation and recovery. 

@@ -1,0 +1,16 @@
+Measuring graph clustering quality remains an open problem. To address it, we introduce quality
+measures based on comparisons of intra- and inter-cluster densities, an accompanying statistical
+test of the significance of their differences and a step-by-step routine for clustering quality
+assessment. Our null hypothesis does not rely on any generative model for the graph, unlike modularity
+which uses the configuration model as a null model. Our measures are shown to meet the axioms of a good
+clustering quality function, unlike the very commonly used modularity measure. They also have
+an intuitive graph-theoretic interpretation, a formal statistical interpretation and can be
+easily tested for significance. Our work is centered on the idea that well clustered graphs will
+display a significantly larger intra-cluster density than inter-cluster density. We develop
+tests to validate the existence of such a cluster structure. We empirically explore the behavior
+of our measures under a number of stress test scenarios and compare their behavior to the commonly
+used modularity and conductance measures. Empirical stress test results confirm that our measures
+compare very favorably to the established ones. In particular, they are shown to be more responsive
+to graph structure and less sensitive to sample size and breakdowns during numerical implementation
+and less sensitive to uncertainty in connectivity. These features are especially important in
+the context of larger data sets or when the data may contain errors in the connectivity patterns.

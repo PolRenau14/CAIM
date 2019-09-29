@@ -1,0 +1,16 @@
+We present an algorithm for the simultaneous measurement of a pulse time-of-arrival (TOA) and dispersion
+measure (DM) from folded wideband pulsar data. We extend the prescription from Taylor (1992) to
+accommodate a general two-dimensional template "portrait", the alignment of which can be used
+to measure a pulse phase and DM. We show that there is a dedispersion reference frequency that removes
+the covariance between these two quantities, and note that the recovered pulse profile scaling
+amplitudes can provide useful information. We experiment with pulse modeling by using a Gaussian-component
+scheme that allows for independent component evolution with frequency, a "fiducial component",
+and the inclusion of scattering. We showcase the algorithm using our publicly available code on
+three years of wideband data from the bright millisecond pulsar J1824-2452A (M28A) from the Green
+Bank Telescope, and a suite of Monte Carlo analyses validates the algorithm. By using a simple model
+portrait of M28A we obtain DM trends comparable to those measured by more standard methods, with
+improved TOA and DM precisions by factors of a few. Measurements from our algorithm will yield precisions
+at least as good as those from traditional techniques, but is prone to fewer systematic effects and
+is without ad hoc parameters. A broad application of this new method for dispersion measure tracking
+with modern large-bandwidth observing systems should improve the timing residuals for pulsar
+timing array experiments, like the North American Nanohertz Observatory for Gravitational Waves.

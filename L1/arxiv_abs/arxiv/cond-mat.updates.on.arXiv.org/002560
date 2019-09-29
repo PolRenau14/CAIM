@@ -1,0 +1,17 @@
+We consider pure dephasing of Bell states of electron spin qubits interacting with a sparse bath
+of nuclear spins. Using the newly developed two-qubit generalization of cluster correlation expansion
+method, we calculate the spin echo decay of $|\Psi\rangle$ and $|\Phi\rangle$ states for various
+interqubit distances. Comparing the results with calculations in which dephasing of each qubit
+is treated independently, we identify signatures of influence of common part of the bath on the two
+qubits. At large interqubit distances, this common part consists of many nuclei weakly coupled
+to both qubits, so that decoherence caused by it can be modeled by considering multiple uncorrelated
+sources of noise (clusters of nuclei), each of them weakly affecting the qubits. Consequently,
+the resulting genuinely two-qubit contribution to decoherence can be described as being caused
+by classical Gaussian noise. On the other hand, for small interqubit distances the common part of
+the environment contains clusters of spins that are strongly coupled to both qubits, and their contribution
+to two-qubit dephasing has visibly non-Gaussian character. We show that one van easily obtain information
+about non-Gaussianity of environmental noise affecting the qubits from the comparison of dephasing
+of $|\Psi\rangle$ and $|\Phi\rangle$ Bell states. Numerical results are obtained for two nitrogen
+vacancy centers interacting with a bath of $^{13}$C nuclei of natural concentration, for which
+we obtain that Gaussian description of correlated part of environmental noise starts to hold for
+centers separated by about 3 nm. 

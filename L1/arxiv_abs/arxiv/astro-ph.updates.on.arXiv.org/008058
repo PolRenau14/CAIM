@@ -1,0 +1,16 @@
+We use simulations to build an analytic probability distribution for the asphericity in the satellite
+distribution around Local Group (LG) type galaxies in the Lambda Cold Dark Matter (LCDM) paradigm.
+We use this distribution to estimate the atypicality of the satellite distributions in the LG even
+when the underlying simulations do not have enough systems fully resembling the LG in terms of its
+typical masses, separation and kinematics. We demonstrate the method using three different simulations
+(Illustris-1, Illustris-1-Dark and ELVIS) and a number of satellites ranging from 11 to 15. Detailed
+results differ greatly among the simulations suggesting a strong influence of the typical DM halo
+mass, the number of satellites and the simulated baryonic effects. However, there are three common
+trends. First, at most $2\%$ of the pairs are expected to have satellite distributions with the same
+asphericity as the LG; second, at most $80\%$ of the pairs have a halo with a satellite distribution
+as aspherical as in M31; and third, at most $4\%$ of the pairs have a halo with satellite distribution
+as planar as in the MW. These quantitative results place the LG at the level of a $3\sigma$ outlier
+in the LCDM paradigm. We suggest that understanding the reasons for this atypicality requires quantifying
+the asphericity probability distribution as a function of halo mass and large scale environment.
+The approach presented here can facilitate that kind of study and other comparisons between different
+numerical setups and choices to study satellites around LG pairs in simulations. 

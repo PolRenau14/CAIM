@@ -1,0 +1,17 @@
+Every year, many people are killed and injured in highway traffic accidents. In order to reduce such
+casualties, collisions warning systems has been studied extensively. These systems are built
+by taking the driver reaction times into account. However, most of the existing literature focuses
+on characterizing how driver reaction times vary across an entire population. Therefore, many
+of the warnings that are given turn out to be false alarms. A false alarm occurs whenever a warning
+is sent, but it is not needed. This would nagate any safety benefit of the system, and could even reduce
+the overall safety if warnings become a distraction. In this paper, we propose our solution to address
+the described problem; First, we briefly describe our method for estimating the distribution of
+brake response times for a particular driver using data from a Vehicular Ad-Hoc Network (VANET)
+system. Then, we investigate how brake response times of individual drivers can be used in collision
+warning algorithms to reduce false alarm rates while still maintaining a high level of safety. This
+will yield a system that is overall more reliable and trustworthy for drivers, which could lead to
+wider adoption and applicability for V2V/V2I communication systems. Moreover, we show how false
+alarm rate varies with respect to probability of accident. Our simulation results show that by individualizing
+collision warnings the number of false alarms can be reduced more than $50\%$. Then, we conclude
+safety applications could potentially take full advantage of being customized to an individual's
+characteristics. 

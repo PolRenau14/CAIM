@@ -1,0 +1,16 @@
+This paper considers the modelling and the analysis of the performance of lock-free concurrent
+search data structures. Our analysis considers such lock-free data structures that are utilized
+through a sequence of operations which are generated with a memoryless and stationary access pattern.
+Our main contribution is a new way of analysing lock-free search data structures: our execution
+model matches with the behavior that we observe in practice and achieves good throughput predictions.
+Search data structures are formed of linked basic blocks, usually referred as nodes, that can be
+accessed by two kinds of events, characterized by their latencies; (i) CAS events originated as
+a result of modifications of the search data structures (ii) Read events originated during traversals.
+This type of data structures are usually designed to accommodate a large number of data nodes, which
+makes the occurrence of an event on a given node rare at any given time. The throughput is defined by
+the number of events per operation in conjunction with the factors that impact the latencies of these
+events. We frame these impacting factors under capacity and coherence cache misses. In this context,
+we model the events as Poisson processes that we can merge and split to estimate the latencies of the
+events based on the interleaving of events from different threads, and in turn estimate the throughput.
+We have validated our analysis on several fundamental lock-free search data structures such as
+linked lists, hash tables, skip lists and binary trees. 

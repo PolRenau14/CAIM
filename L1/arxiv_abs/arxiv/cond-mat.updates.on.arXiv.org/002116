@@ -1,0 +1,17 @@
+One recent breakthrough in the field of magnonics is the experimental realization of reconfigurable
+spin-wave nanochannels formed by magnetic domain wall with a width of $10-100$ nm [Wagner \emph{et
+al}., Nat. Nano. \textbf{11}, 432 (2016)]. This remarkable progress enables an energy-efficient
+spin-wave propagation with a well-defined wave vector along its propagating path inside the wall.
+In the mentioned experiment, a micro-focus Brillouin light scattering spectroscopy was taken
+in a line-scans manner to measure the frequency of the bounded spin wave. Due to their localization
+nature, the confined spin waves can hardly be detected from outside the wall channel, which guarantees
+the information security to some extent. In this work, we theoretically propose a scheme to detect/eavesdrop
+on the spin waves inside the domain-wall nanochannel via nonlinear three-magnon processes. We
+send a spin wave in one magnetic domain to interact with the bounded mode in the wall. Two kinds of three-magnon
+processes, i.e., confluence and splitting, are expected to occur. The confluence process is conventional.
+We predict a stimulated three-magnon splitting (or "magnon laser") effect: the presence of a bound
+magnon propagating along the domain wall channel assists the splitting of the incident wave into
+two modes, one of which is identical to the bound mode in the channel. Micromagnetic simulations
+confirm our theoretical analysis. These results demonstrate that one is able to uniquely infer
+the spectrum of the spin-wave in the domain-wall nanochannel once we know both the injection and
+the transmitted waves. 

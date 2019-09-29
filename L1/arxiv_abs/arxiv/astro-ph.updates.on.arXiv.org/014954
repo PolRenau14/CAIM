@@ -1,0 +1,16 @@
+We have analyzed the emission line properties of 6019 Type II AGN at redshifts between 0.4-0.8 with
+[OIII] luminosities greater than 3x10^8 Lsun, characteristic of the Type II quasars first identified
+in population studies by Zakamska et al (2003). The AGN are drawn from the CMASS sample of galaxies
+with stellar masses greater than 10^11 Msun that were studied as part of the Baryon Oscillation Spectroscopic
+Survey (BOSS) and comprise 0.5% of the total population of these galaxies. Individual spectra have
+low S/N, so the analysis is carried out on stacked spectra in bins of [OIII] luminosity and estimated
+stellar age. The emission line ratios of the stacks are well fit with simple uniform-density photoionization
+models with metallicities between solar and twice solar. In the stacks, a number of emission lines
+are found to have distinct broad components requiring a double Gaussian rather than a single Gaussian
+fit, indicative of outflowing ionized gas. These are: [OIII]4959, [OIII]5007, [OII]3727,3729
+and Halpha$. Higher ionization lines such as [NeIII]3869 and [NeV]3345 are detected in the stacks,
+but are well fit by single Gaussians. The broad components typically contain a third of the total
+line flux and have widths of 600 km/s for the oxygen lines and 900 km/s for Halpha. The fraction of the
+flux in the broad component and its width are independent of [OIII] luminosity, stellar age, radio
+and mid-IR luminosity. The stellar mass of the galaxy is the only parameter we could identify that
+influences the width of the broad line component. 

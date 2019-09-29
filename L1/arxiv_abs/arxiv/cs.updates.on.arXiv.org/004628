@@ -1,0 +1,16 @@
+The view and the view update are known mechanism for controlling access of data and for integrating
+data of different schemas. Despite intensive and long research on them in both the database community
+and the programming language community, we are facing difficulties to use them in practice. The
+main reason is that we are lacking of control over the view update strategy to deal with inherited
+ambiguity of view update for a given view. This vision paper aims to provide a new language-based
+approach to controlling and integrating decentralized data based on the view, and establish a software
+foundation for systematic construction of such data management systems. Our key observation is
+that a view should be defined through a view update strategy rather than a query. In other words, the
+view definition should be extracted from the view update strategy, which is in sharp contrast to
+the traditional approaches where the view update strategy is derived from the view definition.
+In this paper, we present the first programmable architecture with a declarative language for specifying
+update strategies over views, whose unique view definition can be automatically derived, and show
+how it can be effectively used to control data access, integrate data generally allowing coexistence
+of GAV (global as view) and LAV (local as view), and perform both analysis and updates on the integrated
+data. We demonstrate its usefulness through development of a privacy-preserving ride-sharing
+alliance system, discuss its application scope, and highlight future challenges. 

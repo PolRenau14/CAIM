@@ -1,0 +1,16 @@
+We combine data from the Sloan Digital Sky Survey and the Galaxy Evolution Explorer to simultaneously
+analyze optical spectra and ultraviolet photometry of 231643 galaxies with the STARLIGHT spectral
+synthesis code using state-of-the-art stellar population models. We present a new method to estimate
+GALEX photometry in the SDSS spectroscopic aperture, which proves quite reliable if applied to
+large samples. In agreement with previous experiments with CALIFA, we find that adding UV constraints
+leads to a moderate increase on the fraction of $\sim 10^7$ - $10^8$ yr populations and a concomitant
+decrease of younger and older components, yielding slightly older luminosity weighted mean stellar
+ages. These changes are most relevant in the low-mass end of the blue cloud. An increase in dust attenuation
+is observed for galaxies dominated by young stars. We investigate the contribution of different
+stellar populations to the fraction of light in GALEX and SDSS bands across the UV-optical color-magnitude
+diagram. As an example application, we use this $\lambda$ dependence to highlight differences
+between retired galaxies with and without emission lines. In agreement with an independent study
+by Herpich et al., we find that the former show an excess of intermediate age populations when compared
+to the later. Finally, we test the suitability of two different prescription for dust, finding that
+our dataset is best fitted using the attenuation law of starburst galaxies. However, results for
+the Milky Way extinction curve improve with decreasing $\tau_V$, especially for edge-on galaxies.

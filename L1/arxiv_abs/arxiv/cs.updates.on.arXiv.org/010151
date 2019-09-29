@@ -1,0 +1,17 @@
+Software defined networking (SDN) promises unprecedented flexibility and ease of network operations.
+While flexibility is an important factor when leveraging advantages of a new technology, critical
+infrastructure networks also have stringent requirements on network robustness and control plane
+delays. Robustness in the SDN control plane is realized by deploying multiple distributed controllers,
+formed into clusters for durability and fast-failover purposes. However, the effect of the controller
+clustering on the total system response time is not well investigated in current literature. Hence,
+in this work we provide a detailed analytical study of the distributed consensus algorithm RAFT,
+implemented in OpenDaylight and ONOS SDN controller platforms. In those controllers, RAFT implements
+the data-store replication, leader election after controller failures and controller state recovery
+on successful repairs. To evaluate its performance, we introduce a framework for numerical analysis
+of various SDN cluster organizations w.r.t. their response time and availability metrics. We use
+Stochastic Activity Networks for modeling the RAFT operations, failure injection and cluster
+recovery processes, and using real-world experiments, we collect the rate parameters to provide
+realistic inputs for a representative cluster recovery model. We also show how a fast rejuvenation
+mechanism for the treatment of failures induced by software errors can minimize the total response
+time experienced by the controller clients, while guaranteeing a higher system availability in
+the long-term. 

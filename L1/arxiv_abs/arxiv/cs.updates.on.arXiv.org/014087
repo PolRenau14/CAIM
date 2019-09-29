@@ -1,0 +1,16 @@
+Most encrypted data formats leak metadata via their plaintext headers, such as format version,
+encryption schemes used, number of recipients who can decrypt the data, and even the recipients'
+identities. This leakage can pose security and privacy risks to users, e.g., by revealing the full
+membership of a group of collaborators from a single encrypted e-mail, or by enabling an eavesdropper
+to fingerprint the precise encryption software version and configuration the sender used. We propose
+that future encrypted data formats improve security and privacy hygiene by producing $\textit{Padded
+Uniform Random Blobs}$ or PURBs: ciphertexts indistinguishable from random bit strings to anyone
+without a decryption key. A PURB's content leaks $\textit{nothing at all}$, even the application
+that created it, and is padded such that even its length leaks as little as possible. Encoding and
+decoding ciphertexts with $\textit{no}$ cleartext markers presents efficiency challenges,
+however. We present cryptographically agile encodings enabling legitimate recipients to decrypt
+a PURB efficiently, even when encrypted for any number of recipients' public keys and/or passwords,
+and when these public keys are from different cryptographic suites. PURBs employ Padm\'e, a~novel
+padding scheme that limits information leakage via ciphertexts of maximum length $M$ to a practical
+optimum of $O(\log \log M)$ bits, comparable to padding to a power of two, but with lower overhead
+of at most $12\%$ and decreasing with larger payloads. 

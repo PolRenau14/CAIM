@@ -1,0 +1,16 @@
+We analyze electron flux maps based on RHESSI hard X-ray imaging spectroscopy data for a number of
+extended coronal loop flare events. For each event, we determine the variation of the characteristic
+loop length $L$ with electron energy $E$, and we fit this observed behavior with models that incorporate
+an extended acceleration region and an exterior "propagation" region, and which may include collisional
+modification of the accelerated electron spectrum inside the acceleration region. The models
+are characterized by two parameters: the plasma density $n$ in, and the longitudinal extent $L_0$
+of, the acceleration region. Determination of the best-fit values of these parameters permits
+inference of the volume that encompasses the acceleration region and of the total number of particles
+within it. It is then straightforward to compute values for the emission filling factor and for the
+{\it specific acceleration rate} (electrons s$^{-1}$ per ambient electron above a chosen reference
+energy). For the 24 events studied, the range of inferred filling factors is consistent with a value
+of unity. The inferred mean value of the specific acceleration rate above $E_0=20$ keV is $\sim10^{-2}$
+s$^{-1}$, with a 1$\sigma$ spread of about a half-order-of-magnitude above and below this value.
+We compare these values with the predictions of several models, including acceleration by large-scale,
+weak (sub-Dreicer) fields, by strong (super-Dreicer) electric fields in a reconnecting current
+sheet, and by stochastic acceleration processes. 

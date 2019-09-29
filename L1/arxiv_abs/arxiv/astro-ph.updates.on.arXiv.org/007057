@@ -1,0 +1,16 @@
+The obliquity of a terrestrial planet is an important clue about its formation and critical to its
+climate. Previous studies using simulated photometry of Earth show that continuous observations
+over most of a planet's orbit can be inverted to infer obliquity. However, few studies of more general
+planets with arbitrary albedo markings have been made and, in particular, a simple theoretical
+understanding of why it is possible to extract obliquity from light curves is missing. Reflected
+light seen by a distant observer is the product of a planet's albedo map, its host star's illumination,
+and the visibility of different regions. It is useful to treat the product of illumination and visibility
+as the kernel of a convolution. Time-resolved photometry constrains both the albedo map and the
+kernel, the latter of which sweeps over the planet due to rotational and orbital motion. The kernel's
+movement distinguishes prograde from retrograde rotation for planets with non-zero obliquity
+on inclined orbits. We demonstrate that the kernel's longitudinal width and mean latitude are distinct
+functions of obliquity and axial orientation. Notably, we find that a planet's spin axis affects
+the kernel -- and hence time-resolved photometry -- even if this planet is East-West uniform or spinning
+rapidly, or if it is North-South uniform. We find that perfect knowledge of the kernel at 2-4 orbital
+phases is usually sufficient to uniquely determine a planet's spin axis. Surprisingly, we predict
+that East-West albedo contrast is more useful for constraining obliquity than North-South contrast.

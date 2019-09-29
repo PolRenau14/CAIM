@@ -1,0 +1,17 @@
+We consider the task of measuring time with probabilistic threshold gates implemented by bio-inspired
+spiking neurons. In the model of spiking neural networks, network evolves in discrete rounds, where
+in each round, neurons fire in pulses in response to a sufficiently high membrane potential. This
+potential is induced by spikes from neighboring neurons that fired in the previous round, which
+can have either an excitatory or inhibitory effect. We first consider a deterministic implementation
+of a neural timer and show that $\Theta(\log t)$ (deterministic) threshold gates are both sufficient
+and necessary. This raised the question of whether randomness can be leveraged to reduce the number
+of neurons. We answer this question in the affirmative by considering neural timers with spiking
+neurons where the neuron $y$ is required to fire for $t$ consecutive rounds with probability at least
+$1-\delta$, and should stop firing after at most $2t$ rounds with probability $1-\delta$ for some
+input parameter $\delta \in (0,1)$. Our key result is a construction of a neural timer with $O(\log\log
+1/\delta)$ spiking neurons. Interestingly, this construction uses only one spiking neuron, while
+the remaining neurons can be deterministic threshold gates. We complement this construction with
+a matching lower bound of $\Omega(\min\{\log\log 1/\delta, \log t\})$ neurons. This provides
+the first separation between deterministic and randomized constructions in the setting of spiking
+neural networks. Finally, we demonstrate the usefulness of compressed counting networks for synchronizing
+neural networks. 

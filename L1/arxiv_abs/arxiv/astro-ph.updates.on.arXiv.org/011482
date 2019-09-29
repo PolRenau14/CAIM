@@ -1,0 +1,17 @@
+We investigate the evolutionary properties of AM~CVn stars with massive white dwarf donors and
+accretors. As a representative of them we consider a binary initially composed by a 0.30 M$_\odot$,
+He WD and a 1.02 M$_\odot$, CO WD. We evaluate the time-dependent mass transfer rate from the donor
+and compute the evolution of the accretor, accounting for the effects of mass exchange on the evolution
+of orbital parameters. We model the thermal response of the accreting CO WD with the FUN evolutionary
+code coupled to a full nuclear network, from H to Bi, including more than 700 isotopes linked by about
+1000 nuclear processes. We find that accretors in these systems evolve through the stages of steady
+He-burning and mild and strong He-flashes and become at the end CO WDs capped by a massive ($\sim 0.1$
+M$_\odot$) He-rich buffer. During He-flashes (both mild and strong) the temperature in the He-shell
+increases above $3\times 10^8$ K, so that the ${^{22}Ne}(\alpha,n){^{25}Mg}$ reaction becomes
+efficient and $n$-rich isotopes can be produced. During the RLOF episodes triggered by strong non-dynamical
+He-flashes matter enriched in $\alpha$-elements and $n$-rich isotopes is ejected, polluting
+the interstellar medium. Our results strongly suggest that massive AM CVn systems with WD donors
+do not experience a final very strong dynamical He-flash driving an explosive event like SN .Ia.
+Though the ejected matter is highly enriched in heavy isotopes, the relative contribution of massive
+AM CVn systems to the Galactic chemical evolution is, most probably, negligible due to their expected
+paucity. 

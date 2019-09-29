@@ -1,0 +1,16 @@
+Udalov and Beloborodov in the recent papers [Phys. Rev. B 95, 134106 (2017); Phys. Rev. B 96, 125425
+(2017)] report the strong influence of image forces on the conductance of ferroelectric tunnel
+junctions. In particular, the authors state that there is enhancement of the electroresistance
+effect due to polarization hysteresis in symmetric tunnel junctions at nonzero bias. This conjecture
+seems to be a breakthrough --- the common knowledge is that the considerable effect, linear over
+voltage bias, takes place only in NONsymmetric junctions. We show that the influence of image forces
+on the conductance of ferroelectric tunnel junctions is highly overestimated due to neglecting
+the difference between characteristic ferroelectric relaxation and electron tunneling times.
+We argue that notable enhancement of the electroresistance effect from image forces due to polarization
+hysteresis in symmetric tunnel junctions at nonzero bias might be observed only at anomalously
+slow electron tunneling through the barrier. The same applies to magnetic tunnel junctions with
+a ferroelectric barrier also considered by Udalov et al: there is no significant increase of the
+magnetoelectric effect due to image forces for typical electron tunneling times. Udalov and Beloborodov
+completely missed the development of image force theory since 1950's and they forgot that electrons
+move much faster than atoms in condensed matter. We underline that taking into account dynamical
+effects in charge tunneling can bring new insight on physics of ferroelectric tunnel junctions.

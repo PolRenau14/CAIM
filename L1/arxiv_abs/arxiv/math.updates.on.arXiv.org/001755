@@ -1,0 +1,17 @@
+We consider the remaining unsettled cases in the problem of existence of energy minimizing solutions
+for the Dirichlet value problem $L_\gamma u-\lambda u=\frac{u^{2^*(s)-1}}{|x|^s}$ on a smooth
+bounded domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$) having the singularity $0$ in its interior.
+Here $\gamma <\frac{(n-2)^2}{4}$, $0\leq s <2$, $2^*(s):=\frac{2(n-s)}{n-2}$ and $0\leq \lambda
+<\lambda_1(L_\gamma)$, the latter being the first eigenvalue of the Hardy-Schr\"odinger operator
+$L_\gamma:=-\Delta -\frac{\gamma}{|x|^2}$. There is a threshold $\lambda^*(\gamma, \Omega)
+\geq 0$ beyond which the minimal energy is achieved, but below which, it is not. It is well known that
+$\lambda^*(\Omega) = 0$ in higher dimensions, for example if $0\leq \gamma \leq \frac{(n-2)^2}{4}-1$.
+Our main objective in this paper is to show that this threshold is strictly positive in "lower dimensions"
+such as when $ \frac{(n-2)^2}{4}-1<\gamma <\frac{(n-2)^2}{4}$, to identify the critical dimensions
+(i.e., when the situation changes), and to characterize it in terms of $\Omega$ and $\gamma$. If
+either $s>0$ or if $\gamma > 0$, i.e., in {\it the truly singular case}, we show that in low dimensions,
+a solution is guaranteed by the positivity of the "Hardy-singular internal mass" of $\Omega$, a
+notion that we introduce herein. On the other hand, and just like the case wnen $\gamma=s=0$ studied
+by Brezis-Nirenberg and completed by Druet, $n=3$ is the critical dimension, and the classical
+positive mass theorem is sufficient for the {\it merely singular case}, that is when $s=0$, $\gamma
+\leq 0$. 

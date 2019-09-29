@@ -1,0 +1,17 @@
+We present a solution of the algebraic version of Birkhoff Conjecture on integrable billiards.
+Namely we show that every polynomially integrable real bounded convex planar billiard with smooth
+boundary is an ellipse. We extend this result to billiards with piecewise-smooth and not necessarily
+convex boundary on arbitrary two-dimensional surface of constant curvature: plane, sphere, Lobachevsky
+(hyperbolic) plane; each of them being modeled as a plane or a (pseudo-) sphere in $\mathbb R^3$ equipped
+with appropriate quadratic form. Namely, we show that a billiard is polynomially integrable, if
+and only if its boundary is a union of confocal conical arcs and appropriate geodesic segments. We
+also present a complexification of these results. These are joint results of Mikhail Bialy, Andrey
+Mironov and the author. The proof is split into two parts. The first part is given by Bialy and Mironov
+in their two joint papers. They considered the tautological projection of the boundary to $\mathbb{RP}^2$
+and studied its orthogonal-polar dual curve, which is piecewise algebraic, by S.V.Bolotin's theorem.
+By their arguments and another Bolotin's theorem, it suffices to show that each non-linear complex
+irreducible component of the dual curve is a conic. They have proved that all its singularities and
+inflection points (if any) lie in the projectivized zero locus of the corresponding quadratic form
+on $\mathbb C^3$. The present paper provides the second part of the proof: we show that each above
+irreducible component is a conic and finish the solution of the Algebraic Birkhoff Conjecture in
+constant curvature. 

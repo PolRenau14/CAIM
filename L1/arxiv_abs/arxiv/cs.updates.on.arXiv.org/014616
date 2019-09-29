@@ -1,0 +1,16 @@
+Multiobjective evolutionary algorithms (MOEAs) have been successfully applied to a number of
+constrained optimization problems. Many of them adopt mutation and crossover operators from differential
+evolution. However, these operators do not explicitly utilise features of fitness landscapes.
+To improve the performance of algorithms, this paper aims at designing a search operator adapting
+to fitness landscapes. Through an observation, we find that principle component analysis (PCA)
+can be used to characterise fitness landscapes. Based on this finding, a new search operator, called
+PCA-projection, is proposed. In order to verify the effectiveness of PCA-projection, we design
+two algorithms enhanced with PCA-projection for solving constrained optimization problems,
+called PMODE and HECO-PDE, respectively. Experiments have been conducted on the IEEE CEC 2017 competition
+benchmark suite in constrained optimisation. PMODE and HECO-PDE are compared with the algorithms
+from the IEEE CEC 2018 competition and another recent MOEA for constrained optimisation. Experimental
+results show that an algorithm enhanced with PCA-projection performs better than its corresponding
+opponent without this operator. Furthermore, HECO-PDE is ranked first on all dimensions according
+to the competition rules. This study reveals that decomposition-based MOEAs, such as HECO-PDE,
+are competitive with best single-objective and multiobjective evolutionary algorithms for constrained
+optimisation, but MOEAs based on non-dominance, such as PMODE, may not. 

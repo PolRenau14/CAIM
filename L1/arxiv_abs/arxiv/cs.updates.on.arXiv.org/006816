@@ -1,0 +1,16 @@
+The development of chemical reaction models aids system design and optimization, along with fundamental
+understanding, in areas including combustion, catalysis, electrochemistry, and biology. A systematic
+approach to building reaction network models uses available data not only to estimate unknown parameters,
+but also to learn the model structure. Bayesian inference provides a natural approach to this data-driven
+construction of models. Traditional Bayesian model inference methodology is based on evaluating
+a multidimensional integral for each model. This approach is often infeasible for nonlinear reaction
+network inference, as the number of plausible models can be combinatorially large. An alternative
+approach based on model-space sampling can enable large-scale network inference, but its efficient
+implementation presents many challenges. In this paper, we present new computational methods
+that make large-scale nonlinear network inference tractable. Firstly, we exploit the network-based
+interactions of species to design improved "between-model" proposals for Markov chain Monte Carlo
+(MCMC). We then introduce a sensitivity-based determination of move types which, when combined
+with the network-aware proposals, yields further sampling efficiency. These algorithms are tested
+on example problems with up to 1024 plausible models. We find that our new algorithms yield significant
+gains in sampling performance, thus providing a means for tractable inference over a large number
+reaction models with physics-based nonlinear species interactions. 

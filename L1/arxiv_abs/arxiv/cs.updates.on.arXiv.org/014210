@@ -1,0 +1,16 @@
+Bandit algorithms have been predominantly analyzed in the convex setting with function-value
+based stationary regret as the performance measure. In this paper, we propose and analyze bandit
+algorithms for both general and structured nonconvex problems with nonstationary (or dynamic)
+regret as the performance measure, in both stochastic and non-stochastic settings. First, for
+general nonconvex functions, we consider nonstationary versions of first-order and second-order
+stationary solutions as a regret measure, motivated by similar performance measures for offline
+nonconvex optimization. In the case of second-order stationary solution based regret, we propose
+and analyze online and bandit versions of the cubic regularized Newton's method. The bandit version
+is based on estimating the Hessian matrices in the bandit setting, based on second-order Gaussian
+Stein's identity. Our nonstationary regret bounds in terms of second-order stationary solutions
+have interesting consequences for avoiding saddle points in the bandit setting. Next, for weakly
+quasi convex functions and monotone weakly submodular functions we consider nonstationary regret
+measures in terms of function-values; such structured classes of nonconvex functions enable one
+to consider regret measure defined in terms of function values, similar to convex functions. For
+this case of function-value, and first-order stationary solution based regret measures, we provide
+regret bounds in both the low- and high-dimensional settings, for some scenarios. 

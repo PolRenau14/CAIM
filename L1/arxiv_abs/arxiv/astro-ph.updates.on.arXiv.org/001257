@@ -1,0 +1,16 @@
+The IceCube project has transformed one cubic kilometer of deep natural Antarctic ice into a Cherenkov
+detector. Muon neutrinos are detected and their direction inferred by mapping the light produced
+by the secondary muon track inside the volume instrumented with photomultipliers. Reconstructing
+the muon track from the observed light is challenging due to noise, light scattering in the ice medium,
+and the possibility of simultaneously having multiple muons inside the detector, resulting from
+the large flux of cosmic ray muons. This manuscript describes work on two problems: (1) the track
+reconstruction problem, in which, given a set of observations, the goal is to recover the track of
+a muon; and (2) the coincident event problem, which is to determine how many muons are active in the
+detector during a time window. Rather than solving these problems by developing more complex physical
+models that are applied at later stages of the analysis, our approach is to augment the detectors
+early reconstruction with data filters and robust statistical techniques. These can be implemented
+at the level of on-line reconstruction and, therefore, improve all subsequent reconstructions.
+Using the metric of median angular resolution, a standard metric for track reconstruction, we improve
+the accuracy in the initial reconstruction direction by 13%. We also present improvements in measuring
+the number of muons in coincident events: we can accurately determine the number of muons 98% of the
+time, which is an improvement of 66% over the software previously used in IceCube. 

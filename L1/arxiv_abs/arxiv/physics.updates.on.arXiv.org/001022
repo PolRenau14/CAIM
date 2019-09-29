@@ -1,0 +1,16 @@
+The thermo-kinetic inhibition mechanism of six imidazolium-based ionic liquids (ILs) on methane
+clathrate hydrate formation and growth is studied in this work using classical molecular dynamics
+(MD) simulation. The ionic liquids investigated include 1-(2,3-dihydroxypropyl)-3-methylimidazoliumbis(fluorosulfonyl)imide
+([C3(OH)2mim][f2N]), 1-(2-hydroxyethyl)-3-methylimidazolium bis(fluorosulfonyl)imide
+([C2OHmim][f2N]), 1-ethyl-3-methylimidazolium tetrafluoroborate ([C2mim][BF4]), 1-butyl-3-methylimidazolium
+tetrafluoroborate ([C4mim][BF4]), 1-butyl-3-methylimidazolium acetate ([C4mim][OAc]) and
+1-ethyl-3-methylimidazolium ethylsulfate ([C2mim][EtSO4]). Simulations showed that [C2OHmim][f2N]
+and [C3(OH)2mim][f2N] are strongly hydrated compared to other ILs because of hydrogen bonding
+between OH groups of the cation and water molecules. They also exhibit high diffusion rates towards
+crystal surface and bond to it through strong intermolecular interactions. As a result, these two
+ILs are stronger thermo-kinetic inhibitors for formation and growth of methane hydrates compared
+to other ILs studied in this work as well as conventional inhibitors like methanol and NaCl. The simulations
+also revealed that cations of [C3(OH)2mim][f2N] and [C2OHmim][f2N] show that the presence of ions
+near the hydrate crystal causes hindrance for water and guest molecules adsorbing on the hydrate
+surface, which inhibits the growth of hydrate crystals. In addition, it is shown that [C3(OH)2mim][f2N]
+and [C2OHmim][f2N] are more likely to inhibit hydrate formation. 

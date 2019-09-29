@@ -1,0 +1,16 @@
+We present a model that explains why galaxies form stars on a time scale significantly longer than
+the time scales of processes governing the evolution of interstellar gas. We show that gas evolves
+from a non-star-forming to a star-forming state on a relatively short time scale and thus the rate
+of this evolution does not limit the star formation rate. Instead, the star formation rate is limited
+because only a small fraction of star-forming gas is converted into stars before star-forming regions
+are dispersed by feedback and dynamical processes. Thus, gas cycles into and out of star-forming
+state multiple times, which results in a long time scale on which galaxies convert gas into stars.
+Our model does not rely on the assumption of equilibrium and can be used to interpret trends of depletion
+times with the properties of observed galaxies and the parameters of star formation and feedback
+recipes in simulations. In particular, the model explains how feedback self-regulates the star
+formation rate in simulations and makes it insensitive to the local star formation efficiency.
+We illustrate our model using the results of an isolated $L_*$-sized galaxy simulation that reproduces
+the observed Kennicutt-Schmidt relation for both molecular and atomic gas. Interestingly, the
+relation for molecular gas is almost linear on kiloparsec scales, although a nonlinear relation
+is adopted in simulation cells. We discuss how a linear relation emerges from non-self-similar
+scaling of the gas density PDF with the average gas surface density. 

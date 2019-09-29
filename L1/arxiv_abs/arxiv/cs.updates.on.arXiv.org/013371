@@ -1,0 +1,16 @@
+Graph jobs represent a wide variety of computation-intensive tasks in which computations are represented
+by graphs consisting of components (denoting either data sources or data processing) and edges
+(corresponding to data flows between the components). Recent years have witnessed dramatic growth
+in smart vehicles and computation-intensive graph jobs, which pose new challenges to the provision
+of efficient services related to the Internet of Vehicles. Fortunately, vehicular clouds formed
+by a collection of vehicles, which allows jobs to be offloaded among vehicles, can substantially
+alleviate heavy on-board workloads and enable on-demand provisioning of computational resources.
+In this paper, we present a novel framework for vehicular clouds that maps components of graph jobs
+to service providers via opportunistic vehicle-to-vehicle communication. Then, graph job allocation
+over vehicular clouds is formulated as a non-linear integer programming with respect to vehicles'
+contact duration and available resources, aiming to minimize job completion time and data exchange
+cost. The problem is addressed for two scenarios: low-traffic and rush-hours. For the former, we
+determine the optimal solutions for the problem. In the latter case, given the intractable computations
+for deriving feasible allocations, we propose a novel low complexity randomized graph job allocation
+mechanism by considering hierarchical tree based subgraph isomorphism. We evaluate the performance
+of our proposed algorithms through extensive simulations. 

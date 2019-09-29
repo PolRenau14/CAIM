@@ -1,0 +1,16 @@
+We analyze scaling behaviors of simulated annealing carried out on various classical systems with
+topological order, obtained as appropriate limits of the toric code in two and three dimensions.
+We first consider the three-dimensional $\mathbb{Z}_2$ (Ising) lattice gauge model, which exhibits
+a continuous topological phase transition at finite temperature. We show that a generalized Kibble-Zurek
+scaling ansatz applies to this transition, in spite of the absence of a local order parameter. We
+find perimeter-law scaling of the magnitude of a non-local order parameter (defined using Wilson
+loops) and a dynamic exponent $z=2.70 \pm 0.03$, the latter in good agreement with previous results
+for the equilibrium dynamics (autocorrelations). We then study systems where (topological) order
+forms only at zero temperature---the Ising chain, the two-dimensional $\mathbb{Z}_2$ gauge model,
+and a three-dimensional star model (another variant of the $\mathbb{Z}_2$ gauge model). In these
+systems the correlation length diverges exponentially, in a way that is non-smooth as a finite-size
+system approaches the zero temperature state. We show that the Kibble-Zurek theory does not apply
+in any of these systems. Instead, the dynamics can be understood in terms of diffusion and annihilation
+of topological defects, which we use to formulate a scaling theory in good agreement with our simulation
+results. We also discuss the effect of open boundaries where defect annihilation competes with
+a faster process of evaporation at the surface. 

@@ -1,0 +1,17 @@
+We present an improved high-order weighted compact high resolution (WCHR) scheme that extends
+the idea of weighted compact nonlinear schemes (WCNS's) using nonlinear interpolations in conjunction
+with compact finite difference schemes for shock-capturing in compressible turbulent flows.
+The proposed scheme has better resolution property than previous WCNS's. This is achieved by using
+a compact (or spatially implicit) form instead of the traditional fully explicit form for the nonlinear
+interpolation. Since compact interpolation schemes tend to have lower dispersion errors compared
+to explicit interpolation schemes, the proposed scheme has the ability to resolve more fine-scale
+features while still having the ability to provide sufficiently localized dissipation to capture
+shocks and discontinuities robustly. Approximate dispersion relation characteristics of this
+scheme are analyzed to show the superior resolution properties of the scheme compared to other WCNS's
+of similar orders of accuracy. Conservative and high-order accurate boundary schemes are also
+proposed for non-periodic problems. Further, a new conservative flux-difference form for compact
+finite difference schemes is derived and allows for the use of positivity-preserving limiters
+for improved robustness. Different test cases demonstrate the ability of this scheme to capture
+discontinuities in a robust and stable manner while also localizing the required numerical dissipation
+only to regions containing discontinuities and very high wavenumber features and hence preserving
+smooth flow features better in comparison to WCNS's. 

@@ -1,0 +1,16 @@
+Order-preserving encryption allows encrypting data, while still enabling efficient range queries
+on the encrypted data. Moreover, it does not require any change to the database management system,
+because comparison operates on ciphertexts as on plaintexts. This makes order-preserving encryption
+schemes very suitable for data outsourcing in cloud computing scenarios. However, all order-preserving
+encryption schemes are necessarily symmetric limiting the use case to one client and one server.
+Imagine a scenario where a Data Owner encrypts its data before outsourcing it to the Cloud Service
+Provider and a Data Analyst wants to execute private range queries on this data. This scenario occurs
+in many cases of collaborative machine learning where data source and processor are different entities.
+Then either the Data Owner must reveal its encryption key or the Data Analyst must reveal the private
+queries. In this paper, we overcome this limitation by allowing the equivalent of a public-key order-preserving
+encryption. We present a secure multiparty protocol that enables secure range queries for multiple
+users. In this scheme, the Data Analyst cooperates with the Data Owner and the Cloud Service Provider
+in order to order-preserving encrypt the private range queries without revealing any other information
+to the parties. We implemented our scheme and observed that if the database size of the Data Owner
+has 1 million entries it takes only about 0.3 s on average via a loopback interface (1.3 s via a LAN)
+to encrypt an input of the Data Analyst. 

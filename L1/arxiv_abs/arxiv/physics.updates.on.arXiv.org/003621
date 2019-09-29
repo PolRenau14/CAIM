@@ -1,0 +1,17 @@
+Understanding gas transport in porous media and its mechanism has broad applications in various
+research areas, such as carbon sequestration in deep saline aquifers and gas explorations in reservoir
+rocks. Gas transport is mainly controlled by pore space geometrical and morphological characteristics.
+In this study, we apply a physically-based model developed using concepts from percolation theory
+(PT) and the effective-medium approximation (EMA) to better understand diffusion and permeability
+of gas in packings of angular and rounded sand grains as well as glass beads. Two average sizes of grain
+i.e., 0.3 and 0.5 mm were used to pack sands in a column of 6 cm height and 4.9 cm diameter so that the total
+porosity of all packs was near 0.4. Water content, gas-filled porosity (also known as gas content),
+gas diffusion, and gas permeability were measured at different capillary pressures. The X-ray
+computed tomography method and the 3DMA-Rock software package were applied to determine the average
+pore coordination number z. Results showed that both saturation-dependent diffusion and permeability
+of gas showed almost linear behavior at higher gas-filled porosities, while deviated substantially
+from linear scaling at lower gas saturations. Comparing the theory with the diffusion and permeability
+experiments showed that the determined value of z ranged between 2.8 and 5.3, not greatly different
+from X-ray computed tomography results. The obtained results clearly indicate that the effect
+of the pore-throat size distribution on gas diffusion and permeability was minimal in these sand
+and glass bead packs. 

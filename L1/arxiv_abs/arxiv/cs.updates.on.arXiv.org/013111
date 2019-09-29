@@ -1,0 +1,16 @@
+The Trusted Platform Module (TPM) version 2.0, which has been demonstrated as a key element of Industry
+4.0, presents a two-phase key exchange primitive for secure communications between Industry 4.0
+components. The key exchange primitive of TPM 2.0 can be used to implement three widely-standardized
+authenticated key exchange protocols: the Full Unified Model, the Full MQV, and the SM2 key exchange
+protocols. However, vulnerabilities have been found in all of these protocols. Fortunately, it
+seems that the protections offered by TPM chips can mitigate these vulnerabilities. In this paper,
+we present a security model which captures TPM's protections on keys and protocols' computation
+environments and in which multiple protocols can be analyzed in a unified way. Based on the unified
+security model, we give the first formal security analysis of the key exchange primitive of TPM 2.0,
+and the analysis results show that, with the help of hardware protections of TPM chips, the key exchange
+primitive indeed satisfies the well-defined security property of our security model, but unfortunately
+under some impractical limiting conditions, which would prevent the application of the key exchange
+primitive in real-world networks. To make TPM 2.0 applicable to real-world networks, we present
+a revision of the key exchange primitive of TPM 2.0, which can keep secure without the limiting conditions.
+We give a rigorous analysis of our revision, and the results show that our revision achieves not only
+the basic security property of modern AKE security models but also some further security properties.

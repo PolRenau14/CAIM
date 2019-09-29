@@ -1,0 +1,16 @@
+We apply neural nets with ReLU gates in online reinforcement learning. Our goal is to train these
+networks in an incremental manner, without the computationally expensive experience replay.
+By studying how individual neural nodes behave in online training, we recognize that the global
+nature of ReLU gates can cause undesirable learning interference in each node's learning behavior.
+We propose reducing such interferences with two efficient input transformation methods that are
+geometric in nature and match well the geometric property of ReLU gates. The first one is tile coding,
+a classic binary encoding scheme originally designed for local generalization based on the topological
+structure of the input space. The second one (EmECS) is a new method we introduce; it is based on geometric
+properties of convex sets and topological embedding of the input space into the boundary of a convex
+set. We discuss the behavior of the network when it operates on the transformed inputs. We also compare
+it experimentally with some neural nets that do not use the same input transformations, and with
+the classic algorithm of tile coding plus a linear function approximator, and on several online
+reinforcement learning tasks, we show that the neural net with tile coding or EmECS can achieve not
+only faster learning but also more accurate approximations. Our results strongly suggest that
+geometric input transformation of this type can be effective for interference reduction and takes
+us a step closer to fully incremental reinforcement learning with neural nets. 

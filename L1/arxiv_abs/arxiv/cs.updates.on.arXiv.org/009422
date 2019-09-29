@@ -1,0 +1,17 @@
+Online advertising, the backbone of the free Web, has transformed the marketing business by creating
+countless opportunities for advertisers to reach potential customers. The advertising ecosystem
+exists upon a complex infrastructure composed by intermediate entities and technologies whose
+main goal is to deliver personalized ads to such customers. In recent years, however, advertisers
+have started to develop new advanced techniques such as Cross-Device Tracking, to detect and track
+the user's activity across multiple devices and target them on the all possible device. For this
+method to work, a variety of user data is collected, aggregated, processed and traded behind the
+scenes, and often times, without the user-data owner's informed consent. Therefore, despite the
+enormous value of online advertising and support it offers to the Web, the prevalence and intensity
+of these tracking and targeting practices prompt serious concerns for the online users' privacy.
+In this paper, we propose a novel methodology for systematically investigating Cross-Device Tracking
+and various components affecting its targeting performance. We materialize our methodology into
+a platform that is able to perform small and large scale automated measurements, under different
+experimental scenarios, emulated users and settings. By conducting a variety of measurements
+with our framework, we are able to detect and measure Cross-Device Tracking with average accuracy
+of 78-96%, and also report significant insights about its internal mechanisms and its impact on
+online user's privacy. 

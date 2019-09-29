@@ -1,0 +1,16 @@
+An LSST-like survey of the Galactic plane (deep images every 3-4 days) could probe the Galactic distribution
+of planets by two distinct methods: gravitational microlensing of planets beyond the snow line
+and transits by planets very close to their hosts. The survey would identify over 250 disk-lens/disk-source
+microlensing events per year that peak at r<19, including 10% reaching the high magnification
+A>100 that makes them especially sensitive to planets. Intensive followup of these events would
+be required to find planets, similar to what is done presently for Galactic bulge microlensing.
+The same data would enable a wealth of other science, including detection of isolated black holes,
+systematic study of brown-dwarf binaries, a pre-explosion lightcurve of the next Galactic supernova,
+pre-explosion lightcurves of stellar mergers, early nova lightcurves, proper motions of many
+more stars than can be reached by GAIA, and probably much more. As usual, the most exciting discoveries
+from probing the huge parameter space encompassed by Galactic-plane stellar populations might
+well be serendipitous. Unfortunately, the LSST collaboration plans to exclude the first and fourth
+quadrants of the Galactic plane from their "synoptic" observations because the DC image that resulted
+from repeated observations would be limited by crowding. I demonstrate that the majority of this
+science can be recovered by employing well-developed image subtraction analysis methods, and
+that the cost to other (high Galactic latitude) science would be negligible. 

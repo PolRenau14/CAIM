@@ -1,0 +1,16 @@
+To properly convey neural network architectures in publications, appropriate visualization
+techniques are of great importance. While most current deep learning papers contain such visualizations,
+these are usually handcrafted, which results in a lack of a common visual grammar, as well as a significant
+time investment. Since these visualizations are often crafted just before publication, they are
+also prone to contain errors, might deviate from the actual architecture, and are sometimes ambiguous
+to interpret. Current automatic network visualization toolkits focus on debugging the network
+itself, and are therefore not ideal for generating publication-ready visualization, as they cater
+a different level of detail. Therefore, we present an approach to automate this process by translating
+network architectures specified in Python, into publication-ready network visualizations that
+can directly be embedded into any publication. To improve the readability of these visualizations,
+and in order to make them comparable, the generated visualizations obey to a visual grammar, which
+we have derived based on the analysis of existing network visualizations. Besides carefully crafted
+visual encodings, our grammar also incorporates abstraction through layer accumulation, as it
+is often done to reduce the complexity of the network architecture to be communicated. Thus, our
+approach not only reduces the time needed to generate publication-ready network visualizations,
+but also enables a unified and unambiguous visualization design. 

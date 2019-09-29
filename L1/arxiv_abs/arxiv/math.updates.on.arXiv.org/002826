@@ -1,0 +1,15 @@
+Let $(X,h)$ be a compact and irreducible Hermitian complex space of complex dimension $m$. In this
+paper we are interested in the Dolbeault operator acting on the space of $L^2$ sections of the canonical
+bundle of $reg(X)$, the regular part of $X$. More precisely let $\overline{\mathfrak{d}}_{m,0}:L^2\Omega^{m,0}(reg(X),h)\rightarrow
+L^2\Omega^{m,1}(reg(X),h)$ be an arbitrarily fixed closed extension of $\overline{\partial}_{m,0}:L^2\Omega^{m,0}(reg(X),h)\rightarrow
+L^2\Omega^{m,1}(reg(X),h)$ where the domain of the latter operator is $\Omega_c^{m,0}(reg(X))$.
+We establish various properties such as closed range of $\overline{\mathfrak{d}}_{m,0}$, compactness
+of the inclusion $\mathcal{D}(\overline{\mathfrak{d}}_{m,0})\hookrightarrow L^2\Omega^{m,0}(reg(X),h)$
+where $\mathcal{D}(\overline{\mathfrak{d}}_{m,0})$, the domain of $\overline{\mathfrak{d}}_{m,0}$,
+is endowed with the corresponding graph norm, and discreteness of the spectrum of the associated
+Hodge-Kodaira Laplacian $\overline{\mathfrak{d}}_{m,0}^*\circ \overline{\mathfrak{d}}_{m,0}$
+with an estimate for the growth of its eigenvalues. Several corollaries such as trace class property
+for the heat operator associated to $\overline{\mathfrak{d}}_{m,0}^*\circ \overline{\mathfrak{d}}_{m,0}$,
+with an estimate for its trace, are derived. Finally in the last part we provide several applications
+to the Hodge-Kodaira Laplacian in the setting of both compact irreducible Hermitian complex spaces
+with isolated singularities and complex projective surfaces. 

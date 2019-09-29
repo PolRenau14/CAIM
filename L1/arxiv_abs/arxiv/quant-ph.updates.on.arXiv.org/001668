@@ -1,0 +1,16 @@
+Quantum imaging has a potential of enhancing precision of the object reconstruction by using quantum
+correlations of the imaging field. This is especially important for imaging requiring low-intensity
+fields up to the level of few-photons. However, quantum imaging generally leads to nonlinear estimation
+problems. The complexity of these problems rapidly increases with the number of parameters describing
+the object. We suggest a way to drastically reduce the complexity for a wide class of problems. The
+key point of our approach is connecting the features of the Fisher information with the parametric
+locality of the problem, and building the efficient iterative inference scheme reconstructing
+only a subset of the whole set of parameters in each step. This iterative scheme is linear on the total
+number of parameters. This scheme is applied to quantum near-field imaging, the inference procedure
+is developed resulting in super-resolving reconstruction of grey compound transmission objects.
+The functionality of the method is demonstrated with experimental data obtained by measurements
+of higher-order correlation functions for imaging with entangled twin-photons and pseudo-thermal
+light sources. By analyzing the informational content of the measurement, it becomes possible
+to predict the existence of optimal photon correlations providing for the best image resolution
+in the super-resolution regime. This prediction is experimentally confirmed. It is also shown
+how an estimation bias stemming from image features may drastically improve the resolution. 

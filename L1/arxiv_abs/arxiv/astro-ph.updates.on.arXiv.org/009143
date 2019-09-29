@@ -1,0 +1,16 @@
+The SPHERE (spectro-photometric exoplanet research) extreme-AO planet hunter saw first light
+at the VLT observatory on Mount Paranal in May 2014 after ten years of development. Great efforts
+were put into modelling its performance, particularly in terms of achievable contrast, and to budgeting
+instrumental features such as wave front errors and optical transmission to each of the instrument's
+three focal planes, the near infrared dual imaging camera IRDIS, the near infrared integral field
+spectrograph IFS and the visible polarimetric camera ZIMPOL. In this paper we aim at comparing predicted
+performance with measured performance. In addition to comparing on-sky contrast curves and calibrated
+transmission measurements, we also compare the PSD-based wave front error budget with in-situ
+wave front maps obtained thanks to a Zernike phase mask, ZELDA, implemented in the infrared coronagraph
+wheel. One of the most critical elements of the SPHERE system is its high-order deformable mirror,
+a prototype 40x40 actuator piezo stack design developed in parallel with the instrument itself.
+The development was a success, as witnessed by the instrument performance, in spite of some bad surprises
+discovered on the way. The devastating effects of operating without taking properly into account
+the loss of several actuators and the thermally and temporally induced variations in the DM shape
+will be analysed, and the actions taken to mitigate these defects through the introduction of specially
+designed Lyot stops and activation of one of the mirrors in the optical train will be described. 

@@ -1,0 +1,16 @@
+Shell models of hydrodynamic turbulence originated in the seventies. Their main aim was to describe
+the statistics of homogeneous and isotropic turbulence in spectral space, using a simple set of
+ordinary differential equations. In the eighties, shell models of magnetohydrodynamic (MHD)
+turbulence emerged based on the same principles as their hydrodynamic counter-part but also incorporating
+interactions between magnetic and velocity fields. In recent years, significant improvements
+have been made such as the inclusion of non-local interactions and appropriate definitions for
+helicities. Though shell models cannot account for the spatial complexity of MHD turbulence, their
+dynamics are not over simplified and do reflect those of real MHD turbulence including intermittency
+or chaotic reversals of large-scale modes. Furthermore, these models use realistic values for
+dimensionless parameters (high kinetic and magnetic Reynolds numbers, low or high magnetic Prandtl
+number) allowing extended inertial range and accurate dissipation rate. Using modern computers
+it is difficult to attain an inertial range of three decades with direct numerical simulations,
+whereas eight are possible using shell models. In this review we set up a general mathematical framework
+allowing the description of any MHD shell model. The variety of the latter, with their advantages
+and weaknesses, is introduced. Finally we consider a number of applications, dealing with free-decaying
+MHD turbulence, dynamo action, Alfven waves and the Hall effect. 

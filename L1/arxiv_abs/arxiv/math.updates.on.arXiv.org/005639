@@ -1,0 +1,16 @@
+A linear system is a pair $(P,\mathcal{L})$ where $\mathcal{L}$ is a family of subsets on a ground
+finite set $P$, such that $|l\cap l^\prime|\leq 1$, for every $l,l^\prime \in \mathcal{L}$. The
+elements of $P$ and $\mathcal{L}$ are called points and lines, respectively, and the linear system
+is called intersecting if any pair of lines intersect in exactly one point. A subset $T$ of points
+of $P$ is a transversal of $(P,\mathcal{L})$ if $T$ intersects any line, and the transversal number,
+$\tau(P,\mathcal{L})$, is the minimum order of a transversal. On the other hand, a 2-packing set
+of a linear system $(P,\mathcal{L})$ is a set $R$ of lines, such that any three of them have a common
+point, then the 2-packing number of $(P,\mathcal{L})$, $\nu_2(P,\mathcal{L})$, is the size of
+a maximum 2-packing set. It is known that the transversal number $\tau(P,\mathcal{L})$ is bounded
+above by a quadratic function of $\nu_2(P,\mathcal{L})$. An open problem is to haracterize the
+families of linear systems which satisfies $\tau(P,\mathcal{L})\leq \lambda\nu_2(P,\mathcal{L})$,
+for some $\lambda\geq1$. In this paper, we give an infinite family of linear systems $(P,\mathcal{L})$
+which satisfies $\tau(P,\mathcal{L})=\nu_2(P,\mathcal{L})$ with smallest possible cardinality
+of $\mathcal{L}$, as well as some properties of $r$-uniform intersecting linear systems $(P,\mathcal{L})$,
+such that $\tau(P,\mathcal{L})=\nu_2(P,\mathcal{L})=r$. Moreover, we state a characterization
+of $4$-uniform intersecting linear systems $(P,\mathcal{L})$ with $\tau(P,\mathcal{L})=\nu_2(P,\mathcal{L})=4$.

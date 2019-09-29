@@ -1,0 +1,17 @@
+We investigate the chemical evolution of a collapsing core that starts from a hydrostatic core and
+finally form a low-mass protostar. New multiphase gas-grain models that include bulk diffusion
+and photon penetration are simulated by the macroscopic Monte Carlo method in order to derive the
+chemical evolution. There are two types of species in the ice bulk in the new multiphase models. Interstitial
+species can diffuse and sublime at their own sublimation temperatures while normal species are
+locked in the ice bulk. Photodissociation rates of icy species are reduced by the exponential decay
+of UV flux within the ice mantle. Two-phase models and basic multiphase models without bulk diffusion
+and photon penetration are also simulated for comparison. Our physical model for the collapsing
+core is base on a one-dimensional radiation hydrodynamics model. Abundant icy radicals are produced
+at around 10 K in the new multiphase models. Interstitial radicals can diffuse inside ice mantles
+to form complex organic molecules (COMS) upon warming-up. Thus, COMs produced by radical recombination
+at higher temperatures in the new multiphase models are more than one order of magnitude higher than
+those in the two-phase and basic multiphase models. Moreover, COMs produced at around 10 K in the
+new multiphase models are about one order of magnitude higher than those in the two-phase model.
+Our model shows a reasonable agreement with observations toward low-mass protostars. Moreover,
+molecular oxygen abundances predicted by our new multiphase models agree reasonably well with
+that found in cometary materials. 

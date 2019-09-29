@@ -1,0 +1,16 @@
+The glued-trees problem is the only example known to date for which quantum annealing provides an
+exponential speedup, albeit by partly using excited state evolution, in an oracular setting. How
+robust is this speedup to noise on the oracle? To answer this, we construct phenomenological short-range
+and long-range noise models, and noise models that break or preserve the reflection symmetry of
+the spectrum. We show that under the long-range noise models an exponential quantum speedup is retained.
+However, we argue that a classical algorithm with an equivalent long-range noise model also exhibits
+an exponential speedup over the noiseless model. In the quantum setting the long-range noise is
+able to lift the spectral gap of the problem so that the evolution changes from diabatic to adiabatic.
+In the classical setting, long-range noise creates a significant probability of the walker landing
+directly on the EXIT vertex. Under short-range noise the exponential speedup is lost, but a polynomial
+quantum speedup is retained for sufficiently weak noise. In contrast to noise range, we find that
+breaking of spectral symmetry by the noise has no significant impact on the performance of the noisy
+algorithms. Our results about the long-range models highlight that care must be taken in selecting
+phenomenological noise models so as not to change the nature of the computational problem. We conclude
+from the short-range noise model results that the exponential speedup in the glued-trees problem
+is not robust to noise, but a polynomial quantum speedup is still possible. 

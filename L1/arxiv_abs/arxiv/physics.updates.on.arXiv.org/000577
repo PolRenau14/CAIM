@@ -1,0 +1,16 @@
+A detailed characterization of the interaction between the most abundant molecules in air is important
+for the understanding of a variety of phenomena in atmospherical science. A completely {\em ab initio}
+global potential energy surface (PES) for the O$_2(^3\Sigma^-_g)$ + N$_2(^1\Sigma^+_g)$ interaction
+is reported for the first time. It has been obtained with the symmetry-adapted perturbation theory
+utilizing a density functional description of monomers [SAPT(DFT)] extended to treat the interaction
+involving high-spin open-shell complexes. The computed interaction energies of the complex are
+in a good agreement with those obtained by using the spin-restricted coupled cluster methodology
+with singles, doubles and noniterative triple excitations [RCCSD(T)]. A spherical harmonics
+expansion containing a large number of terms due to the anisotropy of the interaction has been built
+from the {\em ab initio} data. The radial coefficients of the expansion are matched in the long range
+with the analytical functions based on the recent {\em ab initio} calculations of the electric properties
+of the monomers [M. Bartolomei et al., J. Comp. Chem., {\bf 32}, 279 (2011)]. The PES is tested against
+the second virial coefficient $B(T)$ data and the integral cross sections measured with rotationally
+hot effusive beams, leading in both cases to a very good agreement. The first bound states of the complex
+have been computed and relevant spectroscopic features of the interacting complex are reported.
+A comparison with a previous experimentally derived PES is also provided. 

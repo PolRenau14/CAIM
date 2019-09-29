@@ -1,0 +1,16 @@
+We show that activity of online news outlets follows a temporal fluctuation scaling law and we recover
+this feature using an independent cascade model augmented with a varying hype parameter representing
+a viral potential of an original article. We use the Event Registry platform to track activity of
+over 10,000 news outlets in 11 different topics in the course of the year 2016. Analyzing over 22,000,000
+articles, we found that fluctuation scaling exponents $\alpha$ depend on time window size $\Delta$
+in a characteristic way for all the considered topics -- news outlets activities are partially synchronized
+for $\Delta>15\mathrm{min}$ with a cross-over for $\Delta=1\mathrm{day}$. The proposed model
+was run on several synthetic network models as well as on a network extracted from the real data. Our
+approach discards timestamps as not fully reliable observables and focuses on co-occurrences
+of publishers in cascades of similarly phrased news items. We make use of the Event Registry news
+clustering feature to find correlations between content published by news outlets in order to uncover
+common information propagation paths in published articles and to estimate weights of edges in
+the independent cascade model. While the independent cascade model follows the fluctuation scaling
+law with a trivial exponent $\alpha=0.5$, we argue that besides the topology of the underlying cooperation
+network a temporal clustering of articles with similar hypes is necessary to qualitatively reproduce
+the fluctuation scaling observed in the data. 

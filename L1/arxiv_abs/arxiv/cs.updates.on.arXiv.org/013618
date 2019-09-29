@@ -1,0 +1,16 @@
+Most convex and nonconvex clustering algorithms come with one crucial parameter: the $k$ in $k$-means.
+To this day, there is not one generally accepted way to accurately determine this parameter. Popular
+methods are simple yet theoretically unfounded, such as searching for an elbow in the curve of a given
+cost measure. In contrast, statistically founded methods often make strict assumptions over the
+data distribution or come with their own optimization scheme for the clustering objective. This
+limits either the set of applicable datasets or clustering algorithms. In this paper, we strive
+to determine the number of clusters by answering a simple question: given two clusters, is it likely
+that they jointly stem from a single distribution? To this end, we propose a bound on the probability
+that two clusters originate from the distribution of the unified cluster, specified only by the
+sample mean and variance. Our method is applicable as a simple wrapper to the result of any clustering
+method minimizing the objective of $k$-means, which includes Gaussian mixtures and Spectral Clustering.
+We focus in our experimental evaluation on an application for nonconvex clustering and demonstrate
+the suitability of our theoretical results. Our \textsc{SpecialK} clustering algorithm automatically
+determines the appropriate value for $k$, without requiring any data transformation or projection,
+and without assumptions on the data distribution. Additionally, it is capable to decide that the
+data consists of only a single cluster, which many existing algorithms cannot. 

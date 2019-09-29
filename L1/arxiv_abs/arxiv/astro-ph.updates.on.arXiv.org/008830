@@ -1,0 +1,17 @@
+Tomographic wave-front reconstruction is the main computational bottleneck to realize real-time
+correction for turbulence-induced wave-front aberrations in future laser-assisted tomographic
+adaptive-optics (AO) systems for ground-based Giant Segmented Mirror Telescopes (GSMT), because
+of its unprecedented number of degrees of freedom, $N$, i.e. the number of measurements from wave-front
+sensors (WFS). In this paper, we provide an efficient implementation of the minimum-mean-square
+error (MMSE) tomographic wave-front reconstruction mainly useful for some classes of AO systems
+not requiring a multi-conjugation, such as laser-tomographic AO (LTAO), multi-object AO (MOAO)
+and ground-layer AO (GLAO) systems, but also applicable to multi-conjugate AO (MCAO) systems.
+This work expands that by R. Conan [ProcSPIE, 9148, 91480R (2014)] to the multi-wave-front, tomographic
+case using natural and laser guide stars. The new implementation exploits the Toeplitz structure
+of covariance matrices used in a MMSE reconstructor, which leads to an overall $O(N\log N)$ real-time
+complexity compared to $O(N^2)$ of the original implementation using straight vector-matrix
+multiplication. We show that the Toeplitz-based algorithm leads to 60\,nm rms wave-front error
+improvement for the European Extremely Large Telescope Laser-Tomography AO system over a well-known
+sparse-based tomographic reconstruction, but the number of iterations required for suitable
+performance is still beyond what a real-time system can accommodate to keep up with the time-varying
+turbulence 

@@ -1,0 +1,16 @@
+The increasing use of fossil fuels to produce energy is leading to environmental problems. Hence,
+it has led the human society to move towards the use of renewable energies, including solar energy.
+In recent years, one of the most popular methods to gain energy is using photovoltaic arrays to produce
+solar energy. Skyscrapers and different weather conditions cause shadings on these PV arrays,
+which leads to less power generation. Various methods such as TCT and Sudoku patterns have been proposed
+to improve power generation for partial shading PV arrays, but these methods have some problems
+such as not generating maximum power and being designed for a specific dimension of PV arrays. Therefore,
+we proposed a metaheuristic algorithm-based approach to extract maximum possible power in the
+shortest possible time. In this paper, five algorithms which have proper results in most of the searching
+problems are chosen from different groups of metaheuristic algorithms. Also, four different standard
+shading patterns are used for more realistic analysis. Results show that the proposed method achieves
+better results in maximum power generation compared to TCT arrangement (18.53%) and Sudoku arrangement
+(4.93%). Also, the results show that GWO is the fastest metaheuristic algorithm to reach maximum
+output power in PV arrays under partial shading condition. Thus, the authors believe that by using
+metaheuristic algorithms, an efficient, reliable, and fast solution is reached to solve partial
+shading PV arrays problem 

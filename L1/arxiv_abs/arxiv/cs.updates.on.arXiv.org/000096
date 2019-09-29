@@ -1,0 +1,16 @@
+\emph{Information Dispersal Algorithms (IDAs)} have been widely applied to reliable and secure
+storage and transmission of data files in distributed systems. An IDA is a method that encodes a file
+$F$ of size $L=|F|$ into $n$ unrecognizable pieces $F_1$, $F_2$, ..., $F_n$, each of size $L/m$ ($m<n$),
+so that the original file $F$ can be reconstructed from any $m$ pieces. The core of an IDA is the adopted
+non-systematic $m$-of-$n$ erasure code. This paper makes a systematic study on the \emph{confidentiality}
+of an IDA and its connection with the adopted erasure code. Two levels of confidentiality are defined:
+\emph{weak confidentiality} (in the case where some parts of the original file $F$ can be reconstructed
+explicitly from fewer than $m$ pieces) and \emph{strong confidentiality} (in the case where nothing
+of the original file $F$ can be reconstructed explicitly from fewer than $m$ pieces). For an IDA that
+adopts an arbitrary non-systematic erasure code, its confidentiality may fall into weak confidentiality.
+To achieve strong confidentiality, this paper explores a sufficient and feasible condition on
+the adopted erasure code. Then, this paper shows that Rabin's IDA has strong confidentiality. At
+the same time, this paper presents an effective way to construct an IDA with strong confidentiality
+from an arbitrary $m$-of-$(m+n)$ erasure code. Then, as an example, this paper constructs an IDA
+with strong confidentiality from a Reed-Solomon code, the computation complexity of which is comparable
+to or sometimes even lower than that of Rabin's IDA. 

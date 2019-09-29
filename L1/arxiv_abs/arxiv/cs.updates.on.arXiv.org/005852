@@ -1,0 +1,17 @@
+For (semi-)automated subject indexing systems in digital libraries, it is often more practical
+to use metadata such as the title of a publication instead of the full-text or the abstract. Therefore,
+it is desirable to have good text mining and text classification algorithms that operate well already
+on the title of a publication. So far, the classification performance on titles is not competitive
+with the performance on the full-texts if the same number of training samples is used for training.
+However, it is much easier to obtain title data in large quantities and to use it for training than
+full-text data. In this paper, we investigate the question how models obtained from training on
+increasing amounts of title training data compare to models from training on a constant number of
+full-texts. We evaluate this question on a large-scale dataset from the medical domain (PubMed)
+and from economics (EconBiz). In these datasets, the titles and annotations of millions of publications
+are available, and they outnumber the available full-texts by a factor of 20 and 15, respectively.
+To exploit these large amounts of data to their full potential, we develop three strong deep learning
+classifiers and evaluate their performance on the two datasets. The results are promising. On the
+EconBiz dataset, all three classifiers outperform their full-text counterparts by a large margin.
+The best title-based classifier outperforms the best full-text method by 9.4%. On the PubMed dataset,
+the best title-based method almost reaches the performance of the best full-text classifier, with
+a difference of only 2.9%. 

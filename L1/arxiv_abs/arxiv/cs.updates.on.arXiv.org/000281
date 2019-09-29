@@ -1,0 +1,17 @@
+An approximate program transformation is a transformation that can change the semantics of a program
+within a specified empirical error bound. Such transformations have wide applications: they can
+decrease computation time, power consumption, and memory usage, and can, in some cases, allow implementations
+of incomputable operations. Correctness proofs of approximate program transformations are by
+definition quantitative. Unfortunately, unlike with standard program transformations, there
+is as of yet no modular way to prove correctness of an approximate transformation itself. Error bounds
+must be proved for each transformed program individually, and must be re-proved each time a program
+is modified or a different set of approximations are applied. In this paper, we give a semantics that
+enables quantitative reasoning about a large class of approximate program transformations in
+a local, composable way. Our semantics is based on a notion of distance between programs that defines
+what it means for an approximate transformation to be correct up to an error bound. The key insight
+is that distances between programs cannot in general be formulated in terms of metric spaces and
+real numbers. Instead, our semantics admits natural notions of distance for each type construct;
+for example, numbers are used as distances for numerical data, functions are used as distances for
+functional data, an polymorphic lambda-terms are used as distances for polymorphic data. We then
+show how our semantics applies to two example approximations: replacing reals with floating-point
+numbers, and loop perforation. 

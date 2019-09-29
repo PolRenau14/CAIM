@@ -1,0 +1,16 @@
+One of the major challenges of a real-time autonomous robotic system for construction monitoring
+is to simultaneously localize, map, and navigate over the lifetime of the robot, with little or no
+human intervention. Past research on Simultaneous Localization and Mapping (SLAM) and context-awareness
+are two active research areas in the computer vision and robotics communities. The studies that
+integrate both in real-time into a single modular framework for construction monitoring still
+need further investigation. A monocular vision system and real-time scene understanding are computationally
+heavy and the major state-of-the-art algorithms are tested on high-end desktops and/or servers
+with a high CPU- and/or GPU- computing capabilities, which affect their mobility and deployment
+for real-world applications. To address these challenges and achieve automation, this paper proposes
+an integrated robotic computer vision system, which generates a real-world spatial map of the obstacles
+and traversable space present in the environment in near real-time. This is done by integrating
+contextual Awareness and visual SLAM into a ground robotics agent. This paper presents the hardware
+utilization and performance of the aforementioned system for three different outdoor environments,
+which represent the applicability of this pipeline to diverse outdoor scenes in near real-time.
+The entire system is also self-contained and does not require user input, which demonstrates the
+potential of this computer vision system for autonomous navigation. 

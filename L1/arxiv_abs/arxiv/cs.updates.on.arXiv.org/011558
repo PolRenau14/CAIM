@@ -1,0 +1,16 @@
+Data analysis is at the core of scientific studies, a prominent task that researchers and practitioners
+typically undertake by programming their own set of automated scripts. While there is no shortage
+of tools and languages available for designing data analysis pipelines, users spend substantial
+effort in learning the specifics of such languages/tools and often design solutions too project
+specific to be reused in future studies. Furthermore, users need to put further effort into making
+their code scalable, as parallel implementations are typically more complex. We address these
+problems by proposing an advanced code recommendation tool which facilitates developing data
+science scripts. Users formulate their intentions in a human-readable Domain Specific Language
+(DSL) for dataframe manipulation and analysis. The DSL statements can be converted into executable
+Python code during editing. To avoid the need to learn the DSL and increase user-friendliness, our
+tool supports code completion in mainstream IDEs and editors. Moreover, DSL statements can generate
+executable code for different data analysis frameworks (currently we support Pandas and PySpark).
+Overall, our approach attempts to accelerate programming of common data analysis tasks and to facilitate
+the conversion of the implementations between frameworks. In a preliminary assessment based on
+a popular data processing tutorial, our tool was able to fully cover 9 out of 14 processing steps for
+Pandas and 10 out of 16 for PySpark, while partially covering 4 processing steps for each of the frameworks.

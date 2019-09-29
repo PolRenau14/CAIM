@@ -1,0 +1,16 @@
+Generally, the local interactions in a many-body quantum spin system on a lattice do not commute
+with each other. Consequently, the Hamiltonian of a local region will generally not commute with
+that of the entire system, and so the two cannot be measured simultaneously. The connection between
+the probability distributions of measurement outcomes of the local and global Hamiltonians will
+depend on the angles between the diagonalizing bases of these two Hamiltonians. In this paper we
+characterize the relation between these two distributions. On one hand, we upperbound the probability
+of measuring an energy $\tau$ in a local region, if the global system is in a superposition of eigenstates
+with energies $\epsilon<\tau$. On the other hand, we bound the probability of measuring a global
+energy $\epsilon$ in a bipartite system that is in a tensor product of eigenstates of its two subsystems.
+Very roughly, we show that due to the local nature of the governing interactions, these distributions
+are identical to what one encounters in the commuting case, up to some exponentially small corrections.
+Finally, we use these bounds to study the spectrum of a locally truncated Hamiltonian, in which the
+energies of a contiguous region have been truncated above some threshold energy $\tau$. We show
+that the lower part of the spectrum of this Hamiltonian is exponentially close to that of the original
+Hamiltonian. A restricted version of this result in 1D was a central building block in a recent improvement
+of the 1D area-law. 

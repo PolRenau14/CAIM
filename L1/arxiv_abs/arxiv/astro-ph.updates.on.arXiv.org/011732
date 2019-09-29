@@ -1,0 +1,16 @@
+There is a well known disparity between the evolution the star formation rate density, {\psi}*,
+and the abundance of neutral hydrogen (HI), the raw material for star formation. Recently, however,
+we have shown that {\psi}* may be correlated with the fraction of cool atomic gas, as traced through
+the 21-cm absorption of HI. This is expected since star formation requires cold (T ~ 10 K) gas and so
+this could address the issue of why the star formation rate density does not trace the bulk atomic
+gas. The data are, however, limited to redshifts of z < 2, where both {\psi}* and the cold gas fraction
+exhibit a similar steep climb from the present day (z = 0), and so it is unknown whether the cold gas
+fraction follows the same decline as {\psi}* at higher redshift. In order to address this, we have
+used unpublished archival observations of 21-cm absorption in high redshift damped Lyman-{\alpha}
+absorption systems to increase the sample at z > 2. The data suggest that the cold gas fraction does
+exhibit a decrease, although this is significantly steeper than {\psi}* at z ~ 3. This is, however,
+degenerate with the extents of the absorbing galaxy and the background continuum emission and upon
+removing these, via canonical evolution models, we find the mean spin temperature of the gas to be
+<T> ~ 3000 K, compared to the ~2000 K expected from the fit at z < 2. These temperatures are consistent
+with the observed high neutral hydrogen column densities, which require T < 4000 K in order for the
+gas not to be highly ionised. 

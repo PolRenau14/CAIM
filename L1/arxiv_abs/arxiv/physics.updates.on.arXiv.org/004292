@@ -1,0 +1,17 @@
+Models of physical systems are used to explain and predict experimental results and observations.
+The Modeling Framework for Experimental Physics describes the process by which physicists revise
+their models to account for the newly acquired observations, or change their apparatus to better
+represent their models when they encounter discrepancies between actual and expected behavior
+of a system. While modeling is a nationally recognized learning outcome for undergraduate physics
+lab courses, no assessments of students' model-based reasoning exist for upper-division labs.
+As part of a larger effort to create two assessments of students' modeling abilities, we used the
+Modeling Framework to develop and code think-aloud problem-solving activities centered on investigating
+an inverting amplifier circuit. This study is the second phase of a multiphase assessment instrument
+development process. Here, we focus on characterizing the range of modeling pathways students
+employ while interpreting the output signal of a circuit functioning far outside its recommended
+operation range. We end by discussing four outcomes of this work: (1) Students engaged in all modeling
+subtasks, and they spent the most time making measurements, making comparisons, and enacting revisions;
+(2) Each subtask occurred in close temporal proximity to all over subtasks; (3) Sometimes, students
+propose causes that do not follow logically from observed discrepancies; (4) Similarly, students
+often rely on their experiential knowledge and enact revisions that do not follow logically from
+articulated proposed causes. 

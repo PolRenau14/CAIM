@@ -1,0 +1,17 @@
+Estimating the expectation value of an observable is a fundamental task in quantum computation.
+Unfortunately, it is often impossible to obtain such estimates directly, as the computer is restricted
+to measuring in a fixed computational basis. One common solution splits the observable into a weighted
+sum of Pauli operators and measures each separately, at the cost of many measurements. An improved
+version first groups mutually commuting Pauli operators together and then measures all operators
+within each group simultaneously. The effectiveness of this depends on two factors. First, to enable
+simultaneous measurement, circuits are required to rotate each group to the computational basis.
+In our work, we present two efficient circuit constructions that suitably rotate any group of $k$
+commuting $n$-qubit Pauli operators using at most $kn-k(k+1)/2$ and $O(kn/\log k)$ two-qubit
+gates respectively. Second, metrics that justifiably measure the effectiveness of a grouping
+are required. In our work, we propose two natural metrics that operate under the assumption that
+measurements are distributed optimally among groups. Motivated by our new metrics, we introduce
+SORTED INSERTION, a grouping strategy that is explicitly aware of the weighting of each Pauli operator
+in the observable. Our methods are numerically illustrated in the context of the Variational Quantum
+Eigensolver, where the observables in question are molecular Hamiltonians. As measured by our
+metrics, SORTED INSERTION outperforms four conventional greedy colouring algorithms that seek
+the minimum number of groups. 

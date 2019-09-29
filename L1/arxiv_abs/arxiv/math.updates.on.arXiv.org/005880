@@ -1,0 +1,16 @@
+In this paper, we study first-order methods on a large variety of low-rank matrix optimization problems,
+whose solutions only live in a low dimensional eigenspace. Traditional first-order methods depend
+on the eigenvalue decomposition at each iteration which takes most of the computation time. In order
+to reduce the cost, we propose an inexact algorithm framework based on a polynomial subspace extraction.
+The idea is to use an additional polynomial-filtered iteration to extract an approximated eigenspace,
+and project the iteration matrix on this subspace, followed by an optimization update. The accuracy
+of the extracted subspace can be controlled by the degree of the polynomial filters. This kind of
+subspace extraction also enjoys the warm start property: the subspace of the current iteration
+is refined from the previous one. Then this framework is instantiated into two algorithms: the polynomial-filtered
+proximal gradient method and the polynomial-filtered alternating direction method of multipliers.
+We give a theoretical guarantee to the two algorithms that the polynomial degree is not necessarily
+very large. They share the same convergence speed as the corresponding original methods if the polynomial
+degree grows with an order $\Omega(\log k)$ at the $k$-th iteration. If the warm-start property
+is considered, the degree can be reduced to a constant, independent of the iteration $k$. Preliminary
+numerical experiments on several low-rank matrix optimization problems show that the polynomial
+filtered algorithms usually provide multi-fold speedups. 

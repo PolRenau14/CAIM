@@ -1,0 +1,16 @@
+The body-centered-tetragonal metallic compound EuCo{2-y}As2 orders into an antiferromagnetic
+helical structure below a temperature TN = 40-45 K, where the effective moment of the Eu spins-7/2
+in the paramagnetic state is enhanced by about 7% above the value expected for spectroscopic splitting
+factor g = 2, and the saturation moment at high fields and low T is also sometimes enhanced compared
+to the value for g = 2. Here we report X-band electron-spin resonance (ESR) measurements of the microscopic
+magnetic behavior of the Eu spins that were carried out to identify the origin of these enhanced moments.
+We infer that the enhancements arise from ferromagnetic polarization of the Co 3d band electrons
+by the Eu spins, where the polarized band electrons form a spin cloud around the Eu spins that adiabatically
+follows the motion of the Eu spins. In the past, the theoretically-required magnetic-field H prefactor
+to the expression for the field-dependent microwave ESR power absorption was omitted from fits
+of the ESR spectra for high concentrations of local magnetic moments in metals. Here we fitted the
+ESR spectra for EuCo{2-y}As2 both with and without the H prefactor in the fitting expression and
+found that the Dysonian alpha parameter is strongly affected when the H prefactor is omitted, whereas
+the resonant field and linewidth are changed by only a few percent. The integrated power absorption
+between H = 0 and H = infinity is finite if the H prefactor is ignored, whereas it diverges if the prefactor
+is included as discussed in the Appendix. 

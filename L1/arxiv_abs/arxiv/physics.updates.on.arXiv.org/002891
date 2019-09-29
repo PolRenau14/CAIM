@@ -1,0 +1,16 @@
+A detector has been constructed for measuring ion mobilities of gas mixtures at atmospheric pressure
+and room temperature. The detector consists of a standard triple GEM amplification region and a
+drift region where ions drift. A method has been developed to measure the ions' arrival time at a cathode
+wire-grid by differentiating the recorded signals on this electrode. Simulations prove that this
+method is accurate and robust. The ion mobility in different gas mixtures is measured while applying
+different drift field values ranging from 200 V cm$^{-1}$ to 1100 V cm$^{-1}$. From an extrapolation
+of a Blanc's law fit to measurements in Ar-CO$_2$ mixtures we find the reduced mobility of the drifting
+(cluster) ion species in pure argon to be $1.94\pm0.01$ cm$^{2}$ V$^{-1}$ s$^{-1}$ and in pure carbon-dioxide
+to be $1.10\pm0.01$ cm$^{2}$ V$^{-1}$ s$^{-1}$. Applying the same procedure to our measurements
+in Ne-CO$_2$ yields $4.06\pm0.07$ cm$^{2}$ V$^{-1}$ s$^{-1}$ and $1.09\pm0.01$ cm$^{2}$ V$^{-
+1}$ s$^{-1}$ for the reduced mobilities in pure neon and carbon-dioxide, respectively. Admixtures
+of N$_2$ to Ne-CO$_2$ reduce somewhat the mobility. For the baseline gas mixture of the future ALICE
+Time Projection Chamber, Ne- CO$_2$-N$_{2}$ (90-10-5), the measured reduced mobility of the drifting
+ions is $2.92\pm0.04$ cm$^{2}$ V$^{-1}$ s$^{-1}$. Ion mobilities are examined for different water
+content ranging from 70 ppm to about 2000 ppm in the gas using Ar-CO$_2$ (90-10) and Ne-CO$_2$ (90-10).
+A slight decrease of ion mobility is observed for the addition of several hundred ppm of water. 

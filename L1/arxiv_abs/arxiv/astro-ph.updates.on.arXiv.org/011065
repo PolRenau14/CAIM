@@ -1,0 +1,17 @@
+The neutral atomic hydrogen (HI) content of spiral galaxies has been observed to vary with environment,
+with more HI-deficient spirals residing in high density environments. This can be attributed to
+environmental effects such as ram pressure stripping and tidal interactions, which remove HI from
+the discs of galaxies. However, some spirals in low-density environments have also been observed
+to have relatively low HI mass fractions. The low densities of the Intergalactic Medium and lack
+of nearby galaxies in such environments make ram pressure stripping and tidal interactions unlikely
+candidates of gas removal. What then could be making these spirals HI deficient? Obreschkow et al.
+introduced a parameter-free model for the neutral atomic gas fraction ($f_{atm}$), in a symmetric
+equilibrium disc as a function of the global atomic stability parameter ($q$), which depends on
+specific angular momentum. In order to examine if this model accounts for HI-deficient galaxies
+in low-density environments, we have used the $M_{HI} ~-$ M$_{R}$ scaling relation to select six
+HI-deficient spiral galaxies and observed them with the ATCA. By measuring their $f_{atm}$ and
+$q$ values we find that the galaxies owe their observed HI deficiencies to low specific angular momenta.
+Additionally, we also find that the central HI hole sizes of our sample galaxies are related to their
+$q$ values, following the prediction of Obreschkow et al. This result brings to light the importance
+of angular momentum in understanding the physics of the interstellar medium in the discs of galaxies
+and consequently their evolution. 

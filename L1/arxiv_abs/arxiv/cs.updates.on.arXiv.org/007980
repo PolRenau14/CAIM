@@ -1,0 +1,17 @@
+Byzantine agreement (BA) has always been a classical distributed systems abstraction. About a
+decade ago, decentralized cryptocurrency and smart contract started to gain popularity, inspiring
+us to study the agreement problem in large-scale decentralized networks. In such decentralized
+systems, protocol messages are {\it multicast} over a peer-to-peer network to all consensus nodes
+(as opposed to a point-to-point network with pairwise channels). In this paper, we consider BA protocols
+suitable for such large-scale settings --- specifically, protocols that make use of only {\it a
+small number of multicast messages} to reach agreement. We say that a BA protocol achieves $C$ multicast
+complexity if only $C$ number of nodes need to speak (i.e., multicast messages) during the entire
+protocol. In this paper, we show new feasibility and infeasibility results regarding communication
+efficient BA protocols in the multicast model. First, we prove that under a plain authenticated
+channels model without any setup assumptions, BA protocols with sublinear (in the number of nodes)
+multicast complexity is impossible in the presence of an adaptive adversary, even when 99\% of the
+nodes are honest. We then show that this infeasibility can be circumvented assuming a public-key
+infrastructure and standard cryptographic assumptions (and without relying on the ability of
+honest nodes to securely erase secret data from memory). Specifically, we construct adaptively
+secure BA protocols with sublinear multicast complexity for either a {\it synchronous} or a {\it
+partially synchronous} network. 

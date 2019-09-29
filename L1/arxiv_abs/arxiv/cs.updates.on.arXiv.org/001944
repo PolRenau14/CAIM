@@ -1,0 +1,16 @@
+Intel Xeon Phi many-integrated-core (MIC) architectures usher in a new era of terascale integration.
+Among emerging killer applications, parallel graph processing has been a critical technique to
+analyze connected data. In this paper, we empirically evaluate various computing platforms including
+an Intel Xeon E5 CPU, a Nvidia Geforce GTX1070 GPU and an Xeon Phi 7210 processor codenamed Knights
+Landing (KNL) in the domain of parallel graph processing. We show that the KNL gains encouraging
+performance when processing graphs, so that it can become a promising solution to accelerating
+multi-threaded graph applications. We further characterize the impact of KNL architectural enhancements
+on the performance of a state-of-the art graph framework.We have four key observations: 1 Different
+graph applications require distinctive numbers of threads to reach the peak performance. For the
+same application, various datasets need even different numbers of threads to achieve the best performance.
+2 Only a few graph applications benefit from the high bandwidth MCDRAM, while others favor the low
+latency DDR4 DRAM. 3 Vector processing units executing AVX512 SIMD instructions on KNLs are underutilized
+when running the state-of-the-art graph framework. 4 The sub-NUMA cache clustering mode offering
+the lowest local memory access latency hurts the performance of graph benchmarks that are lack of
+NUMA awareness. At last, We suggest future works including system auto-tuning tools and graph framework
+optimizations to fully exploit the potential of KNL for parallel graph processing. 

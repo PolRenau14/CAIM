@@ -1,0 +1,16 @@
+A two-trophic ecosystem comprising of two species of predators competing for their common prey
+with explicit interference competition is considered. With a proper rescaling, the model is portrayed
+as a system of singularly perturbed equations with one-fast (prey dynamics) and two-slow variables
+(dynamics of the predators). The model exhibits variety of rich and complex dynamics including
+mixed-mode oscillations (MMOs) featuring concatenation of small and large amplitude oscillations,
+depending on the value of a control parameter. In a parameter regime near the so-called `folded saddle-node
+of type II' (FSN II) bifurcation point or the `singular-Hopf point' (such points generically occur
+in one parameter families of singularly perturbed systems with two slow variables), the system
+exhibits a bistable behavior. In this regime, chaotic MMOs in the form of a strange attractor coexists
+with a periodic attractor born out of a supercritical Hopf bifurcation. The bistable regime is analyzed
+by computing basins of attraction of the two attractors and studying a suitable Poincar\'e map.
+The emergence of MMOs in this regime is attributed to the `generalized canard phenomenon'. To elucidate
+our findings, the model is reduced to a normal form near the FSN II point, which is an organizing center
+for the MMOs. The normal form possess a `Shil'nikov-type equilibrium' and exhibits MMOs that have
+unbounded number of small amplitude oscillations in their signatures, suggesting that it realizes
+a `suitably modified' Shil'nikov mechanism. 

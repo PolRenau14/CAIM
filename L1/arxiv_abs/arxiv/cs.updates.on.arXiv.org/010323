@@ -1,0 +1,17 @@
+Document exchange and error correcting codes are two fundamental problems regarding communications.
+In the first problem, Alice and Bob each holds a string, and the goal is for Alice to send a short sketch
+to Bob, so that Bob can recover Alice's string. In the second problem, Alice sends a message with some
+redundant information to Bob through a channel that can add adversarial errors, and the goal is for
+Bob to correctly recover the message despite the errors. In a recent work \cite{CJLW18}, the authors
+constructed explicit deterministic document exchange protocols and binary error correcting
+codes for edit errors with almost optimal parameters.\ Unfortunately, the constructions in \cite{CJLW18}
+do not work for other common errors such as block transpositions. In this paper, we generalize the
+constructions in \cite{CJLW18} to handle a much larger class of errors. These include bursts of
+insertions and deletions, as well as block transpositions. Specifically, we consider document
+exchange and error correcting codes where the total number of block insertions, block deletions,
+and block transpositions is at most $k \leq \alpha n/\log n$ for some constant $0<\alpha<1$. In addition,
+the total number of bits inserted and deleted by the first two kinds of operations is at most $t \leq
+\beta n$ for some constant $0<\beta<1$, where $n$ is the length of Alice's string or message. We construct
+explicit, deterministic document exchange protocols with sketch size $ O( (k \log n +t) \log^2 \frac{n}{k\log
+n + t} )$ and explicit binary error correcting code with $O(k \log n \log \log \log n+t)$ redundant
+bits. 

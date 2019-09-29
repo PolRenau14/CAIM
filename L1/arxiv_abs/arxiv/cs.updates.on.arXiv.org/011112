@@ -1,0 +1,16 @@
+Aerial drones are becoming an integral part of application domains including but not limited to,
+military operations, package delivery, construction, monitoring and search/rescue operations.
+It is critical to ensure the cyber security of networked aerial drone systems in these applications.
+Standard cryptographic services can be deployed to provide basic security services; however,
+they have been shown to be inefficient in terms of energy and time consumption, especially for small
+aerial drones with resource-limited processors. Therefore, there is a significant need for an
+efficient cryptographic framework that can meet the requirements of small aerial drones. We propose
+an improved cryptographic framework for small aerial drones, which offers significant energy
+efficiency and speed advantages over standard cryptographic techniques. (i) We create (to the
+best of our knowledge) the first optimized public key infrastructure (PKI) based framework for
+small aerial drones, which provides energy efficient techniques by harnessing special precomputation
+methods and optimized elliptic curves. (ii) We also integrate recent light-weight symmetric primitives
+into our PKI techniques to provide a full-fledged cryptographic framework. (iii) We implemented
+standard counterparts and our proposed techniques on an actual small aerial drone (Crazyflie 2.0),
+and provided an in-depth energy analysis. Our experiments showed that our improved cryptographic
+framework achieves up to 35x lower energy consumption than its standard counterpart. 

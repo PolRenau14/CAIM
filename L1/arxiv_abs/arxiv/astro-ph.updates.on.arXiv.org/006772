@@ -1,0 +1,16 @@
+We present the gauge-invariant formalism of cosmological weak lensing, accounting for all the
+relativistic effects due to the scalar, vector, and tensor perturbations at the linear order. While
+the light propagation is fully described by the geodesic equation, the relation of the photon wavevector
+to the physical quantities requires the specification of the frames, where they are defined. By
+constructing the local tetrad bases at the observer and the source positions, we clarify the relation
+of the weak lensing observables such as the convergence, the shear, and the rotation to the physical
+size and shape defined in the source rest-frame and the observed angle and redshift measured in the
+observer rest-frame. Compared to the standard lensing formalism, additional relativistic effects
+contribute to all the lensing observables. We explicitly verify the gauge-invariance of the lensing
+observables and compare our results to previous work. In particular, we demonstrate that even in
+the presence of the vector and tensor perturbations, the physical rotation of the lensing observables
+vanishes at the linear order, while the tetrad basis rotates along the light propagation compared
+to a FRW coordinate. Though the latter is often used as a probe of primordial gravitational waves,
+the rotation of the tetrad basis is indeed not a physical observable. We further clarify its relation
+to the E-B decomposition in weak lensing. Our formalism provides a transparent and comprehensive
+perspective of cosmological weak lensing. 

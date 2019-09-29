@@ -1,0 +1,16 @@
+The Exact Regularized Point Particle (ERPP) method is extended to treat the interphase momentum
+coupling between particles and fluid in the presence of walls by accounting for the vorticity generation
+due to the particles close to solid boundaries. The ERPP method overcomes the limitations of other
+methods by allowing the simulation of an extensive parameter space (Stokes number, mass loading,
+particle-to-fluid density ratio and Reynolds number) and of particle spatial distributions that
+are uneven (few particles per computational cell). The enhanced ERPP method is explained in detail
+and validated by considering the global impulse balance. In conditions when particles are located
+close to the wall, a common scenario in wall-bounded turbulent flows, the main contribution to the
+total impulse arises from the particle-induced vorticity at the solid boundary. The method is applied
+to direct numerical simulations of particle-laden turbulent pipe flow in the two-way coupling
+regime to address the turbulence modulation. The effects of the mass loading, the Stokes number
+and the particle-to-fluid density ratio are investigated. The drag is either unaltered or increased
+by the particles with respect to the uncoupled case. No drag reduction is found in the parameter space
+considered. The momentum stress budget, which includes an extra stress contribution by the particles,
+provides the rationale behind the drag behaviour. The extra stress produces a momentum flux towards
+the wall that strongly modifies the viscous stress, the culprit of drag at solid boundaries. 

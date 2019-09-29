@@ -1,0 +1,16 @@
+We develop a framework for a new definition of the Galactic midplane, allowing for tilt (rotation
+about Galactic azimuth 90deg.), and roll (rotation about Galactic azimuth 0deg.) of the midplane
+with respect to the current definition. Derivation of the tilt and roll angles also determines the
+solar height above the midplane. Here we use nebulae from the WISE Catalog of Galactic HII Regions
+to define the Galactic high-mass star formation (HMSF) midplane. We analyze various subsamples
+of the WISE catalog and find that all have Galactic latitude scale heights near 0.30deg. and z-distribution
+scale heights near 30pc. The vertical distribution for small (presumably young) HII regions is
+narrower than that of larger (presumably old) HII regions (~25pc versus ~40pc), implying that the
+larger regions have migrated further from their birth sites. For all HII region subsamples and for
+a variety of fitting methodologies, we find that the HMSF midplane is not significantly tilted or
+rolled with respect to the currently-defined midplane, and therefore the Sun is near to the HMSF
+midplane. These results are consistent with other studies of HMSF, but are inconsistent with many
+stellar studies, perhaps due to asymmetries in the stellar distribution near the Sun. Our results
+are sensitive to latitude restrictions, and also to the completeness of the sample, indicating
+that similar analyses cannot be done accurately with less complete samples. The midplane framework
+we develop can be used for any future sample of Galactic objects to redefine the midplane. 

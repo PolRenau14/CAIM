@@ -1,0 +1,17 @@
+A pulsar wind is a relativistic outflow dominated by Poynting energy at its base. Based on the standard
+ideal magnetohydrodynamic (MHD) model of pulsar wind nebulae (PWNe) with the ordered magnetic
+field, the observed slow expansion $v_{\rm PWN} \ll c$ requires the wind to be dominated by kinetic
+energy at the upstream of its termination shock, which conflicts with the pulsar wind theory ($\sigma$-problem).
+In this paper, we extend the standard model of PWNe by phenomenologically taking into account conversion
+of the ordered to turbulent magnetic field and dissipation of the turbulent magnetic field. Disordering
+of the magnetic structure is inferred from the recent three-dimensional relativistic ideal MHD
+simulations, while magnetic dissipation is a non-ideal MHD effect requiring a finite resistivity.
+We apply this model to the Crab Nebula and find that the conversion effect is important for the flow
+deceleration, while the dissipation effect is not. Even for Poynting-dominated pulsar wind, we
+obtain the Crab Nebula's $v_{\rm PWN}$ by adopting a finite conversion time-scale of $\sim 0.3$
+yr. Magnetic dissipation primarily affects the synchrotron radiation properties. Any values
+of the pulsar wind magnetization $\sigma_{\rm w}$ are allowed within the present model of the PWN
+dynamics alone, and even a small termination shock radius of $\ll 0.1$ pc reproduces the observed
+dynamical features of the Crab Nebula. In order to establish a high-$\sigma_{\rm w}$ model of PWNe,
+it is important to extend the present model by taking into account the broadband spectrum and its
+spacial profiles. 

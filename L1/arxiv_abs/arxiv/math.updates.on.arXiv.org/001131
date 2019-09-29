@@ -1,0 +1,17 @@
+This article analyses a new class of advanced particle Markov chain Monte Carlo al- gorithms recently
+introduced by Andrieu, Doucet, and Holenstein (2010). We present a natural interpretation of these
+methods in terms of well known unbiasedness properties of Feynman-Kac particle measures, and a
+new duality with many-body Feynman-Kac models. This perspective sheds a new light on the foundations
+and the mathematical analysis of this class of methods. A key consequence is the equivalence between
+the backward and ancestral particle Markov chain Monte Carlo methods, and Gibbs sam- pling of a many-body
+Feynman-Kac target distribution. Our approach also presents a new stochastic differential calculus
+based on geometric combinatorial techniques to derive explicit non-asymptotic Taylor type series
+of the semigroup of a class of particle Markov chain Monte Carlo models around their invariant measures
+with respect to the population size of the auxiliary particle sampler. These results provide sharp
+quan- titative estimates of the convergence properties of conditional particle Markov chain models
+with respect to the time horizon and the size of the systems. We illustrate the implication of these
+results with sharp estimates of the contraction coefficient and the Lyapunov exponent of conditional
+particle samplers, and explicit and non-asymptotic Lp-mean error decompositions of the law of
+the random states around the limiting in- variant measure. The abstract framework developed in
+the article also allows the design of natural extensions to island (also called SMC2) type particle
+methodologies. 

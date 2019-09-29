@@ -1,0 +1,16 @@
+One solution to a relatively recent American Mathematical Monthly problem [6], requesting the
+evaluation of a real definite integral, could be couched in terms of a contour integral which vanishes
+{\textit{a priori.}} While the required real integral emerged on setting to zero the real part of
+the contour quadrature, the obligatory, simultaneous vanishing of the imaginary part alluded
+to still another pair of real integrals forming the first two entries in the infinite log-sine sequence,
+known in its entirety. It turns out that identical reasoning, utilizing the same contour but a slightly
+different analytic function thereon, sufficed not only to evaluate that sequence anew, on the basis
+of a vanishing real part, but also, in setting to zero its conjugate imaginary part, to recover the
+fundamental Bernoulli number recurrence. The even order Bernoulli numbers $B_{2k}$ entering
+therein were revealed on the basis of their celebrated connection to Riemann's zeta function $\zeta(2k).$
+Conversely, by permitting the related Bernoulli polynomials to participate as integrand factors,
+Euler's connection itself received an independent demonstration, accompanied once more by an
+elegant log-sine evaluation, alternative to that already given. And, while the Bernoulli recurrence
+is intended to enjoy here the pride of place, this note ends on a gloss wherein all the motivating real
+integrals are recovered yet again, and in quite elementary terms, from the Fourier series into which
+the Taylor development for Log$(1-z)$ blends when its argument $z$ is restricted to the unit circle.

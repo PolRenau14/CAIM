@@ -1,0 +1,16 @@
+In this paper, we consider a class of finite-sum convex optimization problems defined over a distributed
+multiagent network with $m$ agents connected to a central server. In particular, the objective
+function consists of the average of $m$ ($\ge 1$) smooth components associated with each network
+agent together with a strongly convex term. Our major contribution is to develop a new randomized
+incremental gradient algorithm, namely random gradient extrapolation method (RGEM), which does
+not require any exact gradient evaluation even for the initial point, but can achieve the optimal
+${\cal O}(\log(1/\epsilon))$ complexity bound in terms of the total number of gradient evaluations
+of component functions to solve the finite-sum problems. Furthermore, we demonstrate that for
+stochastic finite-sum optimization problems, RGEM maintains the optimal ${\cal O}(1/\epsilon)$
+complexity (up to a certain logarithmic factor) in terms of the number of stochastic gradient computations,
+but attains an ${\cal O}(\log(1/\epsilon))$ complexity in terms of communication rounds (each
+round involves only one agent). It is worth noting that the former bound is independent of the number
+of agents $m$, while the latter one only linearly depends on $m$ or even $\sqrt m$ for ill-conditioned
+problems. To the best of our knowledge, this is the first time that these complexity bounds have been
+obtained for distributed and stochastic optimization problems. Moreover, our algorithms were
+developed based on a novel dual perspective of Nesterov's accelerated gradient method. 

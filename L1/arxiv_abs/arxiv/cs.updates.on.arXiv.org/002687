@@ -1,0 +1,16 @@
+Recently, there has been significant interest in the integration and co-existence of Third Generation
+Partnership Project (3GPP) Long Term Evolution (LTE) with other Radio Access Technologies, like
+IEEE 802.11 Wireless Local Area Networks (WLANs). Although, the inter-working of IEEE 802.11 WLANs
+with 3GPP LTE has indicated enhanced network performance in the context of capacity and load balancing,
+the WLAN discovery scheme implemented in most of the commercially available smartphones is very
+inefficient and results in high battery drainage. In this paper, we have proposed an energy efficient
+WLAN discovery scheme for 3GPP LTE and IEEE 802.11 WLAN inter-working scenario. User Equipment
+(UE), in the proposed scheme, uses 3GPP network assistance along with the results of past channel
+scans, to optimally select the next channels to scan. Further, we have also developed an algorithm
+to accurately estimate the UE's mobility state, using 3GPP network signal strength patterns. We
+have implemented various discovery schemes in Android framework, to evaluate the performance
+of our proposed scheme against other solutions in the literature. Since, Android does not support
+selective scanning mode, we have implemented modules in Android to enable selective scanning.
+Further, we have also used simulation studies and justified the results using power consumption
+modeling. The results from the field experiments and simulations have shown high power savings
+using the proposed scanning scheme without any discovery performance deterioration. 

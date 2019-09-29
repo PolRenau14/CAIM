@@ -1,0 +1,17 @@
+The fundamental problem in the study of parallel-server systems is that of finding and analyzing
+`good' routing policies of arriving jobs to the servers. It is well known that, if full information
+regarding the workload process is available to a central dispatcher, then the {\em join the shortest
+workload} (JSW) policy, which assigns jobs to the server with the least workload, is the optimal
+assignment policy, in that it maximizes server utilization, and thus minimizes sojourn times.
+The {\em join the shortest queue} (JSQ) policy is an efficient dispatching policy when information
+is available only on the number of jobs with each of the servers, but not on their service requirements.
+If information on the state of the system is not available, other dispatching policies need to be
+employed, such as the power-of-$d$ routing policy, in which each arriving job joins the shortest
+among $d \ge 1$ queues sampled uniformly at random. (Under this latter policy, the system is known
+as {\em the supermarket model}.) In this paper we study the stability question of parallel server
+systems assuming that routing errors occur, so that arrivals may be routed to the `wrong' (not to
+the smallest) queue with a positive probability. We show that, even if a `non-idling' dispatching
+policy is employed, under which new arrivals are always routed to an idle server, if any is available,
+the performance of the system can be much worse than under the policy that chooses one of the servers
+uniformly at random. More specifically, we prove that the usual traffic intensity $\rho < 1$ does
+not guarantee that the system is stable. 

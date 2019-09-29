@@ -1,0 +1,17 @@
+It has been suggested that the Z-mode instability driven by energetic electrons with a loss-cone
+type velocity distribution is one candidate process behind the continuum and zebra pattern of solar
+type-IV radio bursts. Both the temperature of background plasma ($T_0$) and the energy of energetic
+electrons ($v_e$) are considered to be important to the variation of the maximum growth rate ($\gamma_{max}$).
+Here we present a detailed parameter study on the effect of $T_0$ and $v_e$, within a regime of the
+frequency ratio ($10 \leq \frac{\omega_{pe}}{\Omega_{ce}} \leq 30$). In addition to $\gamma_{max}$,
+we also analyze the effect on the corresponding wave frequency ($\omega^r_{max}$) and propagation
+angle ($\theta_{max}$). We find that (1) $\gamma_{max}$ in-general decreases with increasing
+$v_e$, while its variation with $T_0$ is more complex depending on the exact value of $v_e$; (2) with
+increasing $T_0$ and $v_e$, $\omega^r_{max}$ presents step-wise profiles with jumps separated
+by gradual or very-weak variations, and due to the warm-plasma effect on the wave dispersion relation
+$\omega^r_{max}$ can vary within the hybrid band (the harmonic band containing the upper hybrid
+frequency) and the band higher; (3) the propagation is either perpendicular or quasi-perpendicular,
+and $\theta_{max}$ presents variations in line with those of $\omega^r_{max}$, as constrained
+by the resonance condition. We also examine the profiles of $\gamma_{max}$ with $\frac{\omega_{pe}}{\Omega_{ce}}$
+for different combinations of $T_0$ and $v_e$ to clarify some earlier calculations which show inconsistent
+results. 

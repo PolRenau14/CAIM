@@ -1,0 +1,16 @@
+We present a first-principles approach to compute the transport properties of 2D materials in an
+accurate and automated framework. We use density-functional perturbation theory in the appropriate
+bidimensional setup with open-boundary conditions in the third direction. The materials are charged
+by field effect via planar counter-charges. In this approach, we obtain electron-phonon matrix
+elements in which dimensionality and doping effects are inherently accounted for, without the
+need for post-processing corrections. This treatment highlights some unexpected consequences,
+such as an increase of electron-phonon coupling with doping in transition-metal dichalcogenides.We
+use symmetries extensively and identify pockets of relevant electronic states to minimize the
+number of electron-phonon interactions to compute; the integrodifferential Boltzmann transport
+equation is then linearized and solved beyond the relaxation-time approximation. We apply the
+entire protocol to a set of much studied materials with diverse electronic and vibrational band
+structures: electron-doped MoS2, WS2, WSe2, phosphorene, arsenene, and hole-doped phosphorene.
+Among these, hole-doped phosphorene is found to have the highest mobility, with a room temperature
+value around 600 cm^2/(Vs). Last, we identify the factors that affect most phonon-limited mobilities,
+such as the number and the anisotropy of electron and hole pockets, to provide a broader understanding
+of the driving forces behind high mobilities in two-dimensional materials. 

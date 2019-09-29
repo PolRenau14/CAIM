@@ -1,0 +1,17 @@
+The Internet of Things (IoT) promises to help solve a wide range of issues that relate to our wellbeing
+within application domains that include smart cities, healthcare monitoring, and environmental
+monitoring. IoT is bringing new wireless sensor use cases by taking advantage of the computing power
+and flexibility provided by Edge and Cloud Computing. However, the software and hardware resources
+used within such applications must perform correctly and optimally. Especially in applications
+where a failure of resources can be critical. Service Level Agreements (SLA) where the performance
+requirements of such applications are defined, need to be specified in a standard way that reflects
+the end-to-end nature of IoT application domains, accounting for the Quality of Service (QoS) metrics
+within every layer including the Edge, Network Gateways, and Cloud. In this paper, we propose a conceptual
+model that captures the key entities of an SLA and their relationships, as a prior step for end-to-end
+SLA specification and composition. Service level objective (SLO) terms are also considered to
+express the QoS constraints. Moreover, we propose a new SLA grammar which considers workflow activities
+and the multi-layered nature of IoT applications. Accordingly, we develop a tool for SLA specification
+and composition that can be used as a template to generate SLAs in a machine-readable format. We demonstrate
+the effectiveness of the proposed specification language through a literature survey that includes
+an SLA language comparison analysis, and via reflecting the user satisfaction results of a usability
+study. 

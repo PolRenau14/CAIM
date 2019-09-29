@@ -1,0 +1,16 @@
+Two-loop anomalous dimensions and one-loop renormalization scheme matching factors are calculated
+for six-quark operators responsible for neutron-antineutron transitions. When combined with
+lattice QCD determinations of the matrix elements of these operators, our results can be used to
+reliably predict the neutron-antineutron vacuum transition time, $\tau_{n\bar{n}}$, in terms
+of basic parameters of baryon-number violating beyond-the-Standard-Model theories. The operators
+are classified by their chiral transformation properties, and a basis in which there is no operator
+mixing due to strong interactions is identified. Operator projectors that are required for non-perturbative
+renormalization of the corresponding lattice QCD six-quark operator matrix elements are constructed.
+A complete calculation of $\delta m = 1/\tau_{n\bar{n}}$ in a particular beyond-the-Standard-Model
+theory is presented as an example to demonstrate how operator renormalization and results from
+lattice QCD are combined with experimental bounds on $\delta m$ to constrain the scale of new baryon-number
+violating physics. At the present computationally accessible lattice QCD matching scale of $\sim$
+2 GeV, the next-to-next-to-leading-order effects calculated in this work correct the leading-order
+plus next-to-leading-order $\delta m$ predictions of beyond-the-Standard-Model theories by
+$< 26\%$. Next-to-next-to-next-to-leading-order effects provide additional unknown corrections
+to predictions of $\delta m$ that are estimated to be $< 7\%$. 

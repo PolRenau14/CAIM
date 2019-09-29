@@ -1,0 +1,16 @@
+We use the Aurora radiation-hydrodynamical simulations to study the mean free path (MFP) for hydrogen
+ionizing photons during the epoch of reionization. We directly measure the MFP by averaging the
+distance 1 Ry photons travel before reaching an optical depth of unity along random lines-of-sight.
+During reionization the free paths tend to end in neutral gas with densities near the cosmic mean,
+while after reionizaton the end points tend to be overdense but highly ionized. Despite the increasing
+importance of discrete, over-dense systems, the cumulative contribution of systems with $N_{\rm{HI}}
+\lesssim 10^{16.5}~{\rm cm^{-2}}$ suffices to drive the MFP at $z \approx 6$, while at earlier times
+higher column densities are more important. After reionization the typical size of HI systems is
+close to the local Jeans length, but during reionization it is much larger. The mean free path for
+photons originating close to galaxies, $\rm{MFP_{gal}}$, is much smaller than the cosmic MFP.
+After reionization this enhancement can remain significant up to starting distances of $\sim 1$
+comoving Mpc. During reionization, however, $\rm{MFP_{gal}}$ for distances $\sim 10^2 - 10^3$
+comoving kpc typically exceeds the cosmic MFP. These findings have important consequences for
+models that interpret the intergalactic MFP as the distance escaped ionizing photons can travel
+from galaxies before being absorbed and may cause them to under-estimate the required escape fraction
+from galaxies, and/or the required emissivity of ionizing photons after reionization. 

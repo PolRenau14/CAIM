@@ -1,0 +1,16 @@
+The t-J model is studied using a novel and rigorous mapping of the Gutzwiller projected electrons,
+in terms of canonical electrons. The mapping has considerable similarity to the Dyson-Maleev transformation
+relating spin operators to canonical Bosons. This representation gives rise to a non Hermitean
+quantum theory, characterized by minimal redundancies. A path integral representation of the
+canonical theory is given. Using it, the salient results of the extremely correlated Fermi liquid
+(ECFL) theory, including the previously found Schwinger equations of motion, are easily rederived.
+Further a transparent physical interpretation is obtained of the previously identified ingredients
+needed to compute the physical Greens function, namely the auxiliary Greens functions and the caparison
+factor. The low energy electron spectral function in this theory with a strong intrinsic asymmetry,
+is summarized in terms of a few expansion coefficients. The resulting energy dispersion is a hybrid
+of a massive and a massless Dirac spectrum $ E^*_Q\sim \gamma\, Q- \sqrt{\Gamma_0^2 + Q^2} $, where
+$Q\sim 0$ locates the kink momentum. Therefore the quasiparticle velocity interpolates between
+$(\gamma \mp 1)$ over a width $\Gamma_0$ on the two sides of $Q=0$. The resulting kink strongly resembles
+a prominent low energy feature seen in angle resolved photoemission spectra (ARPES) of cuprate
+materials. We also propose novel ways of analyzing the ARPES data to isolate the predicted asymmetry
+between particle and hole excitations. 

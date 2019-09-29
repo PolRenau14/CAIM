@@ -1,0 +1,16 @@
+The ability to predict the likelihood of impurity incorporation and their electronic energy levels
+in semiconductors is crucial for controlling its conductivity, and thus the semiconductor's performance
+in solar cells, photodiodes, and optoelectronics. The difficulty and expense of experimental
+and computational determination of impurity levels makes a data-driven machine learning approach
+appropriate. In this work, we show that a density functional theory-generated dataset of impurities
+in Cd-based chalcogenides CdTe, CdSe, and CdS can lead to accurate and generalizable predictive
+models of defect properties. By converting any semiconductor + impurity system into a set of numerical
+descriptors, regression models are developed for the impurity formation enthalpy and charge transition
+levels. These regression models can subsequently predict impurity properties in mixed anion CdX
+compounds (where X is a combination of Te, Se and S) fairly accurately, proving that although trained
+only on the end points, they are applicable to intermediate compositions. We make machine-learned
+predictions of the Fermi-level dependent formation energies of hundreds of possible impurities
+in 5 chalcogenide compounds, and suggest a list of impurities which can shift the equilibrium Fermi
+level in the semiconductor as determined by the dominant intrinsic defects. These dominating impurities
+as predicted by machine learning compare well with DFT predictions, revealing the power of machine-learned
+models in the quick screening of impurities likely to affect the optoelectronic behavior of semiconductors.

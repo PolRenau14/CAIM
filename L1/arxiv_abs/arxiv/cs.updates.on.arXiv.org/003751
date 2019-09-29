@@ -1,0 +1,17 @@
+Complex event processing (CEP) is widely employed to detect occurrences of predefined combinations
+(patterns) of events in massive data streams. As new events are accepted, they are matched using
+some type of evaluation structure, commonly optimized according to the statistical properties
+of the data items in the input stream. However, in many real-life scenarios the data characteristics
+are never known in advance or are subject to frequent on-the-fly changes. To modify the evaluation
+structure as a reaction to such changes, adaptation mechanisms are employed. These mechanisms
+typically function by monitoring a set of properties and applying a new evaluation plan when significant
+deviation from the initial values is observed. This strategy often leads to missing important input
+changes or it may incur substantial computational overhead by over-adapting. In this paper, we
+present an efficient and precise method for dynamically deciding whether and how the evaluation
+structure should be reoptimized. This method is based on a small set of constraints to be satisfied
+by the monitored values, defined such that a better evaluation plan is guaranteed if any of the constraints
+is violated. To the best of our knowledge, our proposed mechanism is the first to provably avoid false
+positives on reoptimization decisions. We formally prove this claim and demonstrate how our method
+can be applied on known algorithms for evaluation plan generation. Our extensive experimental
+evaluation on real-world datasets confirms the superiority of our strategy over existing methods
+in terms of performance and accuracy. 

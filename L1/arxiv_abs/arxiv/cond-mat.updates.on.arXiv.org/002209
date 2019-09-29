@@ -1,0 +1,16 @@
+Necking instabilities, in which tensile (extensional) deformation localizes into a small spatial
+region, are generic failure modes in elasto-viscoplastic materials. Materials in this very broad
+class --- including amorphous, crystalline, polycrystalline and other materials --- feature
+a predominantly elastic response at small stresses, plasticity onset at a rather well-defined
+yield stress and rate-dependence. Necking instabilities involve a unique coupling between the
+system's geometry and its constitutive behavior. We consider generic elasto-viscoplastic constitutive
+relations involving an internal-state field, which represents the structural evolution of the
+material during plastic deformation, and study necking in the long-wavelength approximation
+(sometimes termed the lubrication or slender-bar approximation). We derive a general expression
+for the largest time-dependent eigenvalue in an approximate WKB-like linear stability analysis,
+highlighting various basic physical effects involved in necking. This expression is then used
+to propose criteria for the onset of necking and more importantly for the emergence of strong localization.
+Applications to strain-softening amorphous plasticity, in the framework of the Shear-Transformation-Zone
+model, and to strain-hardening crystalline/polycrystalline plasticity, in the framework of
+the Kocks-Mecking model, are presented. These quantitative analyses of widely different material
+models support the theoretical predictions, most notably for the strong localization during necking.

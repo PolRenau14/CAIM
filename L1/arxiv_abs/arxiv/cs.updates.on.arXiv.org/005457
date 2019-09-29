@@ -1,0 +1,16 @@
+Identifying potential abuses of human rights through imagery is a novel and challenging task in
+the field of computer vision, that will enable to expose human rights violations over large-scale
+data that may otherwise be impossible. While standard databases for object and scene categorisation
+contain hundreds of different classes, the largest available dataset of human rights violations
+contains only 4 classes. Here, we introduce the `Human Rights Archive Database' (HRA), a verified-by-experts
+repository of 3050 human rights violations photographs, labelled with human rights semantic categories,
+comprising a list of the types of human rights abuses encountered at present. With the HRA dataset
+and a two-phase transfer learning scheme, we fine-tuned the state-of-the-art deep convolutional
+neural networks (CNNs) to provide human rights violations classification CNNs (HRA-CNNs). We
+also present extensive experiments refined to evaluate how well object-centric and scene-centric
+CNN features can be combined for the task of recognising human rights abuses. With this, we show that
+HRA database poses a challenge at a higher level for the well studied representation learning methods,
+and provide a benchmark in the task of human rights violations recognition in visual context. We
+expect this dataset can help to open up new horizons on creating systems able of recognising rich
+information about human rights violations. Our dataset, codes and trained models are available
+online at https://github.com/GKalliatakis/Human-Rights-Archive-CNNs. 

@@ -1,0 +1,16 @@
+Virtual observatories allow the means by which an astronomer is able to discover, access, and process
+data seamlessly, regardless of its physical location. However, steep learning curves are often
+required to become proficient in the software employed to access, analyse and visualise this trove
+of data. It would be desirable, for both research and educational purposes, to have applications
+which allow users to visualise data at the click of a button. Therefore, we have developed a standalone
+application (written in Python) for plotting photometric Colour Magnitude Diagrams (CMDs) - one
+of the most widely used tools for studying and teaching about astronomical populations. The CMD
+Plot Tool application functions "out of the box" without the need for the user to install code interpreters,
+additional libraries and modules, or to modify system paths; and it is available on multiple platforms.
+Interacting via a graphical user interface (GUI), users can quickly and easily generate high quality
+plots, annotated and labelled as desired, from various data sources. This paper describes how CMD
+Plot Tool was developed using Object Orientated Programming and a formal software design lifecycle
+(SDLC). We highlight the need for the astronomical software development culture to identify appropriate
+programming paradigms and SDLCs. We outline the functionality and uses of CMD Plot Tool, with examples
+of star cluster photometry. All results plots were created using CMD Plot Tool on data readily available
+from various online virtual observatories, or acquired from observations and reduced with IRAF/PyRAF.

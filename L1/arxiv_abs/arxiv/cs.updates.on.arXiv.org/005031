@@ -1,0 +1,16 @@
+Different from the conventional deep learning work based on an images content in computer vision,
+deep steganalysis is an art to detect the secret information embedded in an image via deep learning,
+pose challenge of detection weak information invisible hidden in a host image thus learning in a
+very low signal-to-noise (SNR) case. In this paper, we propose a 32- layer convolutional neural
+Networks (CNNs) in to improve the efficiency of preprocess and reuse the features by concatenating
+all features from the previous layers with the same feature- map size, thus improve the flow of information
+and gradient. The shared features and bottleneck layers further improve the feature propagation
+and reduce the CNN model parameters dramatically. Experimental results on the BOSSbase, BOWS2
+and ImageNet datasets have showed that the proposed CNN architecture can improve the performance
+and enhance the robustness. To further boost the detection accuracy, an ensemble architecture
+called as CNN-SCA-GFR is proposed, CNN-SCA- GFR is also the first work to combine the CNN architecture
+and conventional method in the JPEG domain. Experiments show that it can further lower detection
+errors. Compared with the state-of-the-art method XuNet [1] on BOSSbase, the proposed CNN-SCA-GFR
+architecture can reduce detection error rate by 5.67% for 0.1 bpnzAC and by 4.41% for 0.4 bpnzAC while
+the number of training parameters in CNN is only 17% of what used by XuNet. It also decreases the detection
+errors from the conventional method SCA-GFR by 7.89% for 0.1 bpnzAC and 8.06% for 0.4 bpnzAC, respectively.

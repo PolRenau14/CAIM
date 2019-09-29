@@ -1,0 +1,17 @@
+In this paper, we establish that Majorana zero modes emerging from a topological band structure
+of a chain of magnetic atoms embedded in a superconductor can be distinguished from trivial localized
+zero energy states that may accidentally form in this system using spin resolved measurements.
+To demonstrate this key Majorana diagnostics, we study the spin composition of magnetic impurity
+induced in-gap Shiba states in a superconductor using a quantum impurity model (at the mean-field
+level). By examining the spin and spectral densities in the context of the Bogoliubov-de Gennes
+(BdG) particle-hole symmetry, we derive a sum rule that relates the spin densities of localized
+Shiba states with those in the normal state without superconductivity. Extending our investigations
+to ferromagnetic chain of magnetic impurities, we identify key features of the spin properties
+of the extended Shiba state bands, as well as those associated with a localized Majorana end mode
+when the effect of spin-orbit interaction is included. We then formulate a phenomenological theory
+for the measurement of the local spin densities with spin-polarized scanning tunneling microscopy
+(STM) techniques. By combining the calculated spin densities and the measurement theory, we show
+that spin-polarized STM measurements can reveal a sharp contrast in spin polarization between
+an accidentally-zero-energy trivial Shiba state and a Majorana zero mode in a topological superconducting
+phase in atomic chains. We further confirm our results with numerical simulations that address
+generic parameter settings. 

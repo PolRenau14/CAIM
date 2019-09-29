@@ -1,0 +1,16 @@
+The emergence of novel interactive multimedia applications with high rate and low latency requirements
+has led to a drastic increase in the video data traffic over wireless cellular networks. Endowing
+the small base stations of a macro-cell with caches that can store some of the content is a promising
+technology to cope with the increasing pressure on the backhaul connections, and to reduce the delay
+for demanding video applications. In this work, delivery of an interactive multiview video to a
+set of wireless users is studied in an heterogeneous cellular network. Differently from existing
+works that focus on the optimization of the delivery delay and ignore the video characteristics,
+the caching and scheduling policies are jointly optimized, taking into account the quality of the
+delivered video and the video delivery time constraints. We formulate our joint caching and scheduling
+problem as the average expected video distortion minimization, and show that this problem is NP-hard.
+We then provide an equivalent formulation based on submodular set function maximization and propose
+a greedy solution with $\frac{1}{2}(1-\mbox{e}^{-1})$ approximation guarantee. The evaluation
+of the proposed joint caching and scheduling policy shows that it significantly outperforms benchmark
+algorithms based on popularity caching and independent scheduling. Another important contribution
+of this paper is a new constant approximation ratio for the greedy submodular set function maximization
+subject to a $d$-dimensional knapsack constraint. 

@@ -1,0 +1,17 @@
+Many-core accelerators, as represented by the XeonPhi coprocessors and GPGPUs, allow software
+to exploit spatial and temporal sharing of computing resources to improve the overall system performance.
+To unlock this performance potential requires software to effectively partition the hardware
+resource to maximize the overlap between hostdevice communication and accelerator computation,
+and to match the granularity of task parallelism to the resource partition. However, determining
+the right resource partition and task parallelism on a per program, per dataset basis is challenging.
+This is because the number of possible solutions is huge, and the benefit of choosing the right solution
+may be large, but mistakes can seriously hurt the performance. In this paper, we present an automatic
+approach to determine the hardware resource partition and the task granularity for any given application,
+targeting the Intel XeonPhi architecture. Instead of hand-crafting the heuristic for which the
+process will have to repeat for each hardware generation, we employ machine learning techniques
+to automatically learn it. We achieve this by first learning a predictive model offline using training
+programs; we then use the learned model to predict the resource partition and task granularity for
+any unseen programs at runtime. We apply our approach to 23 representative parallel applications
+and evaluate it on a CPU-XeonPhi mixed heterogenous many-core platform. Our approach achieves,
+on average, a 1.6x (upto 5.6x) speedup, which translates to 94.5% of the performance delivered by
+a theoretically perfect predictor. 

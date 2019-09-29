@@ -1,0 +1,16 @@
+Recent work has shown that neural network-based vision classifiers exhibit a significant vulnerability
+to misclassifications caused by imperceptible but adversarial perturbations of their inputs.
+These perturbations, however, are purely pixel-wise and built out of loss function gradients of
+either the attacked model or its surrogate. As a result, they tend to look pretty artificial and contrived.
+This might suggest that vulnerability to misclassification of slight input perturbations can
+only arise in a truly adversarial setting and thus is unlikely to be a problem in more benign contexts.
+In this paper, we provide evidence that such a belief might be incorrect. To this end, we show that
+neural networks are already vulnerable to significantly simpler - and more likely to occur naturally
+- transformations of the inputs. Specifically, we demonstrate that rotations and translations
+alone suffice to significantly degrade the classification performance of neural network-based
+vision models across a spectrum of datasets. This remains to be the case even when these models are
+trained using appropriate data augmentation and are already robust against the canonical, pixel-wise
+perturbations. Also, finding such "fooling" transformation does not even require having any special
+access to the model or its surrogate - just trying out a small number of random rotation and translation
+combinations already has a significant effect. These findings suggest that our current neural
+network-based vision models might not be as reliable as we tend to assume. 

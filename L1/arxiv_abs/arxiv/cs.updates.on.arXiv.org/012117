@@ -1,0 +1,16 @@
+A vector addition system with states (VASS) consists of a finite set of states and counters. A configuration
+is a state and a value for each counter; a transition changes the state and each counter is incremented,
+decremented, or left unchanged. While qualitative properties such as state and configuration
+reachability have been studied for VASS, we consider the long-run average cost of infinite computations
+of VASS. The cost of a configuration is for each state, a linear combination of the counter values.
+In the special case of uniform cost functions, the linear combination is the same for all states.
+The (regular) long-run emptiness problem is, given a VASS, a cost function, and a threshold value,
+if there is a (lasso-shaped) computation such that the long-run average value of the cost function
+does not exceed the threshold. For uniform cost functions, we show that the regular long-run emptiness
+problem is (a)~decidable in polynomial time for integer-valued VASS, and (b)~decidable but nonelementarily
+hard for natural-valued VASS (i.e., nonnegative counters). For general cost functions, we show
+that the problem is (c)~NP-complete for integer-valued VASS, and (d)~undecidable for natural-valued
+VASS. Our most interesting result is for (c) integer-valued VASS with general cost functions, where
+we establish a connection between the regular long-run emptiness problem and quadratic Diophantine
+inequalities. The general (nonregular) long-run emptiness problem is equally hard as the regular
+problem in all cases except (c), where it remains open. 

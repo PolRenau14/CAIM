@@ -1,0 +1,16 @@
+Both industry and academia have extensively investigated hardware accelerations. In this work,
+to address the increasing demands in computational capability and memory requirement, we propose
+structured weight matrices (SWM)-based compression techniques for both \emph{field programmable
+gate array} (FPGA) and \emph{application-specific integrated circuit} (ASIC) implementations.
+In algorithm part, SWM-based framework adopts block-circulant matrices to achieve a fine-grained
+tradeoff between accuracy and compression ratio. The SWM-based technique can reduce computational
+complexity from O($n^2$) to O($n\log n$) and storage complexity from O($n^2$) to O($n$) for each
+layer and both training and inference phases. For FPGA implementations on deep convolutional neural
+networks (DCNNs), we achieve at least 152X and 72X improvement in performance and energy efficiency,
+respectively using the SWM-based framework, compared with the baseline of IBM TrueNorth processor
+under same accuracy constraints using the data set of MNIST, SVHN, and CIFAR-10. For FPGA implementations
+on long short term memory (LSTM) networks, the proposed SWM-based LSTM can achieve up to 21X enhancement
+in performance and 33.5X gains in energy efficiency compared with the baseline accelerator. For
+ASIC implementations, the SWM-based ASIC design exhibits impressive advantages in terms of power,
+throughput, and energy efficiency. Experimental results indicate that this method is greatly
+suitable for applying DNNs onto both FPGAs and mobile/IoT devices. 

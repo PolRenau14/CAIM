@@ -1,0 +1,17 @@
+In a recently developed microscopic mean field theory, we have shown that the dynamics of a system,
+when described only in terms of its pair structure, can predict the correct dynamical transition
+temperature. Further, the theory predicted the difference in dynamics of two systems (the Lennard-Jones
+and the WCA) despite them having quite similar structures. This is in contrast to the Schweizer-Saltzman
+(SS) formalism which predicted the dynamics of these two systems to be similar. The two theories
+although similar in spirit have certain differences. Here we present a comparative study of these
+two formalisms to find the origin of the difference in their predictive power. We show that not only
+the dynamics in the potential energy surface, as described by our earlier study, but also that in
+the free energy surface, like in the SS theory, can predict the correct dynamical transition temperature.
+Even an approximate one component version of our theory, similar to the system used in the SS theory,
+can predict the transition temperature reasonably well. According to our analysis, the absence
+of the Vineyard approximation in the SS formalism led it to predict similar dynamics for the two systems.
+Interestingly, we show here that despite the above mentioned shortcomings the SS theory can actually
+predict the correct transition temperatures. Thus microscopic mean field theories of this class
+which express dynamics in terms of the pair structure of the liquid while being unable to predict
+the actual dynamics of the system are successful in predicting the correct dynamical transition
+temperature. 

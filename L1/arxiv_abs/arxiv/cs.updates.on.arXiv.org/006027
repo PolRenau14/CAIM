@@ -1,0 +1,16 @@
+In the last years, kernelization with structural parameters has been an active area of research
+within the field of parameterized complexity. As a relevant example, Gajarsk{\`y} et al. [ESA 2013]
+proved that every graph problem satisfying a property called finite integer index admits a linear
+kernel on graphs of bounded expansion and an almost linear kernel on nowhere dense graphs, parameterized
+by the size of a $c$-treedepth modulator, which is a vertex set whose removal results in a graph of
+treedepth at most $c$, where $c \geq 1$ is a fixed integer. The authors left as further research to
+investigate this parameter on general graphs, and in particular to find problems that, while admitting
+polynomial kernels on sparse graphs, behave differently on general graphs. In this article we answer
+this question by finding two very natural such problems: we prove that Vertex Cover admits a polynomial
+kernel on general graphs for any integer $c \geq 1$, and that Dominating Set does not for any integer
+$c \geq 2$ even on degenerate graphs, unless $\text{NP} \subseteq \text{coNP}/\text{poly}$.
+For the positive result, we build on the techniques of Jansen and Bodlaender [STACS 2011], and for
+the negative result we use a polynomial parameter transformation for $c\geq 3$ and an OR-cross-composition
+for $c = 2$. As existing results imply that Dominating Set admits a polynomial kernel on degenerate
+graphs for $c = 1$, our result provides a dichotomy about the existence of polynomial kernels for
+Dominating Set on degenerate graphs with this parameter. 

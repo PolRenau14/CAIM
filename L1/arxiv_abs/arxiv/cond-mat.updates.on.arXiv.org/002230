@@ -1,0 +1,16 @@
+Constructed to satisfy all known exact constraints and appropriate norms for a semilocal density
+functional, the strongly constrained and appropriately normed (SCAN) meta-generalized gradient
+approximation functional has shown early promise for accurately describing the electronic structure
+of molecules and solids. One open question is how well SCAN predicts the formation energy, a key quantity
+for describing the thermodynamic stability of solid-state compounds. To answer this question,
+we perform an extensive benchmark of SCAN by computing the formation energies for a diverse group
+of nearly one thousand crystalline compounds for which experimental values are known. Due to an
+enhanced exchange interaction in the covalent bonding regime, SCAN substantially decreases the
+formation energy errors for strongly-bound compounds, by approximately 50% to 110 meV/atom, as
+compared to the generalized gradient approximation of Perdew, Burke, and Ernzerhof (PBE). However,
+for intermetallic compounds, SCAN performs moderately worse than PBE with an increase in formation
+energy error of approximately 20%, stemming from SCAN's distinct behavior in the weak bonding regime.
+The formation energy errors can be further reduced via elemental chemical potential fitting. We
+find that SCAN leads to significantly more accurate predicted crystal volumes, moderately enhanced
+magnetism, and mildly improved band gaps as compared to PBE. Overall, SCAN represents a significant
+improvement in accurately describing the thermodynamics of strongly-bound compounds. 

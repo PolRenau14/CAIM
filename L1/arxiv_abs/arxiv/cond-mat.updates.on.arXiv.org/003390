@@ -1,0 +1,16 @@
+Representing a target quantum state by a compact, efficient variational wave-function is an important
+approach to the quantum many-body problem. In this approach, the main challenges include the design
+of a suitable variational ansatz and optimization of its parameters. In this work, we address both
+of these challenges. First, we define the variational class of Computational Graph States (CGS)
+which gives a uniform framework for describing all computable variational ansatz. Secondly, we
+develop a novel optimization scheme, supervised wave-function optimization (SWO), which systematically
+improves the optimized wave-function by drawing on ideas from supervised learning. While SWO can
+be used independently of CGS, utilizing them together provides a flexible framework for the rapid
+design, prototyping and optimization of variational wave-functions. We demonstrate CGS and SWO
+by optimizing for the ground state wave-function of 1D and 2D Heisenberg models on nine different
+variational architectures including architectures not previously used to represent quantum
+many-body wave-functions and find they are energetically competitive to other approaches. One
+interesting application of this architectural exploration is that we show that fully convolution
+neural network wave-functions can be optimized for one system size and, using identical parameters,
+produce accurate energies for a range of system sizes. We expect these methods to increase the rate
+of discovery of novel variational ansatz and bring further insights to the quantum many body problem.

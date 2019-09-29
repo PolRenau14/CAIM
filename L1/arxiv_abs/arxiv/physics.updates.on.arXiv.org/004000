@@ -1,0 +1,16 @@
+Particle Image Velocimetry (PIV) and Particle Tracking Velocimetry (PTV) have been employed to
+investigate the dynamics of finite-size spherical particles, slightly heavier than the carrier
+fluid, in a horizontal turbulent square duct flow. Interface resolved Direct Numerical Simulations
+(DNS) have also been performed with the Immersed Boundary Method (IBM) at the same experimental
+conditions, bulk Reynolds number $Re_{2H}$ = 5600, duct height to particle size ratio $2H/d_p$
+= 14.5, particle volume fraction $\Phi$ = 1% and particle to fluid density ratio $\rho_p/\rho_f$
+= 1.0035. A good agreement has been observed between experiments and simulations in terms of the
+overall pressure drop, concentration distribution and turbulent statistics of the two phases.
+Additional experimental results considering two particle sizes, $2H/d_p$ = 14.5 and 9 and multiple
+$\Phi$ = 1, 2, 3, 4 and 5% are reported at the same $Re_{2H}$. The pressure drop monotonically increases
+with the volume fraction, almost linearly and nearly independently of the particle size for the
+above parameters. However, despite the similar pressure drop, the microscopic picture, the fluid
+velocity statistics, differs significantly with the particle size. This one-to-one comparison
+between simulations and experiments extends the validity of interface resolved DNS in complex
+turbulent multiphase flows and highlights the ability of experiments to investigate such flows
+in considerable details, even in regions where the local volume fraction is relatively high. 

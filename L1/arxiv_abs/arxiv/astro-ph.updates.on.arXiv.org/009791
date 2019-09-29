@@ -1,0 +1,16 @@
+To understand the galaxy population in clusters today, we should also consider the impact of previous
+environments prior to cluster infall, namely preprocessing. We use YZiCS, a hydrodynamic high-resolution
+zoom-in simulation of 15 clusters, and focus on the tidal stripping suffered by the dark matter halos
+of cluster members due to preprocessing. We find ~48% of today's cluster members were once satellites
+of other hosts. This is slightly higher than previous estimates, in part, because we consider not
+just group-mass hosts, but hosts of all masses also. Thus, we find the preprocessed fraction is poorly
+correlated with cluster mass and is instead related to each cluster's recent mass growth rate. Hosts
+less massive than groups are significant contributors, providing more than one-third of the total
+preprocessed fraction. We find that halo mass loss is a clear function of the time spent in hosts.
+However, two factors can increase the mass loss rate considerably; the mass ratio of a satellite
+to its host, and the cosmological epoch when the satellite was hosted. The latter means we may have
+previously underestimated the role of high redshift groups. From a sample of heavily tidally stripped
+members in clusters today, nearly three quarters were previously in a host. Thus, visibly disturbed
+cluster members are more likely to have experienced preprocessing. Being hosted before cluster
+infall enables cluster members to experience tidal stripping for extended durations compared
+to direct cluster infall and at earlier epochs when hosts were more destructive. 

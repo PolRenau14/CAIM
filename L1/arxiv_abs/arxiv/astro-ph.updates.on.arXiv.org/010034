@@ -1,0 +1,17 @@
+Space Vehicle (SV) life span depends on its station keeping capability. Station keeping is the ability
+of the vehicle to maintain position and orientation. Due to external perturbations, the trajectory
+of the SV derives from the ideal orbit. Actual positioning systems for satellites are mainly based
+on ground equipment, which means heavy infrastructures. Autonomous positioning and navigation
+systems using Global Navigation Satellite Systems (GNSS) can then represent a great reduction
+in platform design and operating costs. Studies have been carried out and the first operational
+systems, based on GPS receivers, become available. But better availability of service could be
+obtained considering a receiver able to process GPS and Galileo signals. Indeed Galileo system
+will be compatible with the current and the modernized GPS system in terms of signals representation
+and navigation data. The greater availability obtained with such a receiver would allow significant
+increase of the number of point solutions and performance enhancement. For a mid-term perspective
+Thales Alenia Space finances a PhD to develop the concept of a reconfigurable receiver able to deal
+with both the GPS system and the future Galileo system. In this context, the aim of this paper is to
+assess the performances of a receiver designed for Geosynchronous Earth Orbit (GEO) applications.
+It is shown that high improvements are obtained with a receiver designed to track both GPS and Galileo
+satellites. The performance assessments have been used to define the specifications of the future
+satellite GNSS receiver. 

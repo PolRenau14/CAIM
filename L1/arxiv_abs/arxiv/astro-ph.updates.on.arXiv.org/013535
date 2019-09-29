@@ -1,0 +1,17 @@
+Weak gravitational lensing measurements based on photometry are limited by shape noise, the variance
+in the unknown pre-lensing orientations of the source galaxies. If the source is a disk galaxy with
+a well-ordered velocity field, however, velocity field data can support simultaneous inference
+of the shear, inclination, and position angle, virtually eliminating shape noise. We use the Fisher
+Information Matrix formalism to forecast the precision of this method in the idealized case of a
+perfectly ordered velocity field defined on an infinitesimally thin disk. For nearly face-on targets
+one shear component, $\gamma_\times$, can be constrained to $0.003\frac{90}{I_0}\frac{25}{n_{\rm
+pix}}$ where $I_0$ is the S/N of the central intensity pixel and $n_{\rm pix}$ is the number of pixels
+across a diameter enclosing enclosing 80% of the light. The other shear component, $\gamma_+$,
+is degenerate with the magnification $\mu$ but with a loose prior ($\sigma_\mu=1$) it can reach
+$0.009\frac{90}{I_0}\frac{25}{n_{\rm pix}}$. These constraints, however, degrade quickly
+at higher inclinations. We show that in general these constraints apply not to the shear components
+themselves but to two eigenvectors in the $(\gamma_\times,\gamma_+,\mu)$ space, with the third
+(usually $\mu$-like) eigenvector nearly unconstrained. We also forecast the potential of less
+expensive partial observations of the velocity field such as slit spectroscopy. We conclude by
+outlining some ways in which real galaxies depart from our idealized model, which may present barriers
+to practical implementation. 

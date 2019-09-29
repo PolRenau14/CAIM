@@ -1,0 +1,16 @@
+Intrinsic defects give rise to scattering processes governing the transport properties of mesoscopic
+systems. We investigate analytically and numerically the local density of states in Bernal stacking
+bilayer graphene with a point defect. With Bernal stacking structure, there are two types of lattice
+sites. One corresponds to connected sites, where carbon atoms from each layer stack on top of each
+other, and the other corresponds to disconnected sites. From our theoretical study, a picture emerges
+in which the pronounced zero-energy peak in the local density of states does not attribute to zero-energy
+impurity states associated to two different types of defects but to a collective phenomenon of the
+low-energy resonant states induced by the defect. To corroborate this description, we numerically
+show that at small system size $N$, where $N$ is the number of unit cells, the zero-energy peak near
+the defect scales as $1/\ln N$ for the quasi-localized zero-energy state and as $1/N$ for the delocalized
+zero-energy state. As the system size approaches to the thermodynamic limit, the former zero-energy
+peak becomes a power-law singularity $1/|E|$ in low energies, while the latter is broadened into
+a Lorentzian shape. A striking point is that both types of zero-energy peaks decay as $1/r^2$ away
+from the defect, manifesting the quasi-localized character. Based on our results, we propose a
+general formula for the local density of states in low-energy and in real space. Our study sheds light
+on this fundamental problem of defects. 

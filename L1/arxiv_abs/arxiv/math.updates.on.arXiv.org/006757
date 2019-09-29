@@ -1,0 +1,16 @@
+We consider the framework of learning over decentralized networks, where nodes observe unique,
+possibly correlated, observation streams. We focus on the case where agents learn a regression
+\emph{function} that belongs to a reproducing kernel Hilbert space (RKHS). In this setting, a decentralized
+network aims to learn nonlinear statistical models that are optimal in terms of a global stochastic
+convex functional that aggregates data across the network, with only access to a local data stream.
+We incentivize coordination while respecting network heterogeneity through the introduction
+of nonlinear proximity constraints. To solve it, we propose applying a functional variant of stochastic
+primal-dual (Arrow-Hurwicz) method which yields a decentralized algorithm. To handle the fact
+that the RKHS parameterization has complexity proportionate with the iteration index, we project
+the primal iterates onto Hilbert subspaces that are greedily constructed from the observation
+sequence of each node. The resulting proximal stochastic variant of Arrow-Hurwicz, dubbed Heterogeneous
+Adaptive Learning with Kernels (HALK), is shown to converge in expectation, both in terms of primal
+sub-optimality and constraint violation to a neighborhood that depends on a given constant step-size
+selection. Simulations on a correlated spatio-temporal random field estimation problem validate
+our theoretical results, which are born out in practice for networked oceanic sensing buoys estimating
+temperature and salinity from depth measurements. 

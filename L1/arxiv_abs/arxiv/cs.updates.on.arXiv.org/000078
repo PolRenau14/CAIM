@@ -1,0 +1,16 @@
+An archetypal problem discussed in computer science is the problem of searching for a given number
+in a given set of numbers. Other than sequential search, the classic solution is to sort the list of
+numbers and then apply binary search. The binary search problem has a complexity of O(logN) for a
+list of N numbers while the sorting problem cannot be better than O(N) on any sequential computer
+following the usual assumptions. Whenever the problem of deciding partial order can be done in O(1),
+a variation of the problem on some bounded list of numbers is to apply binary search without resorting
+to sort. The overall complexity of the problem is then O(log R) for some radius R. A logarithmic upper-bound
+for finite encodings is shown. Also, the topology of orderings can provide efficient algorithms
+for search problems in combinatorial spaces. The main characteristic of those spaces is that they
+have typical exponential space complexities. The factorial case describes an order topology that
+can be illustrated using the combinatorial polytope . When a known order topology can be combined
+to a given formulation of a search problem, the resulting search problem has a polylogarithmic complexity.
+This logarithmic complexity can then become useful in combinatorial search by providing a logarithmic
+break-down. These algorithms can be termed as the class of search algorithms that do not require
+read and are equivalent to the class of logarithmically recursive functions. Also, the notion of
+order invariance is discussed. 

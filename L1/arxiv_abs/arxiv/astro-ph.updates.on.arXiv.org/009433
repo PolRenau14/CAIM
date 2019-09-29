@@ -1,0 +1,16 @@
+We model the broadband (optical/UV and X-ray) continuum spectrum of the "changing-look" active
+galactic nucleus (AGN) Mrk 1018 as it fades from Seyfert 1 to 1.9 in $\sim 8$ years. The brightest spectrum,
+with Eddington ratio $L/L_{\rm Edd}\sim 0.08$, has a typical type 1 AGN continuum, with a strong
+"soft X-ray excess" spanning between the UV and soft X-rays. The dimmest spectrum, at $L/L_{\rm
+Edd} \sim 0.006$, is very different in shape as well as luminosity, with the soft excess dropping
+by much more than the hard X-rays. The soft X-ray excess produces most of the ionizing photons, so
+its dramatic drop leads to the disappearance of the broad line region, driving the "changing-look"
+phenomena. This spectral hardening appears similar to the soft-to-hard state transition in black
+hole binaries at $L/L_{\rm Edd} \sim 0.02$, where the inner disc evaporates into an advection dominated
+accretion flow, while the overall drop in luminosity appears consistent with the Hydrogen ionization
+disc instability. Nonetheless, both processes happen much faster in Mrk 1018 than predicted by
+disc theory. We critically examine scaling from galactic binary systems, and show that a major difference
+is that radiation pressure should be much more important in AGNs, so that the sound speed is much faster
+than expected from the gas temperature. Including magnetic pressure to stabilize the disc shortens
+the timescales even further. We suggest that all changing-look AGNs are similarly associated with
+the state transition at $L/L_{\rm Edd} \sim$ a few percent. 

@@ -1,0 +1,17 @@
+In this paper we extend the recently introduced reduced basis-hierarchical model reduction framework
+for the application to nonlinear partial differential equations. The major new ingredient to accomplish
+this goal is the introduction of the Empirical Projection Method, which is an adaptive integration
+algorithm based on empirical interpolation. We project both the variational formulation and the
+range of the nonlinear operator onto reduced spaces. Those combine the full dimensional space in
+an identified dominant spatial direction and a reduction space or collateral basis space spanned
+by modal orthonormal basis functions in the transverse direction. Both the reduction and the collateral
+basis space are constructed in a highly nonlinear fashion by introducing a parametrized problem
+in the transverse direction and associated parametrized operator evaluations, and by applying
+reduced basis methods to select the bases from the corresponding snapshots. Rigorous a priori and
+a posteriori error estimators which do not require additional regularity of the nonlinear operator
+are proven for the Empirical Projection Method and then used to derive a rigorous a posteriori error
+estimator for the resulting hierarchical model reduction approach. Numerical experiments for
+an elliptic nonlinear diffusion equation demonstrate a fast convergence of the proposed dimensionally
+reduced approximation to the solution of the full-dimensional problem. Run-time experiments
+verify a linear scaling of the reduction method in the number of degrees of freedom used for the computations
+in the dominant direction. 

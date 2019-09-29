@@ -1,0 +1,16 @@
+More than one hundred galaxy-scale strong gravitational lens systems have been found by searching
+for the emission lines coming from galaxies with redshifts higher than the lens galaxies. Based
+on this spectroscopic-selection method, we introduce the deep Residual Networks (ResNet, a kind
+of deep Convolutional Neural Networks) to search for the galaxy-Ly$\alpha$ emitter (LAE) lens
+candidates by recognizing the Ly$\alpha$ emission lines coming from high redshift galaxies ($2
+< z < 3$) in the spectra of early-type galaxies (ETGs) at middle redshift ($z\sim 0.5$). The spectra
+of the ETGs come from the Data Release 12 (DR12) of the Baryon Oscillation Spectroscopic Survey (BOSS)
+of the Sloan Digital Sky Survey \uppercase\expandafter{\romannumeral3} (SDSS-\uppercase\expandafter{\romannumeral3}).
+In this paper, we first build a 28 layers ResNet model, and then artificially synthesize 150,000
+training spectra, including 140,000 spectra without Ly$\alpha$ lines and 10,000 ones with Ly$\alpha$
+lines, to train the networks. After 20 training epochs, we obtain a near-perfect test accuracy at
+0.9954. The corresponding loss is 0.0028 and the completeness is 93.6\%. We finally apply our ResNet
+model to our predictive data with 174 known lens candidates. We obtain 1232 hits including 161 of
+the 174 known candidates (92.5\% discovery rate). Apart from the hits found in other works, our ResNet
+model also find 536 new hits. We then perform several subsequent selections on these 536 hits and
+present 5 most believable lens candidates. 

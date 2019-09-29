@@ -1,0 +1,17 @@
+Time series analysis allows for the determination of the Power Spectral Density (PSD) and Probability
+Density Function (PDF) for astrophysical sources. The former of these illustrates the distribution
+of power at various timescales, typically taking a power-law form, while the latter characterises
+the distribution of the underlying stochastic physical processes, with Gaussian and lognormal
+functional forms both physically motivated. In this paper, we use artificial time series generated
+using the prescription of Timmer & Koenig to investigate connections between the PDF and PSD. PDFs
+calculated for these artificial light curves are less likely to be well described by a Gaussian functional
+form for steep (<-1) PSD spectral indices due to weak non-stationarity. Using the Fermi LAT monthly
+light curve of the blazar PKS2155-304 as an example, we prescribe and calculate a false positive
+rate which indicates how likely the PDF is to be attributed an incorrect functional form. Here, we
+generate large numbers of artificial light curves with intrinsically normally distributed PDFs
+and with statistical properties consistent with observations. These are used to evaluate the probabilities
+that either Gaussian or lognormal functional forms better describe the PDF. We use this prescription
+to show that PKS2155-304 requires a high prior probability of having a normally distributed PDF,
+P(G) >= 0.82, for the calculated PDF to prefer a Gaussian functional form over a lognormal. We present
+possible choices of prior and evaluate the probability that PKS2155-304 has a lognormally distributed
+PDF for each. 

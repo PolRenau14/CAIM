@@ -1,0 +1,16 @@
+Drell-Yan lepton pairs with finite transverse momentum are produced when the vector boson recoils
+against (multiple) parton emission(s), and is determined by QCD dynamics. At small transverse
+momentum, the fixed order predictions break down due to the emergence of large logarithmic contributions.
+This region can be studied via the $p_T^Z$ distribution constructed from the energies of the leptons,
+or through the $\phi^*$ distribution that relies on the directions of the leptons. For sufficiently
+small transverse momentum, the $\phi^*$ observable can be measured experimentally with better
+resolution. We study the small $p_T^Z$ and $\phi^*$ distributions up to next-to-next-to-leading
+order (NNLO) in perturbative QCD. We compute the $\phi^*$ distributions for the fully inclusive
+production of lepton pairs via $Z/\gamma^*$ to NNLO and normalise them to the NNLO cross sections
+for inclusive $Z/\gamma^*$ production. We compare our predictions with the $\phi^*$ distribution
+measured by the ATLAS collaboration during LHC operation at 8 TeV. We find that at moderate to large
+values of $\phi^*$, the NNLO effects are positive and lead to a substantial improvement in the theory-data
+comparison compared to next-to-leading order (NLO). At small values of $p_T^Z$ and $\phi^*$, the
+known large logarithmic enhancements emerge through and we identify the region where resummation
+is needed. We find an approximate relationship between the values of $p_T^Z$ and $\phi^*$ where
+the large logarithms emerge and find perturbative consistency between the two observables. 

@@ -1,0 +1,16 @@
+I present an organic description of the spectrum of regimes of collisionless tidal streams and define
+the orderings between the relevant physical quantities that shape their morphology. Three dichotomies
+are identified and the mechanisms through which they regulate the main qualitative properties
+of a stream are illustrated. These determine (i) the speed of the differential streaming, (ii) the
+internal coherence of the stream, (iii) its thickness or opening angle. The roles of the slope of
+the host's density profile, the progenitor's internal kinematics (and ordered rotation), the
+details of the shedding history are systematically inspected. Within this framework, I concentrate
+on the mechanism that causes the characteristic `feathering' typical of streams of star clusters,
+which is found to be a natural feature of coherent streams. Feathers appear as collections of multiple
+`armlets', each composed of stars shed between two successive apocentric passages of the progenitor.
+Each armlet is folded along its length, pulled at its centre by the faster differential streaming
+of stars released near pericenter. The same mechanism is capable of generating `bifurcations'
+(i.e. bimodal density distributions) in the faster streams of more massive progenitors. I explore
+on the conditions under which streams are internally coherent and comment on the cases of Palomar~5,
+Willman~1, the Anticenter and Sagittarius' streams. Analytic analyses are accompanied by numerical
+experiments, which are performed using a purposely built generative model, also presented here.

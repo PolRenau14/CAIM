@@ -1,0 +1,16 @@
+We present a mathematical analysis of planar motion of energetic electrons moving through a planar
+dipole undulator, excited by a fixed planar polarized plane wave Maxwell field in the X-Ray Free
+Electron Laser (FEL) regime. Our starting point is the 6D Lorentz system, which allows planar motions,
+and we examine this dynamical system as the wavelength of the traveling wave varies. By scalings
+and transformations the 6D system is reduced, without approximation, to a 2D system in a form for
+a rigorous asymptotic analysis using the Method of Averaging (MoA), a long time perturbation theory.
+The two dependent variables are a scaled energy deviation and a generalization of the so-called
+ponderomotive phase. As the wavelength varies the system passes through resonant and nonresonant
+(NR) zones and we develop NR and near-to-resonant (NtoR) normal form approximations. For a special
+initial condition and on resonance, the NtoR normal form reduces to the well-known FEL pendulum
+system. We then state and prove NR and NtoR first-order averaging theorems which give near optimal
+error bounds for the MoA approximations. The proofs are novel in that they do not use a near identity
+transformation and they use a system of differential inequalities. The NR case is an example of quasiperiodic
+averaging where the small divisor problem enters in the simplest possible way. To our knowledge
+the planar problem has not been analyzed with the generality we aspire to here nor has the standard
+FEL pendulum system been derived with associated error bounds as we do here. 

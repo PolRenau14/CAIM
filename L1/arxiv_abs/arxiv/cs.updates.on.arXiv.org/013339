@@ -1,0 +1,16 @@
+Blended courses that mix in-person instruction with online platforms are increasingly popular
+in secondary education. These tools record a rich amount of data on students' study habits and social
+interactions. Prior research has shown that these metrics are correlated with students' performance
+in face to face classes. However, predictive models for blended courses are still limited and have
+not yet succeeded at early prediction or cross-class predictions even for repeated offerings of
+the same course. In this work, we use data from two offerings of two different undergraduate courses
+to train and evaluate predictive models on student performance based upon persistent student characteristics
+including study habits and social interactions. We analyze the performance of these models on the
+same offering, on different offerings of the same course, and across courses to see how well they
+generalize. We also evaluate the models on different segments of the courses to determine how early
+reliable predictions can be made. This work tells us in part how much data is required to make robust
+predictions and how cross-class data may be used, or not, to boost model performance. The results
+of this study will help us better understand how similar the study habits, social activities, and
+the teamwork styles are across semesters for students in each performance category. These trained
+models also provide an avenue to improve our existing support platforms to better support struggling
+students early in the semester with the goal of providing timely intervention. 

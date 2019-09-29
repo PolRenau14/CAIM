@@ -1,0 +1,16 @@
+Charge carrier scattering is critical to the electrical properties of two-dimensional materials
+such as graphene, transition metal dichalcogenide monolayers, black phosphorene, and tellurene.
+Beyond pristine two-dimensional materials, further tailored properties can be achieved by nanoporous
+patterns such as nano- or atomic-scale pores (antidots) across the material. As one example, structure-dependent
+electrical/optical properties for graphene antidot lattices (GALs) have been studied in recent
+years. However, detailed charge carrier scattering mechanism is still not fully understood, which
+hinders the future improvement and potential applications of such metamaterials. In this paper,
+the energy sensitivity of charge-carrier scattering and thus the dominant scattering mechanisms
+are revealed for GALs by analyzing the maximum Seebeck coefficient with a tuned gate voltage and
+thus shifted Fermi levels. It shows that the scattering from pore-edge-trapped charges is dominant,
+especially at elevated temperatures. For thermoelectric interests, the gate-voltage-dependent
+power factor of different GAL samples are measured as high as 509 at 400 K for a GAL with the square pattern.
+Such a high power factor is improved by more than one order of magnitude from the values for the state-of-the-art
+bulk thermoelectric materials. With their high thermal conductivities and power factors, these
+GALs can be well suitable for "active coolers" within electronic devices, where heat generated
+at the hot spot can be removed with both passive heat conduction and active Peltier cooling. 

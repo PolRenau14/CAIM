@@ -1,0 +1,16 @@
+Efficient estimation of wideband spectrum is of great importance for applications such as cognitive
+radio. Recently, sub-Nyquist sampling schemes based on compressed sensing have been proposed
+to greatly reduce the sampling rate. However, the important issue of quantization has not been fully
+addressed, particularly for high-resolution spectrum and parameter estimation. In this paper,
+we aim to recover spectrally-sparse signals and the corresponding parameters, such as frequency
+and amplitudes, from heavy quantizations of their noisy complex-valued random linear measurements,
+e.g. only the quadrant information. We first characterize the Cramer-Rao bound under Gaussian
+noise, which highlights the trade-off between sample complexity and bit depth under different
+signal-to-noise ratios for a fixed budget of bits. Next, we propose a new algorithm based on atomic
+norm soft thresholding for signal recovery, which is equivalent to proximal mapping of properly
+designed surrogate signals with respect to the atomic norm that motivates spectral sparsity. The
+proposed algorithm can be applied to both the single measurement vector case, as well as the multiple
+measurement vector case. It is shown that under the Gaussian measurement model, the spectral signals
+can be reconstructed accurately with high probability, as soon as the number of quantized measurements
+exceeds the order of K log n, where K is the level of spectral sparsity and $n$ is the signal dimension.
+Finally, numerical simulations are provided to validate the proposed approaches. 

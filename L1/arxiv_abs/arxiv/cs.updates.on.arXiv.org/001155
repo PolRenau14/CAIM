@@ -1,0 +1,17 @@
+Today, there is a trend to incorporate more intelligence (e.g., vision capabilities) into a wide
+range of devices, which makes high performance a necessity for computing systems. Furthermore,
+for embedded systems, low power consumption should be generally considered together with high
+computing performance. FPGAs, as programmable logic devices able to support different types of
+fine-grained parallelisms, their power and performance advantages were recognized widely. However,
+designing applications on FPGA-based systems is traditionally far from a task can be carried out
+by software programmers. Generally, hardware engineers and even system-level software engineers
+have more hardware/architectural knowledge but fewer algorithm and application knowledge. Thus,
+it is critical for computing systems to allow application-level programmers to realize their idea
+conveniently, which is popular in computing systems based on the general processor. In this paper,
+the OpenHEC (Open Framework for High-Efficiency Computing) framework is proposed to provide a
+design framework for application-level software programmers to use FPGA-based platforms. It
+frees users from hardware and architectural details to let them focus more on algorithms/applications.
+This framework was integrated with the commercial Xilinx ISE/Vivado to make it to be used immediately.
+After implementing a widely-used feature detection algorithm on OpenHEC from the perspective
+of software programmers, it shows this framework is applicable for application programmers with
+little hardware knowledge. 

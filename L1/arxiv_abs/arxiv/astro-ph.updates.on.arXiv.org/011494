@@ -1,0 +1,16 @@
+We investigate the possibility that the dwarf galaxies Crater II and Hercules have previously been
+tidally stripped by the Milky Way. We present Magellan/IMACS spectra of candidate member stars
+in both objects. We identify 37 members of Crater II, 25 of which have velocity measurements in the
+literature, and we classify 3 stars within that subset as possible binaries. We find that including
+or removing these binary candidates does not change the derived velocity dispersion of Crater II.
+Excluding the binary candidates, we measure a velocity dispersion of $\sigma_{V_{los}} = 2.7^{+0.5}_{-0.4}$
+\kms, corresponding to $M/L = 47^{+17}_{-13}$ M$_{\odot}/$L$_{\odot}$. We measure a mean metallicity
+of [Fe/H] = $-1.95^{+0.06}_{-0.05}$, with a dispersion of $\sigma_{\mbox{[Fe/H]}} = 0.18^{+0.06}_{-0.08}$.
+Our velocity dispersion and metallicity measurements agree with previous measurements for Crater
+II, and confirm that the galaxy resides in a kinematically cold dark matter halo. We also search for
+spectroscopic members stripped from Hercules in the possible extratidal stellar overdensities
+surrounding the dwarf. For both galaxies, we calculate proper motions using \textit{Gaia} DR2
+astrometry, and use their full 6D phase space information to evaluate the probability that their
+orbits approach sufficiently close to the Milky Way to experience tidal stripping. Given the available
+kinematic data, we find a probability of $\sim$40% that Hercules has suffered tidal stripping.
+The proper motion of Crater II makes it almost certain to be stripped. 

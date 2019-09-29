@@ -1,0 +1,17 @@
+We present a detailed Monte Carlo model of observational errors in observed galaxy scaling relations
+to recover the intrinsic (cosmic) scatter driven by galaxy formation and evolution processes.
+We apply our method to the stellar radial acceleration relation (RAR) which compares the local observed
+radial acceleration to the local Newtonian radial acceleration computed from the stellar mass
+distribution. The stellar and baryonic RAR are known to exhibit similar scatter. Lelli+2017 (L17)
+studied the baryonic RAR using a sample of 153 spiral galaxies and inferred a negligible intrinsic
+scatter. If true, a small scatter might challenge the LCDM galaxy formation paradigm, possibly
+favoring a modified Newtonian dynamics interpretation. The intrinsic scatter of the baryonic
+RAR is predicted by modern LCDM simulations to be ~0.06-0.08 dex, contrasting with the null value
+reported by L17. We have assembled a catalog of structural properties with over 2500 spiral galaxies
+from six deep imaging and spectroscopic surveys (called the "Photometry and Rotation curve OBservations
+from Extragalactic Surveys") to quantify the intrinsic scatter of the stellar RAR and other scaling
+relations. The stellar RAR for our full sample has a median observed scatter of 0.17 dex. We use our
+Monte Carlo method, which accounts for all major sources of measurement uncertainty, to infer a
+contribution of 0.12 dex from the observational errors. The intrinsic scatter of the stellar RAR
+is thus estimated to be 0.11$\pm$0.02 dex, in agreement with, though slightly greater than, current
+LCDM predictions. 

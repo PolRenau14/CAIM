@@ -1,0 +1,16 @@
+Domain adaptation is an important tool to transfer knowledge about a task (e.g. classification)
+learned in a source domain to a second, or target domain. Current approaches assume that task-relevant
+target-domain data is available during training. We demonstrate how to perform domain adaptation
+when no such task-relevant target-domain data is available. To tackle this issue, we propose zero-shot
+deep domain adaptation (ZDDA), which uses privileged information from task-irrelevant dual-domain
+pairs. ZDDA learns a source-domain representation which is not only tailored for the task of interest
+but also close to the target-domain representation. Therefore, the source-domain task of interest
+solution (e.g. a classifier for classification tasks) which is jointly trained with the source-domain
+representation can be applicable to both the source and target representations. Using the MNIST,
+Fashion-MNIST, NIST, EMNIST, and SUN RGB-D datasets, we show that ZDDA can perform domain adaptation
+in classification tasks without access to task-relevant target-domain training data. We also
+extend ZDDA to perform sensor fusion in the SUN RGB-D scene classification task by simulating task-relevant
+target-domain representations with task-relevant source-domain data. To the best of our knowledge,
+ZDDA is the first domain adaptation and sensor fusion method which requires no task-relevant target-domain
+data. The underlying principle is not particular to computer vision data, but should be readily
+extensible to other domains. 

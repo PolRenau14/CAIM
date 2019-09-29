@@ -1,0 +1,17 @@
+Online Reputation Monitoring (ORM) is concerned with the use of computational tools to measure
+the reputation of entities online, such as politicians or companies. In practice, current ORM methods
+are constrained to the generation of data analytics reports, which aggregate statistics of popularity
+and sentiment on social media. We argue that this format is too restrictive as end users often like
+to have the flexibility to search for entity-centric information that is not available in predefined
+charts. As such, we propose the inclusion of entity retrieval capabilities as a first step towards
+the extension of current ORM capabilities. However, an entity's reputation is also influenced
+by the entity's relationships with other entities. Therefore, we address the problem of Entity-Relationship
+(E-R) retrieval in which the goal is to search for multiple connected entities. This is a challenging
+problem which traditional entity search systems cannot cope with. Besides E-R retrieval we also
+believe ORM would benefit of text-based entity-centric prediction capabilities, such as predicting
+entity popularity on social media based on news events or the outcome of political surveys. However,
+none of these tasks can provide useful results if there is no effective entity disambiguation and
+sentiment analysis tailored to the context of ORM. Consequently, this thesis address two computational
+problems in Online Reputation Monitoring: Entity Retrieval and Text Mining. We researched and
+developed methods to extract, retrieve and predict entity-centric information spread across
+the Web. 

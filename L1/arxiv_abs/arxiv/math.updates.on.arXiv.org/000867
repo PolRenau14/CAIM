@@ -1,0 +1,17 @@
+In this paper, we consider the problem of recovering a compactly-supported multivariate function
+from a collection of pointwise samples of its Fourier transform taken nonuniformly. We do this by
+using the concept of weighted Fourier frames. A seminal result of Beurling shows that sample points
+give rise to a classical Fourier frame provided they are relatively separated and of sufficient
+density. However, this result does not allow for arbitrary clustering of sample points, as is often
+the case in practice. Whilst keeping the density condition sharp and dimension independent, our
+first result removes the separation condition and shows that density alone suffices. However,
+this result does not lead to estimates for the frame bounds. A known result of Gr\"ochenig provides
+explicit estimates, but only subject to a density condition that deteriorates linearly with dimension.
+In our second result we improve these bounds by reducing this dimension dependence. In particular,
+we provide explicit frame bounds which are dimensionless for functions having compact support
+contained in a sphere. Next, we demonstrate how our two main results give new insight into a reconstruction
+algorithm -- based on the existing generalized sampling framework -- that allows for stable and
+quasi-optimal reconstruction in any particular basis from a finite collection of samples. Finally,
+we construct sufficiently dense sampling schemes that are often used in practice -- jittered, radial
+and spiral sampling schemes -- and provide several examples illustrating the effectiveness of
+our approach when tested on these schemes. 

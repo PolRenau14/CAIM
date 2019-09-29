@@ -1,0 +1,16 @@
+With the emergence of the big data age, the issue of how to obtain valuable knowledge from a dataset
+efficiently and accurately has attracted increasingly attention from both academia and industry.
+This paper presents a Parallel Random Forest (PRF) algorithm for big data on the Apache Spark platform.
+The PRF algorithm is optimized based on a hybrid approach combining data-parallel and task-parallel
+optimization. From the perspective of data-parallel optimization, a vertical data-partitioning
+method is performed to reduce the data communication cost effectively, and a data-multiplexing
+method is performed is performed to allow the training dataset to be reused and diminish the volume
+of data. From the perspective of task-parallel optimization, a dual parallel approach is carried
+out in the training process of RF, and a task Directed Acyclic Graph (DAG) is created according to
+the parallel training process of PRF and the dependence of the Resilient Distributed Datasets (RDD)
+objects. Then, different task schedulers are invoked for the tasks in the DAG. Moreover, to improve
+the algorithm's accuracy for large, high-dimensional, and noisy data, we perform a dimension-reduction
+approach in the training process and a weighted voting approach in the prediction process prior
+to parallelization. Extensive experimental results indicate the superiority and notable advantages
+of the PRF algorithm over the relevant algorithms implemented by Spark MLlib and other studies in
+terms of the classification accuracy, performance, and scalability. 

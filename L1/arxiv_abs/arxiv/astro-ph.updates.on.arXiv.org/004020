@@ -1,0 +1,16 @@
+We present a novel approach to constrain accelerating cosmologies with galaxy cluster phase spaces.
+With the Fisher matrix formalism we forecast constraints on the cosmological parameters that describe
+the cosmological expansion history. We find that our probe has the potential of providing constraints
+comparable to, or even stronger than, those from other cosmological probes. More specifically,
+with 1000 (100) clusters uniformly distributed in the redshift range $ 0 \leq z \leq 0.8$, after applying
+a conservative $80\%$ mass scatter prior on each cluster and marginalizing over all other parameters,
+we forecast $1\sigma$ constraints on the dark energy equation of state $w$ and matter density parameter
+$\Omega_M$ of $\sigma_w = 0.138 (0.431)$ and $\sigma_{\Omega_M} = 0.007 (0.025)$ in a flat universe.
+Assuming 40\% mass scatter and adding a prior on the Hubble constant we can achieve a constraint on
+the CPL parametrization of the dark energy equation of state parameters $w_0$ and $w_a$ with 100
+clusters in the same redshift range: $\sigma_{w_0} = 0.191 $ and $\sigma_{w_a} = 2.712$. Dropping
+the assumption of flatness and assuming $w=-1$ we also attain competitive constraints on the matter
+and dark energy density parameters: $\sigma_{\Omega_M} = 0.101$ and $\sigma_{\Omega_{\Lambda}}
+= 0.197$ for 100 clusters uniformly distributed in the range $ 0 \leq z \leq 0.8$ after applying a prior
+on the Hubble constant. We also discuss various observational strategies for tightening constraints
+in both the near and far future. 

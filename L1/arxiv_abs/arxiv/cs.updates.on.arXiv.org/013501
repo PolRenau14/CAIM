@@ -1,0 +1,17 @@
+In this paper, we propose a new beam allocation strategy aiming to maximize the average successful
+tracking probability (ASTP) of time-varying millimeter-wave MIMO systems. In contrast to most
+existing works that employ one transmitting-receiving (Tx-Rx) beam pair once only in each training
+period, we investigate a more general framework, where the Tx-Rx beam pairs are allowed to be used
+repeatedly to improve the received signal powers in specific directions. In the case of orthogonal
+Tx-Rx beam pairs, a power-based estimator is employed to track the time-varying AoA and AoD of the
+channel, and the resulting training beam pair sequence design problem is formulated as an integer
+nonlinear programming (I-NLP) problem. By dividing the feasible region into a set of subregions,
+the formulated I-NLP is decomposed into a series of concave sub I-NLPs, which can be solved by recursively
+invoking a nonlinear branch-and-bound algorithm. To reduce the computational cost, we relax the
+integer constraints of each sub I-NLP and obtain a low-complexity solution via solving the Karush-Kuhn-Tucker
+conditions of their relaxed problems. For the case when the Tx-Rx beam pairs are overlapped in the
+angular space, we estimate the updated AoA and AoD via an orthogonal matching pursuit (OMP) algorithm.
+Moreover, since no explicit expression for the ASTP exists for the OMP-based estimator, we derive
+a closed-form lower bound of the ASTP, based on which a favorable beam pair allocation strategy can
+be obtained. Numerical results demonstrate the superiority of the proposed beam allocation strategy
+over existing benchmarks. 

@@ -1,0 +1,16 @@
+The coalescence of a compact object with a $10^{4}-10^{7} {\rm M_\odot}$ supermassive black hole
+(SMBH) produces mHz gravitational waves (GWs) detectable by the future Laser Interferometer Space
+Antenna (LISA). If such an inspiral occurs in the accretion disc of an active galactic nucleus (AGN),
+the gas torques imprint a small deviation in the GW waveform. Here we present two-dimensional hydrodynamical
+simulations with the moving-mesh code DISCO of a BH inspiraling at the GW rate in a binary system with
+a mass ratio $q\!=\!M_2/M_1\!=\!10^{-3}$, embedded in an accretion disc. We assume a locally isothermal
+equation of state for the gas (with Mach number $\mathcal{M}=20$) and implement a standard $\alpha$-prescription
+for its viscosity (with $\alpha = 0.03$). We find disc torques on the binary that are weaker than in
+previous semi-analytic toy models, and are in the opposite direction: the gas disc slows down, rather
+than speeds up the inspiral. We compute the resulting deviations in the GW waveform, which scale
+linearly with the mass of the disc. The SNR of these deviations accumulates mostly at high frequencies,
+and becomes detectable in a 5-year LISA observation if the total phase shift exceeds a few radians.
+We find that this occurs if the disc surface density exceeds $\Sigma_0 \gtrsim 10^{2-3}\rm g\,cm^{-2}$,
+as may be the case in thin discs with near-Eddington accretion rates. Since the characteristic imprint
+on the GW signal is strongly dependent on disc parameters, a LISA detection of an intermediate mass
+ratio inspiral would probe the physics of AGN discs and migration. 

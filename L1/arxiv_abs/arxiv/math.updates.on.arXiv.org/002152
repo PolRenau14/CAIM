@@ -1,0 +1,16 @@
+An important but missing component in the application of the kernel independent fast multipole
+method (KIFMM) is the capability for flexibly and efficiently imposing singly, doubly, and triply
+periodic boundary conditions. In most popular packages such periodicities are imposed with the
+hierarchical repetition of periodic boxes, which may give an incorrect answer due to the conditional
+convergence of some kernel sums. Here we present an efficient method to properly impose periodic
+boundary conditions using a near-far splitting scheme. The near-field contribution is directly
+calculated with the KIFMM method, while the far-field contribution is calculated with a multipole-to-local
+(M2L) operator which is independent of the source and target point distribution. The M2L operator
+is constructed with the far-field portion of the kernel function to generate the far-field contribution
+with the downward equivalent source points in KIFMM. This method guarantees the sum of the near-field
+\& far-field converge pointwise to results satisfying periodicity and compatibility conditions.
+The computational cost of the far-field calculation observes the same $\mathcal{O}(N)$ complexity
+as FMM and is designed to be small by reusing the data computed by KIFMM for the near-field. The far-field
+calculations require no additional control parameters, and observes the same theoretical error
+bound as KIFMM. We present accuracy and timing test results for the Laplace kernel in singly periodic
+domains and the Stokes velocity kernel in doubly and triply periodic domains. 

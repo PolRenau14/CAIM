@@ -1,0 +1,17 @@
+Intention recognition is an important characteristic of intelligent agents. In their interactions
+with others, they try to read others' intentions and make an image of others to choose their actions
+accordingly. While the way in which players choose their actions depending on such intentions has
+been investigated in game theory, how dynamic changes in intentions by mutually reading others'
+intentions are incorporated into game theory has not been explored. We present a novel formulation
+of game theory in which players read others' intentions and change their own through an iterated
+game. Here, intention is given as a function of the other's action and the own action to be taken accordingly
+as the dependent variable, while the mutual recognition of intention is represented as the functional
+dynamics. It is shown that a player suffers no disadvantage when he/she recognizes the other's intention,
+whereas the functional dynamics reach equilibria in which both players' intentions are optimized.
+These cover a classical Nash and Stackelberg equilibria but we extend them in this study: Novel equilibria
+exist depending on the degree of mutual recognition. Moreover, the degree to which each player recognizes
+the other can also differ. This formulation is applied to resource competition, duopoly, and prisoner's
+dilemma games. For example, in the resource competition game with player-dependent capacity on
+gaining the resource, the superior player's recognition leads to the exploitation of the other,
+while the inferior player's recognition leads to cooperation through which both players' payoffs
+increase. 

@@ -1,0 +1,17 @@
+The Schr\"odinger-Poisson equations describe the behavior of a superfluid Bose-Einstein condensate
+under self-gravity with a 3D wave function. As $\hbar/m\to 0$, $m$ being the boson mass, the equations
+have been postulated to approximate the collisionless Vlasov-Poisson equations also known as
+the collisionless Boltzmann-Poisson equations. The latter describe collisionless matter with
+a 6D classical distribution function. We investigate the nature of this correspondence with a suite
+of numerical test problems in 1D, 2D, and 3D along with analytic treatments when possible. We demonstrate
+that, while the density field of the superfluid always shows order unity oscillations as $\hbar/m\to
+0$ due to interference and the uncertainty principle, the potential field converges to the classical
+answer as $(\hbar/m)^{2}$. Thus, any dynamics coupled to the superfluid potential is expected
+to recover the classical collisionless limit as $\hbar/m\to 0$. The quantum superfluid is able
+to capture rich phenomena such as multiple phase-sheets, shell-crossings, and warm distributions.
+Additionally, the quantum pressure tensor acts as a regularizer of caustics and singularities
+in classical solutions. This suggests the exciting prospect of using the Schr\"odinger-Poisson
+equations as a low-memory method for approximating the high-dimensional evolution of the Vlasov-Poisson
+equations. As a particular example we consider dark matter composed of ultra-light axions, which
+in the classical limit ($\hbar/m\to 0$) is expected to manifest itself as collisionless cold dark
+matter. 

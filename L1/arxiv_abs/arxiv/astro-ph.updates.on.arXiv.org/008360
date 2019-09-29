@@ -1,0 +1,16 @@
+HI self absorption (HISA) clouds are clumps of cold neutral hydrogen (HI) visible in front of warm
+background gas, which makes them ideal places to study the properties of the cold atomic component
+of the interstellar medium (ISM). The Riegel-Crutcher (R-C) cloud is the most striking HISA feature
+in the Galaxy. It is one of the closest HISA clouds to us and is located in the direction of the Galactic
+Centre, which provides a bright background. High-resolution interferometric measurements have
+revealed the filamentary structure of this cloud, however it is difficult to accurately determine
+the temperature and the density of the gas without optical depth measurements. In this paper we present
+new HI absorption observations with the Australia Telescope Compact Array (ATCA) against 46 continuum
+sources behind the Riegel-Crutcher cloud to directly measure the optical depth of the cloud. We
+decompose the complex HI absorption spectra into Gaussian components using an automated machine
+learning algorithm. We find 300 Gaussian components, from which 67 are associated with the R-C cloud
+(0 < v_{LSR} < 10 kms, FWHM < 10 kms). Combining the new HI absorption data with HI emission data from
+previous surveys we calculate the spin temperature and find it to be between 20 and 80 K. Our measurements
+uncover a temperature gradient across the cloud with spin temperatures decreasing towards positive
+Galactic latitudes. We also find three new OH absorption lines associated with the cloud, which
+support the presence of molecular gas. 

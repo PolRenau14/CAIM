@@ -1,0 +1,16 @@
+In the early 1980's Almgren developed a theory of Dirichlet energy minimizing multi-valued functions,
+proving that the Hausdorff dimension of the singular set (including branch points) of such a function
+is at most $(n-2),$ where $n$ is the dimension of its domain. Almgren used this result in an essential
+way to show that the same upper bound holds for the dimension of the singular set of an area minimizing
+$n$-dimensional rectifiable current of arbitrary codimension. In either case, the dimension
+bound is sharp. We develop estimates to study the asymptotic behaviour of a multi-valued Dirichlet
+energy minimizer on approach to its singular set. Our estimates imply that a Dirichlet energy minimizer
+at ${\mathcal H}^{n-2}$ a.e. point of its singular set has a unique set of homogeneous multi-valued
+cylindrical tangent functions (blow-ups) to which the minimizer, modulo a set of single-valued
+harmonic functions, decays exponentially fast upon rescaling. A corollary is that the singular
+set is countably $(n-2)$-rectifiable. Our work is inspired by the work of L. Simon on the analysis
+of singularities of minimal submanifolds in multiplicity 1 classes, and uses some new estimates
+and strategies together with techniques from Wickramasekera's prior work to overcome additional
+difficulties arising from higher multiplicity and low regularity of the minimizers in the presence
+of branch points. The results described here were announced in earlier work of the authors where
+the special case of two-valued Dirichlet minimizing functions was treated. 

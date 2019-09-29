@@ -1,0 +1,16 @@
+Although a rigorous theoretical ground on metasurfaces has been established in the recent years
+on the basis of the equivalence principle, the majority of metasurfaces for converting a propagating
+wave into a surface wave are developed in accordance with the so-called generalized Snell's law
+being a simple heuristic rule for performing wave transformations. Recently, for the first time,
+Tcvetkova et al. [Phys. Rev. B 97, 115447 (2018)] have rigorously studied this problem by means of
+a reflecting anisotropic metasurface, which is, unfortunately, difficult to realize, and no experimental
+results are available. In this paper, we propose an alternative practical design of a metasurface-based
+converter by separating the incident plane wave and the surface wave in different half-spaces.
+It allows one to preserve the polarization of the incident wave and substitute the anisotropic metasurface
+by an omega-bianisotropic one. The problem is approached from two sides: By directly solving the
+corresponding boundary problem and by considering the ``time-reversed'' scenario when a surface
+wave is converted into a nonuniform plane wave. We develop a practical three-layer metasurface
+based on a conventional printed circuit board technology to mimic the omega-bianisotropic response.
+The metasurface incorporates metallic walls to avoid coupling between adjacent unit cells and
+accelerate the design procedure. The design is validated with full-wave three-dimensional numerical
+simulations and demonstrates high conversion efficiency. 

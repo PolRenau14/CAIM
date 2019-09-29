@@ -1,0 +1,17 @@
+In this work, we study the light scattering properties of dust aggregates ($0.7\mu m \lesssim R_c
+\lesssim 2.0\mu m$) having a wide range of porosity ($\mathcal{P}$ = 0.59 to 0.98). The simulations
+are executed using the Superposition T-matrix code with BCCA, BA, BAM1 and BAM2 clusters of varying
+porosity. We investigate the nature and dependencies of the different scattering parameters on
+porosity, size and composition of the aggregated particles for wavelengths 0.45 $\mu$m and 0.65
+$\mu$m. We find that the scattering parameters are strongly correlated with the porosity of the
+aggregated structures. Our results indicate that, when the porosity of the aggregates decreases,
+keeping characteristic radius of the aggregates ($R_c$) same for all structures, there is an enhancement
+in the negative polarization branch (NPB) which is accompanied by a substantial increase in the
+anisotropies present in the material. Also at the exact backscattering region, the anisotropies
+are found to be linearly correlated with the porosity of the aggregated structure. The computational
+study reveals that, for low absorbing materials ($k \le 0.1$), the negative polarization minimum
+($P_{min}$) is strongly correlated with the associated anisotropies. Finally, we put forward
+a qualitative comparison between our computationally obtained results and some selected data
+from the Amsterdam Light Scattering Database for both low and high absorbing materials. The experimental
+results also suggest that an increase in the NPB is always accompanied by an enhancement in the anisotropy
+at the backscattering region. 

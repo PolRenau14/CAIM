@@ -1,0 +1,16 @@
+We present an empirical parameterization of the [NII]/H$\alpha$ flux ratio as a function of stellar
+mass and redshift valid at 0 < z < 2.7 and 8.5 < log(M) < 11.0. This description can easily be applied
+to (i) simulations for modeling [NII]$\lambda6584$ line emission, (ii) deblend [NII] and H$\alpha$
+in current low-resolution grism and narrow-band observations to derive intrinsic H$\alpha$ fluxes,
+and (iii) to reliably forecast the number counts of H$\alpha$ emission-line galaxies for future
+surveys, such as those planned for Euclid and the Wide Field Infrared Survey Telescope (WFIRST).
+Our model combines the evolution of the locus on the Baldwin, Phillips & Terlevich (BPT) diagram
+measured in spectroscopic data out to z = 2.5 with the strong dependence of [NII]/H$\alpha$ on stellar
+mass and [OIII]/H$\beta$ observed in local galaxy samples. We find large variations in the [NII]/H$\alpha$
+flux ratio at a fixed redshift due to its dependency on stellar mass; hence, the assumption of a constant
+[NII] flux contamination fraction can lead to a significant under- or overestimate of H$\alpha$
+luminosities. Specifically, measurements of the intrinsic H$\alpha$ luminosity function derived
+from current low-resolution grism spectroscopy assuming a constant 29% contamination of [NII]
+can be overestimated by factors of ~8 at log(L) > 43.0 for galaxies at redshifts z = 1.5. This has implications
+for the prediction of H$\alpha$ emitters for Euclid and WFIRST. We also study the impact of blended
+H$\alpha$ and [NII] on the accuracy of measured spectroscopic redshifts. 

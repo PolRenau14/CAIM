@@ -1,0 +1,16 @@
+The large-scale structures in the ocean and the atmosphere are in geostrophic balance, and a conduit
+must be found to channel the energy to the small scales where it can be dissipated. In turbulence this
+takes the form of an energy cascade, whereas one possible mechanism in a balanced flow at large scales
+is through the formation of fronts, a common occurrence in geophysical dynamics. We show in this
+paper that an iconic configuration in laboratory and numerical experiments for the study of turbulence,
+that of the Taylor-Green or von K\'arm\'an swirling flow, can be suitably adapted to the case of fluids
+with large aspect ratios, leading to the creation of an imposed large-scale vertical shear. To this
+effect we use direct numerical simulations of the Boussinesq equations without net rotation and
+with no small-scale modeling, and with this idealized Taylor-Green set-up. Various grid spacings
+are used, up to $2048^2\times 256$ spatial points. The grids are always isotropic, with box aspect
+ratios of either $1:4$ or $1:8$. We find that when shear and stratification are comparable, the imposed
+shear layer resulting from the forcing leads to the formation of multiple fronts and filaments which
+destabilize and further evolve into a turbulent flow in the bulk, with a sizable amount of dissipation
+and mixing, and with a cycle of front creation, instability, and development of turbulence. The
+results depend on the vertical length scales for shear and for stratification, with stronger large-scale
+gradients being generated when the two length scales are comparable. 

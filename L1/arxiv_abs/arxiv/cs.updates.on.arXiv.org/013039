@@ -1,0 +1,17 @@
+The computational cost of parametric studies currently represents the major limitation to the
+application of simulation-based engineering techniques in a daily industrial environment. This
+work presents the first nonintrusive implementation of the proper generalised decomposition
+(PGD) in OpenFOAM, for the approximation of parametrised laminar incompressible Navier-Stokes
+equations. The key feature of this approach is the seamless integration of a reduced order model
+(ROM) in the framework of an industrially validated computational fluid dynamics software. This
+is of special importance in an industrial environment because in the online phase of the PGD ROM the
+description of the flow for a specific set of parameters is obtained simply via interpolation of
+the generalised solution, without the need of any extra solution step. On the one hand, the spatial
+problems arising from the PGD separation of the unknowns are treated using the classical solution
+strategies of OpenFOAM, namely the semi-implicit method for pressure linked equations (SIMPLE)
+algorithm. On the other hand, the parametric iteration is solved via a collocation approach. The
+resulting ROM is applied to several benchmark tests of laminar incompressible Navier-Stokes flows,
+in two and three dimensions, with different parameters affecting the flow features. Eventually,
+the capability of the proposed strategy to treat industrial problems is verified by applying the
+methodology to a parametrised flow control in a realistic geometry of interest for the automotive
+industry. 

@@ -1,0 +1,16 @@
+Sparse tiling is a technique to fuse loops that access common data, thus increasing data locality.
+Unlike traditional loop fusion or blocking, the loops may have different iteration spaces and access
+shared datasets through indirect memory accesses, such as A[map[i]] -- hence the name "sparse".
+One notable example of such loops arises in discontinuous-Galerkin finite element methods, because
+of the computation of numerical integrals over different domains (e.g., cells, facets). The major
+challenge with sparse tiling is implementation -- not only is it cumbersome to understand and synthesize,
+but it is also onerous to maintain and generalize, as it requires a complete rewrite of the bulk of
+the numerical computation. In this article, we propose an approach to extend the applicability
+of sparse tiling based on raising the level of abstraction. Through a sequence of compiler passes,
+the mathematical specification of a problem is progressively lowered, and eventually sparse-tiled
+C for-loops are generated. Besides automation, we advance the state-of-the-art by introducing:
+a revisited, more efficient sparse tiling algorithm; support for distributed-memory parallelism;
+a range of fine-grained optimizations for increased run-time performance; implementation in
+a publicly-available library, SLOPE; and an in-depth study of the performance impact in Seigen,
+a real-world elastic wave equation solver for seismological problems, which shows speed-ups up
+to 1.28x on a platform consisting of 896 Intel Broadwell cores. 

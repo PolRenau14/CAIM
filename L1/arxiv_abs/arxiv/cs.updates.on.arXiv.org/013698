@@ -1,0 +1,16 @@
+Given two matroids $\mathcal{M}_{1} = (E, \mathcal{B}_{1})$ and $\mathcal{M}_{2} = (E, \mathcal{B}_{2})$
+on a common ground set $E$ with base sets $\mathcal{B}_{1}$ and $\mathcal{B}_{2}$, some integer
+$k \in \mathbb{N}$, and two cost functions $c_{1}, c_{2} \colon E \rightarrow \mathbb{R}$, we consider
+the optimization problem to find a basis $X \in \mathcal{B}_{1}$ and a basis $Y \in \mathcal{B}_{2}$
+minimizing cost $\sum_{e\in X} c_1(e)+\sum_{e\in Y} c_2(e)$ subject to either a lower bound constraint
+$|X \cap Y| \le k$, an upper bound constraint $|X \cap Y| \ge k$, or an equality constraint $|X \cap
+Y| = k$ on the size of the intersection of the two bases $X$ and $Y$. The problem with lower bound constraint
+turns out to be a generalization of the Recoverable Robust Matroid problem under interval uncertainty
+representation for which the question for a strongly polynomial-time algorithm was left as an open
+question by Hradovich et al. We show that the two problems with lower and upper bound constraints
+on the size of the intersection can be reduced to weighted matroid intersection, and thus be solved
+with a strongly polynomial-time primal-dual algorithm. The question whether the problem with
+equality constraint can also be solved efficiently turned out to be a lot harder. As our main result,
+we present a strongly-polynomial, primal-dual algorithm for the problem with equality constraint
+on the size of the intersection. Additionally, we discuss generalizations of the problems from
+matroids to polymatroids, and from two to three or more matroids. 

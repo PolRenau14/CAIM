@@ -1,0 +1,16 @@
+Recently, the LIGO-Virgo collaboration reported their first detection of gravitational wave
+(GW) signals from a low mass compact binary merger GW170817, which is most likely due to a double neutron
+star (NS) merger. With the GW signals only, the chirp mass of the binary is precisely constrained
+to $1.188^{+0.004}_{-0.002}~\rm{M_{\odot}}$, but the mass ratio is loosely constrained in the
+range $0.4-1$, so that a very rough estimation of the individual NS masses ($0.86~{\rm M_{\odot}}<M_1<1.36~\rm{M_{\odot}}$
+and $1.36~{\rm M_{\odot}}<M_2<2.26~\rm{M_{\odot}}$) was obtained. Here we propose that if one
+can constrain the dynamical ejecta mass through performing kilonova modeling of the optical/IR
+data, by utilizing an empirical relation between the dynamical ejecta mass and the mass ratio of
+NS binaries, one may place a more stringent constraint on the mass ratio of the system. For instance,
+considering that the red "kilonova" component is powered by the dynamical ejecta, we reach a tight
+constraint on the mass ratio in the range of $0.46-0.59$. Alternatively, if the blue "kilonova"
+component is powered by the dynamical ejecta, the mass ratio would be constrained in the range of
+$0.53-0.67$. Overall, such a multi-messenger approach could narrow down the mass ratio of GW170817
+system to the range of $0.46-0.67$, which gives a more precise estimation of the individual NS mass
+than pure GW signal analysis, i.e. $0.90~{\rm M_{\odot}}<M_1<1.16~{\rm M_{\odot}}$ and $1.61~{\rm
+M_{\odot}}<M_2<2.11~{\rm M_{\odot}}$. 

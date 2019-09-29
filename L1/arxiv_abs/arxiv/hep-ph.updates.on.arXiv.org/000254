@@ -1,0 +1,16 @@
+The BICEP2 collaboration has reported a strong B mode signal in the CMB polarization, which is well
+fit by a tensor-to-scalar ratio of r ~ 0.2. This is greater than the upper limit r < 0.11 obtained
+from the temperature anisotropies under the assumption of a constant scalar spectral index n_s.
+This discrepancy can be reduced once the statistical error and the contamination from polarized
+dust are accounted for. If however a large value for r will be confirmed, it will need to be reconciled
+with the temperature anisotropies data. The most advocated explanation involves a variation of
+n_s with scales (denoted as running) that has a magnitude significantly greater than the generic
+slow roll predictions. We instead study the possibility that the large scale temperature anisotropies
+are not enhanced because of a suppression of the scalar power at large scales. Such a situation can
+be achieved for instance by a sudden change of the speed of the inflaton, and we show that it fits the
+temperature anisotropies and polarization data considerably better than a constant running (its
+chi^2 improves by ~ 10 over that of the constant running, at the cost of one more parameter). We also
+consider the possibility that the large scale temperature fluctuations are suppressed by an anti-correlation
+between tensor and scalar modes. Unfortunately, while such effect does affect the temperature
+fluctuations at large scales, it does not affect the temperature power spectrum and cannot, therefore,
+help in reconciling a large value of r with the limits from temperature fluctuations. 

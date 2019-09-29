@@ -1,0 +1,16 @@
+Given a symmetric social network, we are interested in testing whether it has only one community
+or multiple communities. The desired tests should (a) accommodate severe degree heterogeneity,
+(b) accommodate mixed-memberships, (c) have a tractable null distribution, and (d) adapt automatically
+to different levels of sparsity, and achieve the optimal phase diagram. How to find such a test is
+a challenging problem. We propose the Signed Polygon as a class of new tests. Fix $m \geq 3$. For each
+$m$-gon in the network, define a score using the centralized adjacency matrix. The sum of such scores
+is then the $m$-th order Signed Polygon statistic. The Signed Triangle (SgnT) and the Signed Quadrilateral
+(SgnQ) as special examples of the Signed Polygon. We show that both the SgnT and SgnQ tests satisfy
+(a)-(d), and especially, they work well for both the very sparse and less sparse cases. Our proposed
+tests compare favorably with the existing tests. For example, the EZ and GC tests \cite{gao2017testing,
+OGC} behave unsatisfactorily in the less sparse case and do not achieve the optimal phase diagram.
+Also, many existing tests do not allow severe heterogeneity or mixed-memberships, so they behave
+unsatisfactorily in our settings. The analysis of the SgnT and SgnQ tests is very delicate and extremely
+tedious. The main reason is that we need a unified proof that covers a wide range of sparsity levels
+and a wide range of degree heterogeneity: an easier proof may work in one special case but not another,
+and the unified proof is therefore delicate and long. 

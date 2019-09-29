@@ -1,0 +1,17 @@
+We present two catalogs of radio-loud candidate blazars whose WISE mid-infrared colors are selected
+to be consistent with the colors of confirmed gamma-ray emitting blazars. The first catalog is the
+improved and expanded release of the WIBRaLS catalog presented by D'Abrusco et al. (2014): it includes
+sources detected in all four WISE filters, spatially cross-matched with radio source in one of three
+radio surveys and radio-loud based on their q22 spectral parameter. WIBRaLS2 includes 9541 sources
+classified as BL Lacs, FSRQs or mixed candidates based on their WISE colors. The second catalog,
+called KDEBLLACS, based on a new selection technique, contains 5579 candidate BL Lacs extracted
+from the population of WISE sources detected in the first three WISE passbands ([3.4], [4.6] and
+[12]) only, whose mid-infrared colors are similar to those of confirmed, gamma-ray BL Lacs. KDBLLACS
+members area also required to have a radio counterpart and be radio-loud based on the parameter q12,
+defined similarly to q22 used for the WIBRaLS2. We describe the properties of these catalogs and
+compare them with the largest samples of confirmed and candidate blazars in the literature. We crossmatch
+the two new catalogs with the most recent catalogs of gamma-ray sources detected by Fermi LAT instrument.
+Since spectroscopic observations of candidate blazars from the first WIBRaLS catalog within the
+uncertainty regions of gamma-ray unassociated sources confirmed that ~90% of these candidates
+are blazars, we anticipate that these new catalogs will play again an important role in the identification
+of the gamma-ray sky. 

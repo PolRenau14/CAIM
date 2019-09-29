@@ -1,0 +1,17 @@
+Amplification of signal intensity is essential for initiating physical processes, diagnostics,
+sensing, communications, and scientific measurement. During traditional amplification, the
+signal is amplified by multiplying the signal carriers through an active gain process using an external
+power source. However, for repetitive waveforms, sufficient energy for amplification often resides
+in the signal itself. In such cases, the unneeded external power is wasted, and the signal is additionally
+degraded by noise and distortions that accompany active gain processes. We show noiseless, intensity
+amplification of repetitive optical pulse waveforms with a gain from 2 to ~20 without using active
+gain, by recycling energy already stored in the input repetitive signal. This "green" method uses
+dispersion-induced self-imaging (Talbot) effects to precisely re-distribute the original signal
+energy into fewer replica waveforms. This approach simply requires a suitable manipulation of
+the input signal's phase profile along the temporal and spectral domains. In addition, we show experimentally
+how our passive amplifier performs a real-time average of the wave train to reduce noise fluctuation
+present on the input pulse train, as well as enhances the extinction ratio of pulses to stand above
+the noise floor by approximately the passive gain factor. Finally, our technique is applicable
+to repetitive waveforms in any spectral region or wave system, including acoustic, mechanical,
+and quantum probability waveforms, for which active amplification methods are challenging to
+implement or nonexistent. 

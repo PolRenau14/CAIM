@@ -1,0 +1,16 @@
+It has been known for 20 years that the absorbing gas in broad absorption line quasars does not completely
+cover the continuum emission region, and that partial covering must be accounted for to accurately
+measure the column density of the outflowing gas. However, the nature of partial covering itself
+is not understood. Extrapolation of the SimBAL spectral synthesis model of the HST COS UV spectrum
+from SDSS J0850+4451 reported by Leighly et al. 2018 to non-simultaneous rest-frame optical and
+near-infrared spectra reveals evidence that the covering fraction has wavelength dependence,
+and is a factor of 2.5 times higher in the UV than in the optical and near-infrared bands. Analysis
+of the spectral energy distribution and an HST near-infrared image shows that the contribution
+of the host galaxy to the near-infrared continuum is negligible. Observed absorption line variability
+trends show that physical changes between observations is probably not responsible for the effect
+either. The difference in covering fraction can be explained if the outflow consists of clumps that
+are small and either structured or clustered relative to the projected size of the UV continuum emission
+region, and have a more diffuse distribution on size scales comparable to the near-infrared continuum
+emission region size. This experiment demonstrates that we can compare rest-frame UV and near-infrared
+absorption lines, specifically HeI*10830 to place constraints on the uniformity of absorption
+gas in broad absorbing line quasars. 

@@ -1,0 +1,16 @@
+On the basis of the modern understanding of MHD turbulence, we propose a new way of using synchrotron
+radiation, namely using synchrotron intensity gradients for tracing astrophysical magnetic
+fields. We successfully test the new technique using synthetic data obtained with the 3D MHD simulations
+and provide the demonstration of the practical utility of the technique by comparing the directions
+of magnetic field that are obtained with PLANCK synchrotron intensity dats to the directions obtained
+with PLANCK synchrotron polarization data. We demonstrate that the synchrotron intensity gradients
+(SIGs) can reliably trace magnetic field in the presence of noise and can provide detailed maps of
+magnetic-field directions. We also show that the SIGs are relatively robust for tracing magnetic
+fields while the low spacial frequencies of the synchrotron image are removed. This makes the SIGs
+applicable to tracing of magnetic fields using interferometric data with single dish measurement
+absent. We discuss the synergy of using the SIGs together with synchrotron polarization in order
+to find the actual direction of the magnetic field and quantify the effects of Faraday rotation as
+well as with other ways of studying astrophysical magnetic fields. We test our method in the presence
+of noise and the resolution effects. We stress the complementary nature of the studies using the
+SIG technique and those employing the recently-introduced velocity gradient techniques that
+traces the magnetic fields using spectroscopic data. 

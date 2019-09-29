@@ -1,0 +1,16 @@
+For any $p\in(0,\,1]$, let $H^{\Phi_p}(\mathbb{R}^n)$ be the Musielak-Orlicz Hardy space associated
+with the Musielak-Orlicz growth function $\Phi_p$, defined by setting, for any $x\in\mathbb{R}^n$
+and $t\in[0,\,\infty)$, $$ \Phi_{p}(x,\,t):= \begin{cases} \frac{t}{\log(e+t)+[t(1+|x|)^n]^{1-p}}
+& \qquad \text{when } n(1/p-1)\notin \mathbb{N} \cup \{0\}; \\ \frac{t}{\log(e+t)+[t(1+|x|)^n]^{1-p}[\log(e+|x|)]^p}
+& \qquad \text{when } n(1/p-1)\in \mathbb{N}\cup\{0\},\\ \end{cases} $$ which is the sharp target
+space of the bilinear decomposition of the product of the Hardy space $H^p(\mathbb{R}^n)$ and its
+dual. Moreover, $H^{\Phi_1}(\mathbb{R}^n)$ is the prototype appearing in the real-variable
+theory of general Musielak-Orlicz Hardy spaces. In this article, the authors find a new structure
+of the space $H^{\Phi_p}(\mathbb{R}^n)$ by showing that, for any $p\in(0,\,1]$, $H^{\Phi_p}(\mathbb{R}^n)=H^{\phi_0}(\mathbb{R}^n)
++H_{W_p}^p(\mathbb{R}^n)$ and, for any $p\in(0,\,1)$, $H^{\Phi_p}(\mathbb{R}^n)=H^{1}(\mathbb{R}^n)
++H_{W_p}^p(\mathbb{R}^n)$, where $H^1(\mathbb{R}^n)$ denotes the classical real Hardy space,
+$H^{\phi_0}(\mathbb{R}^n)$ the Orlicz-Hardy space associated with the Orlicz function $\phi_0(t):=t/\log(e+t)$
+for any $t\in [0,\infty)$ and $H_{W_p}^p(\mathbb{R}^n)$ the weighted Hardy space associated
+with certain weight function $W_p(x)$ that is comparable to $\Phi_p(x,1)$ for any $x\in\mathbb{R}^n$.
+As an application, the authors further establish an interpolation theorem of quasilinear operators
+based on this new structure. 

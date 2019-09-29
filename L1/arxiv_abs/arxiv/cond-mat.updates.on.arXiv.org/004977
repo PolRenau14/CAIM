@@ -1,0 +1,16 @@
+The electrodynamics of Weyl semimetals (WSMs) is an extension of Maxwell's theory where in addition
+to field strength tensor $F_{\mu\nu}$, an axion field enters the theory which is parameterized
+by a four-vector $b^\mu=(b_0,\bf b)$. In the tilted Weyl matter (TWM) an additional set of parameters
+${\bf\zeta}=(\zeta_x,\zeta_y,\zeta_z)$ enter the theory that can be encoded into the metric
+of the spacetime felt by electrons in TWM. This allows an extension of Maxwell's electrodynamics
+that describes electric and magnetic fields in TWMs and tilted Dirac material (TDM) when $b^\mu=0$.
+The tilt parameter $\bf\zeta$ appearing as off-diagonal metric entries mixing time and space components
+mingles $\bf E$ and $\bf B$ fields whereby modifies the inhomogeneous Maxwell's equations. Surface
+plasmon polariton (SPP) in these systems describes the propagation of electromagnetic waves at
+the {\it interface of two different spacetime geometries}. In the case of TDM, we find a characteristic
+dependence of SPP spectrum on the tilt parameter $\zeta$ which can be used map $\zeta$ from SPP measurements.
+In the case of TWM, depending on whether the interface with vacuum supports a Fermi arc or not, and
+whether the propagation direction is along the Fermi arc or transverse to it, we find many unusual
+spectral features for SPP modes. Our detailed study of the dependence of SPP spectra on the arrangements
+of three vectors $(\bf b, q,\zeta)$, the first two of which are at our control, can be utilized to map
+the tilt characteristics and Fermi arc characteristics from SPP measurements. 

@@ -1,0 +1,16 @@
+We consider films and filaments of nanoscale thickness on thermally conductive substrates exposed
+to external heating. Particular focus is on metal films exposed to laser irradiation. Due to short
+length scales involved, the absorption of heat in the metal is directly coupled to the film evolution,
+since the absorption length and the film thickness are comparable. Such a setup requires self-consistent
+consideration of fluid mechanical and thermal effects. We approach the problem via Volume-of-Fluid
+based simulations that include destabilizing liquid metal-solid substrate interaction potentials.
+These simulations couple fluid dynamics directly with the spatio-temporal evolution of the temperature
+field both in the fluid and in the substrate. We focus on the influence of the temperature variation
+of material parameters, in particular of surface tension and viscosity. Regarding variation of
+surface tension with temperature, the main finding is that while Marangoni effect may not play a
+significant role in the considered setting, the temporal variation of surface tension (modifying
+normal stress balance) is significant and could lead to complex evolution including oscillatory
+evolution of the liquid metal-air interface. Temperature variation of film viscosity is also found
+to be relevant. Therefore, the variations of surface tensions and viscosity could both influence
+the emerging wavelengths in experiments. In contrast, the filament geometry is found to be much
+less sensitive to a variation of material parameters with temperature. 

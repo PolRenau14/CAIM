@@ -1,0 +1,16 @@
+Cognitive radio networks (CRNs) have emerged as an essential technology to enable dynamic and opportunistic
+spectrum access which aims to exploit underutilized licensed channels to solve the spectrum scarcity
+problem. Despite the great benefits that CRNs offer in terms of their ability to improve spectrum
+utilization efficiency, they suffer from user location privacy issues. Knowing that their whereabouts
+may be exposed can discourage users from joining and participating in the CRNs, thereby potentially
+hindering the adoption and deployment of this technology in future generation networks. The location
+information leakage issue in the CRN context has recently started to gain attention from the research
+community due to its importance, and several research efforts have been made to tackle it. However,
+to the best of our knowledge, none of these works have tried to identify the vulnerabilities that
+are behind this issue or discuss the approaches that could be deployed to prevent it. In this paper,
+we try to fill this gap by providing a comprehensive survey that investigates the various location
+privacy risks and threats that may arise from the different components of this CRN technology, and
+explores the different privacy attacks and countermeasure solutions that have been proposed in
+the literature to cope with this location privacy issue. We also discuss some open research problems,
+related to this issue, that need to be overcome by the research community to take advantage of the
+benefits of this key CRN technology without having to sacrifice the users' privacy. 

@@ -1,0 +1,17 @@
+The interacting Kane-Mele model with a long-range hopping is studied using analytical method.
+The original Kane-Mele model is defined on a honeycomb lattice. In the work, we introduce a four-lattice-constant
+range hopping and the on-site Hubbard interaction into the model and keep its lattice structure
+unchanged. From the single-particle energy spectrum, we obtain the critical strength of the long-range
+hopping $t_L$ at which the topological transition occurs in the non-interacting limit of the model
+and our results show that it is independent of the spin-orbit coupling. After introducing the Hubbard
+interaction, we investigate the Mott transition and the magnetic transition of the generalized
+strongly correlated Kane-Mele model using the slave-rotor mean field theory and Hartree-Fock
+mean field theory respectively. In the small long-range hopping region, it is a correlated quantum
+spin Hall state below the Mott transition, while a topological Mott insulator above the Mott transition.
+By comparing the energy band of spin degree of freedom with the one of electrons in non-interacting
+limit, we find a condition for the $t_L$-driven topological transition. Under the condition, critical
+values of $t_L$ at which the topological transition occurs are obtain numerically from seven self-consistency
+equations in both regions below and above the Mott transition. Influences of the interaction and
+the spin-orbit coupling on the topological transition are discussed in this work. Finally, we show
+complete phase diagrams of the generalized interacting topological model at some strength of spin-orbital
+coupling. 

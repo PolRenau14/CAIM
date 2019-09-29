@@ -1,0 +1,16 @@
+We explore the hypothesis that B type emission-line stars (Be stars) have their origin in mass-transfer
+binaries by measuring the fraction of runaway Be stars. We assemble the largest-to-date catalogue
+of 632 Be stars with 6D kinematics, exploiting the precise astrometry of the Tycho-Gaia Astrometric
+Solution (TGAS) from the first Gaia Data Release. Using binary stellar evolution simulations,
+we make predictions for the runaway and equatorial rotation velocities of a runaway Be star population.
+Accounting for observational biases, we calculate that if all classical Be stars originated through
+mass transfer in binaries, then $17.5\%$ of the Be stars in our catalogue should be runaways. The
+remaining $82.5\%$ should be in binaries with subdwarfs, white dwarfs or neutron stars, because
+those systems either remained bound post-supernova or avoided the supernova entirely. Using a
+Bayesian methodology, we compare the hypothesis that each Be star in our catalogue is a runaway to
+the null hypothesis that it is a member of the Milky Way disc. We find that $13.1^{+2.6}_{-2.4}\%$
+of the Be stars in our catalogue are runaways, and identify a subset of 40 high-probability runaways.
+We argue that deficiencies in our understanding of binary stellar evolution, as well as the degeneracy
+between velocity dispersion and number of runaway stars, can explain the slightly lower runaway
+fraction. We thus conclude that all Be stars could be explained by an origin in mass-transfer binaries.
+This conclusion is testable with the second Gaia data release (DR2). 

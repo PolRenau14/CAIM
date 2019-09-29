@@ -1,0 +1,16 @@
+In this paper we propose a unified two-phase scheme for convex optimization to accelerate: (1) the
+adaptive cubic regularization methods with exact/inexact Hessian matrices, and (2) the adaptive
+gradient method, without any knowledge of the Lipschitz constants for the gradient or the Hessian.
+This is achieved by tuning the parameters used in the algorithm $\textit{adaptively}$ in its process
+of progression, which can be viewed as a relaxation over the existing algorithms in the literature.
+Under the assumption that the sub-problems can be solved approximately, we establish overall iteration
+complexity bounds for three newly proposed algorithms to obtain an $\epsilon$-approximate solution.
+Specifically, we show that the adaptive cubic regularization methods with the exact/inexact Hessian
+matrix both achieve an iteration complexity in the order of $O\left( 1 / \epsilon^{1/3} \right)$,
+which matches that of the original accelerated cubic regularization method presented in [Nesterov-2008-Accelerating]
+assuming the availability of the exact Hessian information and the Lipschitz constants, and that
+the sub-problems are solved to optimality. Under the same two-phase adaptive acceleration framework,
+the gradient method achieves an iteration complexity in the order $O\left( 1 / \epsilon^{1/2} \right)$,
+which is known to be best possible (cf. Nesterov-2013-Introductory). Our numerical experiment
+results show a clear effect of acceleration displayed in the adaptive Newton method with cubic regularization
+on a set of regularized logistic regression instances. 

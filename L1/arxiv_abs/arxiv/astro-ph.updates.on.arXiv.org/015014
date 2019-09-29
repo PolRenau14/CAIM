@@ -1,0 +1,16 @@
+The so-called ultraviolet (UV) upturn of elliptical galaxies is a phenomenon characterised by
+the up-rise of their fluxes in bluer wavelengths, typically in the 1,200-2,500A range. This work
+aims at estimating the rate of occurrence of the UV upturn over the entire red-sequence population
+of galaxies that show significant UV emission. This assessment is made considering it as function
+of three parameters: redshift, stellar mass, and -- what may seem counter-intuitive at first --
+emission-line classification. We built a multiwavelength spectro-photometric catalogue from
+the Galaxy Mass Assembly survey, together with aperture-matched data from Galaxy Evolution Explorer
+and Sloan Digital Sky Survey, covering the redshift range between 0.06 and 0.40. From this sample,
+we analyse the UV emission among UV bright galaxies, by selecting those that occupy the red-sequence
+locus in the (NUV-r) x (FUV-NUV) chart; then, we stratify the sample by their emission-line classes.
+To that end, we make use of emission-line diagnostic diagrams, focusing the analysis in retired/passive
+lineless galaxies. Then, a Bayesian logistic model was built to simultaneously deal with the effects
+of all galaxy properties including emission-line classification or lack thereof). The main results
+show that retired/passive systems host an up-rise in the fraction of UV upturn or redshifts between
+0.06 and 0.25, followed by an in-fall up to 0.35. Additionally, we show that the fraction of UV upturn
+hosts rises with increasing stellar mass. 

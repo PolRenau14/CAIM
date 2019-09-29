@@ -1,0 +1,16 @@
+The role of inferencing with uncertainty is becoming more important in rule-based expert systems
+(ES), since knowledge given by a human expert is often uncertain or imprecise. We have succeeded
+in designing a VLSI chip which can perform an entire inference process based on fuzzy logic. The design
+of the VLSI fuzzy inference engine emphasizes simplicity, extensibility, and efficiency (operational
+speed and layout area). It is fabricated in 2.5 um CMOS technology. The inference engine consists
+of three major components; a rule set memory, an inference processor, and a controller. In this implementation,
+a rule set memory is realized by a read only memory (ROM). The controller consists of two counters.
+In the inference processor, one data path is laid out for each rule. The number of the inference rule
+can be increased adding more data paths to the inference processor. All rules are executed in parallel,
+but each rule is processed serially. The logical structure of fuzzy inference proposed in the current
+paper maps nicely onto the VLSI structure. A two-phase nonoverlapping clocking scheme is used.
+Timing tests indicate that the inference engine can operate at approximately 20.8 MHz. This translates
+to an execution speed of approximately 80,000 Fuzzy Logical Inferences Per Second (FLIPS), and
+indicates that the inference engine is suitable for a demanding real-time application. The potential
+applications include decision-making in the area of command and control for intelligent robot
+systems, process control, missile and aircraft guidance, and other high performance machines.

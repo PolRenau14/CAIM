@@ -1,0 +1,16 @@
+Given a category C of a combinatorial nature, we study the following fundamental question: how does
+the combinatorial behavior of C affect the algebraic behavior of representations of C? We prove
+two general results. The first gives a combinatorial criterion for representations of C to admit
+a theory of Gr\"obner bases. From this, we obtain a criterion for noetherianity of representations.
+The second gives a combinatorial criterion for a general "rationality" result for Hilbert series
+of representations of C. This criterion connects to the theory of formal languages, and makes essential
+use of results on the generating functions of languages, such as the transfer-matrix method and
+the Chomsky-Sch\"utzenberger theorem. Our work is motivated by recent work in the literature on
+representations of various specific categories. Our general criteria recover many of the results
+on these categories that had been proved by ad hoc means, and often yield cleaner proofs and stronger
+statements. For example: we give a new, more robust, proof that FI-modules (originally introduced
+by Church-Ellenberg-Farb), and a family of natural generalizations, are noetherian; we give an
+easy proof of a generalization of the Lannes-Schwartz artinian conjecture from the study of generic
+representation theory of finite fields; we significantly improve the theory of $\Delta$-modules,
+introduced by Snowden in connection to syzygies of Segre embeddings; and we establish fundamental
+properties of twisted commutative algebras in positive characteristic. 

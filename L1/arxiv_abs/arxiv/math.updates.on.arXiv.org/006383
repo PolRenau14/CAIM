@@ -1,0 +1,17 @@
+In 1998 Malle introduced spetses which are mysterious objects with non-real Weyl groups. In algebraic
+topology, a $p$-compact group $\mathbf{X}$ is a space which is a homotopy-theoretic $p$-local
+analogue of a compact Lie group. A connected $p$-compact group $\mathbf{X}$ is determined by its
+root datum which in turn determines its Weyl group $W_\mathbf{X}$. In this article we give strong
+numerical evidence for a connection between these two subjects by considering the case when $\mathbf{X}$
+is the exotic $2$-compact group $\operatorname{DI}(4)$ constructed by Dwyer--Wilkerson and
+$W_\mathbf{X}$ is the complex reflection group $G_{24} \cong \operatorname{GL}_3(2) \times
+C_2$. Inspired by results in Deligne--Lusztig theory for classical groups, if $q$ is an odd prime
+power we propose a set $\operatorname{Irr}(\mathbf{X}(q))$ of `ordinary irreducible characters'
+associated to the space $\mathbf{X}(q)$ of homotopy fixed points under the unstable Adams operation
+$\psi^q$. Notably $\operatorname{Irr}(\mathbf{X}(q))$ includes the set of unipotent characters
+associated to $G_{24}$ constructed by Brou\'{e}, Malle and Michel from the Hecke algebra of $G_{24}$
+using the theory of spetses. By regarding $\mathbf{X}(q)$ as the classifying space of a Benson--Solomon
+fusion system $\operatorname{Sol}(q)$ we formulate an analogue of Robinson's ordinary weight
+conjecture that the number of characters of defect $d$ in $\operatorname{Irr}(\mathbf{X}(q))$
+can be counted locally, and prove this when $q=3$. We also consider some similar conjectures at odd
+primes. 

@@ -1,0 +1,16 @@
+We exploit the first \gaia data release to study the properties of the Galactic stellar halo as traced
+by RR Lyrae. We demonstrate that it is possible to select a pure sample of RR Lyrae using only photometric
+information available in the Gaia+2MASS catalogue. The final sample contains about 21600 RR Lyrae
+covering an unprecedented fraction ($\sim60\%$) of the volume of the Galactic inner halo ($\text{R}<28$
+kpc). We study the morphology of the stellar halo by analysing the RR Lyrae distribution with parametric
+and non-parametric techniques. Taking advantage of the uniform all-sky coverage, we test halo
+models more sophisticated than usually considered in the literature, such as those with varying
+flattening, tilt and/or offset of the halo with respect to the Galactic disc. A consistent picture
+emerges: the inner halo is well reproduced by a smooth distribution of stars settled on triaxial
+ellipsoids. The minor axis is perpendicular to the Milky Ways disc, while the major axis is misaligned
+by $\sim20^{\circ}$ from the Galactic Y axis. The elongation along the major axis is mild ($\text{p}=1.27$),
+and the vertical flattening is shown to evolve from a squashed state with $\text{q}\approx0.57$
+in the centre to a more spherical $\text{q}\approx0.75$ at the outer edge of our dataset. The density
+slope is well approximated by a single power-law with exponent $\alpha=-2.96$. Within the range
+probed, we see no significant evidence for a change of the radial density slope, out of the plane tilt
+or an offset of the halo with respect to the Galaxy's centre. 

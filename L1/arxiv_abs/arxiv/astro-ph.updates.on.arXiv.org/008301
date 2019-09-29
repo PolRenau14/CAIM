@@ -1,0 +1,16 @@
+With the help of Gaia DR2, we are able to obtain the full 6-D phase space information for stars from
+LAMOST DR5. With high precision of position, velocity, and metallicity, the rotation of the local
+stellar halo is presented using the K giant stars with [Fe/H]$<-1$\,dex. By fitting the rotational
+velocity distribution with three Gaussian components, stellar halo, disk, and a counter-rotating
+hot population, we find that the halo progradely rotates with $V_T=+30\pm4$\,km\ s$^{-1}$ providing
+the local standard of rest velocity of $V_{LSR}=232$\,km\ s$^{-1}$. Meanwhile, we obtain the dispersion
+of rotational velocity is $\sigma_{T}=77\pm4$\,km\ s$^{-1}$ and the local anisotropy of the halo
+is $\sim$0.7. Although the rotational velocity strongly depends on the choice of $V_{LSR}$, the
+trend of prograde rotation is substantial even when $V_{LSR}$ is set at as low as 220\,km\ s$^{-1}$.
+Moreover, we derive the rotation for subsamples with different metallicities and find that the
+rotational velocity is essentially not correlated with [Fe/H]. This may hint a secular evolution
+origin of the prograde rotation. It shows that the metallicity of the progradely rotating halo is
+peaked within -1.9$<$[Fe/H]$<$-1.6 without considering the selection effect. We also find a small
+fraction of counter-rotating stars with larger dispersion and lower metallicity. Finally, the
+disk component rotates with $V_T=+185\pm5$\,km\ s$^{-1}$ and $\sigma_T=44\pm3$\,km\ s$^{-1}$,
+which is quite consistent with the metal-weak thick disk population. 

@@ -1,0 +1,16 @@
+To build a fault-tolerant quantum computer, it is necessary to implement a quantum error correcting
+code. Such codes rely on the ability to extract information about the quantum error syndrome while
+not destroying the quantum information encoded in the system. Stabilizer codes are attractive
+solutions to this problem, as they are analogous to classical linear codes, have simple and easily
+computed encoding networks, and allow efficient syndrome extraction. In these codes, syndrome
+extraction is performed via multi-qubit stabilizer measurements, which are bit and phase parity
+checks up to local operations. Previously, stabilizer codes have been realized in nuclei, trapped-ions,
+and superconducting qubits. However these implementations lack the ability to perform fault-tolerant
+syndrome extraction which continues to be a challenge for all physical quantum computing systems.
+Here we experimentally demonstrate a key step towards this problem by using a two-by-two lattice
+of superconducting qubits to perform syndrome extraction and arbitrary error detection via simultaneous
+quantum non-demolition stabilizer measurements. This lattice represents a primitive tile for
+the surface code, which is a promising stabilizer code for scalable quantum computing. Furthermore,
+we successfully show the preservation of an entangled state in the presence of an arbitrary applied
+error through high-fidelity syndrome measurement. Our results bolster the promise of employing
+lattices of superconducting qubits for larger-scale fault-tolerant quantum computing. 

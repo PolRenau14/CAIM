@@ -1,0 +1,16 @@
+This paper concerns {\em randomized} leader election in synchronous distributed networks. A distributed
+leader election algorithm is presented for complete $n$-node networks that runs in O(1) rounds
+and (with high probability) uses only $O(\sqrt{n}\log^{3/2} n)$ messages to elect a unique leader
+(with high probability). When considering the "explicit" variant of leader election where eventually
+every node knows the identity of the leader, our algorithm yields the asymptotically optimal bounds
+of O(1) rounds and O(n) messages. This algorithm is then extended to one solving leader election
+on any connected non-bipartite $n$-node graph $G$ in $O(\tau(G))$ time and $O(\tau(G)\sqrt{n}\log^{3/2}
+n)$ messages, where $\tau(G)$ is the mixing time of a random walk on $G$. The above result implies
+highly efficient (sublinear running time and messages) leader election algorithms for networks
+with small mixing times, such as expanders and hypercubes. In contrast, previous leader election
+algorithms had at least linear message complexity even in complete graphs. Moreover, super-linear
+message lower bounds are known for time-efficient {\em deterministic} leader election algorithms.
+Finally, we present an almost matching lower bound for randomized leader election, showing that
+$\Omega(\sqrt n)$ messages are needed for any leader election algorithm that succeeds with probability
+at least $1/e + \eps$, for any small constant $\eps > 0$. We view our results as a step towards understanding
+the randomized complexity ofleader election in distributed networks. 

@@ -1,0 +1,16 @@
+The concept of hyperuniformity has been a useful tool in the study of large-scale density fluctuations
+in systems ranging across the natural and mathematical sciences. One can rank a large class of hyperuniform
+systems by their ability to suppress long-range density fluctuations through the use of a hyperuniformity
+order metric $\bar{\Lambda}$. We apply this order metric to the Barlow packings, which are the infinitely
+degenerate densest packings of identical rigid spheres that are distinguished by their stacking
+geometries and include the commonly known fcc lattice and hcp crystal. The "stealthy stacking"
+theorem implies that these packings are all stealthy hyperuniform, a strong type of hyperuniformity
+which involves the suppression of scattering up to a wavevector $K$. We describe the geometry of
+three classes of Barlow packings, two disordered classes and small-period packings. In addition,
+we compute a lower bound on $K$ for all Barlow packings. We compute $\bar{\Lambda}$ for the aforementioned
+three classes of Barlow packings and find that to a very good approximation, it is linear in the fraction
+of fcc-like clusters, taking values between those of least-ordered hcp and most-ordered fcc. This
+implies that the $\bar{\Lambda}$ of all Barlow packings is primarily controlled by the local cluster
+geometry. These results indicate the special nature of anisotropic stacking disorder, which provides
+impetus for future research on the development of anisotropic order metrics and hyperuniformity
+properties. 

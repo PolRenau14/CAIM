@@ -1,0 +1,17 @@
+The detection of electron spins associated with single defects in solids is a critical operation
+for a range of quantum information and measurement applications currently under development.
+To date, it has only been accomplished for two centres in crystalline solids: phosphorus in silicon
+using electrical readout based on a single electron transistor (SET) and nitrogen-vacancy centres
+in diamond using optical readout. A spin readout fidelity of about 90% has been demonstrated with
+both electrical readout and optical readout, however, the thermal limitations of the electrical
+readout and the poor photon collection efficiency of the optical readout hinder achieving the high
+fidelity required for quantum information applications. Here we demonstrate a hybrid approach
+using optical excitation to change the charge state of the defect centre in a silicon-based SET,
+conditional on its spin state, and then detecting this change electrically. The optical frequency
+addressing in high spectral resolution conquers the thermal broadening limitation of the previous
+electrical readout and charge sensing avoids the difficulties of efficient photon collection.
+This is done with erbium in silicon and has the potential to enable new architectures for quantum
+information processing devices and to dramatically increase the range of defect centres that can
+be exploited. Further, the efficient electrical detection of the optical excitation of single
+sites in silicon is a major step in developing an interconnect between silicon and optical based
+quantum computing technologies. 

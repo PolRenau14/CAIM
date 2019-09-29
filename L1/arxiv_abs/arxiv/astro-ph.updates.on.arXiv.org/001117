@@ -1,0 +1,16 @@
+We model the linear and nonlinear growth of large scale structure in the Cubic Galileon gravity model,
+by running a suite of N-body cosmological simulations using the {\tt ECOSMOG} code. Our simulations
+include the Vainshtein screening effect, which reconciles the Cubic Galileon model with local
+tests of gravity. In the linear regime, the amplitude of the matter power spectrum increases by $\sim
+25%$ with respect to the standard $\Lambda$CDM model today. The modified expansion rate accounts
+for $\sim 20%$ of this enhancement, while the fifth force is responsible for only $\sim 5%$. This
+is because the effective unscreened gravitational strength deviates from standard gravity only
+at late times, even though it can be twice as large today. In the nonlinear regime ($k \gtrsim 0.1 h\rm{Mpc}^{-1}$),
+the fifth force leads to only a modest increase ($\lesssim 8%$) in the clustering power on all scales
+due to the very efficient operation of the Vainshtein mechanism. Such a strong effect is typically
+not seen in other models with the same screening mechanism. The screening also results in the fifth
+force increasing the number density of halos by less than 10%, on all mass scales. Our results show
+that the screening does not ruin the validity of linear theory on large scales which anticipates
+very strong constraints from galaxy clustering data. We also show that, whilst the model gives an
+excellent match to CMB data on small angular scales ($l \gtrsim 50$), the predicted integrated Sachs-Wolf
+effect is in tension with Planck/WMAP results. 

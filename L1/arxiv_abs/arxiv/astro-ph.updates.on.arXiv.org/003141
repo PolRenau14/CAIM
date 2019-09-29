@@ -1,0 +1,16 @@
+We present a theoretical model embedding the essential physics of early galaxy formation (z = 5-12)
+based on the single premise that any galaxy can form stars with a maximal limiting efficiency that
+provides enough energy to expel all the remaining gas, quenching further star formation. This simple
+idea is implemented into a merger-tree based semi-analytical model that utilises two mass and redshift-independent
+parameters to capture the key physics of supernova feedback in ejecting gas from low-mass halos,
+and tracks the resulting impact on the subsequent growth of more massive systems via halo mergers
+and gas accretion. Our model shows that: (i) the smallest halos (halo mass $M_h \leq 10^{10} M_\odot$)
+build up their gas mass by accretion from the intergalactic medium; (ii) the bulk of the gas powering
+star formation in larger halos ($M_h \geq 10^{11.5} M_\odot$) is brought in by merging progenitors;
+(iii) the faint-end UV luminosity function slope evolves according to $\alpha = -1.75 \log \,z -0.52$.
+In addition, (iv) the stellar mass-to-light ratio is well fit by the functional form $\log\, M_*
+= -0.38 M_{UV} -0.13\, z + 2.4$, which we use to build the evolving stellar mass function to compare
+to observations. We end with a census of the cosmic stellar mass density (SMD) across galaxies with
+UV magnitudes over the range $-23 \leq M_{UV} \leq -11$ spanning redshifts $5 < z < 12$: (v)
+while currently detected LBGs contain $\approx 50$% (10%) of the total SMD at $z=5$ (8), the JWST
+will detect up to 25% of the SMD at $z \simeq 9.5$. 

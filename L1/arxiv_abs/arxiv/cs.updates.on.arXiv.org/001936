@@ -1,0 +1,16 @@
+Over 150,000 new people in the United States are diagnosed with colorectal cancer each year. Nearly
+a third die from it (American Cancer Society). The only approved noninvasive diagnosis tools currently
+involve fecal blood count tests (FOBTs) or stool DNA tests. Fecal blood count tests take only five
+minutes and are available over the counter for as low as \$15. They are highly specific, yet not nearly
+as sensitive, yielding a high percentage (25%) of false negatives (Colon Cancer Alliance). Moreover,
+FOBT results are far too generalized, meaning that a positive result could mean much more than just
+colorectal cancer, and could just as easily mean hemorrhoids, anal fissure, proctitis, Crohn's
+disease, diverticulosis, ulcerative colitis, rectal ulcer, rectal prolapse, ischemic colitis,
+angiodysplasia, rectal trauma, proctitis from radiation therapy, and others. Stool DNA tests,
+the modern benchmark for CRC screening, have a much higher sensitivity and specificity, but also
+cost \$600, take two weeks to process, and are not for high-risk individuals or people with a history
+of polyps. To yield a cheap and effective CRC screening alternative, a unique ensemble-based classification
+algorithm is put in place that considers the FIT result, BMI, smoking history, and diabetic status
+of patients. This method is tested under ten-fold cross validation to have a .95 AUC, 92% specificity,
+89% sensitivity, .88 F1, and 90% precision. Once clinically validated, this test promises to be
+cheaper, faster, and potentially more accurate when compared to a stool DNA test. 

@@ -1,0 +1,16 @@
+Recently, gas giant planets in nearly circular orbits with large semimajor axes ($a \sim$ 30--1000AU)
+have been detected by direct imaging. We have investigated orbital evolution in a formation scenario
+for such planets, based on core accretion model: i) Icy cores accrete from planetesimals at $\lesssim$
+30AU, ii) they are scattered outward by an emerging nearby gas giant to acquire highly eccentric
+orbits, and iii) their orbits are circularized through accretion of disk gas in outer regions, where
+they spend most of time. We analytically derived equations to describe the orbital circularization
+through the gas accretion. Numerical integrations of these equations show that the eccentricity
+decreases by a factor of more than 5 during the planetary mass increases by a factor of 10. Because
+runaway gas accretion increases planetary mass by $\sim$ 10--300, the orbits are sufficiently
+circularized. On the other hand, $a$ is reduced at most only by a factor of 2, leaving the planets in
+outer regions. If the relative velocity damping by shock is considered, the circularization is
+slowed down, but still efficient enough. Therefore, this scenario potentially accounts for the
+formation of observed distant jupiters in nearly circular orbits. If the apocenter distances of
+the scattered cores are larger than the disk sizes, their $a$ shrink to a quarter of the disk sizes;
+the $a$-distribution of distant giants could reflect outer edges of the disks in a similar way that
+those of hot jupiters may reflect inner edges. 

@@ -1,0 +1,16 @@
+Computational chemistry at the atomic level has largely branched into two major fields, one based
+on quantum mechanics and the other on molecular mechanics using classical force fields. Because
+of high computational costs, quantum mechanical methods have been typically relegated to the study
+of small systems. Classical force field methods can describe systems with millions of atoms, but
+suffer from well known problems. For example, these methods have problems describing the rich coordination
+chemistry of transition metals or physical phenomena such as charge transfer. The requirement
+of specific parametrization also limits their applicability. There is clearly a need to develop
+new computational methods based on quantum mechanics to study large and heterogeneous systems.
+Quantum based methods are typically limited by the calculation of two-electron integrals and diagonalization
+of large matrices. Our initial work focused on the development of fast techniques for the calculation
+of two-electron integrals. In this publication the diagonalization problem is addressed and results
+from molecular dynamics simulations of alanine decamer in gas-phase using a new fast pseudo-diagonalization
+method are presented. The Hamiltonian is based on the standard Extended Hueckel approach, supplemented
+with a term to correct electrostatic interactions. Besides presenting results from the new algorithm,
+this publication also lays the requirements for a new quantum mechanical method and introduces
+the extended Hueckel method as a viable base to be developed in the future. 

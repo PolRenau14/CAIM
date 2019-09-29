@@ -1,0 +1,17 @@
+Statistical theory of turbulence in viscid incompressible fluid, described by the Navier-Stokes
+equation driven by random force, is reformulated in terms of scale-dependent fields $\mathbf{u}_a(x)$,
+defined as wavelet-coefficients of the velocity field $\mathbf{u}$ taken at point $x$ with the
+resolution $a$. Applying quantum field theory approach of stochastic hydrodynamics to the generating
+functional of random fields $\mathbf{u}_a(x)$, we have shown the velocity field correlators $\langle
+\mathbf{u}_{a_1}(x_1)\ldots \mathbf{u}_{a_n}(x_n)\rangle$ to be finite by construction for
+the random stirring force acting at prescribed large scale $L$. The study is performed in $d=3$ dimension.
+Since there are no divergences, regularization is not required, and the renormalization group
+invariance becomes merely a symmetry that relates velocity fluctuations of different scales in
+terms of the Kolmogorov-Richardson picture of turbulence development. The integration over the
+scale arguments is performed from the external scale $L$ down to the observation scale $A$, which
+lies in Kolmogorov range $l \ll A \ll L$. Our oversimplified model is full dissipative: interaction
+between scales is provided only locally by the gradient vertex $(\mathbf{u}\nabla) \mathbf{u}$,
+neglecting any effects or parity violation that might be responsible for energy backscatter. The
+corrections to viscosity and the pair velocity correlator are calculated in one-loop approximation.
+This gives the dependence of turbulent viscosity on observation scale and describes the scale dependence
+of the velocity field correlations. 

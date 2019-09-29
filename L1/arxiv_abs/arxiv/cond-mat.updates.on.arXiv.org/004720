@@ -1,0 +1,17 @@
+The magnetization of body-centered cubic iron at low temperatures is calculated with the steepest-entropy-ascent
+quantum thermodynamics (SEAQT) framework. This framework assumes that a thermodynamic property
+in an isolated system traces the path through state space with the greatest entropy production.
+Magnetization is calculated from the expected value of a thermodynamic ensemble of quantized spin
+waves based on the Heisenberg spin model applied to an ensemble of coupled harmonic oscillators.
+A realistic energy landscape is obtained from a magnon dispersion relation calculated using spin-density-functional-theory.
+The equilibrium magnetization as well as the evolution of magnetization from a non-equilibrium
+state to equilibrium are calculated from the path of steepest entropy ascent determined from the
+SEAQT equation of motion in state space. The framework makes it possible to model the temperature-
+and time-dependence of magnetization without a detailed description of magnetic damping. The
+approach is also used to define intensive properties (temperature and magnetic field strength)
+that are fundamentally, i.e., canonically or grand canonically, valid for any non-equilibrium
+state. Given the assumed magnon dispersion relation, the SEAQT framework is used to calculate the
+equilibrium magnetization at different temperatures and external magnetic fields and the results
+are shown to closely agree with experiment for temperatures less than 500 K. The time-dependent
+evolution of magnetization from different initial states and interactions with a reservoir is
+also predicted. 

@@ -1,0 +1,16 @@
+The spatiotemporal dynamics in systems of active self-propelled particles is controlled by the
+propulsion mechanism in combination with various direct interactions, such as steric repulsion,
+hydrodynamics, and chemical fields. Yet, these direct interactions are typically anisotropic,
+and come in different 'flavors', such as spherical and elongated particle shapes for steric repulsion,
+pusher and puller flow fields for hydrodynamics, etc. The combination of the various aspects is
+expected to lead to new emergent behavior. However, it is a priori not evident whether shape and hydrodynamics
+act synergistically or antagonistically to generate motility-induced clustering (MIC) and phase
+separation (MIPS). We employ a model of prolate spheroidal microswimmers - called squirmers - in
+quasi-two-dimensional confinement to address this issue by mesoscale hydrodynamic simulations.
+For comparison, non-hydrodynamic active Brownian particles (ABPs) are considered to elucidate
+the contribution of hydrodynamic interactions on MIC and MIPS. For spherical particles, the comparison
+between ABP and hydrodynamic-squirmer ensembles reveals a suppression of MIPS due to hydrodynamic
+interactions. The fundamental difference between ABPs and squirmers is attributed to an increased
+reorientation of squirmers by hydrodynamic torques during their collisions. In contrast, for
+elongated squirmers, hydrodynamics interactions enhance MIPS. Thus, hydrodynamic interactions
+show opposing effects on MIPS for spherical and elongated microswimmers. 

@@ -1,0 +1,17 @@
+Ice crystals settling through a turbulent cloud are rotated by turbulent velocity gradients. In
+the same way, turbulence affects the orientation of aggregates of organic matter settling in the
+ocean. In fact most solid particles encountered in Nature are not spherical, and their orientation
+affects their settling speed, as well as collision rates between particles. Therefore it is important
+to understand the distribution of orientations of non-spherical particles settling in turbulence.
+Here we study the angular dynamics of small prolate spheroids settling in homogeneous isotropic
+turbulence. We consider a limit of the problem where the fluid torque due to convective inertia dominates,
+so that rods settle essentially horizontally. Turbulence causes the orientation of the settling
+particles to fluctuate, and we calculate their orientation distribution for prolate spheroids
+with arbitrary aspect ratios for large settling number Sv (a dimensionless measure of the settling
+speed), assuming small Stokes number St (a dimensionless measure of particle inertia). This overdamped
+theory predicts that the orientation distribution is very narrow at large Sv, with a variance proportional
+to ${\rm Sv}^{-4}$. By considering the role of particle inertia, we analyse the limitations of the
+overdamped theory, and determine its range of applicability. Our predictions are in excellent
+agreement with numerical simulations of simplified models of turbulent flows. Finally we contrast
+our results with those of an alternative theory predicting that the orientation variance scales
+as ${\rm Sv}^{-2}$ at large Sv. 

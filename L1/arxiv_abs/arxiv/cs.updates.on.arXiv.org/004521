@@ -1,0 +1,17 @@
+Changes in travel modes used by people, particularly reduction of the private car use, is an important
+determinant of effectiveness of transportation plans. Because of dependencies between the choices
+of residential location and travel mode, integrated modelling of these choices has been proposed
+by some researchers. In this paper, an agent-based microsimulation model has been developed to
+evaluate impacts of different transport development plans on choices of residential location
+and commuting mode of tenant households in Tehran, the capital of Iran. In the proposed model, households
+are considered as agents who select their desired residential location using a constrained NSGA-II
+algorithm and in a competition with other households. In addition, they choose their commuting
+mode by applying a multi-criteria decision making method. Afterwards, effects of development
+of a new highway, subway and bus rapid transit (BRT) line on their residential location and commuting
+mode choices are evaluated. Results show that despite the residential self-selection effects,
+these plans result in considerable changes in the commuting mode of different socioeconomic categories
+of households. Development of the new subway line shows promising results by reducing the private
+car use among the all socio-economic categories of households. But the new highway development
+unsatisfactorily results in increase in the private car use. In addition, development of the new
+BRT line does not show significant effects on the commuting mode change, particularly on decrease
+in the private car use. 

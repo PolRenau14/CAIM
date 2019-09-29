@@ -1,0 +1,16 @@
+We report new Atacama Large Millimeter/sub-millimeter Array (ALMA) Band 3 observations at 2.75
+mm of the TD around SR 24S with an angular resolution of $\sim$0.11''$\times$ 0.09'' and a peak signal-to-noise
+ratio of $\sim24$. We detect an inner disk and a mostly symmetric ring-like structure that peaks
+at $\sim$0.32'', that is $\sim$37 au at a distance of $\sim$114.4 pc. The full width at half maximum
+of this ring is $\sim$28 au. We analyze the observed structures by fitting the dust continuum visibilities
+using different models for the intensity profile, and compare with previous ALMA observations
+of the same disk at 0.45 mm and 1.30 mm. We qualitatively compare the results of these fits with theoretical
+predictions of different scenarios for the formation of a cavity or large gap. The comparison of
+the dust continuum structure between different ALMA bands indicates that photoevaporation and
+dead zone can be excluded as leading mechanisms for the cavity formation in SR 24S disk, leaving the
+planet scenario (single or multiple planets) as the most plausible mechanism. We compared the 2.75
+mm emission with published (sub-)centimeter data and find that the inner disk is likely tracing
+dust thermal emission. This implies that any companion in the system should allow dust to move inwards
+throughout the gap and replenish the inner disk. In the case of one single planet, this puts strong
+constraints on the mass of the potential planet inside the cavity and the disk viscosity of about
+$\lesssim$5 $M_{\rm{Jup}}$ and $\alpha\sim10^{-4}-10^{-3}$, respectively. 

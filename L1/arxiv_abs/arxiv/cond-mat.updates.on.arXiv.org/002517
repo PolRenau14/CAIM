@@ -1,0 +1,16 @@
+We elucidate a qualitative difference in rheology between fragile and network-forming strong
+liquids. In a flow field, the structural configuration is distorted in accordance with the flow
+symmetry, whereas the form of the interaction potential remains unchanged. The role of this mismatch
+in the relaxation mechanism under the flow field is crucial for understanding the shear-thinning
+mechanism and differs between strong and fragile glass formers. In fragile glass formers, shear
+thinning can be attributed to the shear-induced reduction of the {\it effective density}. In contrast,
+in strong glass formers, the shear-induced reduction of the {\it effective activation energy}
+is a possible origin of a significant acceleration in relaxation. Our simple predictions of the
+crossover shear rate, $\dot\gamma_{\rm c}$, from Newtonian to non-Newtonian behaviors can be
+expressed in terms of experimental observables: in fragile liquids, $\dot\gamma_{\rm c}=(\rho
+\partial \tau_\alpha/\partial \rho)^{-1}$, where $\rho$ and $\tau_\alpha$ are the density and
+structural relaxation time, respectively, and in strong liquids, $\dot\gamma_{\rm c}= (\tau_\alpha\Delta
+E_0 /T)^{-1} $, where $T$ and $\Delta E_0$ are the temperature and equilibrium activation energy,
+respectively. These predictions are consistent with the results of molecular dynamics simulations
+for four different glass formers: two fragile and two strong ones. This different route to the non-Newtonian
+flow response is related to differences in the role of density in the relaxation dynamics. 

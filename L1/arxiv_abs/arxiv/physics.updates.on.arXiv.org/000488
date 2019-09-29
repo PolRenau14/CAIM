@@ -1,0 +1,16 @@
+We introduce numerical algorithms for initializing multidimensional simulations of stellar
+explosions with 1D stellar evolution models. The initial mapping from 1D profiles onto multidimensional
+grids can generate severe numerical artifacts, one of the most severe of which is the violation of
+conservation laws for physical quantities. We introduce a numerical scheme for mapping 1D spherically-symmetric
+data onto multidimensional meshes so that these physical quantities are conserved. We verify our
+scheme by porting a realistic 1D Lagrangian stellar profile to the new multidimensional Eulerian
+hydro code CASTRO. Our results show that all important features in the profiles are reproduced on
+the new grid and that conservation laws are enforced at all resolutions after mapping. We also introduce
+a numerical scheme for initializing multidimensional supernova simulations with realistic perturbations
+predicted by 1D stellar evolution models. Instead of seeding 3D stellar profiles with random perturbations,
+we imprint them with velocity perturbations that reproduce the Kolmogorov energy spectrum expected
+for highly turbulent convective regions in stars. Our models return Kolmogorov energy spectra
+and vortex structures like those in turbulent flows before the modes become nonlinear. Finally,
+we describe approaches to determining the resolution for simulations required to capture fluid
+instabilities and nuclear burning. Our algorithms are applicable to multidimensional simulations
+besides stellar explosions that range from astrophysics to cosmology. 

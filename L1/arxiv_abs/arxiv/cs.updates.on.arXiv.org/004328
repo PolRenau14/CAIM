@@ -1,0 +1,16 @@
+Recent developments in deep domain adaptation have allowed knowledge transfer from a labeled source
+domain to an unlabeled target domain at the level of intermediate features or input pixels. We propose
+that advantages may be derived by combining them, in the form of different insights that lead to a
+novel design and complementary properties that result in better performance. At the feature level,
+inspired by insights from semi-supervised learning in a domain adversarial neural network, we
+propose a novel regularization in the form of domain adversarial entropy minimization. Next, we
+posit that insights from computer vision are more amenable to injection at the pixel level and specifically
+address the key challenge of adaptation across different semantic levels. In particular, we use
+3D geometry and image synthesization based on a generalized appearance flow to preserve identity
+across higher-level pose transformations, while using an attribute-conditioned CycleGAN to
+translate a single source into multiple target images that differ in lower-level properties such
+as lighting. We validate on a novel problem of car recognition in unlabeled surveillance images
+using labeled images from the web, handling explicitly specified, nameable factors of variation
+through pixel-level and implicit, unspecified factors through feature-level adaptation. Extensive
+experiments achieve state-of-the-art results, demonstrating the effectiveness of complementing
+feature and pixel-level information via our proposed domain adaptation method. 

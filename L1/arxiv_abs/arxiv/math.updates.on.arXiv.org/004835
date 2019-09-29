@@ -1,0 +1,16 @@
+Although the spinor field in (1+1) dimensions has the right structure to model a dispersive bimodal
+system with gain and loss, the plain addition of gain to one component of the field and loss to the other
+one results in an unstable dispersion relation. In this paper, we advocate a different recipe for
+the $\mathcal{PT}$-symmetric extension of spinor models --- the recipe that does not produce instability
+of the linear Dirac equation. Having exemplified the physical origins of the $\mathcal P$- and $\mathcal
+T$-breaking terms, we consider the extensions of three U(1)-invariant spinor models with cubic
+nonlinearity. Of these, the \PT-symmetric extension of the Thirring model is shown to be completely
+integrable and possess infinitely many conserved quantities. The \PT-symmetric Gross-Neveu
+equation conserves energy and momentum but does not conserve charge. The third model is introduced
+for the purpose of comparison with the previous two; its \PT-symmetric extension has no conservation
+laws at all. Despite this dramatic difference in the integrability and conservation properties,
+all three \PT-symmetric models are shown to have exact soliton solutions. Similar to the solitons
+of the extended Thirring and Gross-Neveu equations, the solitons of the new model are found to be
+stable --- except for a narrow band of frequencies adjacent to the soliton existence boundary. The
+persistence under the $\mathcal P$- and $\mathcal T$-breaking perturbations as well as the prevalence
+of stability highlight a remarkable sturdiness of spinor solitons in (1+1) dimensions. 

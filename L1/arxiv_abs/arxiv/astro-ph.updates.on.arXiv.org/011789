@@ -1,0 +1,16 @@
+We use Gaia DR2 astrometric and photometric data, published radial velocities and MESA models to
+infer distances, orbits, surface gravities, and effective temperatures for all ultra metal-poor
+stars ($\FeH<-4.0$ dex) available in the literature. Assuming that these stars are old ($>11\Gyr$)
+and that they are expected to belong to the Milky Way halo, we find that these 42 stars (18 dwarf stars
+and 24 giants or sub-giants) are currently within $\sim20\kpc$ of the Sun and that they map a wide
+variety of orbits. A large fraction of those stars remains confined to the inner parts of the halo
+and was likely formed or accreted early on in the history of the Milky Way, while others have larger
+apocentres ($>30\kpc$), hinting at later accretion from dwarf galaxies. Of particular interest,
+we find evidence that a significant fraction of all known UMP stars ($\sim26$\%) are on prograde
+orbits confined within $3\kpc$ of the Milky Way plane ($J_z < 100 \kms \kpc$). One intriguing interpretation
+is that these stars belonged to the massive building block(s) of the proto-Milky Way that formed
+the backbone of the Milky Way disc. Alternatively, they might have formed in the early disc and have
+been dynamically heated, or have been brought into the Milky Way by one or more accretion events whose
+orbit was dragged into the plane by dynamical friction before disruption. The combination of the
+exquisite Gaia DR2 data and surveys of the very metal-poor sky opens an exciting era in which we can
+trace the very early formation of the Milky Way. 

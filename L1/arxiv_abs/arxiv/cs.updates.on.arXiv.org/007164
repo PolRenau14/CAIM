@@ -1,0 +1,16 @@
+In this paper, we consider the problem of approximately aligning/matching two graphs. Given two
+graphs $G_{1}=(V_{1},E_{1})$ and $G_{2}=(V_{2},E_{2})$, the objective is to map nodes $u, v \in
+G_1$ to nodes $u',v'\in G_2$ such that when $u, v$ have an edge in $G_1$, very likely their corresponding
+nodes $u', v'$ in $G_2$ are connected as well. This problem with subgraph isomorphism as a special
+case has extra challenges when we consider matching complex networks exhibiting the small world
+phenomena. In this work, we propose to use `Ricci flow metric', to define the distance between two
+nodes in a network. This is then used to define similarity of a pair of nodes in two networks respectively,
+which is the crucial step of network alignment. %computed by discrete graph curvatures and graph
+Ricci flows. Specifically, the Ricci curvature of an edge describes intuitively how well the local
+neighborhood is connected. The graph Ricci flow uniformizes discrete Ricci curvature and induces
+a Ricci flow metric that is insensitive to node/edge insertions and deletions. With the new metric,
+we can map a node in $G_1$ to a node in $G_2$ whose distance vector to only a few preselected landmarks
+is the most similar. The robustness of the graph metric makes it outperform other methods when tested
+on various complex graph models and real world network data sets (Emails, Internet, and protein
+interaction networks)\footnote{The source code of computing Ricci curvature and Ricci flow metric
+are available: https://github.com/saibalmars/GraphRicciCurvature}. 

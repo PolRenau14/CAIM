@@ -1,0 +1,16 @@
+The role of equatorial boundary condition in the structure of a force-free black hole magnetosphere
+was rarely discussed, since previous studies have been focused on the the field lines entering the
+horizon. However, recent high-accuracy force-free electrodynamics (FFE) simulations \cite{East2018}
+show that there are both field lines entering the horizon and field lines ending up on the equatorial
+current sheet within the ergosphere for asymptotic uniform field configuration. For the latter
+field lines, the equatorial boundary condition is well approximated being marginally force-free,
+i.e., $B^2-E^2\approx 0$, where $B$ and $E$ are the magnetic and electric field strength, respectively.
+In this paper, we revisit the uniform field solution to the Kerr BH magnetosphere structure and investigate
+the role of the marginally force-free equatorial boundary condition. We find this boundary condition
+plays an important role in shaping the BH magnetosphere in various aspects, including the shape
+of the light surface, the near-horizon field line configuration and the source of the Poynting flux.
+We also propose an algorithm for numerically solving the Grad-Shafranov equation and self-consistently
+imposing the marginally force-free equatorial condition. As a result, we find a good agreement
+between our numerical solutions and the high-accuracy FFE simulations. We also discuss the applicability
+of the marginally force-free boundary condition and the numerical algorithm proposed in this paper
+for general magnetic field configurations. 

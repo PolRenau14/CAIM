@@ -1,0 +1,16 @@
+Many applications can benefit from isolating sensitive data in a secure library. Examples include
+protecting cryptographic keys behind a narrow cryptography API to defend against vulnerabilities
+like OpenSSL's Heartbleed bug. When such a library is called relatively infrequently, page-based
+hardware isolation can be used, because the cost of kernel-mediated domain switching is tolerable.
+However, some applications require very frequent domain switching, such as isolating code pointers
+to prevent control flow hijack attacks in code-pointer integrity (CPI). These applications have
+relied on weaker isolation techniques like address-space layout randomization (ASLR), which
+allow efficient switching but have proved vulnerable to attack. In this paper, we present ERIM,
+a novel technique that combines the security of hardware-enforced isolation with a switching performance
+near that of ASRL. ERIM can support sensitive data access up to a million times per CPU core a second
+with low overhead. The key idea is to combine memory protection keys (MPKs), a feature recently added
+to Intel CPUs, with binary rewriting to prevent circumvention. ERIM provides three primitives:
+isolation, call gates, and syscall mediation. We show how to apply ERIM to isolate frequently accessed
+session keys (not just the long-term keys) in nginx, a high performance web server, and how to isolate
+sensitive data in CPI. Our measurements indicate a negligible degradation in performance, even
+with very high rates of switching between the untrusted application and the secure library. 

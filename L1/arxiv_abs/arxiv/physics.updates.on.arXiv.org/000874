@@ -1,0 +1,16 @@
+We analyze the dynamics of small particles vertically confined, by means of a linear restoring force,
+to move within a horizontal fluid slab in a three-dimensional (3D) homogeneous isotropic turbulent
+velocity field. The model that we introduce and study is possibly the simplest description for the
+dynamics of small aquatic organisms that, due to swimming, active regulation of their buoyancy
+or any other mechanism, maintain themselves in a shallow horizontal layer below the free surface
+of oceans or lakes. By varying the strength of the restoring force, we are able to control the thickness
+of the fluid slab in which the particles can move. This allows us to analyze the statistical features
+of the system over a wide range of conditions going from a fully 3D incompressible flow (corresponding
+to the case of no confinement) to the extremely confined case corresponding to a 2D slice. The background
+3D turbulent velocity field is evolved by means of fully resolved direct numerical simulations.
+Whenever some level of vertical confinement is present, the particle trajectories deviate from
+that of fluid tracers and the particles experience an effectively compressible velocity field.
+Here, we have quantified the compressibility, the preferential concentration of the particles
+and the correlation dimension by changing the strength of the restoring force. The main result is
+that it exists a particular value of the force constant, corresponding to a mean slab depth approximately
+equal to a few times the Kolmogorov length scale {\eta}, that maximizes the clustering of the particles.

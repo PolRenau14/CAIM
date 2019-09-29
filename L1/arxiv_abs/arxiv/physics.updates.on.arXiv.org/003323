@@ -1,0 +1,16 @@
+For complex PT-symmetric scattering potentials (CPTSSPs) $V(x)= V_1 f_{even}(x) + iV_2 f_{odd}(x),
+f_{even}(\pm \infty) = 0 = f_{odd}(\pm \infty), V_1,V_2 \in \Re $, we show that complex $k$-poles
+of transmission amplitude $t(k)$ or zeros of $1/t(k)$ of the type $\pm k_1+ik_2, k_2\ge 0$ are physical
+which yield three types of discrete energy eigenvalues of the potential. These discrete energies
+are real negative, complex conjugate pair(s) of eigenvalues (CCPEs: ${\cal E}_n \pm i \gamma_n$)
+and real positive energy called spectral singularity (SS) at $E=E_*$ where the transmission and
+reflection co-efficient of $V(x)$ become infinite for a special critical value of $V_2=V_*$. Based
+on four analytically solvable and other numerically solved models, we conjecture that a parametrically
+fixed CPTSSP has at most one SS. When $V_1$ is fixed and $V_2$ is varied there may exist Kato's exceptional
+point(s) $(V_{EP})$ and critical values $V_{*m}, m=0,1,2,..$, so when $V_2$ crosses one of these
+special values a new CCPE is created. When $V_2$ equals a critical value $V_{*m}$ there exist one
+SS at $E=E_*$ along with $m$ or more number of CCPEs. Hence, this single positive energy $E_*$ is the
+upper (or rough upper) bound to the CCPEs: ${\cal E}_l \lessapprox E_*$, here ${\cal E}_l$ corresponds
+to the last of CCPEs. If $V(x)$ has Kato's exceptional points (EPs: $V_{EP1}<V_{EP2}<V_{EP3}<...<V_{EPl}$),
+the smallest of critical values $V_{*m}$ is always larger than $V_{EPl}$. Hence, in a CPTSSP, real
+discrete eigenvalue(s) and the SS are mutually exclusive whereas CCPEs and the SS can co-exist .

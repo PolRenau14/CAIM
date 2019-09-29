@@ -1,0 +1,16 @@
+A matrix algorithm performs at sub-linear cost if it uses much fewer flops and memory cells than the
+input matrix has entries. Using such algorithms is indispensable for Big Data Mining and Analysis,
+where the input matrices are so immense that one can only access a small fraction of all their entries.
+Typically, however, these matrices admit their LRA (Low Rank Approximation), which one can access
+and process at sub-linear arithmetic cost, that is, by involving much fewer memory cells and arithmetic
+operations than an input matrix has entries. Can, however, we compute LRA at sub-linear cost? Adversary
+argument shows that no algorithm running at sub-linear cost can output accurate LRA of the worst
+case input matrices, or even of the matrices of small families of our Appendix, but for more than a
+decade Cross-Approximation iterations, running at sub-linear cost, have routinely been computing
+accurate LRA. We partly resolve that long-known contradiction by proving that already a single
+two-stage Cross-Approximation loop computes reasonably close LRA of any matrix close to a matrix
+of sufficiently low rank provided that the loop begins at a submatrix that shares its numerical rank
+with an input matrix.We cannot obtain such an initial submatrix for the worst case input matrix without
+accessing all or most of its entries, but have this luck with a high probability for any choice from
+a random input matrix and increase our chances for success with every new C-A iteration. All this
+should explain the well-known empirical power of C-A iterations applied to real world inputs. 

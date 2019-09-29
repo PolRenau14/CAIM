@@ -1,0 +1,16 @@
+Let $P$ be the set of all prime numbers, ${q_1},{q_2}, \cdots ,{q_m} \in P$, $P_k$ be the k-th $(k =
+1,2, \cdots m)$ element of $P$ in ascending order of size, ${\alpha _1},{\alpha _2}, \cdots ,{\alpha
+_m}$ be positive integers, and ${\beta _1},{\beta _2}, \cdots ,{\beta _m}$ is a permutation of ${\alpha
+_1},{\alpha _2}, \cdots ,{\alpha _m}$ with ${\beta _1} \ge {\beta _2} \ge \cdots \ge {\beta _m}$,
+The following results are given in this paper: (i) The following inequality is true: ${e^\gamma
+}\log \log \prod\limits_{k = 1}^m {q_k^{{\alpha _k}}} - \prod\limits_{k = 1}^m {\frac{{{q_k}
+- {\textstyle{1 \over {q_k^{{\alpha _k}}}}}}}{{{q_k} - 1}}} \ge {e^\gamma }\log \log \prod\limits_{k
+= 1}^m {p_k^{{\beta _k}}} - \prod\limits_{k = 1}^m {\frac{{{p_k} - {\textstyle{1 \over {p_k^{{\beta
+_k}}}}}}}{{{p_k} - 1}}}$. (ii) If $n = \prod\limits_{k = 1}^m {p_k^{{\beta _k}}}= {\left( {\prod\limits_{k
+= 1}^m {{p_k}} } \right)^{1 + {\varepsilon _m}(n)}}$, $\mathop {\lim }\limits_{m \to \infty } {\varepsilon
+_m}(n) > 0$ or $\mathop {\lim }\limits_{m \to \infty } {\varepsilon _m}(n) = + \infty$, then $\mathop
+{\lim }\limits_{m \to \infty } ({e^\gamma }n\log \log n - \sigma (n)) > 0$ . Where $\{ {\beta _k}\}$
+is a sequence, ${\beta _k} \in N$, ${\beta _1} \ge {\beta _2} \ge \cdots \ge {\beta _m}$, $\sigma (n)
+= \sum\limits_{\left. d \right|n} d$, and $\gamma$ is the Euler constant. (iii) The probability
+of Riemann's hypothesis being true is equal to 1. In addition, two results are given when $\mathop
+{\lim }\limits_{m \to \infty } {\varepsilon _m}(n) = 0$. 

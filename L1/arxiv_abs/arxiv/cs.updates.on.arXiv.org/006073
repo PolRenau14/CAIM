@@ -1,0 +1,16 @@
+Motivated by the observation that humans can learn patterns from two given images at one time, we
+propose a dual pattern learning network architecture in this paper. Unlike conventional networks,
+the proposed architecture has two input branches and two loss functions. Instead of minimizing
+the empirical risk of a given dataset, dual pattern learning networks is trained by minimizing the
+empirical dual prediction loss. We show that this can improve the performance for single image classification.
+This architecture forces the network to learn discriminative class-specific features by analyzing
+and comparing two input images. In addition, the dual input structure allows the network to have
+a considerably large number of image pairs, which can help address the overfitting issue due to limited
+training data. Moreover, we propose to associate each input branch with a random interest value
+for learning corresponding image during training. This method can be seen as a stochastic regularization
+technique, and can further lead to generalization performance improvement. State-of-the-art
+deep networks can be adapted to dual pattern learning networks without increasing the same number
+of parameters. Extensive experiments on CIFAR-10, CIFAR- 100, FI-8, Google commands dataset,
+and MNIST demonstrate that our DPLNets exhibit better performance than original networks. The
+experimental results on subsets of CIFAR- 10, CIFAR-100, and MNIST demonstrate that dual pattern
+learning networks have good generalization performance on small datasets. 

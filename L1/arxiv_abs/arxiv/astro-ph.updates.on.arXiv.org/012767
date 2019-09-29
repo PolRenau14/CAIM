@@ -1,0 +1,17 @@
+Quasars have been proposed as a new class of standard candles analogous to Supernovae, as their large
+redshift range and high luminosities make them excellent candidates. Reverberation mapping (RM)
+method enables to estimate the distance to the source from the time delay measurement of the emission
+lines with respect to the continuum, since the time delay depends on the absolute luminosity of the
+source. This radius-luminosity (RL) relation exhibits a low scatter and it was thus proposed for
+the cosmological purposes. However, in the recent years the increase in the studied sample, and
+in particular the inclusion of highly accreting QSO has increased the dispersion in the RL relation,
+with many objects showing time delays shorter than the expected. Using \hb\ RM measurements for
+117 sources with $0.2<z<0.9$ and $41.5<\mathrm{log}~L_{5100}<45.9$, we find a correction for
+the time delay based on the dimensionless accretion rate (\mdot) considering the virial factor
+anti-correlated with the FWHM of \hb. This correction decreases the scattering in the accretion
+parameters compared with typical value used, which is directly reflected by suppressing the RL
+relation dispersion. We also confirm the anti-correlation between the excess of variability and
+the accretion parameters. With this correction we are able to build the Hubble diagram {and estimate
+the cosmological constants $\Omega_m$ and $\Omega_\Lambda$, which are consistent with standard
+cosmological model at 2$\sigma$ confidence level}. Therefore, RM results can be used to constrain
+cosmological models in the future. 

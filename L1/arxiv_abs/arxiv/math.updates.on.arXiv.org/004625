@@ -1,0 +1,16 @@
+Suppose we observe data of the form $Y_i = D_i (S_i + \varepsilon_i) \in \mathbb{R}^p$ or $Y_i = D_i
+S_i + \varepsilon_i \in \mathbb{R}^p$, $i=1,\ldots,n$, where $D_i \in \mathbb{R}^{p\times p}$
+are known diagonal matrices, $\varepsilon_i$ are noise, and we wish to perform principal component
+analysis (PCA) on the unobserved signals $S_i \in \mathbb{R}^p$. The first model arises in missing
+data problems, where the $D_i$ are binary. The second model captures noisy deconvolution problems,
+where the $D_i$ are the Fourier transforms of the convolution kernels. It is often reasonable to
+assume the $S_i$ lie on an unknown low-dimensional linear space; however, because many coordinates
+can be suppressed by the $D_i$, this low-dimensional structure can be obscured. We introduce diagonally
+reduced spiked covariance models to capture this setting. We characterize the behavior of the singular
+vectors and singular values of the data matrix under high-dimensional asymptotics where $n,p\to\infty$
+such that $p/n\to\gamma>0$. Our results have the most general assumptions to date even without
+diagonal reduction. Using them, we develop optimal eigenvalue shrinkage methods for covariance
+matrix estimation and optimal singular value shrinkage methods for data denoising. Finally, we
+characterize the error rates of the empirical Best Linear Predictor (EBLP) denoisers. We show that,
+perhaps surprisingly, their optimal tuning depends on whether we denoise in-sample or out-of-sample,
+but the optimally tuned mean squared error is the same in the two cases. 

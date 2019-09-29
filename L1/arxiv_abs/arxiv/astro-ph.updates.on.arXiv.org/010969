@@ -1,0 +1,16 @@
+We have analyzed how anisotropic emission of radiation affects the observed sample of ultraluminous
+X-ray sources (ULXs) by performing simulations of the evolution of stellar populations, employing
+recent developments in stellar and binary physics, and by utilizing a geometrical beaming model
+motivated by theory and observation. Whilst ULXs harboring black hole accretors (BH ULXs) are typically
+emitting isotropically, the majority of ULXs with neutron star accretors (NS ULXs) are found to
+be beamed. These findings confirm previous assertions that a significant fraction of ULXs are hidden
+from view due to a substantial misalignment of the emission beam and the line-of-sight. We find the
+total number of NS ULXs in regions with constant star formation, solar metallicity, and ages above
+~1 Gyr to be higher than the BH ULXs, although observationally both populations are comparable.
+For lower metallicities BH ULX dominate both the total and observed ULX populations. As far as burst
+star-formation is concerned, young ULX populations are dominated by BH ULXs, but this changes as
+the population ages and, post star-formation, NS ULXs dominate both the observed and total population
+of ULXs. We also compare our simulation output to a previous analytical prediction for the relative
+ratio of BH to NS ULXs in idealized flux-limited observations and find broad agreement for all but
+the lowest metallicities. In so doing we find that in such surveys the observed ULX population should
+be heavily dominated by black-hole systems rather than by systems containing neutron stars. 

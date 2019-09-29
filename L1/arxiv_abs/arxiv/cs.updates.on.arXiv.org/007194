@@ -1,0 +1,16 @@
+This paper presents our work on designing a parallel platform for large-scale reservoir simulations.
+Detailed components, such as grid and linear solver, and data structures are introduced, which
+can serve as a guide to parallel reservoir simulations and other parallel applications. The main
+objective of platform is to support implementation of various parallel reservoir simulators on
+distributed-memory parallel systems, where MPI (Message Passing Interface) is employed for communications
+among computation nodes. It provides structured grid due to its simplicity and cell-centered data
+is applied for each cell. The platform has a distributed matrix and vector module and a map module.
+The matrix and vector module is the base of our parallel linear systems. The map connects grid and
+linear system modules, which defines various mappings between grid and linear systems. Commonly-used
+Krylov subspace linear solvers are implemented, including the restarted GMRES method and the BiCGSTAB
+method. It also has an interface to a parallel algebraic multigrid solver, BoomerAMG from HYPRE.
+Parallel general-purpose preconditioners and special preconditioners for reservoir simulations
+are also developed. Various data structures are designed, such as grid, cell, data, linear solver
+and preconditioner, and some key default parameters are presented in this paper. The numerical
+experiments show that our platform has excellent scalability and it can simulate giant reservoir
+models with hundreds of millions of grid cells using thousands of CPU cores. 

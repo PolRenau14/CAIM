@@ -1,0 +1,17 @@
+We present intensity-corrected Herschel maps at 100 um, 160 um, 250 um, 350 um, and 500 um for 56 isolated
+low-mass clouds. We determine the zero-point corrections for Herschel PACS and SPIRE maps from
+the Herschel Science Archive (HSA) using Planck data. Since these HSA maps are small, we cannot correct
+them using typical methods. Here, we introduce a technique to measure the zero-point corrections
+for small Herschel maps. We use radial profiles to identify offsets between the observed HSA intensities
+and the expected intensities from Planck. Most clouds have reliable offset measurements with this
+technique. In addition, we find that roughly half of the clouds have underestimated HSA-SPIRE intensities
+in their outer envelopes relative to Planck, even though the HSA-SPIRE maps were previously zero-point
+corrected. Using our technique, we produce corrected Herschel intensity maps for all 56 clouds
+and determine their line-of-sight average dust temperatures and optical depths from modified
+black body fits. The clouds have typical temperatures of ~ 14-20 K and optical depths of ~ 1e-5 - 1e-3.
+Across the whole sample, we find an anti-correlation between temperature and optical depth. We
+also find lower temperatures than what was measured in previous Herschel studies, which subtracted
+out a background level from their intensity maps to circumvent the zero-point correction. Accurate
+Herschel observations of clouds are key to obtain accurate density and temperature profiles. To
+make such future analyses possible, intensity-corrected maps for all 56 clouds are publicly available
+in the electronic version. 

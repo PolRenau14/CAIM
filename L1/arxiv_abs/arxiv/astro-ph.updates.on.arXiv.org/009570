@@ -1,0 +1,16 @@
+The "gravitational million-body problem," to model the dynamical evolution of a self-gravitating,
+collisional N-body system with N ~10^6 over many relaxation times, remains a major challenge in
+computational astrophysics. Unfortunately, current techniques to model such a system suffer
+from severe limitations. A direct N-body simulation with more than 10^5 particles can require months
+or even years to complete, while an orbit-sampling Monte Carlo approach cannot adequately treat
+the details of the core dynamics, particularly in the presence of many black holes. We have developed
+a new technique combining the precision of direct N-body codes with the speed of a Monte Carlo approach.
+Our Rapid And Precisely Integrated Dynamics code, the RAPID code, statistically models interactions
+between neighboring stars and stellar binaries while integrating directly the orbits of stars
+in the cluster core. This allows us to accurately simulate the dynamics of the black holes in a realistic
+globular cluster environment without the burdensome N^2 scaling of a full N-body integration.
+We compare models of idealized globular clusters created by the RAPID approach to direct N-body
+and Monte Carlo models. Our tests show that RAPID can reproduce the half-mass and core radii of the
+direct N-body models far more accurately than the Monte Carlo approach and in ~1/200th of the computing
+time. With this technique, it will be possible to create realistic models of Milky Way globular clusters
+with sufficient rapidity to explore the full parameter space of dense stellar clusters. 

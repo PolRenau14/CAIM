@@ -1,0 +1,16 @@
+We present the first results obtained by the application of the KYNREFREV-reverberation model,
+which is ready for its use in XSPEC. This model computes the time dependent reflection spectra of
+the disc as a response to a flash of primary power-law radiation from a point source corona located
+on the axis of the black hole accretion disc (lamp-post geometry). Full relativistic effects are
+taken into account. The ionisation of the disc is set for each radius according to the amount of the
+incident primary flux and the density of the accretion disc. We tested the model by fitting model
+predictions to the observed time-lag spectra of three Narrow-Line Seyfert 1 galaxies (ARK 564,
+MCG-6-30-15 and 1H 0707-495), assuming either a rapidly or zero spinning black hole (BH). The time-lags
+strongly suggest a compact X-ray source, located close to the BH, at a height of approx. 4 gravitational
+radii. This result does not depend either on the BH spin or the disc ionization. There is no significant
+statistical difference between the quality of the best-fits in the rapidly and zero spinning BH
+scenarios in Ark 564 and MCG-6-30-15. But there is an indication that the hypothesis of a non-rotating
+BH in 1H 0707-495 is not consistent with its time-lag spectrum. Finally, the best-fits to the Ark
+564 and 1H 0707-495 data are of rather low quality. We detect wavy-residuals around the best-fit
+reverberation model time-lags at high frequencies. This result suggests that the simple lamp-post
+geometry does not fully explain the X-ray source/disc configuration in Active Galactic Nuclei.

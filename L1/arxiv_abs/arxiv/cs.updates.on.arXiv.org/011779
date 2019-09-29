@@ -1,0 +1,16 @@
+Consuming news from social media is becoming increasingly popular. Social media appeals to users
+due to its fast dissemination of information, low cost, and easy access. However, social media also
+enables the widespread of fake news. Because of the detrimental societal effects of fake news, detecting
+fake news has attracted increasing attention. However, the detection performance only using news
+contents is generally not satisfactory as fake news is written to mimic true news. Thus, there is
+a need for an in-depth understanding on the relationship between user profiles on social media and
+fake news. In this paper, we study the challenging problem of understanding and exploiting user
+profiles on social media for fake news detection. In an attempt to understand connections between
+user profiles and fake news, first, we measure users' sharing behaviors on social media and group
+representative users who are more likely to share fake and real news; then, we perform a comparative
+analysis of explicit and implicit profile features between these user groups, which reveals their
+potential to help differentiate fake news from real news. To exploit user profile features, we demonstrate
+the usefulness of these user profile features in a fake news classification task. We further validate
+the effectiveness of these features through feature importance analysis. The findings of this
+work lay the foundation for deeper exploration of user profile features of social media and enhance
+the capabilities for fake news detection. 

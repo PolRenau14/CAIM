@@ -1,0 +1,16 @@
+Noisy channels are a powerful resource for cryptography as they can be used to obtain information-theoretically
+secure key agreement, commitment and oblivious transfer protocols, among others. Oblivious transfer
+(OT) is a fundamental primitive since it is complete for secure multi-party computation, and the
+OT capacity characterizes how efficiently a channel can be used for obtaining string oblivious
+transfer. Ahlswede and Csisz\'{a}r (\emph{ISIT'07}) presented upper and lower bounds on the OT
+capacity of generalized erasure channels (GEC) against passive adversaries. In the case of GEC
+with erasure probability at least 1/2, the upper and lower bounds match and therefore the OT capacity
+was determined. It was later proved by Pinto et al. (\emph{IEEE Trans. Inf. Theory 57(8)}) that in
+this case there is also a protocol against malicious adversaries achieving the same lower bound,
+and hence the OT capacity is identical for passive and malicious adversaries. In the case of GEC with
+erasure probability smaller than 1/2, the known lower bound against passive adversaries that was
+established by Ahlswede and Csisz\'{a}r does not match their upper bound and it was unknown whether
+this OT rate could be achieved against malicious adversaries as well. In this work we show that there
+is a protocol against malicious adversaries achieving the same OT rate that was obtained against
+passive adversaries. In order to obtain our results we introduce a novel use of interactive hashing
+that is suitable for dealing with the case of low erasure probability ($p^* <1/2$). 

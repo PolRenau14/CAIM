@@ -1,0 +1,16 @@
+This paper explores the information-theoretic limitations of graph property testing in zero-field
+Ising models. Instead of learning the entire graph structure, sometimes testing a basic graph property
+such as connectivity, cycle presence or maximum clique size is a more relevant and attainable objective.
+Since property testing is more fundamental than graph recovery, any necessary conditions for property
+testing imply corresponding conditions for graph recovery, while custom property tests can be
+statistically and/or computationally more efficient than graph recovery based algorithms. Understanding
+the statistical complexity of property testing requires the distinction of ferromagnetic (i.e.,
+positive interactions only) and general Ising models. Using combinatorial constructs such as
+graph packing and strong monotonicity, we characterize how target properties affect the corresponding
+minimax upper and lower bounds within the realm of ferromagnets. On the other hand, by studying the
+detection of an antiferromagnetic (i.e., negative interactions only) Curie-Weiss model buried
+in Rademacher noise, we show that property testing is strictly more challenging over general Ising
+models. In terms of methodological development, we propose two types of correlation based tests:
+computationally efficient screening for ferromagnets, and score type tests for general models,
+including a fast cycle presence test. Our correlation screening tests match the information-theoretic
+bounds for property testing in ferromagnets. 

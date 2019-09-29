@@ -1,0 +1,16 @@
+This paper develops a computational framework with unfitted meshes to solve linear piezoelectricity
+and flexoelectricity electromechanical boundary value problems including strain gradient elasticity
+at infinitesimal strains. The high-order nature of the coupled PDE system is addressed by a sufficiently
+smooth hierarchical B-spline approximation on a background Cartesian mesh. The domain of interest
+is embedded into the background mesh and discretized in an unfitted fashion. The immersed boundary
+approach allows us to use B-splines on arbitrary domain shapes, regardless of their geometrical
+complexity, and could be directly extended, for instance, to shape and topology optimization.
+The domain boundary is represented by NURBS, and exactly integrated by means of the NEFEM mapping.
+Local adaptivity is achieved by hierarchical refinement of B-spline basis, which are efficiently
+evaluated and integrated thanks to their piecewise polynomial definition. Nitsche's formulation
+is derived to weakly enforce essential boundary conditions, accounting also for the non-local
+conditions on the non-smooth portions of the domain boundary (i.e. edges in 3D or corners in 2D) arising
+from Mindlin's strain gradient elasticity theory. Boundary conditions modeling sensing electrodes
+are formulated and enforced following the same approach. Optimal error convergence rates are reported
+using high-order B-spline approximations. The method is verified against available analytical
+solutions and well-known benchmarks from the literature. 

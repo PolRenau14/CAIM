@@ -1,0 +1,16 @@
+X-ray Hybrid CMOS Detectors (HCDs) have advantages over X-ray CCDs due to their higher readout rate
+abilities, flexible readout, inherent radiation hardness, and low power, which make them more
+suitable for the next generation large area X-ray telescope missions. The Penn State high energy
+astronomy laboratory has been working on the development and characterization of HCDs in collaboration
+with Teledyne Imaging Sensors (TIS). We characterized an H2RG detector with a Cryo-SIDECAR readout
+and controller, and we find an improved energy resolution of ~2.7 % at 5.9 keV and read noise of ~6.5
+e-. This detector was successfully flown on NASA's first water recovery sounding rocket flight
+on April 4th, 2018. We have also been developing several new HCDs with potential applications for
+future X-ray astronomy missions. We are characterizing the performance of small-pixel HCDs (12.5
+{\mu}m pitch), which are important for the development of a next-generation high-resolution imager
+with HCDs. We also characterized a 64 x 64 pixel prototype Speedster-EXD detector that uses comparators
+in each pixel to read out only those pixels having detectable signal, thereby providing an order
+of magnitude improvement in the effective readout rate. HCDs can also be utilized as a large FOV instrument
+to study the prompt and afterglow emissions of GRBs and detect black hole transients. In this context,
+we are characterizing a Lobster-HCD system for future CubeSat experiments. This paper briefly
+presents these new developments and experimental results. 

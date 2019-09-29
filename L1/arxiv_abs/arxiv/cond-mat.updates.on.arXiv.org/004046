@@ -1,0 +1,16 @@
+The Kondo and Periodic Anderson models describe many of the qualitative features of local moments
+coupled to a conduction band, and thereby the physics of materials such as the heavy fermions. In
+particular, when the exchange coupling $J$ or hybridization $V$ between the moments and the electrons
+of the metallic band is large, singlets form, quenching the magnetism. In the opposite, small $J$
+or $V$, limit, the moments survive, and the conduction electrons mediate an effective interaction
+which can trigger long range, often antiferromagnetic, order. In the case of the Kondo model, where
+the moments are described by local spins, Nozi\`eres considered the possibility that the available
+conduction electrons within the Kondo temperature of the Fermi surface would be insufficient in
+number to accomplish the screening. Much effort in the literature has been devoted to the study of
+the temperature scales in the resulting `exhaustion' problem, and how the `coherence temperature'
+where a heavy Fermi liquid forms is related to the Kondo temperature. In this paper, we study a version
+of the Periodic Anderson model in which some of the conduction electrons are removed in a way which
+avoids the fermion sign problem and hence allows low temperature Quantum Monte Carlo simulations
+which can access both singlet formation and magnetic ordering temperature scales. We are then able
+to focus on a somewhat different aspect of exhaustion physics than previously considered: the effect
+of dilution on the critical $V$ for the singlet-antiferromagnetic transition. 

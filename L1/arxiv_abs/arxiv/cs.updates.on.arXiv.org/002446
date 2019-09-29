@@ -1,0 +1,16 @@
+The multiterminal secret key agreement problem by public discussion is formulated with an additional
+source compression step where, prior to the public discussion phase, users independently compress
+their private sources to filter out strongly correlated components for generating a common secret
+key. The objective is to maximize the achievable key rate as a function of the joint entropy of the
+compressed sources. Since the maximum achievable key rate captures the total amount of information
+mutual to the compressed sources, an optimal compression scheme essentially maximizes the multivariate
+mutual information per bit of randomness of the private sources, and can therefore be viewed more
+generally as a dimension reduction technique. Single-letter lower and upper bounds on the maximum
+achievable key rate are derived for the general source model, and an explicit polynomial-time computable
+formula is obtained for the pairwise independent network model. In particular, the converse results
+and the upper bounds are obtained from those of the related secret key agreement problem with rate-limited
+discussion. A precise duality is shown for the two-user case with one-way discussion, and such duality
+is extended to obtain the desired converse results in the multi-user case. In addition to posing
+new challenges in information processing and dimension reduction, the compressed secret key agreement
+problem helps shed new light on resolving the difficult problem of secret key agreement with rate-limited
+discussion, by offering a more structured achieving scheme and some simpler conjectures to prove.

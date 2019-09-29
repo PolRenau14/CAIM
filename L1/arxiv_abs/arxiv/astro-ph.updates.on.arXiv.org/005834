@@ -1,0 +1,16 @@
+The distribution of stars around a massive black hole (MBH) has been addressed in stellar dynamics
+for the last four decades by a number of authors. Because of its proximity, the centre of the Milky
+Way is the only observational test case where the stellar distribution can be accurately tested.
+Past observational work indicated that the brightest giants in the Galactic Centre (GC) may show
+a density deficit around the central black hole, not a cusp-like distribution, while we theoretically
+expect the presence of a stellar cusp. We here present a solution to this long-standing problem.
+We performed direct-summation $N-$body simulations of star clusters around massive black holes
+and compared the results of our simulations with new observational data of the GC's nuclear cluster.
+We find that after a Hubble time, the distribution of bright stars as well as the diffuse light follow
+power-law distributions in projection with slopes of $\Gamma \approx 0.3$ in our simulations.
+This is in excellent agreement with what is seen in star counts and in the distribution of the diffuse
+stellar light extracted from adaptive-optics (AO) assisted near-infrared observations of the
+GC. Our simulations also confirm that there exists a missing giant star population within a projected
+radius of a few arcsec around Sgr A*. Such a depletion of giant stars in the innermost 0.1 pc could be
+explained by a previously present gaseous disc and collisions, which means that a stellar cusp would
+also be present at the innermost radii, but in the form of degenerate compact cores. 

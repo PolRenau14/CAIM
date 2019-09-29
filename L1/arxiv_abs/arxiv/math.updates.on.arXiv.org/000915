@@ -1,0 +1,16 @@
+In this work, we investigate a multi-source multi-cast network with the aid of an arbitrary number
+of relays, where it is assumed that no direct link is available at each S-D pair. The aim is to find the
+fundamental limit on the maximal common multicast throughput of all source nodes if resource allocations
+are available. A transmission protocol employing the relaying strategy, namely, compute-and-forward
+(CPF), is proposed. {We also adjust the methods in the literature to obtain the integer network-constructed
+coefficient matrix (a naive method, a local optimal method as well as a global optimal method) to
+fit for the general topology with an arbitrary number of relays. Two transmission scenarios are
+addressed. The first scenario is delay-stringent transmission where each message must be delivered
+within one slot. The second scenario is delay-tolerant transmission where no delay constraint
+is imposed. The associated optimization problems to maximize the short-term and long-term common
+multicast throughput are formulated and solved, and the optimal allocation of power and time slots
+are presented. Performance comparisons show that the CPF strategy outperforms conventional decode-and-forward
+(DF) strategy. It is also shown that with more relays, the CPF strategy performs even better due to
+the increased diversity. Finally, by simulation, it is observed that for a large network in relatively
+high SNR regime, CPF with the local optimal method for the network-constructed matrix can perform
+close to that with the global optimal method. 

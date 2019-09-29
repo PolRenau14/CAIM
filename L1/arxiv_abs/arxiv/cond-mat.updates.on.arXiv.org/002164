@@ -1,0 +1,16 @@
+Ultracold quantum gases provide a unique setting for studying and understanding the properties
+of interacting quantum systems. Here, we investigate a multi-component system of $^{87}$Rb--$^{39}$K
+Bose-Einstein condensates (BECs) with tunable interactions both theoretically and experimentally.
+Such multi-component systems can be characterized by their miscibility, where miscible components
+lead to a mixed ground state and immiscible components form a phase-separated state. Here we perform
+the first full simulation of the dynamical expansion of this system including both BECs and thermal
+clouds, which allows for a detailed comparison with experimental results. In particular we show
+that striking features emerge in time-of-flight for BECs with strong interspecies repulsion,
+even for systems which were separated in situ by a large gravitational sag. An analysis of the center
+of mass positions of the BECs after expansion yields qualitative agreement with the homogeneous
+criterion for phase-separation, but reveals no clear transition point between the mixed and the
+separated phases. Instead one can identify a transition region, for which the presence of a gravitational
+sag is found to be advantageous. Moreover we analyze the situation where only one component is condensed
+and show that the density distribution of the thermal component also show some distinct features.
+Our work sheds new light on the analysis of multi-component systems after time-of-flight and will
+guide future experiments on the detection of miscibility in these systems. 

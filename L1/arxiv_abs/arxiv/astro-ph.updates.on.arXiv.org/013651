@@ -1,0 +1,16 @@
+Empirical correlations between stellar parameters such as rotation or radius and magnetic activity
+diagnostics require estimates of the effective temperatures and the stellar radii. The aim of this
+study is to propose simple methods that can be applied to large samples of stars in order to derive
+estimates of the stellar parameters. Good empirical correlations between Red/Infra-Red colours
+(e.g. (R-I)$_C$) and effective temperatures have been well established for a long time (e.g. Veeder
+1974, Bessell 1979, Leggett 1992). The more recent (R-I)$_C$ colour-$T_{eff}$ correlation using
+the data of Mann et al. (2015: hereafter M15) and Boyajian et al. (2012: hereafter B12) shows that
+this colour can be applied as a temperature estimate for large samples of stars. We find that the mean
+scatter in $T_{eff}$ relative to the (R-I)$_C$-$T_{eff}$ relationship of B12 and M15 data is only
+$\pm 3\sigma =$44.6~K for K dwarfs and $\pm 3\sigma =$39.4~K for M dwarfs. These figures are small
+and show that the (R-I)$_C$ colour can be used as a first guess effective temperature estimator for
+K and M dwarfs. We derive effective temperatures for about 1910 K and M dwarfs using the calibration
+of (R-I)$_C$ colour-$T_{eff}$ from B12 and M15 data. We also compiled $T_{eff}$ and metallicity
+measurements available in the literature using the VizieR database. We determine $T_{eff}$ for
+441 stars with previously unknown effective temperatures. We also identified 21 new spectroscopic
+binaries and 1 triple system from our high resolution spectra. 

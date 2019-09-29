@@ -1,0 +1,17 @@
+Optical and near-IR (NIR) line profiles of many ageing core-collapse supernovae (CCSNe) exhibit
+an apparently asymmetric bluewards shift often attributed to greater extinction by internal dust
+of redshifted radiation emitted from the receding regions of the SN ejecta. The DAMOCLES Monte Carlo
+line radiative transfer code models the extent and shape of these dust-affected line profiles to
+determine the dust mass that has condensed, in addition to other properties of the dusty ejecta.
+I present here the application of an affine invariant Markov Chain Monte Carlo (MCMC) ensemble sampler
+(emcee) to the DAMOCLES code in order to investigate the multi-dimensional parameter space rigorously
+and characterise the posterior probability distribution. A likelihood function is formulated
+that handles both Monte Carlo and observational uncertainties. This Bayesian approach is applied
+to four simulated line profiles in order to test the method and investigate its efficacy. The majority
+of parameters can be tightly constrained using this method, and a strong (predictable) dependence
+between the grain size and the dust mass is quantified. The new approach is also applied to the H$\alpha$
+line and [O I]6300,6363 \AA\ doublet of SN 1987A at 714d post-outburst, re-examining a previous
+5-dimensional smooth model and also investigating a new, more complex, 10-dimensional model that
+treats both features simultaneously. The dust mass, dust grain size and a range of other parameters
+can be well constrained using this technique, representing a significant improvement over the
+previous manual approach. 

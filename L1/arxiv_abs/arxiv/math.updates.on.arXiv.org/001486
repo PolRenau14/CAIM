@@ -1,0 +1,16 @@
+We present a solution of the algebraic version of Birkhoff Conjecture on integrable billiards.
+Namely we show that every polynomially integrable real bounded convex planar billiard with smooth
+boundary is an ellipse. We also extend this result to the case of piecewise-smooth and not necessarily
+convex polynomially integrable billiards: we show that the boundary is a union of confocal conical
+arcs and straight-line segments lying in some special lines defined by the foci. We also present
+a complexification of these results. The proof, which is obtained by Mikhail Bialy, Andrey Mironov
+and the author, is split into two parts. The first part is the paper by Bialy and Mironov, where they
+prove the following theorems: 1) the polar duality transforms a polynomially integrable planar
+billiard to a rationally integrable angular billiard; 2) the singularities and inflection points
+of each irreducible component of the complexified curve polar-dual to the billiard boundary lie
+in the two complex isotropic lines through the origin; 3) the Hessian Formula: appropriately defined
+Hessian of the integral of the angular billiard being restricted to the curve polar-dual to the boundary
+is a constant multiple of a power $(x^2+y^2)^s$. The present paper provides the second part of the
+proof. Namely, we prove that each irreducible component of the polar-dual curve that is not a line
+is a conic. This together with S.V.Bolotin's theorem implies the main results: solution of the Algebraic
+Birkhoff Conjecture in both convex smooth and non-convex piecewise smooth cases. 

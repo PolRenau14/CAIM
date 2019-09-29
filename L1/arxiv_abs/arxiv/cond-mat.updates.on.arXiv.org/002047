@@ -1,0 +1,16 @@
+We address a three-dimensional, coarse-grained description of dislocation networks at grain
+boundaries between rotated crystals. The so-called amplitude expansion of the phase-field crystal
+model is exploited with the aid of Finite Element Method calculations. This approach allows for
+the description of microscopic features, such as dislocations, while simultaneously being able
+to describe length scales that are orders of magnitude larger than the lattice spacing. Moreover,
+it allows for the direct description of extended defects by means of a scalar order parameter. The
+versatility of this framework is shown by considering both fcc and bcc lattice symmetries and different
+rotation axes. First, the specific case of planar, twist grain boundaries is illustrated. The details
+of the method are reported and the consistency of the results with literature is discussed. Then,
+the dislocation networks forming at the interface between a spherical, rotated crystal embedded
+in an unrotated crystalline structure, are shown. Although explicitly accounting for dislocations
+which lead to an anisotropic shrinkage of the rotated grain, the extension of the spherical grain
+boundary is found to decrease linearly over time in agreement with the classical theory of grain
+growth and recent atomistic investigations. It is shown that the results obtained for a system with
+bcc symmetry agree very well with existing results, validating the methodology. Conversely, fully
+original results are shown for fcc lattice symmetry, revealing the generality of the reported observations.

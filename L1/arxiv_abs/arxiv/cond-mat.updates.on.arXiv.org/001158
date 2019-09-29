@@ -1,0 +1,16 @@
+The rhenium-based transition metal dichalcogenides (TMDs) are atypical of the TMD family due to
+their highly anisotropic crystalline structure and are recognized as promising materials for
+two dimensional heterostructure devices. The nature of the band gap (direct or indirect) for bulk,
+few and single layer forms of ReS$_2$ is of particular interest, due to its comparatively weak inter-planar
+interaction. However, the degree of inter-layer interaction and the question of whether a transition
+from indirect to direct gap is observed on reducing thickness (as in other TMDs) are controversial.
+We present a direct determination of the valence band structure of bulk ReS$_2$ using high resolution
+angle resolved photoemission spectroscopy (ARPES). We find a clear in-plane anisotropy due to
+the presence of chains of Re atoms, with a strongly directional effective mass which is larger in
+the direction orthogonal to the Re chains (2.2 $m_e$) than along them (1.6 $m_e$), in good agreement
+with density functional theory calculations. An appreciable inter-plane interaction results
+in an experimentally-measured difference of ~100-200 meV between the valence band maxima at the
+Z point (0,0,1/2) and the $\Gamma$ point (0,0,0) of the three-dimensional Brillouin zone. This
+leads to a direct gap at Z and a close-lying but larger gap at $\Gamma$, implying that bulk ReS2 is marginally
+indirect. This may account for recent conflicting transport and photoluminescence measurements
+and the resulting uncertainty about the direct or indirect gap nature of this material. 

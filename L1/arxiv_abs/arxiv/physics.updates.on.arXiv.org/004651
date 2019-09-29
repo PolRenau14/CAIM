@@ -1,0 +1,16 @@
+Academic esteem is difficult to quantify in objective terms. Network theory offers the opportunity
+to use a mathematical formalism to model both the esteem associated with an academic and the relationships
+between academic colleagues. Early attempts using this line of reasoning have focused on intellectual
+genealogy as constituted by supervisor student networks. The process of examination is critical
+in many areas of study but has not played a part in existing models. A network theoretical "social"
+model is proposed as a tool to explore and understand the dynamics of esteem in the academic hierarchy.
+It is observed that such a model naturally gives rise to the idea that the esteem associated with a
+node in the graph (the esteem of an individual academic) can be viewed as a dynamic quantity that evolves
+with time based on both local and non-local changes in the properties in the network. The toy model
+studied here includes both supervisor-student and examiner-student relationships. This gives
+an insight into some of the key features of academic genealogies and naturally leads to a proposed
+model for "esteem propagation" on academic networks. This propagation is not solely directed forward
+in time (from teacher to progeny) but sometimes also flows in the other direction. As collaborators
+do well, this reflects well on those with whom they choose to collaborate and those that taught them.
+Furthermore, esteem as a quantity continues to be dynamic even after the end of a relationship or
+career. In other words, esteem can be thought of as flowing both forward and backward in time. 

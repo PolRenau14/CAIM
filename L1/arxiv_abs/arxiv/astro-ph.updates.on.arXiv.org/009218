@@ -1,0 +1,17 @@
+We present milliarcsecond (mas) angular resolution observations of the gravitationally lensed
+radio source MG J0751+2716 (at z=3.2) obtained with global Very Long Baseline Interferometry (VLBI)
+at 1.65 GHz. The background object is highly resolved in the tangential and radial directions, showing
+evidence of both compact and extended structure across several gravitational arcs that are 200
+to 600~mas in size. By identifying compact sub-components in the multiple images, we constrain
+the mass distribution of the foreground z=0.35 gravitational lens using analytic models for the
+main deflector [power-law elliptical mass model; $\rho(r) \propto r^{-\gamma}$, where $\gamma=2$
+corresponds to isothermal] and for the members of the galaxy group. Moreover, our mass models with
+and without the group find an inner mass-density slope steeper than isothermal for the main lensing
+galaxy, with $\gamma_1 = 2.08 \pm 0.02$ and $\gamma_2 = 2.16 \pm 0.02$ at the 4.2$\sigma$ level and
+6.8$\sigma$ level, respectively, at the Einstein radius ($b_1 = 0.4025 \pm 0.0008$ and $b_2 = 0.307
+\pm 0.002$ arcsec, respectively). We find randomly distributed image position residuals of about
+3 mas, which are much larger that the measurement errors ($40$ $\mu$as on average). This suggests
+that at the mas level, the assumption of a smooth mass distribution fails, requiring additional
+structure in the model. However, given the environment of the lensing galaxy, it is not clear whether
+this extra mass is in the form of sub-haloes within the lens or along the line of sight, or from a more
+complex halo for the galaxy group. 

@@ -1,0 +1,17 @@
+As part of the SILCC-ZOOM project we present our first sub-parsec resolution radiation-hydrodynamic
+simulations of two molecular clouds self-consistently forming from a turbulent, multi-phase
+ISM. The clouds have similar initial masses of few 10$^4$ M$_{\odot}$, escape velocities of ~5 km
+s$^{-1}$, and a similar initial energy budget. We follow the formation of star clusters with a sink
+based model and the impact of radiation from individual massive stars with the tree-based radiation
+transfer module TreeRay. Photo-ionizing radiation is coupled to a chemical network to follow gas
+heating, cooling and molecule formation and dissociation. For the first 3 Myr of cloud evolution
+we find that the overall star formation effciency is considerably reduced by a factor of ~4 to global
+cloud values of < 10 % as the mass accretion of sinks that host massive stars is terminated after <1
+Myr. Despite the low effciency, star formation is triggered across the clouds. Therefore, a much
+larger region of the cloud is affected by radiation and the clouds begin to disperse. The time scale
+on which the clouds are dispersed sensitively depends on the cloud substructure and in particular
+on the amount of gas at high visual extinction. The damage of radiation done to the highly shielded
+cloud (MC1) is delayed. We also show that the radiation input can sustain the thermal and kinetic
+energy of the clouds at a constant level. Our results strongly support the importance of ionizing
+radiation from massive stars for explaining the low observed star formation effciency of molecular
+clouds 

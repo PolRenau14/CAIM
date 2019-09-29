@@ -1,0 +1,16 @@
+It is known that irreducible noncommutative differential structures over $\Bbb F_p[x]$ are classified
+by irreducible monics $m$. We show that the cohomology $H_{\rm dR}^0(\Bbb F_p[x]; m)=\Bbb F_p[g_d]$
+if and only if ${\rm Tr}(m)\ne 0$, where $g_d=x^{p^d}-x$ and $d$ is the degree of $m$. This implies
+that there are ${p-1\over pd}\sum_{k|d, p\nmid k}\mu_M(k)p^{d\over k}$ such noncommutative
+differential structures ($\mu_M$ the M\"obius function). Motivated by killing this zero'th cohomology,
+we consider the directed system of finite-dimensional Hopf algebras $A_d=\Bbb F_p[x]/(g_d)$
+as well as their inherited bicovariant differential calculi $\Omega(A_d;m)$. We show that $A_d=C_d\otimes_\chi
+A_1$ a cocycle extension where $C_d=A_d^\psi$ is the subalgebra of elements fixed under $\psi(x)=x+1$.
+We also have a Frobenius-fixed subalgebra $B_d$ of dimension $\frac{1}{d} \sum_{k | d} \phi(k)
+p^\frac{d}{k}$ ($\phi$ the Euler totient function), generalising Boolean algebras when $p=2$.
+As special cases, $A_1\cong \Bbb F_p(\Bbb Z/p\Bbb Z)$, the algebra of functions on the finite group
+$\Bbb Z/p\Bbb Z$, and we show dually that $\Bbb F_p\Bbb Z/p\Bbb Z\cong\Bbb F_p[L]/(L^p)$ for a `Lie
+algebra' generator $L$ with $e^L$ group-like, using a truncated exponential. By contrast, $A_2$
+over $\Bbb F_2$ is a cocycle modification of $\Bbb F_2((\Bbb Z/2\Bbb Z)^2)$ and is a 1-dimensional
+extension of the Boolean algebra on 3 elements. In both cases we compute the Fourier theory, the invariant
+metrics and the Levi-Civita connections within bimodule noncommutative geometry. 

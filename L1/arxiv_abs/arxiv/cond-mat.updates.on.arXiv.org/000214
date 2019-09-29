@@ -1,0 +1,17 @@
+Noncolliding diffusion processes are dynamical extensions of random matrix models such that any
+spatio-temporal correlation function is expressed by a determinant and such processes are said
+to be determinantal. The time-dependent correlation kernel is a functional of initial configuration
+of the stochastic process and in order to determine it, we have had to deal with multiple orthogonal
+functions, which should be prepared depending on the initial configuration. From the view point
+of probability theory, the noncolliding diffusion processes are interesting, since they are realized
+as the harmonic transforms of absorbing particle systems in the Weyl chambers. Determinantal structure
+of correlations has not been clear, however, from this view-point. In the present paper, we show
+direct connections between harmonic transforms and determinantal correlation functions. In
+this new approach, spatio-temporal correlation kernels can be determined without constructing
+any system of orthogonal functions. Key quantities are local martingales, which are stochastic
+processes preserving their expectations in time. By introducing integral transforms, we prove
+that the harmonic functions of diffusions, which are used for the harmonic transforms, give determinants
+of matrices whose elements are all martingales. We call them determinantal martingales. We demonstrate
+how to calculate them depending on processes and initial configurations and show a variety of spatio-temporal
+correlation kernels are readily derived from them. In special cases, the present martingales are
+expressed by using complex diffusion processes. 

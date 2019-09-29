@@ -1,0 +1,17 @@
+In this paper, we apply machine learning methods to study phase transitions in certain statistical
+mechanical models on the two dimensional lattices, whose transitions involve non-local or topological
+properties, including site and bond percolations, the XY model and the generalized XY model. We
+find that using just one hidden layer in a fully-connected neural network, the percolation transition
+can be learned and the data collapse by using the average output layer gives correct estimate of the
+critical exponent $\nu$. We also study the Berezinskii-Kosterlitz-Thouless transition, which
+involves binding and unbinding of topological defects---vortices and anti-vortices, in the classical
+XY model. The generalized XY model contains richer phases, such as the nematic phase, the paramagnetic
+and the quasi-long-range ferromagnetic phases, and we also apply machine learning method to it.
+We obtain a consistent phase diagram from the network trained with only data along the temperature
+axis at two particular parameter $\Delta$ values, where $\Delta$ is the relative weight of pure
+XY coupling. Besides using the spin configurations (either angles or spin components) as the input
+information in a convolutional neural network, we devise a feature engineering approach using
+the histograms of the spin orientations in order to train the network to learn the three phases in
+the generalized XY model and demonstrate that it indeed works. The trained network by using system
+size $L\times L$ can be used to the phase diagram for other sizes ($L'\times L'$, where $L'\ne L$)
+without any further training. 

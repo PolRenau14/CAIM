@@ -1,0 +1,17 @@
+Many natural combinatorial quantities can be expressed by counting the number of homomorphisms
+to a fixed relational structure. For example, the number of 3-colorings of an undirected graph $G$
+is equal to the number of homomorphisms from $G$ to the $3$-clique. In this setup, the structure receiving
+the homomorphisms is often referred to as a template; we use the term template function to refer to
+a function, from structures to natural numbers, that is definable as the number of homomorphisms
+to a fixed template. There is a literature that studies the complexity of template functions. The
+present work is concerned with relating template functions to the problems of counting, with respect
+to various fixed templates, the number of two particular types of homomorphisms: surjective homomorphisms
+and what we term condensations. In this article, we explain how any problem of counting surjective
+homomorphisms to a fixed template is polynomial-time equivalent to computing a linear combination
+of template functions; we also show this for any problem of counting condensations to a fixed template.
+Via a theorem that characterizes the complexity of computing such a linear combination, we show
+how a known dichotomy for template functions can be used to infer a dichotomy for counting surjective
+homomorphisms on fixed templates, and likewise a dichotomy for counting condensations on fixed
+templates. Our study is strongly inspired by, based on, and can be viewed as a dual of the graph motif
+framework of Curticapean, Dell, and Marx (STOC 2017); that framework is in turn based on work of Lov\'asz
+(2012). 

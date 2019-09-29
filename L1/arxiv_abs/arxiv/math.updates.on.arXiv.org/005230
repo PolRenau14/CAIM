@@ -1,0 +1,17 @@
+In this review article we discuss a number of recent results concerning wild weak solutions of the
+incompressible Euler and Navier-Stokes equations. These results build on the groundbreaking
+works of De Lellis and Sz\'ekelyhidi Jr., who extended Nash's fundamental ideas on $C^1$ flexible
+isometric embeddings, into the realm of fluid dynamics. These techniques, which go under the umbrella
+name convex integration, have fundamental analogies the phenomenological theories of hydrodynamic
+turbulence. Mathematical problems arising in turbulence (such as the Onsager conjecture) have
+not only sparked new interest in convex integration, but certain experimentally observed features
+of turbulent flows (such as intermittency) have also informed new convex integration constructions.
+First, we give an elementary construction of nonconservative $C^{0+}_{x,t}$ weak solutions of
+the Euler equations, first proven by De Lellis-Sz\'ekelyhidi Jr.. Second, we present Isett's recent
+resolution of the flexible side of the Onsager conjecture. Here, we in fact follow the joint work
+of De Lellis-Sz\'ekelyhidi Jr. and the authors of this paper, in which weak solutions of the Euler
+equations in the regularity class $C^{\frac 13-}_{x,t}$ are constructed, attaining any energy
+profile. Third, we give a concise proof of the authors' recent result, which proves the existence
+of infinitely many weak solutions of the Navier-Stokes in the regularity class $C^0_t L^{2+}_x
+\cap C^0_t W^{1,1+}_x$. We conclude the article by mentioning a number of open problems at the intersection
+of convex integration and hydrodynamic turbulence. 

@@ -1,0 +1,16 @@
+In this paper, we develop a theory about the relationship between permutation invariant/equivariant
+functions and deep neural networks. Our main contribution is to prove a permutation invariant/equivariant
+version of the universal approximation theorem concerning what we call $S_n$-invariant/equivariant
+deep neural networks, where $S_n$ is the permutation group of $n$ elements. An $S_n$-equivariant
+deep neural network consists of stacking standard single-layer neural networks $F_i\colon X_i
+\to X_{i+1}$ for which every $F_i$ is equivariant with respect to the actions of $S_n$. On the other
+hand, an $S_n$-invariant deep neural network is made up by stacking equivariant neural networks
+plus some standard single-layer neural networks $G_i\colon X_i \to X_{i+1}$ for which every $G_i$
+is invariant with respect to the actions of $S_n$. We establish the following theorem: $S_n$-invariant/equivariant
+deep neural networks are universal approximators for permutation invariant/equivariant functions.
+%Our models are natural generalizations of the ones introduced by Zaheer et al. %\cite{deepsets}.
+Moreover, we show that the number of free parameters appearing in these models turns out to be exponentially
+fewer than the number of the ones in the usual models. By combining these results, we conclude that
+although the number of free parameters is much smaller than the one of the usual model, the invariant/equivariant
+models can approximate invariant/equivariant functions with arbitrary accuracy. This justifies
+why our models are appropriate for invariant/equivariant problems. 

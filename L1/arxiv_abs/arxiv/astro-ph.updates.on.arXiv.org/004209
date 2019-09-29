@@ -1,0 +1,17 @@
+Star clusters interact with the interstellar medium (ISM) in various ways, most importantly in
+the destruction of molecular star-forming clouds, resulting in inefficient star formation on
+galactic scales. On cloud scales, ionizing radiation creates \hii regions, while stellar winds
+and supernovae drive the ISM into thin shells. These shells are accelerated by the combined effect
+of winds, radiation pressure and supernova explosions, and slowed down by gravity. Since radiative
+and mechanical feedback is highly interconnected, they must be taken into account in a self-consistent
+and combined manner, including the coupling of radiation and matter. We present a new semi-analytic
+one-dimensional feedback model for isolated massive clouds ($\geq 10^5\,M_{\odot}$) to calculate
+shell dynamics and shell structure simultaneously. It allows us to scan a large range of physical
+parameters (gas density, star formation efficiency, metallicity) and to estimate escape fractions
+of ionizing radiation $f_{\rm{esc,i}}$, the minimum star formation efficiency $\epsilon_{\rm{min}}$
+required to drive an outflow, and recollapse time scales for clouds that are not destroyed by feedback.
+Our results show that there is no simple answer to the question of what dominates cloud dynamics,
+and that each feedback process significantly influences the efficiency of the others. We find that
+variations in natal cloud density can very easily explain differences between dense-bound and
+diffuse-open star clusters. We also predict, as a consequence of feedback, a $4-6$ Myr age difference
+for massive clusters with multiple generations. 

@@ -1,0 +1,16 @@
+The interaction between light and motion has been harnessed in the field of optomechanics to perform
+precision measurements, create complex quantum states, and build new technologies. Bulk acoustic
+wave (BAW) resonators are mechanical systems that have shown great potential for mediating interactions
+between a variety of quantum systems such as optical photons, microwaves, and artificial atoms.
+These macroscopic resonators have a collection of properties, including high frequencies, long
+coherence times, ease of fabrication, and robustness against thermal decoherence, that make them
+particularly well suited for applications such as storage, retrieval, and transduction of quantum
+information. In this paper, we strongly couple multiple high-frequency (12.6 GHz) modes of a BAW
+resonator to a single optical mode and use this multimode strong coupling to control decoherence
+in the system. We probe the non-trivial dynamics associated with multimode strong coupling by performing
+both frequency- and time-domain measurements and identify hybridized modes with lifetimes that
+are significantly longer than that of any mode of the uncoupled system. This surprising effect,
+which results from the interference of decay channels, showcases the use of multimode strong coupling
+as a general strategy for mitigating extrinsic loss mechanisms. These results show that our system
+can be used to study novel phenomena in a previously unexplored regime of optomechanics and could
+be an important building block for future quantum devices. 

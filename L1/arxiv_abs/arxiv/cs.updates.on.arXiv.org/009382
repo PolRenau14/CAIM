@@ -1,0 +1,16 @@
+Recommender systems are ubiquitous in the domain of e-commerce, used to improve the user experience
+and to market inventory, thereby increasing revenue for the site. Techniques such as item-based
+collaborative filtering are used to model users' behavioral interactions with items and make recommendations
+from items that have similar behavioral patterns. However, there are challenges when applying
+these techniques on extremely sparse and volatile datasets. On some e-commerce sites, such as eBay,
+the volatile inventory and minimal structured information about items make it very difficult to
+aggregate user interactions with an item. In this work, we describe a novel deep learning-based
+method to address the challenges. We propose an objective function that optimizes a similarity
+measure between binary implicit feedback vectors between two items. We demonstrate formally and
+empirically that a model trained to optimize this function estimates the log of the cosine similarity
+between the feedback vectors. We also propose a neural network architecture optimized on this objective.
+We present the results of experiments comparing the output of the neural network with traditional
+item-based collaborative filtering models on an implicit-feedback dataset, as well as results
+of experiments comparing different neural network architectures on user purchase behavior on
+eBay. Finally, we discuss the results of an A/B test that show marked improvement of the proposed
+technique over eBay's existing collaborative filtering recommender system. 

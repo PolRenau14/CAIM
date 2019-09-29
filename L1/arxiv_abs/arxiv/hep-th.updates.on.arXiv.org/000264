@@ -1,0 +1,16 @@
+We study actions for massive bosonic particles of higher spins by dimensionally reducing an action
+for massless particles. For the latter we take a model with a SO(N) extended local supersymmetry
+on the worldline, that is known to describe massless (conformal) particles of higher spins in flat
+spacetimes of even dimensions. Dimensional reduction produces an action for massive spinning
+particles in odd dimensions. The field equations that emerge in a quantization a la Dirac are shown
+to be equivalent to the Fierz-Pauli ones. The massless limit generates a multiplet of massless states
+with higher spins, whose first quantized field equations have a geometric form with fields belonging
+to various types of Young tableaux. These geometric equations can be partially integrated to show
+their equivalence with the standard Fronsdal-Labastida equations. We covariantize our model
+to check whether an extension to curved spacetimes can be achieved. Restricting to (A)dS spaces,
+we find that the worldline gauge algebra becomes nonlinear, but remains first class. This guarantees
+consistency on such backgrounds. A light cone analysis confirms the presence of the expected propagating
+degrees of freedom. A covariant analysis is worked out explicitly for the massive case, which is
+seen to give rise to the Fierz-Pauli equations extended to (A)dS spaces. It is worth noting that in
+D=3 the massless limit of our model when N goes to infinity has the same field content of the Vasiliev's
+theory that accommodates each spin exactly once. 

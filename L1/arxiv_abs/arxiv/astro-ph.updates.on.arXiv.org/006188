@@ -1,0 +1,16 @@
+Ultra-short period (USP) planets are a class of low mass planets with periods shorter than one day.
+Their origin is still unknown, with photo-evaporation of mini-Neptunes and in-situ formation
+being the most credited hypotheses. Formation scenarios differ radically in the predicted composition
+of USP planets, it is therefore extremely important to increase the still limited sample of USP planets
+with precise and accurate mass and density measurements. We report here the characterization of
+an USP planet with a period of 0.28 days around K2-141 (EPIC 246393474), and the validation of an outer
+planet with a period of 7.7 days in a grazing transit configuration. We derived the radii of the planets
+from the K2 light curve and used high-precision radial velocities gathered with the HARPS-N spectrograph
+for mass measurements. For K2-141b we thus inferred a radius of $1.51\pm0.05~R_\oplus$ and a mass
+of $5.08\pm0.41~M_\oplus$, consistent with a rocky composition and lack of a thick atmosphere.
+K2-141c is likely a Neptune-like planet, although due to the grazing transits and the non-detection
+in the RV dataset, we were not able to put a strong constraint on its density. We also report the detection
+of secondary eclipses and phase curve variations for K2-141b. The phase variation can be modeled
+either by a planet with a geometric albedo of $0.30 \pm 0.06$ in the Kepler bandpass, or by thermal
+emission from the surface of the planet at $\sim$3000K. Only follow-up observations at longer wavelengths
+will allow us to distinguish between these two scenarios. 

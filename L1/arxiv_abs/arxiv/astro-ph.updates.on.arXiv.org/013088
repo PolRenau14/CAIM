@@ -1,0 +1,16 @@
+Using a global network of small telescopes, we have obtained light curves of Proxima Centauri at
+329 observation epochs from 2006 - 2017. The planet Proxima b discovered by Anglada-Escude et al.
+(2016) with an orbital period of 11.186 d has an a priori transit probability of ~1.5%; if it transits,
+the predicted transit depth is about 5 millimagnitudes. In Blank et al. (2018), we analyzed 96 of
+our light curves that overlapped with predicted transit ephemerides from previously published
+tentative transit detections, and found no evidence in our data that would corroborate claims of
+transits with a period of 11.186 d. Here we broaden our analysis, using 262 high-quality light curves
+from our data set to search for any periodic transit-like events over a range of periods from 1 - 30
+d. We also inject a series of simulated planet transits and find that our data are sufficiently sensitive
+to have detected transits of 5 millimagnitude depth, with recoverability ranging from ~100% for
+an orbital period of 1 d to ~20% for an orbital period of 20 d for the parameter spaces tested. Specifically
+at the 11.186 d period and 5 millimagnitude transit depth, we rule out transits in our data with high
+confidence. We are able to rule out virtually all transits of other planets at periods shorter than
+5 d and depths greater than 3 millimagnitudes; however, we cannot confidently rule out transits
+at the period of Proxima b due to incomplete orbital phase coverage and a lack of sensitivity to transits
+shallower than 4 millimagnitudes. 

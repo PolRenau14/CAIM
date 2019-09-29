@@ -1,0 +1,16 @@
+Spin Hall oscillators (SHO) are promising candidates for the generation, detection and amplification
+of high frequency signals, that are tunable through a wide range of operating frequencies. They
+offer to be read out electrically, magnetically and optically in combination with a simple bilayer
+design. Here, we experimentally study the spatial dependence and spectral properties of auto-oscillations
+in SHO devices based on Pt(7 nm)/\ Ni$_{\mathrm{80}}$Fe$_{\mathrm{20}}$(5 nm) tapered nanowires.
+Using Brillouin light scattering microscopy, we observe two individual self-localized spin-wave
+bullets that oscillate at two distinct frequencies (5.2 GHz and 5.45 GHz) and are localized at different
+positions separated by about 750 nm within the SHO. This state of a tapered SHO has been predicted
+by a Ginzburg-Landau auto-oscillator model, but not yet been directly confirmed experimentally.
+We demonstrate that the observed bullets can be individually synchronized to external microwave
+signals, leading to a frequency entrainment, linewidth reduction and increase in oscillation
+amplitude for the bullet that is selected by the microwave frequency. At the same time, the amplitude
+of other parasitic modes decreases, which promotes the single-mode operation of the SHO. Finally,
+the synchronization of the spin-wave bullets is studied as a function of the microwave power. We
+believe that our findings promote the realization of extended spin Hall oscillators accomodating
+several distinct spin-wave bullets, that jointly cover an extended range of tunability. 

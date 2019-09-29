@@ -1,0 +1,17 @@
+Purpose: Cell size is a fundamental characteristic of all tissues, and changes in cell size in cancer
+reflect tumor status and response to treatments, such as apoptosis and cell cycle arrest. Unfortunately,
+cell size can only be obtained by pathologic evaluation of the tumor in the current standard of care.
+Previous imaging approaches can be implemented on only animal MRI scanners or require relatively
+long acquisition times that are undesirable for clinical imaging. There is a need to develop cell
+size imaging for clinics. Experimental Design: We propose a new method, IMPULSED (Imaging Microstructural
+Parameters Using Limited Spectrally Edited Diffusion) that can characterize mean cell sizes in
+solid tumors. We report the use of combined sequences with different gradient waveforms on human
+MRI and analytical equations that link DWI signals of real gradient waveforms and specific microstructural
+parameters such as cell size. We also describe comprehensive validations using computer simulations,
+cell experiments in vitro, and animal experiments in vivo and finally demonstrate applications
+in pre-operative breast cancer patients. Results: With fast acquisitions (~ 7 mins), IMPULSED
+can provide high-resolution (1.3 mm in-plane) mapping of mean cell size of human tumors in vivo on
+currently-available 3T MRI scanners. All validations suggest IMPULSED provide accurate and reliable
+measurements of mean cell size. Conclusion: The proposed IMPULSED method can assess cell size variations
+in the tumor of breast cancer patients, which may have the potential to assess early response to neoadjuvant
+therapy. 

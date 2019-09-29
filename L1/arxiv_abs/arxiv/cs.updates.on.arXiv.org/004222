@@ -1,0 +1,17 @@
+From very recent studies, the area spectral efficiency (ASE) performance of downlink (DL) cellular
+networks will continuously decrease and finally to zero with the network densification in a fully
+loaded ultra-dense network (UDN) when the absolute height difference between a base station (BS)
+antenna and a user equipment (UE) antenna is larger than zero, which is referred as the ASE Crash.
+We revisit this issue by considering the impact of the BS antenna downtilt on the downlink network
+capacity. In general, there exists a height difference between a BS and a UE in practical networks.
+It is common to utilize antenna downtilt to adjust the direction of the vertical antenna pattern,
+and thus increase received signal power or reduce inter-cell interference power to improve network
+performance. This paper focuses on investigating the relationship between the base station antenna
+downtilt and the downlink network capacity in terms of the coverage probability and the ASE. The
+analytical results of the coverage probability and the ASE are derived, and we find that there exists
+an optimal antenna downtilt to achieve the maximal coverage probability for each base station density.
+Moreover, we derive numerically solvable expressions for the optimal antenna downtilt, which
+is a function of the base station density. Our theoretical and numerical results show that after
+applying the optimal antenna downtilt, the network performance can be improved significantly.
+Specifically, with the optimal antenna downtilt, the ASE crash can be delayed by nearly one order
+of magnitude in terms of the base station density. 

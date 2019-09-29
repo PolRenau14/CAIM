@@ -1,0 +1,16 @@
+Free analysis is a quantization of the usual function theory much like operator space theory is a
+quantization of classical functional analysis. Basic objects of free analysis are noncommutative
+functions. These are maps on tuples of matrices of all sizes that preserve direct sums and similarities.
+This paper investigates the local theory of noncommutative functions. The first main result shows
+that for a scalar point $Y$, the ring $O_Y$ of uniformly analytic noncommutative germs about $Y$
+is an integral domain and admits a universal skew field of fractions, whose elements are called meromorphic
+germs. A corollary is a local-global rank principle that connects ranks of matrix evaluations of
+a matrix $A$ over $O_Y$ with the factorization of $A$ over $O_Y$. Different phenomena occur for a
+semisimple tuple of non-scalar matrices $Y$. Here it is shown that there exist nonzero nilpotent
+uniformly analytic functions defined in a neighborhood of $Y$. In particular, $O_Y$ does not embed
+into a skew field. Nevertheless, the ring $O_Y$ is described as the completion of a free algebra with
+respect to the vanishing ideal at $Y$. This is the consequence of the second main result, a free Hermite
+interpolation theorem: if $f$ is a noncommutative function, then for any finite set of semisimple
+points and a natural number $L$ there exists a noncommutative polynomial that agrees with $f$ at
+the chosen points up to differentials of order $L$. All the obtained results also have analogs for
+(non-uniformly) analytic germs and formal germs. 

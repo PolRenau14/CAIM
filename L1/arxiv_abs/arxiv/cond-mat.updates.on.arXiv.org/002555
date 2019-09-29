@@ -1,0 +1,16 @@
+Graphene, as a material with a small intrinsic spin-orbit interaction of approximately 1 $\mu$eV,
+has a limited application in spintronics. Adsorption of graphene on the surfaces of heavy-metals
+was proposed to induce the strong spin-splitting of the graphene $\pi$-bands either via Rashba
+effect or due to the induced spin-orbit effects via hybridization of the valence band states of graphene
+and metal. The spin-resolved photoelectron spectroscopy experiments performed on graphene adsorbed
+on the substrates containing heavy elements demonstrate the "giant" spin-splitting of the $\pi$
+states of the order of 100 meV in the vicinity of the Fermi level ($E_F$) and the K point. However, the
+recent scanning tunneling spectroscopy experiments did not confirm these findings, leaving the
+fact of the observation of the "giant" Rashba effect or induced spin-orbit interaction in graphene
+still open. Thus, a detailed understanding of the physics in such systems is indispensable. From
+a theory side this requires, first of all, correct modeling of the graphene/metal interfaces under
+study. Here we present realistic super-cell density-functional theory calculations, including
+dispersion interaction and spin-orbit interaction, for several graphene/high-Z-metal interfaces.
+While correctly reproduce the spin-splitting features of the metallic surfaces, their modifications
+under graphene adsorption and doping level of graphene, our studies reveal that neither "giant"
+Rashba- nor spin-orbit induced splitting of the graphene pi states around $E_F$ take place. 

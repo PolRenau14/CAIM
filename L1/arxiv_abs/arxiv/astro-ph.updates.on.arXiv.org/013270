@@ -1,0 +1,16 @@
+Energetic feedback from star clusters plays a pivotal role in shaping the dynamical evolution of
+giant molecular clouds (GMCs). To study the effects of stellar feedback on the star formation efficiency
+of the clouds and the dynamical response of embedded star clusters, we perform a suite of isolated
+GMC simulations with star formation and momentum feedback subgrid models using the moving-mesh
+hydrodynamics code \textsc{Arepo}. The properties of our simulated GMCs span a wide range of initial
+mass, radius, and velocity configurations. We find that the ratio of the final stellar mass to the
+total cloud mass, $\epsilon_{\rm int}$, scales strongly with the initial cloud surface density
+and momentum feedback strength. This correlation is explained by an analytic model that considers
+force balancing between gravity and momentum feedback. For all simulated GMCs, the stellar density
+profiles are systematically steeper than that of the gas at the epochs of the peaks of star formation,
+suggesting a centrally-concentrated stellar distribution. We also find that star clusters are
+always in a sub-virial state with virial parameter $\sim0.6$ prior to gas expulsion. Both the sub-virial
+dynamical state and steeper stellar density profiles prevent clusters from dispersal during the
+gas removal phase of their evolution. The final cluster bound fraction is a continuously increasing
+function of $\epsilon_{\rm int}$. GMCs with star formation efficiency smaller than 0.5 are still
+able to form clusters with large bound fractions. 

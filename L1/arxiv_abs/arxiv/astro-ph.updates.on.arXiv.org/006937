@@ -1,0 +1,16 @@
+Measuring the dark matter distribution in dwarf spheroidal galaxies (dSphs) from stellar kinematics
+is crucial for indirect dark matter searches, as these distributions set the fluxes for both dark
+matter annihilation (J-Factor) and decay (D-Factor). Here we produce a compilation of J and D-Factors
+for dSphs, including new calculations for several newly-discovered Milky Way (MW) satellites,
+for dSphs outside of the MW virial radius, and for M31 satellites. From this compilation we test for
+scaling relations between the J and D-factors and physical properties of the dSphs such as the velocity
+dispersion ($\sigma_{\mathrm{los}}$), the distance ($d$), and the stellar half-light radius
+($r_{1/2}$). We find that the following scaling relation minimizes the residuals as compared to
+different functional dependencies on the observed dSphs properties $J(0.5 {\rm deg}) = 10^{17.72}
+\left(\sigma_{\mathrm{los}}/5\,{\rm km \, s^{-1}}\right)^4 \left(d / 100\,{\rm kpc}\right)^{-2}\left(
+r_{1/2}/100 \,{\rm pc} \right)^{-1}$. We find this relation has considerably smaller scatter
+as compared to the simpler relations that scale only as $1/d^2$. We further explore scalings with
+luminosity ($L_V$), and find that the data do not strongly prefer a scaling including $L_V$ as compared
+to a pure $1/d^2$ scaling. The scaling relations we derive can be used to estimate the J-Factor without
+the full dynamical analysis, and will be useful for estimating limits on particle dark matter properties
+from new systems that do not have high-quality stellar kinematics. 

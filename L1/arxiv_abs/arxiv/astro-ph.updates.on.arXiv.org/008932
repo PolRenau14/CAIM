@@ -1,0 +1,17 @@
+A sample of 1161 radio galaxies with $0.01 < z < 0.7$ and $10^{21} < L_{1.4~\rm GHz} / \textrm{W Hz}^{-1}
+< 10^{27}$ is selected from the Stripe 82 1-2 GHz Karl G. Jansky Very Large Array Snapshot Survey,
+which covers 100 square degrees and has a 1$\sigma$ noise level of 88 $\mu$Jy beam$^{-1}$. Optical
+spectra are used to classify these sources as high excitation and low excitation radio galaxies
+(HERGs and LERGs), resulting in 60 HERGs, 149 LERGs and 600 `probable LERGs'. The host galaxies of
+the LERGs have older stellar populations than those of the HERGs, in agreement with previous results
+in the literature. We find that the HERGs tend to have higher Eddington-scaled accretion rates than
+the LERGs but that there is some overlap between the two distributions. We show that the properties
+of the host galaxies vary continuously with accretion rate, with the most slowly accreting sources
+having the oldest stellar populations, consistent with the idea that these sources lack a supply
+of cold gas. We find that 84 per cent of our sample release more than 10 per cent of their accretion power
+in their jets, showing that mechanical AGN feedback is significantly underestimated in many hydrodynamical
+simulations. There is a scatter of $\sim 2$ dex in the fraction of the accreted AGN power deposited
+back into the ISM in mechanical form, showing that the assumption in many simulations that there
+is a direct scaling between accretion rate and radio-mode feedback does not necessarily hold. We
+also find that mechanical feedback is significant for many of the HERGs in our sample as well as the
+LERGs. 

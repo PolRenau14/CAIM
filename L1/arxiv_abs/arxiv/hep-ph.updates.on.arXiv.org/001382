@@ -1,0 +1,17 @@
+It was argued in arXiv:1805.09342 and arXiv:1807.00825 that the systematics of the azimuthal anisotropy
+coefficients $v_{2,3}$ measured in ultrarelativistic light-heavy ion collisions at RHIC and
+the LHC can be described in an initial state dilute-dense Color Glass Condensate (CGC) framework.
+We elaborate here on the discussion in these papers and provide further novel results that strengthen
+their conclusions. The underlying mathematical framework and numerical techniques employed
+are very similar to those in the CGC based IP-Glasma model used previously as initial conditions
+for heavy-ion collisions. The uncertainties in theory/data comparisons for small systems are
+discussed, with unknowns that are specific to the model distinguished from those that are generic
+to all models. We present analytical arguments that demonstrate that quantum interference effects
+such as Bose enhancement and Hanbury-Brown-Twiss correlations of gluons, as well as coherent multiple
+scattering of gluons in the projectile off color domains in the target, are enhanced in rare events.
+The quantum origins of the large anisotropies in small systems are corroborated by numerical results
+for deuteron-gold collisions that show that large anisotropies in rare configurations can occur
+when the nucleons in the projectile overlap significantly. This is at variance with the classical
+intuition of hydrodynamical models. We also comment on the consequences of ignoring the many-body
+color charge correlations of gluons in models that only consider geometrical fluctuations in the
+energy density. 

@@ -1,0 +1,16 @@
+This paper is concerned with the problem of exact MAP inference in general higher-order graphical
+models by means of a traditional linear programming relaxation approach. In fact, the proof that
+we have developed in this paper is a rather simple algebraic proof being made straightforward, above
+all, by the introduction of two novel algebraic tools. Indeed, on the one hand, we introduce the notion
+of delta-distribution which merely stands for the difference of two arbitrary probability distributions,
+and which mainly serves to alleviate the sign constraint inherent to a traditional probability
+distribution. On the other hand, we develop an approximation framework of general discrete functions
+by means of an orthogonal projection expressing in terms of linear combinations of function margins
+with respect to a given collection of point subsets, though, we rather exploit the latter approach
+for the purpose of modeling locally consistent sets of discrete functions from a global perspective.
+After that, as a first step, we develop from scratch the expectation optimization framework which
+is nothing else than a reformulation, on stochastic grounds, of the convex-hull approach, as a second
+step, we develop the traditional LP relaxation of such an expectation optimization approach, and
+we show that it enables to solve the MAP inference problem in graphical models under rather general
+assumptions. Last but not least, we describe an algorithm which allows to compute an exact MAP solution
+from a perhaps fractional optimal (probability) solution of the proposed LP relaxation. 

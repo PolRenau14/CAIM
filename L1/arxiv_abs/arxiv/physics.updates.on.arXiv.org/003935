@@ -1,0 +1,16 @@
+Multidimensional nucleosynthesis studies with hundreds of nuclei linked through thousands of
+nuclear processes are still computationally prohibitive. To date, most nucleosynthesis studies
+rely either on hydrostatic/hydrodynamic simulations in spherical symmetry, or on post-processing
+simulations using temperature and density versus time profiles directly linked to huge nuclear
+reaction networks. Parallel computing has been regarded as the main permitting factor of computationally
+intensive simulations. This paper explores the different pros and cons in the parallelization
+of stellar codes, providing recommendations on when and how parallelization may help in improving
+the performance of a code for astrophysical applications. We report on different parallelization
+strategies succesfully applied to the spherically symmetric, Lagrangian, implicit hydrodynamic
+code SHIVA, extensively used in the modeling of classical novae and type I X-ray bursts. Speed-up
+factors of 26 and 35 have been obtained with a parallelized version of SHIVA, in a 200-shell simulation
+of a type I X-ray burst carried out with two nuclear reaction networks: a reduced one, consisting
+of 324 isotopes and 1392 reactions, and a more extended network with 606 nuclides and 3551 nuclear
+interactions. Maximum speed-ups of 41 (324-isotope network) and 85 (606-isotope network), are
+also predicted for 200 cores, stressing that the number of shells of the computational domain constitutes
+an effective upper limit for the maximum number of cores that could be used in a parallel application.

@@ -1,0 +1,16 @@
+An important goal for programmers is to minimize cost of identifying and correcting defects in source
+code. Code review is commonly used for identifying programming defects. However, manual code review
+has some shortcomings: a) it is time consuming, b) outcomes are subjective and depend on the skills
+of reviewers. An automated approach for assisting in code reviews is thus highly desirable. We present
+a tool for assisting in code review and results from our experiments evaluating the tool in different
+scenarios. The tool leveraged content available from professional programmer support forums
+(e.g. StackOverflow.com) to determine potential defectiveness of a given piece of source code.
+The defectiveness is expressed on the scale of {Likely defective, Neutral, Unlikely to be defective}.
+Basic idea employed in the tool is to: a) Identify a set P of discussion posts on StackOverflow such
+that each p in P contains source code fragment(s) which sufficiently resemble the input code C being
+reviewed. b) Determine the likelihood of C being defective by considering all p in P . A novel aspect
+of our approach is to use document fingerprinting for comparing two pieces of source code. Our choice
+of document fingerprinting technique is inspired by source code plagiarism detection tools where
+it has proven to be very successful. In the experiments that we performed to verify effectiveness
+of our approach source code samples from more than 300 GitHub open source repositories were taken
+as input. A precision of more than 90% in identifying correct/relevant results has been achieved.

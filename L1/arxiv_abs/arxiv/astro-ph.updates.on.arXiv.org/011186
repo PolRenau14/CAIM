@@ -1,0 +1,17 @@
+Light but massive cosmological neutrinos do not cluster significantly on small scales, due to their
+high thermal velocities. With finite masses, cosmological neutrinos become part of the total matter
+field and contribute to its smoothing. Structure formation in the presence of massive neutrinos
+is therefore impeded compared to that in the standard $\Lambda$CDM cosmology with massless neutrinos.
+Neutrinos' masses also distort the anisotropy power spectrum of cosmic microwave background (CMB).
+Furthermore, a finite chemical potential $\mu$ for cosmological neutrinos, still allowed by current
+data, would have a non-negligible impact on CMB and structure formation. We consistently evaluate
+effects of neutrino masses and chemical potentials on the matter power spectrum by use of a neutrino-involved
+N-body simulation, with cosmological parameters obtained from a Markov-Chian Moonte-Carlo (MCMC)
+refitting of CMB data. Our results show that while a finite averaged neutrino mass $m_\nu$ tends
+to suppress the matter power spectrum in a range of wave numbers, the neutrino degeneracy parameters
+${\xi_i \equiv \mu_i /T}$ ($i=$1, 2, 3) enhance the latter, leading to a large parameter degeneracy
+between $m_\nu$ and $\xi_i$. We provide an empirical formula for the effects on the matter power
+spectrum in a selected range of wave numbers induced by $m_\nu$ and $\eta \equiv \sqrt{\sum_i \xi^2_i}$.
+Observing a strong correlation between $m_\nu$ and $\eta$, we propose a single redshift-independent
+parameter $m_\nu - \frac{4}{3}\eta^2$ to characterize the neutrino effects on the matter power
+spectrum. 

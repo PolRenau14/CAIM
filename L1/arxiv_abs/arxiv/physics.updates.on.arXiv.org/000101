@@ -1,0 +1,17 @@
+We report on conditional statistics of turbulent entrainment in a temporal plane jet at Re=5000
+along enstrophy isosurfaces. The data is obtained by direct numerical simulation and the statistics
+span 24 orders of magnitude in the enstrophy threshold, ranging from essentially irrotational
+fluid outside the jet to the turbulent core region at the jet centre. We use two independent estimators
+for the local entrainment velocity v_n based on the enstrophy budget and develop a theoretical model
+that describes the expected behaviour inside the viscous superlayer. The model is in reasonably
+good agreement with the data and predicts that viscous transport has magnitude 2v_n and viscous
+dissipation -v_n. Although v_n is similar in magnitude to the Kolmogorov velocity u_\eta, its value
+is not independent of the threshold. Contrarily, the product between v_n and surface area S of the
+viscous superlayer, the entrainment flux, is independent of threshold implying that the local
+transport velocity and surface area adjust concertedly to the imposed global rate at the fringes
+of the turbulent layer. We divide the flow into a (i) viscous superlayer in which the transmission
+of enstrophy is dominated by viscous effects; (ii) a turbulent core region which is dominated by
+inertial production, viscous transport and dissipation; and (iii) an intermediate region that
+connects the two. The average distance between the core region and the viscous superlayer is about
+10 Kolmogorov length scales, indicating that intense turbulent flow regions and viscosity-dominated
+regions are in close proximity. 

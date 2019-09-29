@@ -1,0 +1,16 @@
+We present the results of our power spectral density analysis for the BL Lac object OJ\,287, utilizing
+the {\it Fermi}-LAT survey at high-energy $\gamma$-rays, {\it Swift}-XRT in X-rays, several ground-based
+telescopes and the {\it Kepler} satellite in the optical, and radio telescopes at GHz frequencies.
+The light curves are modeled in terms of continuous-time auto-regressive moving average (CARMA)
+processes. Owing to the inclusion of the {\it Kepler} data, we were able to construct \emph{for the
+first time} the optical variability power spectrum of a blazar without any gaps across $\sim6$ dex
+in temporal frequencies. Our analysis reveals that the radio power spectra are of a colored-noise
+type on timescales ranging from tens of years down to months, with no evidence for breaks or other
+spectral features. The overall optical power spectrum is also consistent with a colored noise on
+the variability timescales ranging from 117 years down to hours, with no hints of any quasi-periodic
+oscillations. The X-ray power spectrum resembles the radio and optical power spectra on the analogous
+timescales ranging from tens of years down to months. Finally, the $\gamma$-ray power spectrum
+is noticeably different from the radio, optical, and X-ray power spectra of the source: we have detected
+a characteristic relaxation timescale in the {\it Fermi}-LAT data, corresponding to $\sim 150$\,days,
+such that on timescales longer than this, the power spectrum is consistent with uncorrelated (white)
+noise, while on shorter variability timescales there is correlated (colored) noise. 

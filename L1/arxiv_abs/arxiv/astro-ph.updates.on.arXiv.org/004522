@@ -1,0 +1,17 @@
+We analyze the optical continuum of star-forming galaxies in SDSS by fitting stacked spectra with
+stellar population synthesis models to investigate the relation between stellar mass, stellar
+metallicity, dust attenuation and star formation rate. We fit models calculated with star formation
+and chemical evolution histories that are derived empirically from multi-epoch observations
+of the stellar mass---star formation rate and the stellar mass---gas-phase metallicity relations,
+respectively. We also fit linear combinations of single burst models with a range of metallicities
+and ages. Star formation and chemical evolution histories are unconstrained for these models.
+The stellar mass---stellar metallicity relations obtained from the two methods agree with the
+relation measured from individual supergiant stars in nearby galaxies. These relations are also
+consistent with the relation obtained from emission line analysis of gas-phase metallicity after
+accounting for systematic offsets in the gas-phase-metallicity. We measure dust attenuation
+of the stellar continuum and show that its dependence on stellar mass and star formation rate is consistent
+with previously reported results derived from nebular emission lines. However, stellar continuum
+attenuation is smaller than nebular emission line attenuation. The continuum-to-nebular attenuation
+ratio depends on stellar mass and is smaller in more massive galaxies. Our consistent analysis of
+stellar continuum and nebular emission lines paves the way for a comprehensive investigation of
+stellar metallicities of star-forming and quiescent galaxies. 

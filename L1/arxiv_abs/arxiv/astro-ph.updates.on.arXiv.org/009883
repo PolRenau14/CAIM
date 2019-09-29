@@ -1,0 +1,16 @@
+The presence of companion stars, whether bound or unbound, make correct identification of the planetary
+hosting star difficult when a planet has been detected through a photometrically blended transiting
+event. We present an approach that uses a combination of light curve analysis and stellar modeling
+to disentangle 8 K2 photometrically blended binary systems that have either a confirmed or suspected
+planet to identify the probable host star. The key to our approach is the use of the mean stellar density,
+calculated using the transit geometry, as a discriminator. The approach is strongly dependent
+on the difference in magnitude between the stars and the observed transit depth, which is corrected
+by the flux ratio between the two stars. While our approach does not lead to a definitive result for
+all systems, we were able to determine for the 8 systems in this case study: two systems where the primary
+was highly likely to be the planet hosting star ($>$ 90\% likelihood); three systems where the primary
+was likely to be the hosting star ($>$ 55\% likelihood); one system where the secondary was likely
+to be the planet hosting star ($>$ 55\% likelihood); and two systems where we were uncertain which
+star was the planet hosting star ($\approx$ 50\% likelihood to be either the primary or the secondary).
+Two systems, denoted by their EPIC number, EPIC 201546283 and EPIC 201862715, had confirmed planets,
+K2-27b and K2-94b respectively, with radii of $\mathrm{4.0 \pm 0.1}$ and $\mathrm{16.4 \pm 2.9}$
+$\mathrm{R_\oplus}$ respectively. 

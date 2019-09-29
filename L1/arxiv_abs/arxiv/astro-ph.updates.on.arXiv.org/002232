@@ -1,0 +1,16 @@
+Three-dimensional simulations of core-collapse supernovae are granting new insight into the
+as-yet uncertain mechanism that drives successful explosions. While there is still debate about
+whether explosions are obtained more easily in 3D than in 2D, it is undeniable that there exist qualitative
+and quantitative differences between the results of 3D and 2D simulations. We present an extensive
+set of high-resolution one-, two-, and three-dimensional core-collapse supernova simulations
+with multispecies neutrino leakage carried out in two different progenitors. Our simulations
+confirm the results of Couch (2013) indicating that 2D explodes more readily than 3D. We argue that
+this is due to the inadequacies of 2D to accurately capture important aspects of the three-dimensional
+dynamics. We find that without artificially enhancing the neutrino heating rate we do not obtain
+explosions in 3D. We examine the development of neutrino-driven convection and the standing accretion
+shock instability and find that, in separate regimes, either instability can dominate. We find
+evidence for growth of the standing accretion shock instability for both 15-$M_\odot$ and 27-$M_\odot$
+progenitors, however, it is weaker in 3D exploding models. The growth rate of both instabilities
+is artificially enhanced along the symmetry axis in 2D as compared with our axis-free 3D Cartesian
+simulations. Our work highlights the growing consensus that core-collapse supernovae must be
+studied in 3D if we hope to solve the mystery of how the explosions are powered. 

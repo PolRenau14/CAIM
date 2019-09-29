@@ -1,0 +1,16 @@
+We present results from a detailed analysis of our 2016 XMM-Newton observation of the narrow-line
+Seyfert 1 galaxy PG 1404+226 which showed a large-amplitude, rapid X-ray variability by a factor
+of $\sim7$ in $\sim10$ ks with an exponential rise and a sharp fall in the count rate. We investigate
+the origin of the soft X-ray excess emission and rapid X-ray variability in the source through time-resolved
+spectroscopy and fractional root-mean-squared (rms) spectral modeling. The strong soft X-ray
+excess below 1 keV seen in the mean X-ray spectrum and in the time-resolved spectra is well described
+by the intrinsic disk Comptonization model as well as the blurred reflection model where the emission
+is intensive merely in the inner regions ($r_{\rm in}<2 r_{\rm g}$) of an ionized accretion disk.
+We detected no significant UV variability while the soft X-ray excess varies together with the primary
+emission (as $F_{{\rm primary}}\propto F_{{\rm excess}}^{1.54}$), although with a smaller amplitude
+as expected in the reflection scenario. The X-ray fractional rms spectrum shows an approximately
+constant variability with energy which can be described only in the framework of the blurred reflection
+model in which both the intrinsic continuum and reflected emission are highly variable in flux only
+and are perfectly coupled with each other. Our results imply the `lamppost geometry' of a compact,
+hot corona which illuminates the innermost accretion disk due to light bending and gives rise to
+the soft X-ray excess emission. 

@@ -1,0 +1,16 @@
+There have been many proposals for sorting integers on multicores/GPUs that include radix-sort
+and its variants or other approaches that exploit specialized hardware features of a particular
+multicore architecture. Comparison-based algorithms have also been used. Network-based algorithms
+have also been used with primary example Batcher's bitonic sorting algorithm. Although such a latter
+approach is theoretically "inefficient", if there are few keys to sort, it can lead to better running
+times as it has low overhead and is simple to implement. In this work we perform an experimental study
+of integer sorting on multicore processors using not only multithreading but also multiprocessing
+parallel programming approaches. Our implementations work under Open MPI, MulticoreBSP, and
+BSPlib. We have implemented serial and parallel radix-sort for various radixes and also some previously
+little explored or unexplored variants of bitonic-sort and odd-even transposition sort. We offer
+our observations on a performance evaluation using the MBSP model of such algorithm implementations
+on multiple platforms and architectures and multiple programming libraries. If we can conclude
+anything is that modeling their performance by taking into consideration architecture dependent
+features such as the structure and characteristics of multiple memory hierarchies is difficult
+and more often than not unsuccessful or unreliable. However we can still draw some very simple conclusions
+using traditional architecture independent parallel modeling. 

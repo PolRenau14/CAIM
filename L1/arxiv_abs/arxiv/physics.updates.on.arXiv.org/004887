@@ -1,0 +1,16 @@
+Longstanding problems regarding the causality of the diffusion equation are resolved through
+a class of exact solutions. A universal differential solution for diffusive processes is derived
+that is causal and exact at any analytic point in the data, albeit infinite order in spatial derivatives.
+This is true for systems both relativistic and nonrelativistic and shows that the hyperbolic and
+other relativistic extensions of the heat equation are not valid. A similar effect is demonstrated
+for flow enhanced mixing of solutions but with a new nonanalytic feature. Viscous hydrodynamics
+of liquids have both features. Both Newtonian and non-Newtonian viscous liquids give a more important
+and confounding alteration of the N-S equations for nonstationary flows. A careful analysis of
+liquids in terms of microscopic constituents and Lagrangian paths show there is a well-defined
+unique microscopic decomposition of fluid deformations into rotation and two modes corresponding
+to organized layered flow that do not enhance mixing and a mode that induces mixing and preferred
+static orientations. The resulting equations are both infinite order in spatial derivatives almost
+everywhere and are divided into two disjoint classes by an essential nonanalytic hypersuface.
+These give important rheological effects coupling hydrodynamic flow to diffusion and reaction
+kinetics. Practical consequences include catalysis and reaction yield control by rheological
+means. Implications of this work should percolate through almost all of continuum mechanics. 

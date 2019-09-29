@@ -1,0 +1,17 @@
+In-memory computing is a promising approach to addressing the processor-memory data transfer
+bottleneck in computing systems. We propose Spin-Transfer Torque Compute-in-Memory (STT-CiM),
+a design for in-memory computing with Spin-Transfer Torque Magnetic RAM (STT-MRAM). The unique
+properties of spintronic memory allow multiple wordlines within an array to be simultaneously
+enabled, opening up the possibility of directly sensing functions of the values stored in multiple
+rows using a single access. We propose modifications to STT-MRAM peripheral circuits that leverage
+this principle to perform logic, arithmetic, and complex vector operations. We address the challenge
+of reliable in-memory computing under process variations by extending ECC schemes to detect and
+correct errors that occur during CiM operations. We also address the question of how STT-CiM should
+be integrated within a general-purpose computing system. To this end, we propose architectural
+enhancements to processor instruction sets and on-chip buses that enable STT-CiM to be utilized
+as a scratchpad memory. Finally, we present data mapping techniques to increase the effectiveness
+of STT-CiM. We evaluate STT-CiM using a device-to-architecture modeling framework, and integrate
+cycle-accurate models of STT-CiM with a commercial processor and on-chip bus (Nios II and Avalon
+from Intel). Our system-level evaluation shows that STT-CiM provides system-level performance
+improvements of 3.93x on average (upto 10.4x), and concurrently reduces memory system energy by
+3.83x on average (upto 12.4x). 

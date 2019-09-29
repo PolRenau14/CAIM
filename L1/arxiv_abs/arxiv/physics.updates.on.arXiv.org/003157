@@ -1,0 +1,17 @@
+Deformable elastic bodies in viscous and viscoelastic media constitute a large portion of synthetic
+and biological complex fluids. Here, we present a parallelized 3D-simulation methodology which
+fully resolves the momentum balance in the solid and fluid domains. An immersed boundary algorithm
+is exploited known as the immersed finite element method (IFEM) which accurately determines the
+internal forces in the solid domain. The scheme utilized has the advantages of requiring no costly
+re-meshing, handling finite Reynold's number, as well as incorporating non-linear viscoelasticity
+in the fluid domain. Our algorithm is designed for computationally efficient simulation of multi-particle
+suspensions with mixed structure types. The internal force calculation in the solid domain in IFEM
+is coupled with a finite volume based incompressible fluid solver, both of which are massively parallelized
+for distributed memory architecture. We performed extensive case studies to ensure the fidelity
+of our algorithm. Namely, a series of single particle simulations for capsules, red blood cells,
+and elastic solid deformable particles were conducted in viscous and viscoelastic media. All of
+our results are in excellent quantitative agreement with the corresponding reported data in the
+literature which are based on different simulation platforms. Furthermore, we assess the accuracy
+of multi-particle simulation of blood suspensions (red blood cells in the plasma). Finally, we
+present the results of a novel simulation of multiple solid deformable objects in a viscoelastic
+medium. 

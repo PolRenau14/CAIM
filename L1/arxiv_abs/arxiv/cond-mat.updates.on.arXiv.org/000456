@@ -1,0 +1,17 @@
+The nature of transport of electrons and classical waves in disordered systems depends upon the
+proximity to the Anderson localization transition between freely diffusing and localized waves.
+The suppression of average transport and the enhancement of relative fluctuations in conductance
+in one-dimensional samples with lengths greatly exceeding the localization length, $L\gg \xi$,
+are related in the single parameter scaling (SPS) theory of localization. However, the difficulty
+of producing an ensemble of statistically equivalent samples in which the electron wavefunction
+is temporally coherent has so-far precluded the experimental demonstration of SPS. Here we demonstrate
+SPS in random multichannel systems for the transmittance $T$ of microwave radiation, which is the
+analogue of the dimensionless conductance. We show that for $L\sim4\xi$ a single eigenvalue of
+the transmission matrix (TM) dominates transmission and the distribution of the $\ln T$ is Gaussian
+with a variance equal to the average of $-\ln T$, as conjectured by SPS. For samples in the crossover
+to localization, $L\sim\xi$, we find a one-sided distribution for $\ln T$. This anomalous distribution
+is explained in terms of a charge model for the eigenvalues of the transmission matrix $\tau$ in which
+the Coulomb interaction between charges mimics the repulsion between the eigenvalues of transmission
+matrix. We show in the localization limit that the joint distribution of $T$ and the effective number
+of transmission eigenvalues determines the probability distributions of intensity and total
+transmission for a single incident channel. 

@@ -1,0 +1,17 @@
+Using few-body simulations, we investigate the evolution of supermassive black holes (SMBHs)
+in galaxies ($M_{\star}=10^{10}-10^{12}{\rm M}_{\odot}$ at $z=0$) at $0<z<4$. Following galaxy
+merger trees from the Millennium simulation, we model BH mergers with two extreme binary decay scenarios
+for the `hard binary' stage: a full or an empty loss cone. These two models should bracket the true
+evolution, and allow us to separately explore the role of dynamical friction and that of multi-body
+BH interactions on BH mergers. Using the computed merger rates, we infer the stochastic gravitational
+wave background (GWB). Our dynamical approach is a first attempt to study the dynamical evolution
+of multiple SMBHs in the host galaxies undergoing mergers with various mass ratios ($10^{-4} < q_{\star}
+< 1$). Our main result demonstrates that SMBH binaries are able to merge in both scenarios. In the
+empty loss cone case, we find that BHs merge via multi-body interactions, avoiding the `final parsec'
+problem, and entering the PTA band with substantial orbital eccentricity. Our full loss cone treatment,
+albeit more approximate, suggests that the eccentricity becomes even higher when GWs become dominant,
+leading to rapid coalescences (binary lifetime $\lesssim1 {\rm ~Gyr}$). Despite the lower merger
+rates in the empty loss cone case, due to their higher mass ratios and lower redshifts, the GWB in the
+full/empty loss cone models are comparable ($0.70\times10^{-15}$ and $0.53\times10^{-15}$
+at a frequency of $1~{\rm yr}^{-1}$, respectively). Finally, we compute the effects of high eccentricities
+on the GWB spectrum. 

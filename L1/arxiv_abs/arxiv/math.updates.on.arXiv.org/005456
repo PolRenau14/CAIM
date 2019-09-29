@@ -1,0 +1,17 @@
+For a group of users in $V$ where everyone observes a component of a discrete multiple random source,
+the process that users exchange data so as to reach omniscience, the state where everyone recovers
+the entire source, is called communication for omniscience (CO). We first consider how to improve
+the existing complexity $O(|V|^2 \cdot \text{SFM}(|V|)$ of minimizing the sum of communication
+rates in CO, where $\text{SFM}(|V|)$ denotes the complexity of minimizing a submodular function.
+We reveal some structured property in an existing coordinate saturation algorithm: the resulting
+rate vector and the corresponding partition of $V$ are segmented in $\alpha$, the estimation of
+the minimum sum-rate. A parametric (PAR) algorithm is then proposed where, instead of a particular
+$\alpha$, we search the critical points that fully determine the segmented variables for all $\alpha$
+so that they converge to the solution to the minimum sum-rate problem and the overall complexity
+reduces to $O(|V| \cdot \text{SFM}(|V|))$. For the successive omniscience (SO), we consider how
+to attain local omniscience in some complimentary user subset so that the overall sum-rate for the
+global omniscience still remains minimum. While the existing algorithm only determines a complimentary
+user subset in $O(|V| \cdot \text{SFM}(|V|))$ time, we show that, if a lower bound on the minimum
+sum-rate is applied to the segmented variables in the PAR algorithm, not only a complimentary subset,
+but also an optimal rate vector for attaining the local omniscience in it are returned in $O(|V| \cdot
+\text{SFM}(|V|))$ time. 

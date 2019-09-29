@@ -1,0 +1,16 @@
+The standard approach for optimization of XPath queries by rewriting using views techniques consists
+in navigating inside a view's output, thus allowing the usage of only one view in the rewritten query.
+Algorithms for richer classes of XPath rewritings, using intersection or joins on node identifiers,
+have been proposed, but they either lack completeness guarantees, or require additional information
+about the data. We identify the tightest restrictions under which an XPath can be rewritten in polynomial
+time using an intersection of views and propose an algorithm that works for any documents or type
+of identifiers. As a side-effect, we analyze the complexity of the related problem of deciding if
+an XPath with intersection can be equivalently rewritten as one without intersection or union.
+We extend our formal study of the view-based rewriting problem for XPath by describing also (i) algorithms
+for more complex rewrite plans, with no limitations on the number of intersection and navigation
+steps inside view outputs they employ, and (ii) adaptations of our techniques to deal with XML documents
+without persistent node Ids, in the presence of XML keys. Complementing our computational complexity
+study, we describe a proof-of-concept implementation of our techniques and possible choices that
+may speed up execution in practice, regarding how rewrite plans are built, tested and executed.
+We also give a thorough experimental evaluation of these techniques, focusing on scalability and
+the running time improvements achieved by the execution of view-based plans. 

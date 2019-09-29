@@ -1,0 +1,16 @@
+We build a full spectral-timing model for the low/hard state of black hole binaries assuming that
+the spectrum of the X-ray hot flow can be described by two Comptonisation zones. Slow fluctuations
+stirred up at the largest radii/softest spectral region of the flow propagate down to modulate the
+faster fluctuations produced in the harder spectral region close to the black hole. The observed
+spectrum and variability are produced by summing over all regions in the flow, including its emission
+reflected from the truncated disc. This produces energy-dependent Fourier lags qualitatively
+similar to those seen in the data. We apply this model to archival RXTE data from Cyg X-1, using the
+time averaged energy spectrum together with an assumed emissivity to set the radii of the soft and
+hard Compton regions. This predicts the Fourier power spectral densities and lags for any energy
+bands when combined with a viscous frequency prescription. We find that the power spectra cannot
+be described by any smooth model of generating fluctuations, and instead require that there are
+specific radii in the flow where noise is preferentially produced. We also find that damping is required
+to prevent all the variability power stirred up at large radii being propagated into the inner regions.
+Even with these additions, we can fit either the power spectra at each energy, or the lags, but not
+both. We conclude that either the spectra are more complex than two zone models, or that other processes
+are important in forming the variability. 

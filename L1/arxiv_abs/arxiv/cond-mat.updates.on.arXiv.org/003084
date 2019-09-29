@@ -1,0 +1,15 @@
+The 1D Ising model is the simplest Hamiltonian-based model in statistical mechanics. The sim- plest
+interacting particle process is the Symmetric Exclusion Process (SEP), a 1D lattice gas of particles
+that hop symmetrically and cannot overlap. Combining the two gives a model for sticky particle diffusion,
+SPM, which is described here. SPM dynamics are based on SEP with short-range interaction, allowing
+flow due to non-equilibrium boundary conditions. We prove that SPM is also a detailed-balance respecting,
+particle-conserving, Monte Carlo (MC) description of the Ising model. Neither the Ising model
+nor SEP have a phase transition in 1D, but the SPM exhibits a non-equilibrium transition from a diffusing
+to a blocked state as stickiness increases. This transition manifests in peaks in the MC density
+fluctuation, a change in the dependency of flow-rate on stickiness, and odd structure in the eigenspectrum
+of the transition rate matrix. We derive and solve a fully non-linear, analytic, mean-field solution,
+which has a crossover from a positive to a negative diffusion constant where the MC shows the transition.
+The negative diffusion constant in fact indicates a breakdown of the mean-field approximation,
+with close to zero flow and breaking into a two-phase mixture, and thus the mean field theory successfully
+predicts its own demise. We also present an analytic solution for the flow via direct analysis of
+the transition rate matrix. The simplicity of the model suggest a wide range of possible applications.

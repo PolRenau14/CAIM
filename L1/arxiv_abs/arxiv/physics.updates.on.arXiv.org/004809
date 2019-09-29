@@ -1,0 +1,17 @@
+The process of divertor detachment, whereby particle fluxes to divertor surfaces are strongly
+reduced, is required to reduce heat loading and erosion in a magnetic fusion reactor. The ions reaching
+the target during divertor detachment are primarily generated in the divertor (ion source), which
+costs energy. In addition, there can be additional ion sinks such as volumetric recombination.
+Experimental power/particle balance investigations are thus crucial for understanding detachment
+and were not possible previously. For that purpose, we have developed a new analysis technique for
+the Balmer line series to extract information on power and particle balance. First we employ line
+ratios to quantitatively separate excitation/recombination emission from the Balmer line series.
+This enabled us to analyse each of those two components individually, ultimately providing ionisation/recombination
+and hydrogenic excitation radiative loss measurements during attached and detached conditions
+on the TCV tokamak. That analysis required the development of probabilistic Monte Carlo techniques
+for full error propagation - eventually resulting in probability density functions for each output
+variable; providing the most likely estimate as well as upper/lower limit uncertainties. This
+combined with the full spectroscopic coverage; provides access to detailed power/particle balance
+investigations crucial to the understanding of plasma detachment. These techniques and their
+assumptions have been verified by comparing data inferred from a synthetic diagnostic against
+outputs directly obtained using SOLPS simulations. 

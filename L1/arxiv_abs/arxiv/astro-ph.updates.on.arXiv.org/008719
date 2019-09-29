@@ -1,0 +1,17 @@
+We investigate the large-scale structure of Lyman-alpha emission intensity in the Universe at
+redshifts z=2-3.5 using cross-correlation techniques. Our Lya emission samples are spectra of
+BOSS Luminous Red Galaxies from Data Release 12 with the best fit model galaxies subtracted. We cross-correlate
+the residual flux in these spectra with BOSS quasars, and detect a positive signal on scales 1-15
+Mpc/h. We identify and remove a source of contamination not previously accounted for, due to the
+effects of quasar clustering on cross-fibre light. Corrected, our quasar-Lya emission cross-correlation
+is 50 % lower than that seen by Croft et al. for DR10, but still significant. Because only 3% of space
+is within 15 Mpc/h of a quasar, the result does not fully explore the global large-scale structure
+of Lya emission. To do this, we cross-correlate with the Lya forest. We find no signal in this case.
+The 95% upper limit on the global Lya mean surface brightness from Lya emission-Lya forest cross-correlation
+is mu < 1.2x10^-22 erg/s/cm^2/A/arcsec^2 This null result rules out the scenario where the observed
+quasar-Lya emission cross-correlation is primarily due to the large scale structure of star forming
+galaxies, Taken in combination, our results suggest that Lya emitting galaxies contribute, but
+quasars dominate within 15 Mpc/h. A simple model for Lya emission from quasars based on hydrodynamic
+simulations reproduces both the observed forest-Lya emission and quasar-Lya emission signals.
+The latter is also consistent with extrapolation of observations of fluorescent emission from
+smaller scales r < 1 Mpc. 

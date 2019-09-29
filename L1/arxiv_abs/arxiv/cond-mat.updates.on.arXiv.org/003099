@@ -1,0 +1,16 @@
+The development of single-cell technologies provides the opportunity to identify new cellular
+states and reconstruct novel cell-to-cell relationships. Applications range from understanding
+the transcriptional and epigenetic processes involved in metazoan development to characterizing
+distinct cells types in heterogeneous populations like cancers or immune cells. However, analysis
+of the data is impeded by its unknown intrinsic biological and technical variability together with
+its sparseness; these factors complicate the identification of true biological signals amidst
+artifact and noise. Here we show that, across technologies, roughly 95% of the eigenvalues derived
+from each single-cell data set can be described by universal distributions predicted by Random
+Matrix Theory. Interestingly, 5% of the spectrum shows deviations from these distributions and
+present a phenomenon known as eigenvector localization, where information tightly concentrates
+in groups of cells. Some of the localized eigenvectors reflect underlying biological signal, and
+some are simply a consequence of the sparsity of single cell data; roughly 3% is artifactual. Based
+on the universal distributions and a technique for detecting sparsity induced localization, we
+present a strategy to identify the residual 2% of directions that encode biological information
+and thereby denoise single-cell data. We demonstrate the effectiveness of this approach by comparing
+with standard single-cell data analysis techniques in a variety of examples with marked cell populations.

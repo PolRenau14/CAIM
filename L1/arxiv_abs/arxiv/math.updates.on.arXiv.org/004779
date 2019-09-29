@@ -1,0 +1,17 @@
+In theory and practice of inverse problems, linear operator equations $Tx=y$ with compact linear
+forward operators $T$ having a non-closed range $\mathcal{R}(T)$ and mapping between infinite
+dimensional Hilbert spaces plays some prominent role. As a consequence of the ill-posedness of
+such problems, regularization approaches are required, and due to its unlimited qualification
+spectral cut-off is an appropriate method for the stable approximate solution of corresponding
+inverse problems. For this method, however, the singular system $\{\sigma_i(T),u_i(T),v_i(T)\}_{i=1}^\infty$
+of the compact operator $T$ is needed, at least for $i=1,2,...,N$, up to some stopping index $N$.
+In this note we consider $n$-fold integration operators $T=J^n\;(n=1,2,...)$ in $L^2([0,1])$
+occurring in numerous applications, where the solution of the associated operator equation is
+characterized by the $n$-th generalized derivative $x=y^{(n)}$ of the Sobolev space function
+$y \in H^n([0,1])$. Almost all textbooks on linear inverse problems present the whole singular
+system $\{\sigma_i(J^1),u_i(J^1),v_i(J^1)\}_{i=1}^\infty$ in an explicit manner. However,
+they do not discuss the singular systems for $J^n,\;n \ge 2$. We will emphasize that this seems to
+be a consequence of the fact that for higher $n$ the eigenvalues $\sigma^2_i(J^n)$ of the associated
+ODE boundary value problems obey transcendental equations, the complexity of which is growing
+with $n$. We present the transcendental equations for $n=2,3,...$ and discuss and illustrate the
+associated eigenfunctions and some of their properties. 

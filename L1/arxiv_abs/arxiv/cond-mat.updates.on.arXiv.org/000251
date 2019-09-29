@@ -1,0 +1,16 @@
+Three dimensional topological superconductors (TScs) protected by time reversal (T) symmetry
+are characterized by gapless Majorana cones on their surface. Free fermion phases with this symmetry
+(class DIII) are indexed by an integer n, of which n=1 is realized by the B-phase of superfluid Helium-3.
+Previously it was believed that the surface must be gapless unless time reversal symmetry is broken.
+Here we argue that a fully symmetric and gapped surface is possible in the presence of strong interactions,
+if a special type of topological order appears on the surface. The topological order realizes T symmetry
+in an anomalous way, one that is impossible to achieve in purely two dimensions. For odd n TScs, the
+surface topological order must be non-Abelian. We propose the simplest non-Abelian topological
+order that contains electron like excitations, SO(3)_6, with four quasiparticles, as a candidate
+surface state. Remarkably, this theory has a hidden T invariance which however is broken in any 2D
+realization. By explicitly constructing an exactly soluble Walker-Wang model we show that it can
+be realized at the surface of a 3D system with T symmetry. We also propose an Abelian theory, the semion-fermion
+topological order, to realize an even n TSc surface, for which an explicit model is derived using
+a coupled layer construction. Both phases require electrons to transform as Kramers pairs, i.e.
+T^2=-1 under time reversal. New topological phases of interacting fermions, based on bosonic topological
+states, are shown to introduce a Z2 extension to the set of phases in this symmetry class. 

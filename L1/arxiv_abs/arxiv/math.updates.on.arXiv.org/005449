@@ -1,0 +1,16 @@
+We present first-order perturbation analysis of a simple eigenvalue and the corresponding right
+and left eigenvectors of a general square matrix, not assumed to be Hermitian or normal. The eigenvalue
+result is well known to a broad scientific community. The treatment of eigenvectors is more complicated,
+with a perturbation theory that is not so well known outside a community of specialists. We give two
+different proofs of the main eigenvector perturbation theorem. The first, inspired by the numerical
+linear algebra research community and based on the implicit function theorem, has apparently not
+appeared in the literature in this form. The second, based on complex function theory and on eigenprojectors,
+as is standard in analytic perturbation theory, is a simplified version of well-known results in
+the literature. The second derivation uses a convenient normalization of the right and left eigenvectors
+that depends on the perturbation parameter, but although this dates back to the 1950s, it is rarely
+discussed in the literature. We then show how the eigenvector perturbation theory is easily extended
+to handle other normalizations that are often used in practice. We also explain how to verify the
+perturbation results computationally. We conclude with some remarks about difficulties introduced
+by multiple eigenvalues and give references to work on perturbation of invariant subspaces corresponding
+to multiple or clustered eigenvalues. Throughout the paper we give extensive bibliographic commentary
+and references for further reading. 

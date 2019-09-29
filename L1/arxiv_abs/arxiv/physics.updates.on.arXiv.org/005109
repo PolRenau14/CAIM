@@ -1,0 +1,16 @@
+We perform direct numerical simulations of wall sheared Rayleigh-B\'enard (RB) convection for
+Rayleigh numbers up to $Ra=10^8$, Prandtl number unity, and wall Reynolds numbers up to $Re_w=10000$.
+Using the Monin-Obukhov length $L$ we identify three different flow states, a buoyancy dominated
+regime ($L \lesssim \lambda_{\theta}$; with $\lambda_{\theta}$ the thermal boundary layer thickness),
+a transitional regime ($0.5H \gtrsim L \gtrsim \lambda_{\theta}$; with $H$ the height of the domain),
+and a shear dominated regime ($L\gtrsim 0.5H$). In the buoyancy dominated regime the flow dynamics
+are similar to that of turbulent thermal convection. The transitional regime is characterized
+by rolls that are increasingly elongated with increasing shear. The flow in the shear dominated
+regime consists of very large-scale meandering rolls, similar to the ones found in conventional
+Couette flow. As a consequence of these different flow regimes, for fixed $Ra$ and with increasing
+shear, the heat transfer first decreases, due to the breakup of the thermal rolls, and then increases
+at the beginning of the shear dominated regime. For $L \gtrsim 0.5H$ the Nusselt number $Nu$ effectively
+scales as $Nu \sim Ra^{\alpha}$, with $\alpha \ll 1/3$ while we find $\alpha \simeq 0.31$ in the buoyancy
+dominated regime. In the transitional regime the effective scaling exponent is $\alpha > 1/3$,
+but the temperature and velocity profiles in this regime are not logarithmic yet, thus indicating
+transient dynamics and not the ultimate regime of thermal convection. 

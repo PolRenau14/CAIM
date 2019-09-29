@@ -1,0 +1,16 @@
+Metasurfaces, the two-dimensional (2D) counterpart of metamaterials, have recently attracted
+a great attention due to their amazing properties such as negative refraction, hyperbolic dispersion,
+manipulation of the evanescent spectrum. In this work, we propose a theory model for the near field
+radiative heat transfer (NFRHT) between two nanoparticles in the presence of an anisotropic metasurface.
+Specifically, we set the metasurface as an array of graphene strips (GS) since it is an ideal platform
+to implement any metasurface topology, ranging from isotropic to hyperbolic propagation. We show
+that the NFRHT between two nanoparticles can not only be significantly amplified when they are placed
+in proximity of the GS, but also be regulated over several orders of magnitude. In this configuration,
+the anisotropic surface plasmon polaritons (SPPs) supported by the GS are excited and provide a
+new channel for the near-field energy transport. We analyze how the conductance between two nanoparticles
+depends on the orientation, the structure parameters and the chemical potential of the GS, on the
+particle-surface or the particle-surface distances by clearly identifying the characteristics
+of the anisotropic SPPs such as dispersion relations, propagation length and decay length. Our
+findings provide a powerful way to regulate the energy transport in the particle systems, meanwhile
+in turn, open up a way to explore the anisotropic optical properties of the metasurface based on the
+measured heat transfer properties. 

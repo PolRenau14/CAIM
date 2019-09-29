@@ -1,0 +1,16 @@
+We describe ideal incompressible hydrodynamics on the hyperbolic plane which is an infinite surface
+of constant negative curvature. We derive equations of motion, general symmetries and conservation
+laws, and then consider turbulence with the energy density linearly increasing with time due to
+action of small-scale forcing. In a flat space, such energy growth is due to an inverse cascade, which
+builds a constant part of the velocity autocorrelation function proportional to time and expanding
+in scales, while the moments of the velocity difference saturate during a time depending on the distance.
+For the curved space, we analyze the long-time long-distance scaling limit, that lives in a degenerate
+conical geometry, and find that the energy-containing mode linearly growing with time is not constant
+in space. The shape of the velocity correlation function indicates that the energy builds up in vortical
+rings of arbitrary diameter but of width comparable to the curvature radius of the hyperbolic plane.
+The energy current across scales does not increase linearly with the scale, as in a flat space, but
+reaches a maximum around the curvature radius. That means that the energy flux through scales decreases
+at larger scales so that the energy is transferred in a non-cascade way, that is the inverse cascade
+spills over to all larger scales where the energy pumped into the system is cumulated in the rings.
+The time-saturated part of the spectral density of velocity fluctuations contains a finite energy
+per unit area, unlike in the flat space where the time-saturated spectrum behaves as k^{-5/3}. 

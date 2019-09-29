@@ -1,0 +1,17 @@
+We describe how to apply the recently developed pole expansion and selected inversion (PEXSI) technique
+to Kohn-Sham density function theory (DFT) electronic structure calculations that are based on
+atomic orbital discretization. We give analytic expressions for evaluating the charge density,
+the total energy, the Helmholtz free energy and the atomic forces (including both the Hellman-Feynman
+force and the Pulay force) without using the eigenvalues and eigenvectors of the Kohn-Sham Hamiltonian.
+We also show how to update the chemical potential without using Kohn-Sham eigenvalues. The advantage
+of using PEXSI is that it has a much lower computational complexity than that associated with the
+matrix diagonalization procedure. We demonstrate the performance gain by comparing the timing
+of PEXSI with that of diagonalization on insulating and metallic nanotubes. For these quasi-1D
+systems, the complexity of PEXSI is linear with respect to the number of atoms. This linear scaling
+can be observed in our computational experiments when the number of atoms in a nanotube is larger
+than a few hundreds. Both the wall clock time and the memory requirement of PEXSI is modest. This makes
+it even possible to perform Kohn-Sham DFT calculations for 10,000-atom nanotubes with a sequential
+implementation of the selected inversion algorithm. We also perform an accurate geometry optimization
+calculation on a truncated (8,0) boron-nitride nanotube system containing 1024 atoms. Numerical
+results indicate that the use of PEXSI does not lead to loss of accuracy required in a practical DFT
+calculation. 

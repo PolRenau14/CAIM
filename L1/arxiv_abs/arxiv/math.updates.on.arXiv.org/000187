@@ -1,0 +1,16 @@
+Following an original idea of F. Guerra, in this notes we analyze the Sherrington-Kirkpatrick model
+from different perspectives, all sharing the underlying approach which consists in linking the
+resolution of the statistical mechanics of the model (e.g. solving for the free energy) to well-known
+partial differential equation (PDE) problems (in suitable spaces). The plan is then to solve the
+related PDE using techniques involved in their native field and lastly bringing back the solution
+in the proper statistical mechanics framework. Within this strand, after a streamlined test-case
+on the Curie-Weiss model to highlight the methods more than the physics behind, we solve the SK both
+at the replica symmetric and at the 1-RSB level, obtaining the correct expression for the free energy
+via an analogy to a Fourier equation and for the self-consistencies with an analogy to a Burger equation,
+whose shock wave develops exactly at critical noise level (triggering the phase transition). Our
+approach, beyond acting as a new alternative method (with respect to the standard routes) for tackling
+the complexity of spin glasses, links symmetries in PDE theory with constraints in statistical
+mechanics and, as a novel result from the theoretical physics perspective, we obtain a new class
+of polynomial identities (namely of Aizenman-Contucci type but merged within the Guerra's broken
+replica measures), whose interest lies in understanding, via the recent Panchenko breakthroughs,
+how to force the overlap organization to the ultrametric tree predicted by Parisi. 

@@ -1,0 +1,16 @@
+We ask which topological phases can and cannot be realized by exactly soluble string-net models.
+We answer this question for the simplest class of topological phases, namely those with abelian
+braiding statistics. Specifically, we find that an abelian topological phase can be realized by
+a string-net model if and only if (i) it has a vanishing thermal Hall conductance and (ii) it has at
+least one Lagrangian subgroup --- a subset of quasiparticles with particular topological properties.
+Equivalently, we find that an abelian topological phase is realizable if and only if it supports
+a gapped edge. We conjecture that the latter criterion generalizes to the non-abelian case. We establish
+these results by systematically constructing all possible abelian string-net models and analyzing
+the quasiparticle braiding statistics in each model. We show that the low energy effective field
+theories for these models are multicomponent U(1) Chern-Simons theories, and we derive the K-matrix
+description of each model. An additional feature of this work is that the models we construct are
+more general than the original string-net models, due to several new ingredients. First, we introduce
+two new objects $\gamma, \alpha$ into the construction which are related to $\mathbb{Z}_2$ and
+$\mathbb{Z}_3$ Frobenius-Schur indicators. Second, we do not assume parity invariance. As a result,
+we can realize topological phases that were not accessible to the original construction, including
+phases that break time-reversal and parity symmetry. 

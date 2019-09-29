@@ -1,0 +1,16 @@
+We explore with exact diagonalization the propagation of a single hole in four magnetic phases of
+the t-J-like Kitaev-Heisenberg model on a honeycomb lattice: the Neel antiferromagnetic, stripe,
+zigzag and Kitaev spin-liquid phase. We find coherent propagation of spin-polaron quasiparticles
+in the antiferromagnetic phase by a similar mechanism as in the $t$-$J$ model for high-$T_c$ cuprates.
+In the stripe and zigzag phases clear quasiparticles features appear in spectral functions of those
+propagators where holes are created and annihilated on one sublattice, while they remain largely
+{\it hidden} in those spectral functions that correspond to photoemission experiments. As the
+most surprising result, we find a totally incoherent spectral weight distribution for the spectral
+function of a hole moving in the Kitaev spin-liquid phase in the strong coupling regime relevant
+for iridates. At intermediate coupling the finite systems calculation reveals a well defined quasiparticle
+at the $\Gamma$ point, however, we find that the gapless spin excitations wipe out quasiparticles
+at finite momenta. Also for this more subtle case we conclude that in the thermodynamic limit the
+lightly doped Kitaev liquid phase does not support quasiparticle states in the neighborhood of
+$\Gamma$, and therefore yields a {\it non-Fermi liquid}, contrary to earlier suggestions based
+on slave-boson studies. These observations are supported by the presented study of the dynamic
+spin-structure factor for the Kitaev spin liquid regime. 

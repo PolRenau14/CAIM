@@ -1,0 +1,17 @@
+Cognition is the process of knowing. As carried out by a dynamical system, it is the process by which
+the system absorbs information into its state. A complex network of agents cognizes knowledge about
+its environment, internal dynamics and initial state by forming emergent, macro-level patterns.
+Such patterns require each agent to find its place while partially aware of the whole pattern. Such
+partial awareness can be achieved by separating the system dynamics into two parts by timescale:
+the propagation dynamics and the pattern dynamics. The fast propagation dynamics describe the
+spread of signals across the network. If they converge to a fixed point for any quasi-static state
+of the slow pattern dynamics, that fixed point represents an aggregate of macro-level information.
+On longer timescales, agents coordinate via positive feedback to form patterns, which are defined
+using closed walks in the graph of agents. Patterns can be coherent, in that every part of the pattern
+depends on every other part for context. Coherent patterns are acausal, in that (a) they cannot be
+predicted and (b) no part of the stored knowledge can be mapped to any part of the pattern, or vice versa.
+A cognitive network's knowledge is encoded or embodied by the selection of patterns which emerge.
+The theory of cognition summarized here can model autocatalytic reaction-diffusion systems,
+artificial neural networks, market economies and ant colony optimization, among many other real
+and virtual systems. This theory suggests a new understanding of complexity as a lattice of contexts
+rather than a single measure. 

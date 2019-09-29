@@ -1,0 +1,16 @@
+A simple graph $G$ is an {\it 2-tree} if $G=K_3$, or $G$ has a vertex $v$ of degree 2, whose neighbors
+are adjacent, and $G-v$ is an 2-tree. Clearly, if $G$ is an 2-tree on $n$ vertices, then $|E(G)|=2n-3$.
+A non-increasing sequence $\pi=(d_1,\ldots,d_n)$ of nonnegative integers is a {\it graphic sequence}
+if it is realizable by a simple graph $G$ on $n$ vertices. Yin and Li (Acta Mathematica Sinica, English
+Series, 25(2009)795--802) proved that if $k\ge 2$, $n\ge \frac{9}{2}k^2+\frac{19}{2}k$ and
+$\pi=(d_1,\ldots,d_n)$ is a graphic sequence with $\sum\limits_{i=1}^n d_i>(k-2)n$, then $\pi$
+has a realization containing every 1-tree (the usual tree) on $k$ vertices. Moreover, the lower
+bound $(k-2)n$ is the best possible. This is a variation of a conjecture due to Erd\H{o}s and S\'{o}s.
+In this paper, we investigate an analogue problem for $2$-trees and prove that if $k\ge 3$ is an integer
+with $k\equiv i(\mbox{mod }3)$, $n\geq20\lfloor\frac{k}{3}\rfloor^2+31\lfloor\frac{k}{3}\rfloor+12$
+and $\pi=(d_1,\ldots,d_n)$ is a graphic sequence with $\sum\limits_{i=1}^n d_i>\max\{(k-1)(n-1),2\lfloor\frac{2k}{3}\rfloor
+n-2n-\lfloor\frac{2k}{3}\rfloor^2+\lfloor\frac{2k}{3}\rfloor+1-(-1)^i\}$, then $\pi$
+has a realization containing every 2-tree on $k$ vertices. Moreover, the lower bound $\max\{(k-1)(n-1),2\lfloor\frac{2k}{3}\rfloor
+n-2n-\lfloor\frac{2k}{3}\rfloor^2+\lfloor\frac{2k}{3}\rfloor+1-(-1)^i\}$ is the best
+possible. This result implies a conjecture due to Zeng and Yin (Discrete Math. Theor. Comput. Sci.,
+17(3)(2016), 315--326). 

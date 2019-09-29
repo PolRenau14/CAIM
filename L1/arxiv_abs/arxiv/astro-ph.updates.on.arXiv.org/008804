@@ -1,0 +1,17 @@
+The Greenland Telescope project has recently participated in an experiment to image the supermassive
+black hole shadow at the center of M87 using Very Long Baseline Interferometry technique in April
+of 2018. The antenna consists of the 12-m ALMA North American prototype antenna that was modified
+to support two auxiliary side containers and to withstand an extremely cold environment. The telescope
+is currently at Thule Air Base in Greenland with the long-term goal to move the telescope over the
+Greenland ice sheet to Summit Station. The GLT currently has a single cryostat which houses three
+dual polarization receivers that cover 84-96 GHz, 213-243 GHz and 271-377 GHz bands. A hydrogen
+maser frequency source in conjunction with high frequency synthesizers are used to generate the
+local oscillator references for the receivers. The intermediate frequency outputs of each receiver
+cover 4-8 GHz and are heterodyned to baseband for digitization within a set of ROACH-2 units then
+formatted for recording onto Mark-6 data recorders. A separate set of ROACH-2 units operating in
+parallel provides the function of auto-correlation for real-time spectral analysis. Due to the
+stringent instrumental stability requirements for interferometry a diagnostic test system was
+incorporated into the design. Tying all of the above equipment together is the fiber optic system
+designed to operate in a low temperature environment and scalable to accommodate a larger distance
+between the control module and telescope for Summit Station. A report on the progress of the above
+electronics instrumentation system will be provided. 

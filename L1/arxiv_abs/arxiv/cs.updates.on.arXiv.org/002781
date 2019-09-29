@@ -1,0 +1,16 @@
+We consider continuous-time, finite-horizon, optimal quadratic control of semi-Markov jump
+linear systems (S-MJLS), and develop principled approximations through Markov-like representations
+for the holding-time distributions. We adopt a phase-type approximation for holding times, which
+is known to be consistent, and translates a S-MJLS into a specific MJLS with partially observable
+modes (MJLSPOM), where the modes in a cluster have the same dynamic, the same cost weighting matrices
+and the same control policy. For a general MJLSPOM, we give necessary and sufficient conditions
+for optimal (switched) linear controllers. When specialized to our particular MJLSPOM, we additionally
+establish the existence of optimal linear controller, as well as its optimality within the class
+of general controllers satisfying standard smoothness conditions. The known equivalence between
+phase-type distributions and positive linear systems allows to leverage existing modeling tools,
+but possibly with large computational costs. Motivated by this, we propose matrix exponential
+approximation of holding times, resulting in pseudo-MJLSPOM representation, i.e., where the
+transition rates could be negative. Such a representation is of relatively low order, and maintains
+the same optimality conditions as for the MJLSPOM representation, but could violate non-negativity
+of holding-time density functions. A two-step procedure consisting of a local pulling-up modification
+and a filtering technique is constructed to enforce non-negativity. 

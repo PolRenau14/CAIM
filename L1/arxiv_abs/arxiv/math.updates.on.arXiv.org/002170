@@ -1,0 +1,16 @@
+Consider the problem of choosing a set of actions to optimize an objective function that is a real-valued
+polymatroid function subject to matroid constraints. The greedy strategy provides an approximate
+solution to the optimization problem, and it is known to satisfy some performance bounds in terms
+of the total curvature under matroid constraints. The total curvature depends on the value of objective
+function on sets outside the constraint matroid. If we are given a function defined only on the matroid,
+the problem still makes sense, but the existing bounds involving the total curvature do not apply.
+This is puzzling: If the optimization problem is perfectly well defined, why should the bounds no
+longer apply? This motivates an alternative formulation of such bounds. To this end, we provide
+necessary and sufficient conditions for the existence of an extension of a polymatroid function
+defined on the matroid to a polymatroid function defined on the whole power set. Our results give
+rise to bounds for systems satisfying the necessary and sufficient conditions, which apply to problems
+where the objective function is defined only on the matroid. When the objective function is defined
+on the entire power set, the bounds we derive are in general improved over the previous ones. We also
+define a new curvature involving only sets in the matroid and provide necessary and sufficient conditions
+for the existence of bounds in terms of the curvature. Moreover, we prove that the bounds in terms
+of the new curvature definition are improved over the previous ones..... 

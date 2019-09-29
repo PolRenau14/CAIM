@@ -1,0 +1,16 @@
+For a number of crystals the existence of spatially localized nonlinear vibrational modes, called
+discrete breathers (DBs), has been demonstrated using molecular dynamics and in a few cases the
+first-principle simulations. High-resolution imaging of DBs is a challenging task due to their
+relatively short lifetime ranging typically from 10 to 10$^3$ atomic oscillation periods (1 to
+100 ps). Another way to prove that DBs exist consists in evaluation of their effect on macroscopic
+properties of crystals. In this paper, we study the effect of DBs on macroscopic properties of the
+Fermi-Pasta-Ulam chain with symmetric and asymmetric potentials. The specific heat, thermal
+expansion (stress), and Young's modulus are monitored during the development of modulational
+instability of the zone boundary mode. The instability results in the formation of chaotic DBs followed
+by the transition to thermal equilibrium when DBs disappear due to energy radiation in the form of
+small-amplitude phonons. Time evolution of the macroscopic properties during this transition
+is monitored. It is found that DBs reduce the specific heat for all the considered chain parameters.
+They increase the thermal expansion when the potential is asymmetric and, as expected, thermal
+expansion is not observed in the case of symmetric potential. The Young's modulus in the presence
+of DBs is smaller than in thermal equilibrium for the symmetric potential and for the potential with
+a small asymmetry, but it is larger than in thermal equilibrium for the potential with greater asymmetry.

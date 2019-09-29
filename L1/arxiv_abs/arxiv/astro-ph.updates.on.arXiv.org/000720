@@ -1,0 +1,16 @@
+The recent measurement of the gravitational redshifts of galaxies in galaxy clusters by Wojtak
+et al. has opened a new observational window on dark matter and modified gravity. By stacking clusters
+this determination effectively used the line of sight distortion of the cross-correlation function
+of massive galaxies and lower mass galaxies to estimate the gravitational redshift profile of clusters
+out to 4 Mpc/h. Here we use a halo model of clustering to predict the distortion due to gravitational
+redshifts of the cross-correlation function on scales from 1 - 100 Mpc/h. We compare our predictions
+to simulations and use the simulations to make mock catalogues relevant to current and future galaxy
+redshift surveys. Without formulating an optimal estimator, we find that the full BOSS survey should
+be able to detect gravitational redshifts from large-scale structure at the ~4 sigma level. Upcoming
+redshift surveys will greatly increase the number of galaxies useable in such studies and the BigBOSS
+and Euclid experiments should be capable of measurements with precision at the few percent level.
+As has been recently pointed out by McDonald, Kaiser and Zhao et al, other interesting effects including
+relativistic beaming and transverse Doppler shift can add additional asymmetric distortions
+to the correlation function. While these contributions are subdominant to the gravitational redshift
+on large scales, they represent additional opportunities to probe gravitational physics and indicate
+that many qualitatively new measurements should soon be possible using large redshift surveys.

@@ -1,0 +1,16 @@
+We have constructed the first all-sky map of the thermal Sunyaev-Zeldovich (tSZ) effect by applying
+specifically tailored component separation algorithms to the 100 to 857 GHz frequency channel
+maps from the Planck survey. These maps show an obvious galaxy cluster tSZ signal that is well matched
+with blindly detected clusters in the Planck SZ catalogue. To characterize the signal in the tSZ
+map we have computed its angular power spectrum. At large angular scales ($\ell < 60$), the major
+foreground contaminant is the diffuse thermal dust emission. At small angular scales ($\ell >
+500$) the clustered Cosmic Infrared Background (CIB) and residual point sources are the major contaminants.
+These foregrounds are carefully modelled and subtracted. We measure the tSZ power spectrum in angular
+scales, $0.17^{\circ} \lesssim \theta \lesssim 3.0^{\circ}$, that were previously unexplored.
+The measured tSZ power spectrum is consistent with that expected from the Planck catalogue of SZ
+sources, with additional clear evidence of signal from unresolved clusters and, potentially,
+diffuse warm baryons. We use the tSZ power spectrum to obtain the following cosmological constraints:
+$\sigma_8(\Omega_{\mathrm{m}}/0.28)^{3.2/8.1}=0.784 \pm 0.016 (68% C.L.). Marginalized
+band-powers of the Planck tSZ power spectrum and the best-fit model are given. The non-Gaussianity
+of the Compton parameter map is further characterized by computing its 1D probability distribution
+function and its bispectrum. These are used to place additional independent constraints on $\sigma_{8}$.

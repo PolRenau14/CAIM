@@ -1,0 +1,16 @@
+The mechanical, thermal and vibrational properties of defective crystals are important in many
+different contexts, from metallurgy and solid-state physics to, more recently, soft matter and
+colloidal physics. Here we study two different models of disordered fcc crystal lattices, with
+randomly-removed bonds and with vacancies, respectively, within the framework of non-affine
+lattice dynamics. We find that both systems feature the same scaling of the shear modulus with the
+newly defined inversion-symmetry breaking (ISB) parameter, which shows that local inversion-symmetry
+breaking around defects is the universal root source of the non-affine softening of the shear modulus.
+This finding allows us to derive analytical relations for the non-affine (zero-frequency) shear
+modulus as a function of vacancy concentration in excellent agreement with numerical simulations.
+Nevertheless, due to the different microstructural disorder, the spatial fluctuations of the
+local ISB parameter are different in the vacancy and bond-depleted case. The vacancy fcc exhibits
+comparatively a more heterogenous microstructural disorder (due to the broader distribution
+of coordination number $Z$), which is reflected in a different scaling relation between boson peak
+frequency in the DOS and the average $\bar{Z}$. These differences are less important at low vacancy
+concentrations, where the numerical DOS of the vacancy fcc can be well described theoretically
+by coherent-potential approximation, presented here for the bond-depleted fcc lattice in 3d.

@@ -1,0 +1,17 @@
+Combinatorial testing has been suggested as an effective method of creating test cases at a lower
+cost. However, industrially applicable tools for modeling and combinatorial test generation
+are still scarce. As a direct effect, combinatorial testing has only seen a limited uptake in industry
+that calls into question its practical usefulness. This lack of evidence is especially troublesome
+if we consider the use of combinatorial test generation for industrial safety-critical control
+software, such as are found in trains, airplanes, and power plants. To study the industrial application
+of combinatorial testing, we evaluated ACTS, a popular tool for combinatorial modeling and test
+generation, in terms of applicability and test efficiency on industrial-sized IEC 61131-3 industrial
+control software running on Programmable Logic Controllers (PLC). We assessed ACTS in terms of
+its direct applicability in combinatorial modeling of IEC 61131-3 industrial software and the
+efficiency of ACTS in terms of generation time and test suite size. We used 17 industrial control
+programs provided by Bombardier Transportation Sweden AB and used in a train control management
+system. Our results show that not all combinations of algorithms and interaction strengths could
+generate a test suite within a realistic cut-off time. The results of the modeling process and the
+efficiency evaluation of ACTS are useful for practitioners considering to use combinatorial testing
+for industrial control software as well as for researchers trying to improve the use of such combinatorial
+testing techniques. 

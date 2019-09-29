@@ -1,0 +1,17 @@
+In the school bus scheduling problem, the main contributing factor to the cost is the number of buses
+needed for the operations. However, in the case of subcontracting the transportation of pupils,
+unbalanced tours can increase the costs significantly as the lengths of some tours can exceed the
+daily fixed driving goal and will result in over-hour charges. This paper proposes a Mixed Integer
+Programming (MIP) model and a matching-based heuristic algorithm to solve the balanced school
+bus scheduling problem in a multi-school setting. The heuristic is guaranteed to find the minimum
+number of buses. The effectiveness of the heuristic algorithm is tested by comparing its solutions
+with the solutions obtained from the MIP whenever the MIP could find a good solution. For larger cases
+where the MIP cannot find a good solution, we illustrate the performance of the heuristic by showing
+how it affects the durations of the tours. To illustrate the performance of the MIP and heuristic,
+we examine 12 different problems with different numbers of trips which are all based on two real-world
+problems. A California case study with 54 trips and the Howard County Public School System (HCPSS)
+with 994 trips. The numerical results of testing our approach indicate that the proposed algorithm
+can find reasonable solutions in a significantly shorter time. The balanced solutions of our algorithm
+can save up to 16% of school bus operation costs compared to the best solution found from the MIP model
+after 40 hours. The balancing stage of the heuristic decreases the Standard Deviation of the tour
+durations by up to 47%. 

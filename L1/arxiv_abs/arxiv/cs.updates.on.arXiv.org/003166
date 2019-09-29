@@ -1,0 +1,16 @@
+Multi-port memory controllers (MPMCs) have become increasingly important in many modern applications
+due to the tremendous growth in bandwidth requirement. Many approaches so far have focused on improving
+either the memory access latency or the bandwidth utilization for specific applications. Moreover,
+the application systems are likely to require certain adjustments to connect with an MPMC, since
+the MPMC interface is limited to a single-clock and single data-width domain. In this paper, we propose
+efficient techniques to improve the flexibility, latency, and bandwidth of an MPMC. Firstly, MPMC
+interfaces employ a pair of dual-clock dual-port FIFOs at each port, so any multi-clock multi-data-width
+application system can connect to an MPMC without requiring extra resources. Secondly, memory
+access latency is significantly reduced because parallel FIFOs temporarily keep the data transfer
+between the application system and memory. Lastly, a proposed arbitration scheme, namely window-based
+first-come-first-serve, considerably enhances the bandwidth utilization. Depending on the
+applications, MPMC can be properly configured by updating several internal configuration registers.
+The experimental results in an Altera Cyclone FPGA prove that MPMC is fully operational at 150 MHz
+and supports up to 32 concurrent connections at various clocks and data widths. More significantly,
+achieved bandwidth utilization is approximately 93.2% of the theoretical bandwidth, and the access
+latency is minimized as compared to previous designs. 

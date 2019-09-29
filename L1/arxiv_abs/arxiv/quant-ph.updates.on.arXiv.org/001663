@@ -1,0 +1,16 @@
+Qubit measurements are central to quantum information processing. In the field of superconducting
+qubits, standard readout techniques are not only limited by the signal-to-noise ratio, but also
+by state relaxation during the measurement. In this work, we demonstrate that the limitation due
+to relaxation can be suppressed by using the many-level Hilbert space of superconducting circuits:
+in a multilevel encoding, the measurement is only corrupted when multiple errors occur. Employing
+this technique, we show that we can directly resolve transmon gate errors at the level of one part
+in $10^3.$ Extending this idea, we apply the same principles to the measurement of a logical qubit
+encoded in a bosonic mode and detected with a transmon ancilla, implementing a proposal by Hann et
+al. [Phys. Rev. A \textbf{98} 022305 (2018)]. Qubit state assignments are made based on a sequence
+of repeated readouts, further reducing the overall infidelity. This approach is quite general
+and several encodings are studied; the codewords are more distinguishable when the distance between
+them is increased with respect to photon loss. The tradeoff between multiple readouts and state
+relaxation is explored and shown to be consistent with the photon-loss model. We report a logical
+assignment infidelity of $5.8\times 10^{-5}$ for a Fock-based encoding and $4.2\times 10^{-3}$
+for a QEC code (the $S=2,N=1$ binomial code). Our results will not only improve the fidelity of quantum
+information applications, but also enable more precise characterization of process or gate errors.

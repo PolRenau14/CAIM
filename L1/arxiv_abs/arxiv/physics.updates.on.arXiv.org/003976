@@ -1,0 +1,16 @@
+We study the stability of multi-layer radial flows in porous media within the Hele-Shaw model. We
+perform a linear stability analysis for radial flows consisting of an arbitrary number of fluid
+layers with interfaces separating fluids of constant viscosity and with positive viscosity jump
+at each interface in the direction of flow. Several different time-dependent injection strategies
+are analyzed including the maximal injection rate that maintains a stable flow. We find numerically
+that flows with more fluid layers can be stable with faster time-dependent injection rates than
+comparable flows with fewer fluid layers. In particular, the injection rate for a stable flow increases
+at a rate that is proportional to the number of interfaces to the two-thirds power for large times.
+Additionally, we show that in any multi-layer radial Hele-Shaw flow, if all of the interfaces are
+circular except for one perturbed interface then there exists a time-dependent injection rate
+such that the circular interfaces remain circular as they propagate and the disturbance on the perturbed
+interface decays. The motion of the interfaces within linear theory is also investigated numerically
+for the case of constant injection rates. It is found that: (i) A disturbance of one interface can
+be transferred to the other interface(s); (ii) The disturbances on the interfaces can develop either
+in phase or out of phase from any arbitrary initial disturbance; and (iii) The dynamics of the flow
+can change dramatically with the addition of more interfaces. 

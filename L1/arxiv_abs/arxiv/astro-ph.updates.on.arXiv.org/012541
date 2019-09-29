@@ -1,0 +1,16 @@
+We analyze the stellar initial mass functions (IMF) of a large sample of early type galaxies (ETGs)
+provided by MaNGA. The large number of IFU spectra of individual galaxies provide high signal-to-noise
+composite spectra that are essential for constraining IMF and to investigate possible radial gradients
+of the IMF within individual galaxies. The large sample of ETGs also make it possible to study how
+the IMF shape depends on various properties of galaxies. We adopt a novel approach to study IMF variations
+in ETGs, use Bayesian inferences based on full spectrum fitting. The Bayesian method provides a
+statistically rigorous way to explore potential degeneracy in spectrum fitting, and to distinguish
+different IMF models with Bayesian evidence. We find that the IMF slope depends systematically
+on galaxy velocity dispersion, in that galaxies of higher velocity dispersion prefer a more bottom-heavy
+IMF, but the dependence is almost entirely due to the change of metallicity, $Z$, with velocity dispersion.
+The IMF shape also depends on stellar age, $A$, but the dependence is completely degenerate with
+that on metallicity through a combination $AZ^{-1.42}$. Using independent age and metallicity
+estimates we find that the IMF variation is produced by metallicity instead of age. The IMF near the
+centers of massive ETGs appears more bottom-heavy than that in the outer parts, while a weak opposite
+trend is seen for low-mass ETGs. Uncertainties produced by star formation history, dust extinction,
+$\alpha$-element abundance enhancement and noise in the spectra are tested. 

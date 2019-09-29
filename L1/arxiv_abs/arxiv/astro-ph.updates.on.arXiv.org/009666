@@ -1,0 +1,16 @@
+We determine the properties of the binary star V106 in the old open cluster NGC6791. We identify the
+system to be a blue straggler cluster member by using a combination of ground-based and Kepler photometry
+and multi-epoch spectroscopy. The properties of the primary component are found to be $M_{\rm p}\sim1.67
+\rm M_{\odot}$, more massive than the cluster turn-off, with $R_{\rm p}\sim1.91 \rm R_{\odot}$
+and $T_{\rm eff}=7110\pm100$ K. The secondary component is highly oversized and overluminous
+for its low mass with $M_{\rm s}\sim0.182 \rm M_{\odot}$, $R_{\rm s}\sim0.864 \rm R_{\odot}$ and
+$T_{\rm eff}=6875\pm200$ K. We identify this secondary star as a bloated (proto) extremely low-mass
+helium white dwarf. These properties of V106 suggest that it represents a typical Algol-paradox
+system and that it evolved through a mass-transfer phase which provides insight into its past evolution.
+We present a detailed binary stellar evolution model for the formation of V106 using the MESA code
+and find that the mass-transfer phase only ceased about 40 Myr ago. Due to the short orbital period
+(P=1.4463 d) another mass-transfer phase is unavoidable once the current primary star evolves
+towards the red giant phase. We argue that V106 will evolve through a common-envelope phase within
+the next 100 Myr and merge to become a single over-massive giant. The high mass will make it appear
+young for its true age, which is revealed by the cluster properties. Therefore, V106 is potentially
+a prototype progenitor of old field giants masquerading as young. 

@@ -1,0 +1,16 @@
+We present a general framework for solving parameterized problems on weighted graphs. We use this
+framework to obtain efficient algorithms for such fundamental problems as {\sc Vertex Cover},
+{\sc 3-Hitting Set}, {\sc Edge Dominating Set} and {\sc $k$-Internal Out-Branching}, on weighted
+graphs. For each of these problems, given an instance of size $n$ and a weight parameter $W\geq 1$,
+we seek a solution of weight at most (or at least) $W$. The best known algorithms for these problems,
+on weighted graphs, admit running times of the form $c^W n^{O(1)}$, for some constant $c>1$.
+We improve these running times to $c^s n^{O(1)}$, where $s\leq W$ is the minimum size of a solution
+of weight at most (at least) $W$. Clearly, $s$ can be substantially smaller than $W$. In particular,
+the running times of our algorithms are (almost) the same as the best known $O^*$ running times for
+the unweighted variants. Thus, we show that * {\sc Weighted Vertex Cover} can be solved in $1.381^s
+n^{O(1)}$ time and $n^{O(1)}$ space. * {\sc Weighted 3-Hitting Set} can be solved in $2.168^s n^{O(1)}$
+time and $n^{O(1)}$ space. * {\sc Weighted Edge Dominating Set} is solvable in $2.315^s n^{O(1)}$
+time and $n^{O(1)}$ space. * {\sc Weighted Max Internal Out-Branching} is solvable in $6.855^s
+n^{O(1)}$ time and space. We further improve our results, by showing that {\sc Weighted Vertex Cover}
+and {\sc Weighted Edge Dominating Set} admit fast algorithms whose running times are of the form
+$c^t n^{O(1)}$, where $t \leq s$ is the minimum size of a solution for the unweighted version. 

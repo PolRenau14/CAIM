@@ -1,0 +1,16 @@
+Variational systems allow effective building of many custom variants by using features (configuration
+options) to mark the variable functionality. In many of the applications, their quality assurance
+and formal verification are of paramount importance. Family-based model checking allows simultaneous
+verification of all variants of a variational system in a single run by exploiting the commonalities
+between the variants. Yet, its computational cost still greatly depends on the number of variants
+(often huge). In this work, we show how to achieve efficient family-based model checking of CTL*
+temporal properties using variability abstractions and off-the-shelf (single-system) tools.
+We use variability abstractions for deriving abstract family-based model checking, where the
+variability model of a variational system is replaced with an abstract (smaller) version of it,
+called modal featured transition system, which preserves the satisfaction of both universal and
+existential temporal properties, as expressible in CTL*. Modal featured transition systems contain
+two kinds of transitions, termed may and must transitions, which are defined by the conservative
+(over-approximating) abstractions and their dual (under-approximating) abstractions, respectively.
+The variability abstractions can be combined with different partitionings of the set of variants
+to infer suitable divide-and-conquer verification plans for the variational system. We illustrate
+the practicality of this approach for several variational systems. 

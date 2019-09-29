@@ -1,0 +1,16 @@
+The Pulsar Arecibo L-Band Feed Array (PALFA) survey, the most sensitive blind search for radio pulsars
+yet conducted, is ongoing at the Arecibo Observatory in Puerto Rico. The vast majority of the 180
+pulsars discovered by PALFA have spin periods shorter than 2 seconds. Pulsar surveys may miss long-period
+radio pulsars due to the summing of a finite number of harmonic components in conventional Fourier
+analyses (typically $\sim$16), or due to the strong effect of red noise at low modulation frequencies.
+We address this reduction in sensitivity by using a time-domain search technique: the Fast-Folding
+Algorithm (FFA). We designed a program that implements a FFA-based search in the PALFA processing
+pipeline, and tested the efficiency of the algorithm by performing tests under both ideal, white
+noise conditions, as well as with real PALFA observational data. In the two scenarios, we show that
+the time-domain algorithm has the ability to outperform the FFT-based periodicity search implemented
+in the survey. We perform simulations to compare the previously reported PALFA sensitivity with
+that obtained using our new FFA implementation. These simulations show that for a pulsar having
+a pulse duty cycle of roughly 3%, the performance of our FFA pipeline exceeds that of our FFT pipeline
+for pulses with DM $\lesssim$ 40 pc cm$^{-3}$ and for periods as short as $\sim$500 ms, and that the
+survey sensitivity is improved by at least a factor of two for periods $\gtrsim$ 6 sec. Discoveries
+from the implementation of the algorithm in PALFA are also presented in this paper. 

@@ -1,0 +1,17 @@
+An analytical solution to the nonlinear differential equation describing the equation of motion
+of a particle moving in an unforced physical system with linear damping, governed by a cubic potential
+well, is presented in terms of the Jacobi elliptic functions. In the attractive region of the potential
+the system becomes an anharmonic damped oscillator, however with asymmetric displacement. An
+expression for the period of oscillation is derived, which for a nonlinear damped system is time
+dependent, and in particular it contains a quartic root of an exponentially decaying term in the
+denominator. Initially the period is longer as compared to that of a linear oscillator, however
+gradually it decreases to that of a linear damped oscillator. Transforming the undamped nonlinear
+differential equation into the differential equation describing orbital motion of planets, the
+perihelion advance of Mercury can be estimated to 42.98 arcseconds/century, close to present day
+observations of 43.1 arcseconds/century. Some familiarity with the Jacobi elliptic functions
+is required, in particular with respect to the differential behavior of these functions, however,
+they are standard functions of advanced mathematical computer algebra tools. The expression derived
+for the solution to the nonlinear physical system, and in particular the expression for the period
+of oscillation, is useful for an accurate evaluation of experiments in introductory and advanced
+physics labs, but also of interest for specialists working with nonlinear phenomena governed by
+the cubic potential well. 

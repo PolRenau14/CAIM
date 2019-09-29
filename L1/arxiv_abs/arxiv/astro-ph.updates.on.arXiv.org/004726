@@ -1,0 +1,17 @@
+We propose a mechanism of state transition in wind-fed black hole binaries (high-mass X-ray binaries)
+such as Cyg X-1 and LMC X-1. Modeling a line-driven stellar wind from the companion by two-dimensional
+hydrodynamical calculations, we investigate the processes of wind capture by and accretion onto
+the black hole. We assume that the wind acceleration is terminated at the He II ionization front because
+ions responsible for line-driven acceleration are ionized within the front, i.e. He III region.
+It is found that the mass accretion rate inferred from the luminosity is remarkably smaller than
+the capture rate. Considering the difference, we construct a model for the state transition based
+on the accretion flow being controlled by magneto-rotational instability. The outer flow is torus
+like, and plays an important role to trigger the transition. The model can explain why state transition
+does occur in Cyg X-1, while not in LMC X-1. Cyg X-1 exhibits a relatively low luminosity, and then
+the He II ionization front is located and can move between the companion and black hole, depending
+on its ionizing photon flux. On the other hand, LMC X-1 exhibits too high luminosity for the front
+to move considerably; the front is too close to the companion atmosphere. The model also predicts
+that each state of high-soft or low-hard would last fairly long because the luminosity depends weakly
+on the wind velocity. In the context of the model, the state transition is triggered by a fluctuation
+of the magnetic field when its amplitude becomes comparable to the field strength in the torus-like
+outer flow. 

@@ -1,0 +1,17 @@
+Load forecasting is an integral part of power system operations and planning. Due to the increasing
+penetration of rooftop PV, electric vehicles and demand response applications, forecasting the
+load of individual and a small group of households is becoming increasingly important. Forecasting
+the load accurately, however, is considerable more difficult when only a few households are included.
+A way to mitigate this challenge is to provide a set of scenarios instead of one point forecast, so
+an operator or utility can consider a range of behaviors. This paper proposes a novel scenario forecasting
+approach for residential load using flow-based conditional generative models. Compared to existing
+scenario forecasting methods, our approach can generate scenarios that are not only able to infer
+possible future realizations of residential load from the observed historical data but also realistic
+enough to cover a wide range of behaviors. Particularly, the flow-based models utilize a flow of
+reversible transformations to maximize the value of conditional density function of future load
+given the past observations. In order to better capture the complex temporal dependency of the forecasted
+future load on the condition, we extend the structure design for the reversible transformations
+in flow-based conditional generative models by strengthening the coupling between the output
+and the conditional input in the transformations. The simulation results show the flow-based designs
+outperform existing methods in scenario forecasting for residential load by both providing more
+accurate and more diverse scenarios. 

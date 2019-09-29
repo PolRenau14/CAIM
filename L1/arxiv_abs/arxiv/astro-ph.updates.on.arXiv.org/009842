@@ -1,0 +1,17 @@
+Anisotropy of gravitational wave (GW) emission results in a net momentum gained by the black hole
+(BH) merger product, leading to a recoil velocity up to $\sim10^3\text{ km s}^{-1}$, which may kick
+it out of a globular cluster (GC). We estimate GW kick retention fractions of merger products assuming
+different models for BH spin magnitude and orientation (MS0 - random, MS1 - spin as a function of mass
+and metalicity, MS2 - constant value of $0.5$). We check how they depend on BH-BH merger time and properties
+of the cluster. We analyze the implications of GW kick retention fractions on intermediate massive
+BH (IMBH) formation by repeated mergers in a GC. We also calculate final spin of the merger product,
+and investigate how it correlates with effective spin of the binary. We used data from MOCCA (MOnte
+Carlo Cluster simulAtor) GC simulations to get a realistic sample of BH-BH mergers, assigned each
+BH spin value according to a studied model, and calculated recoil velocity and final spin based on
+most recent theoretical formulas. We discovered that for physically motivated models, GW kick
+retention fractions are about $30\%$ and display small dependence on assumptions about spin, but
+are much more prone to cluster properties. In particular, we discovered a strong dependence of GW
+kick retention fractions on cluster density. We also show that GW kick retention fractions are high
+in final life stages of the cluster, but low at the beginning. Finally, we derive formulas connecting
+final spin with effective spin for primordial binaries, and with maximal effective spin for dynamical
+binaries. 

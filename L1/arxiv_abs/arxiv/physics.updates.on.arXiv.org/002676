@@ -1,0 +1,16 @@
+Air cavities, i.e. air layers developed behind cavitators, are seen as a promising drag reducing
+method in the maritime industry. Here we utilize the Taylor-Couette (TC) geometry, i.e. the flow
+between two concentric, independently rotating cylinders, to study the effect of air cavities
+in this closed setup, which is well-accessible for drag measurements and optical flow visualizations.
+We show that stable air cavities can be formed, and that the cavity size increases with Reynolds number
+and void fraction. The streamwise cavity length strongly depends on the axial position due to buoyancy
+forces acting on the air. Strong secondary flows, which are introduced by a counter-rotating outer
+cylinder, clearly decrease the stability of the cavities, as air is captured in the Taylor rolls
+rather than in the cavity. Surprisingly, we observed that local air injection is not necessary to
+sustain the air cavities; as long as air is present in the system it is found to be captured in the cavity.
+We show that the drag is decreased significantly as compared to the case without air, but with the
+geometric modifications imposed on the TC system by the cavitators. As the void fraction increases,
+the drag of the system is decreased. However, the cavitators itself significantly increase the
+drag due to their hydrodynamic resistance (pressure drag): In fact, a net drag increase is found
+when compared to the standard smooth-wall TC case. Therefore, one must first overcome the added
+drag created by the cavitators before one obtains a net drag reduction. 

@@ -1,0 +1,16 @@
+Planning a path for a nonholonomic robot is a challenging topic in motion planning and it becomes
+more difficult when the desired path contains narrow passages. This kind of scenario can arise,
+for instance, when quadcopters search a collapsed building after a natural disaster. Choosing
+the quadcopter as the target platform, this paper proposes the Kinodynamic Aggressive Trajectory
+(KAT) motion planning algorithm, which aims to compute aggressive trajectories for narrow passages
+under nonholonomic constraints. This type of maneuvers is necessary because the dynamics of quadcopters
+entail that some narrow passages can only be traversed at high speed. To find the best path, the KAT
+uses RRT to determine a holonomic path first and then adjusts it to satisfy the nonholonomic constraints.
+The innovations in this process are: 1) The states of the robot are divided into near-holonomic set
+and non-holonomic set, which makes the constraints local rather than global; 2) For each of the most
+confined waypoints in the path, KAT plans forward and backward simultaneously around the waypoint
+to find a feasible local trajectory traversing the narrow passage. Our approach thus transforms
+a globally-constrained planning problem into a problem with local constraints, and as a result,
+the computation becomes tractable. We evaluate KAT by applying it to a quadcopter flying through
+two inclined holes that require aggressive maneuvers in a simulated environment. The average computation
+time to successfully find a solution for passing two 50 degree inclined holes is around 32 seconds.

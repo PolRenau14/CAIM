@@ -1,0 +1,16 @@
+We consider the gapless modes along the vortex line of the fully gapped, momentum independent paired
+states of three-dimensional Dirac fermions. For this, we require the solution of fermion zero modes
+of the corresponding two-dimensional problem in the presence of a point vortex, in the plane perpendicular
+to the vortex line. Based on the spectral symmetry requirement for the existence of the zero mode,
+we identify the appropriate generalized Jackiw-Rossi Hamiltonians for different paired states.
+A four-dimensional generalized Jackiw-Rossi Hamiltonian possesses spectral symmetry with respect
+to an antiunitary operator, and gives rise to a single zero mode only for the {\em odd vorticity},
+which is formally described by a $Z_2$ index. In the presence of generic perturbations such as chemical
+potential, Dirac mass, and Zeeman couplings, the associated two-dimensional problem for the odd
+parity topological superconducting state maps onto {\em two} copies of generalized Jackiw-Rossi
+Hamiltonian, and consequently an odd vortex binds two Majorana fermions. In contrast, there are
+no zero energy states for the topologically trivial $s$-wave superconductor in the presence of
+any chiral symmetry breaking perturbation in the particle-hole channel, such as regular Dirac
+mass. We show that the number of one-dimensional dispersive modes along the vortex line is also determined
+by the index of the associated two-dimensional problem. For an axial superfluid state in the presence
+of various perturbations, we discuss the consequences of the $Z_2$ index on the anomaly equations.

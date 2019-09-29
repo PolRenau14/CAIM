@@ -1,0 +1,17 @@
+We present a machine learning (ML) approach for the prediction of galaxies' dark matter halo masses
+that achieves an improved performance over conventional methods. We train three ML algorithms
+(\texttt{XGBoost}, Random Forests, and neural network) to predict halo masses using a set of synthetic
+galaxy catalogues that are built by populating dark matter haloes in N-body simulations with galaxies,
+and that match both the clustering and the joint-distributions of properties of galaxies in the
+Sloan Digital Sky Survey (SDSS). We explore the correlation of different galaxy- and group-related
+properties with halo mass, and extract the set of nine features that contribute the most to the prediction
+of halo mass. We find that mass predictions from the ML algorithms are more accurate than those from
+halo abundance matching (\texttt{HAM}) or dynamical mass (\texttt{DYN}) estimates. Since the
+danger of this approach is that our training data might not accurately represent the real Universe,
+we explore the effect of testing the model on synthetic catalogues built with different assumptions
+than the ones used in the training phase. We test a variety of models with different ways of populating
+dark matter haloes, such as adding velocity bias for satellite galaxies. We determine that, though
+training and testing on different data can lead to systematic errors in predicted masses, the ML
+approach still yields substantially better masses than either \texttt{HAM}or \texttt{DYN}.
+Finally, we apply the trained model to a galaxy and group catalogue from the SDSS DR7 and present the
+resulting halo masses. 

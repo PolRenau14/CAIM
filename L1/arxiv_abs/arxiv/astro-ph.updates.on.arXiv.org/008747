@@ -1,0 +1,17 @@
+High-resolution observations of the solar chromosphere at millimeter wavelengths are now possible
+with the Atacama Large Millimeter Array (ALMA), promising to tackle many open problems in solar
+physics. Observations from other ground and space-based telescopes will greatly benefit from
+coordinated endeavors with ALMA, yet the diagnostic potential of combined optical, ultraviolet
+and mm observations has remained mostly unassessed. In this paper we investigate whether mm-wavelengths
+could aid current inversion schemes to retrieve a more accurate representation of the temperature
+structure of the solar atmosphere. We performed several non-LTE inversion experiments of the emergent
+spectra from a snapshot of 3D radiation-MHD simulation. We included common line diagnostics such
+as CaII H, K, 8542 \AA$\,$ and MgII h and k, taking into account partial frequency redistribution
+effects, along with the continuum around 1.2 mm and 3 mm. We found that including the mm-continuum
+in inversions allows a more accurate inference of temperature as function of optical depth. The
+addition of ALMA bands to other diagnostics should improve the accuracy of the inferred chromospheric
+temperatures between $\log \tau\sim[-6,-4.5]$ where the CaII and MgII lines are weakly coupled
+to the local conditions. However, we found that simultaneous multi-atom, non-LTE inversions of
+optical and UV lines present equally strong constraints in the lower chromosphere and thus are not
+greatly improved by the 1.2 mm band. Nonetheless, the 3 mm band is still needed to better constrain
+the mid-upper chromosphere. 

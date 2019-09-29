@@ -1,0 +1,16 @@
+The sum of ratios problem has a variety of important applications in economics and management science,
+but it is difficult to globally solve this problem. In this paper, we consider the minimization problem
+of a sum of a number of nondifferentiable quasi-convex component functions over a closed and convex
+set, which includes the sum of ratios problem as a special case. The sum of quasi-convex component
+functions is not necessarily to be quasi-convex, and so, this study goes beyond quasi-convex optimization.
+Exploiting the structure of the sum-minimization problem, we propose a new incremental subgradient
+method for this problem and investigate its convergence properties to a global optimal solution
+when using the constant, diminishing or dynamic stepsize rules and under a homogeneous assumption
+and the H\"{o}lder condition of order $p$. To economize on the computation cost of subgradients
+of a large number of component functions, we further propose a randomized incremental subgradient
+method, in which only one component function is randomly selected to construct the subgradient
+direction at each iteration. The convergence properties are obtained in terms of function values
+and distances of iterates from the optimal solution set with probability 1. The proposed incremental
+subgradient methods are applied to solve the sum of ratios problem, as well as the multiple Cobb-Douglas
+productions efficiency problem, and the numerical results show that the proposed methods are efficient
+for solving the large sum of ratios problem. 

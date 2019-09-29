@@ -1,0 +1,16 @@
+We investigate the potential of the Atacama Large Millimeter/submillimeter Array (ALMA) and the
+Next Generation Very Large Array (ngVLA) to observe substructures in nearby young disks which are
+due to the gravitational interaction between disk material and planets close to the central star.
+We simulate the gas and dust dynamics in the disk using the LA-COMPASS hydrodynamical code. We generate
+synthetic images for the dust continuum emission at sub-millimeter to centimeter wavelengths
+and simulate ALMA and ngVLA observations. We explore the parameter space of some of the main disk
+and planet properties that would produce substructures that can be visible with ALMA and the ngVLA.
+We find that ngVLA observations with an angular resolution of 5 milliarcsec at 3 mm can reveal and
+characterize gaps and azimuthal asymmetries in disks hosting planets with masses down to $\approx~5
+M_{\oplus}$ $\approx 1 - 5$ au from a Solar-like star in the closest star forming regions, whereas
+ALMA can detect gaps down to planetary masses of $\approx 20~M_{\oplus}$ at 5 au. Gaps opened by super-Earth
+planets with masses $\approx 5 - 10 M_{\oplus}$ are detectable by the ngVLA in the case of disks with
+low viscosity ($\alpha \sim 10^{-5}$) and low pressure scale height ($h \approx 0.025$ au at 5 au).
+The ngVLA can measure the proper motion of azimuthal asymmetric structures associated with the
+disk-planet interaction, as well as possible circumplanetary disks on timescales as short as one
+to a few weeks for planets at $1 - 5$ au from the star. 

@@ -1,0 +1,17 @@
+The majority of industrial-strength object-oriented (OO) software is written using nominally-typed
+OO programming languages. Extant domain-theoretic models of OOP developed to analyze OO type systems
+miss, however, a crucial feature of these mainstream OO languages: nominality. This paper presents
+the construction of NOOP as the first domain-theoretic model of OOP that includes full class/type
+names information found in nominally-typed OOP. Inclusion of nominal information in objects of
+NOOP and asserting that type inheritance in statically-typed OO programming languages is an inherently
+nominal notion allow readily proving that type inheritance and subtyping are completely identified
+in these languages. This conclusion is in full agreement with intuitions of developers and language
+designers of these OO languages, and contrary to the belief that "inheritance is not subtyping,"
+which came from assuming non-nominal (a.k.a., structural) models of OOP. To motivate the construction
+of NOOP, this paper briefly presents the benefits of nominal-typing to mainstream OO developers
+and OO language designers, as compared to structural-typing. After presenting NOOP, the paper
+further briefly compares NOOP to the most widely known domain-theoretic models of OOP. Leveraging
+the development of NOOP, the comparisons presented in this paper provide clear, brief and precise
+technical and mathematical accounts for the relation between nominal and structural OO type systems.
+NOOP, thus, provides a firmer semantic foundation for analyzing and progressing nominally-typed
+OO programming languages. 

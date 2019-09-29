@@ -1,0 +1,17 @@
+We investigate a famous decision problem in automata theory: separation. Given a class of language
+C, the separation problem for C takes as input two regular languages and asks whether there exists
+a third one which belongs to C, includes the first one and is disjoint from the second. Typically,
+obtaining an algorithm for separation yields a deep understanding of the investigated class C.
+Therefore, a lot of effort has been devoted to finding algorithms for the most prominent classes.
+Here, we are interested in classes within concatenation hierarchies. These hierarchies share
+a generic construction process: one starts from an initial class called the basis and builds new
+levels by applying generic operations. The most famous one is the dot-depth hierarchy of Brzozowski
+and Cohen. It classifies the languages definable in first-order logic. By a theorem of Thomas, it
+corresponds exactly to the quantifier alternation hierarchy of first-order logic: each level
+in the dot-depth corresponds to the languages that can be defined with a prescribed number of quantifier
+blocks. One of the most famous open problems in automata theory is to obtain separation algorithms
+for all levels in this hierarchy. Our main theorem is generic: separation is decidable for the level
+3/2 of any concatenation hierarchy whose basis is finite. Moreover, we are able to push this result
+to the level 5/2 for the dot-depth. In logical terms, this means that separation is decidable for
+$\Sigma_3$: first-order sentences having at most three quantifier blocks starting with an existential
+one. 

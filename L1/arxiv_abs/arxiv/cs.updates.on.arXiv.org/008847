@@ -1,0 +1,17 @@
+Among formal methods, the deductive verification approach allows establishing the strongest
+possible formal guarantees on critical software. The downside is the cost in terms of human effort
+required to design adequate formal specifications and to successfully discharge the required
+proof obligations. To popularize deductive verification in an industrial software development
+environment, it is essential to provide means to progressively transition from simple and automated
+approaches to deductive verification. The SPARK environment, for development of critical software
+written in Ada, goes towards this goal by providing automated tools for formally proving that some
+code fulfills the requirements expressed in Ada contracts. In a program verifier that makes use
+of automatic provers to discharge the proof obligations, a need for some additional user interaction
+with proof tasks shows up: either to help analyzing the reason of a proof failure or, ultimately,
+to discharge the verification conditions that are out-of-reach of state-of-the-art automatic
+provers. Adding interactive proof features in SPARK appears to be complicated by the fact that the
+proof toolchain makes use of the independent, intermediate verification tool Why3, which is generic
+enough to accept multiple front-ends for different input languages. This paper reports on our approach
+to extend Why3 with interactive proof features and also with a generic client-server infrastructure
+allowing integration of proof interaction into an external, front-end graphical user interface
+such as the one of SPARK. 

@@ -1,0 +1,16 @@
+To reduce transmit power, increase throughput, and improve communication range, radio systems---such
+as IoT sensor networks, Wi-Fi and cellular networks---benefit from the ability to direct their
+signals, to ensure that more of the transmitted power reaches the receiver. Many modern systems
+beamform with antenna arrays for this purpose. However, a radio's ability to direct its signal is
+fundamentally limited by its size. Unfortunately practical challenges limit the size of modern
+radios, and consequently, their ability to beamform. In many settings, radios on devices must be
+small and inexpensive; today, these settings are unable to benefit from high-precision beamforming.
+To address this problem, we introduce RFocus, which moves beamforming functions from the radio
+endpoints to the environment. RFocus includes a two-dimensional surface with a rectangular array
+of simple elements, each of which functions as an RF switch. Each element either lets the signal through
+or reflects it. The surface does not emit any power of its own. The state of the elements is set by a software
+controller to maximize the signal strength at a receiver, with a novel optimization algorithm that
+uses signal strength measurements from the receiver. The RFocus surface can be manufactured as
+an inexpensive thin wallpaper, requiring no wiring. This solution requires only a method to communicate
+received signal strengths periodically to the RFocus controller. Our prototype implementation
+improves the median signal strength by 10.5x, and the median channel capacity by 2.1x. 

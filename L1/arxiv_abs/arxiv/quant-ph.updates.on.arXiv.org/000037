@@ -1,0 +1,16 @@
+{\em Interactive proof systems} (IP) are very powerful-languages they can accept form exactly
+PSPACE. They represent also one of the very fundamental concepts of theoretical computing and a
+model of computation by interactions. One of the key players in IP are verifiers. In the original
+model of IP whose power is that of PSPACE, the only restriction on verifiers is that they work in randomized
+polynomial time. Because of such key importance of IP, it is of large interest to find out how powerful
+will IP be when verifiers are more restricted. So far this was explored for the case that verifiers
+are {\em two-way probabilistic finite automata} (Dwork and Stockmayer, 1990) and {\em one-way
+quantum finite automata} as well as {\em two-way quantum finite automata} (Nishimura and Yamakami,
+2009). In this paper we explore the power of special type of IP in which verifiers uses {\em public
+randomization}, namely so called {\em Arthur-Merlin proof systems} (AM), for the case that verifiers
+are {\em two-way finite automata with quantum and classical states} (2QCFA) introduced by Ambainis
+and Watrous in 2002 and the communications are classical. It is of interest to consider AM with such
+"semi-quantum" verifiers because 2QCFA use only limited quantum resources. Our main result is
+that such Quantum Arthur-Merlin proof systems (QAM(2QCFA) are asymptotically more powerful than
+in the case verifiers are two-way probabilistic finite automata (AM(2PFA)) and that there is an
+NP-complete language, modeling the 0-1 knapsack problem, that can be recognized by QAM(2QCFA).

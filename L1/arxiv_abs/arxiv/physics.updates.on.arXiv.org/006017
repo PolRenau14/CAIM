@@ -1,0 +1,17 @@
+This study aims to investigate the possible sources of non-axisymmetric disturbances and their
+propagation mechanism in Taylor Couette flow (TCF) for wide gap problems using direct numerical
+simulation with a radius ratio of 0.5 and Reynolds number (Re) ranging from 60 to 650. Here, attention
+is focused on the viscous layer (VL) thickness in near-wall regions and its spatial distribution
+along the axial direction to gain an insight into the origin and propagation of non-axisymmetric
+disturbances. The results show that an axisymmetric Taylor-vortex flow occurs when Re is between
+68 and 425. Above Re = 425, transition from axisymmetric to non-axisymmetric flow is observed up
+to Re = 575 before the emergence of wavy-vortex flow. From the variation of VL thickness with Re, the
+VL does not experience any significant changes in the flow separation region of the inner wall, as
+well as jet impingement region of both the inner and outer walls. However, a sudden increase in VL
+thickness in the flow separation region of the outer wall reveals possible source of non-axisymmetric
+disturbances in the flow separation region of the outer wall. These disturbances develop into the
+periodic secondary flow as the axisymmetric flow transforms into non-axisymmetric flow and this
+leads to the emergence of azimuthal wave. The periodic secondary flow contributes to sudden increase
+in the natural wavelength and rapid reduction in the strength of two counter-rotating Taylor vortices.
+This in turn leads to a substantial reduction of torque in the transition flow vis-a-vis axisymmetric
+Taylor-vortex flow. 

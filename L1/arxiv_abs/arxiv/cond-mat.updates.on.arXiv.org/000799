@@ -1,0 +1,16 @@
+In this work, we present a non-local expansion scheme to study correlated electron systems aiming
+at a better description of its spatial fluctuations at all length scales. Taking the non-local coupling
+as a perturbation to the local degrees of freedom, we show that the non-locality in the self-energy
+function can be efficiently constructed from the coupling between local charge fluctuations.
+It can provide one unified framework to incorporate non-locality to both ordered and disordered
+correlated many-body fermion systems. As the first application, we prove that the dual-fermion
+approach can be understood as a special case of this non-local expansion scheme. The scheme presented
+in this work is constructed without introducing any dual variable, in which the interacting nature
+and the correlated behaviors of the lattice fermions have a clear physics correspondence. Thus,
+in this special case, the equivalence of the dual-fermion approach to the non-local expansion scheme
+beautifully reveals the physics origin of the dual variables. We show that the non-interacting
+dual-fermion Green's function corresponds exactly to a non-local coupling of the lattice fermion
+renormalized by the local single-particle charge fluctuations, and the dual-fermion self-energy
+behaves as the one-particle fully irreducible components of the lattice Green's function. Not
+only limited to this specific example, the non-local expansion scheme presented in this work can
+also be applied to other problems depending on the choice of the local degrees of freedom. 

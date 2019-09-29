@@ -1,0 +1,16 @@
+Topological phases of matter are distinguished by topological invariants, such as Chern numbers
+and topological spins, that quantize their response to electromagnetic currents and changes of
+ambient geometry. Intriguingly, in the $\nu=2/5$ fractional quantum Hall effect, prominent theoretical
+approaches -- the composite fermion theory and conformal field theory -- have constructed two distinct
+states, the Jain composite fermion (CF) state and the Gaffnian state, for which many of the topological
+indices coincide and even the microscopic ground state wave functions have high overlap with each
+other in system sizes accessible to numerics. At the same time, some aspects of these states are expected
+to be very different, e.g., their elementary excitations should have either Abelian (CF) or non-Abelian
+(Gaffnian) statistics. In this paper we investigate the close relationship between these two states
+by considering not only their ground states, but also the low-energy charged excitations. We show
+that the low-energy physics of both phases is spanned by the same type of quasielectrons of the neighbouring
+Laughlin phase. The main difference between the two states arises due to an implicit assumption
+of short-range interaction in the CF approach, which causes a large splitting of the variational
+energies of the Gaffnian excitations. We thus propose that the Jain phase emerges as an effective
+Abelian low-energy description of the Gaffnian phase when the Hamiltonian is dominated by two-body
+interactions of sufficiently short range. 

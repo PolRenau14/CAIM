@@ -1,0 +1,17 @@
+The dynamics of inertial particles in Rayleigh-B\'{e}nard convection, where both particles and
+fluid exhibit thermal expansion, is studied using direct numerical simulations (DNS). We consider
+the effect of particles with a thermal expansion coefficient larger than that of the fluid, causing
+particles to become lighter than the fluid near the hot bottom plate and heavier than the fluid near
+the cold top plate. Because of the opposite directions of the net Archimedes' force on particles
+and fluid, particles deposited at the plate now experience a relative force towards the bulk. The
+characteristic time for this motion towards the bulk to happen, quantified as the time particles
+spend inside the thermal boundary layers (BLs) at the plates, is shown to depend on the thermal response
+time, $\tau_T$, and the thermal expansion coefficient of particles relative to that of the fluid,
+$K = \alpha_p / \alpha_f$. In particular, the residence time is constant for small thermal response
+times, $\tau_T \lesssim 1$, and increasing with $\tau_T$ for larger thermal response times, $\tau_T
+\gtrsim 1$. Also, the thermal BL residence time is increasing with decreasing $K$. A one-dimensional
+(1D) model is developed, where particles experience thermal inertia and their motion is purely
+dependent on the buoyancy force. Although the values do not match one-to-one, this highly simplified
+1D model does predict a regime of a constant thermal BL residence time for smaller thermal response
+times and a regime of increasing residence time with $\tau_T$ for larger response times, thus explaining
+the trends in the DNS data well. 

@@ -1,0 +1,16 @@
+Jet models of Event Horizon Telescope (EHT) data should also conform to the observed jet profiles
+just downstream. This study evaluates conformance of models of black hole jets to images of the innermost
+jet of M87. This is a basic test that should be passed before using them to perform a physical interpretation
+of EHT data. Recent 86 GHz Very Long Baseline Interferometry observations of M87 have revealed the
+morphology and size of the jet near its source ($<65$\,M, or 0.06 lt-yrs after correcting for line
+of sight to the jet, where $M$ is the black hole mass in geometrized units) for the first time. Current
+transverse resolution indicates that this region is dominated by flux emanating from the edge of
+the jet. The observed inner jet profiles are compared to all existing published synthetic radio
+images constructed from ``state of the art" 3-D numerical simulations of the black hole accretion
+system in M87. Despite efforts to produce the characteristic wide, edge dominated jet, these models
+are too narrow (by a factor of $\sim2$) in the region 0.06 - 0.32 lt-yrs from the source, even though
+the jets (spine and/or sheath) in the image plane might appear conformant farther downstream. Furthermore,
+the synthetic radio images are not edge dominated 0.06 - 0.32 lt-yrs from the source, but spine dominated.
+Analyses that implement these models as physical diagnostics of EHT visibility amplitudes are
+therefore suspect. Thus, these inner jet characteristics are important considerations before
+applying simulations to the EHT data. 

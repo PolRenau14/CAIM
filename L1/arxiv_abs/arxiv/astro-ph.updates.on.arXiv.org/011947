@@ -1,0 +1,17 @@
+Context. Departures from local thermodynamic equilibrium (LTE) distort the calcium abundance
+derived from stellar spectra in various ways, depending on the lines used and the stellar atmospheric
+parameters. The collection of atomic data adopted in non-LTE (NLTE) calculations must be sufficiently
+complete and accurate. Aims. We derive NLTE abundances from high-quality observations and reliable
+stellar parameters using a model atom built afresh for this work, and check the consistency of our
+results over a wide wavelength range with transitions of atomic and singly ionised calcium. Methods.
+We built and tested Ca i and Ca ii model atoms with state-of-the-art radiative and collisional data,
+and tested their performance deriving the Ca abundance in three benchmark stars: Procyon, the Sun,
+and Arcturus. We have excellent-quality observations and accurate stellar parameters for these
+stars. Two methods to derive the LTE / NLTE abundances were used and compared. The LTE / NLTE centre-to-limb
+variation (CLV) of Ca lines in the Sun was also investigated. Results. The two methods used give similar
+results in all three stars. Several discrepancies found in LTE do not appear in our NLTE results;
+in particular the agreement between abundances in the visual and infra-red (IR) and the Ca i and Ca
+ii ionisation balance is improved overall, although substantial line-to-line scatter remains.
+The CLV of the calcium lines around 6165 Angs can be partially reproduced. We suspect differences
+between our modelling and CLV results are due to inhomogeneities in the atmosphere that require
+3D modelling. 

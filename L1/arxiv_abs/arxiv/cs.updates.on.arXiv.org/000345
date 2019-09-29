@@ -1,0 +1,16 @@
+The rapid proliferation of Radio Frequency IDentification (RFID) systems realizes integration
+of physical world with the cyber ones. One of the most promising is the Internet of Things (IoT), a
+vision in which the Internet extends into our daily activities through wireless networks of uniquely
+identifiable objects. Given that modern RFID systems are being deployed in large-scale for different
+applications, without optimizing reader's distribution, many of the readers will be redundant,
+resulting waste of energy. Additionally, eliminating redundant eaders can also decrease probability
+of reader collisions, as a result, enhancing system performance and efficiency. In this paper,
+an overlap aware (OA) technique is proposed for eliminating redundant readers. The OA is a distributed
+approach, which does not need to collect global information for centralizing control, aims to detect
+maximum amount of redundant readers could be safely removed or turned off with preserving original
+RFID network coverage. A significant improvement of the OA scheme is that the amount of "write-to-tag"
+operations could be largely reduced during the redundant reader identification phase. In order
+to accurately evaluate the performance of the proposed method, it was performed in a variety of scenarios.
+The experiment results show that the proposed method can provide reliable performance with detecting
+higher redundancy and has lower algorithm overheads as compared with several well known methods,
+such as the RRE, LEO, the hybrid algorithm (LEO+RRE) and the DRRE. 

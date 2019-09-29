@@ -1,0 +1,16 @@
+The recently demonstrated ability to perform accurate, precise and rapid computation of ligand
+binding strengths has driven interest in the use of molecular simulations for applications in both
+computer-aided drug design and patient specific medicine. Simulation protocols based on ensembles
+of multiple runs of the same system provide an efficient method for producing robust free energy
+estimate, and equally important statistical uncertainties. Variations in the chemical and biophysical
+properties of different systems impact the optimal protocol choice for different proteins and
+classes of drugs targetting them. However, these are difficult to determine {\it a priori}, thus
+requiring adaptive execution of simulation workflows. We introduce the High-throughput Binding
+Affinity Calculator (HTBAC) to enable the scalable, adaptive and automated calculation of the
+binding free energy on high-performance computing resources. We investigate weak scaling behaviour
+for screening sixteen drug candidates concurrenlty using thousands of multi-stage pipelines
+on more than 32,000 cores. This permits a rapid time-to-solution that is essentially invariant
+with respect to the calculation protocol, size of candidate ligands and number of ensemble simulations.
+As such, HTBAC advances the state of the scale and sophistication of binding affinity calculation.
+HTBAC uses readily available building blocks to attain both workflow flexibility and performance;
+our scaling experiments are performed on the Blue Waters machine at NCSA. 

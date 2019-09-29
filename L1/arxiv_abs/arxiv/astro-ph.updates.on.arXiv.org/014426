@@ -1,0 +1,16 @@
+Using $\sim 100$ X-ray selected clusters in the Dark Energy Survey Science Verification data, we
+constrain the luminosity function (LF) of cluster red sequence galaxies as a function of redshift.
+This is the first homogeneous optical/X-ray sample large enough to constrain the evolution of the
+luminosity function simultaneously in redshift ($0.1<z<1.05$) and cluster mass ($13.5 \le \rm{log_{10}}(M_{200crit})
+\sim< 15.0$). We pay particular attention to completeness issues and the detection limit of the
+galaxy sample. We then apply a hierarchical Bayesian model to fit the cluster galaxy LFs via a Schecter
+function, including its characteristic break ($m^*$) to a faint end power-law slope ($\alpha$).
+Our method enables us to avoid known issues in similar analyses based on stacking or binning the clusters.
+We find weak and statistically insignificant ($\sim 1.9 \sigma$) evolution in the faint end slope
+$\alpha$ versus redshift. We also find no dependence in $\alpha$ or $m^*$ with the X-ray inferred
+cluster masses. However, the amplitude of the LF as a function of cluster mass is constrained to $\sim
+20\%$ precision. As a by-product of our algorithm, we utilize the correlation between the LF and
+cluster mass to provide an improved estimate of the individual cluster masses as well as the scatter
+in true mass given the X-ray inferred masses. This technique can be applied to a larger sample of X-ray
+or optically selected clusters from the Dark Energy Survey, significantly improving the sensitivity
+of the analysis. 

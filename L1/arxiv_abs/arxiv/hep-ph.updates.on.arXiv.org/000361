@@ -1,0 +1,16 @@
+We explore the prospects for observing CP violation in the minimal supersymmetric extension of
+the Standard Model (MSSM) with six CP-violating parameters, three gaugino mass phases and three
+phases in trilinear soft supersymmetry-breaking parameters, using the CPsuperH code combined
+with a geometric approach to maximize CP-violating observables subject to the experimental upper
+bounds on electric dipole moments. We also implement CP-conserving constraints from Higgs physics,
+flavour physics and the upper limits on the cosmological dark matter density and spin-independent
+scattering. We study possible values of observables within the constrained MSSM (CMSSM), the non-universal
+Higgs model (NUHM), the CPX scenario and a variant of the phenomenological MSSM (pMSSM). We find
+values of the CP-violating asymmetry A_CP in b -> s gamma decay that may be as large as 3%, so future
+measurements of A_CP may provide independent information about CP violation in the MSSM. We find
+that CP-violating MSSM contributions to the B_s meson mass mixing term Delta M_Bs are in general
+below the present upper limit, which is dominated by theoretical uncertainties. If these could
+be reduced, Delta M_Bs could also provide an interesting and complementary constraint on the six
+CP-violating MSSM phases, enabling them all to be determined experimentally, in principle. We
+also find that CP violation in the h_{2,3} tau+ tau- and h_{2,3} tbar t couplings can be quite large,
+and so may offer interesting prospects for future pp, e+ e-, mu+ mu- and gamma gamma colliders. 

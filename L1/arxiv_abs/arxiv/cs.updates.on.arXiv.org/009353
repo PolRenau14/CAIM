@@ -1,0 +1,17 @@
+The downlink coordinated multipoint (CoMP) transmission system with non-orthogonal multiple
+access (NOMA) is presented to enhance downlink capacity. Since perfect knowledge of a channel is
+not always available in practice, imperfect channel state information (CSI) needs to be considered
+in downlink CoMP with NOMA. In this paper, imperfect CSI is modeled with channel estimation error,
+where a priori of variance of the error estimation is known. Instead of a specific number of coordinated
+base stations (BSs), a downlink CoMP NOMA with $B$ coordinated BSs is proposed. Further, the ergodic
+capacity of the cell-center user (CCU), and the cell-edge user (CEU), as well as their sum capacity
+are analyzed, derived as closed forms, and validated by simulations in both perfect CSI and imperfect
+CSI with channel estimation error. The result shows that CoMP NOMA outperforms the CoMP orthogonal
+multiple access (OMA) capacity, where channel estimation error degrades the performance of both
+CoMP NOMA and CoMP OMA. In CoMP NOMA, it is noted that the impact of channel estimation error is less
+significant at CEU compared to that at CCU, due to the utilization of the incoming signals from all
+the coordinated BSs. Additionally, by exploiting non-orthogonal channel, the sum capacity of
+CoMP NOMA still can be improved with an increase in coordinated BSs. It is also demonstrated that
+CEU needs to be allocated with much higher power than CCU to maintain their capacity simultaneously.
+Finally, the performance analysis is successfully validated through the close accordance between
+the analytical and simulation results. 

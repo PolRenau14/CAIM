@@ -1,0 +1,16 @@
+The inclination $I$ of an Earth's satellite in polar orbit undergoes a secular De Sitter precession
+of $-7.6$ milliarcseconds per year for a suitable choice of the initial value of its non-circulating
+node $\Omega$. The competing long-periodic harmonic rates of change of $I$ due to the even and odd
+zonal harmonics of the geopotential vanish for either a circular or polar orbit, while no secular
+rates occur at all. This may open up, in principle, the possibility of measuring the geodesic precession
+in the weak-field limit with an accurately tracked satellite by improving the current bound of $9\times
+10^{-4}$ from Lunar Laser Ranging, which, on the other hand, may be even rather optimistic, by one
+order of magnitude, or, perhaps, even better. The most insidious competing effects are due to the
+solid and ocean components of the $K_1$ tide since their perturbations have nominal huge amplitudes
+and the same temporal pattern of the De Sitter signature. They vanish for polar orbits. Departures
+of $\simeq 10^{-5}-10^{-3}~\textrm{deg}$ from the ideal polar geometry allow to keep the $K_1$
+tidal perturbations to a sufficiently small level. Most of the other gravitational and non-gravitational
+perturbations vanish for the proposed orbital configuration, while the non-vanishing ones either
+have different temporal signatures with respect to the De Sitter effect or can be modeled with sufficient
+accuracy. In order to meet the proposed goal, the measurement accuracy of $I$ should be better than
+$\simeq 35~\textrm{microarcseconds}=0.034~\textrm{milliarcseconds}$ over, say, 5 yr. 

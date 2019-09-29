@@ -1,0 +1,17 @@
+Energy efficiency is one of the primary concerns when designing large scale computing systems.
+This makes reconfigurable hardware an attractive alternative to load-store architectures, as
+it allows eliminating expensive control and data movement overheads in computations. In practice,
+these devices are often not considered in the high-performance computing community, due to the
+steep learning curve and low productivity of hardware design, and the lack of available library
+support for fundamental operations. With the introduction of high-level synthesis (HLS) tools,
+programming hardware has become more accessible, but optimizing for these architectures requires
+factoring in new transformations and trade-offs between hardware resources and computational
+performance. We present FBLAS, an open source implementation of BLAS for FPGAs. FBLAS is implemented
+with HLS, enabling reusability, maintainability, and portability across FPGAs, and easy integration
+with existing software and hardware codes. By using the work-depth model, we capture the space/time
+trade-off of designing linear algebra circuits, allowing modules to be optimized within performance
+or resource constraints. Module interfaces are designed to natively support streaming communication
+across on-chip connections, allowing them to be composed to reduce off-chip communication. With
+the methodologies used to design FBLAS, we hope to set a precedent for FPGA library design, and contribute
+to the toolbox of customizable hardware components that is necessary for HPC codes to start productively
+targeting reconfigurable platforms. 

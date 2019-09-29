@@ -1,0 +1,16 @@
+This paper considers a Massive multiple-input multiple-output (MIMO) network, where the base
+station (BS) with a large number of antennas communicates with a smaller number of users. The signals
+are transmitted using frequency division duplex (FDD) mode. The problem of user scheduling with
+reduced overhead of channel estimation in the uplink of Massive MIMO systems has been investigated.
+We consider the COST 2100 channel model. In this paper, we first propose a new user selection algorithm
+based on knowledge of the geometry of the service area and of location of clusters, without having
+full channel state information (CSI) at the BS. We then show that the correlation in geometry-based
+stochastic channel models (GSCMs) arises from the common clusters in the area. In addition, exploiting
+the closed-form Cramer-Rao lower bounds (CRLB)s, the analysis for the robustness of the proposed
+scheme to cluster position errors is presented. It is shown by analysing the capacity upper-bound
+that the capacity strongly depends on the position of clusters in the GSCMs and users in the system.
+Simulation results show that although the BS receiver does not require the channel information
+of all users, by the proposed geometry-based user scheduling (GUS) algorithm the sum-rate of the
+system is only slightly less than the well-known greedy weight clique (GWC) scheme \cite{SUSGoldsmithGlobcom,ITC09_Userselection_GWC}.
+{Finally, the robustness of the proposed algorithm to cluster localization is verified by the simulation
+results. 

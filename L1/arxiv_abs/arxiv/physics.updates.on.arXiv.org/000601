@@ -1,0 +1,16 @@
+We consider a generalized Jaynes-Cummings model of a two-level atom interacting with a multimode
+nondegenerate coherent field. The sum of the mode frequencies is equal to the two-level transition
+frequency, creating the resonance condition. The intermediate levels associated with the multi-photon
+process are adiabatically eliminated using the non-resonant conditions for these transitions.
+Under such general conditions, the infinite atom-multiphoton interaction is effectively mapped
+onto an equivalent reduced \textit{2}$\times$\textit{2} bipartite qubit system that facilitates
+the study of the nonclassical features of the interaction using known information-theoretic measures.
+We observe that the bipartite pure system is highly entangled as quantified by its entanglement
+of formation. Further, it is shown that the dynamics of the mapped system can be generated using optically
+truncated, quantum scissored states that reduce the infinite atom-multiphoton interaction to
+a finite \textit{2}$\times$\textit{k} system, where $k$ is a suitable truncation number. This
+allows us to introduce atomic dephasing and study the mixed state dynamics, characterized by the
+decay of quantum correlations such as quantum discord, which is observed to be more robust than entanglement.
+The quantum correlation dynamics of the dissipative system qualitatively complements the behavior
+of collapse and revival of the Rabi oscillations in the system. The effective mapping of the composite
+system proves to be an efficient tool for measuring information-theoretic properties. 

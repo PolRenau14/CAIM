@@ -1,0 +1,16 @@
+The jet photosphere has been proposed as the origin for the gamma-ray burst (GRB) prompt emission.
+In many such models, characteristic features in the spectra appear below the energy range of the
+$\textit{Fermi}$ GBM detectors, so joint fits with X-ray data are important in order to assess the
+photospheric scenario. Here we consider a particular photospheric model which assumes localized
+subphotospheric dissipation by internal shocks in a non-magnetized outflow. We investigate it
+using Bayesian inference and a sample of 8 GRBs with known redshifts which are observed simultaneously
+with $\textit{Fermi}$ GBM and $\textit{Swift}$ XRT. This provides us with an energy range of $0.3$~keV
+to $40$~MeV and much tighter parameter constraints. We analyze 32 spectra and find that 16 are well
+described by the model. We also find that the estimates of the bulk Lorentz factor, $\Gamma$, and
+the fireball luminosity, $L_{0,52}$, decrease while the fraction of dissipated energy, $\varepsilon_{\mathrm{d}}$,
+increase in the joint fits compared to GBM only fits. These changes are caused by a small excess of
+counts in the XRT data, relative to the model predictions from fits to GBM only data. The fact that
+our limited implementation of the physical scenario yields 50\% accepted spectra is promising,
+and we discuss possible model revisions in the light of the new data. Specifically, we argue that
+the inclusion of significant magnetization, as well as removing the assumption of internal shocks,
+will provide better fits at low energies. 

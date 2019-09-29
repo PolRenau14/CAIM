@@ -1,0 +1,17 @@
+We present a comprehensive study of the statistical features of a three-dimensional time-reversible
+Navier-Stokes system, wherein the standard viscosity is replaced by a fluctuating thermostat
+that dynamically compensates for fluctuations in the total energy. We introduce a non-negative
+dimensionless control parameter $\mathcal{R}_{\rm r}=f_0 \ell_{\rm f}/E_0$, which quantifies
+the balance between the fluctuation of kinetic energy at the forcing length scale $\ell_{\rm f}$
+and the total energy $E_0$. We use this to identify the different statistical regimes of this system.
+We find that the system exhibits a transition from a high-enstrophy phase at small $\mathcal{R}_{\rm
+r}$, where truncation effects tend to produce partially thermalized states, to a hydrodynamical
+phase with low enstrophy at large $\mathcal{R}_{\rm r}$. We show that this transition is similar
+to a continuous phase transition, in which the enstrophy plays the role of an order parameter. Above
+the critical value of $\mathcal{R}_{\rm r}$, in a narrow range, the low-order statistics of the
+reversible system are qualitatively similar to those observed in the direct numerical simulations
+of the Navier-Stokes equations. This result supports the $\textit{equivalence of dynamical ensembles
+conjecture}$ formulated in Ref. [G. Gallavotti, Phys. Lett. A 223, 91 (1996)]. We use a diffusion
+model of turbulence (Leith model) to interpret the transition as the one between the "warm-cascade"
+states and the scaling solutions. We argue that the critical value of $\mathcal{R}_{\rm r}$ is independent
+of the numerical resolution. 

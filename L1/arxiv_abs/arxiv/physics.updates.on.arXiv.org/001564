@@ -1,0 +1,16 @@
+Egypt faced heavy rainfall starting from 26th October 2016 which caused flooding in Upper Egypt
+and Red Sea Coast especially the city of Ras Gharib. In this work, Weather Research and Forecasting
+(WRF) model was used with one domain of 10-km resolution for three days starting from 26th October
+2016 to simulate this severe rainy event in terms of precipitation, temperature, pressure and wind
+speed. In order to use the WRF model several schemes should be configured, one of them is the microphysics
+scheme. Microphysics is the process by which moisture is removed from the air, based on other thermodynamic
+and kinematic fields represented within the numerical models. Sensitivity of ten microphysics
+schemes were tested (Kessler, Lin, WRF single moment 3 and 5 class, Eta (Ferrier), WRF single Scheme
+6 Class, Goddard, Thompson, Milbrandt-Yau Double Moment and Morrison double moment). The output
+temperature and precipitation from the model were compared to the satellite data obtained from
+Moderate Resolution Imaging Spectroradiometer (MODIS) and Tropical Rainfall Measuring Mission
+(TRMM), respectively. Our analysis showed that the model has the capability to simulate the rainy
+event spatially and produce the cloud pattern. Three coastal areas were chosen for this study, the
+city of Ras Gharib, Wadi Elgemal National park, and Elba National park. The results showed that the
+model generally tends to overestimate the precipitation for all the ten schemes and underestimated
+temperature compared to TRMM and MODIS data respectively 

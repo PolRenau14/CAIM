@@ -1,0 +1,16 @@
+The Capacitated Vehicle Routing Problem (CVRP) is an NP-optimization problem (NPO) that has been
+of great interest for decades for both, science and industry. The CVRP is a variant of the vehicle
+routing problem characterized by capacity constrained vehicles. The aim is to plan tours for vehicles
+to supply a given number of customers as efficiently as possible. The problem is the combinatorial
+explosion of possible solutions, which increases superexponentially with the number of customers.
+Classical solutions provide good approximations to the globally optimal solution. D-Wave's quantum
+annealer is a machine designed to solve optimization problems. This machine uses quantum effects
+to speed up computation time compared to classic computers. The problem on solving the CVRP on the
+quantum annealer is the particular formulation of the optimization problem. For this, it has to
+be mapped onto a quadratic unconstrained binary optimization (QUBO) problem. Complex optimization
+problems such as the CVRP can be translated to smaller subproblems and thus enable a sequential solution
+of the partitioned problem. This work presents a quantum-classic hybrid solution method for the
+CVRP. It clarifies whether the implemenation of such a method pays off in comparison to existing
+classical solution methods regarding computation time and solution quality. Several approaches
+to solving the CVRP are elaborated, the arising problems are discussed, and the results are evaluated
+in terms of solution quality and computation time. 

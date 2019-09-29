@@ -1,0 +1,17 @@
+In 1959, P. Hall introduced the locally finite group $\mathcal{U}$, today known as Hall's universal
+group. This group is countable, universal, simple, and any two finite isomorphic subgroups are
+conjugate in $\mathcal{U}$. It can be explicitly described as a direct limit of finite symmetric
+groups. It is homogeneous in the model-theoretic sense since it is the Fraisse limit of the class
+of all finite groups. Since its introduction Hall's group, and several natural generalisations,
+have been widely studied. In this article we use a generalisation of Fraisse theory to construct
+a countable, universal, locally finite semigroup $\mathcal{T}$, that arises as a direct limit
+of finite full transformation semigroups, and has the highest possible degree of homogeneity.
+We prove that it is unique up to isomorphism among semigroups satisfying these properties. We prove
+an analogous result for inverse semigroups, constructing a maximally homogeneous universal locally
+finite inverse semigroup $\mathcal{I}$ which is a direct limit of finite symmetric inverse semigroups
+(semigroups of partial bijections). The semigroups $\mathcal{T}$ and $\mathcal{I}$ are the natural
+counterparts of Hall's universal group for semigroups and inverse semigroups, respectively.
+While these semigroups are not homogeneous, they still exhibit a great deal of symmetry. We study
+the structural features of these semigroups and locate several well-known homogeneous structures
+within them, such as the countable generic semilattice, the countable random bipartite graph,
+and Hall's group itself. 

@@ -1,0 +1,16 @@
+The light output of deep ultraviolet (UV-C) AlGaN light-emitting diodes (LEDs) is limited due to
+their poor light extraction efficiency (LEE). To improve the LEE of AlGaN LEDs, we developed a fabrication
+technology to process AlGaN LEDs grown on SiC into thin-film flip-chip LEDs (TFFC LEDs) with high
+LEE. This process transfers the AlGaN LED epi onto a new substrate by wafer-to-wafer bonding, and
+by removing the absorbing SiC substrate with a highly selective SF6 plasma etch that stops at the
+AlN buffer layer. We optimized the inductively coupled plasma (ICP) SF6 etch parameters to develop
+a substrate-removal process with high reliability and precise epitaxial control, without creating
+micromasking defects or degrading the health of the plasma etching system. The SiC etch rate by SF6
+plasma was ~46 \mu m/hr at a high RF bias (400 W), and ~7 \mu m/hr at a low RF bias (49 W) with very high etch
+selectivity between SiC and AlN. The high SF6 etch selectivity between SiC and AlN was essential
+for removing the SiC substrate and exposing a pristine, smooth AlN surface. We demonstrated the
+epi-transfer process by fabricating high light extraction TFFC LEDs from AlGaN LEDs grown on SiC.
+To further enhance the light extraction, the exposed N-face AlN was anisotropically etched in dilute
+KOH. The LEE of the AlGaN LED improved by ~3X after KOH roughening at room temperature. This AlGaN
+TFFC LED process establishes a viable path to high external quantum efficiency (EQE) and power conversion
+efficiency (PCE) UV-C LEDs. 

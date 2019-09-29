@@ -1,0 +1,17 @@
+The interdiffusion coefficients are estimated either following the Wagner's method expressed
+with respect to the composition (mol or atomic fraction) normalized variable after considering
+the molar volume variation or the den Broeder's method expressed with respect to the concentration
+(composition divided by the molar volume) normalized variable. On the other hand, the relations
+for estimation of the intrinsic diffusion coefficients of components as established by van Loo
+and integrated diffusion coefficients in a phase with narrow homogeneity range as established
+by Wagner are currently available with respect to the composition normalized variable only. In
+this study, we have first derived the relation proposed by den Broeder following the line of treatment
+proposed by Wagner. Further, the relations for estimation of the intrinsic diffusion coefficients
+of the components and integrated interdiffusion coefficient are established with respect to the
+concentration normalized variable, which were not available earlier. The veracity of these methods
+is examined based on the estimation of data in Ni-Pd, Ni-Al and Cu-Sn systems. Our analysis indicates
+that both the approaches are logically correct and there is small difference in the estimated data
+in these systems although a higher difference could be found in other systems. The integrated interdiffusion
+coefficients with respect to the concentration (or concentration normalized variable) can only
+be estimated considering the ideal molar volume variation. This might be drawback in certain practical
+systems. 

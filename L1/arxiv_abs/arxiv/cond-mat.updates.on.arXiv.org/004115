@@ -1,0 +1,16 @@
+In this work, we investigate theoretically and demonstrate experimentally the existence of valley-Hall
+edge states in the in-plane dynamics of honeycomb lattices with bi-valued strut thickness. We exploit
+these states to achieve non-trivial waveguiding of optical modes that is immune to backscattering
+from sharp corners. We also present how different types of interfaces can be combined into multi-branch
+junctions to form complex waveguide paths and realize a variety of structural logic designs with
+unconventional wave transport capabilities. We illustrate this potential with two applications.
+The first is a direction-selective de-multiplexing waveguide tree featuring a pronounced asymmetric
+wave transport behavior. The second is an internal waveguide loop along which the energy can be temporarily
+trapped and periodically released, effectively working as a signal delayer. We provide a rationale
+for the observed phenomena that blends topological considerations and mechanistic arguments,
+and we offer a criterion for the proper selection of the junction characteristics that are conducive
+to non-trivial interface modes. The modal complexity of in-plane elasticity has important consequences
+on the regime of manifestation of the edge states, as the availability of viable total bandgaps is
+shifted to higher frequencies compared to the out-of-plane counterpart problem. It also poses
+additional experimental challenges, associated with proper acquisition and deciphering of the
+in-plane modes, the solution of which requires a systematic use of in-plane laser vibrometry. 

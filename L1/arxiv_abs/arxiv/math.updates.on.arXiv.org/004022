@@ -1,0 +1,17 @@
+A family of Gaussian analytic functions (GAFs) has recently been linked to the Gabor transform of
+white Gaussian noise [Bardenet et al., 2017]. This answered pioneering work by Flandrin [2015],
+who observed that the zeros of the Gabor transform of white noise had a very regular distribution
+and proposed filtering algorithms based on the zeros of a spectrogram. The mathematical link with
+GAFs provides a wealth of probabilistic results to inform the design of such signal processing procedures.
+In this paper, we study in a systematic way the link between GAFs and a class of time-frequency transforms
+of Gaussian white noises on Hilbert spaces of signals. Our main observation is a conceptual correspondence
+between pairs (transform, GAF) and generating functions for classical orthogonal polynomials.
+This correspondence covers some classical time-frequency transforms, such as the Gabor transform
+and the Daubechies-Paul analytic wavelet transform. It also unveils new windowed discrete Fourier
+transforms, which map white noises to fundamental GAFs. All these transforms may thus be of interest
+to the research program `filtering with zeros'. We also identify the GAF whose zeros are the extrema
+of the Gabor transform of the white noise and derive their first intensity. Moreover, we discuss
+important subtleties in defining a white noise and its transform on infinite dimensional Hilbert
+spaces. Finally, we provide quantitative estimates concerning the finite-dimensional approximations
+of these white noises, which is of practical interest when it comes to implementing signal processing
+algorithms based on GAFs. 

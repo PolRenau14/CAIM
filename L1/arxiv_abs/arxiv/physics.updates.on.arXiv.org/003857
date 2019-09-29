@@ -1,0 +1,17 @@
+Fundamental upper bounds are given for the plasmonic multipole absorption and scattering of a rotationally
+invariant dielectric sphere embedded in a lossy surrounding medium. A specialized Mie theory is
+developed for this purpose and when combined with the corresponding generalized optical theorem,
+an optimization problem is obtained which is explicitly solved by straightforward analysis. In
+particular, the absorption cross section is a concave quadratic form in the related Mie (scattering)
+parameters and the convex scattering cross section can be maximized by using a Lagrange multiplier
+constraining the absorption to be non-negative. For the homogeneous sphere, the Weierstrass preparation
+theorem is used to establish the existence and the uniqueness of the plasmonic singularities and
+explicit asymptotic expressions are given for the dipole and the quadrupole. It is shown that the
+optimal passive material for multipole absorption and scattering of a small homogeneous dielectric
+sphere embedded in a dispersive medium is given approximately as the complex conjugate and the real
+part of the corresponding pole positions, respectively. Numerical examples are given to illustrate
+the theory, including a comparison with the plasmonic dipole and quadrupole resonances obtained
+in gold, silver and aluminum nanospheres based on some specific Brendel-Bormann (BB) dielectric
+models for these metals. % of gold, silver and aluminum. Based on these BB-models, it is interesting
+to note that the metal spheres can be tuned to optimal absorption at a particular size at a particular
+frequency. 

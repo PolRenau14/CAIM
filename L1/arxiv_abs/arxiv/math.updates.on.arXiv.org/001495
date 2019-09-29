@@ -1,0 +1,15 @@
+We analyze a random algorithm for numerical integration of $d$-variate functions from weighted
+Sobolev spaces with dominating mixed smoothness $\alpha\ge 0$ and product weights $1\ge\gamma_1\ge\gamma_2\ge\cdots>0$.
+The algorithm is based on rank-$1$ lattice rules with a random number of points~$n$. For the case
+$\alpha>1/2$, we prove that the algorithm achieves almost the optimal order of convergence of $\mathcal{O}(n^{-\alpha-1/2})$,
+where the implied constant is independent of~$d$ if the weights satisfy $\sum_{j=1}^\infty \gamma_j^{1/\alpha}<\infty$.
+The same rate of convergence holds for the more general case $\alpha>0$ by adding a random shift to
+the lattice rule with random $n$. This shows, in particular, that the exponent of strong tractability
+in the randomized setting equals $1/(\alpha+1/2)$, if the weights decay fast enough. We obtain
+a lower bound to indicate that our results are essentially optimal. This paper is a significant advancement
+over previous related works with respect to the ease of implementation and the independence of error
+bounds on the problem dimension. Other known algorithms which achieve the optimal error bounds,
+such as those based on Frolov's method, are very difficult to implement especially in high dimensions.
+Here we adapt a lesser-known randomization technique introduction by Bakhvalov in 1961. This algorithm
+is based on rank-$1$ lattice rules which are very easy to implement given the integer generating
+vectors. A simple probabilistic approach can be used to obtain suitable generating vectors. 

@@ -1,0 +1,17 @@
+Most galaxy evolution simulations as well as a variety of observational methods assume a linear
+scaling between the (galaxy-averaged) dust-to-gas ratio D and metallicity Z of the interstellar
+medium (ISM). Indeed, nearby galaxies with solar or moderately sub-solar metallicities clearly
+follow this trend albeit with significant scatter. However, a growing number of observations show
+that the linear scaling breaks down for metal-poor galaxies (Z<0.2 Z_sun), highlighting the
+need for a more sophisticated modeling of the dust-to-metal ratio of galaxies. Here we study the
+co-evolution of dust and metal abundances in galaxies with the help of a dynamical, one-zone model
+that incorporates dust formation and destruction processes in addition to gas inflows, outflows,
+and metal enrichment. The dynamical model is consistent with various observational constraints,
+including the stellar mass -- metallicity relation, the stellar mass -- halo mass relation, and
+the observed Z -- D relation for both metal-poor and metal-rich galaxies. The functional form of
+the Z -- D relation follows from a basic equilibrium ansatz, similar to the ideas used previously
+to model the stellar mass -- metallicity relation. Galactic outflows regulate the inflow rate of
+gas from the cosmic web for galaxies of a given star formation rate. The mass loading factor of outflows
+thus dictates the rate at which the dust and metal content of the ISM is diluted. The stellar mass dependence
+of the mass loading factor drives the evolution of metallicities, dust-to-gas ratios, and dust-to-metal
+ratios in galaxies. 

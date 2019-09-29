@@ -1,0 +1,17 @@
+With the growing integration of location based services (LBS) such as GPS in mobile devices, indoor
+position systems (IPS) have become an important role for research. There are several IPS methods
+such as AOA, TOA, TDOA, which use trilateration for indoor location estimation but are generally
+based on line-of-sight. Other methods rely on classification such as fingerprinting which uses
+WLAN indoor signals. This paper re-examines the classical WLAN fingerprinting accuracy which
+uses received signal strength (RSS) measurements by introducing channel estimates for improvements
+in the classification of indoor locations. The purpose of this paper is to improve existing classification
+algorithms used in fingerprinting by introducing channel estimates when there are a low number
+of APs available. The channel impulse response, or in this case the channel estimation from the receiver,
+should characterize a complex indoor area which usually has multipath, thus providing a unique
+signature for each location which proves useful for better pattern recognition. In this experiment,
+channel estimates are extracted from a Software-Defined Radio (SDR) environment, thus exploiting
+the benefits of SDR from a NI-USRP model and LabVIEW software. Measurements are taken from a known
+building, and several scenarios with one and two access points (APs) are used in this experiment.
+Also, three granularities in distance between locations are analyzed. A Support Vector Machine
+(SVM) is used as the algorithm for pattern recognition of different locations based on the samples
+taken from RSS and channel estimation coefficients. 

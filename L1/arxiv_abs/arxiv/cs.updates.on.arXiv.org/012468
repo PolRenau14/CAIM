@@ -1,0 +1,17 @@
+Recent advances in Artificial Intelligence, especially in Machine Learning (ML), have brought
+applications previously considered as science fiction (e.g., virtual personal assistants and
+autonomous cars) into the reach of millions of everyday users. Since modern ML technologies like
+deep learning require considerable technical expertise and resource to build custom models, reusing
+existing models trained by experts has become essential. This is why in the past year model stores
+have been introduced, which, similar to mobile app stores, offer organizations and developers
+access to pre-trained models and/or their code to train, evaluate, and predict samples. This paper
+conducts an exploratory study on three popular model stores (AWS marketplace, Wolfram neural net
+repository, and ModelDepot) that compares the information elements (features and policies) provided
+by model stores to those used by the two popular mobile app stores (Google Play and Apple's App Store).
+We have found that the model information elements vary among the different model stores, with 65%
+elements shared by all three studied stores. Model stores share five information elements with
+mobile app stores, while eight elements are unique to model stores and four elements unique to app
+stores. Only few models were available on multiple model stores. Our findings allow to better understand
+the differences between ML models and "regular" source code components or applications, and provide
+inspiration to identify software engineering practices (e.g., in requirements and delivery)
+specific to ML applications. 

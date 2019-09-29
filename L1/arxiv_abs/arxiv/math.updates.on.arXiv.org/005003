@@ -1,0 +1,16 @@
+We study bipartite community detection in networks, or more generally the network biclustering
+problem. We present a fast two-stage procedure based on spectral initialization followed by the
+application of a pseudo-likelihood classifier twice. Under mild regularity conditions, we establish
+the weak consistency of the procedure (i.e., the convergence of the misclassification rate to zero)
+under a general bipartite stochastic block model. We show that the procedure is optimal in the sense
+that it achieves the optimal convergence rate that is achievable by a biclustering oracle, adaptively
+over the whole class, up to constants. This is further formalized by deriving a minimax lower bound
+over a class of biclustering problems. The optimal rate we obtain sharpens some of the existing results
+and generalizes others to a wide regime of average degree growth, from sparse networks with average
+degrees growing arbitrarily slowly to fairly dense networks with average degrees of order $\sqrt{n}$.
+As a special case, we recover the known exact recovery threshold in the $\log n$ regime of sparsity.
+To obtain the consistency result, as part of the provable version of the algorithm, we introduce
+a sub-block partitioning scheme that is also computationally attractive, allowing for distributed
+implementation of the algorithm without sacrificing optimality. The provable algorithm is derived
+from a general class of pseudo-likelihood biclustering algorithms that employ simple EM type updates.
+We show the effectiveness of this general class by numerical simulations. 

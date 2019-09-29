@@ -1,0 +1,16 @@
+Based on Minima Hopping and its capabilities of exploring potential energy surfaces we have developed
+Minima Hopping Accelerated Path Search (MHAPS) which is a novel algorithm for efficiently finding
+the reaction paths of complex chemical reactions by sampling collections of energetically low-lying
+minima and first order saddle points of potential energy surfaces. For this new reaction path search
+method we developed a highly reliable approach for computing saddle points which is based on the
+idea of a bar rolling downwards the potential energy landscape. For Lennard-Jones benchmark systems,
+Minima Hopping Accelerated Path Search was compared to a known mode-following based approach for
+sampling collections of minima and first order transition states. Although we used a stabilized
+mode-following technique that reliably allows to follow distinct directions that are defined
+by the eigenvectors of the Hessian matrix, we observed that Minima Hopping Accelerated Path Search
+is far superior in finding lowest-barrier reaction paths. By applying Minima Hopping Accelerated
+Path Search to 75-atom and 102-atom Lennard Jones systems we found previously unknown reaction
+paths that connect the two lowest minima of the 75-atom system. Compared to previously known paths,
+the new paths contain a smaller number of intermediate transition states and the highest energy
+along the paths is significantly lower in energy. In case of the 102-atom system Minima Hopping Accelerated
+Path Search found a previously unknown energetically low-lying funnel. 

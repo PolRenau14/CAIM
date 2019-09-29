@@ -1,0 +1,16 @@
+The highly charged RNA molecules, with each phosphate carrying a single negative charge, cannot
+fold into well-defined architectures with tertiary interactions, in the absence of ions. For ribozymes,
+divalent cations are known to be more efficient than monovalent ions in driving them to a compact
+state although often Mg$^{2+}$ ions are needed for catalytic activity. Therefore, how ions interact
+with RNA is relevant in understanding RNA folding. It is often thought that most of the ions are territorially
+and non-specifically bound to the RNA, as predicted by the counterion condensation (CIC) theory.
+Here, we show using simulations of ${\it Azoarcus}$ ribozyme, based on an accurate coarse-grained
+Three Site Interaction (TIS) model, with explicit divalent and monovalent cations, that ion condensation
+is highly specific and depends on the nucleotide position. The regions with high coordination between
+the phosphate groups and the divalent cations are discernible at very low concentrations when the
+ribozyme does not form tertiary interactions. Surprisingly, these regions also contain the secondary
+structural elements that nucleate subsequently in the self-assembly of RNA, implying that ion
+condensation is determined by the architecture of the folded state. These results are in sharp contrast
+to interactions of ions (monovalent and divalent) with rigid charged rods in which ion condensation
+is uniform and position independent. The differences are explained in terms of the dramatic non-monotonic
+shape fluctuations in the ribozyme as it folds with increasing Mg$^{2+}$ or Ca$^{2+}$ concentration.

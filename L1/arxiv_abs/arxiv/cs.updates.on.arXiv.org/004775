@@ -1,0 +1,16 @@
+Inverse dynamics control and feedforward linearization techniques are typically used to convert
+the complex nonlinear dynamics of robots to a set of decoupled double integrators, and then a standard,
+outer-loop controller can be used to calculate the commanded acceleration for the linearized system.
+However, these methods typically depend on having a very accurate system model, which is not available
+in practice. While this challenge has been addressed in the literature using different learning
+approaches, most of these approaches do not provide safety guarantees in terms of stability of the
+learning-based control system. In this paper, we provide a novel, learning-based control approach
+based on Gaussian processes (GPs) that ensures both stability of the closed-loop system and high-accuracy
+tracking. In our proposed approach, we use GPs to approximate the error between the commanded acceleration
+and the actual acceleration of the system, and then use the predicted mean and variance of the GP to
+calculate an upper bound on the uncertainty of the linearization. This uncertainty bound is then
+used in a robust, outer-loop controller to ensure stability of the overall system. Moreover, we
+show that using our proposed strategy, the tracking error converges to a ball with a radius that can
+be made arbitrarily small through appropriate control design. Furthermore, we verify the effectiveness
+of the proposed approach via simulations on (i) a 2 degree-of-freedom (DOF) planar manipulator,
+and (ii) a 6 DOF industrial manipulator using the Gazebo simulator. 

@@ -1,0 +1,16 @@
+Lindel{\"o}f's hypothesis, one of the most important open problems in the history of mathematics,
+states that for large $t$, Riemann's zeta function $\zeta(\frac{1}{2}+it)$ is of order $O(t^{\varepsilon})$
+for any $\varepsilon>0$. It is well known that for large $t$, the leading order asymptotics of the
+Riemann zeta function can be expressed in terms of a transcendental exponential sum. The usual approach
+to the Lindel\"of hypothesis involves the use of ingenious techniques for the estimation of this
+sum. However, since such estimates can not yield an asymptotic formula for the above sum, it appears
+that this approach cannot lead to the proof of the Lindel\"of hypothesis. Here, a completely different
+approach is introduced: the Riemann zeta function is embedded in a classical problem in the theory
+of complex analysis known as a Riemann-Hilbert problem, and then, the large $t$-asymptotics of
+the associated integral equation is formally computed. This yields two different results. First,
+the formal proof that a certain Riemann zeta-type double exponential sum satisfies the asymptotic
+estimate of the Lindel\"of hypothesis. Second, it is formally shown that the sum of $|\zeta(1/2+it)|^2$
+and of a certain sum which depends on $\epsilon$, satisfies for large $t$ the estimate of the Lindel\"of
+hypothesis. Hence, since the above identity is valid for all $\epsilon$, this asymptotic identity
+suggests the validity of Lindel\"of's hypothesis. The completion of the rigorous derivation of
+the above results will be presented in a companion paper. 

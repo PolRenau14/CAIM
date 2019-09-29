@@ -1,0 +1,16 @@
+The superconducting state in vanadium characterizes with the critical temperature ($T_{c}$)
+equal to $5.3$~K. The Coulomb pseudopotential, calculated with the help of the Eliashberg equations,
+possesses anomalously high value $\mu^{\star}\left(3\Omega_{\rm max}\right)=0.259$ or $\mu^{\star}\left(10\Omega_{\rm
+max}\right)=0.368$ ($\Omega_{\rm max}$ denotes the maximum phonon frequency). Despite the relatively
+large electron-phonon coupling constant ($\lambda=0.91$), the quantities such as: the order
+parameter ($\Delta$), the specific heat ($C$), and the thermodynamic critical field ($H_{c}$)
+determine the values of the dimensionless ratios not deviating much from the predictions of the
+BCS theory: $R_{\Delta}=2\Delta\left(0\right)/ k_{B}T_{c}=3.68$, $R_{C}=\Delta C\left(T_{c}\right)/
+C^{N}\left(T_{c}\right)=1.69$, and $R_{H}=T_{c}C^{N}\left(T_{c}\right)/ H^{2}_{c}\left(0\right)=0.171$.
+This result is associated with the reduction of the strong-coupling and the retardation effects
+by the high value of the Coulomb pseudopotential. It has been shown that the results of the Eliashberg
+formalism can be relatively precisely reproduced with the help of the semi-analytical formulas,
+if the value of $\mu^{\star}$ is determined on the basis of the $T_{c}$-Allen-Dynes expression
+($\mu^{\star}_{AD}=0.198$). The attention should be paid to the fact that in the numerical and
+in the semi-analytical approach the comparable values of the thermodynamic parameters for the
+same $\mu^{\star}$ have been obtained only in the vicinity of the point $\mu^{\star}=0.1$. 

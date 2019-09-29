@@ -1,0 +1,17 @@
+Uncertainty relations are central to quantum physics. While they were originally formulated in
+terms of variances, they have later been successfully expressed with entropies following the advent
+of Shannon information theory. Here, we review recent results on entropic uncertainty relations
+involving continuous variables, such as position $x$ and momentum $p$. This includes the generalization
+to arbitrary (not necessarily canonically-conjugate) variables as well as entropic uncertainty
+relations that take $x$-$p$ correlations into account and admit all Gaussian pure states as minimum
+uncertainty states. We emphasize that these continuous-variable uncertainty relations can be
+conveniently reformulated in terms of entropy power, a central quantity in the information-theoretic
+description of random signals, which makes a bridge with variance-based uncertainty relations.
+In this review, we take the quantum optics viewpoint and consider uncertainties on the amplitude
+and phase quadratures of the electromagnetic field, which are isomorphic to $x$ and $p$, but the
+formalism applies to all such variables (and linear combinations thereof) regardless of their
+physical meaning. Then, in the second part of this paper, we move on to new results and introduce a
+tighter entropic uncertainty relation for two arbitrary vectors of intercommuting continuous
+variables that take correlations into account. It is proven conditionally on reasonable assumptions.
+Finally, we present some conjectures for new entropic uncertainty relations involving more than
+two continuous variables. 

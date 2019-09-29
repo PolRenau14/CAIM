@@ -1,0 +1,17 @@
+We consider a binary energy harvesting communication channel with a finite-sized battery at the
+transmitter. In this model, the channel input is constrained by the available energy at each channel
+use, which is driven by an external energy harvesting process, the size of the battery, and the previous
+channel inputs. We consider an abstraction where energy is harvested in binary units and stored
+in a battery with the capacity of a single unit, and the channel inputs are binary. Viewing the available
+energy in the battery as a state, this is a state-dependent channel with input-dependent states,
+memory in the states, and causal state information available at the transmitter only. We find an
+equivalent representation for this channel based on the timings of the symbols, and determine the
+capacity of the resulting equivalent timing channel via an auxiliary random variable. We give achievable
+rates based on certain selections of this auxiliary random variable which resemble lattice coding
+for the timing channel. We develop upper bounds for the capacity by using a genie-aided method, and
+also by quantifying the leakage of the state information to the receiver. We show that the proposed
+achievable rates are asymptotically capacity achieving for small energy harvesting rates. We
+extend the results to the case of ternary channel inputs. Our achievable rates give the capacity
+of the binary channel within 0.03 bits/channel use, the ternary channel within 0.05 bits/channel
+use, and outperform basic Shannon strategies that only consider instantaneous battery states,
+for all parameter values. 

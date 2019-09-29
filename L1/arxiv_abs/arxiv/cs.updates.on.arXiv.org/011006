@@ -1,0 +1,16 @@
+A large-scale dataset of measurements of ETSI ITS-G5 Dedicated Short Range Communications (DSRC)
+is presented. Our dataset consists of network interactions happening between two On-Board Units
+(OBUs) and four Road Side Units (RSUs). Each OBU was fitted onto a vehicle. The two vehicles have been
+driven across the Innovate UK-funded FLOURISH Test Track encompassing key roads in the center of
+Bristol, UK. As for the RSUs, they were located at fixed locations around the track. Each RSU and OBU
+is equipped with two transceivers operating at different frequencies. During our experiments,
+each transceiver broadcast Cooperative Awareness Messages (CAMs) every $\SI{10}{\milli\second}$
+to the neighboring RSUs and or OBUs. The dataset refers to eight experimental sessions of the length
+of $\sim\SI{2}{\hour}$ each that have taken place over four days -- allocating two experimental
+sessions per-day. During the same day, both transceivers onboard any of the RSUs and OBUs was operated
+on two different frequencies. In particular, we operated the transceivers both over the licensed
+DSRC band, and over the unlicensed Industrial, Scientific, and Medical radio (ISM) bands $\SI{2.4}{\giga\hertz}$-$\SI{2.5}{\giga\hertz}$
+and $\SI{5.725}{\giga\hertz}$-$\SI{5.875}{\giga\hertz}$. During each experimental session,
+for each transceiver, all the transmitted and received CAMs were recorded. For each of the received
+CAMs, we also recorded its Received Signal Strength Indicator (RSSI) and the location of the receiving
+transceiver. 

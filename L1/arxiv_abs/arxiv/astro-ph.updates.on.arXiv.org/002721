@@ -1,0 +1,16 @@
+Recent observational evidence suggests that the coarse angular resolution ($\sim20"$ FWHM) of
+single-dish telescopes at sub-mm wavelengths has biased the observed galaxy number counts by blending
+together the sub-mm emission from multiple sub-mm galaxies (SMGs). We use lightcones computed
+from an updated implementation of the \galform semi-analytic model to generate $50$ mock sub-mm
+surveys of $0.5$ deg$^2$ at $850$ $\mu$m, taking into account the effects of the finite single-dish
+beam in a more accurate way than has been done previously. We find that blending of SMGs does lead to
+an enhancement of source extracted number counts at bright fluxes ($S_{\mathrm{850}\mu\mathrm{m}}\gtrsim1$
+mJy). Typically, $\sim4$ galaxies contribute $90\%$ of the flux of an $S_{850\mu\mathrm{m}}=5$
+mJy source and these blended galaxies are physically unassociated. We find that field-to-field
+variations are comparable to Poisson fluctuations for our $S_{850\mu\mathrm{m}}>5$ mJy SMG
+population, which has a median redshift $z_{50}=2.05$, but are greater than Poisson for the $S_{850\mu\mathrm{m}}>1$
+mJy population ($z_{50}=2.77$). In a detailed comparison with the ALESS survey we reproduce the
+difference between single-dish and interferometer number counts, as well as the high-redshift
+tail of the observed photometric redshift distribution and find a median redshift ($z_{50}=2.58$)
+consistent with the observed value ($z_{50}=2.5\pm 0.2$). We also present predictions for single-dish
+survey number counts at $450$ and $1100$ $\mu$m which show good agreement with observational data.

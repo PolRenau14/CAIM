@@ -1,0 +1,17 @@
+Dynamical properties of spherically symmetric galaxy models where both the stellar and total mass
+density distributions are described by the Jaffe (1983) profile (with different scale-lenghts
+and masses), are presented. The orbital structure of the stellar component is described by Osipkov--Merritt
+anisotropy, and a black hole (BH) is added at the center of the galaxy; the dark matter halo is isotropic.
+First, the conditions required to have a nowhere negative and monothonically decreasing dark matter
+halo density profile, are derived. We then show that the phase-space distribution function can
+be recovered by using the Lambert-Euler $W$ function, while in absence of the central BH only elementary
+functions appears in the integrand of the inversion formula. The minimum value of the anisotropy
+radius for consistency is derived in terms of the galaxy parameters. The Jeans equations for the
+stellar component are solved analytically, and the projected velocity dispersion at the center
+and at large radii are also obtained analytically for generic values of the anisotropy radius. Finally,
+the relevant global quantities entering the Virial Theorem are computed analytically, and the
+fiducial anisotropy limit required to prevent the onset of Radial Orbit Instability is determined
+as a function of the galaxy parameters. The presented models, even though highly idealized, represent
+a substantial generalization of the models presentd in Ciotti et al. (2009), and can be useful as
+starting point for more advanced modeling the dynamics and the mass distribution of elliptical
+galaxies. 

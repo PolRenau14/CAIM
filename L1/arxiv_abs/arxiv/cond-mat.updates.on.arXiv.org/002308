@@ -1,0 +1,16 @@
+Recent work by De Roeck et al. [Phys. Rev. B 95, 155129 (2017)] has argued that many-body localization
+(MBL) is unstable in two and higher dimensions due to a thermalization avalanche triggered by rare
+regions of weak disorder. To examine these arguments, we construct several models of a finite ergodic
+bubble coupled to an Anderson insulator of non-interacting fermions. We first describe the ergodic
+region using a GOE random matrix and perform an exact diagonalization study of small systems. The
+results are in excellent agreement with a refined theory of the thermalization avalanche that includes
+transient finite size effects, lending strong support to the avalanche scenario. We then explore
+the limit of large system sizes by modeling the ergodic region via a Hubbard model with all-to-all
+random hopping---the combined system, consisting of the bubble and the insulator, can be reduced
+to an effective Anderson impurity problem. We find that the spectral function of a local operator
+in the ergodic region changes dramatically when coupled to a large number of Anderson fermions,
+suggesting a possible way in which the avalanche can fail. While this fact per se does not preclude
+the thermalization avalanche, it violates a central assumption in the arguments of De Roeck et al.
+whereby the spectral function does not exhibit qualitative changes. We verify this conclusion
+in a solvable toy model in which describing the ergodic region using a Sachdev-Ye-Kitaev model allows
+us to obtain the exact solution of the fully coupled system in a suitable large-$N$ limit. 

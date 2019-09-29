@@ -1,0 +1,16 @@
+A method for estimating return values from ensembles of forecasts at advanced lead times is presented.
+Return values of significant wave height in the North-East Atlantic, the Norwegian Sea and the North
+Sea are computed from archived +240-h forecasts of the ECMWF ensemble prediction system (EPS) from
+1999 to 2009. We make three assumptions: First, each forecast is representative of a six-hour interval
+and collectively the data set is then comparable to a time period of 226 years. Second, the model climate
+matches the observed distribution, which we confirm by comparing with buoy data. Third, the ensemble
+members are sufficiently uncorrelated to be considered independent realizations of the model
+climate. We find anomaly correlations of 0.20, but peak events (>P97) are entirely uncorrelated.
+By comparing return values from individual members with return values of subsamples of the data
+set we also find that the estimates follow the same distribution and appear unaffected by correlations
+in the ensemble. The annual mean and variance over the 11-year archived period exhibit no significant
+departures from stationarity compared with a recent reforecast, i.e., there is no spurious trend
+due to model upgrades. EPS yields significantly higher return values than ERA-40 and ERA-Interim
+and is in good agreement with the high-resolution hindcast NORA10, except in the lee of unresolved
+islands where EPS overestimates and in enclosed seas where it is biased low. Confidence intervals
+are half the width of those found for ERA-Interim due to the magnitude of the data set. 

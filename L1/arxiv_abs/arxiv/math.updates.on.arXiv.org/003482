@@ -1,0 +1,17 @@
+For the large-scale linear discrete ill-posed problem $\min\|Ax-b\|$ or $Ax=b$ with $b$ contaminated
+by white noise, the Lanczos bidiagonalization based Krylov solver LSQR and its mathematically
+equivalent CGLS, the Conjugate Gradient (CG) method implicitly applied to $A^TAx=A^Tb$, are most
+commonly used, and CGME, the CG method applied to $\min\|AA^Ty-b\|$ or $AA^Ty=b$ with $x=A^Ty$,
+and LSMR, which is equivalent to the minimal residual (MINRES) method applied to $A^TAx=A^Tb$,
+have also been choices. These methods have intrinsic regularizing effects, where the iteration
+number $k$ plays the role of the regularization parameter. However, there has been no definitive
+answer to the long-standing fundamental question: {\em can LSQR and CGLS can find best possible
+regularized solutions}? The same question is for CGME and LSMR too. At iteration $k$, these four
+methods compute iterates from the same $k$ dimensional Krylov subspace when starting vectors are
+chosen properly. A first and fundamental step towards to answering the above question is to accurately
+estimate the accuracy of the underlying $k$ dimensional Krylov subspace approximating the $k$
+dimensional dominant right singular subspace of $A$. Assuming that the singular values of $A$ are
+simple, we present a general $\sin\Theta$ theorem for the 2-norm distances between the two subspaces,
+derive accurate estimates on them for severely, moderately and mildly ill-posed problems, and
+establish some relationships between the smallest Ritz values and these distances. Numerical
+experiments justify our estimates and theory. 

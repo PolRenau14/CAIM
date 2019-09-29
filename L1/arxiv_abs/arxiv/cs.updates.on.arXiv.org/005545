@@ -1,0 +1,17 @@
+The paradigm of shared spectrum allows secondary devices to opportunistically access spectrum
+bands underutilized by primary owners. Recently, the FCC has targeted the sharing of the 3.5 GHz
+(3550-3700 MHz) federal spectrum with commercial systems such as small cells. The rules require
+a Spectrum Access System (SAS) to accommodate three service tiers: 1) Incumbent Access, 2) Priority
+Access (PA), and 3) Generalized Authorized Access (GAA). In this work, we study the SAS-assisted
+dynamic channel assignment (CA) for PA and GAA tiers.We introduce the node-channel-pair conflict
+graph to capture pairwise interference, channel and geographic contiguity constraints, spatially
+varying channel availability, and coexistence awareness. The proposed conflict graph allows
+us to formulate PA CA and GAA CA with binary conflicts as max-cardinality and max-reward CA, respectively.
+Approximate solutions can be found by a heuristic-based algorithm that search for the maximum weighted
+independent set. We further formulate GAA CA with non-binary conflicts as max-utility CA. We show
+that the utility function is submodular, and the problem is an instance of matroid-constrained
+submodular maximization. A polynomial-time algorithm based on local search is proposed that provides
+a provable performance guarantee. Extensive simulations using a real-world Wi-Fi hotspot location
+dataset are conducted to evaluate the proposed algorithms. Our results have demonstrated the advantages
+of the proposed graph representation and improved performance of the proposed algorithms over
+the baseline algorithms. 

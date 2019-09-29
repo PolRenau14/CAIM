@@ -1,0 +1,17 @@
+Intelligent fashion outfit composition becomes more and more popular in these years. Some deep
+learning based approaches reveal competitive composition recently. However, the unexplainable
+characteristic makes such deep learning based approach cannot meet the the designer, businesses
+and consumers' urge to comprehend the importance of different attributes in an outfit composition.
+To realize interpretable and customized fashion outfit compositions, we propose a partitioned
+embedding network to learn interpretable representations from clothing items. The overall network
+architecture consists of three components: an auto-encoder module, a supervised attributes module
+and a multi-independent module. The auto-encoder module serves to encode all useful information
+into the embedding. In the supervised attributes module, multiple attributes labels are adopted
+to ensure that different parts of the overall embedding correspond to different attributes. In
+the multi-independent module, adversarial operation are adopted to fulfill the mutually independent
+constraint. With the interpretable and partitioned embedding, we then construct an outfit composition
+graph and an attribute matching map. Given specified attributes description, our model can recommend
+a ranked list of outfit composition with interpretable matching scores. Extensive experiments
+demonstrate that 1) the partitioned embedding have unmingled parts which corresponding to different
+attributes and 2) outfits recommended by our model are more desirable in comparison with the existing
+methods. 

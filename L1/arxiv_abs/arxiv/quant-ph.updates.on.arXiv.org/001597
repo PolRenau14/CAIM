@@ -1,0 +1,17 @@
+Quantum superpositions of macroscopically distinct classical states, so-called Schr\"{o}dinger
+cat states, are a resource for quantum metrology, quantum communication, and quantum computation.
+In particular, the superpositions of two opposite-phase coherent states in an oscillator encode
+a qubit protected against phase-flip errors. However, several challenges have to be overcome in
+order for this concept to become a practical way to encode and manipulate error-protected quantum
+information. The protection must be maintained by stabilizing these highly excited states and,
+at the same time, the system has to be compatible with fast gates on the encoded qubit and a quantum
+non-demolition readout of the encoded information. Here, we experimentally demonstrate a novel
+method for the generation and stabilization of Schr\"{o}dinger cat states based on the interplay
+between Kerr nonlinearity and single-mode squeezing in a superconducting microwave resonator.
+We show an increase in transverse relaxation time of the stabilized, error-protected qubit over
+the single-photon Fock-state encoding by more than one order of magnitude. We perform all single-qubit
+gate operations on time-scales more than sixty times faster than the shortest coherence time and
+demonstrate single-shot readout of the protected qubit under stabilization. Our results showcase
+the combination of fast quantum control with the robustness against errors intrinsic to stabilized
+macroscopic states and open up the possibility of using these states as resources in quantum information
+processing. 

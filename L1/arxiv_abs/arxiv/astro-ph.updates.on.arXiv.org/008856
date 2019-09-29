@@ -1,0 +1,17 @@
+We present accretion-disk structure measurements from continuum lags in the Sloan Digital Sky
+Survey Reverberation Mapping (SDSS-RM) project. Lags are measured using the \texttt{JAVELIN}
+software from the first-year SDSS-RM $g$ and $i$ photometry, resulting in well-defined lags for
+95 quasars, 33 of which have lag SNR $>$ 2$\sigma$. We also estimate lags using the \texttt{ICCF}
+software and find consistent results, though with larger uncertainties. Accretion-disk structure
+is fit using a Markov Chain Monte Carlo approach, parameterizing the measured continuum lags as
+a function of disk size normalization, wavelength, black hole mass, and luminosity. In contrast
+with previous observations, our best-fit disk sizes and color profiles are consistent with the
+(Shakura \& Sunyaev 1973) analytic solution. We also find that more massive quasars have larger
+accretion disks, similarly consistent with the analytic accretion-disk model. The continuum
+lag fits have a large excess dispersion, indicating that our measured lag errors are underestimated
+and/or our best-fit model may be missing the effects of orientation, spin, and/or radiative efficiency.
+We demonstrate that fitting disk parameters using only the highest-SNR lag measurements biases
+best-fit disk sizes to be larger than the disk sizes recovered using a Bayesian approach on the full
+sample of well-defined lags. This work represents a significant advance in continuum reverberation
+mapping, providing a large number of accretion-disk size and structure measurements for quasars
+spanning a broad range of redshift, mass and luminosity. 

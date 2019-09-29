@@ -1,0 +1,16 @@
+It has long been thought that superconductivity breaks down even at zero temperature in lower-dimensional
+systems due to enhanced topological quantum phase fluctuations. In quasi-1D wires, these fluctuations
+are described in terms of "quantum phase-slip" (QPS): tunneling of the superconducting order parameter
+for the wire between states differing by $\pm2\pi$ in their relative phase between the wire's ends.
+Many deviations from conventional bulk superconducting behavior have been observed in ultra-narrow
+superconducting nanowires over the last several decades which have been identified with QPS, and
+at least some of the observations are consistent with existing theories. However, other observations
+in many cases point to contradictory conclusions or cannot be explained by these theories, such
+that a unified understanding of the nature of quantum phase slip and its relationship to the various
+observations has yet to be achieved. In this paper we present a new model for QPS which takes as its
+starting point an idea originally postulated by Mooij and Nazarov [Nature Physics {\bf 2}, 169 (2006)]:
+that \textit{flux-charge duality}, a classical symmetry of Maxwell's equations, can be used to
+relate QPS to the well-known effect of Josephson tunneling of Cooper pairs. Our model provides an
+alternative, and qualitatively different, conceptual basis for QPS and the phenomena which arise
+from it in experiments, and it appears to permit for the first time a unified understanding of observations
+across several different types of experiments and materials systems. 

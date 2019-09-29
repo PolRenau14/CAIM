@@ -1,0 +1,16 @@
+Hagfish slime is a unique predator defense material containing a network of long fibrous threads
+each ~ 10 cm in length. Hagfish release the threads in a condensed coiled state known as thread cells,
+or skeins (~ 100 microns), which must unravel within a fraction of a second to thwart a predator attack.
+Here we consider the hypothesis that viscous hydrodynamics can be responsible for this rapid unraveling,
+as opposed to chemical reaction kinetics alone. Our main conclusion is that, under reasonable physiological
+conditions, unraveling due to viscous drag can occur within a few hundred milliseconds, and is accelerated
+if the skein is pinned at a surface such as the mouth of a predator. We model a single thread cell unspooling
+as the fiber peels away due to viscous drag. We capture essential features by considering one-dimensional
+scenarios where the fiber is aligned with streamlines in either uniform flow or uniaxial extensional
+flow. The peeling resistance is modeled with a power-law dependence on peeling velocity. A dimensionless
+ratio of viscous drag to peeling resistance appears in the dynamical equations and determines the
+unraveling timescale. Our modeling approach is general and can be refined with future experimental
+measurements of peel strength for skein unraveling. It provides key insights into the unraveling
+process, offers potential answers to lingering questions about slime formation from threads and
+mucous vesicles, and will aid the growing interest in engineering similar bioinspired material
+systems. 

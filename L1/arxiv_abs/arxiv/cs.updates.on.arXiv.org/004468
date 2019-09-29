@@ -1,0 +1,16 @@
+In the FPGA (Field Programmable Gate Arrays) design flow, one of the most time-consuming step is
+the routing of nets. Therefore, there is a need to accelerate it. In [Hoo, Kumar, and Ha; 2015], the
+authors have developed a Linear Programming (LP) based framework that parallelizes this routing
+process to achieve significant speedups (the resulting algorithm is termed as ParaLaR). However,
+this approach has certain weaknesses. Namely, the constraints violation by the solution and a local
+minima that could be improved. We address these two issues here. In this paper, we use the LP framework
+of [Hoo, Kumar, and Ha; 2015] and solve it using the Primal-Dual Sub-Gradient method that better
+exploits the problem properties. We also propose a better way to update the size of the step taken
+by this iterative algorithm. We perform experiments on a set of standard benchmarks, where we show
+that our algorithm outperforms the standard existing algorithms (VPR and ParaLaR). We achieve
+upto 22% improvement in the constraints violation and the standard metric of the minimum channel
+width when compared with ParaLaR (which is same as in VPR). We achieve about 20% savings in another
+standard metric of the total wire length (when compared with VPR), which is the same as for ParaLaR.
+Hence, our algorithm achieves minimum value for all the three parameters. Also, the critical path
+delay for our algorithm is almost same as compared to VPR and ParaLaR. On an average, we achieve relative
+speedups of 4 times when we run a parallel version of our algorithm using 8 threads. 

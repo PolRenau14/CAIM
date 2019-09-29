@@ -1,0 +1,16 @@
+Donaldon constructed a hyperk\"ahler moduli space $\mathcal{M}$ associated to a closed oriented
+surface $\Sigma$ with $\textrm{genus}(\Sigma) \geq 2$. This embeds naturally into the cotangent
+bundle $T^*\mathcal{T}(\Sigma)$ of Teichm\"uller space or can be identified with the almost-Fuchsian
+moduli space associated to $\Sigma$. The later is the moduli space of quasi-Fuchsian threefolds
+which contain a unique incompressible minimal surface with principal curvatures in $(-1,1)$.
+Donaldson outlined various remarkable properties of this moduli space for which we provide complete
+proofs in this paper: On the cotangent-bundle of Teichm\"uller space, the hyperk\"ahler structure
+on $\mathcal{M}$ can be viewed as the Feix--Kaledin hyperk\"ahler extension of the Weil--Petersson
+metric. The almost-Fuchsian moduli space embeds into the $\textrm{SL}(2,\mathbb{C})$-representation
+variety of $\Sigma$ and the hyperk\"ahler structure on $\mathcal{M}$ extends the Goldman holomorphic
+symplectic structure. Here the natural complex structure corresponds to the second complex structure
+in the first picture. Moreover, the area of the minimal surface in an almost-Fuchsian manifold provides
+a K\"ahler potential for the hyperk\"ahler metric. The various identifications are obtained using
+the work of Uhlenbeck on germs of hyperbolic $3$-manifolds, an explicit map from $\mathcal{M}$
+to $\mathcal{T}(\Sigma)\times \overline{\mathcal{T}(\Sigma)}$ found by Hodge, the simultaneous
+uniformization theorem of Bers, and the theory of Higgs bundles introduced by Hitchin. 

@@ -1,0 +1,16 @@
+In a quantum dot hybrid superconducting junction, the behavior of the supercurrent is dominated
+by Coulomb blockade physics, which determines the magnetic state of the dot. In particular, in a
+single level quantum dot singly occupied, the sign of the supercurrent can be reversed, giving rise
+to a pi-junction. This 0-pi transition, corresponding to a singlet-doublet transition, is then
+driven by the gate voltage or by the superconducting phase in the case of strong competition between
+the superconducting proximity effect and Kondo correlations. In a two-level quantum dot, such
+as a clean carbon nanotube, 0-pi transitions exist as well but, because more cotunneling processes
+are allowed, are not necessarily associated to a magnetic state transition of the dot. In this proceeding,
+after a review of 0-pi transitions in Josephson junctions, we present measurements of current-phase
+relation in a clean carbon nanotube quantum dot, in the single and two-level regimes. In the single
+level regime, close to orbital degeneracy and in a regime of strong competition between local electronic
+correlations and superconducting proximity effect, we find that the phase diagram of the phase-dependent
+transition is a universal characteristic of a discontinuous level-crossing quantum transition
+at zero temperature. In the case where the two levels are involved, the nanotube Josephson current
+exhibits a continuous 0-pi transition, independent of the superconducting phase, revealing a
+different physical mechanism of the transition. 

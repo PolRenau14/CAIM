@@ -1,0 +1,17 @@
+Until now, researchers have proposed several novel heterogeneous defect prediction HDP methods
+with promising performance. To the best of our knowledge, whether HDP methods can perform significantly
+better than unsupervised methods has not yet been thoroughly investigated. In this article, we
+perform a replication study to have a holistic look in this issue. In particular, we compare state-of-the-art
+five HDP methods with five unsupervised methods. Final results surprisingly show that these HDP
+methods do not perform significantly better than some of unsupervised methods (especially the
+simple unsupervised methods proposed by Zhou et al.) in terms of two non-effort-aware performance
+measures and four effort-aware performance measures. Then, we perform diversity analysis on defective
+modules via McNemar's test and find the prediction diversity is more obvious when the comparison
+is performed between the HDP methods and the unsupervised methods than the comparisons only between
+the HDP methods or between the unsupervised methods. This shows the HDP methods and the unsupervised
+methods are complementary to each other in identifying defective models to some extent. Finally,
+we investigate the feasibility of five HDP methods by considering two satisfactory criteria recommended
+by previous CPDP studies and find the satisfactory ratio of these HDP methods is still pessimistic.
+The above empirical results implicate there is still a long way for heterogeneous defect prediction
+to go. More effective HDP methods need to be designed and the unsupervised methods should be considered
+as baselines. 

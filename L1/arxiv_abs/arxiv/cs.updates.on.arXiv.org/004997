@@ -1,0 +1,17 @@
+Natural plants are exemplars of adaptation through self-organisation and collective decision
+making. As such, they provide a rich source of inspiration for adaptive mechanisms in artificial
+systems. Plant growth - a structure development mechanism of continuous material accumulation
+that expresses encoded morphological features through environmental interactions - has been
+extensively explored in-silico. However, ex-silico scalable morphological adaptation through
+material accumulation remains an open challenge. In this paper, we present a novel type of biologically
+inspired modularity, and an approach to artificial growth that combines the benefits of material
+continuity through braiding with a distributed and decentralised plant-inspired Vascular Morphogenesis
+Controller (VMC). The controller runs on nodes that are capable of sensing and communicating with
+their neighbours. The nodes are embedded within the braided structure, which can be morphologically
+adapted based on collective decision making between nodes. Human agents realise the material adaptation
+by physically adding to the braided structure according to the suggestion of the embedded controller.
+This work offers a novel, tangible and accessible approach to embedding mechanisms of artificial
+growth and morphological adaptation within physically embodied systems, offering radically
+new functionalities, innovation potentials and approaches to continuous autonomous or steered
+design that could find application within fields contributing to the built environment, such as
+Architecture. 

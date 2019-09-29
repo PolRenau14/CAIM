@@ -1,0 +1,16 @@
+Rule-based methods are often used for assigning fiber orientation to cardiac anatomical models.
+However, existing methods have been developed using data mostly from the left ventricle. As a consequence,
+fiber information obtained from rule-based methods often does not match histological data in other
+areas of the heart such as the right ventricle, having a negative impact in cardiac simulations beyond
+the left ventricle. In this work, we present a rule-based method where fiber orientation is separately
+modeled in each ventricle following observations from histology. This allows to create detailed
+fiber orientation in specific regions such as the endocardium of the right ventricle, the interventricular
+septum and the outflow tracts. We also carried out electrophysiological simulations involving
+these structures and with different fiber configurations. In particular, we built a modelling
+pipeline for creating patient-specific volumetric meshes of biventricular geometries, including
+the outflow tracts, and subsequently simulate the electrical wavefront propagation in outflow
+tract ventricular arrhythmias with different origins for the ectopic focus. The resulting simulations
+with the proposed rule-based method showed a very good agreement with clinical parameters such
+as the 10 ms isochrone ratio in a cohort of nine patients suffering from this type of arrhythmia. The
+developed modelling pipeline confirms its potential for an in silico identification of the site
+of origin in outflow tract ventricular arrhythmias before clinical intervention. 

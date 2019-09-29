@@ -1,0 +1,17 @@
+This paper is about geometric and Riemannian properties of Engel structures, i.e. maximally non-integrable
+$2$-plane fields on $4$-manifolds. Two $1$-forms $\alpha$ and $\beta$ are called Engel defining
+forms if $\mathcal{D}=\ker\alpha\cap\ker\beta$ is an Engel structure and $\mathcal{E}=\ker\alpha$
+is its associated even contact structure, i.e. $\mathcal{E}=[\mathcal{D},\mathcal{D}]$. A
+choice of Engel defining forms determines a distribution $\mathcal{R}$ transverse to $\mathcal{D}$
+called the Reeb distribution. We study conditions that ensure integrability of $\mathcal{R}$.
+For example if we have a metric $g$ which makes the splitting $TM=\mathcal{D}\oplus\mathcal{R}$
+orthogonal and such that $\mathcal{D}$ is totally geodesic then there exists an integrable Reeb
+distribution $\tilde{\mathcal{R}}$. It turns out that integrabilty of $\mathcal{R}$ is related
+to the existence of vector fields $Z$ whose flow preserves $\mathcal{D}$, so called Engel vector
+fields. A K-Engel structure is a triple $(\mathcal{D},\,g,\,Z)$ where $\mathcal{D}$ is an Engel
+structure, $g$ is a Riemannian metric, and $Z$ is a vector field which is Engel, Killing, and orthogonal
+to $\mathcal{E}$. In this case we can construct Engel defining forms with very nice properties and
+such that $\mathcal{R}$ is integrable. Moreover we can classify the topology of K-Engel manifolds
+studying the action of the flow of $Z$. As natural consequences of these methods we provide a construction
+which is the analogue of the Boothby-Wang construction in the contact setting and we give a notion
+of contact filling for an Engel structure. 

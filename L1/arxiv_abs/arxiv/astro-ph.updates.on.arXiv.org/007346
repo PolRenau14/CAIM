@@ -1,0 +1,16 @@
+We determine the dipole in the WISE galaxy catalogue. After reducing star contamination to <0.1%
+by rejecting sources with high apparent motion and those close to the Galactic plane, we eliminate
+low redshift sources to suppress the non-kinematic, clustering dipole. We remove sources within
+{\pm}5{\deg} of the super-galactic plane, as well as those within 1'' of 2MRS sources at redshift
+z < 0.03. We enforce cuts on the source angular extent to preferentially select distant ones. As we
+progress along these steps, the dipole converges in direction to within 5{\deg} of the CMB dipole
+and its magnitude also progressively reduces but stabilises at {\sim}0.012, corresponding to
+a velocity >1000 km/s if it is solely of kinematic origin. However, previous studies have shown that
+only {\sim}70% of the velocity of the Local Group as inferred from the CMB dipole is due to sources
+at z < 0.03. We examine the Dark Sky simulations to quantify the prevalence of such environments and
+find that <2.1% of Milky Way-like observers in a {\Lambda}CDM universe should observe the bulk flow
+(> 240 km/s extending to z > 0.03) that we do. We construct mock catalogues in the neighbourhood of
+such peculiar observers in order to mimic our final galaxy selection and quantify the residual clustering
+dipole. After subtracting this the remaining dipole is 0.0048 {\pm} 0.0022, corresponding to a
+velocity of 420 {\pm} 213 km/s which is consistent with the CMB. However the sources (at z > 0.03) of
+such a large clustering dipole remain to be identified. 

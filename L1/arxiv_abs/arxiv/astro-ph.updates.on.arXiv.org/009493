@@ -1,0 +1,16 @@
+Transit timing variations (TTVs) are a valuable tool to determine the masses and orbits of transiting
+planets in multi-planet systems. TTVs can be readily modeled given knowledge of the interacting
+planets' orbital configurations and planet-star mass ratios, but such models are highly nonlinear
+and difficult to invert. Markov chain Monte Carlo (MCMC) methods are often used to explore the posterior
+distribution for model parameters, but, due to the high correlations between parameters, nonlinearity,
+and potential multi-modality in the posterior, many samplers perform very inefficiently. Therefore,
+we assess the performance of several MCMC samplers that use varying degrees of geometric information
+about the target distribution. We generate synthetic datasets from multiple models, including
+the TTVFaster model and a simple sinusoidal model, and test the efficiencies of various MCMC samplers.
+We find that sampling efficiency can be greatly improved for all models by sampling from a parameter
+space transformed using an estimate of the covariance and means of the target distribution. No one
+sampler performs the best for all datasets, but several samplers, such as Differential Evolution
+Monte Carlo and Geometric adaptive Monte Carlo, have consistently efficient performance. For
+datasets with near Gaussian posteriors, Hamiltonian Monte Carlo samplers with 2 or 3 leapfrog steps
+obtained the highest efficiencies. Based on differences in effective sample sizes per time, we
+show that the right choice of sampler can improve sampling efficiencies by several orders of magnitude.

@@ -1,0 +1,16 @@
+According to the standard cold dark matter (CDM) cosmology, the structure of dark halos including
+those of galaxy clusters reflects their mass accretion history. Older clusters tend to be more concentrated
+than younger clusters. Their structure, represented by the characteristic radius $r_s$ and mass
+$M_s$ of the Navarro--Frenk--White (NFW) density profile, is related to their formation time.
+In~this study, we showed that $r_s$, $M_s$, and the X-ray temperature of the intracluster medium
+(ICM), $T_X$, form a thin plane in the space of $(\log r_s, \log M_s, \log T_X)$. This tight correlation
+indicates that the ICM temperature is also determined by the formation time of individual clusters.
+Numerical simulations showed that clusters move along the fundamental plane as they evolve. The
+plane and the cluster evolution within the plane could be explained by a similarity solution of structure
+formation of the universe. The angle of the plane shows that clusters have not achieved "virial equilibrium"
+in the sense that mass/size growth and pressure at the boundaries cannot be ignored. The distribution
+of clusters on the plane was related to the intrinsic scatter in the halo concentration--mass relation,
+which originated from the variety of cluster ages. The well-known mass--temperature relation
+of clusters ($M_\Delta\propto T_X^{3/2}$) can be explained by the fundamental plane and the mass
+dependence of the halo concentration without the assumption of virial equilibrium. The fundamental
+plane could also be used for calibration of cluster masses. 

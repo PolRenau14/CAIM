@@ -1,0 +1,16 @@
+A well known result by Lagarias and Ziegler states that there are finitely many equivalence classes
+of d-dimensional lattice polytopes having volume at most K, for fixed constants d and K. We describe
+an algorithm for the complete enumeration of such equivalence classes for arbitrary constants
+d and K. The algorithm, which gives another proof of the finiteness result, is implemented for small
+values of K, up to dimension six. The resulting database contains and extends several existing ones,
+and has been used to correct mistakes in other classifications. When specialized to three-dimensional
+smooth polytopes, it extends previous classifications by Bogart et al., Lorenz and Lundman. Moreover,
+we give a structure theorem for smooth polytopes with few lattice points that proves that they have
+a quadratic triangulation and that we use, together with the classification, to describe smooth
+polytopes having small volume in arbitrary dimension. In dimension three we enumerate all the simplices
+having up to 11 interior lattice points and we use them to conjecture a set of sharp inequalities for
+the coefficients of the Ehrhart h*-polynomials, unifying several existing conjectures. Finally,
+we extract and discuss minimal interesting examples from the classification, and we study the frequency
+of properties such as being spanning, very ample, IDP, and having a unimodular cover or triangulation.
+In particular, we find the smallest polytopes which are very ample but not IDP, and with a unimodular
+cover but without a unimodular triangulation. 

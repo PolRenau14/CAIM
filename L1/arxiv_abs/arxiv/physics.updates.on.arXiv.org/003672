@@ -1,0 +1,17 @@
+Geostatistical seismic inversion is commonly used to infer the spatial distribution of the subsurface
+petro-elastic properties by perturbing the model parameter space through iterative stochastic
+sequential simulations/co-simulations. The spatial uncertainty of the inferred petro-elastic
+properties is represented with the updated a posteriori variance from an ensemble of the simulated
+realizations. Within this setting, the large-scale geological (metaparameters) used to generate
+the petro-elastic realizations, such as the spatial correlation model and the global a priori distribution
+of the properties of interest, are assumed to be known and stationary for the entire inversion domain.
+This assumption leads to underestimation of the uncertainty associated with the inverted models.
+We propose a practical framework to quantify uncertainty of the large-scale geological parameters
+in seismic inversion. The framework couples geostatistical seismic inversion with a stochastic
+adaptive sampling and Bayesian inference of the metaparameters to provide a more accurate and realistic
+prediction of uncertainty not restricted by heavy assumptions on large-scale geological parameters.
+The proposed framework is illustrated with both synthetic and real case studies. The results show
+the ability retrieve more reliable acoustic impedance models with a more adequate uncertainty
+spread when compared with conventional geostatistical seismic inversion techniques. The proposed
+approach separately account for geological uncertainty at large-scale (metaparameters) and
+local scale (trace-by-trace inversion). 

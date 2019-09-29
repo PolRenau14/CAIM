@@ -1,0 +1,17 @@
+Among about 1.8 million Gaia DR2 high proper motion stars with $\mu>60$ mas/yr and moderately significant
+parallaxes ($\varpi>3\sigma_{\varpi}$), we have selected 109 high-speed star candidates with
+Galactic rest frame tangential velocities (corrected for solar motion) $v_{t,g}$$>$700 km/s,
+well above the local Galactic escape velocity. After applying various Gaia DR2 astrometric quality
+criteria, only 39 candidates remained, including all three hypervelocity runaway white dwarfs
+(HVR WDs) found by Shen et al. (2018) but no additional such candidates (falling in the same region
+of the colour-magnitude diagram). Considering only candidates with highly significant parallaxes
+($\varpi>5\sigma_{\varpi}$) as reliable extreme tangential velocity candidates (cf. Bromley
+et al. 2018), our final list consists of six objects with parallaxes of 0.17 mas $\lesssim \varpi
+\lesssim$ 1.05 mas and tangential velocities of 730 km/s $\lesssim v_{t,g} \lesssim$ 1600 km/s,
+including two candidates of Bromley et al. (2018). Only one of the three HVR WDs of Shen et al. (2018),
+D6-2 (= NLTT 51732), falls in that list but can be considered a doubtful high-speed candidate because
+of its relatively large astrometric quality parameters. One of the three new extreme velocity candidates
+in our list, Gaia DR2 6097052289696317952, is relatively bright ($G\approx$13.5 mag) and blue
+$BP$$-$$RP$$\approx$0.6 mag and has the smallest parallax and highest tangential velocity. Radial
+velocity measurements are needed to clarify whether these high-speed candidates are unbound to
+the Galaxy. 

@@ -1,0 +1,17 @@
+Luminous tracers of large-scale structure are not entirely representative of the distribution
+of mass in our Universe. As they arise from the highest peaks in the matter density field, the spatial
+distribution of luminous objects is biased towards those peaks. On large scales, where density
+fluctuations are mild, this bias simply amounts to a constant offset in the clustering amplitude
+of the tracer, known as linear bias. In this work we focus on the relative bias between galaxies and
+galaxy clusters that are located inside and in the vicinity of cosmic voids, extended regions of
+relatively low density in the large-scale structure of the Universe. With the help of hydro-dynamical
+simulations we verify that the relation between galaxy and cluster overdensity around voids remains
+linear. Hence, the void-centric density profiles of different tracers can be linked by a single
+multiplicative constant. This amounts to the same value as the relative linear bias between tracers
+for the largest voids in the sample. For voids of small sizes, which typically arise in higher density
+regions, this constant has a higher value, possibly showing an environmental dependence similar
+to that observed for the linear bias itself. We confirm our findings by analysing mocks and data obtained
+during the first year of observations by the Dark Energy Survey. As a side product, we present the
+first catalogue of three-dimensional voids extracted from a photometric survey with a controlled
+photo-z uncertainty. Our results will be relevant in forthcoming analyses that attempt to use voids
+as cosmological probes. 

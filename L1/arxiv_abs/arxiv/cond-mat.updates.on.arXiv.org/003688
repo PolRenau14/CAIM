@@ -1,0 +1,16 @@
+We theoretically study the high-harmonic generation (HHG) in one-dimensional spin systems. While
+in electronic systems the driving by AC electric fields produces radiation from the dynamics of
+excited charges, we consider here the situation where spin systems excited by a magnetic field pulse
+generate radiation via a time-dependent magnetization. Specifically, we study the magnetic dipole
+radiation in two types of ferromagnetic spin chain models, the Ising model with static longitudinal
+field and the XXZ model, and reveal the structure of the spin HHG and its relation to spin excitations.
+For weak laser amplitude, a peak structure appears which can be explained by time-dependent perturbation
+theory. With increasing amplitude, plateaus with well-defined cutoff energies emerge. In the
+Ising model with longitudinal field, the thresholds of the multiple plateaus in the radiation spectra
+can be explained by the annihilation of multiple magnons. In the XXZ model, which retains the $\mathbf{Z}_{2}$
+symmetry, the laser magnetic field can induce a phase transition of the ground state when it exceeds
+a critical value, which results in a drastic change of the spin excitation character. As a consequence,
+the first cutoff energy in the HHG spectrum changes from a single-magnon to a two-magnon energy at
+this transition. Our results demonstrate the possibility of generating high-harmonic radiation
+from magnetically ordered materials and the usefulness of high-harmonic signals for extracting
+information on the spin excitation spectrum. 

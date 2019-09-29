@@ -1,0 +1,16 @@
+Motivated by holographic complexity proposals as novel probes of black hole spacetimes, we explore
+circuit complexity for thermofield double (TFD) states in free scalar quantum field theories using
+the Nielsen approach. For TFD states at $t = 0$, we show that the complexity of formation is proportional
+to the thermodynamic entropy, in qualitative agreement with holographic complexity proposals.
+For TFD states at $t>0$, we demonstrate that the complexity evolves in time and saturates after a
+time of the order of the inverse temperature. The latter feature, which is in contrast with the results
+of holographic proposals, is due to the Gaussian nature of the TFD state of the free bosonic QFT. A
+novel technical aspect of our work is framing complexity calculations in the language of covariance
+matrices and the associated symplectic transformations, which provide a natural language for
+dealing with Gaussian states. Furthermore, for free QFTs in 1+1 dimension, we compare the dynamics
+of circuit complexity with the time dependence of the entanglement entropy for simple bipartitions
+of TFDs. We relate our results for the entanglement entropy to previous studies on non-equilibrium
+entanglement evolution following quenches. We also present a new analytic derivation of a logarithmic
+contribution due to the zero momentum mode in the limit of vanishing mass for a subsystem containing
+a single degree of freedom on each side of the TFD and argue why a similar logarithmic growth should
+be present for larger subsystems. 

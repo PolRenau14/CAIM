@@ -1,0 +1,16 @@
+Future generations of communications systems will target a very wide range of applications, with
+possibly very different specifications. This implies the need for a physical layer technology
+allowing for an ultra flexible allocation of the time-frequency resources. In this regard, the
+most popular modulation nowadays, namely, the orthogonal frequency division multiplexing (OFDM)
+modulation, is characterized by a very poor frequency localization, making frequency resource
+allocation much less flexible. In the light of these limitations, communications using new waveforms,
+relying on more sophisticated time windowing or filtering, have attracted a lot of attention for
+the last decade, such as offset-QAM-based filterbank multicarrier (FBMC-OQAM), universal filtered
+multicarrier (UFMC) or generalized frequency division multiplexing (GFDM). At the same time,
+the higher complexity of these new waveforms, not only in terms of implementation but especially
+conceptually, creates an entrance barrier that slow down their adoption by industries, standardization
+bodies and more generally in the telecommunication community. The WaveComBox toolbox, available
+at www.wavecombox.com, is a user-friendly, open-source and well documented piece of software
+aiming at simplifying the use and considerably lowering the entrance barrier of recently proposed
+waveforms. By using an abstract architecture, the toolbox allows for simple implementation of
+typical physical layer functionalities and for comparison with state-of-the-art technologies.

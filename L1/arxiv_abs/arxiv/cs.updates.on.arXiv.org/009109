@@ -1,0 +1,16 @@
+Characterizing the dynamics of time-evolving data within the framework of topological data analysis
+(TDA) has been attracting increasingly more attention. Popular instances of time-evolving data
+include flocking/swarming behaviors in animals and social networks in the human sphere. A natural
+mathematical model for such collective behaviors is a dynamic point cloud, or more generally a dynamic
+metric space (DMS). In this paper we extend the Rips filtration stability result for (static) metric
+spaces to the setting of DMSs. We do this by devising a certain three-parameter "spatiotemporal"
+filtration of a DMS. Applying the homology functor to this filtration gives rise to multidimensional
+persistence module derived from the DMS. We show that this multidimensional module enjoys stability
+under a suitable generalization of the Gromov-Hausdorff distance which permits metrizing the
+collection of all DMSs. On the other hand, it is recognized that, in general, comparing two multidimensional
+persistence modules leads to intractable computational problems. For the purpose of practical
+comparison of DMSs, we focus on both the rank invariant or the dimension function of the multidimensional
+persistence module that is derived from a DMS. We specifically propose to utilize a certain metric
+d for comparing these invariants: In our work this d is either (1) a certain generalization of the
+erosion distance by Patel, or (2) a specialized version of the well known interleaving distance.
+We also study the computational complexity associated to both choices of d. 

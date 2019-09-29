@@ -1,0 +1,17 @@
+Interpixel capacitance (IPC) is a deterministic electronic coupling that results in a portion
+of the collected signal incident on one pixel of a hybridized detector array being measured in adjacent
+pixels. Data collected by light sensitive HgCdTe arrays which exhibit this coupling typically
+goes uncorrected or is corrected by treating the coupling as a fixed point spread function. Evidence
+suggests that this IPC coupling is not uniform across different signal and background levels. This
+variation invalidates assumptions that are key in decoupling techniques such as Wiener Filtering
+or application of the Lucy- Richardson algorithm. Additionally, the variable IPC results in the
+point spread function (PSF) depending upon a star's signal level relative to the background level,
+amond other parameters. With an IPC ranging from 0.68% to 1.45% over the full well depth of a sensor,
+as is a reasonable range for the H2RG arrays, the FWHM of the JWSTs NIRCam 405N band is degraded from
+2.080 pix (0".132) as expected from the diffraction patter to 2.186 pix (0".142) when the star is
+just breaching the sensitivity limit of the system. For example, when attempting to use a fixed PSF
+fitting (e.g. assuming the PSF observed from a bright star in the field) to untangle two sources with
+a flux ratio of 4:1 and a center to center distance of 3 pixels, flux estimation can be off by upwards
+of 1.5% with a separation error of 50 millipixels. To deal with this issue an iterative non-stationary
+method for deconvolution is here proposed, implemented, and evaluated that can account for the
+signal dependent nature of IPC. 

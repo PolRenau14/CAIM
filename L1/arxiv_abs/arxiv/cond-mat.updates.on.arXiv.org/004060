@@ -1,0 +1,16 @@
+In many real-world systems, information can be transmitted in two qualitatively different ways:
+by {\em copying} or by {\em transformation}. {\em Copying} occurs when messages are transmitted
+without modification, for example when an offspring receives an unaltered copy of a gene from its
+parent. {\em Transformation} occurs when messages are modified in a systematic way during transmission,
+e.g., when non-random mutations occur during biological reproduction. Standard information-theoretic
+measures of information transmission, such as mutual information, do not distinguish these two
+modes of information transfer, even though they may reflect different mechanisms and have different
+functional consequences. We propose a decomposition of mutual information which separately quantifies
+the information transmitted by copying versus the information transmitted by transformation.
+Our measures of copy and transformation information are derived from a few simple axioms, and have
+natural operationalizations in terms of hypothesis testing and thermodynamics. In this later
+case, we show that our measure of copy information corresponds to the minimal amount of work needed
+by a physical copying process, having special relevance for the physics of replication of biological
+information. We demonstrate our measures on a real world dataset of amino acid substitution rates.
+Our decomposition into copy and transformation information is general and applies to any system
+in which the fidelity of copying, rather than simple predictability, is of critical relevance.

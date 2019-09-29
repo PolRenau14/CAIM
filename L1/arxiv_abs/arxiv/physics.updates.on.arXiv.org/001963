@@ -1,0 +1,16 @@
+Wide Field Adaptive Optics (WFAO) systems are among the most sophisticated AO systems available
+today on large telescopes. The knowledge of the vertical spatio-temporal distribution of the wind
+speed (WS) and direction (WD) are fundamental to optimize the performance of such systems. Previous
+studies already proved that the Gemini Multi-Conjugated AO system (GeMS) is able to retrieve measurements
+of the WS and WD stratification using the SLODAR technique and to store measurements in the telemetry
+data. In order to assess the reliability of these estimates and of the SLODAR technique applied to
+such a kind of complex AO systems, in this study we compared WS and WD retrieved from GeMS with those
+obtained with the atmospherical model Meso-Nh on a rich statistical sample of nights. It has been
+previously proved that, the latter technique, provided an excellent agreement with a large sample
+of radiosoundings both, in statistical terms and on individual flights. It can be considered, therefore,
+as an independent reference. The excellent agreement between GeMS measurements and the model that
+we find in this study, proves the robustness of the SLODAR approach. To by-pass the complex procedures
+necessary to achieve automatic measurements of the wind with GeMS, we propose a simple automatic
+method to monitor nightly WS and WD using the Meso-Nh model estimates. Such a method can be applied
+to whatever present or new generation facilities supported by WFAO systems. The interest of this
+study is, therefore, well beyond the optimization of GeMS performance. 

@@ -1,0 +1,17 @@
+The evenly-spaced modes of an electromagnetic resonator are coupled to each other by appropriate
+time-modulation, leading to dynamics analogous to those of particles hopping between different
+sites of a lattice. This substitution of a real spatial dimension of a lattice with a "synthetic'"
+dimension in frequency space greatly reduces the hardware complexity of an analog quantum simulator.
+Complex control and read-out of a highly multi-moded structure can thus be accomplished with very
+few physical control lines. We demonstrate this concept with microwave photons in a superconducting
+transmission line resonator by modulating the system parameters at frequencies near the resonator's
+free spectral range and observing propagation of photon wavepackets in time domain. The linear
+propagation dynamics are equivalent to a tight-binding model, which we probe by measuring scattering
+parameters between frequency sites. We extract an approximate tight-binding dispersion relation
+for the synthetic lattice and initialize photon wavepackets with well-defined quasimomenta and
+group velocities. As an example application of this platform in simulating a physical system, we
+demonstrate Bloch oscillations associated with a particle in a periodic potential and subject
+to a constant external field. The simulated field strongly affects the photon dynamics despite
+photons having zero charge. Our observation of photon dynamics along a synthetic frequency dimension
+generalizes immediately to topological photonics and single-photon power levels, and expands
+the range of physical systems addressable by quantum simulation. 

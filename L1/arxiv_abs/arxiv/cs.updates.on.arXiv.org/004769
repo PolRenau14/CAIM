@@ -1,0 +1,16 @@
+We investigate the problem of coded caching for nonuniform demands when the structured clique cover
+algorithm proposed by Maddah-Ali and Niesen for decentralized caching is used for delivery. We
+apply this algorithm to all user demands regardless of their request probabilities. This allows
+for coding among the files that have different request probabilities but makes the allocation of
+memory to different files challenging during the content placement phase. As our main contribution,
+we analytically characterize the optimal placement strategy that minimizes the expected delivery
+rate under a storage capacity constraint. It is shown that the optimal placement follows either
+a two or a three group strategy, where a set of less popular files are not cached at all and the files
+within each of the other sets are allocated identical amounts of storage as if they had the same request
+probabilities. We show that for a finite set of storage capacities, that we call the base-cases of
+the problem, the two group strategy is always optimal. For other storage capacities, optimal placement
+is achieved by memory sharing between certain base-cases and the resulting placement either follows
+a two or a three group strategy depending on the corresponding base-cases used. We derive a polynomial
+time algorithm that determines the base-cases of the problem given the number of caches and popularity
+distribution of files. Given the base-cases of the problem, the optimal memory allocation parameters
+for any storage capacity are derived analytically. 

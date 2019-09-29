@@ -1,0 +1,17 @@
+Dendritic flux avalanches is a frequently encountered consequence of the thermomagnetic instability
+in type-II superconducting films. The avalanches, potentially harmful for superconductor-based
+devices, can be suppressed by an adjacent normal metal layer, even when the two layers are not in thermal
+contact. The suppression of the avalanches in this case is due to so-called magnetic braking, caused
+by eddy currents generated in the metal layer by propagating magnetic flux. We develop a theory of
+magnetic braking by analyzing coupled electrodynamics and heat flow in a superconductor-normal
+metal bilayer. The equations are solved by linearization and by numerical simulation of the avalanche
+dynamics. We find that in an uncoated superconductor, even a uniform thermomagnetic instability
+can develop into a dendritic flux avalanche. The mechanism is that a small non-uniformity caused
+by the electromagnetic non-locality induces a flux-flow hot spot at a random position. The hot spot
+quickly develops into a finger, which at high speeds penetrates into the superconductor, forming
+a branching structure. Magnetic braking slows the avalanches, and if the normal metal conductivity
+is sufficiently high, it can suppress the formation of the dendritic structure. During avalanches,
+the braking by the normal metal layer prevents the temperature from exceeding the transition temperature
+of the superconductor. Analytical criteria for the instability threshold are developed using
+the linear stability analysis. The criteria are found to match quantitatively the instability
+onsets obtained in simulation. 

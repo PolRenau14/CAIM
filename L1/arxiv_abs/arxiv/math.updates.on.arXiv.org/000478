@@ -1,0 +1,17 @@
+We consider a class of discrete q-state spin models defined in terms of a translation-invariant
+quasilocal specification with discrete clock-rotation invariance which have extremal Gibbs
+measures labelled by the uncountably many values in the one-dimensional sphere (introduced by
+van Enter, Opoku, Kuelske). In the present paper we construct an associated Markov jump process
+with quasilocal rates whose semigroup acts by a continuous rotation. The jump rates are given in
+terms of certain expectations w.r.t. continuous-spin Gibbs measures constrained to take prescribed
+discretization values, which yields quasilocality in a regime of fine discretizations. We then
+show that the infinite-volume discretization map is an equivariant bijection for the rotation
+action on continuous-spin Gibbs measures and discrete Gibbs measures. As a further consequence
+our construction provides examples of interacting particle systems with unique invariant measure,
+which is not long-time limit of all starting measures, answering an old question (compare Liggett's
+book question four chapter one.) The construction of this particle system is inspired by recent
+conjectures of Maes and Shlosman about the intermediate temperature regime of the nearest neighbor
+clock-model. We define our generator of the interacting particle system as a (non-commuting) sum
+of the rotation part and a Glauber part. Technically the paper rests on the control of the spread of
+weak non-localities and relative entropy-methods, both in equilibrium and dynamically, based
+on Dobrushin-uniqueness bounds for conditional measures. 

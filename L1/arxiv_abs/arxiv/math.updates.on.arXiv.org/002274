@@ -1,0 +1,16 @@
+Let $X$ be a normal complex projective variety, $T\subseteq X$ a subvariety, $a\colon X\rightarrow
+A$ a morphism to an abelian variety such that $\rm{Pic}^0(A)$ injects into $\rm{Pic}^0(T)$ and
+let $L$ be a line bundle on $X$. Denote by $X^{(d)}\to X$ the connected \'etale cover induced by the
+$d$-th multiplication map of $A$, by $T^{(d)} \subseteq X^{(d)}$ the preimage of $T$ and by $L^{(d)}$
+the pull-back of $L$ to $X^{(d)}$. For $\alpha\in \rm{Pic}^0(A)$ general, we study the restricted
+linear system $|L^{(d)}\otimes a^*\alpha|_{|T^{(d)}}$: if for some $d$ this gives a generically
+finite map $\varphi^{(d)}$, we show that f $\varphi^{(d)}$ is independent of $\alpha$ or $d$ sufficiently
+large and divisible, and is induced by the eventual map $\varphi\colon T\to Z$ such that $a_{|T}$
+factorizes through $\varphi$. The generic value $h^0_a(X_{|T}, L)$ of $h^0(X_{|T}, L\otimes\alpha)$
+is called the (restricted) continuous rank. We prove that if $M$ is the pull back of an ample divisor
+of $A$, then $x\mapsto h^0_a(X_{|T}, L+xM)$ extends to a continuous function of $x\in\mathbb{R}$,
+which is differentiable except possibly at countably many points; when $X=T$ we compute the left
+derivative explicitly. In the case when $X$ and $T$ are smooth, combining the above results we prove
+Clifford-Severi type inequalities, i.e., geographical bounds of the form $$\rm{vol}_{X|T}(L)\geq
+C(m) h^0_a(X_{|T},L),$$ where $C(m)={\mathcal O}(m!)$. Finally, in the case $X=T$ we characterize
+varieties and line bundles for which the Clifford-Severi inequalities are equalities. 

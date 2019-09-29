@@ -1,0 +1,16 @@
+Smartphones and mobile devices are rapidly becoming indispensable devices for many users. Unfortunately,
+they also become fertile grounds for hackers to deploy malware and to spread virus. There is an urgent
+need to have a "security analytic & forensic system" which can facilitate analysts to examine,
+dissect, associate and correlate large number of mobile applications. An effective analytic system
+needs to address the following questions: How to automatically collect and manage a high volume
+of mobile malware? How to analyze a zero-day suspicious application, and compare or associate it
+with existing malware families in the database? How to perform information retrieval so to reveal
+similar malicious logic with existing malware, and to quickly identify the new malicious code segment?
+In this paper, we present the design and implementation of DroidAnalytics, a signature based analytic
+system to automatically collect, manage, analyze and extract android malware. The system facilitates
+analysts to retrieve, associate and reveal malicious logics at the "opcode level". We demonstrate
+the efficacy of DroidAnalytics using 150,368 Android applications, and successfully determine
+2,494 Android malware from 102 different families, with 342 of them being zero-day malware samples
+from six different families. To the best of our knowledge, this is the first reported case in showing
+such a large Android malware analysis/detection. The evaluation shows the DroidAnalytics is a
+valuable tool and is effective in analyzing malware repackaging and mutations. 

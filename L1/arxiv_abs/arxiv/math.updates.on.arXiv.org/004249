@@ -1,0 +1,17 @@
+We study the concept of \emph{compactor}, which may be seen as a counting-analogue of kernelization
+in counting parameterized complexity. For a function $F:\Sigma^*\to \Bbb{N}$ and a parameterization
+$\kappa: \Sigma^*\to \Bbb{N}$, a compactor $({\sf P},{\sf M})$ consists of a polynomial-time
+computable function ${\sf P}$, called \emph{condenser}, and a computable function ${\sf M}$,
+called \emph{extractor}, such that $F={\sf M}\circ {\sf P}$, and the condensing ${\sf P}(x)$ of
+$x$ has length at most $s(\kappa(x))$, for any input $x\in \Sigma^*.$ If $s$ is a polynomial function,
+then the compactor is said to be of polynomial-size. Although the study on counting-analogue of
+kernelization is not unprecedented, it has received little attention so far. We study a family of
+vertex-certified counting problems on graphs that are MSOL-expressible; that is, for an MSOL-formula
+$\phi$ with one free set variable to be interpreted as a vertex subset, we want to count all $A\subseteq
+V(G)$ where $|A|=k$ and $(G,A)\models \phi.$ In this paper, we prove that every vertex-certified
+counting problems on graphs that is \emph{MSOL-expressible} and \emph{treewidth modulable},
+when parameterized by $k$, admits a polynomial-size compactor on $H$-topological-minor-free
+graphs with condensing time $O(k^2n^2)$ and decoding time $2^{O(k)}.$ This implies the existence
+of an {\sf FPT}-algorithm of running time $O(n^2k^2)+2^{O(k)}.$ All aforementioned complexities
+are under the Uniform Cost Measure (UCM) model where numbers can be stored in constant space and arithmetic
+operations can be done in constant time. 

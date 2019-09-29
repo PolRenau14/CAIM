@@ -1,0 +1,16 @@
+We use moderate-resolution spectra of nearby late K and M dwarf stars with parallaxes and interferometrically
+determined radii to refine their effective temperatures, luminosities, and metallicities. We
+use these revised values to calibrate spectroscopic techniques to infer the fundamental parameters
+of more distant late-type dwarf stars. We demonstrate that, after masking out poorly modeled regions,
+the newest version of the PHOENIX atmosphere models accurately reproduce temperatures derived
+bolometrically. We apply methods to late-type hosts of transiting planet candidates in the Kepler
+field, and calculate effective temperature, radius, mass, and luminosity with typical errors
+of 57 K, 7%, 11%, and 13%, respectively. We find systematic offsets between our values and those from
+previous analyses of the same stars, which we attribute to differences in atmospheric models utilized
+for each study. We investigate which of the planets in this sample are likely to orbit in the circumstellar
+habitable zone. We determine that four candidate planets (KOI 854.01, 1298.02, 1686.01, and 2992.01)
+are inside of or within 1-sigma of a conservative definition of the habitable zone, but that several
+planets identified by previous analyses are not (e.g. KOI 1422.02 and KOI 2626.01). Only one of the
+four habitable-zone planets is Earth sized, suggesting a downward revision in the occurrence of
+such planets around M dwarfs. These findings highlight the importance of measuring accurate stellar
+parameters when deriving parameters of their orbiting planets. 

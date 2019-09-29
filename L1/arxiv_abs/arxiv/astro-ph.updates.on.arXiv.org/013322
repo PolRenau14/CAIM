@@ -1,0 +1,16 @@
+We identify 814 discrete HI clouds in 40 dwarf irregular galaxies from the LITTLE THINGS survey using
+an automated cloud-finding algorithm. The cloud masses range from ~10^3 to 10^7 Msolar, have a surface
+density averaged over all of the clouds of ~9.65 Msolar/pc^2, and constitute 2-53% of the total HI
+mass of the host galaxy. For individual clouds, the mass including He varies with cloud radius as
+log M_{gas} = (2.11\pm0.04)x log R_{cl}+(0.78\pm0.08) and the internal velocity dispersion varies
+as log V_{disp} = 0.5xlog R_{cl}-0.57\pm0.21. The HI clouds tend to be in the outer regions of the
+galaxies, with 72% of the galaxies having more than 70% of their clouds outside one disk scale length,
+and 32% of the galaxies having more than 50% of their clouds outside the radius encircling the HII
+emission. 36% of the clouds are essentially non-self-gravitating from HI alone, with a virial parameter
+that exceeds alpha_{vir}~10, and 5% have alpha_{vir}\le2. We estimate the missing molecular mass,
+based on the total star formation rate and a typical molecular consumption time of 2 Gyr, as observed
+in CO-rich galaxies. The resulting molecular fraction has a value averaged over the galaxies of
+0.23 and correlates with both the surface density of star formation and the fraction of HI clouds
+in the outer regions. We conclude that a significant fraction of the inner parts of these dwarf galaxy
+disks is in the form of dark molecular gas, and that this fraction could be high enough to make the inner
+disks mildly gravitationally unstable as a precursor to star formation. 

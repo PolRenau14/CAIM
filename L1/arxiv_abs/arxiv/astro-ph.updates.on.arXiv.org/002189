@@ -1,0 +1,16 @@
+Observations have shown that the spatial distribution of satellite galaxies is not random, but
+aligned with the major axes of central galaxies. This alignment is dependent on galaxy properties,
+such that red satellites are more strongly aligned than blue satellites. Theoretical work done
+to interpret this phenomena has found that it is due to the non-spherical nature of dark matter halos.
+However, most studies over-predict the alignment signal under the assumption that the central
+galaxy shape follows the shape of the host halo. It is also not clear whether the color dependence
+of alignment is due to an assembly bias or an evolution effect. In this paper we study these problems
+using a cosmological N-body simulation. Subhalos are used to trace the positions of satellite galaxies.
+It is found that the shape of dark matter halos are mis-aligned at different radii. If the central
+galaxy shares the same shape as the inner host halo, then the alignment effect is weaker and agrees
+with observational data. However, it predicts almost no dependence of alignment on the color of
+satellite galaxies, though the late accreted subhalos show stronger alignment with the outer layer
+of the host halo than their early accreted counterparts. We find that this is due to the limitation
+of pure N-body simulations that satellites galaxies without associated subhalos ('orphan galaxies')
+are not resolved. These orphan (mostly red) satellites often reside in the inner region of host halos
+and should follow the shape of the host halo in the inner region. 

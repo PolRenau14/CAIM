@@ -1,0 +1,16 @@
+Machine learning models trained on data from multiple demographic groups can inherit representation
+disparity (Hashimoto et al., 2018) that may exist in the data: the group contributing less to the
+training process may suffer higher loss in model accuracy; this in turn can degrade population retention
+in these groups over time in terms of their contribution to the training process of future models,
+which then exacerbates representation disparity in the long run. In this study, we seek to understand
+the interplay between the model accuracy and the underlying group representation and how they evolve
+in a sequential decision setting over an infinite horizon, and how the use of fair machine learning
+plays a role in this process. Using a simple user dynamics (arrival and departure) model, we characterize
+the long-term property of using machine learning models under a set of fairness criteria imposed
+on each stage of the decision process, including the commonly used statistical parity and equal
+opportunity fairness. We show that under this particular arrival/departure model, both these
+criteria cause the representation disparity to worsen over time, resulting in groups diminishing
+entirely from the sample pool, while the criterion of equalized loss fares much better. Our results
+serve to highlight the fact that fairness cannot be defined outside the larger feedback loop where
+past actions taken by users (who are either subject to the decisions made by the algorithm or whose
+data are used to train the algorithm or both) will determine future observations and decisions.

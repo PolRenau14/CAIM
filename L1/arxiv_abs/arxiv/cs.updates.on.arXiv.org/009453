@@ -1,0 +1,16 @@
+We analyze the computational complexity of the many types of pencil-and-paper-style puzzles featured
+in the 2016 puzzle video game The Witness. In all puzzles, the goal is to draw a simple path in a rectangular
+grid graph from a start vertex to a destination vertex. The different puzzle types place different
+constraints on the path: preventing some edges from being visited (broken edges); forcing some
+edges or vertices to be visited (hexagons); forcing some cells to have certain numbers of incident
+path edges (triangles); or forcing the regions formed by the path to be partially monochromatic
+(squares), have exactly two special cells (stars), or be singly covered by given shapes (polyominoes)
+and/or negatively counting shapes (antipolyominoes). We show that any one of these clue types (except
+the first) is enough to make path finding NP-complete ("witnesses exist but are hard to find"), even
+for rectangular boards. Furthermore, we show that a final clue type (antibody), which necessarily
+"cancels" the effect of another clue in the same region, makes path finding $\Sigma_2$-complete
+("witnesses do not exist"), even with a single antibody (combined with many anti/polyominoes),
+and the problem gets no harder with many antibodies. On the positive side, we give a polynomial-time
+algorithm for monomino clues, by reducing to hexagon clues on the boundary of the puzzle, even in
+the presence of broken edges, and solving "subset Hamiltonian path" for terminals on the boundary
+of an embedded planar graph in polynomial time. 

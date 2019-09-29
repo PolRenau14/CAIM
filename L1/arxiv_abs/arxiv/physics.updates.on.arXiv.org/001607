@@ -1,0 +1,17 @@
+A quantum description of a chemical reaction requires the knowledge of an accurate potential energy
+surface. For typical reactive systems of three atoms or more, such potential energy surfaces are
+constructed by computing the potential energy at thousands of points in the configuration space
+and fitting the computed points by an analytical function or a neural network. Computing and fitting
+the potential energy points is a very laborious and time-consuming task. Here, we demonstrate that
+accurate potential energy surfaces for quantum reactive scattering calculations can be obtained
+with a very small number of potential energy points and without analytical fits. We show that accurate
+results for the reaction probabilities in a wide range of energies can be obtained with only 30 ab
+initio points for the three-dimensional H + H$_2$ $\rightarrow$ H$_2$ + H reaction and 290 ab inito
+points for the six-dimensional OH + H$_2$ $\rightarrow$ H$_2$O + H reaction. To obtain these results,
+we represent the scattering observables and the potential surfaces by Gaussian Processes, which
+are trained by the results of rigorous quantum scattering calculations and optimized by means of
+Bayesian optimization producing and trying hundreds of surfaces. In this approach, the construction
+of the surfaces is completely automated. This work demonstrates that a combination of machine learning
+with quantum dynamics calculations allows one to ask new questions, such as: What is the least number
+of {\it ab initio} points sufficient to describe quantum dynamics of polyatomic systems with desired
+accuracy? 

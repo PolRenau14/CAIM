@@ -1,0 +1,17 @@
+In the literature, for semidynamical systems in infinite dimensional phase spaces, different
+topological structures are used (Hilbert, Banach, Sobolev, locally convex, Hausdorf topology
+etc.). That is because there are neither set rules nor understanding of the "right way" to choose
+the phase space and its topology starting from a system of partial differential equations. The goal
+of this paper is to reveal the influence of the choice of the phase space and its topology as concern
+the results obtained for the semidynamical system defined by the same system of partial differential
+equations. In the paper the linear 3D Euler equations are considered which are obtained by linearizing
+the non linear 3D Euler equations at a constant solution. The well posedness of the instantaneous
+perturbation propagation problem, that of the permanent source produced time harmonic perturbation
+propagation problem as well the stability of the null solution are analyzed in three different phase
+spaces. The idea is to derive explicit solutions for the linear 3D Euler equations, to build up different
+phase spaces by using explicit solutions and analyze the well-posedness as well the stability of
+the null solution. The obtained results present significant differences and some of them are surprising.
+For instance, in one phase space the stability of the null solution coexists with solutions having
+strictly positive exponential growth rate, but in other one the propagation problem is ill posed.
+This aspect is extremely important from the point of view of a real phenomenon modeled by the linear
+3D Euler equations. 

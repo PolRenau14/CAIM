@@ -1,0 +1,17 @@
+A key overall goal of biomolecular simulations is the characterization of "mechanism" -- the pathways
+through configuration space of processes such as conformational transitions and binding. Some
+amount of heterogeneity is intrinsic to the ensemble of pathways, in direct analogy to thermal configurational
+ensembles. Quantification of that heterogeneity is essential to a complete understanding of mechanism.
+We propose a general approach for characterizing path ensembles based on mapping individual trajectories
+into pathway classes whose populations and uncertainties can be analyzed as an ordinary histogram,
+providing a quantitative "fingerprint" of mechanism. In contrast to prior flux-based analyses
+used for discrete-state models, stochastic deviations from average behavior are explicitly included
+via direct classification of trajectories. The histogram approach, furthermore, is applicable
+to analysis of continuous trajectories. It enables straightforward comparison between ensembles
+produced by different methods or under different conditions. To implement the formulation, we
+develop approaches for classifying trajectories, including a clustering-based approach suitable
+for both continuous-space (e.g., molecular dynamics) or discrete-state (e.g., Markov state model)
+trajectories, as well as a "fundamental sequence" approach tailored for discrete-state trajectories
+but also applicable to continuous trajectories through a mapping process. We apply the pathway
+histogram analysis to a toy model and an extremely long atomistic molecular dynamics trajectory
+of protein folding. 

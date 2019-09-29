@@ -1,0 +1,16 @@
+The incompressible Stokes equations can classically be recast in a boundary integral (BI) representation,
+which provides a general method to solve low-Reynolds number problems analytically and computationally.
+Alternatively, one can solve the Stokes equations by using an appropriate distribution of flow
+singularities of the right strength within the boundary, a method particularly useful to describe
+the dynamics of long slender objects for which the numerical implementation of the BI representation
+becomes cumbersome. While the BI approach is a mathematical consequence of the Stokes equations,
+the singularity method involves making judicious guesses that can only be justified a posteriori.
+In this paper we use matched asymptotic expansions to derive an algebraically accurate slender-body
+theory directly from the BI representation able to handle arbitrary surface velocities and surface
+tractions. This expansion procedure leads to sets of uncoupled linear equations and to a single
+one-dimensional integral equation identical to that derived by Keller and Rubinow (1976) and Johnson
+(1979) using the singularity method. Hence we show that it is a mathematical consequence of the BI
+approach that the leading-order flow around a slender body can be represented using a distribution
+of singularities along its centreline. Furthermore when derived from either the single-layer
+or double-layer modified BI representation, general slender solutions are only possible in certain
+types of flow, in accordance with the limitations of these representations. 

@@ -1,0 +1,16 @@
+The circumgalactic medium (CGM) of nearby star-forming galaxies show clear indications of \ion{O}{6}
+absorption accompanied by little to no \ion{N}{5} absorption. This unusual spectral signature,
+accompanied by absorption from lower ionization state species whose columns vary by orders of magnitude
+along \st{difference} \textbf{different} sightlines, indicates that the CGM must be viewed as
+a dynamic, multiphase medium, such as occurs in the presence of turbulence. To explore this possibility,
+we carry out a series of chemodynamical simulations of a isotropic turbulent media, using the MAIHEM
+package. The simulations assume a metallicity of $0.3\ Z_{\odot}$ and a redshift zero metagalatic
+UV background, and they track ionizations, recombinations, and species-by-species radiative
+cooling for a wide range of elements. We find that turbulence with a one-dimensional velocity dispersion
+of $\sigma_{1D} \approx 60$ km/s replicates many of the observed features within the CGM, such as
+clumping of low ionization-state ions and the existence of \ion{O}{6} at moderate ionization parameters.
+However, unlike observations, \ion{N}{5} often arises in our simulations with derived column
+densities of a similar magnitude to those of \ion{O}{6}. While higher values of $\sigma_{1D}$ lead
+to a thermal runaway in our isotropic simulations, this would not be the case in stratified media,
+and thus we speculate that more complex models of the turbulence may well match the absence of \ion{N}{5}
+in the CGM of star-forming galaxies. 

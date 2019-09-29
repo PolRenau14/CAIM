@@ -1,0 +1,16 @@
+We apply the method of data-interpolating empirical orthogonal functions (EOFs) to ground-based
+magnetic vector data from the SuperMAG archive to produce a series of month length reanalyses of
+the surface external and induced magnetic field (SEIMF) in 110,000 km$^{2}$ equal-area bins over
+the entire northern polar region at 5 min cadence over solar cycle 23, from 1997.0 to 2009.0. Each
+EOF reanalysis also decomposes the measured SEIMF variation into a hierarchy of spatiotemporal
+patterns which are ordered by their contribution to the monthly magnetic field variance. We find
+that the leading EOF patterns can each be (subjectively) interpreted as well-known SEIMF systems
+or their equivalent current systems. The relationship of the equivalent currents to the true current
+flow is not investigated. We track the leading SEIMF or equivalent current systems of similar type
+by intermonthly spatial correlation and apply graph theory to (objectively) group their appearance
+and relative importance throughout a solar cycle, revealing seasonal and solar cycle variation.
+In this way, we identify the spatiotemporal patterns that maximally contribute to SEIMF variability
+over a solar cycle. We propose this combination of EOF and graph theory as a powerful method for objectively
+defining and investigating the structure and variability of the SEIMF or their equivalent ionospheric
+currents for use in both geomagnetism and space weather applications. It is demonstrated here on
+solar cycle 23 but is extendable to any epoch with sufficient data coverage. 

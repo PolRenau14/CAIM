@@ -1,0 +1,16 @@
+The composition of planets is largely determined by the chemical and dynamical evolution of the
+disk during planetesimal formation and growth. To predict the diversity of exoplanet compositions,
+previous works modeled planetesimal composition as the equilibrium chemical composition of a
+proto- planetary disk at a single time. However, planetesimals form over an extended period of time,
+during which, elements sequentially condense out of the gas as the disk cools and are accreted onto
+planetesi- mals. To account for the evolution of the disk during planetesimal formation, we couple
+models of disk chemistry and dynamics with a prescription for planetesimal formation. We then follow
+the growth of these planetesimals into terrestrial planets with N-body simulations of late stage
+planet formation to evaluate the effect of sequential condensation on the bulk composition of planets.
+We find that our model produces results similar to those of earlier models for disks with C/O ratios
+close to the solar value (0.54). However, in disks with C/O ratios greater than 0.8, carbon rich planetesimals
+form throughout a much larger radial range of the disk. Furthermore, our model produces carbon rich
+planetesimals in disks with C/O ratios as low as ~0.65, which is not possible in the static equilibrium
+chemistry case. These results suggest that (1) there may be a large population of short period carbon
+rich planets around moderately carbon enhanced stars (0.65 < C/O < 0.8) and (2) carbon rich
+planets can form throughout the terrestrial planet region around carbon rich stars (C/O > 0.8).

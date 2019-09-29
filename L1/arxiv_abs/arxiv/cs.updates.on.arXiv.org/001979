@@ -1,0 +1,16 @@
+In this paper we investigate the aesthetic image classification problem, also known as automatically
+classifying an image into low or high aesthetic quality, which is quite a challenging problem. Considering
+both the local and global information of images is quite important for image aesthetic quality assessment.
+Currently, a powerful inception module is proposed which shows very high performance in object
+classification. We have the observation that the inception module has the ability of considering
+both the local and global features in nature. Thus, in this paper, we propose a novel DCNN structure
+codenamed ILGNet for image aesthetics classification, which introduces the Inception module
+and connects intermediate Local layers to the Global layer for the output. In addition, the ILGNet
+is derived from part of the GoogLeNet. Thus, we can easily use a pre-trained image classification
+GoogleLeNet model on the ImageNet dataset and fine tune our connected local and global layer on the
+large scale aesthetics assessment AVA dataset. The experimental results show that the proposed
+ILGNet outperforms the state of the art results in image aesthetics assessment in the AVA benchmark.
+The time cost of both training and test of the ILGNet are significantly less than those of full GoogLeNet
+with only a little reduction of the classification accuracy. Our ILGNet can achieve similar classification
+accuracy as that of 2/3 GoogLeNet, whose computational cost is nearly twice of ours. This makes the
+aesthetic assessment model more easily to be integrated into mobile and embedded systems. 

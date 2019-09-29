@@ -1,0 +1,16 @@
+The surface texture of materials plays a critical role in wettability, lubrication, turbulence
+and transport phenomena. In order to design surfaces for these fluid applications, it is desirable
+to characterise non-smooth and porous materials by their ability to exchange mass and momentum
+with flowing fluids. Whereas the physics underlying tangential (slip) velocity at a fluid-solid
+interface is well understood, the treatment and importance of normal (transpiration) velocity
+and normal stress is unclear. We show that, when slip velocity varies at an interface above the texture,
+a non-zero transpiration velocity arises from mass conservation. The ability of a given surface
+texture to accommodate for normal velocity of this kind is quantified by a transpiration length.
+We further demonstrate that normal momentum transfer gives rise to resistance coefficients. For
+a porous material, they measure how normal fluid stress outside the porous medium is partitioned
+between the interstitial flow and the solid skeleton. The introduced measures of slip, transpiration
+and resistance can be determined for any anisotropic non-smooth surface by solving five Stokes
+problems. Moreover, these measures appear as constant coefficients in effective interface conditions.
+We validate and demonstrate the physical significance of the effective conditions on two canonical
+problems -- a lid-driven cavity and a turbulent channel flow, both with non-smooth bottom surfaces.
+Our formulation provides a systematic approach for detailed characterisation and design of surfaces.

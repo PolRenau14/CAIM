@@ -1,0 +1,16 @@
+The US Supreme Court throughout the 20th century has been characterized as being divided between
+liberal and conservative wings, suggesting that justices with similar ideologies would have voted
+similarly had they overlapped in tenure. What if they had? We build a quantitative voting model of
+this counterfactual hypothesis using pairwise maximum entropy to infer how 36 justices from 1946-2016
+would have all voted on a Super Supreme Court. As with historical courts, the Super Court is dominated
+by consensus. The rate at which consensus decays as more justices are included is extremely slow,
+nearly 100 years, and indicates the modern Supreme Court is an extremely conservative, stable institution.
+Beyond consensus, we discover a rich structure of dissenting blocs that are distributed along a
+heavy-tailed Zipf's law. The heavy tail means that there are no dominant dissenting modes, and thus
+Supreme Court voting over time cannot be captured by a low-dimensional representation like ideology.
+Focusing on individuals, we find idiosyncratic justices who dissent alone unusually often and
+might be considered mavericks in the history of the Court. When we group cases by legal topic, information
+about the topic is encoded in the structure of dissenting blocs such that intuitively similar topics
+correspond to similar patterns of dissent. Despite the simplicity of the model, it aligns with previous
+observations of the Court while expressing the complex structure of political voting through the
+language of statistical physics. 

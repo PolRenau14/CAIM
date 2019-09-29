@@ -1,0 +1,16 @@
+The work on the kinematical parameters and spatial shape structure have been performed with Gaia
+DR2 astrometry data of the new recently southern discovered open clusters; UFMG 1, UFMG 2, and UFMG
+3 in the vicinity (1.3 degrees radius) of the rarely studied NGC 5999. The apexes positions with AD-diagram
+method are computed for about 107, 168, 98, and 154 members of these star clusters, respectively,
+our calculated values of apex coordinates, seems like: (A, D) = (102.40 +/- 1.02 & -4.60 +/- 0.47;
+NGC 5999), (96.69 +/- 1.10 & -0.58 +/- 0.045; UFMG 1), (97.47 +/- 1.09 & 1.56 +/- 0.051; UFMG 2), and
+(98.65 +/- 1.12 & -0.26 +/- 0.060; UFMG 3). On the other hand, Velocity Ellipsoid Parameters VEPs
+for those are also computed; e.g. space velocities due to Galactic coordinates, dispersion velocities
+(sigma_1, sigma_2, sigma_3) due to matrix elements for all ij, projected distances (X_sun, Y_sun,
+Z_sun) on the plane disc, and the Solar elements (S_sun, l_A, b_A). According to an approximation
+of spatial and kinematical shape, UFMGs and NGC 5999 seem to have a spatial difference in their space
+locations but they appear to have formed in the same region of the Galactic disc. The total cumulative
+mass MC; including total number of main-sequence NMS and non-main-sequence Nnon-MS of these clusters
+also evaluated here with a second-order polynomial of mass-luminosity relation in order to get
+clusters tidal radii (pc). Finally, we concluded that NGC 5999, UFMG 1, and UFMG 2 are dynamically
+relaxed (i.e. tau >> 1), and the fourth one in non-relaxed. 

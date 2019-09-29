@@ -1,0 +1,17 @@
+The simplest model of DNA mechanics describes the double helix as a continuous rod with twist and
+bend elasticity. Recent work has discussed the relevance of a little-studied coupling $G$ between
+twisting and bending, known to arise from the groove asymmetry of the DNA double helix. Here, the
+effect of $G$ on the statistical mechanics of long DNA molecules subject to applied forces and torques
+is investigated. We present a perturbative calculation of the effective torsional stiffness $C_\text{eff}$
+for small twist-bend coupling. We find that the "bare" $G$ is "screened" by thermal fluctuations,
+in the sense that the low-force, long-molecule effective free energy is that of a model with $G=0$,
+but with long-wavelength bending and twisting rigidities that are shifted by $G$-dependent amounts.
+Using results for torsional and bending rigidities for freely-fluctuating DNA, we show how our
+perturbative results can be extended to a non-perturbative regime. These results are in excellent
+agreement with numerical calculations for Monte Carlo "triad" and molecular dynamics "oxDNA"
+models, characterized by different degrees of coarse-graining, validating the perturbative
+and non-perturbative analyses. While our theory is in generally-good quantitative agreement
+with experiment, the predicted torsional stiffness does systematically deviate from experimental
+data, suggesting that there are as-yet-uncharacterized aspects of DNA twisting-stretching mechanics
+relevant to low-force, long-molecule mechanical response, which are not captured by widely-used
+coarse-grained models. 

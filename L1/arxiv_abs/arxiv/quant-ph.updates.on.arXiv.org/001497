@@ -1,0 +1,16 @@
+We develop a method for computing the evolution of a Klein-Gordon field in a globally hyperbolic
+spacetime. The method is both of general applicability and particularly useful in certain problems
+of interest, such as the study of confined quantum fields under small perturbations. Instead of
+solving the Klein-Gordon equation, we define and formally compute Bogoliubov transformations
+between spacelike hypersurfaces at different times, which contain themselves the evolution of
+the field. The method can be applied to classical and quantum fields, both real and complex, although
+for the most interesting case of quantum fields some discussion on the physical interpretation
+and unitarily equivalence of quantizations at different regions is required, which we approach
+on the ground of physical arguments. In the case of fields confined inside cavities, the method allows
+to easily make quantitative precise predictions on their behaviour under small perturbations
+of the background geometry and/or the boundary conditions. Therefore, the method provides a crucial
+tool in the recently growing research area of confined quantum fields in table-top experiments.
+We also prove its utility in addressing other problems, such as particle creation in a cosmological
+expansion, thus giving an example of its more general applicability. This article is the first of
+two articles introducing the method, dedicated to the particular case of spacetimes with static
+boundaries. A second article will handle the more general case of moving boundaries. 

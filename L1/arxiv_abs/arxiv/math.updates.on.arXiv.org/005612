@@ -1,0 +1,16 @@
+Let $\Omega$ be a Polish space with Borel $\sigma$-field $\mathcal{F}$ and countably generated
+sub $\sigma$-field $\mathcal{G}\subset\mathcal{F}$. Denote by $\mathcal{L}(\mathcal{F})$
+the set of all bounded $\mathcal{F}$-upper semianalytic functions from $\Omega$ to the reals and
+by $\mathcal{L}(\mathcal{G})$ the subset of $\mathcal{G}$-upper semianalytic functions. Let
+$\mathcal{E}(\cdot|\mathcal{G})\colon\mathcal{L}(\mathcal{F})\to\mathcal{L}(\mathcal{G})$
+be a sublinear increasing functional which leaves $\mathcal{L}(\mathcal{G})$ invariant. It
+is shown that there exists a $\mathcal{G}$-analytic set-valued mapping $\mathcal{P}_{\mathcal{G}}$
+from $\Omega$ to the set of probabilities which are concentrated on atoms of $\mathcal{G}$ with
+compact convex values such that $\mathcal{E}(X|\mathcal{G})(\omega)=$ $\sup_{P\in\mathcal{P}_{\mathcal{G}}(\omega)}
+E_P[X]$ if and only if $\mathcal{E}(\cdot |\mathcal{G})$ is pointwise continuous from below and
+continuous from above on the continuous functions. Further, given another sublinear increasing
+functional $\mathcal{E}(\cdot)\colon\mathcal{L}(\mathcal{F})\to\mathbb{R}$ which leaves
+the constants invariant, the tower property $\mathcal{E}(\cdot)=\mathcal{E}(\mathcal{E}(\cdot|\mathcal{G}))$
+is characterized via a pasting property of the representing sets of probabilities, and the importance
+of analytic functions is explained. Finally, it is characterized when a nonlinear version of Fubini's
+theorem holds true and when the product of a set of probabilities and a set of kernels is compact. 

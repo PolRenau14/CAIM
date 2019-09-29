@@ -1,0 +1,16 @@
+Regression problems that have closed-form solutions are well understood and can be easily implemented
+when the dataset is small enough to be all loaded into the RAM. Challenges arise when data is too big
+to be stored in RAM to compute the closed form solutions. Many techniques were proposed to overcome
+or alleviate the memory barrier problem but the solutions are often local optimal. In addition,
+most approaches require accessing the raw data again when updating the models. Parallel computing
+clusters are also expected if multiple models need to be computed simultaneously. We propose multiple
+learning approaches that utilize an array of sufficient statistics (SS) to address this big data
+challenge. This memory oblivious approach breaks the memory barrier when computing regressions
+with closed-form solutions, including but not limited to linear regression, weighted linear regression,
+linear regression with Box-Cox transformation (Box-Cox regression) and ridge regression models.
+The computation and update of the SS array can be handled at per row level or per mini-batch level.
+And updating a model is as easy as matrix addition and subtraction. Furthermore, multiple SS arrays
+for different models can be easily computed simultaneously to obtain multiple models at one pass
+through the dataset. We implemented our approaches on Spark and evaluated over the simulated datasets.
+Results showed our approaches can achieve closed-form solutions of multiple models at the cost
+of half training time of the traditional methods for a single model. 

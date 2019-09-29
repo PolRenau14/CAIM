@@ -1,0 +1,16 @@
+The optical light curves of many quasars show variations of tenths of a magnitude or more on time scales
+of months to years. This variation often cannot be described well by a simple deterministic model.
+We perform a Bayesian comparison of over 20 deterministic and stochastic models on 6304 QSO light
+curves in SDSS Stripe 82. We include the damped random walk (or Ornstein-Uhlenbeck [OU] process),
+a particular type of stochastic model which recent studies have focused on. Further models we consider
+are single and double sinusoids, multiple OU processes, higher order continuous autoregressive
+processes, and composite models. We find that only 29 out of 6304 QSO lightcurves are described significantly
+better by a deterministic model than a stochastic one. The OU process is an adequate description
+of the vast majority of cases (6023). Indeed, the OU process is the best single model for 3462 light
+curves, with the composite OU process/sinusoid model being the best in 1706 cases. The latter model
+is the dominant one for brighter/bluer QSOs. Furthermore, a non-negligible fraction of QSO lightcurves
+show evidence that not only the mean is stochastic but the variance is stochastic, too. Our results
+confirm earlier work that QSO light curves can be described with a stochastic model, but place this
+on a firmer footing, and further show that the OU process is preferred over several other stochastic
+and deterministic models. Of course, there may well exist yet better (deterministic or stochastic)
+models which have not been considered here. 

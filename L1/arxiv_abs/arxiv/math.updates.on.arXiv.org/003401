@@ -1,0 +1,16 @@
+A new circularly pulse-shaped (CPS) precoding orthogonal frequency division multiplexing (OFDM)
+waveform, or CPS-OFDM for short, is proposed in this paper. CPS-OFDM, characterized by user-specific
+precoder flexibility, possesses the advantages of both low out-of-subband emission (OSBE) and
+low peak-to-average power ratio (PAPR), which are two major desired physical layer signal properties
+for various scenarios in 5G New Radio (NR), including fragmented spectrum access, new types of user
+equipments (UEs), and communications at high carrier frequencies. As opposed to most of existing
+waveform candidates using windowing or filtering techniques, CPS-OFDM prevents block extension
+that causes extra inter-block interference (IBI) and envelope fluctuation unfriendly to signal
+reception and power amplifier (PA) efficiency, respectively. An optimization problem of the prototype
+shaping vector built in the CPS precoder is formulated to minimize the variance of instantaneous
+power (VIP) with controllable OSBE power (OSBEP) and noise enhancement penalty (NEP). In order
+to solve the optimization problem involving a quartic objective function, the majorization-minimization
+(MM) algorithmic framework is exploited. By proving the convexity of the proposed problem, the
+globally optimal solution invariant of coming data is guaranteed to be attained via numbers of iterations.
+Simulation results demonstrate the advantages of the proposed scheme in terms of detection reliability
+and spectral efficiency for practical 5G cases such as asynchronous transmissions and mixed numerologies.

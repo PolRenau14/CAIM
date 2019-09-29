@@ -1,0 +1,17 @@
+For the simulation of disruptions in tokamak fusion plasmas, a fluid model describing the evolution
+of relativistic runaway electrons and their interaction with the background plasma is presented.
+The overall aim of the model is to self-consistently describe the nonlinear coupled evolution of
+runaway electrons (REs) and plasma instabilities during disruptions. In this model, the runaway
+electrons are considered as a separate fluid species in which the initial seed is generated through
+the Dreicer source, which eventually grows by the avalanche mechanism (further relevant source
+mechanisms can easily be added). Advection of the runaway electrons is considered primarily along
+field lines, but also taking into account the ExB drift. The model is implemented in the nonlinear
+magnetohydrodynamic (MHD) code JOREK based on Bezier finite elements, with current coupling to
+the thermal plasma. Benchmarking of the code with the one-dimensional runaway electron code GO
+is done using an artificial thermal quench on a circular plasma. As a first demonstration, the code
+is applied to the problem of an axisymmetric cold vertical displacement event in an ITER plasma,
+revealing significantly different dynamics between cases computed with and without runaway electrons.
+Though it is not yet feasible to achieve fully realistic runaway electron velocities close to the
+speed of light in complete simulations of slowly evolving plasma instabilities, the code is demonstrated
+to be suitable to study various kinds of MHD-RE interactions in MHD-active and disruption relevant
+plasmas. 

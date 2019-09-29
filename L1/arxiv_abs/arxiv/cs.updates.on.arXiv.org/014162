@@ -1,0 +1,17 @@
+We propose Style Conditioned Recommendations (SCR) and introduce style injection as a method to
+diversify recommendations. We use Conditional Variational Autoencoder (CVAE) architecture,
+where both the encoder and decoder are conditioned on a user profile learned from item content data.
+This allows us to apply style transfer methodologies to the task of recommendations, which we refer
+to as injection. To enable style injection, user profiles are learned to be interpretable such that
+they express users' propensities for specific predefined styles. These are learned via label-propagation
+from a dataset of item content, with limited labeled points. To perform injection, the condition
+on the encoder is learned while the condition on the decoder is selected per explicit feedback. Explicit
+feedback can be taken either from a user's response to a style or interest quiz, or from item ratings.
+In the absence of explicit feedback, the condition at the encoder is applied to the decoder. We show
+a 12% improvement on NDCG@20 over the traditional VAE based approach and an average 22% improvement
+on AUC across all classes for predicting user style profiles against our best performing baseline.
+After injecting styles we compare the user style profile to the style of the recommendations and
+show that injected styles have an average +133% increase in presence. Our results show that style
+injection is a powerful method to diversify recommendations while maintaining personal relevance.
+Our main contribution is an application of a semi-supervised approach that extends item labels
+to interpretable user profiles. 

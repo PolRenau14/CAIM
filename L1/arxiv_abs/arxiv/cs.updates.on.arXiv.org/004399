@@ -1,0 +1,16 @@
+Change detection is one of the central problems in earth observation and was extensively investigated
+over recent decades. In this paper, we propose a novel recurrent convolutional neural network (ReCNN)
+architecture, which is trained to learn a joint spectral-spatial-temporal feature representation
+in a unified framework for change detection in multispectral images. To this end, we bring together
+a convolutional neural network (CNN) and a recurrent neural network (RNN) into one end-to-end network.
+The former is able to generate rich spectral-spatial feature representations, while the latter
+effectively analyzes temporal dependency in bi-temporal images. In comparison with previous
+approaches to change detection, the proposed network architecture possesses three distinctive
+properties: 1) It is end-to-end trainable, in contrast to most existing methods whose components
+are separately trained or computed; 2) it naturally harnesses spatial information that has been
+proven to be beneficial to change detection task; 3) it is capable of adaptively learning the temporal
+dependency between multitemporal images, unlike most of algorithms that use fairly simple operation
+like image differencing or stacking. As far as we know, this is the first time that a recurrent convolutional
+network architecture has been proposed for multitemporal remote sensing image analysis. The proposed
+network is validated on real multispectral data sets. Both visual and quantitative analysis of
+experimental results demonstrates competitive performance in the proposed mode. 

@@ -1,0 +1,16 @@
+Quantum physics was invented to account for two fundamental features of measurement results --
+their discreetness and randomness. Emblematic of these features is Bohr's idea of quantum jumps
+between two discrete energy levels of an atom. Experimentally, quantum jumps were first observed
+in an atomic ion driven by a weak deterministic force while under strong continuous energy measurement.
+The times at which the discontinuous jump transitions occur are reputed to be fundamentally unpredictable.
+Can there be, despite the indeterminism of quantum physics, a possibility to know if a quantum jump
+is about to occur or not? Here, we answer this question affirmatively by experimentally demonstrating
+that the jump from the ground to an excited state of a superconducting artificial three-level atom
+can be tracked as it follows a predictable "flight," by monitoring the population of an auxiliary
+energy level coupled to the ground state. The experimental results demonstrate that the jump evolution
+when completed is continuous, coherent, and deterministic. Furthermore, exploiting these features
+and using real-time monitoring and feedback, we catch and reverse a quantum jump mid-flight, thus
+deterministically preventing its completion. Our results, which agree with theoretical predictions
+essentially without adjustable parameters, support the modern quantum trajectory theory and
+provide new ground for the exploration of real-time intervention techniques in the control of quantum
+systems, such as early detection of error syndromes. 

@@ -1,0 +1,16 @@
+Let $n \geq 3$. In this paper, we study the problem of whether a given finite group $G$ embeds in a quotient
+of the form $B\_n/\Gamma\_k(P\_n)$, where $B\_n$ is the $n$-string Artin braid group, $k \in \{2,
+3\}$, and $\{\Gamma\_l(P\_n)\}\_{l\in N}$ is the lower central series of the $n$-string pure braid
+group $P\_n$. Previous results show that a necessary condition for such an embedding to exist is
+that $|G|$ is odd (resp. is relatively prime with $6$) if $k=2$ (resp. $k=3$). We show that any finite
+group $G$ of odd order (resp. of order relatively prime with $6$) embeds in $B\_{|G|}/\Gamma\_2(P\_{|G|})$
+(resp. in $B\_{|G|}/\Gamma\_3(P\_{|G|})$), where $|G|$ denotes the order of $G$. The result in
+the case of $B\_{|G|}/\Gamma\_2(P\_{|G|})$ has been proved independently by Beck and Marin. One
+may then ask whether $G$ embeds in a quotient of the form $B\_n/\Gamma\_k(P\_n)$, where $n < |G|$
+and $k \in \{2, 3\}$. If $G$ is of the form $Z\_{p^r} \rtimes\_{\theta} Z\_d$, where the action $\theta$
+is injective, $p$ is an odd prime (resp. $p \geq 5$ is prime) $d$ is odd (resp. $d$ is relatively prime
+with $6$) and divides $p--1$, we show that $G$ embeds in $B\_{p^r}/\Gamma\_2(P\_{p^r})$ (resp.
+in $B\_{p^r}/\Gamma\_3(P\_{p^r})$). This generalises a result of Marin concerning the embedding
+of the Frobenius groups in $B\_n/\Gamma\_2(P\_n)$. Finally, we prove that the two non-Abelian
+groups of order $27$, namely the semi-direct product $Z\_{9} \rtimes Z\_3$, where the action is
+given by multiplication by $4$, and the Heisenberg group mod $3$, both embed in $B\_9/\Gamma\_2(P\_9)$.

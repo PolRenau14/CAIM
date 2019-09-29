@@ -1,0 +1,16 @@
+The standard $L$-functions of $\mathrm{GL}_{2n}$ expressed in terms of the Friedberg-Jacquet
+global zeta integrals have better structure for arithmetic applications, due to the relation of
+the linear periods with the modular symbols. The most technical obstacles towards such arithmetic
+applications are (1) {\sl non-vanishing of modular symbols at infinity} and (2) the {\sl existance
+or construction of uniform cohomological test vectors}. Problem (1) is also called the {\sl non-vanishing
+hypothesis at infinity}, which was proved by Binyong Sun, by establishing the existence of certain
+cohomological test vectors. In this paper, we explicitly construct an archimedean local integral
+that produces a new type of a twisted linear functional $\Lambda_{s,\chi}$, which, when evaluated
+with our explicitly constructed cohomological vector, is equal to the local twisted standard $L$-function
+$L(s,\pi\otimes\chi)$ for all complex values $s$. With the relations between linear models and
+Shalika models, we establish (1) with an explicitly constructed cohomological vector, and hence
+strengthen a non-vanishing result of Binyong Sun. Our main result indicates a complete solution
+to (2), which will be presented in the forthcoming paper of Dihua Jiang, Binyong Sun and Fangyang
+Tian with full details and with applications to the global period relations for the twisted standard
+$L$-functions at critical places. The method used in this paper also works for complex case, which
+will be presented in a forthcoming paper of Bingchen Lin and Fangyang Tian. 

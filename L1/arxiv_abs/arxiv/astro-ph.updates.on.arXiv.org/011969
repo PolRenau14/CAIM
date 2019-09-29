@@ -1,0 +1,17 @@
+The integrated spectra of stellar systems contain a wealth of information, and its analysis can
+reveal fundamental parameters such as metallicity, age and star formation history. Widely used
+methods to analyze these spectra are based on comparing the galaxy spectra to stellar population
+(SP) models. Despite being a powerful tool, SP models contain many ingredients, each with their
+assumptions and uncertainties. Among the several possible sources of uncertainties, it is not
+straightforward to identify which ingredient dominates the errors in the models. In this work we
+propose a study of one of the SP model ingredients -- the spectral stellar libraries -- independently
+of the other ingredients. To that aim, we will use the integrated spectra of globular clusters which
+have color-magnitude diagrams (CMDs) available. From these CMDs it is possible to model the integrated
+spectra of these objects without having to adopt -- or make assumptions -- on the other two main ingredients
+of SP models, evolutionary tracks or an IMF. Here we tested four widely used stellar libraries. We
+found that the libraries are able to reproduce the integrated spectra of 18 of the 30 cluster spectra
+inside a mean flux uncertainty of 5%. For the larger wavelength range tested, a theoretical library
+outperforms the empirical ones in the comparison. Without the blue part of the spectra, empirical
+libraries fare better than the theoretical, in particular when individual features are concerned.
+However, the results are promising for theoretical libraries, which are equally efficient to reproduce
+the whole spectrum. 

@@ -1,0 +1,16 @@
+We study a variant of the \emph{generalized assignment problem} ({\sf GAP}) with group constraints.
+An instance of {\sf Group GAP} is a set $I$ of items, partitioned into $L$ groups, and a set of $m$ uniform
+(unit-sized) bins. Each item $i \in I$ has a size $s_i >0$, and a profit $p_{i,j} \geq 0$ if packed in
+bin $j$. A group of items is \emph{satisfied} if all of its items are packed. The goal is to find a feasible
+packing of a subset of the items in the bins such that the total profit from satisfied groups is maximized.
+We point to central applications of {\sf Group GAP} in Video-on-Demand services, mobile Device-to-Device
+network caching and base station cooperation in 5G networks. Our main result is a $\frac{1}{6}$-approximation
+algorithm for {\sf Group GAP} instances where the total size of each group is at most $\frac{m}{2}$.
+At the heart of our algorithm lies an interesting derivation of a submodular function from the classic
+LP formulation of {\sf GAP}, which facilitates the construction of a high profit solution utilizing
+at most half the total bin capacity, while the other half is \emph{reserved} for later use. In particular,
+we give an algorithm for submodular maximization subject to a knapsack constraint, which finds
+a solution of profit at least $\frac{1}{3}$ of the optimum, using at most half the knapsack capacity,
+under mild restrictions on element sizes. Our novel approach of submodular optimization subject
+to a knapsack \emph{with reserved capacity} constraint may find applications in solving other
+group assignment problems. 

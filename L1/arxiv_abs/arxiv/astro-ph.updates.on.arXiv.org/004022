@@ -1,0 +1,16 @@
+We present a first instalment of the MUSE-Wide survey, covering an area of 22.2 arcmin$^2$ (corresponding
+to $\sim$20% of the final survey) in the CANDELS/Deep area of the Chandra Deep Field South. We use
+the MUSE integral field spectrograph at the ESO VLT to conduct a full-area spectroscopic mapping
+at a depth of 1h exposure time per 1 arcmin$^2$ pointing. We searched for compact emission line objects
+using our newly developed LSDCat software based on a 3-D matched filtering approach, followed by
+interactive classification and redshift measurement of the sources. Our catalogue contains 831
+distinct emission line galaxies with redshifts ranging from 0.04 to 6. Roughly one third (237) of
+the emission line sources are Lyman $\alpha$ emitting galaxies with $3 < z < 6$, only four of which
+had previously measured spectroscopic redshifts. At lower redshifts 351 galaxies are detected
+primarily by their [OII] emission line ($0.3 \lesssim z \lesssim 1.5$), 189 by their [OIII] line
+($0.21 \lesssim z \lesssim 0.85$), and 46 by their H$\alpha$ line ($0.04 \lesssim z \lesssim 0.42$).
+Comparing our spectroscopic redshifts to photometric redshift estimates from the literature,
+we find excellent agreement for $z<1.5$ with a median $\Delta z$ of only $\sim 4 \times 10^{-4}$ and
+an outlier rate of 6%, however a significant systematic offset of $\Delta z = 0.26$ and an outlier
+rate of 23% for Ly$\alpha$ emitters at $z>3$. Together with the catalogue we also release 1D PSF-weighted
+extracted spectra and small 3D datacubes centred on each of the 831 sources. 

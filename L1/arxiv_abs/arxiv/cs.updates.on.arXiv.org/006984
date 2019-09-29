@@ -1,0 +1,17 @@
+We examine the non-Markovian nature of human mobility by exposing the inability of Markov models
+to capture criticality in human mobility. In particular, the assumed Markovian nature of mobility
+was used to establish a theoretical upper bound on the predictability of human mobility (expressed
+as a minimum error probability limit), based on temporally correlated entropy. Since its inception,
+this bound has been widely used and empirically validated using Markov chains. We show that recurrent-neural
+architectures can achieve significantly higher predictability, surpassing this widely used
+upper bound. In order to explain this anomaly, we shed light on several underlying assumptions in
+previous research works that has resulted in this bias. By evaluating the mobility predictability
+on real-world datasets, we show that human mobility exhibits scale-invariant long-range correlations,
+bearing similarity to a power-law decay. This is in contrast to the initial assumption that human
+mobility follows an exponential decay. This assumption of exponential decay coupled with Lempel-Ziv
+compression in computing Fano's inequality has led to an inaccurate estimation of the predictability
+upper bound. We show that this approach inflates the entropy, consequently lowering the upper bound
+on human mobility predictability. We finally highlight that this approach tends to overlook long-range
+correlations in human mobility. This explains why recurrent-neural architectures that are designed
+to handle long-range structural correlations surpass the previously computed upper bound on mobility
+predictability. 

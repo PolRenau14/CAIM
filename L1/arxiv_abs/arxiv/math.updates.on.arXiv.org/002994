@@ -1,0 +1,17 @@
+We study properties of potentials on quivers $Q_{\mathcal{T},m}$ arising from cluster coordinates
+on moduli spaces of $PGL_{m+1}$-local systems on a topological surface with punctures. To every
+quiver with potential one can associate a $3d$ Calabi-Yau $A_\infty$-category in such a way that
+a natural notion of equivalence for quivers with potentials (called "right-equivalence") translates
+to $A_\infty$-equivalence of associated categories. For any quiver one can define a notion of a
+"primitive" potential. Our first result is the description of the space of equivalence classes
+of primitive potentials on quivers $Q_{\mathcal{T}, m}$. Then we provide a full description of
+the space of equivalence classes of all \emph{generic} potentials for the case $m = 2$ (corresponds
+to $PGL_3$-local systems). In particular, we show that it is finite-dimensional. This claim extends
+results of Gei\ss, Labardini-Fragoso and Schr\"oer who have proved analogous statement in $m=1$
+case. In many cases $3d$ Calabi-Yau $A_\infty$-categories constructed from quivers with potentials
+are expected to be realized geometrically as Fukaya categories of certain Calabi-Yau $3$-folds.
+Bridgeland and Smith gave an explicit construction of Fukaya categories for quivers $Q_{\mathcal{T},m=1}$.
+We propose a candidate for Calabi-Yau $3$-folds that would play analogous role in higher rank cases,
+$m > 1$. We study their (co)homology and describe a construction of collections of $3$-dimensional
+spheres that should play a role of generating collections of Lagrangian spheres in corresponding
+Fukaya categories. 

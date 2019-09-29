@@ -1,0 +1,16 @@
+We investigate the extent to which foreground cleaned CMB maps can be used to estimate the cosmological
+parameters at small scales. We use the SMICA method, a blind separation technique which works directly
+at the spectral level. In this work we focus on the small scales of the CMB angular power spectrum,
+which are chiefly affected by noise and extragalactic foregrounds, such as point sources. We adapt
+SMICA to use only cross-spectra between data maps, thus avoiding the noise bias. In this study, performed
+both on simulations and on Planck 2015 data, we fit for extragalactic point sources by modeling them
+as shot noise of two independent populations. In simulations we correctly recover the point source
+emission law, and obtain a CMB angular power spectrum that has an average foreground residual of
+one fifth of the CMB power at $\ell \geq$ 2200. On Planck data, the recovered point source emission
+law corresponds to external estimates, with some offsets at the highest and lowest frequencies,
+possibly due to frequency decoherence of point sources. The CMB angular power spectrum residuals
+are consistent with what we find in simulations. The cosmological parameters obtained from the
+simulations and the data show offsets up to 1$\sigma$ on average from their expected values. Biases
+on cosmological parameters in simulations represent the expected level of bias in Planck data.
+The results on cosmological parameters depend on the detail of the foreground residual contamination
+in the spectrum, and need a tailored modeling of the likelihood foreground model. 

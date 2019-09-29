@@ -1,0 +1,16 @@
+The problem of quantum turbulence in a channel with an inhomogeneous counterflow of superfluid
+turbulent helium is studied. \ The counterflow velocity $V_{ns}^{x}(y)$ along the channel is supposed
+to have a parabolic profile in the transverse direction $y$. Such statement corresponds to the recent
+numerical simulation by Khomenko et al. [Phys. Rev. B \textbf{91}, 180504 (2015)]. The authors
+reported about a sophisticated behavior of the vortex line density (VLD) $\mathcal{L}(\mathbf{r},t)$,
+different from $% \mathcal{L}\propto V_{ns}^{x}(y)^{2}$, which follows from the naive, straightforward
+application of the conventional Vinen theory. It is clear, that Vinen theory should be refined by
+taking into account transverse effects and the way it ought to be done is the subject of active discussion
+in the literature. In the work we discuss several possible mechanisms of the transverse flux of VLD
+$\mathcal{L}(\mathbf{r},t)$ which should be incorporated in the standard Vinen equation to describe
+adequately the inhomogeneous quantum turbulence (QT). It is shown that the most effective among
+these mechanisms is the one that is related to the phase slippage phenomenon. The use of this flux
+in the modernized Vinen equation corrects the situation with an unusual distribution of the vortex
+line density, and satisfactory describes the behavior $\mathcal{L}(\mathbf{r},t)$ both in stationary
+and nonstationary situations. The general problem of the phenomenological Vinen theory in the
+case of nonuniform and nonstationary quantum turbulence is thoroughly discussed. 

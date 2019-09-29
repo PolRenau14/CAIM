@@ -1,0 +1,16 @@
+In this work we derive state-of-the-art model-independent constraints on cosmology from SN Ia
+by measuring purely kinematical $\left( q,j \right)$ model parameters (where $q$ and $j$ are related
+to the first and second derivative of the Hubble parameter). For the JLA compilation of SN Ia an agreement
+within 2$\sigma$ of $\Lambda$CDM expectations is found, where best-fitting kinematical parameters
+are $q=-0.66 \pm 0.11$ and $j=0.41 ^{+0.32}_{-0.33}$. With $q=-0.73 \pm 0.13$ and $j=0.76 ^{+0.41}_{-0.43}$
+the Pantheon sample shows even better agreement with the $\Lambda$CDM expectation of $j=1$ than
+JLA, hinting at less systematics and/or a higher number of SN Ia alleviating tensions. For the future
+we predict the precision achievable with SN Ia from the LSST deep survey as $\Delta q \sim 0.05$ and
+$\Delta j \sim 0.1$, which is systematics-limited and could lead to detect both deviations from
+$\Lambda$CDM (in $j$) or current expansion rates measured (in $q$). In comparison, for standard
+cosmological parameters we get $\Delta \Omega_\mathrm{m}=0.01$ and $\Delta w=0.07$ for LSST.
+Given the high number of SN Ia expected for LSST, kinematical parameters in up to 500 sky regions,
+each with their own individual Hubble diagram, can be constrained. For each region an individual
+precision at the 10s of percent level is within reach at current systematics-levels, comparable
+to present-day full-sky surveys. This will determine anisotropy in cosmic expansion, or the dark
+energy dipole, at the 10s of percent level at 10s of degree scales. 

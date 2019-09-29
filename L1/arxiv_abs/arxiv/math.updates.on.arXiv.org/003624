@@ -1,0 +1,17 @@
+Given a graph $G$, the $G$-parking function ideal $M_G$ is an artinian monomial ideal in the polynomial
+ring $S$ with the property that a linear basis for $S/M_G$ is provided by the set of $G$-parking functions.
+It follows that the dimension of $S/M_G$ is given by the number of spanning trees of $G$, which by the
+Matrix Tree Theorem is equal to the determinant of the reduced Laplacian of $G$. The ideals $M_G$
+and related algebras were introduced by Postnikov and Shapiro where they studied their Hilbert
+functions and homological properties. The author and Sanyal showed that a minimal resolution of
+$M_G$ can be constructed from the graphical hyperplane arrangement associated to $G$, providing
+a combinatorial interpretation of the Betti numbers. Motivated by constructions in the theory
+of chip-firing on graphs, we study certain `skeleton' ideals $M_G^{(k)} \subset M_G$ generated
+by subsets of vertices of $G$ of size at most $k+1$. Here we focus our attention on the case $k=1$, the
+$1$-skeleton of the $G$-parking functions ideals. We consider standard monomials of $M_G^{(1)}$
+and provide a combinatorial interpretation for the dimension of $S/M_G^{(1)}$ in terms of the signless
+Laplacian for the case $G = K_{n+1}$ is the complete graph. Our main study concerns homological properties
+of these ideals. We study resolutions of $M_G^{(1)}$ and show that for a certain class of graphs minimal
+resolution is supported on decompositions of Euclidean space coming from the theory of tropical
+hyperplane arrangements. This leads to combinatorial interpretations of the Betti numbers of
+these ideals. 

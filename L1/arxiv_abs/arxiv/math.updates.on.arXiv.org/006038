@@ -1,0 +1,17 @@
+In this paper, we are concerned with the critical order H\'{e}non-Lane-Emden type equations with
+Navier boundary condition on a half space $\mathbb{R}^n_+$: \begin{equation}\label{NPDE0}\\\begin{cases}
+(-\Delta)^{\frac{n}{2}} u(x)=f(x,u(x)),\ u(x)\geq0,\ x\in\mathbb{R}^{n}_+, \\ u=(-\Delta)u
+= \cdots = (-\Delta)^{\frac{n}{2}-1}u = 0,\ x\in\partial\mathbb{R}^{n}_+, \end{cases}\end{equation}
+where $u\in C^{n}(\mathbb{R}^{n}_+)\cap C^{n-2}(\overline{\mathbb{R}^{n}_+})$ and $n\geq2$
+is even. We first consider the typical case $f(x,u)=|x|^{a}u^{p}$ with $0\leq a<\infty$ and $1<p<\infty$.
+We prove the super poly-harmonic properties and establish the equivalence between (0.1) and the
+corresponding integral equations \begin{equation}\label{IE0} u(x)=\int_{\mathbb{R}^{n}_+}G(x,y)f(y,u(y))dy,
+\end{equation} where $G(x,y)$ denotes the Green's function for $(-\Delta)^{\frac{n}{2}}$ on
+$\mathbb{R}^n_+$ with Navier boundary conditions. Then, we establish Liouville theorem for (0.2)
+via ``the method of scaling spheres" developed initially in \cite{DQ0} by Dai and Qin, and hence
+we obtain the Liouville theorem for (0.1) on $\mathbb{R}^n_+$. As an application of the Liouville
+theorem on $\mathbb{R}^n_+$ (Theorem 1.6) and Liouville theorems in $\mathbb{R}^{n}$ established
+in Chen, Dai and Qin [4] for $n\geq4$ and Bidaut-V\'{e}ron and Giacomini [1] for $n=2$, we derive
+a priori estimates and existence of positive solutions to critical order Lane-Emden equations
+in bounded domains for all $n\geq2$ and $1<p<\infty$. Extensions to IEs and PDEs with general nonlinearities
+$f(x,u)$ are also included. 

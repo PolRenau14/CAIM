@@ -1,0 +1,16 @@
+Superconducting field-effect transitor (SuFET) and Josephson field-effect transistor (JoFET)
+technologies take advantage of electric field induced control of charge carrier concentration
+in order to modulate the channel superconducting properties. Despite field-effect is believed
+to be unaffective for superconducting metals, recent experiments showed electric field dependent
+modulation of the critical current (IC) in a fully metallic transistor. Yet, the grounding mechanism
+of this phenomenon is not completely understood. Here, we show the experimental realization of
+Ti-based Dayem bridge field-effect transistors (DB-FETs) able to control IC of the superconducting
+channel. Our easy fabrication process DB-FETs show symmetric full suppression of IC for an applied
+critical gate voltage as low as VCG~+-8V at temperatures reaching about the 85% of the record critical
+temperature TC~550mK for titanium. The gate-independent TC and normal state resistance (RN) coupled
+with the increase of resistance in the supercoducting state (RS) for gate voltages close to the critical
+value (VCG) suggest the creation of field-effect induced metallic puddles in the superconducting
+sea. Our devices show extremely high values of transconductance (gMAXm~15uA/V at VG~+-6.5V) and
+variations of Josephson kinetic inductance (LK) with VG of two orders of magnitude. Therefore,
+the DB-FET appears as an ideal candidate for the realization of superconducting electronics, superconducting
+qubits, tunable interferometers as well as photon detectors. 

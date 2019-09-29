@@ -1,0 +1,16 @@
+We have built PRISM, a "Probabilistic Regression Instrument for Simulating Models". PRISM uses
+the Bayes linear approach and history matching to construct an approximation ('emulator') of any
+given model, by combining limited model evaluations with advanced regression techniques, covariances
+and probability calculations. It is designed to easily facilitate and enhance existing Markov
+chain Monte Carlo (MCMC) methods by restricting plausible regions and exploring parameter space
+efficiently. However, PRISM can additionally be used as a standalone alternative to MCMC for model
+analysis, providing insight into the behavior of complex scientific models. With PRISM, the time
+spent on evaluating a model is minimized, providing developers with an advanced model analysis
+for a fraction of the time required by more traditional methods. This paper provides an overview
+of the different techniques and algorithms that are used within PRISM. We demonstrate the advantage
+of using the Bayes linear approach over a full Bayesian analysis when analyzing complex models.
+Our results show how much information can be captured by PRISM and how one can combine it with MCMC
+methods to significantly speed up calibration processes (>15 times faster). PRISM is an open-source
+Python package that is available under the BSD 3-Clause License (BSD-3) at https://github.com/1313e/PRISM
+and hosted at https://prism-tool.readthedocs.io. PRISM has also been reviewed by "The Journal
+of Open Source Software" (https://doi.org/10.21105/joss.01229). 

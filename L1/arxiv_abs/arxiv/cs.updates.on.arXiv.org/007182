@@ -1,0 +1,17 @@
+In recent years several research efforts focused on the development of high-order discontinuous
+Galerkin (dG) methods for scale resolving simulations of turbulent flows. Nevertheless, in the
+context of incompressible flow computations, the computational expense of solving large scale
+equation systems characterized by indefinite Jacobian matrices has often prevented from dealing
+with industrially-relevant computations. In this work we seek to improve the efficiency of Rosenbrock-type
+linearly-implicit Runge-Kutta methods by devising robust, scalable and memory-lean solution
+strategies. In particular, we combined p-multigrid preconditioners with matrix-free Krylov
+iterative solvers: the p-multigrid preconditioner relies on specifically crafted rescaled-inherited
+coarse operators and cheap block-diagonal smoother's preconditioners to obtain satisfactory
+convergence rates and a low memory occupation. Extensive numerical validation is performed. The
+rescaled-inherited p-multigrid algorithm for the BR2 dG discretization is firstly validated
+solving Poisson problems. The Rosenbrock formulation is then applied to test cases of growing complexity:
+the laminar unsteady flow around a two-dimensional cylinder at Re=200 and around a sphere at Re=300,
+and finally the transitional T3L1 flow problem of the ERCOFTAC test case suite with different levels
+of free-stream turbulence. For the latter good agreement with experimental data is documented,
+moreover, strong memory savings and execution time gains with respect to state-of-the art preconditioners
+are reported. 

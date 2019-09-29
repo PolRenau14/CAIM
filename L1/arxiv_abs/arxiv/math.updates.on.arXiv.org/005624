@@ -1,0 +1,16 @@
+Counting short cycles in bipartite graphs is a fundamental problem of interest in many fields including
+the analysis and design of low-density parity-check (LDPC) codes. There are two computational
+approaches to count short cycles (with length smaller than $2g$, where $g$ is the girth of the graph)
+in bipartite graphs. The first approach is applicable to a general (irregular) bipartite graph,
+and uses the spectrum $\{\eta_i\}$ of the directed edge matrix of the graph to compute the multiplicity
+$N_k$ of $k$-cycles with $k < 2g$ through the simple equation $N_k = \sum_i \eta_i^k/(2k)$. This
+approach has a computational complexity $\mathcal{O}(|E|^3)$, where $|E|$ is number of edges
+in the graph. The second approach is only applicable to bi-regular bipartite graphs, and uses the
+spectrum $\{\lambda_i\}$ of the adjacency matrix (graph spectrum) and the degree sequences of
+the graph to compute $N_k$. The complexity of this approach is $\mathcal{O}(|V|^3)$, where $|V|$
+is number of nodes in the graph. This complexity is less than that of the first approach, but the equations
+involved in the computations of the second approach are very tedious, particularly for $k \geq g+6$.
+In this paper, we establish an analytical relationship between the two spectra $\{\eta_i\}$ and
+$\{\lambda_i\}$ for bi-regular bipartite graphs. Through this relationship, the former spectrum
+can be derived from the latter through simple equations. This allows the computation of $N_k$ using
+$N_k = \sum_i \eta_i^k/(2k)$ but with a complexity of $\mathcal{O}(|V|^3)$ rather than $\mathcal{O}(|E|^3)$.

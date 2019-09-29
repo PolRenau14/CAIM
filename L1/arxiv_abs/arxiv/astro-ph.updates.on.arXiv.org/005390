@@ -1,0 +1,16 @@
+Recent observations have shown that coronal shocks driven by coronal mass ejections can develop
+and accelerate particles within several solar radii in large solar energetic particle (SEP) events.
+Motivated by this, we present an SEP acceleration study including the process that a fast shock propagates
+through a streamer-like magnetic field with both closed and open field lines in the low corona region.
+The acceleration of protons is modeled by numerically solving the Parker transport equation with
+spatial diffusion both along and across the magnetic field. We show that particles can be sufficiently
+accelerated to up to several hundred MeV within 2-3 solar radii. When the shock propagates through
+a streamer-like magnetic field, particles are more efficiently accelerated compared to the case
+with a simple radial magnetic field, mainly due to perpendicular shock geometry and the natural
+trapping effect of closed magnetic fields. Our results suggest that the coronal magnetic field
+configuration is an important factor for producing large SEP events. We further show that the coronal
+magnetic field configuration strongly influences the distribution of energetic particles, leading
+to different locations of source regions along the shock front where most of high energy particles
+are concentrated. This work may have strong implications to SEP observations. The upcoming Parker
+Solar Probe will provide in situ observations for the distribution of energetic particles in the
+coronal shock region, and test the results of the study. 

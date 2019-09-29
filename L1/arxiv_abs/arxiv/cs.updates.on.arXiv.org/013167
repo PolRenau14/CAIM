@@ -1,0 +1,16 @@
+Developing countries suffer from traffic congestion, poorly planned road/rail networks, and
+lack of access to public transportation facilities. This context results in an increase in fuel
+consumption, pollution level, monetary losses, massive delays, and less productivity. On the
+other hand, it has a negative impact on the commuters feelings and moods. Availability of real-time
+transit information - by providing public transportation vehicles locations using GPS devices
+- helps in estimating a passenger's waiting time and addressing the above issues. However, such
+solution is expensive for developing countries. This paper aims at designing and implementing
+a crowd-sourced mobile phones-based solution to estimate the expected waiting time of a passenger
+in public transit systems, the prediction of the remaining time to get on/off a vehicle, and to construct
+a real time public transit schedule. Trans-Sense has been evaluated using real data collected for
+over 800 hours, on a daily basis, by different Android phones, and using different light rail transit
+lines at different time spans. The results show that Trans-Sense can achieve an average recall and
+precision of 95.35% and 90.1%, respectively, in discriminating lightrail stations. Moreover,
+the empirical distributions governing the different time delays affecting a passenger's total
+trip time enable predicting the right time of arrival of a passenger to her destination with an accuracy
+of 91.81%.In addition, the system estimates the stations dimensions with an accuracy of 95.71%.

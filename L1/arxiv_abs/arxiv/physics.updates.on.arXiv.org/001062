@@ -1,0 +1,16 @@
+As the foundation for a new computational implementation, we survey the calculation of the complex
+electrical conductivity tensor based on the Kubo-Greenwood (KG) formalism (J.\ Phys.\ Soc.\ Jpn.
+\textbf{12}, 570 (1957); Proc.\ Phys.\ Soc.\ \textbf{71}, 585 (1958)), with emphasis on derivations
+and technical aspects pertinent to use of projector augmented wave datasets with plane wave basis
+sets (Phys.\ Rev.\ B \textbf{50}, 17953 (1994)). New analytical results and a full implementation
+of the KG approach in an open-source Fortran 90 post-processing code for use with Quantum Espresso
+(J.\ Phys.\ Cond.\ Matt.\ \textbf{21}, 395502 (2009)) are presented.Named KGEC ([K]ubo [G]reenwood
+[E]lectronic [C]onductivity), the code calculates the full complex conductivity tensor (not
+just the average trace). It supports use of either the original KG formula or the popular one approximated
+in terms of a Dirac delta function. It provides both Gaussian and Lorentzian representations of
+the Dirac delta function (thoughthe Lorentzian is preferable on basic grounds). KGEC provides
+decomposition of the conductivity into intra- and inter-band contributions as well as degenerate
+state contributions. It calculates the dc conductivity tensor directly. It is MPI parallelized
+over k-points, bands, and plane waves, with an option to recover the plane wave processes for their
+use in band parallelization as well. It is designed to provide rapid convergence with respect to
+$\mathbf k$-point density. Examples of its use are given. 

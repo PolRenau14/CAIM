@@ -1,0 +1,16 @@
+We study crustal oscillations in magnetars including corrections for a finite Alfv\'en velocity.
+Our crust model uses a new nuclear mass formula that predicts nuclear masses with an accuracy very
+close to that of the Finite Range Droplet Model. This mass model for equilibrium nuclei also includes
+recent developments in the nuclear physics, in particular, shell corrections and an updated neutron-drip
+line. We perturb our crust model to predict axial crust modes and assign them to observed giant flare
+quasi-periodic oscillation (QPO) frequencies from SGR 1806-20. The QPOs associated with the fundamental
+and first harmonic can be used to constrain magnetar masses and radii. We use these modes and the phenomenological
+equations of state from Steiner et al. to find a magnetar crust which reproduces observations of
+SGR 1806-20. We find magnetar crusts that match observations for various magnetic field strengths,
+entrainment of the free neutron gas in the inner crust, and crust-core transition densities. Matching
+observations with a field-free model we obtain the approximate values of M =1.35 Msun and R = 11.9
+km. Matching observations using a model with the surface dipole field of SGR 1806-20 (B=2.4x10^15
+G) we obtain the approximate values of M = 1.25 Msun and R = 12.4 km. Without significant entrainment
+of the free neutron gas the magnetar requires a larger mass and radius to reproduce observations.
+If the crust-core transition occurs at a lower density the magnetar requires a lower mass and a larger
+radius to reproduce observations. 

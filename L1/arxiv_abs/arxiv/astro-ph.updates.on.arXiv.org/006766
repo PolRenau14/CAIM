@@ -1,0 +1,17 @@
+Giant impacts (GIs) are common in the late stage of planet formation. The Smoothed Particle Hydrodynamics
+(SPH) method is widely used for simulating the outcome of such violent collisions, one prominent
+example being the formation of the Moon. However, a decade of numerical studies in various areas
+of computational astrophysics has shown that the standard formulation of SPH suffers from several
+shortcomings such as artificial surface tension and its tendency to promptly damp turbulent motions
+on scales much larger than the physical dissipation scale, both resulting in the suppression of
+mixing. In order to quantify how severe these limitations are when modeling GIs we carried out a comparison
+of simulations with identical initial conditions performed with the standard SPH as well as with
+the novel Lagrangian Meshless Finite Mass (MFM) method in the GIZMO code. We confirm the lack of mixing
+between the impactor and target when SPH is employed, while MFM is capable of driving vigorous sub-sonic
+turbulence and leads to significant mixing between the two bodies. Modern SPH variants with artificial
+conductivity, a different formulation of the hydro force or reduced artificial viscosity, do not
+improve mixing as significantly. Angular momentum is conserved similarly well in both methods,
+but MFM does not suffer from spurious transport induced by artificial viscosity, resulting in a
+slightly higher angular momentum of the proto-lunar disk. Furthermore, SPH initial conditions
+exhibit an unphysical density discontinuity at the core-mantle boundary which is easily removed
+in MFM. 

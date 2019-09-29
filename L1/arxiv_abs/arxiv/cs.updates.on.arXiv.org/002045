@@ -1,0 +1,16 @@
+Perfusion-weighted magnetic resonance imaging (MRI) is an imaging technique that allows one to
+measure tissue perfusion in an organ of interest through the injection of an intravascular paramagnetic
+contrast agent (CA). Due to a preference for high temporal and spatial resolution in many applications,
+this modality could significantly benefit from accelerated data acquisitions. In this paper,
+we specifically address the problem of reconstructing perfusion MR image series from a subset of
+k-space data. Our proposed approach is motivated by the observation that temporal variations (dynamics)
+in perfusion imaging often exhibit correlation across different spatial scales. Hence, we propose
+a model that jointly penalizes the voxel-wise deviations in temporal gradient images obtained
+based on a baseline, and the patch-wise dissimilarities between the spatio-temporal neighborhoods
+of entire image sequence. We validate our method on dynamic susceptibility contrast (DSC)-MRI
+and dynamic contrast-enhanced (DCE)-MRI brain perfusion datasets acquired from 10 tumor patients
+in total. We provide extensive analysis of reconstruction performance and perfusion parameter
+estimation in comparison to state-of-the-art reconstruction methods. Experimental results
+on clinical datasets demonstrate that our reconstruction model can potentially achieve up to 8-fold
+acceleration by enabling accurate estimation of perfusion parameters while preserving spatial
+image details and reconstructing the complete perfusion time-intensity curves (TICs). 

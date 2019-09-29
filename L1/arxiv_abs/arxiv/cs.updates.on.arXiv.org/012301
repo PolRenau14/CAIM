@@ -1,0 +1,17 @@
+Transactional access to databases is an important abstraction allowing programmers to consider
+blocks of actions (i.e., transactions) as executing in isolation. The strongest consistency model
+in this context is {\em serializability}, which ensures the atomicity abstraction of transactions
+executing over a sequentially consistent memory. Since ensuring serializability carries a significant
+penalty on availability, modern databases provide weaker consistency models, one of the most prominent
+being \emph{snapshot isolation}. In general, the correctness of a program relying on serializable
+transactions may be broken when using weaker models. However, certain programs may also be insensitive
+to consistency relaxations, which means that all their properties holding under serializability
+are preserved even when they are executed over some weakly consistent database and without additional
+synchronization. In this paper, we address the issue of verifying if a given program is {\em robust
+against snapshot isolation}, i.e., all its behaviors are serializable even if it is executed over
+a database ensuring snapshot isolation. We show that this verification problem is polynomial time
+reducible to a state reachability problem in transactional programs over a sequentially consistent
+shared memory. This reduction opens the door to the reuse of the classic verification technology
+(under sequential consistency) for reasoning about weakly-consistent programs. In particular,
+we show that it can be used to derive a proof technique based on Lipton's reduction theory that allows
+to prove programs robust. 

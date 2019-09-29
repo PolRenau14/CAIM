@@ -1,0 +1,16 @@
+We study the non-equilibrium properties of non interacting active Ornstein-Uhlenbeck particles
+(AOUP) subject to an external nonuniform field using a Fokker-Planck approach with a focus on the
+linear response and time-correlation functions. In particular, we compare different methods
+to compute these functions including the unified colored noise approximation (UCNA). The AOUP
+model, described by the position of the particle and the active force acting on it, is usually mapped
+into a Markovian process, describing the motion of a fictitious passive particle in terms of its
+position and velocity, where the effect of the activity is transferred into a position-dependent
+friction. We show that the form of the response function of the AOUP depends on whether we put the perturbation
+on the position and keep unperturbed the active force in the original variables or perturb the position
+and maintain unperturbed the velocity in the transformed variables. Indeed, as a result of the change
+of variables the perturbation on the position becomes a perturbation both on the position and on
+the fictitious velocity. We test these predictions by considering the response for three types
+of convex potentials: quadratic, quartic and double-well potential. Moreover, by comparing the
+response of the AOUP model with the corresponding response of the UCNA model we conclude that although
+the stationary properties are fairly well approximated by the UCNA, the non equilibrium properties
+are not, an effect which is not negligible when the persistence time is large. 

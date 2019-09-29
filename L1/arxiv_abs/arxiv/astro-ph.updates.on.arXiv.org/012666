@@ -1,0 +1,17 @@
+We present the first results from the deep and wide 5 GHz radio observations of the Great Observatories
+Origins Deep Survey (GOODS)-North ($\sigma=3.5 \; \mu Jy \; beam^{-1}$, synthesized beam size
+$\theta =$ 1.47 arcsec $\times$ 1.42 arcsec, and 52 sources over 109 arcmin$^{2}$) and GOODS-South
+($\sigma=3.0 \; \mu Jy \; beam^{-1}$, $\theta=$0.98 arcsec $\times$ 0.45 arcsec, and 88 sources
+over 190 arcmin$^{2}$) fields using the Karl G. Jansky Very Large Array. We derive radio spectral
+indices {\alpha} between 1.4 and 5 GHz using the beam-matched images and show that the overall spectral
+index distribution is broad even when the measured noise and flux bias are considered. We also find
+a clustering of faint radio sources around $\alpha=0.8$, but only within $S_{5GHz} < 150 \; \mu Jy$.
+We demonstrate that the correct radio spectral index is important for deriving accurate rest frame
+radio power and analyzing the radio-FIR correlation, and adopting a single value of $\alpha=0.8$
+leads to a significant scatter and a strong bias in the analysis of the radio-FIR correlation, resulting
+from the broad and asymmetric spectral index distribution. When characterized by specific star
+formation rates, the starburst population (58%) dominates the 5 GHz radio source population, and
+the quiescent galaxy population (30%) follows a distinct trend in spectral index distribution
+and the radio-FIR correlation. Lastly, we offer suggestions on sensitivity and angular resolution
+for future ultra-deep surveys designed to trace the cosmic history of star formation and AGN activity
+using radio continuum as a probe. 

@@ -1,0 +1,17 @@
+In this paper we explore how recent technologies can improve the security of optical networks. In
+particular, we study how to use quantum key distribution (QKD) in common optical network infrastructures
+and propose a method to overcome its distance limitations. QKD is the first technology offering
+information theoretic secret-key distribution that relies only on the fundamental principles
+of quantum physics. Point-to-point QKD devices have reached a mature industrial state; however,
+these devices are severely limited in distance, since signals at the quantum level (e.g. single
+photons) are highly affected by the losses in the communication channel and intermediate devices.
+To overcome this limitation, intermediate nodes (i.e. repeaters) are used. Both, quantum-regime
+and trusted, classical, repeaters have been proposed in the QKD literature, but only the latter
+can be implemented in practice. As a novelty, we propose here a new QKD network model based on the use
+of not fully trusted intermediate nodes, referred as weakly trusted repeaters. This approach forces
+the attacker to simultaneously break several paths to get access to the exchanged key, thus improving
+significantly the security of the network. We formalize the model using network codes and provide
+real scenarios that allow users to exchange secure keys over metropolitan optical networks using
+only passive components. Moreover, the theoretical framework allows to extend these scenarios
+not only to accommodate more complex trust constraints, but also to consider robustness and resiliency
+constraints on the network. 

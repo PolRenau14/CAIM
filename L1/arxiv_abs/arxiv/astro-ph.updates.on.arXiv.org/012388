@@ -1,0 +1,16 @@
+The discovery of thousands of planetary systems by Kepler has demonstrated that planets are ubiquitous.
+However, a major challenge has been the confirmation of Kepler planet candidates, many of which
+still await confirmation. One of the most enigmatic examples is KOI 4.01, Kepler's first discovered
+planet candidate detection (as KOI 1.01, 2.01, and 3.01 were known prior to launch). Here we present
+the confirmation and characterization of KOI 4.01 (now Kepler-1658), using a combination of asteroseismology
+and radial velocities. Kepler-1658 is a massive, evolved subgiant (Mstar = 1.45 +/- 0.06 Msun, Rstar
+= 2.89 +/- 0.12 Rsun) hosting a massive (Mp = 5.88 +/- 0.47 MJ, Rp = 1.07 +/- 0.05 RJ) hot Jupiter that
+orbits every 3.85 days. Kepler-1658 joins a small population of evolved hosts with short-period
+(<=100 days) planets and is now the closest known planet in terms of orbital period to an evolved star.
+Because of its uniqueness and short orbital period, Kepler-1658 is a new benchmark system for testing
+tidal dissipation and hot Jupiter formation theories. Using all 4 years of Kepler data, we constrain
+the orbital decay rate to be Pdot <= -0.42 s/yr, corresponding to a strong observational limit of
+Qstar >= 4.826 x 10^3 for the tidal quality factor in evolved stars. With an effective temperature
+Teff ~6200 K, Kepler-1658 sits close to the spin-orbit misalignment boundary at ~6250 K, making
+it a prime target for follow-up observations to better constrain its obliquity and to provide insight
+into theories for hot Jupiter formation and migration. 

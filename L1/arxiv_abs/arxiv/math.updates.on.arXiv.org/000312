@@ -1,0 +1,16 @@
+We consider a Hecke algebra naturally associated with the affine group with totally positive multiplicative
+part over an algebraic number field K and we show that the C*-algebra of the Bost-Connes system for
+K can be obtained from our Hecke algebra by induction, from the group of totally positive principal
+ideals to the whole group of ideals. Our Hecke algebra is therefore a full corner, corresponding
+to the narrow Hilbert class field, in the Bost-Connes C*-algebra of K; in particular, the two algebras
+coincide if and only if K has narrow class number one. Passing the known results for the Bost-Connes
+system for K to this corner, we obtain a phase transition theorem for our Hecke algebra. In another
+application of induction we consider an extension L/K of number fields and we show that the Bost-Connes
+system for L embeds into the system obtained from the Bost-Connes system for K by induction from the
+group of ideals in K to the group of ideals in L. This gives a C*-algebraic correspondence from the
+Bost-Connes system for K to that for L. Therefore the construction of Bost-Connes systems can be
+extended to a functor from number fields to C*-dynamical systems with equivariant correspondences
+as morphisms. We use this correspondence to induce KMS-states and we show that for beta>1 certain
+extremal KMS_beta-states for L can be obtained, via induction and rescaling, from KMS_{[L:K]beta}-states
+for K. On the other hand, for 0<beta\le1 every KMS_{[L:K]\beta}-state for K induces to an infinite
+weight. 

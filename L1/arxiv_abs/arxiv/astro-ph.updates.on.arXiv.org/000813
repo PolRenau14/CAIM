@@ -1,0 +1,16 @@
+We study the statistical properties of the Normalized Excess Variance of variability process characterized
+by a red-noise power spectral density (PSD), as the case of Active Galactic Nuclei (AGN). We perform
+Monte Carlo simulations of lightcurves, assuming both a continuous and a sparse sampling pattern
+and various signal-to-noise (S/N) ratios. We show that the normalized excess variance is a biased
+estimate of the variance even in the case of continuously sampled lightcurves. The bias depends
+on the PSD slope and on the sampling pattern, but not on the S/N ratio. We provide a simple formula to
+account for the bias, which yields unbiased estimates with an accuracy better than 15%. We show that
+the normalized excess variance estimates based on single lightcurves (especially for sparse sampling
+and S/N less than 3) are highly uncertain (even if corrected for bias) and we propose instead the use
+of an ensemble estimate, based on multiple lightcurves of the same object, or on the use of lightcurves
+of many objects. These estimates have symmetric distributions, known errors, and can also be corrected
+for biases.We use our results to estimate the ability to measure the intrinsic source variability
+in current data, and show that they could also be useful in the planning of the observing strategy
+of future surveys such as those provided by X-ray missions studying distant and/or faint AGN populations
+and, more in general, in the estimation of the variability amplitude of sources that will result
+from future surveys such as Pan-STARRS, and LSST. 

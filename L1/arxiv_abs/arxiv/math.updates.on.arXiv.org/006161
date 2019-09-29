@@ -1,0 +1,16 @@
+Cooperative relaying is utilized as an efficient method for data communication in wireless sensor
+networks and Internet of Things (IoT). However, sometimes due to the necessity of multi-hop relaying
+in such communication networks, it is challenging to guarantee the secrecy of cooperative transmissions
+when the relays may themselves be eavesdroppers, i.e., we may face with the untrusted relaying scenario
+where the relays are both necessary helpers and potential eavesdroppers. To obviate this issue,
+a new cooperative jamming scheme is proposed in this paper, in which the data can be confidentially
+communicated from the source to the destination through multi-hop untrusted relays. Toward this
+end, we first consider a two successive untrusted relaying network, i.e, a three-hop communication
+network. In our proposed secure transmission scheme, all the legitimate nodes contribute to provide
+secure communication by smartly injecting artificial noises to the network in different communication
+phases. Given this system model, a novel closed-form expression is presented in the high signal-to-noise
+ratio (SNR) regime for the ergodic secrecy rate (ESR). Furthermore, we evaluate the high SNR slope
+and power offset of the ESR to gain a basic comparison of the proposed secure transmission scheme
+and the state-of-arts. Our numerical results highlight that the proposed secure transmission
+scheme provides better secrecy rate compared with the two-hop untrusted relaying scheme as well
+as the direct transmission scheme. 

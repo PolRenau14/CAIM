@@ -1,0 +1,16 @@
+We present deep VLA observations of the polarization of radio sources in the GOODS-N field at 1.4
+GHz at resolutions of 1.6" and 10". At 1.6", we find that the peak flux cumulative number count distribution
+is N($>$p) $\sim$ 45 * (p/30$\mu$Jy)$^{-0.6}$ per square degree above a detection threshold
+of 14.5 $\mu$Jy. This represents a break from the steeper slopes at higher flux densities, resulting
+in fewer sources predicted for future surveys with the SKA and its precursors. It provides a significant
+challenge for using background RMs to study clusters of galaxies or individual galaxies. Most of
+the polarized sources are well above our detection limit, and are radio galaxies which are well-resolved
+even at 10", with redshifts from $\sim$0.2 - 1.9. We determined a total polarized flux for each source
+by integrating the 10" polarized intensity maps, as will be done by upcoming surveys such as POSSUM.
+These total polarized fluxes are a factor of 2 higher, on average, than the peak polarized flux at
+1.6"; this would increase the number counts by $\sim$50% at a fixed flux level. The detected sources
+have rotation measures (RMs) with a characteristic rms scatter of $\sim$11$\frac{rad}{m^2}$
+around the local Galactic value, after eliminating likely outliers. The median fractional polarization
+from all total intensity sources does not continue the trend of increasing at lower flux densities,
+as seen for stronger sources. The changes in the polarization characteristics seen at these low
+fluxes likely represent the increasing dominance of star-forming galaxies. 

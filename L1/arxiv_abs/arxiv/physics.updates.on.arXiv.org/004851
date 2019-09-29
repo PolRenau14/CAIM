@@ -1,0 +1,17 @@
+Hybrid organic-inorganic halide perovskite solar cells have emerged as leading candidates for
+third-generation photovoltaic technology. Despite the rapid improvement in power conversion
+efficiency (PCE) for perovskite solar cells in recent years, the low-frequency carrier kinetics
+that underlie practical roadblocks such as hysteresis and degradation remain relatively poorly
+understood. In an effort to bridge this knowledge gap, we perform here correlated low-frequency
+noise (LFN) and impedance spectroscopy (IS) characterization that elucidates carrier kinetics
+in operating perovskite solar cells. Specifically, we focus on planar cell geometries with a SnO2
+electron transport layer and two different hole transport layers, namely, poly(triarylamine)
+(PTAA) and Spiro-OMeTAD. PTAA and Sprio-OMeTAD cells with moderate PCEs of 5 to 12 percent possess
+a Lorentzian feature at 200 Hz in LFN measurements that corresponds to a crossover from electrode
+to dielectric polarization. In comparison, Spiro-OMeTAD cells with high PCEs (15 percent) show
+four orders of magnitude lower LFN amplitude and are accompanied by a cyclostationary process.
+Through a systematic study of more than a dozen solar cells, we establish a correlation with noise
+amplitude, power conversion efficiency, and fill factor. Overall, this work establishes correlated
+LFN and IS as an effective methodology for quantifying low frequency carrier kinetics in perovskite
+solar cells, thereby providing new physical insights that can rationally guide ongoing efforts
+to improve device performance, reproducibility, and stability. 

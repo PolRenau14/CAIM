@@ -1,0 +1,17 @@
+Defects such as dislocations impact materials properties and their response during external stimuli.
+Defect engineering has emerged as a possible route to improving the performance of materials over
+a wide range of applications, including batteries, solar cells, and semiconductors. Imaging these
+defects in their native operating conditions to establish the structure-function relationship
+and, ultimately, to improve performance has remained a considerable challenge for both electron-based
+and x-ray-based imaging techniques. However, the advent of Bragg coherent x-ray diffractive imaging
+(BCDI) has made possible the 3D imaging of multiple dislocations in nanoparticles ranging in size
+from 100 nm to1000 nm. While the imaging process succeeds in many cases, nuances in identifying the
+dislocations has left manual identification as the preferred method. Derivative-based methods
+are also used, but they can be inaccurate and are computationally inefficient. Here we demonstrate
+a derivative-free method that is both more accurate and more computationally efficient than either
+derivative- or human-based methods for identifying 3D dislocation lines in nanocrystal images
+produced by BCDI. We formulate the problem as a min-max optimization problem and show exceptional
+accuracy for experimental images. We demonstrate a 260x speedup for a typical experimental dataset
+with higher accuracy over current methods. We discuss the possibility of using this algorithm as
+part of a sparsity-based phase retrieval process. We also provide the MATLAB code for use by other
+researchers. 

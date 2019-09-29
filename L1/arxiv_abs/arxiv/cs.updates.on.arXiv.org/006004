@@ -1,0 +1,16 @@
+Several recently proposed architectures of neural networks such as ResNeXt, Inception, Xception,
+SqueezeNet and Wide ResNet are based on the designing idea of having multiple branches and have demonstrated
+improved performance in many applications. We show that one cause for such success is due to the fact
+that the multi-branch architecture is less non-convex in terms of duality gap. The duality gap measures
+the degree of intrinsic non-convexity of an optimization problem: smaller gap in relative value
+implies lower degree of intrinsic non-convexity. The challenge is to quantitatively measure the
+duality gap of highly non-convex problems such as deep neural networks. In this work, we provide
+strong guarantees of this quantity for two classes of network architectures. For the neural networks
+with arbitrary activation functions, multi-branch architecture and a variant of hinge loss, we
+show that the duality gap of both population and empirical risks shrinks to zero as the number of branches
+increases. This result sheds light on better understanding the power of over-parametrization
+where increasing the network width tends to make the loss surface less non-convex. For the neural
+networks with linear activation function and $\ell_2$ loss, we show that the duality gap of empirical
+risk is zero. Our two results work for arbitrary depths and adversarial data, while the analytical
+techniques might be of independent interest to non-convex optimization more broadly. Experiments
+on both synthetic and real-world datasets validate our results. 

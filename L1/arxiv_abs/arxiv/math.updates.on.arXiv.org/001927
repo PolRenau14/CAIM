@@ -1,0 +1,15 @@
+Meyer showed that the signature of a closed oriented surface bundle over a surface is a multiple of
+$4$, and can be computed using an element of $H^2(\mathsf{Sp}(2g, \mathbb{Z}),\mathbb{Z})$.
+Denoting by $1 \to \mathbb{Z} \to \widetilde{\mathsf{Sp}(2g,\mathbb{Z})} \to \mathsf{Sp}(2g,\mathbb{Z})
+\to 1$ the pullback of the universal cover of $\mathsf{ Sp}(2g,\mathbb{R})$, Deligne proved that
+every finite index subgroup of $\widetilde{\mathsf {Sp}(2g, \mathbb{Z})}$ contains $2\mathbb{Z}$.
+As a consequence, a class in the second cohomology of any finite quotient of $\mathsf{Sp}(2g, \mathbb{Z})$
+can at most enable us to compute the signature of a surface bundle modulo $8$. We show that this is in
+fact possible and investigate the smallest quotient of $\mathsf{Sp}(2g, \mathbb{Z})$ that contains
+this information. This quotient $\mathfrak{H}$ is a non-split extension of $\mathsf {Sp}(2g,2)$
+by an elementary abelian group of order $2^{2g+1}$. There is a central extension $1\to \mathbb{Z}/2\to\tilde{{\mathfrak{H}}}\to\mathfrak{H}\to
+1$, and $\tilde{\mathfrak{H}}$ appears as a quotient of the metaplectic double cover $\mathsf{Mp}(2g,\mathbb{Z})=\widetilde{\mathsf{Sp}(2g,\mathbb{Z})}/2\mathbb{Z}$.
+It is an extension of $\mathsf{Sp}(2g,2)$ by an almost extraspecial group of order $2^{2g+2}$,
+and has a faithful irreducible complex representation of dimension $2^g$. Provided $g\ge 4$, $\widetilde{\mathfrak{H}}$
+is the universal central extension of $\mathfrak{H}$. Putting all this together, we provide a recipe
+for computing the signature modulo $8$, and indicate some consequences. 

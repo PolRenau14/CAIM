@@ -1,0 +1,17 @@
+Executing various sequences of system functions in a system under test represents one of the primary
+techniques in software testing. The natural way to create effective, consistent and efficient
+test sequences is to model the system under test and employ an algorithm to generate the tests that
+satisfy a defined test coverage criterion. Several criteria of test set optimality can be defined.
+In addition, to optimize the test set from an economic viewpoint, the priorities of the various parts
+of the system model under test must be defined. Using this prioritization, the test cases exercise
+the high priority parts of the system under test more intensely than those with low priority. Evidence
+from the literature and our observations confirm that finding a universal algorithm that produces
+an optimal test set for all test coverage and test set optimality criteria is a challenging task.
+Moreover, for different individual problem instances, different algorithms provide optimal
+results. In this paper, we present a path-based strategy to perform optimal test selection. The
+strategy first employs a set of current algorithms to generate test sets; then, it assesses the optimality
+of each test set by the selected criteria, and finally, chooses the optimal test set. The experimental
+results confirm the validity and usefulness of this strategy. For individual instances of 50 system
+under test models, different algorithms provided optimal results; these results varied by the
+required test coverage level, the size of the priority parts of the model, and the selected test set
+optimality criteria. 

@@ -1,0 +1,16 @@
+A novel type of a continuously zoomable telescope is based on two pairs of adjacent toroidal lenses
+("saddle lenses") in combination with standard optical components. Its variable magnification
+is adjusted by a mere rotation of the four saddle lenses around the optical axis. This avoids the necessity
+of classical zoom systems to shift multiple lenses along the longitudinal axis of the setup. A rotationally
+tunable pair of saddle lens consists of two individual saddle lenses (also known as quadrupole lenses,
+or biconic lenses), which are arranged directly behind each other, acting as a "combi-saddle lens".
+The transmission function of such a combi-saddle lens corresponds to that of a single saddle lens,
+but with an adjustable optical power which depends on the mutual rotation angle between its two components.
+The optical system contains two of these combi-saddle lenses, and acts as a cylindrical Kepler telescope
+in one plane, and as a cylindrical Galilei telescope in the orthogonal plane. The two orthogonal
+Kepler/Galilei telescopes stay aligned and change their magnification factors in the same way
+when the telescope is zoomed by adjusting the optical powers of the two combi-saddle lenses. Altogether
+this produces a sharp image which is mirrored with respect to the axis of the Kepler telescope. Thus,
+in addition to the zooming capabilities of the telescope, it is also possible to rotate the resulting
+image by a rotation of the whole telescope, or of all included saddle lenses. We theoretically explain
+the operation principle of the telescope in both, a ray-optical and a wave-optical description.

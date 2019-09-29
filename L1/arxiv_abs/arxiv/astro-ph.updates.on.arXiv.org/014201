@@ -1,0 +1,17 @@
+The progenitors of Type IIP supernovae (SNe) are known to be red supergiants, but their properties
+are not well determined. We employ hydrodynamical modelling to investigate the explosion characteristics
+of eight Type IIP supernovae, and the properties of their progenitor stars. We create evolutionary
+models using the {\sc MESA} stellar evolution code, explode these models, and simulate the optical
+lightcurves using the {\sc STELLA} code. We fit the optical lightcurves, Fe II 5169\AA\ velocity,
+and photospheric velocity, to the observational data. Recent research has suggested that the progenitors
+of Type IIP SNe have a zero age main sequence (ZAMS) mass not exceeding $\sim18$ M$_{\odot}$. Our
+fits give a progenitor ZAMS mass $\leq18$ M$_{\odot}$ for seven of the supernovae. Where previous
+progenitor mass estimates exist, from various sources such as hydrodynamical modelling, multi-wavelength
+observations, or semi-analytic calculations, our modelling generally tends towards the lower
+mass values. This result is in contrast to results from previous hydrodynamical modelling, but
+is consistent with those obtained using general-relativistic radiation-hydrodynamical codes.
+We do find that one event, SN 2015ba, has a progenitor whose mass is closer to 24 M$_{\odot}$ , although
+we are unable to fit it well. We also derive the amount of $^{56}$Ni required to reproduce the tail
+of the lightcurve, and find values generally larger than previous estimates. Overall, we find that
+it is difficult to characterize the explosion by a single parameter, and that a range of parameters
+is needed. 

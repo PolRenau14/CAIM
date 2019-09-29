@@ -1,0 +1,17 @@
+We study a model for thin film electrodeposition in which instability development by preferential
+adsorption and reduction of cations at surface peaks competes with surface relaxation by diffusion
+of the adsorbates. The model considers cations moving in a supported electrolyte, adsorption and
+reduction when they reach the film surface, and consequent production of mobile particles that
+execute activated surface diffusion, which is represented by a sequence of random hops to neighboring
+lattice sites with a maximum of G hop attempts (G>>1), a detachment probability epsilon<1 per neighboring
+particle, and a no-desorption condition. Computer simulations show the formation of a compact
+wetting layer followed by the growth of branched deposits. The maximal thickness z_c of that layer
+increases with G, but is weakly affected by epsilon. A scaling approach describes the crossover
+from smooth film growth to unstable growth and predicts z_c ~ G^gamma, with gamma = 1/[2(1-nu)] =
+0.43, where nu=0.30 is the inverse of the dynamical exponent of the Villain-Lai-Das Sarma equation
+that describes the initial roughening. Using previous results for related deposition models,
+the thickness z_c can be predicted as a function of an activation energy for terrace surface diffusion
+and the temperature, and the small effects of the parameter epsilon are justified. These predictions
+are confirmed by the numerical results with good accuracy. We discuss possible applications, with
+a particular focus on the growth of multifuncional structures with stacking layers of different
+porosity. 

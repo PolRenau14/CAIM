@@ -1,0 +1,16 @@
+In this study, we investigate the evolution of Chinese guarantee networks from the angle of sub-patterns.
+First, we find that the mutual, 2-out-stars and triangle sub-patterns are motifs in 2- and 3-node
+subgraphs. Considering the heterogeneous financial characteristics of nodes, we find that small
+firms tend to form a mutual guarantee relationship and large firms are likely to be the guarantors
+in 2-out-stars sub-patterns. Furthermore, we conduct a dynamic study on 15 sub-patterns, which
+consist of 2- and 3-node sub-patterns, and find that the subgraphs are highly influenced by the 2008
+financial crisis and Chinese stimulus program. More concretely, during the financial crisis,
+the mutual guarantee relationship decreases, due to the bankruptcy of small firms. Additionally,
+local interconnection (mutual and triangle sub-patterns) is established with the significant
+increase in the initiation of the stimulus program. Another important study we conduct is the discovery
+of functionally important sub-patterns. On the one hand, mutual and some triangle sub-patterns
+(containing mutual guarantee) are risky patterns with high default probability. However, cyclic
+triads and fully connected 3-node sub-patterns are most stable in the default process due to the
+peer monitoring between firms. On the other hand, sub-patterns of edge and 2-out-stars are with
+lowest contagion capability. Our functional sub-patterns could shed light on the optimal structure
+design of guarantee networks to reduce the default and contagion probability. 

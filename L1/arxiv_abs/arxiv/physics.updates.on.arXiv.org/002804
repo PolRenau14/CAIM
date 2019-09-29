@@ -1,0 +1,17 @@
+In the constrained minimization method of Gidopoulos and Lathiotakis (J. Chem. Phys. 136, 224109),
+the Hartree exchange and correlation Kohn-Sham potential of a finite $N$-electron system is replaced
+by the electrostatic potential of an effective charge density that is everywhere positive and integrates
+to a charge of $N-1$ electrons. The optimal effective charge density (electron repulsion density,
+$\rho_{\rm rep}$) and the corresponding optimal effective potential (electron repulsion potential
+$v_{\rm rep}$) are obtained by minimizing the electronic total energy in any density functional
+approximation. The two constraints are sufficient to remove the self-interaction errors from
+$v_{\rm rep}$, correcting its asymptotic behavior at large distances from the system. In the present
+work, we describe, in complete detail, the constrained minimization method, including recent
+refinements. We also assess its performance in removing the self-interaction errors for three
+popular density functional approximations, namely LDA, PBE, and B3LYP, by comparing the obtained
+ionization energies to their experimental values for an extended set of molecules. We show that
+the results of the constrained minimizations are almost independent of the specific approximation
+with average percentage errors 15%, 14%, 13% for the above DFAs respectively. These errors are substantially
+smaller than the corresponding errors of the plain (unconstrained) Kohn-Sham calculations at
+38%, 39%, and 27% respectively. Finally, we showed that this method correctly predicts negative
+values for the HOMO energies of several anions. 

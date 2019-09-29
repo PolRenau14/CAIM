@@ -1,0 +1,16 @@
+The paper investigates the coexistence and interplay of spin and mass superfluidity in the antiferromagnetic
+spin-1 BEC. The hydrodynamical theory describes the spin degree of freedom by the equations similar
+to the Landau--Lifshitz--Gilbert theory for bipartite antiferromagnetic insulator. The variables
+in the spin space are two subspins with absolute value $\hbar/2$, which play the role of two sublattice
+spins in the antiferromagnetic insulators. As well as in bipartite antiferromagnetic insulators,
+in the antiferromagnetic spin-1 BEC there are two spin-wave modes, one is a gapless Goldstone mode,
+another is gapped. The Landau criterion shows that in limit of small total spin (two subspins are
+nearly antiparallel) instability of supercurrents starts from the gapped mode. In the opposite
+limit of large total spin (two subspins are nearly parallel) the gapless modes become unstable earlier
+than the gapped one. Mass and spin supercurrents decay via phase slips, when vortices cross streamlines
+of supercurrent. The vortices participating in phase slips are nonsingular bicirculation vortices.
+They are characterized by two topological charges, which are winding numbers describing circulations
+of two angles around the vortex axis. The winding numbers can be half-integer. A particular example
+of a half-integer vortex is a half-quantum vortex with the superfluid velocity circulation $h/2m$.
+But the superfluid velocity circulation is not a topological charge, and in general the quantum
+of this circulation can be continuously tuned from 0 to $h/2m$. 

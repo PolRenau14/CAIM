@@ -1,0 +1,16 @@
+Principal Components Analysis (PCA) is one of the most widely used dimension reduction techniques.
+Robust PCA (RPCA) refers to the problem of PCA when the data may be corrupted by outliers. Recent work
+by Cand{\`e}s, Wright, Li, and Ma defined RPCA as a problem of decomposing a given data matrix into
+the sum of a low-rank matrix (true data) and a sparse matrix (outliers). The column space of the low-rank
+matrix then gives the PCA solution. This simple definition has lead to a large amount of interesting
+new work on provably correct, fast, and practical solutions to RPCA. More recently, the dynamic
+(time-varying) version of the RPCA problem has been studied and a series of provably correct, fast,
+and memory efficient tracking solutions have been proposed. Dynamic RPCA (or robust subspace tracking)
+is the problem of tracking data lying in a (slowly) changing subspace while being robust to sparse
+outliers. This article provides an exhaustive review of the last decade of literature on RPCA and
+its dynamic counterpart (robust subspace tracking), along with describing their theoretical
+guarantees, discussing the pros and cons of various approaches, and providing empirical comparisons
+of performance and speed. A brief overview of the (low-rank) matrix completion literature is also
+provided (the focus is on works not discussed in other recent reviews). This refers to the problem
+of completing a low-rank matrix when only a subset of its entries are observed. It can be interpreted
+as a simpler special case of RPCA in which the indices of the outlier corrupted entries are known.

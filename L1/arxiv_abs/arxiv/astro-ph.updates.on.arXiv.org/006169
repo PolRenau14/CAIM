@@ -1,0 +1,16 @@
+We describe the first public data release of the Dark Energy Survey, DES DR1, consisting of reduced
+single epoch images, coadded images, coadded source catalogs, and associated products and services
+assembled over the first three years of DES science operations. DES DR1 is based on optical/near-infrared
+imaging from 345 distinct nights (August 2013 to February 2016) by the Dark Energy Camera mounted
+on the 4-m Blanco telescope at Cerro Tololo Inter-American Observatory in Chile. We release data
+from the DES wide-area survey covering ~5,000 sq. deg. of the southern Galactic cap in five broad
+photometric bands, grizY. DES DR1 has a median delivered point-spread function of g = 1.12, r = 0.96,
+i = 0.88, z = 0.84, and Y = 0.90 arcsec FWHM, a photometric precision of < 1% in all bands, and an astrometric
+precision of 151 mas. The median coadded catalog depth for a 1.95" diameter aperture at S/N = 10 is
+g = 24.33, r = 24.08, i = 23.44, z = 22.69, and Y = 21.44 mag. DES DR1 includes nearly 400M distinct astronomical
+objects detected in ~10,000 coadd tiles of size 0.534 sq. deg. produced from ~39,000 individual
+exposures. Benchmark galaxy and stellar samples contain ~310M and ~ 80M objects, respectively,
+following a basic object quality selection. These data are accessible through a range of interfaces,
+including query web clients, image cutout servers, jupyter notebooks, and an interactive coadd
+image visualization tool. DES DR1 constitutes the largest photometric data set to date at the achieved
+depth and photometric precision. 

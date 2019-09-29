@@ -1,0 +1,17 @@
+Complex systems, such as airplanes, cars, or financial markets, produce multivariate time series
+data consisting of system observations over a period of time. Such data can be interpreted as a sequence
+of segments, where each segment is associated with a certain state of the system. An important problem
+in this domain is to identify repeated sequences of states, known as motifs. Such motifs correspond
+to complex behaviors that capture common sequences of state transitions. For example, a motif of
+"making a turn" might manifest in sensor data as a sequence of states: slowing down, turning the wheel,
+and then speeding back up. However, discovering these motifs is challenging, because the individual
+states are unknown and need to be learned from the noisy time series. Simultaneously, the time series
+also needs to be precisely segmented and each segment needs to be associated with a state. Here we
+develop context-aware segmentation and clustering (CASC), a method for discovering common motifs
+in time series data. We formulate the problem of motif discovery as a large optimization problem,
+which we then solve using a greedy alternating minimization-based approach. CASC performs well
+in the presence of noise in the input data and is scalable to very large datasets. Furthermore, CASC
+leverages common motifs to more robustly segment the time series and assign segments to states.
+Experiments on synthetic data show that CASC outperforms state-of-the-art baselines by up to 38.2%,
+and two case studies demonstrate how our approach discovers insightful motifs in real-world time
+series data. 

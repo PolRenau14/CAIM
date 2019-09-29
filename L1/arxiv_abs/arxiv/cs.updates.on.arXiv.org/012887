@@ -1,0 +1,17 @@
+Gaussian Process Factor Analysis (GPFA) has been broadly applied to the problem of identifying
+smooth, low-dimensional temporal structure underlying large-scale neural recordings. However,
+spike trains are non-Gaussian, which motivates combining GPFA with discrete observation models
+for binned spike count data. The drawback to this approach is that GPFA priors are not conjugate to
+count model likelihoods, which makes inference challenging. Here we address this obstacle by introducing
+a fast, approximate inference method for non-conjugate GPFA models. Our approach uses orthogonal
+second-order polynomials to approximate the nonlinear terms in the non-conjugate log-likelihood,
+resulting in a method we refer to as polynomial approximate log-likelihood (PAL) estimators. This
+approximation allows for accurate closed-form evaluation of marginal likelihood and fast numerical
+optimization for parameters and hyperparameters. We derive PAL estimators for GPFA models with
+binomial, Poisson, and negative binomial observations, and additionally show that the parameters
+obtained can be used to initialize black-box variational inference, which significantly speeds
+up and stabilizes the inference procedure for these factor analytic models. We apply these methods
+to data from mouse visual cortex and monkey higher-order visual and parietal cortices, and compare
+GPFA under three different spike count observation models to traditional GPFA. We demonstrate
+that PAL estimators achieve fast and accurate extraction of latent structure from multi-neuron
+spike train data. 

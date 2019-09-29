@@ -1,0 +1,16 @@
+We investigate universal properties of one-dimensional multi-component systems comprised of
+fermions, bosons, or an arbitrary mixture, with contact interactions and subjected to an external
+potential. The masses and the coupling strengths between different types of particles are allowed
+to be different and we also take into account the presence of an arbitrary magnetic field. We show
+that the momentum distribution of these systems exhibits a universal $n_\sigma(k) \sim C_\sigma/k^4$
+decay with $C_\sigma$ the contact of species $\sigma$ which can be computed from the derivatives
+of an appropriate thermodynamic potential with respect to the scattering lengths. In the case of
+integrable fermionic systems we argue that at fixed density and repulsive interactions the total
+contact reaches its maximum in the balanced system and monotonically decreases to zero as we increase
+the magnetic field. The converse effect is present in integrable bosonic systems: the contact is
+largest in the fully polarized state and reaches its minimum when all states are equally populated.
+We obtain short distance expansions for the Green's function and pair distribution function and
+show that the coefficients of these expansions can be expressed in terms of the density, kinetic
+energy and contact. In addition we derive universal thermodynamic identities relating the total
+energy of the system, pressure, trapping energy and contact. Our results are valid at zero and finite
+temperature, for homogeneous or trapped systems and for few-body or many-body states. 

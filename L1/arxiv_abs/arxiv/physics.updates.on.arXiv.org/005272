@@ -1,0 +1,16 @@
+We theoretically investigate the dynamics and stability of a temporal cavity soliton (CS) excited
+inside a silicon-based microresonator that exhibits free-carrier generation as a results of two-photon
+absorption (TPA). The optical propagation of the CS is modelled through a mean field Lugiato-Lefever
+equation (LLE) coupled with an ordinary differential equation accounting for the generation of
+free carriers owing to TPA. The CS experiences several perturbations (like intrapulse Raman scattering
+(IRS), TPA, free-carrier absorption (FCA), free-carrier dispersion (FCD) etc.) during its round-trip
+evolution inside the cavity. We develop a full variational analysis based on Ritz optimization
+principle which is useful in deriving simple analytical expressions describing the dynamics of
+individual pulse parameters of the CS under perturbation. TPA and FCA limit the efficient comb generation
+and modify the stability condition of the CS. We determine the critical condition of stability modification
+due to TPA and derive closed form expressions of the saturated amplitude and width of stable CS. The
+CS experiences FCD which leads to a temporal acceleration resulting in spectral blue-shift. Exploiting
+the variational analysis we estimate these temporal and spectral shifts. We also include IRS in
+our perturbation theory and analytically estimate the frequency red-shifting. Finally we study
+the effect of pump-phase-modulation on stable CS. All our analytical results are found to be in good
+agreement with the numerical data obtained from the full solution of LLE. 

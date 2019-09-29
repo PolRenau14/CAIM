@@ -1,0 +1,16 @@
+We address the problem of reconstructing the phase-space distribution function for an extended
+collisionless system, with known density profile and in equilibrium within an axisymmetric gravitational
+potential. Assuming that it depends on only two integrals of motion, namely the energy and the component
+of the angular momentum along the axis of symmetry $L_z$, there is a one-to-one correspondence between
+the density profile and the component of the distribution function that is even in $L_z$, as well
+as between the weighted azimuthal velocity profile and the odd component. This inversion procedure
+was originally proposed by Lynden-Bell and later refined in its numerical implementation by Hunter
+\& Qian; after overcoming a technical difficulty, we apply it here for the first time in presence
+of a strongly flattened component, as a novel approach of extracting the phase-space distribution
+function for dark matter particles in the halo of spiral galaxies. We compare results obtained for
+realistic axisymmetric models to those in the spherical symmetric limit as assumed in previous
+analyses, showing the rather severe shortcomings in the latter. We then apply the scheme to the Milky
+Way and discuss the implications for the direct dark matter searches. In particular, we reinterpret
+the null results of the Xenon1T experiment for spin-(in)dependent interactions and make predictions
+for the annual modulation of the signal for a set of axisymmetric models, including a self-consistently
+defined co-rotating halo. 

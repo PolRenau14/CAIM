@@ -1,0 +1,16 @@
+One of the most important problems in the context of cataclysmic variables (CVs) is the lack of observations
+of systems with periods between 2 and 3.12 hours, known as the period gap. The orbital evolution of
+CVs with periods shorter than those in the gap is dominated by gravitational radiation while for
+periods exceeding those of the gap it is dominated by magnetic braking of the secondary star. Spruit
+& Ritter (1983) showed that as periods approach 3 hours and secondary stars become fully convective
+a sharp decline in magnetic dynamo and braking efficiency would result in such a gap. Recent X-ray
+observations finding coronal magnetic energy dissipation is similar in fully convective and partly
+radiative M dwarfs cast this theory into doubt. In this work, we use Zeeman-Doppler imaging observations
+culled from the literature to show that the complexity of the surface magnetic fields of rapidly
+rotating M dwarfs increases with decreasing rotation period. Garraffo et al. (2018) have shown
+that the efficiency of angular momentum loss of cool stars declines strongly with increasing complexity
+of their surface magnetic field. We explore the idea of Taam & Spruit (1989) that magnetic complexity
+might then explain the period gap. By generating synthetic CV populations using a schematic CV evolutionary
+approach, we show that the CV period gap can naturally arise as a consequence of a rise in secondary
+star magnetic complexity near the long period edge of the gap that renders a sharp decline in their
+angular momentum loss rate. 

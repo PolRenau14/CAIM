@@ -1,0 +1,17 @@
+We present detailed analytical modelling and in-depth investigation of wide-angle reflect-mode
+metagrating beam splitters. These recently introduced ultrathin devices are capable of implementing
+intricate diffraction engineering functionalities with only a single meta-atom per macro-period,
+making them considerably simpler to synthesize than conventional metasurfaces. We extend upon
+recent work and focus on electrically-polarizable metagratings, comprised of loaded conducting
+wires in front of a perfect elecric conductor, excited by transverse-electric polarized fields,
+which are more practical for planar fabrication. The derivation further relates the metagrating
+performance parameters to the individual meta-atom load, facilitating an efficient semianalytical
+synthesis scheme to determine the required conductor geometry for achieving optimal beam splitting.
+Subsequently, we utilize the model to analyze the effects of realistic conductor losses, reactance
+deviations, and frequency shifts on the device performance, and reveal that metagratings feature
+preferable working points, in which the sensitivity to these non-idealities is rather low. The
+analytical relations shed light on the physical origin of this phenomenon, associating it with
+fundamental interference processes taking place in the device. These results, verified via full-wave
+simulations of realistic physical structures, yield a set of efficient engineering tools, as well
+as profound physical intuition, for devising future metagrating devices, with immense potential
+for microwave, terahertz, and optical beam-manipulation applications. 

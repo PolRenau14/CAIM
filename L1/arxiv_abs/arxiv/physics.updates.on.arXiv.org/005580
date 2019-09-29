@@ -1,0 +1,16 @@
+This study examines the impact of turbulent mixing on horizontal density compensation in the upper
+ocean. A series of simulations model the role of mixing in scenarios initialized with geostrophically-adjusted
+compensated and uncompensated thermohaline gradients. Numerical experiments isolate the influence
+of mixing on these gradients using idealized conditions with zero surface heat and momentum flux.
+Prompted by theoretical considerations and observed consequences of mixing, a new non-linear
+horizontal diffusion scheme is introduced as an alternative to the standard Laplacian diffusion.
+Results suggest that when horizontal mixing is parameterized using constant diffusivities, horizontal
+density compensation is substantially unchanged as the gradients erode. Simulations using the
+new scheme, which parameterizes mixing with horizontal diffusivities scaled by squared buoyancy
+gradient, suggest that horizontal mixing can produce compensated gradients during this decay,
+but only at scales of 10 km and less. Reducing vertical mixing to small background values has a similar
+effect, increasing the degree of compensation at submesoscales. Reproducing observed compensated
+thermohaline variability in the mixed layer at scales greater than 10 km requires external forcing.
+These results show important influences of mixing on density compensation within the ageostrophic
+submesoscale regime. In the transition from a horizontally compensated mixed layer to a partially
+compensated thermocline, advection must play an important role; mixing alone is insufficient.

@@ -1,0 +1,16 @@
+We present the results of an optical spectroscopic survey of 46 heavily obscured quasar candidates.
+Objects are selected using their mid-infrared (mid-IR) colours and magnitudes from the Wide-Field
+Infrared Survey Explorer (WISE) and their optical magnitudes from the Sloan Digital Sky Survey
+(SDSS). Candidate Active Galactic Nuclei (AGNs) are selected to have mid-IR colours indicative
+of quasar activity and lie in a region of mid-IR colour space outside previously published X-ray
+based selection regions. We obtain optical spectra for our sample using the Robert Stobie Spectrograph
+on the Southern African Large Telescope. Thirty objects (65%) have identifiable emission lines,
+allowing for the determination of spectroscopic redshifts. Other than one object at $z\sim2.6$,
+candidates have moderate redshifts ranging from $z=0.1$ to $0.8$ with a median of 0.3. Twenty-one
+(70%) of our objects with identified redshift (46% of the whole sample) are identified as AGNs through
+common optical diagnostics. We model the spectral energy distributions of our sample and found
+that all require a strong AGN component, with an average intrinsic AGN fraction at 8$\,\mu$m of 0.91.
+Additionally, the fits require large extinction coefficients with an average $E(B-V)_\textrm{AGN}
+= 17.8$ (average $A(V)_\textrm{AGN} = 53.4$). By focusing on the area outside traditional mid-IR
+photometric cuts, we are able to capture and characterise a population of deeply buried quasars
+that were previously unattainable through X-ray surveys alone. 

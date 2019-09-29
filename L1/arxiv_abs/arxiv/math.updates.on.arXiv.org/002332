@@ -1,0 +1,16 @@
+Deploying massive number of antennas at the base station side can boost the cellular system performance
+dramatically. Meanwhile, it however involves significant additional radio-frequency (RF) front-end
+complexity, hardware cost and power consumption. To address this issue, the beamspace-multiple-input-multiple-output
+(beamspace-MIMO) based approach is considered as a promising solution. In this paper, we first
+show that the traditional beamspace-MIMO suffers from spatial power leakage and imperfect channel
+statistics estimation. A beam combination module is hence proposed, which consists of a small number
+(compared with the number of antenna elements) of low-resolution (possibly one-bit) digital (discrete)
+phase shifters after the beamspace transformation to further compress the beamspace signal dimensionality,
+such that the number of RF chains can be reduced beyond beamspace transformation and beam selection.
+The optimum discrete beam combination weights for the uplink are obtained based on the branch-and-bound
+(BB) approach. The key to the BB-based solution is to solve the embodied sub-problem, whose solution
+is derived in a closed-form. Based on the solution, a sequential greedy beam combination scheme
+with linear-complexity (w.r.t. the number of beams in the beamspace) is proposed. Link-level simulation
+results based on realistic channel models and long-term-evolution (LTE) parameters are presented
+which show that the proposed schemes can reduce the number of RF chains by up to $25\%$ with a one-bit
+digital phase-shifter-network. 

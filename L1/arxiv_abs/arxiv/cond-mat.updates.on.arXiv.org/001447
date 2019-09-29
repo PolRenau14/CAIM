@@ -1,0 +1,16 @@
+Using particle-scale models to accurately describe property enhancements and phase transitions
+in macroscopic behavior is a major engineering challenge in composite materials science. To address
+some of these challenges, we use the graph theoretic property of rigidity to model me- chanical reinforcement
+in composites with stiff rod-like particles. We develop an efficient algorithmic approach called
+rigid graph compression (RGC) to describe the transition from floppy to rigid in disordered fiber
+networks ('rod-hinge systems'), which form the reinforcing phase in many composite systems. To
+establish RGC on a firm theoretical foundation, we adapt rigidity matroid theory to identify primitive
+topological network motifs that serve as rules for composing interacting rigid par- ticles into
+larger rigid components. This approach is computationally efficient and stable, because RGC requires
+only topological information about rod interactions (encoded by a sparse unweighted network)
+rather than geometrical details such as rod locations or pairwise distances (as required in rigidity
+matroid theory). We conduct numerical experiments on simulated two-dimensional rod-hinge systems
+to demonstrate that RGC closely approximates the rigidity percolation threshold for such systems,
+through comparison with the pebble game algorithm (which is exact in two dimensions). Importantly,
+whereas the pebble game is derived from Laman's condition and is only valid in two dimensions, the
+RGC approach naturally extends to higher dimensions. 

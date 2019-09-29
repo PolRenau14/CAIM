@@ -1,0 +1,17 @@
+We equip the space of convex rational cones with a connected coalgebra structure, which we further
+generalize to decorated cones by means of a differentiation procedure. Using the convolution product
+$\ast$ associated with the coproduct on cones we define an interpolator $\mu:= I^{\ast(-1)}\ast
+S$ as the $\ast$ quotient of an exponential discrete sum $S$ and an exponential integral $I$ on cones.
+A generalization of the algebraic Birkhoff decomposition to linear maps from a connected coalgebra
+to a space with a linear decomposition then enables us to carry out a Birkhoff-Hopf factorization
+$S:= S_-^{\ast (-1)}\ast S_+ $ on the map $S$ whose "holomorphic part" corresponds to $S_+$. By the
+uniqueness of the Birkhoff-Hopf factorization we obtain $\mu=S_+$ and $I=S_-^{\ast (-1)}$ so
+that this renormalization procedure \`a la Connes and Kreimer yields a new interpretation of the
+local Euler-Maclaurin formula on cones of Berline and Vergne. The Taylor coefficients at zero of
+the interpolating holomorphic function $\mu=S_+$ correspond to renormalized conical zeta values
+at non-positive integers. When restricted to Chen cones, this yields yet another way to renormalize
+multiple zeta values at non-positive integers previously investigated by the authors using other
+approaches. In the present approach renormalized conical multiple zeta values lie at the cross
+road of three a priori distinct fields, the geometry on cones with the Euler Maclaurin formula, number
+theory with multiple zeta values and renormalization theory with methods borrowed from quantum
+field theory. 

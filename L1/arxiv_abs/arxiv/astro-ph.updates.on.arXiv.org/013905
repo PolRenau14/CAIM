@@ -1,0 +1,17 @@
+We consider models of scalar dark matter with a generic interaction potential and non-canonical
+kinetic terms of the K-essence type that are subleading with respect to the canonical term. We analyse
+the low-energy regime and derive, in the nonrelativistic limit, the effective equations of motions.
+In the fluid approximation they reduce to the conservation of matter and to the Euler equation for
+the velocity field. We focus on the case where the scalar field mass $10^{-21} \ll m \lesssim 10^{-4}
+\, {\rm eV}$ is much larger than for fuzzy dark matter, so that the quantum pressure is negligible
+on cosmological and galactic scales, while the self-interaction potential and non-canonical
+kinetic terms generate a significant repulsive pressure. At the level of cosmological perturbations,
+this provides a dark-matter density-dependent speed of sound. At the non-linear level, the hydrostatic
+equilibrium obtained by balancing the gravitational and scalar interactions imply that virialized
+structures have a solitonic core of finite size depending on the speed of sound of the dark matter
+fluid. For the most relevant potential in $\lambda_4 \phi^4/4$ or K-essence with a $(\partial \phi)^4$
+interaction, the size of such stable cores cannot exceed 60 kpc. Structures with a density contrast
+larger than $10^6$ can be accommodated with a speed of sound $c_s\lesssim 10^{-6}$. We also consider
+the case of a cosine self-interaction, as an example of bounded non-polynomial self-interaction.
+This gives similar results in low-mass and low-density halos whereas solitonic cores are shown
+to be absent in massive halos. 

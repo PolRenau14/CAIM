@@ -1,0 +1,16 @@
+Many Web platforms rely on user collaboration to generate high-quality content: Wiki, Q&A communities,
+etc. Understanding and modeling the different collaborative behaviors is therefore critical.
+However, collaboration patterns are difficult to capture when the relationships between users
+are not directly observable, since they need to be inferred from the user actions. In this work, we
+propose a solution to this problem by adopting a systemic view of collaboration. Rather than modeling
+the users as independent actors in the system, we capture their coordinated actions with embedding
+methods which can, in turn, identify shared objectives and predict future user actions. To validate
+our approach, we perform a study on a dataset comprising more than 16M user actions, recorded on the
+online collaborative sandbox Reddit r/place. Participants had access to a drawing canvas where
+they could change the color of one pixel at every fixed time interval. Users were not grouped in teams
+nor were given any specific goals, yet they organized themselves into a cohesive social fabric and
+collaborated to the creation of a multitude of artworks. Our contribution in this paper is multi-fold:
+i) we perform an in-depth analysis of the Reddit r/place collaborative sandbox, extracting insights
+about its evolution over time; ii) we propose a predictive method that captures the latent structure
+of the emergent collaborative efforts; and iii) we show that our method provides an interpretable
+representation of the social structure. 

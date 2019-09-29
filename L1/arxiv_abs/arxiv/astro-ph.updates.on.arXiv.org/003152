@@ -1,0 +1,16 @@
+In a previous paper we compared the SEDs of a sample of 808 K+A galaxies from the FUV to the MIR to the
+predictions of the spectrum synthesis models explicitly using AGB components. Here we use the new
+AGB-light models from C. Maraston (including less fuel for the later stages of stellar evolution
+and improved calibrations) to address the discrepancies between our observations and the AGB-heavy
+models used in our previous paper, which over-predict the infrared fluxes of post-starburst galaxies
+by an order of magnitude. The new models yield a much better fit to the data, especially in the near-IR,
+compared to previous realizations where AGB stars caused a large excess in the H and K bands. We { also
+compare the predictions of the M2013 models to those with BC03 and find that both reproduce the observations
+equally well. } We still find a significant discrepancy with { both sets of models} in the Y and J bands,
+which however is probably due to the spectral features of AGB stars. We also find that { both the M2013
+and the BC03 models} still over-predict the observed fluxes in the UV bands, even invoking extinction
+laws that are stronger in these bands. While there may be some simple explanations for this discrepancy,
+we find that further progress requires new observations and better modelling. Excess mid-infrared
+emission longward of 5$\mu$m is well modelled by a $T_{dust}=300^oK$ Black-Body, which may arise
+from dust emission from the circumstellar envelopes of Oxygen rich M stars (expected for a metal-rich
+population of AGB stars). 

@@ -1,0 +1,16 @@
+The information reconstruction problem on an infinite tree, is to collect and analyze massive data
+samples at the $n$th level of the tree to identify whether there is non-vanishing information of
+the root, as $n$ goes to infinity. This problem has wide applications in various fields such as biology,
+information theory and statistical physics, and its close connections to cluster learning, data
+mining and deep learning have been well established in recent years. Although it has been studied
+in numerous contexts, the existing literatures with rigorous reconstruction thresholds established
+are very limited. In this paper, motivated by a classical deoxyribonucleic acid (DNA) evolution
+model, the F$81$ model, and taking into consideration of the Chargaff's parity rule by allowing
+the existence of a guanine-cytosine content bias, we study the noise channel in terms of a $4\times
+4$-state asymmetric probability transition matrix with community effects, for four nucleobases
+of DNA. The corresponding information reconstruction problem in molecular phylogenetics is explored,
+by means of refined analyses of moment recursion, in-depth concentration estimates, and thorough
+investigations on an asymptotic $4$-dimensional nonlinear second order dynamical system. We
+rigorously show that the reconstruction bound is not tight when the sum of the base frequencies of
+adenine and thymine falls in the interval $\left(0,1/2-\sqrt{3}/6\right)\bigcup \left(1/2+\sqrt{3}/6,1\right)$,
+which is the first rigorous result on asymmetric noisy channels with community effects. 

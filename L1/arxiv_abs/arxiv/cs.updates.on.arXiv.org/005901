@@ -1,0 +1,16 @@
+Recent years have witnessed a rise in the frequency and intensity of cyberattacks targeted at critical
+infrastructure systems. This study designs a versatile, data-driven cyberattack detection platform
+for infrastructure systems cybersecurity, with a special demonstration in water sector. A deep
+generative model with variational inference autonomously learns normal system behavior and detects
+attacks as they occur. The model can process the natural data in its raw form and automatically discover
+and learn its representations, hence augmenting system knowledge discovery and reducing the need
+for laborious human engineering and domain expertise. The proposed model is applied to a simulated
+cyberattack detection problem involving a drinking water distribution system subject to programmable
+logic controller hacks, malicious actuator activation, and deception attacks. The model is only
+provided with observations of the system, such as pump pressure and tank water level reads, and is
+blind to the internal structures and workings of the water distribution system. The simulated attacks
+are manifested in the model's generated reproduction probability plot, indicating its ability
+to discern the attacks. There is, however, need for improvements in reducing false alarms, especially
+by optimizing detection thresholds. Altogether, the results indicate ability of the model in distinguishing
+attacks and their repercussions from normal system operation in water distribution systems, and
+the promise it holds for cyberattack detection in other domains. 

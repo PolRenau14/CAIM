@@ -1,0 +1,16 @@
+Multi- or many-objective evolutionary algorithm- s(MOEAs), especially the decomposition-based
+MOEAs have been widely concerned in recent years. The decomposition-based MOEAs emphasize convergence
+and diversity in a simple model and have made a great success in dealing with theoretical and practical
+multi- or many-objective optimization problems. In this paper, we focus on update strategies of
+the decomposition- based MOEAs, and their criteria for comparing solutions. Three disadvantages
+of the decomposition-based MOEAs with local update strategies and several existing criteria for
+comparing solutions are analyzed and discussed. And a global loop update strategy and two hybrid
+criteria are suggested. Subsequently, an evolutionary algorithm with the global loop update is
+implement- ed and compared to several of the best multi- or many-objective optimization algorithms
+on two famous unconstraint test suites with up to 15 objectives. Experimental results demonstrate
+that unlike evolutionary algorithms with local update strategies, the population of our algorithm
+does not degenerate at any generation of its evolution, which guarantees the diversity of the resulting
+population. In addition, our algorithm wins in most instances of the two test suites, indicating
+that it is very compet- itive in terms of convergence and diversity. Running results of our algorithm
+with different criteria for comparing solutions are also compared. Their differences are very
+significant, indicating that the performance of our algorithm is affected by the criterion it adopts.

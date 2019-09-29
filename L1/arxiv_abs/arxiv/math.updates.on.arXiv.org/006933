@@ -1,0 +1,17 @@
+We consider complete Riemannian manifolds with a controlled growth of the covariant derivatives
+of Ricci curvatures up to order $k-2$ and a controlled decay of the injectivity radii. On such manifolds
+we construct distance-like functions with a control on covariant derivatives up to order $k$. Alternatively,
+the assumption on the injectivity radii can be replaced with the request of a controlled growth of
+the full curvature tensor at order $0$. The control in the assumptions occur via non-necessarily
+polynomial growth functions. This construction largely extend previously known results in various
+directions, permitting to obtain consequences which are (in a sense) sharp. A first main application
+is to the study of the density property for Sobolev spaces on Riemannian manifolds, namely the problem
+of guaranteeing the density of smooth compactly supported function in the Sobolev space $W^{k,p}$.
+Contrary to all previously known results this can be obtained also on manifolds with possibly unbounded
+geometry. In the particular case $p=2$, making use of the Weitzenb\"ock formula for a Lichnerowicz
+Laplacian acting on the space of smooth section of the bundle of $k$-covariant symmetric tensors,
+we can weaken the assumptions needed to obtain the density property. Namely we prove that the control
+on the highest order derivative of curvature is not needed in this situation. Beyond the density
+property we finally highlight some new applications of our results to disturbed Sobolev inequalities,
+disturbed $L^{p}$-Calder\'on-Zygmund inequalities and the full Omori-Yau maximum principle
+for the Hessian. 

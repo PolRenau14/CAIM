@@ -1,0 +1,17 @@
+Existing decentralized coded caching solutions cannot guarantee small loads in the general scenario
+with arbitrary file sizes and cache sizes. In this paper, we propose an optimization framework for
+decentralized coded caching in the general scenario to minimize the worst-case load and average
+load (under an arbitrary file popularity), respectively. Specifically, we first propose a class
+of decentralized coded caching schemes for the general scenario, which are specified by a general
+caching parameter and include several known schemes as special cases. Then, we optimize the caching
+parameter to minimize the worst-case load and average load, respectively. Each of the two optimization
+problems is a challenging nonconvex problem with a nondifferentiable objective function. For
+each optimization problem, we develop an iterative algorithm to obtain a stationary point using
+techniques for solving Complementary Geometric Programming (GP). We also obtain a low-complexity
+approximate solution by solving an approximate problem with a differentiable objective function
+which is an upper bound on the original nondifferentiable one, and characterize the performance
+loss caused by the approximation. Finally, we present two information-theoretic converse bounds
+on the worst-case load and average load (under an arbitrary file popularity) in the general scenario,
+respectively. To the best of our knowledge, this is the first work that provides optimization-based
+decentralized coded caching schemes and information-theoretic converse bounds for the general
+scenario. 

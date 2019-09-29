@@ -1,0 +1,17 @@
+We present the detection and follow-up observations of planetary candidates around low-mass stars
+observed by the K2 mission. Based on light-curve analysis, adaptive-optics imaging, and optical
+spectroscopy at low and high resolution (including radial velocity measurements), we validate
+16 planets around 12 low-mass stars observed during K2 campaigns 5-10. Among the 16 planets, 12 are
+newly validated, with orbital periods ranging from 0.96-33 days. For one of the planets (K2-151b)
+we present ground-based transit photometry, allowing us to refine the ephemerides. Combining
+our K2 M-dwarf planets together with the validated or confirmed planets found previously, we investigate
+the dependence of planet radius $R_p$ on stellar insolation and metallicity [Fe/H]. We confirm
+that for periods $P\lesssim 2$ days, planets with a radius $R_p\gtrsim 2\,R_\oplus$ are less common
+than planets with a radius between 1-2$\,R_\oplus$. We also see a hint of the "radius valley" between
+1.5 and 2$\,R_\oplus$ that has been seen for close-in planets around FGK stars. These features in
+the radius/period distribution could be attributed to photoevaporation of planetary envelopes
+by high-energy photons from the host star, as they have for FGK stars. For the M dwarfs, though, the
+features are not as well defined, and we cannot rule out other explanations such as atmospheric loss
+from internal planetary heat sources, or truncation of the protoplanetary disk. There also appears
+to be a relation between planet size and metallicity: those few planets larger than about 3 $R_\oplus$
+are found around the most metal-rich M dwarfs. 

@@ -1,0 +1,16 @@
+This paper gives a novel approach to analyze SAT problem more deeply. First, I define new elements
+of Boolean formula such as dominant variable, decision chain, and chain coupler. Through the analysis
+of the SAT problem using the elements, I prove that we can construct a k-SAT (k>2) instance where the
+coefficients of cutting planes take exponentially large values in the input size. This exponential
+property is caused by the number system formed from the calculation of coefficients. In addition,
+I show that 2-SAT does not form the number system and Horn-SAT partially forms the number system according
+to the feasible value of the dominant variable. Whether or not the coefficients of cutting planes
+in cutting plane proof are polynomially bounded was open problem. Many researchers believed that
+cutting plane proofs with large coefficients are highly non-intuitive20. However, we can construct
+a k-SAT (k>2) instance in which cutting planes take exponentially large coefficients by the number
+system. In addition, this exponential property is so strong that it gives definite answers for several
+questions: why Horn-SAT has the intermediate property between 2-SAT and 3-SAT; why random-SAT
+is so easy; and why k-SAT (k>2) cannot be solved with the linear programming technique. As we know,
+2-SAT is NL-complete, Horn-SAT is P-complete, and k-SAT (k>2) is NP-complete. In terms of computational
+complexity, this paper gives a clear mathematical property by which SAT problems in three different
+classes are distinguished. 

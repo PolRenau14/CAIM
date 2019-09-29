@@ -1,0 +1,16 @@
+In this paper, we consider the problem of computing a Wasserstein barycenter for a set of discrete
+probability distributions with finite supports, which finds many applications in areas such as
+statistics, machine learning and image processing. When the support points of the barycenter are
+pre-specified, this problem can be modeled as a linear program (LP) whose problem size can be extremely
+large. To handle this large-scale LP, we analyse the structure of its dual problem, which is conceivably
+more tractable and can be reformulated as a well-structured convex problem with 3 kinds of block
+variables and a coupling linear equality constraint. We then adapt a symmetric Gauss-Seidel based
+alternating direction method of multipliers (sGS-ADMM) to solve the resulting dual problem and
+establish its global convergence and global linear convergence rate. As a critical component for
+efficient computation, we also show how all the subproblems involved can be solved exactly and efficiently.
+This makes our method suitable for computing a Wasserstein barycenter on a large dataset, without
+introducing an entropy regularization term as is commonly practiced. In addition, our sGS-ADMM
+can be used as a subroutine in an alternating minimization method to compute a barycenter when its
+support points are not pre-specified. Numerical results on synthetic datasets and image datasets
+demonstrate that our method is highly competitive for solving large-scale problems, in comparison
+to two existing representative methods and the commercial software Gurobi. 

@@ -1,0 +1,17 @@
+An efficient implicit kinetic scheme is developed to solve the stationary phonon Boltzmann transport
+equation (BTE) based on the non-gray model including the phonon dispersion and polarization. Due
+to the wide range of the dispersed phonon mean free paths, the phonon transport under the non-gray
+model is essentially multiscale, and has to be solved differently and appropriately for varied
+phonon frequencies and branches. The proposed implicit kinetic scheme is composed of a microscopic
+iteration and a macroscopic iteration. The microscopic iteration is capable of automatically
+adapting with varied phonon mean free path of each phonon frequency and branch through solving the
+phonon BTE. The energy transfer of all phonons is gathered together by the microscopic iteration
+to evaluate the heat flux. The temperature field is predicted through a macroscopic heat transfer
+equation according to the heat flux, and the equilibrium state in the phonon BTE is also updated.
+The combination of the phonon BTE solver and the macroscopic equation makes the present method very
+efficient in a wide length scale. Three numerical tests, including the cross-plane, in-plane and
+nano-porous heat transfer in silicon, validate that the present scheme can handle with the phonon
+dispersion and polarization correctly and predict the multiscale heat transfer phenomena efficiently
+in a wide range. The present method could be tens of times faster than the typical implicit DOM and
+keeps the same amount of the memory requirements as the Fourier solver for multiscale heat transfer
+problem. 

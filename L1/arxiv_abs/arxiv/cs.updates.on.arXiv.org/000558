@@ -1,0 +1,16 @@
+A large variety of complex systems in ecology, climate science, biomedicine and engineering have
+been observed to exhibit tipping points, where the internal dynamical state of the system abruptly
+changes. For example, such critical transitions may result in the sudden change of ecological environments
+and climate conditions. Data and models suggest that detectable warning signs may precede some
+of these drastic events. This view is also corroborated by abstract mathematical theory for generic
+bifurcations in stochastic multi-scale systems. Whether the stochastic scaling laws used as warning
+signs are also present in social networks that anticipate a-priori {\it unknown} events in society
+is an exciting open problem, to which at present only highly speculative answers can be given. Here,
+we instead provide a first step towards tackling this formidable question by focusing on a-priori
+{\it known} events and analyzing a social network data set with a focus on classical variance and
+autocorrelation warning signs. Our results thus pertain to one absolutely fundamental question:
+Can the stochastic warning signs known from other areas also be detected in large-scale social network
+data? We answer this question affirmatively as we find that several a-priori known events are preceded
+by variance and autocorrelation growth. Our findings thus clearly establish the necessary starting
+point to further investigate the relation between abstract mathematical theory and various classes
+of critical transitions in social networks. 

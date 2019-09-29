@@ -1,0 +1,17 @@
+A large-scale ordered magnetic field plays a very important role in the formation and acceleration
+of a gamma-ray burst (GRB) jet. During the GRB prompt phase, some dissipation processes may happen
+and disturb the magnetic field, making the field become random to some extent. Therefore, a mixed
+magnetic field consisting of an ordered component and a random component is plausible for the early
+afterglow phase. Here we investigate the polarization evolution and light curve of an afterglow
+under such a 3-dimensional mixed magnetic field. Three kinds of ordered component (i.e., aligned,
+toroidal and radial) are discussed. We find that the three cases are distinguishable through jet
+polarization evolution. The polarization angle for a 3D mixed magnetic field with an aligned ordered
+component can evolve gradually but only changes abruptly by $90^\circ$ in the toroidal and radial
+cases. Furthermore, during the reverse shock crossing time, the polarization degree (PD) can be
+non-zero for the toroidal case but roughly zero for the radial case. Since an aligned component in
+a jet corresponds to a magnetar central engine and a toroidal component corresponds to a black hole,
+GRB central engines are distinguishable through polarization observations even if the magnetic
+field is mixed in a jet. In addition, our polarization calculation can be applied to GRB 170817A associated
+with GW170817. Using the recently-observed PD upper limit $12\%$ of GRB 170817A at $t=244$ days,
+the magnetic field strength ratio of the ordered to random components in this afterglow is constrained
+to be $\lesssim0.9$. 

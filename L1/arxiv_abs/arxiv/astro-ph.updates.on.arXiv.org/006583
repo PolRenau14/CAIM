@@ -1,0 +1,16 @@
+A numerical evidence for the dependence of the substructure abundance of cluster halos on the orientation
+coherence of the surrounding tidal fields is presented. Applying the adapted minimal spanning
+tree (MST) algorithm to the cluster halos with $M\ge 10^{14}\,h^{-1}\,M_{\odot}$ from the Big
+MultiDark-Planck Simulations, we identify primary MST stems composed of multiple nodes as the
+filaments and measure their specific sizes (spatial extents per node), which quantify the orientation
+coherence of the tidal field on the cluster scales. Classifying the cluster halos into five samples
+by the specific sizes of their host filaments and tallying the mass distributions of the five samples,
+we investigate if and how the substructure abundance of the cluster halos differs among the five
+samples. It is found that the cluster halos embedded in the filaments with larger specific sizes
+tend to possess less substructures. This anti-correlation is also shown robust against narrowing
+down the formation epochs of the cluster halos as well as against fixing the node number of the filaments.
+Given that the filaments with larger specific sizes form at the regions where the surrounding tidal
+fields are coherent over large scales in the orientations of their principal axes, we suggest that
+in the filaments with larger specific sizes the satellite infall and matter accretion onto the cluster
+halos should be obstructed due to the development of the tangential velocities in the plane perpendicular
+to the elongated axes of the filaments. 

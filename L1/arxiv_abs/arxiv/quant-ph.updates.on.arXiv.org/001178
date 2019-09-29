@@ -1,0 +1,16 @@
+Tracing atomic and molecular energy levels in course of various physical and chemical processes,
+X-ray spectroscopy is one of the most powerful tools to access structure and properties of matter
+in different states of aggregation. X-ray spectroscopic techniques probe the local electronic
+structure of a particular atom in its environment, in contrast to UV/Vis spectroscopy, where transitions
+generally occur between delocalized molecular orbitals. Complementary information is provided
+by using a combination of different absorption, emission (scattering) as well as photo- and autoionization
+X-ray methods is used. However, interpretation of the complex experimental spectra and verification
+of experimental hypotheses is a non-trivial task and powerful first principles theoretical approaches
+that allow for a systematic investigation of a broad class of compounds are needed. Focussing on
+transition metal compounds, $L$-edge spectra are of particular relevance as they probe the frontier
+$d$-orbitals involved in metal-ligand bonding. Here, near-degeneracy effects in combination
+with spin-orbit coupling lead to a complicated multiplet energy level structure, which poses a
+serious challenge to quantum chemical methods. MCSCF theory has been shown to be capable of providing
+a rather detailed understanding of experimental X-ray spectroscopy. However, it cannot be considered
+as a 'blackbox' tool and its application requires not only a command of formal theoretical aspects,
+but also a broad knowledge of already existing applications. Both aspects are covered in this overview.

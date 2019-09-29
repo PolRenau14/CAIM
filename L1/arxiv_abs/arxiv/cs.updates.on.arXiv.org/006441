@@ -1,0 +1,16 @@
+Owing to Satoshi Nakamoto's brilliant idea, a P2P public ledger is shown to be implementable in anonymous
+network. Any Internet user can then join the anonymous network and contribute to the P2P public ledger
+by providing their computing power or proof-of-work. The proof-of-work is a clever implementation
+of one-CPU-one-vote by anonymous participants, and it protects the Bitcoin ledger from illegal
+modification. To compensate the nodes for their work, a cryptocurrency called Bitcoin is issued
+and given to nodes. However, the very nature of anonymity of the ledger and the cryptocurrency prevent
+the technology from being used in fiat money economy. Cryptocurrencies are not traceable even if
+they are used for money laundering or tax evasion, and the value of cryptocurrencies is not stable
+but fluctuates wildly. In this white paper, we introduce Gruut, a P2P ledger to implement a universal
+financial platform for fiat money. For this purpose, we introduce a new consensus algorithm called
+`proof-of-population,' which is one instance of `proof of public collaboration.' It can be used
+for multiple purposes; as a P2P ledger for banks, as a powerful tool for payment, including micropayment,
+and as a tool for any type of financial transactions. Even better, it distributes the profit obtained
+from transaction fee, currently dominated by a third party, to peers that cannot be centralized.
+Energy requirements of Gruut are so low that it is possible to run our software on a smartphone or on
+a personal computer without a graphic card. 

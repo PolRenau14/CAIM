@@ -1,0 +1,17 @@
+A smart contract on a blockchain cannot keep a secret because its data is replicated on all nodes in
+a network. To remedy this problem, it has been suggested to combine blockchains with trusted execution
+environments (TEEs), such as Intel SGX, for executing applications that demand privacy. Untrusted
+blockchain nodes cannot get access to the data and computations inside the TEE. This paper first
+explores some pitfalls that arise from the combination of TEEs with blockchains. Since TEEs are,
+in principle, stateless they are susceptible to rollback attacks, which should be prevented to
+maintain privacy for the application. However, in blockchains with non-final consensus protocols,
+such as the proof-of-work in Ethereum and others, the contract execution must handle rollbacks
+by design. This implies that TEEs for securing blockchain execution cannot be directly used for
+such blockchains; this approach works only when the consensus decisions are final. Second, this
+work introduces an architecture and a prototype for smart-contract execution within Intel SGX
+technology for Hyperledger Fabric, a prominent platform for enterprise blockchain applications.
+Our system resolves difficulties posed by the execute-order-validate architecture of Fabric
+and prevents rollback attacks on TEE-based execution as far as possible. For increasing security,
+our design encapsulates each application on the blockchain within its own enclave that shields
+it from the host system. An evaluation shows that the overhead moving execution into SGX is within
+10%-20% for a sealed-bid auction application. 

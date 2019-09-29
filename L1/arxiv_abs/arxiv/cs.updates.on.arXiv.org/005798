@@ -1,0 +1,17 @@
+Knowledge tracing (KT) refers to a machine learning technique to assess a student's level of understanding
+(so-called knowledge state) of a certain concept based on the student performance on problem solving.
+KT accepts a series of question-answer pairs as an input and iteratively updates the knowledge state
+of the student, eventually returning the probability of the student solving an unseen question.
+From the viewpoint of neuroeducation (the field of applying neuroscience, cognitive science,
+and psychology to education), however, KT leaves much room for improvement in terms of explaining
+the complex process of human learning. In this paper, we identify three problems of KT (namely non
+adaptive knowledge growth, neglected latent information, and unintended negative influence)
+and propose a memory-network-based technique named intelligent knowledge tracing (IKT) to address
+them, thus approaching one step closer to understanding the complex mechanism underlying human
+learning. In addition, we propose a new performance metric called correct update count (CUC) that
+can measure the degree of unintended negative influence, thus quantifying how closely a student
+model resembles the human learning process. The proposed CUC metric can complement the area under
+the curve (AUC) metric, allowing us to evaluate competing models more effectively. According to
+our experiments using a widely used public benchmark, IKT significantly (over two times) outperformed
+the existing KT approaches in terms of CUC, while preserving the correctness behavior measured
+in AUC. 

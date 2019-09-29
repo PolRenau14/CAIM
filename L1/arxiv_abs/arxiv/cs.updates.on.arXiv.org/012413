@@ -1,0 +1,16 @@
+Neural network based end-to-end text to speech (TTS) has significantly improved the quality of
+synthesized speech. Prominent methods (e.g., Tacotron 2) usually first generate mel-spectrogram
+from text, and then synthesize speech from mel-spectrogram using vocoder such as WaveNet. Compared
+with traditional concatenative and statistical parametric approaches, neural network based
+end-to-end models suffer from slow inference speed, and the synthesized speech is usually not robust
+(i.e., some words are skipped or repeated) and lack of controllability (voice speed or prosody control).
+In this work, we propose a novel feed-forward network based on Transformer to generate mel-spectrogram
+in parallel for TTS. Specifically, we extract attention alignments from an encoder-decoder based
+teacher model for phoneme duration prediction, which is used by a length regulator to expand the
+source phoneme sequence to match the length of target mel-spectrogram sequence for parallel mel-spectrogram
+generation. Experiments on the LJSpeech dataset show that our parallel model matches autoregressive
+models in terms of speech quality, nearly eliminates the problem of word skipping and repeating
+in particularly hard cases, and can adjust voice speed smoothly. Most importantly, compared with
+autoregressive Transformer TTS, our model speeds up the mel-spectrogram generation by 270x and
+the end-to-end speech synthesis by 38x. Therefore, we call our model FastSpeech. We will release
+the code on Github (anonymous.url). Synthesized speech samples can be found in https://speechresearch.github.io/fastspeech/.

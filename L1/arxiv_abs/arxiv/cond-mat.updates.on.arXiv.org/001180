@@ -1,0 +1,16 @@
+Ductile fracture through void growth and coalescence depends significantly on the plastic anisotropy
+of the material and on void size, as shown by experiments and/or numerical simulations through several
+studies. Macroscopic (homogenized) yield criteria aiming at modeling nanoporous materials have
+been proposed only for the growth regime, i.e. non-interacting voids. The aim of this study is thus
+to provide a yield criterion for nanoporous materials relevant for the coalescence regime, i.e.
+when plastic flow is localized between voids. Through homogenization and limit analysis, and accounting
+for interface stresses at the void-matrix interface, analytical coalescence criterion is derived
+under the following conditions: axisymmetric loading, orthotropic material obeying Hill's plasticity,
+cylindrical voids in cylindrical unit-cell. Incidentally, an orthotropic extension of the existing
+isotropic modeling of interface stresses through limit analysis is described and used. The proposed
+coalescence criterion is then extended to account for combined tension and shear loading conditions.
+Numerical limit analyses have been performed under specific conditions / materials parameters
+to get supposedly exact (up to numerical errors) results of coalescence stress. A good agreement
+between the analytical coalescence criteria derived in this study and numerical results is found
+for elongated spheroidal voids, making them usable to predict the onset of void coalescence in ductile
+fracture modeling of nanoporous materials. 

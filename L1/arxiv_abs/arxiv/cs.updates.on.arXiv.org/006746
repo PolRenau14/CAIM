@@ -1,0 +1,16 @@
+We propose a new succinct representation of labeled trees which represents a tree T using |T|H_k(T)
+number of bits (plus some smaller order terms), where |T|H_k(T) denotes the k-th order (tree label)
+entropy, as defined by Ferragina at al. 2005. Our representation employs a new, simple method of
+partitioning the tree, which preserves both tree shape and node degrees. Previously, the only representation
+that used |T|H_k(T) bits was based on XBWT, a transformation that linearizes tree labels into a single
+string, combined with compression boosting. The proposed representation is much simpler than
+the one based on XBWT, which used additional linear space (bounded by 0.01n) hidden in the "smaller
+order terms" notion, as an artifact of using zeroth order entropy coder; our representation uses
+sublinear additional space (for reasonable values of k and size of the label alphabet {\sigma}).
+The proposed representation can be naturally extended to a succinct data structure for trees, which
+uses |T|H_k(T) plus additional O(|T|k log_{\sigma}/ log_{\sigma} |T| + |T| log log_{\sigma} |T|/
+log_{\sigma} |T|) bits and supports all the usual navigational queries in constant time. At the
+cost of increasing the query time to O(log log |T|/ log |T|) we can further reduce the space redundancy
+to O(|T| log log |T|/ log_{\sigma} |T|) bits, assuming k <= log_{\sigma} |T|. This is a major improvement
+over representation based on XBWT: even though XBWT-based representation uses |T|H_k(T) bits,
+the space needed for structure supporting navigational queries is much larger: (...) 

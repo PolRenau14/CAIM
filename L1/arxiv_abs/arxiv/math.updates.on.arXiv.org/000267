@@ -1,0 +1,16 @@
+In statistical analysis, measuring a score of predictive performance is an important task. In many
+scientific fields, appropriate scores were tailored to tackle the problems at hand. A proper score
+is a popular tool to obtain statistically consistent forecasts. Furthermore, a mathematical characterization
+of the proper score was studied. As a result, it was revealed that the proper score corresponds to
+a Bregman divergence, which is an extension of the squared distance over the set of probability distributions.
+In the present paper, we introduce composite scores as an extension of the typical scores in order
+to obtain a wider class of probabilistic forecasting. Then, we propose a class of composite scores,
+named Holder scores, that induce equivariant estimators. The equivariant estimators have a favorable
+property, implying that the estimator is transformed in a consistent way, when the data is transformed.
+In particular, we deal with the affine transformation of the data. By using the equivariant estimators
+under the affine transformation, one can obtain estimators that do no essentially depend on the
+choice of the system of units in the measurement. Conversely, we prove that the Holder score is characterized
+by the invariance property under the affine transformations. Furthermore, we investigate statistical
+properties of the estimators using Holder scores for the statistical problems including estimation
+of regression functions and robust parameter estimation, and illustrate the usefulness of the
+newly introduced scores for statistical forecasting. 

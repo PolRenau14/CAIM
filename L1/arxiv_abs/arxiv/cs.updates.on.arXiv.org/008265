@@ -1,0 +1,16 @@
+In wireless sensor networks (WSNs), the sensed data by sensors need to be gathered, so that one very
+important application is periodical data collection. There is much effort which aimed at the data
+collection scheduling algorithm development to minimize the latency. Most of previous works investigating
+the minimum latency of data collection issue have an ideal assumption that the network is a centralized
+system, in which the entire network is completely synchronized with full knowledge of components.
+In addition, most of existing works often assume that any (or no) data in the network are allowed to
+be aggregated into one packet and the network models are often treated as tree structures. However,
+in practical, WSNs are more likely to be distributed systems, since each sensor's knowledge is disjointed
+to each other, and a fixed number of data are allowed to to be aggregated into one packet. This is a formidable
+motivation for us to investigate the problem of minimum latency for the data aggregation without
+data collision in the distributed WSNs when the sensors are considered to be assigned the channels
+and the data are compressed with a flexible aggregation ratio, termed the minimum-latency collision-avoidance
+multiple-data-aggregation scheduling with multi-channel (MLCAMDAS-MC) problem. A new distributed
+algorithm, termed the distributed collision-avoidance scheduling (DCAS) algorithm, is proposed
+to address the MLCAMDAS-MC. Finally, we provide the theoretical analyses of DCAS and conduct extensive
+simulations to demonstrate the performance of DCAS. 

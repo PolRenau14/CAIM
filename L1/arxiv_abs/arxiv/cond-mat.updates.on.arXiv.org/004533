@@ -1,0 +1,17 @@
+We study numerically mixing-demixing and spontaneous symmetry breaking in Bose-Fermi mixtures
+in spherically-symmetric and quasi-one-dimensional traps while the intra-species Bose and Fermi
+interactions are varied from weak-coupling to strong-coupling limits. The usual treatment of
+a Bose-Fermi mixture relies on weak-coupling Gross-Pitaevskii (GP) and density-functional (DF)
+Lagrangians, often including the more realistic perturbative Lee-Huang-Yang (LHY) corrections.
+We suggest analytic non-perturbative beyond-mean-field Bose and Fermi Lagrangians valid along
+the crossover from weak- to strong-coupling limits of intra-species interactions consistent
+with the LHY corrections and the strong-coupling (unitarity) limit for small and large scattering
+lengths $|a|$, respectively, and use these to study the Bose-Fermi mixture. The LHY correction
+is appropriate for medium to weak atomic interactions and diverges for stronger interactions (large
+scattering length $|a|$), whereas the present beyond-mean-field Lagrangian is finite in the unitarity
+limit ($|a|\to \infty$). We illustrate our results using the Bose-Fermi $^7$Li-$^6$Li mixture
+under a spherically-symmetric and a quasi-one-dimensional trap. The results obtained with the
+present model for density distribution of the Bose-Fermi mixture along the crossover could be qualitatively
+different from the usual GP-DF Lagrangian with or without LHY corrections. Specifically, we identified
+spontaneous symmetry breaking and demixing in the present model not found in the usual model with
+the same values of the parameters. 

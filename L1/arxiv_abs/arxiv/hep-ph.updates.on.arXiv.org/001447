@@ -1,0 +1,16 @@
+The HAWC Collaboration has discovered a $\gamma$-ray emission extended about 2 degrees around
+the Geminga and Monogem pulsar wind nebulae (PWNe) at $\gamma$-ray energies $E_\gamma >5$ TeV.
+We analyze, for the first time, almost 10 years of $\gamma$-ray data obtained with the Fermi Large
+Area Telescope at $E_\gamma >$ 8 GeV in the direction of Geminga and Monogem. Since these two pulsars
+are close the Galactic plane we run our analysis with 10 different interstellar emission models
+(IEMs) to study the systematics due to the modeling of this component. We detect a $\gamma$-ray halo
+around Geminga with a significance in the range $7.8-11.8\sigma$ depending on the IEM considered.
+This measurement is compatible with $e^+$ and $e^-$ emitted by the PWN, which inverse-Compton scatter
+(ICS) with photon fields located within a distance of about 100 pc from the pulsar, where the diffusion
+coefficient is estimated to be around $1.1 \times 10^{27}$ cm$^2$/s at 100 GeV. We include in our
+analysis the proper motion of the Geminga pulsar which is relevant for $\gamma$ rays produced for
+ICS in the Fermi-LAT energy range. We find that an efficiency of about $1\%$ for the conversion of
+the spin-down energy of the pulsar into $e^+$ and $e^-$ is required to be consistent with $\gamma$-ray
+data from Fermi-LAT and HAWC. The inferred contribution of Geminga to the $e^+$ flux is at most $20\%$
+at the highest energy AMS-02 data. Our results are compatible with the interpretation that the cumulative
+emission from Galactic pulsars explains the positron excess. 

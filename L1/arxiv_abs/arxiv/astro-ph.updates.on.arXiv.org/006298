@@ -1,0 +1,17 @@
+The basic unified model of active galactic nuclei (AGN) invokes an anisotropic obscuring structure,
+usually referred to as a torus, to explain AGN obscuration as an angle-dependent effect. We present
+a new grid of X-ray spectral templates based on radiative transfer calculations in neutral gas in
+an approximately toroidal geometry, appropriate for CCD-resolution X-ray spectra (FWHM > 130
+eV). Fitting the templates to broadband X-ray spectra of AGN provides constraints on two important
+geometrical parameters of the gas distribution around the supermassive black hole: the average
+column density and the covering factor. Compared to the currently available spectral templates,
+our model is more flexible, and capable of providing constraints on the main torus parameters in
+a wider range of AGN. We demonstrate the application of this model using hard X-ray spectra from NuSTAR
+(3-79 keV) for four AGN covering a variety of classifications: 3C 390.3, NGC 2110, IC 5063, and NGC
+7582. This small set of examples was chosen to illustrate the range of possible torus configurations,
+from disk-like to sphere-like geometries with column densities below, as well as above, the Compton-thick
+threshold. This diversity of torus properties challenges the simple assumption of a standard geometrically
+and optically thick toroidal structure commonly invoked in the basic form of the unified model of
+AGN. Finding broad consistency between the our constraints and those from infrared modeling, we
+discuss how the approach from the X-ray band complements similar measurements of AGN structures
+at other wavelengths. 

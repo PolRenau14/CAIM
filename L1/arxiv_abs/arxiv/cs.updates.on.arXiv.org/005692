@@ -1,0 +1,17 @@
+In recent years, two-player zero-sum games with multiple objectives have received a lot of interest
+as a model for the synthesis of complex reactive systems. In this framework, Player 1 wins if he can
+ensure that all objectives are satisfied against any behavior of Player 2. When this is not possible
+to satisfy all the objectives at once, an alternative is to use some preorder on the objectives according
+to which subset of objectives Player 1 wants to satisfy. For example, it is often natural to provide
+more significance to one objective over another, a situation that can be modelled with lexicographically
+ordered objectives for instance. Inspired by recent work on concurrent games with multiple {\omega}-regular
+objectives by Bouyer et al., we investigate in detail turned-based games with monotonically ordered
+and {\omega}-regular objectives. We study the threshold problem which asks whether player 1 can
+ensure a payoff greater than or equal to a given threshold w.r.t. a given monotonic preorder. As the
+number of objectives is usually much smaller than the size of the game graph, we provide a parametric
+complexity analysis and we show that our threshold problem is in FPT for all monotonic preorders
+and all classical types of {\omega}-regular objectives. We also provide polynomial time algorithms
+for B\"uchi, coB\"uchi and explicit Muller objectives for a large subclass of monotonic preorders
+that includes among others the lexicographic preorder. In the particular case of lexicographic
+preorder, we also study the complexity of computing the values and the memory requirements of optimal
+strategies. 

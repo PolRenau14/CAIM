@@ -1,0 +1,16 @@
+In this work, the static stability of plates with fixed trailing edges in axial airflow is studied
+using the framework of Possio integral equation. First, we introduce a new derivation of a Possio
+integral equation that relates the pressure jump along thin plates to their downwash based on the
+linearization of the governing equations of an ideal compressible fluid. The steady state solution
+to the Possio equation is used to account for the aerodynamic forces in the steady state plate governing
+equation resulting in a singular differential-integral equation which is transformed to an integral
+equation. Next, we verify the solvability of the integral equation based on the Fredholm alternative
+for compact operators in Banach spaces and the contraction mapping theorem. Then, we derive explicit
+formulas for the characteristic equations of free-clamped and free-pinned plates. The minimum
+solutions to the characteristic equations are the divergence speeds which indicate when static
+instabilities start to occur. We show analytically that free-pinned plates are statically unstable.
+After that, we move to derive analytically flow speed intervals that correspond to static stability
+regions for free-clamped plates. We also resort to numerical computations to obtain an explicit
+formula for the divergence speed of free-clamped plates. Finally, we apply the obtained results
+on piezoelectric plates and we show that free-clamped piezoelectric plates are statically more
+stable than conventional free-clamped plates due to the piezoelectric coupling. 

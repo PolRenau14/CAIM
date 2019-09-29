@@ -1,0 +1,16 @@
+The prevalence of Internet of Things (IoTs) allows heterogeneous embedded smart devices to collaboratively
+provide smart services with or without human intervention. While leveraging the large scale IoT
+based applications like Smart Gird or Smart Cities, IoTs also incur more concerns on privacy and
+security. Among the top security challenges that IoTs face, access authorization is critical in
+resource sharing and information protection. One of the weaknesses in today's access control (AC)
+is the centralized authorization server, which can be the performance bottleneck or the single
+point of failure. In this paper, BlendCAC, a blockchain enabled decentralized capability based
+AC is proposed for the security of IoTs. The BlendCAC aims at an effective access control processes
+to devices, services and information in large scale IoT systems. Based on the blockchain network,
+a capability delegation mechanism is suggested for access permission propagation. A robust identity
+based capability token management strategy is proposed, which takes advantage of smart contract
+for registering, propagation and revocation of the access authorization. In the proposed BlendCAC
+scheme, IoT devices are their own master to control their resources instead of being supervised
+by a centralized authority. Implemented and tested on a Raspberry Pi device and on a local private
+blockchain network, our experimental results demonstrate the feasibility of the proposed BlendCAC
+approach to offer a decentralized, scalable, lightweight and fine grained AC solution to IoT systems.

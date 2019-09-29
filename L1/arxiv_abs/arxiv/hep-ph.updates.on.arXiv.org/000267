@@ -1,0 +1,17 @@
+We investigate QCD with adjoint Dirac fermions on $\mathbb{R}^3\times S^1$ with generic boundary
+conditions for fermions along $S^1$. By means of perturbation theory, semiclassical methods and
+a chiral effective model, we elucidate a rich phase structure in the space spanned by the $S^1$ compactification
+scale $L$, twisted fermionic boundary condition $\phi$ and the fermion mass $m$. We found various
+phases with or without chiral and center symmetry breaking, separated by first- and second-order
+phase transitions, which in specific limits ($\phi=0$, $\phi=\pi$, $L\to 0$ and $m\to \infty$)
+reproduce known results in the literature. In the center-symmetric phase at small $L$, we show that
+Unsal's bion-induced confinement mechanism is at work but is substantially weakened at $\phi\ne
+0$ by a linear potential between monopoles. Through an analytic and numerical study of the PNJL model,
+we show that the order parameters for center and chiral symmetries (i.e., Polyakov loop and chiral
+condensate) are strongly intertwined at $\phi\ne 0$. Due to this correlation, a deconfined phase
+can intervene between a weak-coupling center-symmetric phase at small $L$ and a strong-coupling
+one at large $L$. Whether this happens or not depends on the ratio of the dynamical fermion mass to
+the energy scale of the Yang-Mills theory. Implication of this possibility for resurgence in gauge
+theories is briefly discussed. In an appendix, we study the index of the adjoint Dirac operator on
+$\mathbb{R}^3\times S^1$ with twisted boundary conditions, which is important for semiclassical
+analysis of monopoles. 

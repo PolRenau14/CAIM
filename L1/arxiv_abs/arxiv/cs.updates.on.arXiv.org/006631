@@ -1,0 +1,17 @@
+Computer-aided diagnosis (CAD) techniques for lung field segmentation from chest radiographs
+(CXR) have been proposed for adult cohorts, but rarely for pediatric subjects. Statistical shape
+models (SSMs), the workhorse of most state-of-the-art CXR-based lung field segmentation methods,
+do not efficiently accommodate shape variation of the lung field during the pediatric developmental
+stages. The main contributions of our work are: (1) a generic lung field segmentation framework
+from CXR accommodating large shape variation for adult and pediatric cohorts; (2) a deep representation
+learning detection mechanism, \emph{ensemble space learning}, for robust object localization;
+and (3) \emph{marginal shape deep learning} for the shape deformation parameter estimation. Unlike
+the iterative approach of conventional SSMs, the proposed shape learning mechanism transforms
+the parameter space into marginal subspaces that are solvable efficiently using the recursive
+representation learning mechanism. Furthermore, our method is the first to include the challenging
+retro-cardiac region in the CXR-based lung segmentation for accurate lung capacity estimation.
+The framework is evaluated on 668 CXRs of patients between 3 month to 89 year of age. We obtain a mean
+Dice similarity coefficient of $0.96\pm0.03$ (including the retro-cardiac region). For a given
+accuracy, the proposed approach is also found to be faster than conventional SSM-based iterative
+segmentation methods. The computational simplicity of the proposed generic framework could be
+similarly applied to the fast segmentation of other deformable objects. 

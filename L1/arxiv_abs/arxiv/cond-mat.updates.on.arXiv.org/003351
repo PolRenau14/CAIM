@@ -1,0 +1,16 @@
+Pole-skipping is a recently discovered signature of many-body quantum chaos in collective energy
+dynamics. It establishes a precise connection between resummed, all-order hydrodynamics and
+the underlying microscopic chaos. In this paper, we demonstrate the existence of pole-skipping
+in holographic conformal field theories with higher-derivative gravity duals. In particular,
+we first consider Einstein-Hilbert gravity deformed by curvature-squared ($R^2$) corrections
+and then type IIB supergravity theory with the $\alpha'^3 R^4$ term, where $\alpha'$ is set by the
+length of the fundamental string. The former case allows us to discuss the effects of leading-order
+$1/N_c$ corrections (with $N_c$ being the number of colours of the dual gauge group) and phenomenological
+coupling constant dependence. In Einstein-Gauss-Bonnet theory, pole-skipping turns out to be
+valid non-perturbatively in the Gauss-Bonnet coupling. The $\alpha'^3 R^4$ deformation enables
+us to study perturbative inverse 't Hooft coupling corrections ($\alpha'^3 \sim 1 / \lambda^{3/2}$)
+in $SU(N_c)$, $\mathcal{N} = 4$ supersymmetric Yang-Mills theory with infinite $N_c$. While the
+maximal Lyapunov exponent characterising quantum chaos remains uncorrected, the butterfly velocity
+is shown to depend both on $N_c$ and the coupling. Several implications of the relation between hydrodynamics
+and chaos are discussed, including an intriguing similarity between the dependence of the butterfly
+velocity and the ratio of shear viscosity to entropy density on stringy corrections. 

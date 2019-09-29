@@ -1,0 +1,15 @@
+The distinct elements problem is one of the fundamental problems in streaming algorithms --- given
+a stream of integers in the range $\{1,\ldots,n\}$, we wish to provide a $(1+\varepsilon)$ approximation
+to the number of distinct elements in the input. After a long line of research optimal solution for
+this problem with constant probability of success, using $\mathcal{O}(\frac{1}{\varepsilon^2}+\log
+n)$ bits of space, was given by Kane, Nelson and Woodruff in 2010. The standard approach used in order
+to achieve low failure probability $\delta$, is to take a median of $\log \delta^{-1}$ parallel
+repetitions of the original algorithm and report the median of computed answers. We show that such
+a multiplicative space blow-up is unnecessary: we provide an optimal algorithm using $\mathcal{O}(\frac{\log
+\delta^{-1}}{\varepsilon^2} + \log n)$ bits of space --- matching known lower bounds for this problem.
+That is, the $\log\delta^{-1}$ factor does not multiply the $\log n$ term. This settles completely
+the space complexity of the distinct elements problem with respect to all standard parameters.
+We consider also \emph{strong tracking} (or \emph{continuous monitoring}) variant of the distinct
+elements problem, where we want an algorithm which provides an approximation of the number of distinct
+elements seen so far, at all times of the stream. We show that this variant can be solved using $\mathcal{O}(\frac{\log
+\log n + \log \delta^{-1}}{\varepsilon^2} + \log n)$ bits of space, which we show to be optimal. 

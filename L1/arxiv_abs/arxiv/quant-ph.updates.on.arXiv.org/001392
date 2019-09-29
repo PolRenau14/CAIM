@@ -1,0 +1,16 @@
+A method for the systematic construction of few-body damped harmonic oscillator networks accurately
+reproducing the effect of general bosonic environments in open quantum systems is presented. Under
+the sole assumptions of a Gaussian environment and regardless of the system coupled to it, an algorithm
+to determine the parameters of an equivalent set of interacting damped oscillators obeying a Markovian
+quantum master equation is introduced. By choosing a suitable coupling to the system and minimizing
+an appropriate distance between the two-time correlation function of this effective bath and that
+of the target environment, the error induced in the reduced dynamics of the system is brought under
+rigorous control. The interactions among the effective modes provide remarkable flexibility
+in replicating non-Markovian effects on the system even with a small number of oscillators, and
+the resulting Lindblad equation may therefore be integrated at a very reasonable computational
+cost using standard methods for Markovian problems, even in strongly non-perturbative coupling
+regimes and at arbitrary temperatures including zero. We apply the method to an exactly solvable
+problem in order to demonstrate its accuracy, and present a study based on current research in the
+context of coherent transport in biological aggregates as a more realistic example of its use; performance
+and versatility are highlighted, and theoretical and numerical advantages over existing methods,
+as well as possible future improvements, are discussed. 

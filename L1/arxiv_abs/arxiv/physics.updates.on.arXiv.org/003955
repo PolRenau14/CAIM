@@ -1,0 +1,17 @@
+This numerical study investigates the combustion modes in the second stage of a sequential combustor
+at atmospheric and high pressure. The sequential burner (SB) features a mixing section with fuel
+injection into a hot vitiated crossflow. Depending on the dominant combustion mode, a recirculation
+zone assists flame anchoring in the combustion chamber. The flame is located sufficiently downstream
+of the injector resulting in partially premixed conditions. First, combustion regime maps are
+obtained from 0-D and 1-D simulations showing the co-existence of three combustion modes: autoignition,
+flame propagation and flame propagation assisted by autoignition. These regime maps can be used
+to understand the combustion modes at play in turbulent sequential combustors, as shown with 3-D
+large eddy simulations (LES) with semi-detailed chemistry. In addition to the simulation of steady-state
+combustion at three different operating conditions, transient simulations are performed: (i)
+ignition of the combustor with autoignition as the dominant mode, (ii) ignition that is initiated
+by autoignition and that is followed by a transition to a propagation stabilized flame, and (iii)
+a transient change of the inlet temperature (decrease by 150 K) resulting into a change of the combustion
+regime. These results show the importance of the recirculation zone for the ignition and the anchoring
+of a propagating type flame. On the contrary, the autoignition flame stabilizes due to continuous
+self-ignition of the mixture and the recirculation zone does not play an important role for the flame
+anchoring. 

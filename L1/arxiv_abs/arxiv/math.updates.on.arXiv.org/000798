@@ -1,0 +1,17 @@
+We finish a classifying scheme of $C^*$-algebras. We show that the classes of discrete $C^*$-algebras
+(as defined by Peligard and Zsid\'{o}), type II, and type III $C^*$-algebras (as defined by Cuntz
+and Pedersen) are closed under strong Morita equivalence and taking ``essential extension''.
+Furthermore, there exist the largest discrete finite ideal $A_{{\rm d},1}$, the largest discrete
+anti-finite ideal $A_{{\rm d},\infty}$, the largest type II finite ideal $A_{{\rm I/!I},1}$,
+the largest type II anti-finite ideal $A_{{\rm I/!I},\infty}$, and the largest type III ideal $A_{{\rm
+I/!I/!I}}$ of $A$ with $A_{{\rm d},1} + A_{{\rm d},\infty} + A_{{\rm I/!I},1} + A_{{\rm I/!I},\infty}
++ A_{{\rm I/!I/!I}}$ being an essential ideal of $A$. When $A$ is a $W^*$-algebra, these ideals coincide
+with the largest type I finite part, type I infinite part, type II finite part, type II infinite part
+and type III part, respectively. Moreover, this classification scheme observes many good rules.
+We find that any prime $C^*$-algebra is of one of the five types: finite discrete, anti-finite discrete,
+finite type II, anti-finite type II or type III. If $A$ has a Hausdorff primitive spectrum, or $A$
+is an $AW^*$-algebra, or $A$ is the local multiplier algebra of another $C^*$-algebra, then $A$
+is a continuous fields of $C^*$-algebra over a locally compact Hausdorff space with each fiber being
+non-zero and of one of the five types. If, in addition, $A$ is discrete (respectively, anti-finite)
+and separable, there is an open dense subset of $\Omega$ on which each fiber is discrete (respectively,
+anti-finite). 

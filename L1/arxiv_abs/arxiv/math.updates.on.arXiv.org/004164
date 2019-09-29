@@ -1,0 +1,17 @@
+Given a state transition matrix (STM), we reinvestigate the problem of constructing the sparest
+input matrix with a fixed number of inputs to guarantee controllability. We give a new and simple
+graph theoretic characterization for the sparsity pattern of input matrices to guarantee controllability
+for a general STM admitting multiple eigenvalues, and provide a deterministic procedure with polynomial
+time complexity to construct real valued input matrices with arbi- trarily prescribed sparsity
+pattern satisfying controllability. Based on this criterion, some novel results on sparsely controlling
+a system are obtained. It is proven that the minimal number of inputs to guarantee controllability
+equals to the maximum geometric multiplicity of the STM under the constraint that some states are
+actuated-forbidden, extending the results of [28]. The minimal sparsity of input matrices with
+a fixed number of inputs is not necessarily equal to the minimal number of actuated states to ensure
+controllability. Furthermore, a graphic sub- modular function is built, leading to a greedy algorithm
+to efficiently approximate the minimal actuated states to assure controllability for general
+STMs. For the problem of approximating the sparsest input matrices with a fixed number of inputs,
+we propose a simple greedy algo- rithm (non-submodular) and a two-stage algorithm, and demonstrate
+that the latter algorithm, inspired from techniques in dynamic coloring, has a provable approximation
+guarantee. Finally, we present numerical results to show the efficiency and effectiveness of our
+approaches. 

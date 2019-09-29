@@ -1,0 +1,17 @@
+In this paper, a finite-volume discrete unified gas kinetic scheme (DUGKS) based on the non-gray
+phonon transport model is developed for multiscale heat transfer problem with arbitrary temperature
+difference. Under large temperature difference, the phonon Boltzmann transport equation (BTE)
+is essentially multiscale, not only in the frequency space, but also in the spatial space. In order
+to realize the efficient coupling of the multiscale phonon transport, the phonon scattering and
+advection are coupled together in the present scheme on the reconstruction of the distribution
+function at the cell interface. The Newtonian method is adopted to solve the nonlinear scattering
+term for the update of the temperature at both the cell center and interface. In addition, the energy
+at the cell center is updated by a macroscopic equation instead of taking the moment of the distribution
+function, which enhances the numerical conservation. Numerical results of the cross-plane heat
+transfer prove that the present scheme can describe the multiscale heat transfer phenomena accurately
+with arbitrary temperature difference in a wide range. In the diffusive regime, even if the time
+step is larger than the relaxation time, the present scheme can capture the transient thermal transport
+process accurately. Compared to that under small temperature differences, as the temperature
+difference increases, the variation of the temperature distribution behaves quite differently
+and the average temperature in the domain increases in the ballistic regime but decreases in the
+diffusive regime. 

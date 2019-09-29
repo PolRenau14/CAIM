@@ -1,0 +1,16 @@
+In light of the quick proliferation of Internet of things (IoT) devices and applications, fog radio
+access network (Fog-RAN) has been recently proposed for fifth generation (5G) wireless communications
+to assure the requirements of ultra-reliable low-latency communication (URLLC) for the IoT applications
+which cannot accommodate large delays. Hence, fog nodes (FNs) are equipped with computing, signal
+processing and storage capabilities to extend the inherent operations and services of the cloud
+to the edge. We consider the problem of sequentially allocating the FN's limited resources to the
+IoT applications of heterogeneous latency requirements. For each access request from an IoT user,
+the FN needs to decide whether to serve it locally utilizing its own resources or to refer it to the
+cloud to conserve its valuable resources for future users of potentially higher utility to the system
+(i.e., lower latency requirement). We formulate the Fog-RAN resource allocation problem in the
+form of a Markov decision process (MDP), and employ several reinforcement learning (RL) methods,
+namely Q-learning, SARSA, Expected SARSA, and Monte Carlo, for solving the MDP problem by learning
+the optimum decision-making policies. We verify the performance and adaptivity of the RL methods
+and compare it with the performance of a fixed-threshold-based algorithm. Extensive simulation
+results considering 19 IoT environments of heterogeneous latency requirements corroborate that
+RL methods always achieve the best possible performance regardless of the IoT environment. 

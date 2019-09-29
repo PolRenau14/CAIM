@@ -1,0 +1,17 @@
+Experimental multi-scalar measurements in laboratory flames have provided important databases
+for the validation of turbulent combustion closure models. In this work, we present a framework
+for data-based closure in turbulent combustion and establish an a priori validation of this framework.
+The approach is based on the construction of joint probability density functions (PDFs) and conditional
+statistics using experimental data based on the parameterization of the composition space using
+principal component analysis (PCA). The PCA on the data identifies key parameters, principal components
+(PCs), on which joint scalar PDFs and conditional scalar means can be constructed. To enable a generic
+implementation for the construction of joint scalar PDFs, we use the multi-dimensional kernel
+density estimation (KDE) approach. An a priori validation of the PCA-KDE approach is carried out
+using the Sandia piloted jet turbulent flames D, E and F. The analysis of the results suggests that
+a few PCs are adequate to reproduce the statistics, resulting in a low-dimensional representation
+of the joint scalars PDFs and the scalars' conditional means. A reconstruction of the scalars' means
+and RMS statistics are in agreement with the corresponding statistics extracted directly from
+the experimental data. We also propose one strategy to recover missing species and construct conditional
+means for the reaction rates based on a variation of the pairwise-mixing stirred reactor (PMSR)
+model. The model is demonstrated using numerical simulations based on the one-dimensional turbulence
+(ODT) model for the same flames. 

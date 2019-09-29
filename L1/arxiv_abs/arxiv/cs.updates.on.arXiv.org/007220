@@ -1,0 +1,16 @@
+Chance Constrained Markov Decision Processes maximize reward subject to a bounded probability
+of failure, and have been frequently applied for planning with potentially dangerous outcomes
+or unknown environments. Solution algorithms have required strong heuristics or have been limited
+to relatively small problems with up to millions of states, because the optimal action to take from
+a given state depends on the probability of failure in the rest of the policy, leading to a coupled
+problem that is difficult to solve. In this paper we examine a generalization of a CCMDP that trades
+off probability of failure against reward through a functional relationship. We derive a constraint
+that can be applied to each state history in a policy individually, and which guarantees that the
+chance constraint will be satisfied. The approach decouples states in the CCMDP, so that large problems
+can be solved efficiently. We then introduce Vulcan, which uses our constraint in order to apply
+Monte Carlo Tree Search to CCMDPs. Vulcan can be applied to problems where it is unfeasible to generate
+the entire state space, and policies must be returned in an anytime manner. We show that Vulcan and
+its variants run tens to hundreds of times faster than linear programming methods, and over ten times
+faster than heuristic based methods, all without the need for a heuristic, and returning solutions
+with a mean suboptimality on the order of a few percent. Finally, we use Vulcan to solve for a chance
+constrained policy in a CCMDP with over $10^{13}$ states in 3 minutes. 

@@ -1,0 +1,17 @@
+We study the relationship between dark-matter haloes and matter in the MIP $N$-body simulation
+ensemble, which allows precision measurements of this relationship, even deeply into voids. What
+enables this is a lack of discreteness, stochasticity, and exclusion, achieved by averaging over
+hundreds of possible sets of initial small-scale modes, while holding fixed large-scale modes
+that give the cosmic web. We find (i) that dark-matter-halo formation is greatly suppressed in voids;
+there is an exponential downturn at low densities in the otherwise power-law matter-to-halo density
+bias function. Thus, the rarity of haloes in voids is akin to the rarity of the largest clusters, and
+their abundance is quite sensitive to cosmological parameters. The exponential downturn appears
+both in an excursion-set model, and in a model in which fluctuations evolve in voids as in an open universe
+with an effective $\Omega_m$ proportional to a large-scale density. We also find that (ii) haloes
+typically populate the average halo-density field in a super-Poisson way, i.e. with a variance
+exceeding the mean; and (iii) the rank-order-Gaussianized halo and dark-matter fields are impressively
+similar in Fourier space. We compare both their power spectra and cross-correlation, supporting
+the conclusion that one is roughly a strictly-increasing mapping of the other. The MIP ensemble
+especially reveals how halo abundance varies with `environmental' quantities beyond the local
+matter density; (iv) we find a visual suggestion that at fixed matter density, filaments are more
+populated by haloes than clusters. 

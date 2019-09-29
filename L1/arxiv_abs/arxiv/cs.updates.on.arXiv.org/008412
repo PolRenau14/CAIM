@@ -1,0 +1,16 @@
+Permissioned Blockchain has become quite popular with enterprises forming consortium since it
+prioritizes trust over privacy. One of the popular platforms for distributed ledger solution,
+Hyperledger Fabric, requires a transaction to be endorsed or approved by a group known as endorsers
+as per the specifications in the endorsement policy. To endorse a transaction, an endorser mentions
+its identity along with the signature so that it can be verified. However, for certain transactions,
+difference in opinion may exist among endorsers. Disclosure of identity of endorser may lead to
+conflict within the consortium. In such cases, an endorsement policy which allows an endorser to
+support a transaction discreetly but simultaneously takes into account the decision of the majority
+is preferred. As a solution, we propose an Anonymous Endorsement System which uses a threshold endorsement
+policy. For hiding the identity of endorsers, a new ring signature scheme, called Fabric's Constant-Sized
+Linkable Ring Signature (FCsLRS) with Transaction-Oriented linkability has been proposed. We
+have implemented the signature scheme in Golang and analyzed its security and performance by varying
+the RSA modulus size. Feasibility of implementation is supported by experimental analysis. Signature
+generation and verification is quite fast, with execution time remaining constant irrespective
+of change in message length or endorsement set size for a given RSA modulus value. Lastly, we also
+discuss the integration of the scheme on v1.2 Hyperledger Fabric. 

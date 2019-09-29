@@ -1,0 +1,17 @@
+This article develops a framework for testing general hypothesis in high-dimensional models where
+the number of variables may far exceed the number of observations. Existing literature has considered
+less than a handful of hypotheses, such as testing individual coordinates of the model parameter.
+However, the problem of testing general and complex hypotheses remains widely open. We propose
+a new inference method developed around the hypothesis adaptive projection pursuit framework,
+which solves the testing problems in the most general case. The proposed inference is centered around
+a new class of estimators defined as $l_1$ projection of the initial guess of the unknown onto the
+space defined by the null. This projection automatically takes into account the structure of the
+null hypothesis and allows us to study formal inference for a number of long-standing problems.
+For example, we can directly conduct inference on the sparsity level of the model parameters and
+the minimum signal strength. This is especially significant given the fact that the former is a fundamental
+condition underlying most of the theoretical development in high-dimensional statistics, while
+the latter is a key condition used to establish variable selection properties. Moreover, the proposed
+method is asymptotically exact and has satisfactory power properties for testing very general
+functionals of the high-dimensional parameters. The simulation studies lend further support
+to our theoretical claims and additionally show excellent finite-sample size and power properties
+of the proposed test. 

@@ -1,0 +1,17 @@
+Thanks to the use of geolocated big data in computational social science research, the spatial and
+temporal heterogeneity of human activities are increasingly being revealed. Paired with smaller
+and more traditional data, this opens new ways of understanding how people act and move, and how these
+movements crystallise into the structural patterns observed by censuses. In this article we explore
+the convergence of mobile phone data with more classical socioeconomic data from census in French
+cities. We extract mobile phone indicators from six months worth of Call Detail Records (CDR) data,
+while census and administrative data are used to characterize the socioeconomic organisation
+of French cities. We address various definitions of cities and investigate how they impact the relation
+between mobile phone indicators, such as the number of calls or the entropy of visited cell towers,
+and measures of economic organisation based on census data, such as the level of deprivation, inequality
+and segregation. Our findings show that some mobile phone indicators relate significantly with
+different socioeconomic organisation of cities. However, we show that found relations are sensitive
+to the way cities are defined and delineated. In several cases, differing city definitions delineations
+can change the significance or even the signs of found correlations. In general, cities delineated
+in a restricted way (central cores only) exhibit traces of human activity which are less related
+to their socioeconomic organisation than cities delineated as metropolitan areas and dispersed
+urban regions. 

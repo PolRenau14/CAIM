@@ -1,0 +1,16 @@
+The formation and early evolution of circumstellar discs often occurs within dense, newborn stellar
+clusters. For the first time, we apply the moving-mesh code AREPO, to circumstellar discs in 3-D,
+focusing on disc-disc interactions that result from stellar fly-bys. Although a small fraction
+of stars are expected to undergo close approaches, the outcomes of the most violent encounters might
+leave an imprint on the discs and host stars that will influence both their orbits and their ability
+to form planets. We first construct well-behaved 3-D models of self-gravitating discs, and then
+create a suite of numerical experiments of parabolic encounters, exploring the effects of pericenter
+separation r_p, disc orientation and disc-star mass ratio (M_d/M_*) on the orbital evolution of
+the host stars. Close encounters (2r_p<~ disc radius) can truncate discs on very short time scales.
+If discs are massive, close encounters facilitate enough orbital angular momentum extraction
+to induce stellar capture. We find that for realistic primordial disc masses M_d<~0.1M_*, non-colliding
+encounters induce minor orbital changes, which is consistent with analytic calculations of encounters
+in the linear regime. The same disc masses produce entirely different results for grazing/colliding
+encounters. In the latter case, rapidly cooling discs lose orbital energy by radiating away the
+energy excess of the shock-heated gas, thus causing capture of the host stars into a bound orbit.
+In rare cases, a tight binary with a circumbinary disc forms as a result of this encounter. 

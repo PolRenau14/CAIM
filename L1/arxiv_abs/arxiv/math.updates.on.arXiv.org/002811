@@ -1,0 +1,16 @@
+Pseudo-Riemannian metrics with Levi-Civita connection in the projective class of a given torsion
+free affine connection can be obtained from (and are equivalent to) the maximal rank solutions of
+a certain overdetermined projectively invariant differential equation often called the metrizability
+equation. Dropping this rank assumption we study the solutions to this equation given less restrictive
+generic conditions on its prolonged system. In this setting we find that the solution stratifies
+the manifold according to the strict signature (pointwise) of the solution and does this in way that
+locally generalizes the stratification of a model, where the model is, in each case, a corresponding
+Lie group orbit decomposition of the sphere. Thus the solutions give curved generalizations of
+such embedded orbit structures. We describe the smooth nature of the strata and determine the geometries
+of each of the different strata types; this includes a metric on the open strata that becomes singular
+at the strata boundary, with the latter a type of projective infinity for the given metric. The approach
+reveals and exploits interesting highly non-linear relationships between different linear geometric
+partial differential equations. Apart from their direct significance, the results show that,
+for the metrizability equation, strong results arising for so-called normal BGG solutions, and
+the corresponding projective holonomy reduction, extend to a far wider class of solutions. The
+work also provides new results for the projective compactification of scalar-flat metrics. 

@@ -1,0 +1,16 @@
+The 'degree of k-step nilpotence' of a finite group G is the proportion of the tuples (x_1,...,x_{k+1})
+in G^{k+1} for which the simple commutator [x_1,...,x_{k+1}] is equal to the identity. In this paper
+we study versions of this for an infinite group G, with the degree of nilpotence defined by sampling
+G in various natural ways, such as with a random walk, or with a Folner sequence if G is amenable. In
+our first main result we show that if G is finitely generated then the degree of k-step nilpotence
+is positive if and only if G is virtually k-step nilpotent. This generalises both an earlier result
+of the second author treating the case k=1 and a result of Shalev for finite groups, and uses techniques
+from both of these earlier results. We also show, using the notion of polynomial mappings of groups
+developed by Leibman and others, that to a large extent the degree of nilpotence does not depend on
+the method of sampling. As part of our argument we generalise a result of Leibman by showing that if
+f is a polynomial mapping into a torsion-free nilpotent group then the set of roots of f is sparse in
+a certain sense. In our second main result we consider the case where G is residually finite but not
+necessarily finitely generated. Here we show that if the degree of k-step nilpotence of the finite
+quotients of G is uniformly bounded from below then G is virtually k-step nilpotent, answering a
+question of Shalev. As part of our proof we show that degree of nilpotence of finite groups is sub-multiplicative
+with respect to quotients, generalising a result of Gallagher. 

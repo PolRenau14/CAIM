@@ -1,0 +1,16 @@
+To help mitigate road congestion caused by the unrelenting growth of traffic demand, many transportation
+authorities have implemented managed lane policies, which restrict certain freeway lanes to certain
+types of vehicles. It was originally thought that managed lanes would improve the use of existing
+infrastructure through demand-management behaviors like carpooling, but implementations have
+often been characterized by unpredicted phenomena that are sometimes detrimental to system performance.
+The development of traffic models that can capture these sorts of behaviors is a key step for helping
+managed lanes deliver on their promised gains. Towards this goal, this paper presents an approach
+for solving for driver behavior of entering and exiting managed lanes at the macroscopic (i.e.,
+fluid approximation of traffic) scale. Our method is inspired by recent work in extending a dynamic-system-based
+modeling framework from traffic behaviors on individual roads, to models at junctions, and can
+be considered a further extension of this dynamic-system paradigm to the route/lane choice problem.
+Unlike traditional route choice models that are often based on discrete-choice methods and often
+rely on computing and comparing drivers' estimated travel times from taking different routes,
+our method is agnostic to the particular choice of physical traffic model and is suited specifically
+towards making decisions at these interfaces using only local information. These features make
+it a natural drop-in component to extend existing dynamic traffic modeling methods. 

@@ -1,0 +1,17 @@
+A common way to simulate the transport and spread of pollutants in the atmosphere is via stochastic
+Lagrangian dispersion models. Mathematically, these models describe turbulent transport processes
+with stochastic differential equations (SDEs). The computational bottleneck is the Monte Carlo
+algorithm, which simulates the motion of a large number of model particles in a turbulent velocity
+field; for each particle, a trajectory is calculated with a numerical timestepping method. Choosing
+an efficient numerical method is particularly important in operational emergency-response applications,
+such as tracking radioactive clouds from nuclear accidents or predicting the impact of volcanic
+ash clouds on international aviation, where accurate and timely predictions are essential. In
+this paper, we investigate the application of the Multilevel Monte Carlo (MLMC) method to simulate
+the propagation of particles in a representative one-dimensional dispersion scenario in the atmospheric
+boundary layer. MLMC can be shown to result in asymptotically superior computational complexity
+and reduced computational cost when compared to the Standard Monte Carlo (StMC) method, which is
+currently used in atmospheric dispersion modelling. To reduce the absolute cost of the method also
+in the non-asymptotic regime, it is equally important to choose the best possible numerical timestepping
+method on each level. To investigate this, we also compare the standard symplectic Euler method,
+which is used in many operational models, with two improved timestepping algorithms based on SDE
+splitting methods. 

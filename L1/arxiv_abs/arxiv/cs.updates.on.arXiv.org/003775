@@ -1,0 +1,16 @@
+Novel scientific knowledge is constantly produced by the scientific community. Understanding
+the level of novelty characterized by scientific literature is key for modeling scientific dynamics
+and analyzing the growth mechanisms of scientific knowledge. Metrics derived from bibliometrics
+and citation analysis were effectively used to characterize the novelty in scientific development.
+However, time is required before we can observe links between documents such as citation links or
+patterns derived from the links, which makes these techniques more effective for retrospective
+analysis than predictive analysis. In this study, we present a new approach to measuring the novelty
+of a research topic in a scientific community over a specific period by tracking semantic changes
+of the terms and characterizing the research topic in their usage context. The semantic changes
+are derived from the text data of scientific literature by temporal embedding learning techniques.
+We validated the effects of the proposed novelty metric on predicting the future growth of scientific
+publications and investigated the relations between novelty and growth by panel data analysis
+applied in a large-scale publication dataset (MEDLINE/PubMed). Key findings based on the statistical
+investigation indicate that the novelty metric has significant predictive effects on the growth
+of scientific literature and the predictive effects may last for more than ten years. We demonstrated
+the effectiveness and practical implications of the novelty metric in three case studies. 

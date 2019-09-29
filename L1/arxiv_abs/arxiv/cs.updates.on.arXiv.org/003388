@@ -1,0 +1,17 @@
+The first-ever Ukraine cyberattack on power grid has proven its devastation by hacking into their
+critical cyber assets. With administrative privileges accessing substation networks/local
+control centers, one intelligent way of coordinated cyberattacks is to execute a series of disruptive
+switching executions on multiple substations using compromised supervisory control and data
+acquisition (SCADA) systems. These actions can cause significant impacts to an interconnected
+power grid. Unlike the previous power blackouts, such high-impact initiating events can aggravate
+operating conditions, initiating instability that may lead to system-wide cascading failure.
+A systemic evaluation of "nightmare" scenarios is highly desirable for asset owners to manage and
+prioritize the maintenance and investment in protecting their cyberinfrastructure. This survey
+paper is a conceptual expansion of real-time monitoring, anomaly detection, impact analyses,
+and mitigation (RAIM) framework that emphasizes on the resulting impacts, both on steady-state
+and dynamic aspects of power system stability. Hypothetically, we associate the combinatorial
+analyses of steady state on substations/components outages and dynamics of the sequential switching
+orders as part of the permutation. The expanded framework includes (1) critical/noncritical combination
+verification, (2) cascade confirmation, and (3) combination re-evaluation. This paper ends with
+a discussion of the open issues for metrics and future design pertaining the impact quantification
+of cyber-related contingencies. 

@@ -1,0 +1,16 @@
+Li+ transport within a solid electrolyte interphase (SEI) in lithium ion batteries has challenged
+molecular dynamics (MD) studies due to limited compositional control of that layer. In recent years,
+experiments and ab initio simulations have identified dilithium ethylene dicarbonate (Li2EDC)
+as the dominant component of SEI layers. Here, we adopt a parameterized, non-polarizable MD force
+field for Li2EDC to study transport characteristics of Li+ in this model SEI layer at moderate temperatures.
+The observed correlations are consistent with recent MD results using a polarizable force field,
+suggesting that this non-polarizable model is effective for our purposes of investigating Li+
+dynamics over long time scales. Mean-squared displacements distinguish three distinct Li+ transport
+regimes in EDC ballistic, trapping, and diffusive. Compared to liquid ethylene carbonate (EC),
+the nanosecond trapping times in EDC are significantly longer and naturally decrease at higher
+temperatures. New materials developed for fast-charging Li-ion batteries should have smaller
+trapping regions. The analyses implemented in this paper can be used for testing transport of Li+
+ion in novel battery materials. Non-Gaussian features of van Hove self -correlation functions
+for Li+ in EDC, along with the mean-squared displacements, are consistent in describing EDC as a
+glassy material compared with liquid EC. Vibrational modes of Li+ ion, identified by MD, characterize
+the trapping and are further validated by electronic structure calculations. 

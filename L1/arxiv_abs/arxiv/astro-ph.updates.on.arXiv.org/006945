@@ -1,0 +1,16 @@
+Blue shifted absorption lines from highly ionised iron are seen in some high inclination X-ray binary
+systems, indicating the presence of an equatorial disc wind. This launch mechanism is under debate,
+but thermal driving should be ubiquitous. X-ray irradiation from the central source heats disc
+surface, forming a wind from the outer disc where the local escape velocity is lower than the sound
+speed. The mass loss rate from each part of the disc is determined by the luminosity and spectral shape
+of the central source. We use these together with an assumed density and velocity structure of the
+wind to predict the column density and ionisation state, then combine this with a Monte Carlo radiation
+transfer to predict the detailed shape of the absorption (and emission) line profiles. We test this
+on the persistent wind seen in the bright neutron star binary GX 13+1, with luminosity L/LEdd ~ 0.5.
+We approximately include the effect of radiation pressure because of high luminosity, and compute
+line features. We compare these to the highest resolution data, the Chandra third order grating
+spectra, which we show here for the first time. This is the first physical model for the wind in this
+system, and it succeeds in reproducing many of the features seen in the data, showing that the wind
+in GX13+1 is most likely a thermal-radiation driven wind. This approach, combined with better streamline
+structures derived from full radiation hydrodynamic simulations, will allow future calorimeter
+data to explore the detail wind structure. 

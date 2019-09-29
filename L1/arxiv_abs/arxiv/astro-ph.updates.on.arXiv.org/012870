@@ -1,0 +1,16 @@
+The PAU (Physics of the Accelerating Universe) Survey goal is to obtain photometric redshifts (photo-z)
+and Spectral Energy Distribution (SED) of astronomical objects with a resolution roughly one order
+of magnitude better than current broad band photometric surveys. To accomplish this, a new large
+field of view camera (PAUCam) has been designed, built, commissioned and is now operated at the William
+Herschel Telescope (WHT). With the current WHT Prime Focus corrector, the camera covers ~1-degree
+diameter Field of View (FoV), of which, only the inner ~40 arcmin diameter are unvignetted. The focal
+plane consists of a mosaic of 18 2k$x4k Hamamatsu fully depleted CCDs, with high quantum efficiency
+up to 1 micrometers in wavelength. To maximize the detector coverage within the FoV, filters are
+placed in front of the CCDs inside the camera cryostat (made out of carbon fiber) using a challenging
+movable tray system. The camera uses a set of 40 narrow band filters ranging from ~4500 to ~8500 Angstroms
+complemented with six standard broad-band filters, ugrizY. The PAU Survey aims to cover roughly
+100 square degrees over fields with existing deep photometry and galaxy shapes to obtain accurate
+photometric redshifts for galaxies down to i_AB~22.5, detecting also galaxies down to i_AB~24
+with less precision in redshift. With this data set we will be able to measure intrinsic alignments,
+galaxy clustering and perform galaxy evolution studies in a new range of densities and redshifts.
+Here, we describe the PAU camera, its first commissioning results and performance. 

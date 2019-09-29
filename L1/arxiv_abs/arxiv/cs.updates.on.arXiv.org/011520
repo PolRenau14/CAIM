@@ -1,0 +1,16 @@
+Docker container virtualization technology is being widely adopted in cloud computing environments
+because of its lightweight and effiency. However, it requires adequate control and management
+via an orchestrator. As a result, cloud providers are adopting the open-access Kubernetes platform
+as the standard orchestrator of containerized applications. To ensure applications' availability
+in Kubernetes, the latter uses Raft protocol's replication mechanism. Despite its simplicity,
+Raft assumes that machines fail only when shutdown. This failure event is rarely the only reason
+for a machine's malfunction. Indeed, software errors or malicious attacks can cause machines to
+exhibit Byzantine (i.e. random) behavior and thereby corrupt the accuracy and availability of
+the replication protocol. In this paper, we propose a Kubernetes multi-Master Robust (KmMR) platform
+to overcome this limitation. KmMR is based on the adaptation and integration of the BFT-SMaRt fault-tolerant
+replication protocol into Kubernetes environment. Unlike Raft protocol, BFT-SMaRt is resistant
+to both Byzantine and non-Byzantine faults. Experimental results show that KmMR is able to guarantee
+the continuity of services, even when the total number of tolerated faults is exceeded. In addition,
+KmMR provides on average a consensus time 1000 times shorter than that achieved by the conventional
+platform (with Raft), in such condition. Finally, we show that KmMR generates a small additional
+cost in terms of resource consumption compared to the conventional platform. 

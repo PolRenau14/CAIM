@@ -1,0 +1,16 @@
+We propose a preconditioner that can accelerate the rate of convergence of the Multiple Shooting
+Shadowing (MSS) method. This recently proposed method can be used to compute derivatives of time-averaged
+objectives (also known as sensitivities) to system parameter(s) for chaotic systems. We propose
+a block diagonal preconditioner, which is based on a partial singular value decomposition of the
+MSS constraint matrix. The preconditioner can be computed using matrix-vector products only (i.e.
+it is matrix-free) and is fully parallelised in the time domain. Two chaotic systems are considered,
+the Lorenz system and the 1D Kuramoto Sivashinsky equation. Combination of the preconditioner
+with a regularisation method leads to tight bracketing of the eigenvalues to a narrow range. This
+combination results in a significant reduction in the number of iterations, and renders the convergence
+rate almost independent of the number of degrees of freedom of the system, and the length of the trajectory
+that is used to compute the time-averaged objective. This can potentially allow the method to be
+used for large chaotic systems (such as turbulent flows) and optimal control applications. The
+singular value decomposition of the constraint matrix can also be used to quantify the effect of
+the system condition on the accuracy of the sensitivities. In fact, neglecting the singular modes
+affected by noise, we recover the correct values of sensitivity that match closely with those obtained
+with finite differences for the Kuramoto Sivashinsky equation in the light turbulent regime. 

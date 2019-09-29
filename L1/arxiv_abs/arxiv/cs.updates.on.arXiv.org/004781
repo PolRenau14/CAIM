@@ -1,0 +1,17 @@
+A fog-aided wireless network architecture is studied in which edge-nodes (ENs), such as base stations,
+are connected to a cloud processor via dedicated fronthaul links, while also being endowed with
+caches. Cloud processing enables the centralized implementation of cooperative transmission
+strategies at the ENs, albeit at the cost of an increased latency due to fronthaul transfer. In contrast,
+the proactive caching of popular content at the ENs allows for the low-latency delivery of the cached
+files, but with generally limited opportunities for cooperative transmission among the ENs. The
+interplay between cloud processing and edge caching is addressed from an information-theoretic
+viewpoint by investigating the fundamental limits of a high Signal-to-Noise-Ratio (SNR) metric,
+termed normalized delivery time (NDT), which captures the worst-case coding latency for delivering
+any requested content to the users. The NDT is defined under the assumptions of either serial or pipelined
+fronthaul-edge transmission, and is studied as a function of fronthaul and cache capacity constraints.
+Placement and delivery strategies across both fronthaul and wireless, or edge, segments are proposed
+with the aim of minimizing the NDT. Information-theoretic lower bounds on the NDT are also derived.
+Achievability arguments and lower bounds are leveraged to characterize the minimal NDT in a number
+of important special cases, including systems with no caching capabilities, as well as to prove
+that the proposed schemes achieve optimality within a constant multiplicative factor of 2 for all
+values of the problem parameters. 

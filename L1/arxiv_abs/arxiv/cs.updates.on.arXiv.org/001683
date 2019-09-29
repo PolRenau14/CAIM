@@ -1,0 +1,16 @@
+While the existence of low-dimensional embedding manifolds has been shown in patterns of collective
+motion, the current battery of nonlinear dimensionality reduction methods are not amenable to
+the analysis of such manifolds. This is mainly due to the necessary spectral decomposition step,
+which limits control over the mapping from the original high-dimensional space to the embedding
+space. Here, we propose an alternative approach that demands a two-dimensional embedding which
+topologically summarizes the high-dimensional data. In this sense, our approach is closely related
+to the construction of one-dimensional principal curves that minimize orthogonal error to data
+points subject to smoothness constraints. Specifically, we construct a two-dimensional principal
+manifold directly in the high-dimensional space using cubic smoothing splines, and define the
+embedding coordinates in terms of geodesic distances. Thus, the mapping from the high-dimensional
+data to the manifold is defined in terms of local coordinates. Through representative examples,
+we show that compared to existing nonlinear dimensionality reduction methods, the principal manifold
+retains the original structure even in noisy and sparse datasets. The principal manifold finding
+algorithm is applied to configurations obtained from a dynamical system of multiple agents simulating
+a complex maneuver called predator mobbing, and the resulting two-dimensional embedding is compared
+with that of a well-established nonlinear dimensionality reduction method. 

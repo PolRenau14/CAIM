@@ -1,0 +1,17 @@
+We implement our new Separation of Variables (SoV) approach for open quantum integrable models
+associated to higher rank representations of the reflection algebras. We construct the (SoV) basis
+for the fundamental representations of the $Y(gl_n)$ reflection algebra associated to general
+integrable boundary conditions. Moreover, we give the conditions on the boundary $K$-matrices
+allowing for the transfer matrix to be diagonalizable with simple spectrum. These SoV basis are
+then used to completely characterize the transfer matrix spectrum for the rank one and two reflection
+algebras. The rank one case is developed for both the rational and trigonometric fundamental representations
+of the 6-vertex reflection algebra. On the one hand, we extend the complete spectrum characterization
+to representations previously lying outside the SoV approach, e.g. those for which the standard
+Algebraic Bethe Ansatz applies. On the other hand, we show that our new SoV construction can be reduced
+to the generalized Sklyanin's one whenever it is applicable. The rank two case is developed explicitly
+for the fundamental representations of the $Y(gl_3)$ reflection algebra associated to general
+integrable boundary conditions. For both rank one and two our SoV approach leads to a complete characterization
+of the transfer matrix spectrum in terms of a set of polynomial solutions to the corresponding quantum
+spectral curve equation. Those are finite difference functional equations of order equal to the
+rank plus one, i.e., here two and three respectively for the $Y(gl_2)$ and $Y(gl_3)$ reflection
+algebras. 

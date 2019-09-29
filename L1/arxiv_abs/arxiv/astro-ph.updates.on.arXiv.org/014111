@@ -1,0 +1,17 @@
+Spin can have significant effects on the electromagnetic transients accompanying binary neutron
+star mergers. The measurement of spin can provide important information about binary formation
+channels. In the absence of a strong neutron star spin prior, the degeneracy of spin with other parameters
+leads to significant uncertainties in their estimation, in particular limiting the power of gravitational
+waves to place tight constraints on the nuclear equation of state. Thus detailed studies of highly
+spinning neutron star mergers are essential to understand all aspects of multimessenger observation
+of such events. We perform a systematic investigation of the impact of neutron star spin---considering
+dimensionless spin values up to $a_{\rm NS}=0.33$---on the merger of equal mass, quasicircular
+binary neutron stars using fully general-relativistic simulations. We find that the peak frequency
+of the post-merger gravitational wave signal is only weakly influenced by the neutron star spin,
+with cases where the spin is aligned (anti-aligned) with the orbital angular momentum giving slightly
+lower (higher) values compared to the irrotational case. We find that the one-arm instability arises
+in a number of cases, with some dependence on spin. Spin has a pronounced impact on the mass, velocity,
+and angular distribution of the dynamical ejecta, and the mass of the disk that remains outside the
+merger remnant. We discuss the implications of these findings on anticipated electromagnetic
+signals, and on constraints that have been placed on the equation of state based on multimessenger
+observations of GW170817. 

@@ -1,0 +1,16 @@
+This paper is concerned with the hard thresholding operator which sets all but the $k$ largest absolute
+elements of a vector to zero. We establish a {\em tight} bound to quantitatively characterize the
+deviation of the thresholded solution from a given signal. Our theoretical result is universal
+in the sense that it holds for all choices of parameters, and the underlying analysis depends only
+on fundamental arguments in mathematical optimization. We discuss the implications for two domains:
+Compressed Sensing. On account of the crucial estimate, we bridge the connection between the restricted
+isometry property (RIP) and the sparsity parameter for a vast volume of hard thresholding based
+algorithms, which renders an improvement on the RIP condition especially when the true sparsity
+is unknown. This suggests that in essence, many more kinds of sensing matrices or fewer measurements
+are admissible for the data acquisition procedure. Machine Learning. In terms of large-scale machine
+learning, a significant yet challenging problem is learning accurate sparse models in an efficient
+manner. In stark contrast to prior work that attempted the $\ell_1$-relaxation for promoting sparsity,
+we present a novel stochastic algorithm which performs hard thresholding in each iteration, hence
+ensuring such parsimonious solutions. Equipped with the developed bound, we prove the {\em global
+linear convergence} for a number of prevalent statistical models under mild assumptions, even
+though the problem turns out to be non-convex. 

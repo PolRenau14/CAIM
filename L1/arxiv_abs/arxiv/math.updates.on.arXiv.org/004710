@@ -1,0 +1,16 @@
+Let $(M,g)$ be a connected, compact, oriented, locally homogeneous Riemannian manifold, $K$ be
+a connected, compact Lie group, and $p:P\to M$ be a principal $K$-bundle on $M$. A connection on $P$
+will be called locally homogeneous (LH) if for every two points $x$, $x'\in M$ there exist open neighborhoods
+$U\ni x$, $U'\ni x'$ , an isometry $\varphi:U\to U'$ such that $\varphi(x)=x'$, and a $\varphi$-covering
+bundle isomorphism $\Phi:P_U\to P_{U'}$ which preserves the connection. If this condition holds,
+then $P$ can be naturally endowed with a LH metric, so the classification of LH connections on bundles
+over a given manifold $M$ is related to the classification of geometric manifolds which are fibre
+bundles over $M$. This yields a strong motivation for studying the following general classification
+problem: given a compact LH Riemannian manifold $(M,g)$, and a compact Lie group $K$, classify up
+to isomorphism, all pairs $(P,A)$ consisting of a principal $K$-bundle $P$ on $M$ and a LH connection
+$A$ on $P$. Using a general theorem stating that any LH pair $(P,A)$ on $M$ is obtained as a quotient
+of a (globally) homogeneous pair on the universal covering $\tilde M$, this problem reduces to the
+classification of homogeneous pairs on $\tilde M$. This leads naturally to moduli spaces which
+can be described explicitly. In this article, we will illustrate our general classification method,
+and describe explicitly the moduli spaces of LH connections with structure group $K=\mathrm{S}^1$,
+$\mathrm{PU}(2)$ on hyperbolic Riemann surfaces. 

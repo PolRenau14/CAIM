@@ -1,0 +1,16 @@
+The detection of gravitational waves from the binary neutron star merger GW170817, alongside its
+optical counterpart, marked the beginning of gravitational wave cosmology as it allowed for the
+first constraint on the Hubble constant $H_0$ using gravitational wave standard sirens. For the
+case where a merger does not have an optical counterpart, it is possible to pursue an analysis in which
+the gravitational wave distance estimate for each merger is combined with the redshift data from
+all the galaxies in the event's localization volume to estimate $H_0$. A Bayesian formalism has
+been developed which estimates the Hubble constant from gravitational wave events both with electromagnetic
+counterparts, and using galaxy catalogs to provide redshift information in the non-counterpart
+case. It combines these analyses to make the most of the information available. We perform a series
+of mock data challenges in order to test our implementation of this formalism, with focus on accounting
+for gravitational wave and electromagnetic selection effects. These mock data challenges use
+a simplified universe, neglecting large scale structure, peculiar velocities, and redshift uncertainties.
+Galaxy catalog incompleteness is modeled with an apparent magnitude threshold. We explore how
+the incompleteness of galaxy catalogs has an effect on the final measurement of $H_0$ as well as the
+effects of weighting each galaxy according to its luminosity. Under these assumptions we demonstrate
+that we successfully recover an unbiased estimate of $H_0$. 

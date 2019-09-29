@@ -1,0 +1,16 @@
+Variability on the external conditions, such as temperature, humidity, pH, available nutrients,
+etc., has important consequences for the dynamics and organization of communities of living systems.
+In many cases, the characteristic timescale of environmental changes and their correlations play
+a fundamental role in the way living systems adapt and respond to it. Thus, a proper mathematical
+modeling requires of approaches more refined than e.g. simple white-noise approximations to population
+dynamics. In this paper, we propose a unifying framework based on different analytical and numerical
+tools available to deal with "colored" noise. For the sake of specificity, we present the method
+we have devised using --as a guideline-- a variation of the contact process, where the propagation
+rate varies stochastically in time. This approach allows us to tackle in a systematic manner some
+of the relevant questions concerning population dynamics under environmental variability such
+as, for instance, determining the stationary population density, establishing the conditions
+under which a population may become extinct, and estimating extinction times. These questions
+are fundamental, for example, in the context of population ecology and epidemiology, as they provide
+valuable information for the maintenance of biodiversity or the eradication spreading diseases.
+We shed light onto these questions, putting the focus on the emerging phase diagram and the possible
+phase transitions, underlying how these change with respect to the noiseless case. 

@@ -1,0 +1,17 @@
+Let $f$ be a transcendental entire function, and let $U,V\subset\mathbb{C}$ be disjoint simply-connected
+domains. Must one of $f^{-1}(U)$ and $f^{-1}(V)$ be disconnected? In 1970, Baker implicitly gave
+a positive answer to this question, in order to prove that a transcendental entire function cannot
+have two disjoint completely invariant domains. (A domain $U\subset \mathbb{C}$ is completely
+invariant under $f$ if $f^{-1}(U)=U$.) It was recently observed by Julien Duval that there is a flaw
+in Baker's argument (which has also been used in later generalisations and extensions of Baker's
+result). We show that the answer to the above question is negative; so this flaw cannot be repaired.
+Indeed, there is a transcendental entire function $f$ for which there are infinitely many pairwise
+disjoint simply-connected domains $(U_i)_{i=1}^{\infty}$, such that each $f^{-1}(U_i)$ is
+connected. In fact, this is the case for $f(z) = e^z+z$. We also answer a long-standing question of
+Eremenko by giving an example of a transcendental entire function, with infinitely many poles,
+which has the same property. Furthermore, we show that there exists a function $f$ with the above
+properties such that additionally the set of singular values $S(f)$ is bounded; in other words,
+$f$ belongs to the Eremenko-Lyubich class. On the other hand, if $S(f)$ is finite (or if certain additional
+hypotheses are imposed), many of the original results do hold. For the convenience of the research
+community, we also include a description of the error in the proof of Baker's paper, and a summary
+of other papers that are affected. 

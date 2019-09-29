@@ -1,0 +1,17 @@
+This paper proposes a constrained stochastic successive convex approximation (CSSCA) algorithm
+to find a stationary point for a general non-convex stochastic optimization problem, whose objective
+and constraint functions are non-convex and involve expectations over random states. Most existing
+methods for non-convex stochastic optimization, such as the stochastic (average) gradient and
+stochastic majorization-minimization, only consider minimizing a stochastic non-convex objective
+over a deterministic convex set. The proposed CSSCA algorithm can also handle stochastic non-convex
+constraints in optimization problems, and it opens the way to solving more challenging optimization
+problems that occur in many applications. The algorithm is based on solving a sequence of convex
+objective/feasibility optimization problems obtained by replacing the objective/constraint
+functions in the original problems with some convex surrogate functions. The CSSCA algorithm allows
+a wide class of surrogate functions and thus provides many freedoms to design good surrogate functions
+for specific applications. Moreover, it also facilitates parallel implementation for solving
+large scale stochastic optimization problems, which arise naturally in today's signal processing
+such as machine learning and big data analysis. We establish the convergence of CSSCA algorithm
+with a feasible initial point, and customize the algorithmic framework to solve several important
+application problems. Simulations show that the CSSCA algorithm can achieve superior performance
+over existing solutions. 

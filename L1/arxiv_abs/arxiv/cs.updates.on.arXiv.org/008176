@@ -1,0 +1,16 @@
+Gradient Boosting Machine (GBM) introduced by Friedman is an extremely powerful supervised learning
+algorithm that is widely used in practice -- it routinely features as a leading algorithm in machine
+learning competitions such as Kaggle and the KDDCup. In spite of the usefulness of GBM in practice,
+there is a big gap between its theoretical understanding and its success in practice. In this work,
+we propose Randomized Gradient Boosting Machine (RGBM) which leads to significant computational
+gains compared to GBM, by using a randomization scheme to reduce the search in the space of weak learners.
+Our analysis provides a formal justification of commonly used ad hoc heuristics employed by GBM
+implementations such as XGBoost, and suggests alternatives. In particular, we also provide a principled
+guideline towards better step-size selection in RGBM that does not require a line search. The analysis
+of RGBM is inspired by a special variant of coordinate descent that combines the benefits of randomized
+coordinate descent and greedy coordinate descent; and may be of independent interest as an optimization
+algorithm. As a special case, our results for RGBM lead to superior computational guarantees for
+GBM. Our computational guarantees depend upon a curious geometric quantity that we call Minimal
+Cosine Angle, which relates to the density of weak learners in the prediction space. We demonstrate
+the effectiveness of RGBM over GBM in terms of obtaining a model with good training/test data fidelity
+with a fraction of the computational cost, via numerical experiments on several real datasets.

@@ -1,0 +1,16 @@
+A solar active region (AR) that produces at least one M- or X-class major flare tends to produce multiple
+flares during its passage across the solar disk. It will be interesting if we can estimate how flare-productive
+a given major flaring AR is for a time interval of several days, by investigating time series of its
+photospheric magnetic field properties. For this, we studied 93 major flaring ARs observed from
+2010 to 2016 by the Helioseismic and Magnetic Imager (HMI) on board the Solar Dynamics Observatory
+(SDO). More specifically, for each AR under study, the mean and fluctuation were calculated from
+an 8-day time series of each of 18 photospheric magnetic parameters extracted from the Space-weather
+HMI Active Region Patch (SHARP) vector magnetogram products at 12-min cadence. We then compared
+these with the AR's 8-day flare index, which is defined as the sum of soft X-ray peak fluxes of flares
+produced in the AR during the same interval of the 8-day SHARP parameter time series. As a result,
+it is found that the 8-day flare index is well correlated with the mean and/or fluctuation values
+of some magnetic parameters (with correlation coefficients of 0.6-0.7 in log-log space). Interestingly,
+the 8-day flare index shows a slightly better correlation with the fluctuation than the mean for
+the SHARP parameters associated with the surface integral of photospheric magnetic free energy
+density. We also discuss how the correlation varies if the 8-day flare index is compared with the
+mean or fluctuation calculated from an initial portion of the SHARP parameter time series. 

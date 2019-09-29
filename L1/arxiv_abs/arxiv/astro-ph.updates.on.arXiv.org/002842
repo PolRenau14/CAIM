@@ -1,0 +1,16 @@
+NGC 6819 is a richly populated, older open cluster situated within the Kepler field. A CCD survey
+of the cluster on the uvbyCaHbeta system, coupled with proper-motion membership, has been used
+to isolate 382 highly probable, single-star unevolved main-sequence members over a 20-arcminute
+field centered on the cluster. From 278 F dwarfs with high precision photometry in all indices, a
+mean reddening of E(b-y) = 0.117 +/- 0.005 or E(B-V) = 0.160 +/- 0.007 is derived, where the standard
+errors of the mean include both internal errors and the photometric zero-point uncertainty. With
+the reddening fixed, the metallicity derived from the same 278 stars is [Fe/H] = -0.116 +/- 0.101
+from m_1 and -0.055 +/- 0.033 from hk, for a weighted average of [Fe/H] = -0.06 +/- 0.04, where the quoted
+standard errors of the mean values include the internal errors from the photometric scatter plus
+the uncertainty in the photometric zero points. If metallicity is derived using individual reddening
+values for each star to account for potential reddening variation across the face of the cluster,
+the analogous result is unchanged. The cluster members at the turnoff of the color-magnitude diagram
+are used to test and confirm the recently discovered variation in reddening across the face of the
+cluster, with a probable range in the variation of Delta[E(B-V)] = 0.045 +/-0.015. With the slightly
+higher reddening and lower [Fe/H] compared to commonly adopted values, isochrone fitting leads
+to an age of 2.3 +/- 0.2 Gyr for an apparent modulus of (m-M) = 12.40 +/-0.12. 

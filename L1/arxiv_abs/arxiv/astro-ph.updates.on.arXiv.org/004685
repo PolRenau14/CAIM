@@ -1,0 +1,16 @@
+The star-forming efficiency of dense gas is thought to be set within cores by outflow and radiative
+feedback. We use magneto-hydrodynamic simulations to investigate the relation between protostellar
+outflow evolution, turbulence and star formation efficiency. We model the collapse and evolution
+of isolated dense cores for $\gtrsim$ 0.5 Myr including the effects of turbulence, radiation transfer,
+and both radiation and outflow feedback from forming protostars. We show that outflows drive and
+maintain turbulence in the core environment even with strong initial fields. The star-formation
+efficiency decreases with increasing field strength, and the final efficiencies are $15-40$\%.
+The Stage 0 lifetime, during which the protostellar mass is less than the dense envelope, increases
+proportionally with the initial magnetic field strength and ranges from $\sim 0.1-0.4$ Myr. The
+average accretion rate is well-represented by a tapered turbulent core model, which is a function
+of the final protostellar mass and is independent of the magnetic field strength. By tagging material
+launched in the outflow, we demonstrate that the outflow entrains about $3$ times the actual launched
+gas mass, a ratio that remains roughly constant in time regardless of the initial magnetic field
+strength. However, turbulent driving increases for stronger fields since momentum is more efficiently
+imparted to non-outflow material. The protostellar outflow momentum is highest during the first
+0.1 Myr and declines thereafter by a factor of $\gtrsim 10$ as the accretion rate diminishes. 

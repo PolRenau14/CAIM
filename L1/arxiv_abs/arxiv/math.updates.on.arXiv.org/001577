@@ -1,0 +1,16 @@
+For a function defined on a convex set in a Euclidean space, midpoint convexity is the property requiring
+that the value of the function at the midpoint of any line segment is not greater than the average of
+its values at the endpoints of the line segment. Midpoint convexity is a well-known characterization
+of ordinary convexity under very mild assumptions. For a function defined on the integer lattice,
+we consider the analogous notion of discrete midpoint convexity, a discrete version of midpoint
+convexity where the value of the function at the (possibly noninteger) midpoint is replaced by the
+average of the function values at the integer round-up and round-down of the midpoint. It is known
+that discrete midpoint convexity on all line segments with integer endpoints characterizes L$^{\natural}$-convexity,
+and that it characterizes submodularity if we restrict the endpoints of the line segments to be at
+$\ell_\infty$-distance one. By considering discrete midpoint convexity for all pairs at $\ell_\infty$-distance
+equal to two or not smaller than two, we identify new classes of discrete convex functions, called
+local and global discrete midpoint convex functions, which are strictly between the classes of
+L$^{\natural}$-convex and integrally convex functions, and are shown to be stable under scaling
+and addition. Furthermore, a proximity theorem, with the same small proximity bound as that for
+L$^{\natural}$-convex functions, is established for discrete midpoint convex functions. Relevant
+examples of classes of local and global discrete midpoint convex functions are provided. 

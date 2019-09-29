@@ -1,0 +1,16 @@
+Accretion of matter onto central Black Holes (BHs) in galaxies liberates enormous amounts of feedback
+energy, which influence the formation and evolution of structures, affecting the environment
+from pc to Mpc scales. These BHs are usually Supermassive BHs (SMBHs: mass $\geq 10^6 M_{\odot}$)
+existing at the centers of active galactic nuclei (AGN), which are widely observed through their
+multi-wavelength emission at all cosmic epochs. The SMBH energy output is often observed as powerful
+AGN outflows in a wide variety of forms. Relatively recently, Intermediate-Mass BHs (IMBHs: mass
+= $100 - 10^6 M_{\odot}$) have started to be observed hosted in Dwarf Galaxy (DG) centers. Some of
+the central IMBHs in DGs show signatures of activity in the form of low-luminosity AGN. We have performed
+Cosmological Hydrodynamical Simulations to probe SMBHs in high-z quasars (Barai et al. 2018),
+and IMBHs in DGs (Barai & de Gouveia Dal Pino 2019). Our simulations employ the 3D TreePM SPH code GADGET-3,
+and include metal cooling, star formation, chemical enrichment, stellar evolution, supernova
+feedback, AGN accretion and feedback. Analyzing the simulation output in post-processing, we
+investigate the growth of the first IMBHs, and the growth of the first SMBHs, their impact on star-formation,
+as well as their co-evolution with the respective host galaxies. We quantify the impact of SMBHs
+and IMBHs on their host galaxies, especially the effects on quenching star-formation. We also study
+the corresponding BH outflow properties. 

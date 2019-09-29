@@ -1,0 +1,17 @@
+In this paper, novel methods are presented to measure the optical properties of muon detectors (MDs)
+in the Large High-Altitude Air Shower Observatory (LHAASO), which can also be used by other experiments.
+Each MD consists of a cylindrical water Cherenkov detector, with a Tyvek liner containing pure water,
+and a photomultiplier tube (PMT) mounted on the top. The time distribution of the photons collected
+by the PMT in the water Cherenkov detector have an approximately exponential distribution, and
+their decay factor is determined by the photon absorption length in the water, the reflectivity
+of the inner Tyvek surface, the mean reflecting step length of photons reflected by the inner surface,
+and the ratio of reflectional Tyvek area to the total inner surface area. By considering the principles
+of photon propagation in the water Cherenkov detector, we have developed novel methods to measure
+the water absorption length, the Tyvek reflectivity, and the mean step length of photons. The step
+length of photons can be determined by measuring the time distribution of the reflected photons
+hitting the PMT after multiple photons with single wavelength are generated in the tank, with slightly
+different ratios of the inner Tyvek to the total inner area. The water absorption length and Tyvek
+reflectivity can be measured simultaneously by the PMT by changing the height of the water, while
+the step length and Tyvek reflectivity in air can also be measured simultaneously. The proposed
+novel methods are supported by deduction of formulae and verified by GEANT4 simulations and the
+prototype experiment. 

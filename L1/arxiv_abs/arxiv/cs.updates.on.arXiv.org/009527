@@ -1,0 +1,16 @@
+This paper deals with distributed reinforcement learning (DRL), which involves a central controller
+and a group of learners. In particular, two DRL settings encountered in several applications are
+considered: multi-agent reinforcement learning (RL) and parallel RL, where frequent information
+exchanges between the learners and the controller are required. For many practical distributed
+systems, however, such as those involving parallel machines for training deep RL algorithms, and
+multi-robot systems for learning the optimal coordination strategies, the overhead caused by
+these frequent communication exchanges is considerable, and becomes the bottleneck of the overall
+performance. To address this challenge, a novel policy gradient method is developed here to cope
+with such communication-constrained DRL settings. The proposed approach reduces the communication
+overhead without degrading learning performance by adaptively skipping the policy gradient communication
+during iterations. It is established analytically that i) the novel algorithm has convergence
+rate identical to that of the plain-vanilla policy gradient for DRL; while ii) if the distributed
+computing units are heterogeneous in terms of their reward functions and initial state distributions,
+the number of communication rounds needed to achieve a desirable learning accuracy is markedly
+reduced. Numerical experiments on a popular multi-agent RL benchmark corroborate the significant
+communication reduction attained by the novel algorithm compared to alternatives. 

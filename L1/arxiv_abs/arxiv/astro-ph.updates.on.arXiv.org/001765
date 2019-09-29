@@ -1,0 +1,16 @@
+The Grism Lens-Amplified Survey from Space (GLASS) is a Hubble Space Telescope (HST) Large Program,
+which will obtain 140 orbits of grism spectroscopy of the core and infall regions of 10 galaxy clusters,
+selected to be among the very best cosmic telescopes. Extensive HST imaging is available from many
+sources including the CLASH and Frontier Field programs. We introduce the survey by analyzing spectra
+of faint multiply-imaged galaxies and $z\gtrsim6$ galaxy candidates obtained from the first seven
+orbits targeting the core of the Frontier Field cluster MACS0717.5+3745. Using the G102 and G141
+grisms to cover the wavelength range 0.8-1.7$\mu$m, we confirm 4 strongly lensed systems by detecting
+emission lines in each of the images. For the 9 $z\gtrsim6$ galaxy candidates clear from contamination,
+we do not detect any emission line down to a 1-$\sigma$ noise level of $\sim$5$\times$10$^{-18}$
+erg/s/cm$^2$. Taking lensing magnification into account, our flux sensitivity reaches $\sim$0.2-5$\times$10$^{-18}$
+erg/s/cm$^2$. These limits over an uninterrupted wavelength range rule out the possibility that
+the high-$z$ galaxy candidates are instead strong line emitters at lower redshift. These results
+show that by means of careful modeling of the background - and with the assistance of lensing magnification
+- interesting flux limits can be reached for large numbers of objects, avoiding pre-selection and
+the wavelength restrictions inherent to ground-based multi-slit spectroscopy. These observations
+confirm the power of slitless HST spectroscopy even in fields as crowded as a cluster core. 

@@ -1,0 +1,17 @@
+In this paper, we develop a non-singular continuum theory of point defects based on a second strain
+gradient elasticity theory, the so-called gradient elasticity of bi-Helmholtz type. Such a generalized
+continuum theory possesses a weak nonlocal character with two internal material lengths and provides
+a mechanics of defects without singularities. Gradient elasticity of bi-Helmholtz type gives
+a natural and physical regularization of the classical singularities of defects, based on higher
+order partial differential equations. Point defects embedded in an isotropic solid are considered
+as eigenstrain problem in gradient elasticity of bi-Helmholtz type. Singularity-free fields
+of point defects are presented. The displacement field as well as the first, the second and the third
+gradients of the displacement are derived and it is shown that the classical singularities are regularized
+in this framework. This model delivers non-singular expressions for the displacement field, the
+first displacement gradient and the second displacement gradient. Moreover, the plastic distortion
+(eigendistortion) and the gradient of the plastic distortion of a dilatation centre are also non-singular
+and are given in terms of a form factor (shape function) of a point defect. Singularity-free expressions
+for the interaction energy and the interaction force between two dilatation centres and for the
+interaction energy and the interaction force of a dilatation centre in the stress field of an edge
+dislocation are given. The results are applied to calculate the finite self-energy of a dilatation
+centre. 

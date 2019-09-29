@@ -1,0 +1,17 @@
+The large-scale focusing inversion of gravity and magnetic potential field data using $L_1$-norm
+regularization is considered. The use of the randomized singular value decomposition methodology
+facilitates tackling the computational challenge that arises in the solution of these large-scale
+inverse problems. As such the powerful randomized singular value decomposition is used for the
+numerical solution of all linear systems required in the algorithm. A comprehensive comparison
+of the developed methodology for the inversion of magnetic and gravity data is presented. These
+results indicate that there is generally an important difference between the gravity and magnetic
+inversion problems. Specifically, the randomized singular value decomposition is dependent
+on the generation of a rank $q$ approximation to the underlying model matrix, and the results demonstrate
+that $q$ needs to be larger, for equivalent problem sizes, for the magnetic problem as compared to
+the gravity problem. Without a relatively large $q$ the dominant singular values of the magnetic
+model matrix are not well-approximated. The comparison also shows how the use of the power iteration
+embedded within the randomized algorithm is used to improve the quality of the resulting dominant
+subspace approximation, especially in magnetic inversion, yielding acceptable approximations
+for smaller choices of $q$. The price to pay is the trade-off between approximation accuracy and
+computational cost. The algorithm is applied for the inversion of magnetic data obtained over a
+portion of the Wuskwatim Lake region in Manitoba, Canada 

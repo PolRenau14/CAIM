@@ -1,0 +1,16 @@
+We look at estimates for the Green's function of time-fractional evolution equations of the form
+$D^{\nu}_{0+*} u = Lu$, where $D^{\nu}_{0+*}$ is a Caputo-type time-fractional derivative, depending
+on a L\'evy kernel $\nu$ with variable coefficients, which is comparable to $y^{-1-\beta}$ for
+$\beta \in (0, 1)$, and $L$ is an operator acting on the spatial variable. First, we obtain global
+two-sided estimates for the Green's function of $D^{\beta}_0 u = Lu$ in the case that $L$ is a second
+order elliptic operator in divergence form. Secondly, we obtain global upper bounds for the Green's
+function of $D^{\beta}_0 u=\Psi(-i\nabla)u$ where $\Psi$ is a pseudo-differential operator
+with constant coefficients that is homogeneous of order $\alpha$. Thirdly, we obtain local two-sided
+estimates for the Green's function of $D^{\beta}_0 u = Lu$ where $L$ is a more general non-degenerate
+second order elliptic operator. Finally we look at the case of stable-like operator, extending
+the second result from a constant coefficient to variable coefficients. In each case, we also estimate
+the spatial derivatives of the Green's functions. To obtain these bounds we use a particular form
+of the Mittag-Leffler functions, which allow us to use directly known estimates for the Green's
+functions associated with $L$ and $\Psi$, as well as estimates for stable densities. These estimates
+then allow us to estimate the solutions to a wide class of problems of the form $D^{(\nu, t)}_0 u = Lu$,
+where $D^{(\nu, t)}$ is a Caputo-type operator with variable coefficients. 

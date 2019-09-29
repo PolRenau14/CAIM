@@ -1,0 +1,17 @@
+This paper presents a successful application of deep learning for object recognition based on acoustic
+data. The shortcomings of previously employed approaches where handcrafted features describing
+the acoustic data are being used, include limiting the capability of the found representation to
+be widely applicable and facing the risk of capturing only insignificant characteristics for a
+task. In contrast, there is no need to define the feature representation format when using multilayer/deep
+learning architecture methods: features can be learned from raw sensor data without defining discriminative
+characteristics a-priori. In this paper, stacked denoising autoencoders are applied to train
+a deep learning model. Knocking each object in our test set 120 times with a marker pen to obtain the
+auditory data, thirty different objects were successfully classified in our experiment and each
+object was knocked 120 times by a marker pen to obtain the auditory data. By employing the proposed
+deep learning framework, a high accuracy of 91.50% was achieved. A traditional method using handcrafted
+features with a shallow classifier was taken as a benchmark and the attained recognition rate was
+only 58.22%. Interestingly, a recognition rate of 82.00% was achieved when using a shallow classifier
+with raw acoustic data as input. In addition, we could show that the time taken to classify one object
+using deep learning was far less (by a factor of more than 6) than utilizing the traditional method.
+It was also explored how different model parameters in our deep architecture affect the recognition
+performance. 

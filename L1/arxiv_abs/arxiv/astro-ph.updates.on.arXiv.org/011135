@@ -1,0 +1,16 @@
+This paper investigates the growth of the most massive cosmological objects. We utilize the Simsilun
+simulation, which is based on the approximation of the silent universe. In the limit of spatial homogeneity
+and isotropy the silent universes reduce to the standard FLRW models. We show that within the approximation
+of the silent universe the formation of the most massive cosmological objects differs from the standard
+background-dependent approaches. For objects with masses above $10^{15} M_\odot$ the effect
+of spatial curvature (overdense regions are characterized by positive spatial curvature) leads
+to measurable effects. The effect is analogous to the effect that the background cosmological model
+has on the formation of these objects (i.e. the higher matter density and spatial curvature the faster
+the growth of cosmic structures). We measure this by the means of the mass function and show that the
+mass function obtained from the Simsilun simulation has a higher amplitude at the high-mass end
+compared to standard mass function such as the Press-Schechter or the Tinker mass function. For
+comparison, we find that the expected mass of most massive objects using the Tinker mass function
+is $4.4^{+0.8}_{-0.6} \, \times 10^{15} M_\odot$, whereas for the Simsilun simulation is $6.3^{+1.0}_{-0.8}
+\, \times 10^{15} M_\odot$. We conclude that the nonlinear relativistic effects could affect the
+formation of the most massive cosmological objects, leading to a relativistic environment-dependence
+of the growth rate of the most massive clusters. 

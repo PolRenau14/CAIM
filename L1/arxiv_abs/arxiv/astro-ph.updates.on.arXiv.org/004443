@@ -1,0 +1,17 @@
+In this paper we study the morphological properties of spiral galaxies, including measurements
+of spiral arm number and pitch angle. Using Galaxy Zoo 2, a stellar mass-complete sample of 6,222
+SDSS spiral galaxies is selected. We use the machine vision algorithm SpArcFiRe to identify spiral
+arm features and measure their associated geometries. A support vector machine classifier is employed
+to identify reliable spiral features, with which we are able to estimate pitch angles for half of
+our sample. We use these machine measurements to calibrate visual estimates of arm tightness, and
+hence estimate pitch angles for our entire sample. The properties of spiral arms are compared with
+respect to various galaxy properties. The star formation properties of galaxies vary significantly
+with arm number, but not pitch angle. We find that galaxies hosting strong bars have spiral arms substantially
+($4-6^\mathrm{o}$) looser than unbarred galaxies. Accounting for this, spiral arms associated
+with many-arm structures are looser (by 2$^\mathrm{o}$) than those in two-arm galaxies. In contrast
+to this average trend, galaxies with greater bulge-to-total stellar mass ratios display both fewer
+and looser spiral arms. This effect is primarily driven by the galaxy disc, such that galaxies with
+more massive discs contain more spiral arms with tighter pitch angles. This implies that galaxy
+central mass concentration is not the dominant cause of pitch angle and arm number variations between
+galaxies, which in turn suggests that not all spiral arms are governed by classical density waves
+or modal theories. 

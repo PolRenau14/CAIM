@@ -1,0 +1,16 @@
+Context. The early-type binary MY Cam belongs to the young open cluster Alicante 1, embedded in Cam
+OB3. Aims. MY Cam consists of two early-O type main-sequence stars and shows a photometric modulation
+suggesting an orbital period slightly above one day. We intend to confirm this orbital period and
+derive orbital and stellar parameters. Methods. Timing analysis of a very exhaustive (4607 points)
+light curve indicates a period of 1.1754514 +- 0.0000015 d. High- resolution spectra and the cross-correlation
+technique implemented in the TODCOR program were used to derive radial velocities and obtain the
+corresponding radial velocity curves for MY Cam. Modelling with the stellar atmosphere code FASTWIND
+was used to obtain stellar parameters and create templates for cross-correlation. Stellar and
+orbital parameters were derived using the Wilson-Devinney code, such that a complete solution
+to the binary system could be described. Results. The determined masses of the primary and secondary
+stars in MY Cam are 37.7 +- 1.6 and 31.6 +- 1.4 Msol, respectively. The corresponding temperatures,
+derived from the model atmosphere fit, are 42 000 and 39 000 K, with the more massive component being
+hotter. Both stars are overfilling their Roche lobes, sharing a common envelope. Conclusions.
+MY Cam contains the most massive dwarf O-type stars found so far in an eclipsing binary. Both components
+are still on the main sequence, and probably not far from the zero-age main sequence. The system is
+a likely merger progenitor, owing to its very short period. 

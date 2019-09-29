@@ -1,0 +1,17 @@
+In a variety of fields, in particular those involving imaging and optics, we often measure signals
+whose phase is missing or has been irremediably distorted. Phase retrieval attempts to recover
+the phase information of a signal from the magnitude of its Fourier transform to enable the reconstruction
+of the original signal. Solving the phase retrieval problem is equivalent to recovering a signal
+from its auto-correlation function. In this paper, we assume the original signal to be sparse; this
+is a natural assumption in many applications, such as X-ray crystallography, speckle imaging and
+blind channel estimation. We propose an algorithm that resolves the phase retrieval problem in
+three stages: i) we leverage the finite rate of innovation sampling theory to super-resolve the
+auto-correlation function from a limited number of samples, ii) we design a greedy algorithm that
+identifies the locations of a sparse solution given the super-resolved auto-correlation function,
+iii) we recover the amplitudes of the atoms given their locations and the measured auto-correlation
+function. Unlike traditional approaches that recover a discrete approximation of the underlying
+signal, our algorithm estimates the signal on a continuous domain, which makes it the first of its
+kind. Along with the algorithm, we derive its performance bound with a theoretical analysis and
+propose a set of enhancements to improve its computational complexity and noise resilience. Finally,
+we demonstrate the benefits of the proposed method via a comparison against Charge Flipping, a notable
+algorithm in crystallography. 

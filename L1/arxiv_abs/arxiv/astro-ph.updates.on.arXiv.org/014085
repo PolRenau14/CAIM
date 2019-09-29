@@ -1,0 +1,16 @@
+We present a convenient, all-in-one framework for the scientific analysis of fully reduced, (integral-field)
+spectroscopic data. The GIST pipeline (Galaxy IFU Spectroscopy Tool) is entirely written in Python3
+and conducts all steps from the preparation of input data, over the scientific analysis to the production
+of publication-quality plots. In its basic setup, it extracts stellar kinematics, performs an
+emission-line analysis and derives stellar population properties from full spectral fitting
+as well as via the measurement of absorption line-strength indices by exploiting the well-known
+pPXF and GandALF routines, where the latter has now been implemented in Python. The pipeline is not
+specific to any instrument or analysis technique and provides easy means of modification and further
+development, as of its modular code architecture. An elaborate, Python-native parallelisation
+is implemented and tested on various machines. The software further features a dedicated visualization
+routine with a sophisticated graphical user interface. This allows an easy, fully-interactive
+plotting of all measurements, spectra, fits, and residuals, as well as star formation histories
+and the weight distribution of the models. The pipeline has successfully been applied to both low
+and high-redshift data from MUSE, PPAK (CALIFA), and SINFONI, as well as to simulated data for HARMONI@ELT
+and WEAVE and is currently being used by the TIMER, Fornax3D, and PHANGS collaborations. We demonstrate
+its capabilities by applying it to MUSE TIMER observations of NGC 1433. 

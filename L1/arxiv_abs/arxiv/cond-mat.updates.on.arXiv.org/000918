@@ -1,0 +1,16 @@
+The zero-temperature angles of magnetic moments in a helix or sinusoidal fan confined to the xy plane,
+with respect to an in-plane magnetic field Hx applied perpendicular to the z axis of a helix or fan,
+are calculated for commensurate helices and fans with field-independent turn angles kd between
+moments in adjacent layers of the helix or fan using the classical J0-J1-J2 Heisenberg model. For
+0 < kd < $4\pi/9$, first-order transitions from helix to a fan structure occur at fields Ht as previously
+inferred, where the fan is found to be approximately sinusoidal. However, for $4 \pi/9$ < kd < $\pi$,
+different behaviors are found depending on the value of kd and these properties vary nonmonotonically
+with kd. In this kd range, the change from helix to fanlike structure is usually a crossover with no
+phase transition between them, although first-order and second order transitions are found. We
+also calculated the average x-axis moment per spin $\mu_{x ave}$ versus Hx for helices and fans with
+crossovers and phase transitions between them. When smooth helix to fanlike crossovers occur in
+the range $4\pi/9$ < kd < $\pi$, $\mu_{x ave}$ exhibits an S-shape behavior with increasing Hx. This
+predicted behavior is consistent with $\mu_{x ave}$(Hx) data previously reported by Sangeetha,
+et al. [Phys. Rev. B 94, 014422 (2016)] for single-crystal EuCo2P2 possessing a helix ground state
+with kd = $0.85\pi$. The low-field magnetic susceptibility and the ratio Ht/Hc are calculated analytically
+or numerically versus kd for helices. 

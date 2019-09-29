@@ -1,0 +1,17 @@
+Highly concentrated or 'dense" particle suspensions can undergo a sharp increase in viscosity,
+or shear thickening, under applies stress. Understanding the fundamental features leading to
+such rheological changes in dense suspensions is crucial to optimize flow conditions or to design
+flow modifiers for slurry processing. While local changes to the particle environment under an
+applied shear can be related to changes in viscosity, there is a broader need to connect the shear
+thickening transition to the fundamental organization of particle-interaction forces which
+lead to long-range organization. In particular, at a high volume fraction of particles, recent
+evidence indicates frictional forces between contacting particles is of importance. Herein,
+the network of frictional contact forces is analyzed within simulated two-dimensional shear thickening
+suspensions. Two topological metrics are studied to characterize the response of the contact force
+network (CFN) under varying applied shear stress. The metrics, geodesic index and the void parameter,
+reflect complementary aspects of the CFN: one is the connectedness of the contact network and the
+second is the distribution of spatial areas devoid of particle-particle contacts. Considered
+in relation to the variation of the viscosity, the topological metrics show that the network grows
+homogeneously at large scales but with many local regions devoid of contacts, indicating clearly
+the role of stress chain growth in causing the large change in the rheological response at the shear
+thickening transition. 

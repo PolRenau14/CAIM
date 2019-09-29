@@ -1,0 +1,17 @@
+Several analytical forms of cloud particle size distributions (PSDs) have been used in numerical
+modeling and remote sensing retrieval studies of clouds and precipitation, including exponential,
+gamma, lognormal, and Weibull distributions. However, there is no satisfying physical explanation
+as to why certain distribution forms preferentially occur instead of others. Theoretically, the
+analytical form of a PSD can be derived by directly solving the general dynamic equation, but no analytical
+solutions have been found yet. Instead of a process level approach, the use of the principle of maximum
+entropy (MaxEnt) for determining the analytical form of PSDs from the perspective of system is examined
+here. MaxEnt theory states that the probability density function with the largest information
+entropy among a group satisfying the given properties of the variable should be chosen. Here, the
+issue of variability under coordinate transformations that arises using the Gibbs/Shannon definition
+of entropy is identified, and the use of the concept of relative entropy to avoid these problems is
+discussed. Focusing on cloud physics, the four-parameter generalized gamma distribution is proposed
+as the analytical form of a PSD using the principle of maximum (relative) entropy with assumptions
+on power law relations between state variables, scale invariance and a further constraint on the
+expectation of one state variable (e.g. bulk water mass). The four parameter generalized gamma
+distribution is very flexible to accommodate various type of constraints that could be assumed
+for cloud PSDs. 

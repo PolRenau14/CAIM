@@ -1,0 +1,16 @@
+We present analytic expressions for the cosmic string unequal time correlator (UETC) in the context
+of the Unconnected Segment Model (USM). This eliminates the need to simulate the many thousands
+of network realisations needed to estimate the UETC numerically. With our approach we can compute
+the UETC very accurately, over all scales of interest, in the order of ~20-30 seconds on a single CPU.
+Our formalism facilitates an efficient approach to computing Cosmic Microwave Background (CMB)
+anisotropies for cosmic strings. Discretising the UETC and performing an eigen-decomposition
+to act as sources in the CAMB CMB code, the power spectrum can be calculated by summing over a finite
+number of eigenmodes. A much smaller number of eigenmodes are required compared to the conventional
+approach of averaging power spectra over a finite number of realisations of the string network.
+With the additional efficiency and performance improvements offered by the OpenMP CAMB code, the
+time required to compute string power spectra is significantly reduced compared to the standard
+serial CMBACT code. The latter takes ~30 hours on a modern single threaded CPU for 2000 network realisations.
+Similar percent level accuracy can be achieved with our approach on a moderately threaded CPU (8
+threads) in only ~15 minutes. If accuracy is only required at the 10 percent level and the CPU is more
+highly threaded, cosmic string power spectra are now possible in ~2-3 minutes. This makes exploration
+of the string parameter space now possible for Markov-Chain-Monte-Carlo (MCMC) analysis. 

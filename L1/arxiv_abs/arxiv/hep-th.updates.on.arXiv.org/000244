@@ -1,0 +1,16 @@
+We describe classical top-like integrable systems arising from the quantum exchange relations
+and corresponding Sklyanin algebras. The Lax operator is expressed in terms of the quantum non-dynamical
+$R$-matrix even at the classical level, where the Planck constant plays the role of the relativistic
+deformation parameter in the sense of Ruijsenaars and Schneider (RS). The integrable systems (relativistic
+tops) are described as multidimensional Euler tops, and the inertia tensors are written in terms
+of the quantum and classical $R$-matrices. A particular case of ${\rm gl}_N$ system is gauge equivalent
+to the $N$-particle RS model while a generic top is related to the spin generalization of the RS model.
+The simple relation between quantum $R$-matrices and classical Lax operators is exploited in two
+ways. In the elliptic case we use the Belavin's quantum $R$-matrix to describe the relativistic
+classical tops. Also by the passage to the noncommutative torus we study the large $N$ limit corresponding
+to the relativistic version of the nonlocal 2d elliptic hydrodynamics. Conversely, in the rational
+case we obtain a new ${\rm gl}_N$ quantum rational non-dynamical $R$-matrix via the relativistic
+top, which we get in a different way -- using the factorized form of the RS Lax operator and the classical
+Symplectic Hecke (gauge) transformation. In particular case of ${\rm gl}_2$ the quantum rational
+$R$-matrix is 11-vertex. It was previously found by Cherednik. At last, we describe the integrable
+spin chains and Gaudin models related to the obtained $R$-matrix. 

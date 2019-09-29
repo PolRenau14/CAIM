@@ -1,0 +1,16 @@
+We present geometric-phase microscopy allowing a multipurpose quantitative phase imaging in
+which the ground-truth phase is restored by quantifying the phase retardance. The method uses broadband
+spatially incoherent light that is polarization sensitively controlled through the geometric
+(Pancharatnam-Berry) phase. The assessed retardance possibly originates either in dynamic or
+geometric phase and measurements are customized for quantitative mapping of isotropic and birefringent
+samples or multi-functional geometric-phase elements. The phase restoration is based on the self-interference
+of polarization distinguished waves carrying sample information and providing pure reference
+phase, while passing through an inherently stable common-path setup. The experimental configuration
+allows an instantaneous (single-shot) phase restoration with guaranteed subnanometer precision
+and excellent ground-truth accuracy (well below 5 nm). The optical performance is demonstrated
+in advanced yet routinely feasible noninvasive biophotonic imaging executed in the automated
+manner and predestined for supervised machine learning. The experiments demonstrate measurement
+of cell dry mass density, cell classification based on the morphological parameters and visualization
+of dynamic dry mass changes. The multipurpose use of the method was demonstrated by restoring variations
+in the dynamic phase originating from the electrically induced birefringence of liquid crystals
+and by mapping the geometric phase of a space-variant polarization directed lens. 

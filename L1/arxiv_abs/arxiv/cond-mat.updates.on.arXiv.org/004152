@@ -1,0 +1,17 @@
+Nitride has been drawing much attention due to its wide range of applications in optoelectronics
+and remains plenty of room for materials design and discovery. Here, a large set of nitrides have
+been designed, with their band gap and alignment being studied by first-principles calculations
+combined with machine learning. Band gap and band offset against wurtzite GaN accurately calculated
+by the combination of screened hybrid functional of HSE and DFT-PBE were used to train and test machine
+learning models. After comparison among different techniques of machine learning, when elemental
+properties are taken as features, support vector regression (SVR) with radial kernel performs
+best for predicting both band gap and band offset with prediction root mean square error (RMSE) of
+0.298 eV and 0.183 eV, respectively. The former is within HSE calculation uncertainty and the latter
+is small enough to provide reliable predictions. Additionally, when band gap calculated by DFT-PBE
+was added into the feature space, band gap prediction RMSE decreases to 0.099 eV. Through a feature
+engineering algorithm, elemental feature space based band gap prediction RMSE further drops by
+around 0.005 eV and the relative importance of elemental properties for band gap prediction was
+revealed. Finally, band gap and band offset of all designed nitrides were predicted and two trends
+were noticed that as the number of cation types increases, band gap tends to narrow down while band
+offset tends to go up. The predicted results will be a useful guidance for precise investigation
+on nitride engineering. 

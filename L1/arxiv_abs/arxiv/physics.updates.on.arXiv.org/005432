@@ -1,0 +1,17 @@
+Extensive research papers of three-dimensional computational techniques are widely used for
+the investigation of human brain pathophysiology. Eddy current analyzing could provide an indication
+of conductivity change within a biological body. A significant obstacle to current trend analyses
+is the development of a numerically stable and efficiency-finite element scheme that performs
+well at low frequency and does not require a large number of degrees of freedom. Here, a custom finite
+element method (FEM) solver based on edge elements is proposed using the weakly coupled theory,
+which separates the solution into two steps. First, the background field (the magnetic vector potential
+on each edge) is calculated and stored. Then, the electric scalar potential on each node is obtained
+by FEM based on Galerkin formulations. Consequently, the electric field and eddy current distribution
+in the object can be obtained. This solver is more efficient than typical commercial solvers since
+it reduces the vector eddy current equation to a scalar one, and reduces the meshing domain to just
+the eddy current region. It can therefore tackle complex eddy current calculations for models with
+much larger numbers of elements, such as those encountered in eddy current computation in biological
+tissues. An example is presented with a realistic human brain mesh of 2 million elements. In addition,
+with this solver, the equivalent magnetic field induced from the excitation coil is applied, and
+therefore there is no need to mesh the excitation coil. In combination, these significantly increase
+the efficiency of the solver. 

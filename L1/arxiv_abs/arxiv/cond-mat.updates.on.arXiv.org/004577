@@ -1,0 +1,17 @@
+In the classic model of first passage percolation, for pairs of vertices separated by a Euclidean
+distance $L$, geodesics exhibit deviations from their mean length $L$ that are of order $L^\chi$,
+while the transversal fluctuations, known as wandering, grow as $L^\xi$. We find that when weighting
+edges directly with their Euclidean span in various spatial network models, we have two distinct
+classes defined by different exponents $\xi=3/5$ and $\chi = 1/5$, or $\xi=7/10$ and $\chi = 2/5$,
+depending only on coarse details of the specific connectivity laws used. Also, the travel time fluctuations
+are Gaussian, rather than Tracy-Widom, which is rarely seen in first passage models. The first class
+contains proximity graphs such as the hard and soft random geometric graph, and the $k$-nearest
+neighbour random geometric graphs, where via Monte Carlo simulations we find $\xi=0.60\pm 0.01$
+and $\chi = 0.20\pm 0.01$, showing a theoretical minimal wandering. The second class contains graphs
+based on excluded regions such as $\beta$-skeletons and the Delaunay triangulation and are characterised
+by the values $\xi=0.70\pm 0.01$ and $\chi = 0.40\pm 0.01$, with a nearly theoretically maximal
+wandering exponent. We also show numerically that the KPZ relation $\chi = 2\xi -1$ is satisfied
+for all these models. These results shed some light on the Euclidean first passage process, but also
+raise some theoretical questions about the scaling laws and the derivation of the exponent values,
+and also whether a model can be constructed with maximal wandering, or non-Gaussian travel fluctuations,
+while embedded in space. 

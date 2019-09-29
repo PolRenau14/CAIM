@@ -1,0 +1,16 @@
+An incidence structure consists simply of a set P of points and a set B of blocks, with a relation of
+incidence between points and blocks.A symmetric (v,k,\lambda) block design is the subject of this
+paper. The symmetric (n^2+n+1, n+1,1) block design is a projective plane of order n. Despite much
+research no one has uncovered any further necessary conditions for the existence of a symmetric
+(v,k,\lambda) design apart from the equation (v-1)\lambda=k(k-1), Schutzenberger's Theorem
+and the Bruck-Ryser-Chowla Theorem. For no (v,k,\lambda) satisfying these requirements has it
+been shown that a symmetric (v,k,\lambda) design does not exist. Projective planes of order n exist
+for all prime powers n (aside from PG(2,n) a host of other constructions are known ) but for no other
+n is a construction known. The first open values are n=10, 12, 15, 18, 20, 24, 26$ and 28. It was proved
+by a computer search that there does not exist any projective plane of order 10 by Lam, C.W.H., Thiel,
+L. and Swiercz, S. Whether there exists any projective plane of order 12 is still open.The author
+introduces the bordered matrix of a (v,k,\lambda) symmetric design and gives some new necessary
+conditions for the existence of the symmetric (v,k,\lambda) design. As their application it is
+easy to determine that there does not exist finite projective plane of order n if n is one of the first
+open values 10, 12, 15, 18, 20, 24, 26 and 28, for which the Bruck-Ryser-Chowla Theorem can not be used.
+For large n the new method is also valid. Also some symmetric designs are excluded by the new method.

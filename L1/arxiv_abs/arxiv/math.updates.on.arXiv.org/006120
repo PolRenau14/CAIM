@@ -1,0 +1,17 @@
+An upper quasi-density on $\mathbf{H}$ (the integers or the non-negative integers) is a subadditive
+function $\mu^\ast: \mathcal{P}(\mathbf{H}) \to \bf R$ such that $\mu^\ast(X) \le \mu^\ast(\mathbf{H})
+= 1$ and $\mu^\ast(k \cdot X + h) = \frac{1}{k}\, \mu^\ast(X)$ for all $X \subseteq \mathbf{H}$ and
+$h,k \in \mathbf{N}^+$, where $k \cdot X := \{kx: x \in X\}$. Upper quasi-densities were recently
+introduced by the authors as an abstraction of classical objects in number theory, examples including
+the upper Buck, upper P\'olya, and upper analytic densities, as well as the uncountable family of
+upper $\alpha$-densities, where $\alpha$ is a real parameter $\ge -1$. In the present work, we inquire
+further into this line of research by studying various properties of uqd-small sets, where a subset
+$X$ of $\mathbf{H}$ is said to be uqd-small if $\mu^\star(X) = 0$ for every upper quasi-density $\mu^\star$
+on $\mathbf{H}$. In particular, we establish that a subset of $\mathbf H$ is uqd-small if and only
+if it belongs to the zero set of the upper Buck density on $\mathbf Z$. This characterization, combined
+with a generalization of an inequality of R.C. Buck, allows us to show that many interesting sets
+(including the image of $\mathbf{Z}$ through a non-linear integral polynomial in one variable,
+or the numbers represented by a binary quadratic form with integer coefficients whose discriminant
+is not a perfect square) are uqd-small. Overall, we can thus strengthen, extend, and unify several
+``independent results'' previously known for some of the classical upper densities mentioned
+in the above. 

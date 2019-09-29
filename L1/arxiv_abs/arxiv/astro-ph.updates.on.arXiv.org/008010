@@ -1,0 +1,16 @@
+We present a comparison of mass estimates for $54$ galaxy cluster candidates from the second Planck
+catalogue (PSZ2) of Sunyaev-Zel'dovich sources. We compare the mass values obtained with data
+taken from the Arcminute Microkelvin Imager (AMI) radio interferometer system and from the Planck
+satellite. The former of these uses a Bayesian analysis pipeline that parameterises a cluster in
+terms of its physical quantities, and models the dark matter & baryonic components of a cluster using
+NFW and GNFW profiles respectively. Our mass estimates derived from Planck data are obtained from
+the results of the Bayesian detection algorithm PowellSnakes (PwS), are based on the methodology
+detailed in the PSZ2 paper, and produce two sets of mass estimates; one estimate is calculated directly
+from the angular radius $\theta$ - integrated Comptonisation parameter $Y$ posterior distributions,
+and the other uses a `slicing function' to provide information on $\theta$ based on X-ray measurements
+and previous Planck mission samples. We find that for $37$ of the clusters, the AMI mass estimates
+are lower than both values obtained from Planck data. However the AMI and slicing function estimates
+are within one combined standard deviation of each other for $31$ clusters. We also generate cluster
+simulations based on the slicing-function mass estimates, and analyse them in the same way as we
+did the real AMI data. We find that inclusion in the simulations of radio-source confusion & CMB noise
+and measurable radio-sources causes AMI mass estimates to be systematically low. 

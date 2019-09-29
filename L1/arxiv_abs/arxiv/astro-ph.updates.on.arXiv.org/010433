@@ -1,0 +1,16 @@
+We revisit the evolution model of grain size distribution in a galaxy for the ultimate purpose of
+implementing it in hydrodynamical simulations. We simplify the previous model in such a way that
+some model-dependent assumptions are replaced with simpler functional forms. For the first test
+of the developed framework, we apply it to a one-zone chemical evolution model of a galaxy, confirming
+that our new model satisfactorily reproduces the previous results and that efficient coagulation
+of small grains produced by shattering and accretion is essential in reproducing the so-called
+MRN grain size distribution. For the next step, in order to test if our model can be treated together
+with the hydrodynamical evolution of the interstellar medium (ISM), we post-process a hydrodynamical
+simulation of an isolated disc galaxy using the new grain evolution model. We sample hydrodynamical
+particles representing each of the dense and diffuse ISM phases. By this post-processing, we find
+that the processes occurring in the dense gas (grain growth by accretion and coagulation) are important
+in reproducing the grain size distribution consistent with the Milky Way extinction curve. In our
+model, the grain size distributions are similar between the dense and diffuse ISM, although we observe
+a larger dispersion in the dense ISM. Moreover, we also show that even if we degrade the grain radius
+resolution (with 16 grid points), the overall shape of grain size distribution (and of resulting
+extinction curve) can be captured. 

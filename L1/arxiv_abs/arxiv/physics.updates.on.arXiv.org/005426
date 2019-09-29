@@ -1,0 +1,16 @@
+In this work, the Eulerian-Eulerian (E-E) method was used to investigate nine classic gas-liquid
+systems. These test cases were selected from different industries including chemical, nuclear,
+bio-processing and metallurgical engineering. Although coming from different disciplines,
+all the test cases can be seen as multi-phase bubbly flows. They were launched by the OpenFOAM solver
+reactingTwoPhaseEulerFoam, in which the E-E method was implemented with sophisticated numerical
+techniques. The governing equations and discretization procedure were firstly discussed in details.
+The effects of the drag force, non-drag forces, bubble induced turbulence, bubble swarm on the predicted
+phase fraction distribution, gas holdup, liquid velocity and turbulence variables were investigated.
+Our results show that the combination of drag force and turbulence dispersion force should be included
+to all the test cases. The drag force directly determines the global gas holdup and the vertical liquid/gas
+velocity. For the test cases operated at high aspect ratio (e.g., pipe flows), accurate results
+can only be obtained by considering lift force and wall lubrication force. In certain cases, the
+addition of the bubble induced model improves the predictions, whereas in other cases it predicts
+worse results. Meanwhile, the bubble swarm correction should be used in simulations when operated
+at high gas phase fraction. Further, some of the shortcomings of the E-E method are identified and
+recommendations for future work are made based on the numerical analysis. 

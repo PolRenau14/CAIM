@@ -1,0 +1,16 @@
+Computational drug discovery provides an efficient tool helping large scale lead molecules screening.
+One of the major tasks of lead discovery is identifying molecules with promising binding affinities
+towards a target, a protein in general. The accuracies of current scoring functions which are used
+to predict the binding affinity are not satisfactory enough. Thus, machine learning (ML) or deep
+learning (DL) based methods have been developed recently to improve the scoring functions. In this
+study, a deep convolutional neural network (CNN) model (called OnionNet) is introduced and the
+features are based on rotation-free element-pair specific contacts between ligands and protein
+atoms, and the contacts were further grouped in different distance ranges to cover both the local
+and non-local interaction information between the ligand and the protein. The prediction power
+of the model is evaluated and compared with other scoring functions using the comparative assessment
+of scoring functions (CASF-2013) benchmark and the v2016 core set of PDBbind database. When compared
+to a previous CNN-based scoring function, our model shows improvements of 0.08 and 0.16 in the correlations
+(R) and standard deviations (SD) of regression, respectively, between the predicted binding affinities
+and the experimental measured binding affinities. The robustness of the model is further explored
+by predicting the binding affinities of the complexes generated from docking simulations instead
+of experimentally determined PDB structures. 

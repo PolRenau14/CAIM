@@ -1,0 +1,17 @@
+We study the detailed path-wise behavior of the discrete-time Langevin algorithm for non-convex
+Empirical Risk Minimization (ERM) through the lens of metastability, adopting some techniques
+from Berglund and Gentz (2003. For a particular local optimum of the empirical risk, with an arbitrary
+initialization, we show that, with high probability, at least one of the following two events will
+occur: (1) the Langevin trajectory ends up somewhere outside the $\varepsilon$-neighborhood
+of this particular optimum within a short recurrence time; (2) it enters this $\varepsilon$-neighborhood
+by the recurrence time and stays there until a potentially exponentially long escape time. We call
+this phenomenon empirical metastability. This two-timescale characterization aligns nicely
+with the existing literature in the following two senses. First, the effective recurrence time
+(i.e., number of iterations multiplied by stepsize) is dimension-independent, and resembles
+the convergence time of continuous-time deterministic Gradient Descent (GD). However unlike
+GD, the Langevin algorithm does not require strong conditions on local initialization, and has
+the possibility of eventually visiting all optima. Second, the scaling of the escape time is consistent
+with the Eyring-Kramers law, which states that the Langevin scheme will eventually visit all local
+minima, but it will take an exponentially long time to transit among them. We apply this path-wise
+concentration result in the context of statistical learning to examine local notions of generalization
+and optimality. 

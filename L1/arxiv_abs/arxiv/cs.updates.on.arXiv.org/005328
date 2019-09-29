@@ -1,0 +1,16 @@
+Communication overhead is one of the major performance bottlenecks in large-scale distributed
+computing systems, in particular for machine learning applications. Conventionally, compression
+techniques are used to reduce the load of communication by combining intermediate results of the
+same computation task as much as possible. Recently, via the development of coded distributed computing
+(CDC), it has been shown that it is possible to enable coding opportunities across intermediate
+results of different computation tasks to further reduce the communication load. We propose a new
+scheme, named compressed coded distributed computing (in short, compressed CDC), which jointly
+exploits the above two techniques (i.e., combining the intermediate results of the same computation
+and coding across the intermediate results of different computations) to significantly reduce
+the communication load for computations with linear aggregation (reduction) of intermediate
+results in the final stage that are prevalent in machine learning (e.g., distributed training algorithms
+where partial gradients are computed distributedly and then averaged in the final stage). In particular,
+compressed CDC first compresses/combines several intermediate results for a single computation,
+and then utilizes multiple such combined packets to create a coded multicast packet that is simultaneously
+useful for multiple computations. We characterize the achievable communication load of compressed
+CDC and show that it substantially outperforms both combining methods and CDC scheme. 

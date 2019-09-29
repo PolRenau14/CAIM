@@ -1,0 +1,17 @@
+We present a theoretical study of non-local magnetoelectric effects in diffusive hybrid structures
+with an intrinsic linear-in-momentum spin-orbit coupling (SOC) which is assumed to be spatially
+inhomogeneous. Our analysis is based on the SU(2)-covariant drift-diffusion equations from which
+we derive the BC at hybrid interfaces. Within this formulation, the spin current is covariantly
+conserved when the spin relaxation is only due to the intrinsic SOC. This conservation leads to the
+absence of spin Hall (SH) currents in homogeneous systems. We also consider extrinsic sources of
+relaxation (ESR), as magnetic impurities, which break the covariant spin conservation, and may
+lead to SH currents. We apply our model to describe non-local transport in a system with an interface
+separating two regions: one normal region without intrinsic SOC and one with a Rashba SOC. We first
+explore the inverse spin-galvanic effect, i.e., a spin polarization induced by an electric field.
+We demonstrate how the spatial behavior of such spin density depends on both, the direction of the
+electric field and the strength of the ESR rate. We also study the spin-to-charge conversion, and
+compute the charge current and the distribution of electrochemical potential in the Rashba region
+induced by a spin current injected into the normal region. In systems with an inhomogeneous SOC varying
+in one spatial direction, we find an interesting non-local reciprocity between the spin density
+induced by a charge current at a given point in space, and the spatially integrated current induced
+by a spin density injected at the same point. 

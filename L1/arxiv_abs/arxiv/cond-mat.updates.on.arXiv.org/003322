@@ -1,0 +1,16 @@
+The topological properties of the tight-binding model on the breathing kagome lattice are studied.
+The lack of inversion centers on the bonds of the kagome lattice allows antisymmetric spin-orbit
+(SOC) coupling between nearest-neighbors. Interestingly, the system with such intrinsic SOC
+between nearest-neighbors hosts non-trivial topological phases, even without second-nearest-neighbor
+hopping. The energy spectrum of the tight-binding model on the kagome lattice has a dispersion-less
+band which can also become topological thanks to SOC. We show that the inclusion of Rashba SOC, which
+breaks the mirror symmetry, does not hinder the non-trivial phase (in contrast to graphene) but,
+on the contrary, makes it possible by itself. We also consider an inversion symmetry-breaking lattice
+trimerization term (i.e., the breathing kagome lattice), calculate the $\mathbb{Z}_2$ topological
+index, and draw the full phase diagram considering nearest-neighbor SOC (intrinsic and Rashba)
+and lattice trimerization. We find that the pair of flat bands hosts a non-trivial $\mathbb{Z}_2$
+topological index, and that the resulting topological phase is remarkably robust to trimerization
+for both intrinsic and Rashba SOC thanks to the flat bands. We also consider the same system in the
+ferromagnetically spin-polarized limit. We similarly draw the phase diagram corresponding to
+the Chern numbers of the bands. We find that in this case too, the flat band is topological in a remarkable
+region of the phase diagram, even for large trimerization. 

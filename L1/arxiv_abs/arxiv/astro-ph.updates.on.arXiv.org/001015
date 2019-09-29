@@ -1,0 +1,17 @@
+Studies of the evolution of massive protostars and the evolution of their host molecular cloud cores
+are commonly treated as separate problems. However, interdependencies between the two can be significant.
+Here, we study the simultaneous evolution of massive protostars and their host molecular cores
+using a multi-dimensional radiation hydrodynamics code that incorporates the effects of the thermal
+pressure and radiative acceleration feedback of the centrally forming protostar. The evolution
+of the massive protostar is computed simultaneously using the stellar evolution code STELLAR,
+modified to include the effects of variable accretion. The interdependencies are studied in three
+different collapse scenarios. For comparison, stellar evolutionary tracks at constant accretion
+rates and the evolution of the host cores using pre-computed stellar evolutionary tracks are computed.
+The resulting interdependencies of the protostellar evolution and the evolution of the environment
+are extremely diverse and depend on the order of events, in particular the time of circumstellar
+accretion disk formation with respect to the onset of the bloating phase of the star. Feedback mechanisms
+affect the instantaneous accretion rate and the protostar's radius, temperature and luminosity
+on timescales equal or smaller than 5 kyr, corresponding to the accretion timescale and Kelvin-Helmholtz
+contraction timescale, respectively. Nevertheless, it is possible to approximate the overall
+protostellar evolution in many cases by pre-computed stellar evolutionary tracks assuming appropriate
+constant average accretion rates. 

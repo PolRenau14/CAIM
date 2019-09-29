@@ -1,0 +1,16 @@
+In secure precise directional modulation (DM) networks, two practical random-subcarrier-selection
+(RSS) methods are proposed to transmit confidential message to the desired user per orthogonal
+frequency division multiplexing (OFDM) symbol with only single receive power peak formed by constructing
+random subcarrier set and performing a randomization procedure. This scheme completely addresses
+the crucial problem facing secure precise wireless transmission (SPWT), how to achieve the SPWT
+per OFDM symbol while the traditional SPWT holds only in statistically average sense. Several necessary
+conditions for SPWT per OFDM is derived and proposed: randomly distributed, sparse, and distinct
+subcarrier distance between two pair of adjacent antennas. Two random subcarrier sets (RSSs),
+quadratic subcarrier set (QSS) and prime subcarrier set (PSS), are constructed, where the former
+means the subcarrier index associated with any antennas is the square of antenna index, and the latter
+implies that the subcarrier indices over all antennas are prime numbers. Subsequently, following
+those conditions for SPWT per OFDM, a random factor is defined, and a randomization procedure (RP)
+is proposed. Its detailed process includes the following steps: integer mod, ordering, blocking,
+and block interleaving where BI is repeated until the random factor is greater than the predefined
+threshold. This yields a single main receive energy peak (SMREP) at the desired position with other
+positions, outside the SMREP, harvesting only weak receive energy seriously corrupted by AN. 

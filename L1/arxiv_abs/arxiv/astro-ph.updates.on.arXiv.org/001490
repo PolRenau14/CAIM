@@ -1,0 +1,16 @@
+Our goal is to find a minimalistic model that describes the luminosity function and large-scale
+clustering bias of the X-ray-selected AGN in the general framework of the concordance LCDM model.
+We assume that a simple population-averaged scaling relation between the AGN X-ray luminosity
+L_X and the host dark matter halo mass M_h exists. With such a relation, the AGN X-ray luminosity function
+can be computed from the halo mass function. Using the concordance LCDM halo mass function for the
+latter, we obtain the M_h-L_X relation required to match the redshift-dependent AGN X-ray luminosity
+function known from X-ray observations. We find that with a simple power-law-scaling M_h \propto
+L_X^\Gamma(z), our model can successfully reproduce the observed X-ray luminosity function.
+Furthermore, we automatically obtain predictions for the large-scale AGN clustering amplitudes
+and their dependence on the luminosity and redshift, which seem to be compatible with AGN clustering
+measurements. Our model also includes the redshift-dependent AGN duty cycle which peaks at the
+redshift z ~ 1, and its peak value is consistent with unity, suggesting that on average there is no
+more than one AGN per dark matter halo. For a typical X-ray-selected AGN at z ~ 1, our best-fit M_h-L_X
+scaling implies low Eddington ratio L_X/L_Edd ~ 10^{-4}-10^{-3} (2-10 keV band, no bolometric
+correction applied) and correspondingly large mass growth e-folding times, suggesting that the
+typical X-ray AGN are dominantly fueled via relatively inefficient 'hot-halo' accretion mode.

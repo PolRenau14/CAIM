@@ -1,0 +1,16 @@
+We investigate the shock-induced turbulent mixing between a light and heavy gas, where a Richtmyer-Meshkov
+instability (RMI) is initiated by a $\Ma = 1.5$ shock wave. The prescribed initial conditions define
+a deterministic multimode interface perturbation between the gases, which can be imposed exactly
+for different simulation codes and resolutions to allow for quantitative comparison. Well-resolved
+large-eddy simulations are performed using two different and independently developed numerical
+methods with the objective of assessing turbulence structures, prediction uncertainties and
+convergence behaviour. The two numerical methods differ fundamentally with respect to the employed
+subgrid-scale regularisation, each representing state-of-the-art approaches to RMI. Unlike
+previous studies the focus of the present investigation is to quantify uncertainties introduced
+by the numerical method, as there is strong evidence that subgrid-scale regularisation and truncation
+errors may have a significant effect on the linear and non-linear stages of the RMI evolution. Fourier
+diagnostics reveal that the larger energy containing scales converge rapidly with increasing
+mesh resolution and thus are in excellent agreement for the two numerical methods. Spectra of gradient
+dependent quantities, such as enstrophy and scalar dissipation rate, show stronger dependencies
+on the small-scale flow field structures in consequence of truncation error effects, which for
+one numerical method are dominantly dissipative and for the other dominantly dispersive. 

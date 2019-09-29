@@ -1,0 +1,16 @@
+We give a zero curvature proof of Dehn-Sommerville for finite simple graphs. It uses a parametrized
+Gauss-Bonnet formula telling that the curvature of the valuation G to f_G(t)=1+f0 t + ... + fd t^(d+1)
+defined by the f-vector of G is the anti-derivative F of f evaluated on the unit sphere S(x). Gauss
+Bonnet is then parametrized, f_G(t) = sum_x F_(S(x))(t), and holds for all simplicial complexes
+G. The Gauss-Bonnet formula chi(G)=sum_x K(x) for Euler characteristic chi(G) is the special case
+t=-1. Dehn-Sommerville is equivalent to the reflection symmetry f_G(t)+(-1)^d f_G(-1-t)=0 which
+is equivalent to the same symmetry for F. Gauss-Bonnet therefore relates Dehn-Sommerville for
+G with Dehn-Sommerville for the unit spheres S(x), where it is a zero curvature condition. A class
+X_d of complexes for which Dehn-Sommerville holds is defined inductively by requiring chi(G)=1+(-1)^d
+and S(x) in X_(d-1) for all x. It starts with X_(-1)={{}}. Examples are simplicial spheres, including
+homology spheres, any odd-dimensional discrete manifold, any even-dimensional discrete manifold
+with chi(G)=2. It also contains non-orientable ones for which Poincar'e-duality fails or stranger
+spaces like spaces where the unit spheres allow for two disjoint copies of manifolds with chi(G)=1.
+Dehn-Sommerville is present in the Barycentric limit. It is a symmetry for the Perron-Frobenius
+eigenvector of the Barycentric refinement operator A. The even eigenfunctions of A^T, the Barycentric
+Dehn-Sommerville functionals, vanish on X like 22 f1 - 33 f2 + 40 f3 - 45f4=0 for all 4-manifolds. 

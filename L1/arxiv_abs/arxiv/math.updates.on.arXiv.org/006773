@@ -1,0 +1,16 @@
+This paper investigates the application of mesh adaptation techniques in the Non-Ideal Compressible
+Fluid Dynamic (NICFD) regime, a region near the vapor-liquid saturation curve where the flow behavior
+significantly departs from the ideal gas model, as indicated by a value of the fundamental derivative
+of gasdynamics less than one. A recent interpolation-free finite-volume adaptive scheme is exploited
+to modify the grid connectivity in a conservative way, and the governing equations for compressible
+inviscid flows are solved within the Arbitrary Lagrangian Eulerian framework by including special
+fictitious fluxes representing volume modifications due to mesh adaptation.The absence of interpolation
+of the solution to the new grid prevents spurious oscillations that may make the solution of the flow
+field in the NICFD regime more difficult and less robust.Non-ideal gas effects are taken into account
+by adopting the polytropic Peng-Robinson thermodynamic model. The numerical results focus on
+the problem of a piston moving in a tube filled with siloxane $\mathrm{MD_4M}$, a simple configuration
+which can be the core of experimental research activities aiming at investigating the thermodynamic
+behavior of NICFD flows. Several numerical tests involving different piston movements and initial
+states in 2D and 3D assess the capability of the proposed adaption technique to correctly capture
+compression and expansion waves, as well as the generation and propagation of shock waves, in the
+NICFD and in the non-classical regime. 

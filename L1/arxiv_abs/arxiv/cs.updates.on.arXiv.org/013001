@@ -1,0 +1,17 @@
+Blockchains are turning into decentralized computing platforms and are getting worldwide recognition
+for their unique advantages. There is an emerging trend beyond payments that blockchains could
+enable a new breed of decentralized applications, and serve as the foundation for Internet's security
+infrastructure. The immutable nature of the blockchain makes it a winner on security and transparency;
+it is nearly inconceivable for ledgers to be altered in a way not instantly clear to every single user
+involved. However, most blockchains fall short in privacy aspects, particularly in data protection.
+Garlic Routing and Onion Routing are two of major Privacy Enhancing Techniques (PETs) which are
+popular for anonymization and security. Garlic Routing is a methodology using by I2P Anonymous
+Network to hide the identity of sender and receiver of data packets by bundling multiple messages
+into a layered encryption structure. The Onion Routing attempts to provide lowlatency Internet-based
+connections that resist traffic analysis, deanonymization attack, eavesdropping, and other
+attacks both by outsiders (e.g. Internet routers) and insiders (Onion Routing servers themselves).
+As there are a few controversies over the rate of resistance of these two techniques to privacy attacks,
+we propose a PET-Enabled Sidechain (PETES) as a new privacy enhancing technique by integrating
+Garlic Routing and Onion Routing into a Garlic Onion Routing (GOR) framework suitable to the structure
+of blockchains. The preliminary proposed GOR aims to improve the privacy of transactions in blockchains
+via PETES structure. 

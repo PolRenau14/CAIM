@@ -1,0 +1,16 @@
+The properties of the dusty tori in active galactic nuclei (AGNs) have been investigated in detail,
+mainly focusing on the geometry and components; however, the kinematics of the torus is still not
+clear. The narrow iron K$\alpha$ line at 6.4 keV is thought to be produced by the X-ray reflection
+from the torus. Thus, the velocity-resolved reverberation mapping of it is able to constrain the
+kinematics of the torus. Such effort is limited by the spectral resolution of current CCD detectors
+and should be possible with the microcalorimeter on the next generation X-ray satellite. In this
+paper, we first construct the response functions of the torus under a uniform inflow, a Keplerian
+rotation, and a uniform outflow. Then the energy-dependent light curve of the narrow iron K$\alpha$
+line is simulated according to the performance of the X-ray Integral Field Unit in Athena. Finally,
+the energy-dependent cross-correlation function is calculated to reveal the kinematic signal.
+According to our results, one hundred observations with 5 ks exposure of each are sufficient to distinguish
+the above three velocity fields. Although the real geometry and velocity field of the torus could
+be more complex than we assumed, the present result proves the feasibility of the velocity-resolved
+reverberation mapping of the narrow iron K$\alpha$ line. The combination of the dynamics of the
+torus with those of the broad line region and the host galaxy is instructive for the understanding
+of the feeding and feedback process of AGNs. 

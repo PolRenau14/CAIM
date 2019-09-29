@@ -1,0 +1,16 @@
+Detection and quantification of information leaks through timing side channels are important
+to guarantee confidentiality. Although static analysis remains the prevalent approach for detecting
+timing side channels, it is computationally challenging for real-world applications. In addition,
+the detection techniques are usually restricted to 'yes' or 'no' answers. In practice, real-world
+applications may need to leak information about the secret. Therefore, quantification techniques
+are necessary to evaluate the resulting threats of information leaks. Since both problems are very
+difficult or impossible for static analysis techniques, we propose a dynamic analysis method.
+Our novel approach is to split the problem into two tasks. First, we learn a timing model of the program
+as a neural network. Second, we analyze the neural network to quantify information leaks. As demonstrated
+in our experiments, both of these tasks are feasible in practice --- making the approach a significant
+improvement over the state-of-the-art side channel detectors and quantifiers. Our key technical
+contributions are (a) a neural network architecture that enables side channel discovery and (b)
+an MILP-based algorithm to estimate the side-channel strength. On a set of micro-benchmarks and
+real-world applications, we show that neural network models learn timing behaviors of programs
+with thousands of methods. We also show that neural networks with thousands of neurons can be efficiently
+analyzed to detect and quantify information leaks through timing side channels. 

@@ -1,0 +1,16 @@
+Cosmic filaments are the channel through which galaxy groups assemble their mass. Cosmic connectivity,
+namely the number of filaments connected to a given group, is therefore expected to be an important
+ingredient in shaping group properties. The local connectivity is measured in COSMOS around X-Ray
+detected groups between redshift 0.5 and 1.2. To this end, large-scale filaments are extracted
+using the accurate photometric redshifts of the COSMOS2015 catalogue in two-dimensional slices
+of thickness 120 comoving Mpc centred on the group's redshift. The link between connectivity, group
+mass and the properties of the brightest group galaxy (BGG) is investigated. The same measurement
+is carried out on mocks extracted from the lightcone of the hydrodynamical simulation Horizon-AGN
+in order to control systematics. More massive groups are on average more connected. At fixed group
+mass in low-mass groups, BGG mass is slightly enhanced at high connectivity, while in high mass groups
+BGG mass is lower at higher connectivity. Groups with a star-forming BGG have on average a lower connectivity
+at given mass. From the analysis of the Horizon-AGN simulation, we postulate that different connectivities
+trace different paths of group mass assembly: at high group mass, groups with higher connectivity
+are more likely to have grown through a recent major merger, which might be in turn the reason for the
+quenching of the BGG. Future large-field photometric surveys, such as Euclid and LSST, will be able
+to confirm and extend these results by probing a wider mass range and a larger variety of environment.

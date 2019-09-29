@@ -1,0 +1,16 @@
+We present the results of our power spectral analysis for the BL Lac object OJ 287, utilizing the Fermi-LAT
+survey at high-energy gamma-rays, the Swift-XRT data in X-rays, several ground-based telescopes
+and the Kepler satellite in optical, and single-dish GHz-band radio telescopes. The multiwavelength
+light curves of the source are modeled in terms of a continuous-time auto regressive moving average
+(CARMA) process. Due to the inclusion of the Kepler data, we were able to construct for the first time
+the optical variability power spectrum without any gaps across ~ 6 dex in temporal frequencies.
+Our analysis reveals that the power spectra derived at radio frequencies are of a pure red-noise
+type on the timescales ranging from tens of years down to months. The overall optical power spectrum
+is also consistent with a red noise on the variability timescales ranging from 117 years down to hours,
+with no hints for any quasi-periodic oscillations, but instead a break near variability timescales
+~ 1 day. The power spectrum derived at X-ray photon energies resembles the radio and optical power
+spectra on the analogous timescales. Finally, the high-energy gamma-ray power spectrum of OJ 287
+is noticeably different from the radio, optical, and X-ray power spectra of the source: we have detected
+the characteristic relaxation timescale in the Fermi-LAT data, corresponding to ~ 100 days, such
+that on the timescales longer than this, the power spectrum is consistent with an uncorrelated (white)
+noise, while on the shorter variability timescales with a correlated (colored) noise. 

@@ -1,0 +1,17 @@
+We age-date the stellar populations associated with 12 historic nearby core-collapse supernovae
+(CCSNe) and 2 supernova impostors, and from these ages, we infer their initial masses and associated
+uncertainties. To do this, we have obtained new HST imaging covering these CCSNe. Using these images,
+we measure resolved stellar photometry for the stars surrounding the locations of the SNe. We then
+fit the color-magnitude distributions of this photometry with stellar evolution models to determine
+the ages of any young existing populations present. From these age distributions, we infer the most
+likely progenitor mass for all of the SNe in our sample. We find ages between 4 and 50 Myr, corresponding
+to masses from 7.5 to 59 solar masses. There were no SNe that lacked a young population within 50~pc.
+Our sample contains 4 type Ib/c SNe; their masses have a wide range of values, suggesting that the
+progenitors of stripped-envelope SNe are binary systems. Both impostors have masses constrained
+to be $\lesssim$7.5 solar masses. In cases with precursor imaging measurements, we find that age-dating
+and precursor imaging give consistent progenitor masses. This consistency implies that, although
+the uncertainties for each technique are significantly different, the results of both are reliable
+to the measured uncertainties. We combine these new measurements with those from our previous work
+and find that the distribution of 25 core-collapse SNe progenitor masses is consistent with a standard
+Salpeter power-law mass function, no upper mass cutoff, and an assumed minimum mass for core-collapse
+of 7.5~M$_{\odot}$. 

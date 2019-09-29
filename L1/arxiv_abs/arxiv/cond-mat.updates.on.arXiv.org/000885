@@ -1,0 +1,16 @@
+We revisit the problem of electron transport in clean and disordered zigzag graphene nanoribbons,
+and expose numerous hitherto unknown peculiar properties of these systems at zero energy, where
+both sublattices decouple because of chiral symmetry. For clean ribbons, we give a quantitative
+description of the unusual power-law dispersion of the central energy bands and of its main consequences,
+including the strong divergence of the density of states near zero energy, and the vanishing of the
+transverse localization length of the corresponding edge states. In the presence of off-diagonal
+disorder, which respects the lattice chiral symmetry, all zero-energy localization properties
+are found to be anomalous. Recasting the problem in terms of coupled Brownian motions enables us
+to derive numerous asymptotic results by analytical means. In particular the typical conductance
+$g_N$ of a disordered sample of width $N$ and length $L$ is shown to decay as $\exp(-C_Nw\sqrt{L})$,
+for arbitrary values of the disorder strength $w$, while the relative variance of $\ln g_N$ approaches
+a non-trivial constant $K_N$. The dependence of the constants $C_N$ and $K_N$ on the ribbon width
+$N$ is predicted. From the mere viewpoint of the transfer-matrix formalism, zigzag ribbons provide
+a case study with many unusual features. The transfer matrix describing propagation through one
+unit cell of a clean ribbon is not diagonalizable at zero energy. In the disordered case, we encounter
+non-trivial random matrix products such that all Lyapunov exponents vanish identically. 

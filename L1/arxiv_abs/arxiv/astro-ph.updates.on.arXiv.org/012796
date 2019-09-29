@@ -1,0 +1,16 @@
+We perform as the first time hydrodynamic simulations to study the properties of hot accretion flow
+(HAF) around a neutron star (NS). The energy carried by the HAF will eventually be radiated out at
+the surface of the NS. The emitted photons can propagate inside the HAF and cool the HAF via Comptonization.
+We find that the Compton cooling can affect the properties of HAF around a NS significantly. We define
+the Eddington accretion rate as $\dot M_{\rm Edd}=10L_{\rm Edd}/c^2$, with $L_{\rm Edd}$ and $c$
+being the Eddington luminosity and the speed of light, respectively. We define $\dot m$ as the mass
+accretion rate at the NS surface in unit of $\dot M_{\rm Edd}$. When $\dot m > 10^{-4}$, Compton cooling
+can effectively cool the HAF and suppress wind. Therefore, the mass accretion rate is almost a constant
+with radius. The density profile is $\rho \propto r^{-1.4}$. When $\dot m < 10^{-4}$, the Compton
+cooling effects become weaker, wind becomes stronger, accretion rate is proportional to $r^{0.3-0.5}$.
+Consequently, the density profile becomes flatter, $\rho \propto r^{-1 \sim -0.8}$. When $\dot
+m < 10^{-6}$, the Compton cooling effects can be neglected. We find that with a same accretion rate,
+the temperature of HAF around a NS is significantly lower than that of HAF around a black hole (BH).
+Also, the Compton $y-$parameter of HAF around a NS is significantly smaller than that of HAF around
+a BH. This result predicts that HAF around a NS will produce a softer spectrum compared to HAF around
+a BH, which is consistent with observations. 

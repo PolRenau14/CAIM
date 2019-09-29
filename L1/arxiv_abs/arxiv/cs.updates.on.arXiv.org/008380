@@ -1,0 +1,16 @@
+Background. Test resources are usually limited and therefore it is often not possible to completely
+test an application before a release. To cope with the problem of scarce resources, development
+teams can apply defect prediction to identify fault-prone code regions. However, defect prediction
+tends to low precision in cross-project prediction scenarios. Aims. We take an inverse view on defect
+prediction and aim to identify methods that can be deferred when testing because they contain hardly
+any faults due to their code being "trivial". We expect that characteristics of such methods might
+be project-independent, so that our approach could improve cross-project predictions. Method.
+We compute code metrics and apply association rule mining to create rules for identifying methods
+with low fault risk. We conduct an empirical study to assess our approach with six Java open-source
+projects containing precise fault data at the method level. Results. Our results show that inverse
+defect prediction can identify approx. 32-44% of the methods of a project to have a low fault risk;
+on average, they are about six times less likely to contain a fault than other methods. In cross-project
+predictions with larger, more diversified training sets, identified methods are even eleven times
+less likely to contain a fault. Conclusions. Inverse defect prediction supports the efficient
+allocation of test resources by identifying methods that can be treated with less priority in testing
+activities and is well applicable in cross-project prediction scenarios. 

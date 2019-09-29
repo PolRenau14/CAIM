@@ -1,0 +1,16 @@
+We propose and analyze a structure with which to organize the difference between a knot in the 3-sphere
+bounding a topologically embedded 2-disk in the 4-ball and it bounding a smoothly embedded disk.
+The n-solvable filtration of the topological knot concordance group, due to Cochran-Orr-Teichner,
+may be complete in the sense that any knot in the intersection of its terms may well be topologically
+slice. However, the natural extension of this filtration to what is called the n-solvable filtration
+of the smooth knot concordance group, is unsatisfactory because any topologically slice knot lies
+in every term of the filtration. To ameliorate this we investigate a new filtration, {B_n}, that
+is simultaneously a refinement of the n-solvable filtration and a generalization of notions of
+positivity studied by Gompf and Cochran. We show that each B_n/B_{n+1} has infinite rank. But our
+primary interest is in the induced filtration, {T_n}, on the subgroup, T, of knots that are topologically
+slice. We prove that T/T_0 is large, detected by gauge-theoretic invariants and the tau, s, and epsilon-invariants;
+while the non-triviliality of T_0/T_1 can be detected by certain d-invariants. All of these concordance
+obstructions vanish for knots in T_1. Nonetheless, going beyond this, our main result is that T_1/T_2
+has positive rank. Moreover under a "weak homotopy-ribbon" condition, we show that each T_n/T_{n+1}
+has positive rank. These results suggest that, even among topologically slice knots, the fundamental
+group is responsible for a wide range of complexity. 

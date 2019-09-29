@@ -1,0 +1,17 @@
+On-stack replacement (OSR) dynamically transfers execution between different code versions.
+This mechanism is used in mainstream runtime systems to support adaptive and speculative optimizations
+by running code tailored to provide the best expected performance for the actual workload. Current
+approaches either restrict the program points where OSR can be fired or require complex optimization-specific
+operations to realign the program's state during a transition. The engineering effort to implement
+OSR and the lack of abstractions make it rarely accessible to the research community, leaving fundamental
+question regarding its flexibility largely unexplored. In this article we make a first step towards
+a provably sound abstract framework for OSR. We show that compiler optimizations can be made OSR-aware
+in isolation, and then safely composed. We identify a class of transformations, which we call live-variable
+equivalent (LVE), that captures a natural property of fundamental compiler optimizations, and
+devise an algorithm to automatically generate the OSR machinery required for an LVE transition
+at arbitrary program locations. We present an implementation of our ideas in LLVM and evaluate it
+against prominent benchmarks, showing that bidirectional OSR transitions are possible almost
+everywhere in the code in the presence of common, unhindered global optimizations. We then discuss
+the end-to-end utility of our techniques in source-level debugging of optimized code, showing
+how our algorithms can provide novel building blocks for debuggers for both executables and managed
+runtimes. 

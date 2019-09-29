@@ -1,0 +1,16 @@
+The Reduced Relativistic Gas (RRG) is a simplified version of the ideal relativistic gas, which
+assumes that all particles have the same momentum magnitude. Although this is a very idealized situation,
+the resulting model preserves the phenomenology of Maxwell-Boltzmann distribution and, in some
+situations, can be described as a perfect fluid, without introducing large errors in both cosmological
+background and first-order perturbations. The perfect fluid description of RRG model was already
+used to study the warmness of dark matter, massive neutrinos and interaction of baryons and photons
+before recombination, showing very good agreement with previous works based on the full Einstein-Boltzmann
+system of equations. In order to understand these results and construct a more general and formal
+framework for RRG, we develop a theoretical description of first-order cosmological perturbations
+of RRG, based on a distribution function which encodes the simplifying assumption that all particles
+have the same momentum magnitude. The full set of Einstein-Boltzmann equations for RRG distribution
+are derived and quantities beyond the perfect fluid approximation are studied. Using RRG to describe
+warm dark matter, we show that, for particles with $m \sim \text{keV}$, the perfect fluid approximation
+is valid on scales $k < 10\, \text{h}/\text{Mpc}$, for most of the universe evolution. We also determine
+initial conditions for RRG in the early universe and study the evolution of potential in a toy model
+of universe composed only by RRG. 

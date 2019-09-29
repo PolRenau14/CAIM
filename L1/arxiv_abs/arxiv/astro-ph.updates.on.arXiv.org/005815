@@ -1,0 +1,16 @@
+The High Altitude Water Cherenkov observatory (HAWC) is an air shower array devised for TeV gamma-ray
+astronomy. HAWC is located at an altitude of 4100 m a.s.l. in Sierra Negra, Mexico. HAWC consists
+of 300 Water Cherenkov Detectors, each instrumented with 4 photomultiplier tubes (PMTs). HAWC
+re-uses the Front-End Boards from the Milagro experiment to receive the PMT signals. These boards
+are used in combination with Time to Digital Converters (TDCs) to record the time and the amount of
+light in each PMT hit (light flash). A set of VME TDC modules (128 channels each) is operated in a continuous
+(dead time free) mode. The TDCs are read out via the VME bus by Single-Board Computers (SBCs), which
+in turn are connected to a gigabit Ethernet network. The complete system produces ~ 500 MB/s of raw
+data. A high-throughput data processing system has been designed and built to enable real-time
+data analysis. The system relies on off-the-shelf hardware components, an open-source software
+technology for data transfers (ZeroMQ) and a custom software framework for data analysis (AERIE).
+Multiple trigger and reconstruction algorithms can be combined and run on blocks of data in a parallel
+fashion, producing a set of output data streams which can be analyzed in real time with minimal latency
+(< 5 s). This paper provides an overview of the hardware set-up and an in-depth description of the
+software design, covering both the TDC data acquisition system and the real-time data processing
+system. The performance of these systems is also discussed. 

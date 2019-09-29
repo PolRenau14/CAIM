@@ -1,0 +1,17 @@
+Much of what we do is accomplished by working collaboratively with others, and a large portion of
+our lives are spent working and talking; the patterns embodied in the alternation of working and
+talking can provide much useful insight into task-oriented social behaviors. The available electronic
+traces of the different kinds of human activities in online communities are an empirical goldmine
+that can enable the holistic study and understanding of these social systems. Open Source Software
+projects are prototypical examples of collaborative, task-oriented communities, depending
+on volunteers for high-quality work. Here, we use sequence analysis methods to identify the work-talk
+patterns of software developers in these online communities. We find that software developers
+prefer to persist in same kinds of activities, i.e., a string of work activities followed by a string
+of talk activities and so forth, rather than switch them frequently; this tendency strengthens
+with time, suggesting that developers become more efficient, and can work longer with fewer interruptions.
+This process is accompanied by the formation of community culture: developers' patterns in the
+same communities get closer with time while different communities get relatively more different.
+The emergence of community culture is apparently driven by both "talk" and "work". Finally, we also
+find that workers with good balance between "work" and "talk" tend to produce just as much work as
+those that focus strongly on "work"; however, the former appear to be more likely to continue to be
+active contributors in the communities. 

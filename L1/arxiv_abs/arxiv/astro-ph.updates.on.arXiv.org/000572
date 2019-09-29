@@ -1,0 +1,17 @@
+X-ray mirrors with high focusing performances are in use in both mirror modules for X-ray telescopes
+and in synchrotron and FEL (Free Electron Laser) beamlines. A degradation of the focus sharpness
+arises in general from geometrical deformations and surface roughness, the former usually described
+by geometrical optics and the latter by physical optics. In general, technological developments
+are aimed at a very tight focusing, which requires the mirror profile to comply with the nominal shape
+as much as possible and to keep the roughness at a negligible level. However, a deliberate deformation
+of the mirror can be made to endow the focus with a desired size and distribution, via piezo actuators
+as done at the EIS-TIMEX beamline of FERMI@Elettra. The resulting profile can be characterized
+with a Long Trace Profilometer and correlated with the expected optical quality via a wavefront
+propagation code. However, if the roughness contribution can be neglected, the computation can
+be performed via a ray-tracing routine, and, under opportune assumptions, the focal spot profile
+(the Point Spread Function, PSF) can even be predicted analytically. The advantage of this approach
+is that the analytical relation can be reversed; i.e, from the desired PSF the required mirror profile
+can be computed easily, thereby avoiding the use of complex and time-consuming numerical codes.
+The method can also be suited in the case of spatially inhomogeneous beam intensities, as commonly
+experienced at Synchrotrons and FELs. In this work we expose the analytical method and the application
+to the beam shaping problem. 

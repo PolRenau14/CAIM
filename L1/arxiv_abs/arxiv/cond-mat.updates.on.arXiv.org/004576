@@ -1,0 +1,17 @@
+Determining which proteins interact together is crucial to a systems-level understanding of the
+cell. Recently, algorithms based on Direct Coupling Analysis (DCA) pairwise maximum-entropy
+models have allowed to identify interaction partners among the paralogs of ubiquitous prokaryotic
+proteins families, starting from sequence data alone. Since DCA allows to infer the three-dimensional
+structure of protein complexes, its success in predicting protein-protein interactions could
+be mainly based on contacting residues coevolving to remain physicochemically complementary.
+However, interacting proteins often possess similar evolutionary histories, which also gives
+rise to correlations among their sequences. What is the role of purely phylogenetic correlations
+in the performance of DCA-based methods to infer interaction partners? To address this question,
+we employ controlled synthetic data that only involves phylogeny and no interactions or contacts.
+We find that DCA accurately identifies the pairs of synthetic sequences that only share evolutionary
+history. It performs as well as methods explicitly based on sequence similarity, and even slightly
+better with large and accurate training sets. We further demonstrate the ability of these various
+methods to correctly predict pairings among actual paralogous proteins with genome proximity
+but no known direct physical interaction, which illustrates the importance of phylogenetic correlations
+in real data. However, for actually interacting and strongly coevolving proteins, DCA and mutual
+information outperform sequence similarity. 

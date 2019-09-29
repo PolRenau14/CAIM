@@ -1,0 +1,17 @@
+In the standard MOSFET description of the drain current $I_{D}$ as a function of applied gate voltage
+$V_{GS}$, the subthreshold swing $SS(T)\equiv dV_{GS}/d\log I_{D}$ has a fundamental lower limit
+as a function of temperature $T$ given by $SS(T) = \ln10~k_BT/e$. However, recent low-temperature
+studies of different advanced CMOS technologies have reported $SS$(4K or lower) values that are
+at least an order of magnitude larger. Here, we present and analyze the saturation of $SS(T)$ in 28nm
+fully-depleted silicon-on-insulator (FD-SOI) devices for both n- and p-type MOSFETs of different
+gate oxide thicknesses and gate lengths down to 4K. Until now, the increase of interface-trap density
+close to the band edge as temperature decreases has been put forward to understand the saturation.
+Here, an original explanation of the phenomenon is presented by considering a disorder-induced
+tail in the density of states at the conduction (valence) band edge for the calculation of the MOS
+channel transport by applying Fermi-Dirac statistics. This results in a subthreshold $I_{D}\sim
+e^{eV_{GS}/k_BT_0}$ for $T_0=35$K with saturation value $SS(T<T_0) = \ln 10~k_BT_0/e$. The proposed
+model adequately describes the experimental data of $SS(T)$ from 300 down to 4K using $k_BT_0 \simeq
+3$meV for the width of the exponential tail and can also accurately describe $SS(I_{D})$ within
+the whole subthreshold region. Our analysis allows a direct determination of the technology-dependent
+band-tail extension forming a crucial element in future compact modeling and design of cryogenic
+circuits. 

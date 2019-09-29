@@ -1,0 +1,16 @@
+In sparse signal representation, the choice of a dictionary often involves a tradeoff between two
+desirable properties -- the ability to adapt to specific signal data and a fast implementation of
+the dictionary. To sparsely represent signals residing on weighted graphs, an additional design
+challenge is to incorporate the intrinsic geometric structure of the irregular data domain into
+the atoms of the dictionary. In this work, we propose a parametric dictionary learning algorithm
+to design data-adapted, structured dictionaries that sparsely represent graph signals. In particular,
+we model graph signals as combinations of overlapping local patterns. We impose the constraint
+that each dictionary is a concatenation of subdictionaries, with each subdictionary being a polynomial
+of the graph Laplacian matrix, representing a single pattern translated to different areas of the
+graph. The learning algorithm adapts the patterns to a training set of graph signals. Experimental
+results on both synthetic and real datasets demonstrate that the dictionaries learned by the proposed
+algorithm are competitive with and often better than unstructured dictionaries learned by state-of-the-art
+numerical learning algorithms in terms of sparse approximation of graph signals. In contrast to
+the unstructured dictionaries, however, the dictionaries learned by the proposed algorithm feature
+localized atoms and can be implemented in a computationally efficient manner in signal processing
+tasks such as compression, denoising, and classification. 

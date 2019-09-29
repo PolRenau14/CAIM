@@ -1,0 +1,17 @@
+We propose a nonparametric method to explicitly model and represent the derivatives of smooth underlying
+trajectories for longitudinal data. This representation is based on a direct Karhunen--Lo\`eve
+expansion of the unobserved derivatives and leads to the notion of derivative principal component
+analysis, which complements functional principal component analysis, one of the most popular
+tools of functional data analysis. The proposed derivative principal component scores can be obtained
+for irregularly spaced and sparsely observed longitudinal data, as typically encountered in biomedical
+studies, as well as for functional data which are densely measured. Novel consistency results and
+asymptotic convergence rates for the proposed estimates of the derivative principal component
+scores and other components of the model are derived under a unified scheme for sparse or dense observations
+and mild conditions. We compare the proposed representations for derivatives with alternative
+approaches in simulation settings and also in a wallaby growth curve application. It emerges that
+representations using the proposed derivative principal component analysis recover the underlying
+derivatives more accurately compared to principal component analysis-based approaches especially
+in settings where the functional data are represented with only a very small number of components
+or are densely sampled. In a second wheat spectra classification example, derivative principal
+component scores were found to be more predictive for the protein content of wheat than the conventional
+functional principal component scores. 

@@ -1,0 +1,16 @@
+In this paper, we present a robotic navigation algorithm with natural language interfaces, which
+enables a robot to safely walk through a changing environment with moving persons by following human
+instructions such as "go to the restaurant and keep away from people". We first classify human instructions
+into three types: the goal, the constraints, and uninformative phrases. Next, we provide grounding
+for the extracted goal and constraint items in a dynamic manner along with the navigation process,
+to deal with the target objects that are too far away for sensor observation and the appearance of
+moving obstacles like humans. In particular, for a goal phrase (e.g., "go to the restaurant"), we
+ground it to a location in a predefined semantic map and treat it as a goal for a global motion planner,
+which plans a collision-free path in the workspace for the robot to follow. For a constraint phrase
+(e.g., "keep away from people"), we dynamically add the corresponding constraint into a local planner
+by adjusting the values of a local costmap according to the results returned by the object detection
+module. The updated costmap is then used to compute a local collision avoidance control for the safe
+navigation of the robot. By combining natural language processing, motion planning, and computer
+vision, our developed system is demonstrated to be able to successfully follow natural language
+navigation instructions to achieve navigation tasks in both simulated and real-world scenarios.
+Videos are available at https://sites.google.com/view/snhi 

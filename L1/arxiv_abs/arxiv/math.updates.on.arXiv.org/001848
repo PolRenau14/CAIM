@@ -1,0 +1,16 @@
+Spectral Doppler ultrasound imaging allows visualizing blood flow by estimating its velocity
+distribution over time. Duplex ultrasound is a modality in which an ultrasound system is used for
+displaying simultaneously both B-mode images and spectral Doppler data. In B-mode imaging short
+wide-band pulses are used to achieve sufficient spatial resolution in the images. In contrast,
+for Doppler imaging, narrow-band pulses are preferred in order to attain increased spectral resolution.
+Thus, the acquisition time must be shared between the two sequences. In this work, we propose a non-uniform
+slow-time transmission scheme for spectral Doppler, based on nested arrays, which reduces the
+number of pulses needed for accurate spectrum recovery. We derive the minimal number of Doppler
+emissions needed, using this approach, for perfect reconstruction of the blood spectrum in a noise-free
+environment. Next, we provide two spectrum recovery techniques which achieve this minimal number.
+The first method performs efficient recovery based on the fast Fourier transform. The second allows
+for continuous recovery of the Doppler frequencies, thus avoiding off-grid error leakage, at the
+expense of increased complexity. The performance of the techniques is evaluated using realistic
+Field II simulations, showing accurate estimation of the blood velocity spectrum using only 12%
+of the transmissions. The time gained, where no Doppler pulses are sent, can be used to enable the
+display of both blood velocities and high quality B-mode images at a high frame rate. 

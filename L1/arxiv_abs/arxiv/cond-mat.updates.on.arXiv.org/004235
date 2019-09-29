@@ -1,0 +1,16 @@
+We study the structure of divergences and universal terms of the entanglement and R\'enyi entropies
+for singular regions. First, we show that for $(3+1)$-dimensional free conformal field theories
+(CFTs), entangling regions emanating from vertices give rise to a universal contribution $S_n^{\rm
+univ}= -\frac{1}{8\pi}f_b(n) \int_{\gamma} k^2 \log^2(R/\delta)$, where $\gamma$ is the curve
+formed by the intersection of the entangling surface with a unit sphere centered at the vertex, and
+$k$ the trace of its extrinsic curvature. While for circular and elliptic cones this term reproduces
+the general-CFT result, it vanishes for polyhedral corners. For those, we argue that the universal
+contribution, which is logarithmic, is not controlled by a local integral, but rather it depends
+on details of the CFT in a complicated way. We also study the angle dependence for the entanglement
+entropy of wedge singularities in 3+1 dimensions. This is done for general CFTs in the smooth limit,
+and using free and holographic CFTs at generic angles. In the latter case, we show that the wedge contribution
+is not proportional to the entanglement entropy of a corner region in the $(2+1)$-dimensional holographic
+CFT. Finally, we show that the mutual information of two regions that touch at a point is not necessarily
+divergent, as long as the contact is through a sufficiently sharp corner. Similarly, we provide
+examples of singular entangling regions which do not modify the structure of divergences of the
+entanglement entropy compared with smooth surfaces. 

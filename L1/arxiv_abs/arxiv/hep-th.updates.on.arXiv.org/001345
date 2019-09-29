@@ -1,0 +1,16 @@
+We consider new complex co-dimension one objects in F-theory on K3 consisting of the zero loci of
+the coefficient functions f and g of the Weierstrass equation, which we referred to as an `f-locus
+plane' and a `g-locus plane', collectively as `monodromifold planes'. If there are some monodromifold
+planes, the base of the fibration is divided into several cell regions, each of which corresponds
+to a (half of a) fundamental region in the pre-image of the J function. A cell region is bounded by several
+domain walls extending from these monodromifold planes and D-branes, on which the imaginary part
+of the J function vanishes. If one crosses through a special kind of domain walls called `S-walls',
+the type IIB complex string coupling is locally S-dualized, leading to the simultaneous coexistence
+of a theory in the perturbative regime and its nonperturbative S-dual. Consequently, the monodromy
+of a 7-brane gets SL(2,Z) conjugated, and a D-brane is effectively described as a non-D-(p,q)-7-brane.
+In the orientifold limit, the `locally S-dualized regions' shrink to infinitely small and are not
+seen from outside. We find that in a wide range of parameters arises a bound-state-like cluster made
+of two D-branes and one g-locus plane. We also observe that the substructure of an orientifold plane
+is a `3-1-3' system consisting of two clusters, made of an f- and a g-locus planes and a D-brane, and
+a single g-locus plane. As a by-product, we obtain a simple method for computing the monodromy for
+a given path by tracing the walls it goes through. 

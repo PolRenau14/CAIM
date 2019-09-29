@@ -1,0 +1,17 @@
+Is the experimental order of convergence lower when using the entropy stable DGSEM-LGL variant?
+Recently, a debate on the question of the convergence behavior of the entropy stable nodal collocation
+discontinuous Galerkin spectral element method (DGSEM) with Legendre-Gauss-Lobatto nodes has
+emerged. Whereas it is well documented that the entropy conservative variant with no additional
+interface dissipation shows an odd-even behavior when testing its experimental convergence order,
+the results in the literature are less clear regarding the entropy stable version of the DGSEM-LGL,
+where explicit Riemann solver type dissipation is added at the element interfaces. We contribute
+to the ongoing discussion and present numerical experiments for the compressible Euler equations,
+where we investigate the effect of the choice of the numerical surface flux function. In our experiments,
+it turns out that the choice of the numerical surface flux has an impact on the convergence order.
+Penalty type numerical fluxes with high dissipation in all waves, such as the LLF and the HLL flux,
+appear to affect the convergence order negatively for odd polynomial degrees $N$, in contrast to
+the entropy conserving variant, where even polynomial degrees $N$ are negatively affected. This
+behavior is more pronounced in low Mach number settings. In contrast, for numerical surface fluxes
+with less dissipative behavior in the contact wave such as e.g. Roe's flux, the HLLC flux and the entropy
+conservative flux augmented with 5-wave matrix dissipation, optimal convergence rate of $N+1$
+independent of the Mach number is observed. 

@@ -1,0 +1,16 @@
+In this article, we are concerned with the following eigenvalue problem of a linear second order
+elliptic operator: \begin{equation} \nonumber -D\Delta \phi -2\alpha\nabla m(x)\cdot \nabla\phi+V(x)\phi=\lambda\phi\
+\ \hbox{ in }\Omega, \end{equation} complemented by a general boundary condition including Dirichlet
+boundary condition and Robin boundary condition: $$ \frac{\partial\phi}{\partial n}+\beta(x)\phi=0
+\ \ \hbox{ on }\partial\Omega, $$ where $\beta\in C(\partial\Omega)$ allows to be positive, sign-changing
+or negative, and $n(x)$ is the unit exterior normal to $\partial\Omega$ at $x$. The domain $\Omega\subset\mathbb{R}^N$
+is bounded and smooth, the constants $D>0$ and $\alpha>0$ are, respectively, the diffusive and
+advection coefficients, and $m\in C^2(\bar\Omega),\,V\in C(\bar\Omega)$ are given functions.
+We aim to investigate the asymptotic behavior of the principal eigenvalue of the above eigenvalue
+problem as the diffusive coefficient $D\to0$ or $D\to\infty$. Our results, together with those
+of \cite{CL2,DF,Fr} where the Nuemann boundary case (i.e., $\beta=0$ on $\partial\Omega$) and
+Dirichlet boundary case were studied, reveal the important effect of advection and boundary conditions
+on the asymptotic behavior of the principal eigenvalue. We also apply our results to a reaction-diffusion-advection
+equation which is used to describe the evolution of a single species living in a heterogeneous stream
+environment and show some interesting behaviors of the species persistence and extinction caused
+by the buffer zone and small/large diffusion rate. 

@@ -1,0 +1,16 @@
+We obtain quasimode, eigenfunction and spectral projection bounds for Schr\"odinger operators,
+$H_V=-\Delta_g+V(x)$, on compact Riemannian manifolds $(M,g)$ of dimension $n\ge2$, which extend
+the results of the third author~\cite{sogge88} corresponding to the case where $V\equiv 0$. We
+are able to handle critically singular potentials and consequently assume that $V\in L^{\tfrac{n}2}(M)$
+and/or $V\in {\mathcal K}(M)$ (the Kato class). Our techniques involve combining arguments for
+proving quasimode/resolvent estimates for the case where $V\equiv 0$ that go back to the third author
+\cite{sogge88} as well as ones which arose in the work of Kenig, Ruiz and this author~\cite{KRS}
+in the study of "uniform Sobolev estimates" in ${\mathbb R}^n$. We also use techniques from more
+recent developments of several authors concerning variations on the latter theme in the setting
+of compact manifolds. Using the spectral projection bounds we can prove a number of natural $L^p\to
+L^p$ spectral multiplier theorems under the assumption that $V\in L^{\frac{n}2}(M)\cap {\mathcal
+K}(M)$. Moreover, we can also obtain natural analogs of the original Strichartz estimates~\cite{Strichartz77}
+for solutions of $(\partial_t^2-\Delta +V)u=0$. We also are able to obtain analogous results in
+${\mathbb R}^n$ and state some global problems that seem related to works on absence of embedded
+eigenvalues for Schr\"odinger operators in ${\mathbb R}^n$ (e.g., \cite{IonescuJerison}, \cite{JK},
+\cite{KenigNar}, \cite{KochTaEV} and \cite{iRodS}.) 

@@ -1,0 +1,17 @@
+Intrinsic electron spin relaxation due to the D'yakonov-Perel' mechanism is studied in monolayer
+MoS$_2$ with the electron-impurity, electron-electron Coulomb, (both the intra- and inter-valley)
+electron-phonon scatterings explicitly included. We find that only the intervalley electron-phonon
+scattering contributes to the intrinsic in-plane spin relaxation whereas the contributions of
+other scatterings are absent. This originates from the unique momentum-independent intrinsic
+spin-orbit coupling, which only serves as a Zeeman-like term with opposite effective magnetic
+fields perpendicular to the monolayer MoS$_2$ plane in the two valleys. The Zeeman-like term opens
+an intervalley spin relaxation channel together with the intervalley electron-phonon scattering.
+The intervalley electron-phonon scattering is always in the weak scattering limit, which makes
+the in-plane spin relaxation time proportional to the intervalley momentum scattering time. This
+leads to a rapid decrease of the in-plane spin relaxation time with increasing temperature due to
+the enhancement of the intervalley scattering. In addition, we predict a peak in the electron-density
+dependence of the in-plane spin relaxation time. This peak results from the crossover between the
+degenerate and nondegenerate limits. We also find that the in-plane spin relaxation time decreases
+rapidly with the increase of the initial spin polarization at low temperature, which is the same
+as the situation in bilayer graphene but opposite to the cases of both semiconductors and single-layer
+graphene. 

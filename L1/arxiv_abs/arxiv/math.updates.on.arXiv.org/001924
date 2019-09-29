@@ -1,0 +1,16 @@
+The usual approach to developing and analyzing first-order methods for non-smooth (stochastic
+or deterministic) convex optimization assumes that the objective function is uniformly Lipschitz
+continuous with parameter $M_f$. However, in many settings the non-differentiable convex function
+$f(\cdot)$ is not uniformly Lipschitz continuous -- for example (i) the classical support vector
+machine (SVM) problem, (ii) the problem of minimizing the maximum of convex quadratic functions,
+and even (iii) the univariate setting with $f(x) := \max\{0, x\} + x^2$. Herein we develop a notion
+of "relative continuity" that is determined relative to a user-specified "reference function"
+$h(\cdot)$ (that should be computationally tractable for algorithms), and we show that many non-differentiable
+convex functions are relatively continuous with respect to a correspondingly fairly-simple reference
+function $h(\cdot)$. We also similarly develop a notion of "relative stochastic continuity" for
+the stochastic setting. We analysis two standard algorithms -- the (deterministic) mirror descent
+algorithm and the stochastic mirror descent algorithm -- for solving optimization problems in
+these two new settings, and we develop for the first time computational guarantees for instances
+where the objective function is not uniformly Lipschitz continuous. This paper is a companion paper
+for non-differentiable convex optimization to the recent paper by Lu, Freund, and Nesterov, which
+developed similar sorts of results for differentiable convex optimization. 

@@ -1,0 +1,16 @@
+Drone cell (DC) is an emerging technique to offer flexible and cost-effective wireless connections
+to collect Internet-of-things (IoT) data in uncovered areas of terrestrial networks. The flying
+trajectory of DC significantly impacts the data collection performance. However, designing the
+trajectory is a challenging issue due to the complicated 3D mobility of DC, unique DC-to-ground
+(D2G) channel features, limited DC-to-BS (D2B) backhaul link quality, etc. In this paper, we propose
+a 3D DC trajectory design for the DC-assisted IoT data collection where multiple DCs periodically
+fly over IoT devices and relay the IoT data to the base stations (BSs). The trajectory design is formulated
+as a mixed integer non-linear programming (MINLP) problem to minimize the average user-to-DC (U2D)
+pathloss, considering the state-of-the-art practical D2G channel model. We decouple the MINLP
+problem into multiple quasi-convex or integer linear programming (ILP) sub-problems, which optimizes
+the user association, user scheduling, horizontal trajectories and DC flying altitudes of DCs,
+respectively. Then, a 3D multi-DC trajectory design algorithm is developed to solve the MINLP problem,
+in which the sub-problems are optimized iteratively through the block coordinate descent (BCD)
+method. Compared with the static DC deployment, the proposed trajectory design can lower the average
+U2D pathloss by 10-15 dB, and reduce the standard deviation of U2D pathloss by 56%, which indicates
+the improvements in both link quality and user fairness. 

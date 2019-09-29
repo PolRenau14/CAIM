@@ -1,0 +1,16 @@
+An $\varepsilon$-coreset for Least-Mean-Squares (LMS) of a matrix $A\in{\mathbb{R}}^{n\times
+d}$ is a small weighted subset of its rows that approximates the sum of squared distances from its
+rows to every affine $k$-dimensional subspace of ${\mathbb{R}}^d$, up to a factor of $1\pm\varepsilon$.
+Such coresets are useful for hyper-parameter tuning and solving many least-mean-squares problems
+such as low-rank approximation ($k$-SVD), $k$-PCA, Lassso/Ridge/Linear regression and many
+more. Coresets are also useful for handling streaming, dynamic and distributed big data in parallel.
+With high probability, non-uniform sampling based on upper bounds on what is known as importance
+or sensitivity of each row in $A$ yields a coreset. The size of the (sampled) coreset is then near-linear
+in the total sum of these sensitivity bounds. We provide algorithms that compute provably \emph{tight}
+bounds for the sensitivity of each input row. It is based on two ingredients: (i) iterative algorithm
+that computes the exact sensitivity of each point up to arbitrary small precision for (non-affine)
+$k$-subspaces, and (ii) a general reduction of independent interest from computing sensitivity
+for the family of affine $k$-subspaces in ${\mathbb{R}}^d$ to (non-affine) $(k+1)$- subspaces
+in ${\mathbb{R}}^{d+1}$. Experimental results on real-world datasets, including the English
+Wikipedia documents-term matrix, show that our bounds provide significantly smaller and data-dependent
+coresets also in practice. Full open source is also provided. 

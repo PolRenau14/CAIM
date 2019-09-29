@@ -1,0 +1,17 @@
+Fundamental symmetry tests of baryon number violation in low-energy experiments can probe beyond
+the Standard Model (BSM) explanations of the matter-antimatter asymmetry of the universe. Neutron-antineutron
+oscillations are predicted to be a signature of many baryogenesis mechanisms involving low-scale
+baryon number violation. This work presents a pioneering first-principles calculation of neutron-antineutron
+matrix elements of the six-quark operators needed to accurately connect measurements of the neutron-antineutron
+oscillation rate to constraints on $|\Delta B|=2$ baryon number violation in BSM theories. Our
+calculation is performed with state-of-the-art chirally symmetric QCD discretization with physical
+quark masses and robust control over the majority of lattice systematic uncertainties, including
+nonperturbative renormalization of the six-quark operators to the $\overline{\text{MS}}$ scheme.
+We find that our results based on realistic QCD predict at least an order of magnitude more events
+in neutron-antineutron oscillation experiments compared to previous estimates based on the MIT
+bag model for the same BSM parameters. Phenomenological implications are highlighted by comparing
+expected bounds from proposed neutron-antineutron oscillation experiments to predictions of
+a specific model of post-sphaleron baryogenesis, thus demonstrating the impact future experiments
+can make in searches for new physics. Lattice artifacts and other systematic uncertainties that
+are not controlled in this pioneering calculation are not expected to significantly change this
+conclusion. 

@@ -1,0 +1,16 @@
+It has long been realized that the natural `orbit space' for non-abelian Yang-Mills dynamics (i.e.,
+the reduced configuration space of gauge equivalence classes of spatial connections) is a \textit{positively
+curved} (infinite dimensional) Riemannian manifold. Expanding upon this result I.M.~Singer
+was led to propose that strict positivity of the corresponding Ricci tensor (computable from the
+rigorously defined curvature tensor through a suitable zeta function regularization procedure)
+could play a fundamental role in establishing that the associated Schr{\"o}dinger operator admits
+a \textit{spectral gap}. His argument was based on representing the (suitably regularized) kinetic
+term in the Schr{\"o}dinger operator as a Laplace-Beltrami operator on this positively curved
+orbit space. In this article we revisit Singer's proposal and show how, when the contribution of
+the Yang-Mills (magnetic) potential energy is taken into account, the role of the original orbit
+space Ricci tensor is instead played by a certain `Bakry-Emery Ricci tensor' computable from the
+ground state wave functional of the quantum theory. We next review the authors' ongoing \textit{Euclidean-signature-semi-classical}
+program for deriving asymptotic expansions for such wave functionals and discuss how, by keeping
+the dynamical nonlinearities and non-abelian gauge invariances fully intact at each level of the
+analysis, our approach surpasses that of conventional perturbation theory for the generation
+of such approximate wave functionals. 

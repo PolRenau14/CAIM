@@ -1,0 +1,16 @@
+We have obtained an integral representation of the shallow neural network that attains the global
+minimum of its backpropagation (BP) training problem. According to our unpublished numerical
+simulations conducted several years prior to this study, we had noticed that such an integral representation
+may exist, but it was not proven until today. First, we introduced a Hilbert space of coefficient
+functions, and a reproducing kernel Hilbert space (RKHS) of hypotheses, associated with the integral
+representation. The RKHS reflects the approximation ability of neural networks. Second, we established
+the ridgelet analysis on RKHS. The analytic property of the integral representation is remarkably
+clear. Third, we reformulated the BP training as the optimization problem in the space of coefficient
+functions, and obtained a formal expression of the unique global minimizer, according to the Tikhonov
+regularization theory. Finally, we demonstrated that the global minimizer is the shrink ridgelet
+transform. Since the relation between an integral representation and an ordinary finite network
+is not clear, and BP is convex in the integral representation, we cannot immediately answer the question
+such as "Is a local minimum a global minimum?" However, the obtained integral representation provides
+an explicit expression of the global minimizer, without linearity-like assumptions, such as partial
+linearity and monotonicity. Furthermore, it indicates that the ordinary ridgelet transform provides
+the minimum norm solution to the original training equation. 

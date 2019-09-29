@@ -1,0 +1,16 @@
+The hadronic interaction of cosmic rays with solar atmosphere can produce high energy gamma rays.
+The gamma-ray luminosity is correlated both with the flux of primary cosmic rays and the intensity
+of the solar magnetic field. The gamma rays below 200 GeV have been observed by $Fermi$ without any
+evident energy cutoff. The bright gamma-ray flux above 100 GeV has been detected only during solar
+minimum. The only available data in TeV range come from the HAWC observations, however outside the
+solar minimum. The ARGO-YBJ dataset has been used to search for sub-TeV/TeV gamma rays from the Sun
+during the solar minimum from 2008 to 2010, the same time period covered by the Fermi data. A suitable
+model containing the Sun shadow, solar disk emission and inverse-Compton emission has been developed,
+and the chi-square minimization method was used to quantitatively estimate the disk gamma-ray
+signal. The result shows that no significant gamma-ray signal is detected and upper limits to the
+gamma-ray flux at 0.3$-$7 TeV are set at 95\% confidence level. In the low energy range these limits
+are consistent with the extrapolation of the Fermi-LAT measurements taken during solar minimum
+and are compatible with a softening of the gamma-ray spectrum below 1 TeV. They provide also an experimental
+upper bound to any solar disk emission at TeV energies. Models of dark matter annihilation via long-lived
+mediators predicting gamma-ray fluxes > $10^{-7}$ GeV $cm^{-2}$ $s^{-1}$ below 1 TeV are ruled
+out by the ARGO-YBJ limits. 

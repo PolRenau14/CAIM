@@ -1,0 +1,16 @@
+We consider consider a population living in a patchy environment that varies stochastically in
+space and time. The population is composed of two morphs (that is, individuals of the same species
+with different genotypes). In terms of survival and reproductive success, the associated phenotypes
+differ only in their habitat selection strategies. We compute invasion rates corresponding to
+the rates at which the abundance of an initially rare morph increases in the presence of the other
+morph established at equilibrium. If both morphs have positive invasion rates when rare, then there
+is an equilibrium distribution such that the two morphs coexist; that is, there is a protected polymorphism
+for habitat selection. Alternatively, if one morph has a negative invasion rate when rare, then
+it is asymptotically displaced by the other morph under all initial conditions where both morphs
+are present. We refine the characterization of an evolutionary stable strategy for habitat selection
+from [Schreiber, 2012] in a mathematically rigorous manner. We provide a necessary and sufficient
+condition for the existence of an ESS that uses all patches and determine when using a single patch
+is an ESS. We also provide an explicit formula for the ESS when there are two habitat types. We show
+that adding environmental stochasticity results in an ESS that, when compared to the ESS for the
+corresponding model without stochasticity, spends less time in patches with larger carrying capacities
+and possibly makes use of sink patches, thereby practicing a spatial form of bet hedging. 

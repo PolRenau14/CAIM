@@ -1,0 +1,16 @@
+Today's high-performance computing (HPC) systems are heavily instrumented, generating logs
+containing information about abnormal events, such as critical conditions, faults, errors and
+failures, system resource utilization, and about the resource usage of user applications. These
+logs, once fully analyzed and correlated, can produce detailed information about the system health,
+root causes of failures, and analyze an application's interactions with the system, providing
+valuable insights to domain scientists and system administrators. However, processing HPC logs
+requires a deep understanding of hardware and software components at multiple layers of the system
+stack. Moreover, most log data is unstructured and voluminous, making it more difficult for system
+users and administrators to manually inspect the data. With rapid increases in the scale and complexity
+of HPC systems, log data processing is becoming a big data challenge. This paper introduces a HPC
+log data analytics framework that is based on a distributed NoSQL database technology, which provides
+scalability and high availability, and the Apache Spark framework for rapid in-memory processing
+of the log data. The analytics framework enables the extraction of a range of information about the
+system so that system administrators and end users alike can obtain necessary insights for their
+specific needs. We describe our experience with using this framework to glean insights from the
+log data about system behavior from the Titan supercomputer at the Oak Ridge National Laboratory.

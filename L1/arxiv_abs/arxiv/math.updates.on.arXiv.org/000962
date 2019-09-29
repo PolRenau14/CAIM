@@ -1,0 +1,16 @@
+This paper addresses receiver (RX) signal processing in multi-user multiple-input multiple-output
+(MU-MIMO) systems. We focus on uplink orthogonal frequency division multiple access (OFDMA)-based
+MU-MIMO communications under in-phase quadrature-phase (I/Q) imbalance in the associated radio
+frequency electronics. It is shown in the existing literature that transceiver I/Q imbalances
+cause cross-talk of mirror-subcarriers in OFDM systems. Opposed to typically reported single-user
+studies, we extend the studies to OFDMA-based MU-MIMO communications and incorporate also external
+interference from multiple sources at RX input, for modeling challenging conditions in increasingly
+popular heterogeneous networks. In the signal processing developments, we exploit the augmented
+subcarrier processing, which processes each subcarrier jointly with its counterpart at the image
+subcarrier, and jointly across all RX antennas. Furthermore, we derive optimal augmented linear
+RX in terms of minimizing the mean-squared error. Extensive numerical results show the signal-to-interference-plus-noise
+ratio as a function of different system and impairment parameters. Based on the results, the performance
+of the conventional per-subcarrier processing is heavily limited under transceiver I/Q imbalances,
+and is particularly sensitive to external interferers, whereas the proposed augmented subcarrier
+processing provides a high-performance signal processing solution being able to detect the signals
+of different users as well as suppress external interference efficiently. 

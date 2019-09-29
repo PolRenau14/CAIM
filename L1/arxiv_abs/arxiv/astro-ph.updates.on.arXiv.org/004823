@@ -1,0 +1,17 @@
+The TeV gamma ray sky is observable by recording footprints of extensive air showers with an array
+of particle detectors. In the northern hemisphere there are currently two projects employing this
+technique: The HAWC gamma ray observatory which is currently operational in Mexico and LHAASO in
+the Sichuan region in China which is currently under development. In the southern hemisphere several
+efforts are currently ongoing to investigate the feasibility of a similar observatory at very high
+altitude sites in the Andes. The science case for such an observatory should be complementary to
+the science to be performed by the future Cherenkov Telescope Array. There are two clear directions
+in which such an observatory could optimize its performance. Firstly, optimize the performance
+of sub-TeV energies. This is especially important to provide an unbiased monitoring of a large fraction
+of the sky for observations of transient and extended sources. Secondly, to obtain the largest photon
+statistics above roughly 50 TeV, which requires a large collection area with sufficient performance
+in angular and energy resolution. This would enable to extend spectral measurements of Galactic
+sources and gives the opportunity to search for dark matter and exotic physics in a new energy range.
+Using simulated air showers and a generalized detector description the performance of a conceptual
+observatory is studied and the ways to optimize it will be discussed. With this approach the baseline
+design of such an observatory can be obtained without the need of detailed simulations of the detector
+hardware. 

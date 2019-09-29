@@ -1,0 +1,17 @@
+We propose an analog superconducting quantum simulator for a one-dimensional model featuring
+momentum-dependent (nonlocal) electron-phonon couplings of Su-Schrieffer-Heeger and "breathing-mode"
+types. Because its corresponding vertex function depends on both the electron- and phonon quasimomenta,
+this model does not belong to the realm of validity of the Gerlach-L\"{o}wen theorem that rules out
+any nonanalyticities in single-particle properties. The superconducting circuit behind the
+proposed simulator entails an array of transmon qubits and microwave resonators. By applying microwave
+driving fields to the qubits, a small-polaron Bloch state with an arbitrary quasimomentum can be
+prepared in this system within times several orders of magnitude shorter than the typical qubit
+decoherence times. We demonstrate that in this system -- by varying the circuit parameters -- one
+can readily reach the critical coupling strength required for observing the sharp transition from
+a nondegenerate (single-particle) ground state corresponding to zero quasimomentum ($K_{\textrm{gs}}=0$)
+to a twofold-degenerate small-polaron ground state at nonzero quasimomenta $K_{\textrm{gs}}$
+and $-K_{\textrm{gs}}$. Through exact numerical diagonalization of our effective Hamiltonian,
+we show how this nonanalyticity is reflected in the relevant single-particle properties (ground-state
+energy, quasiparticle residue, average number of phonons). The proposed setup provides an ideal
+testbed for studying quantum dynamics of polaron formation in systems with strongly momentum-dependent
+electron-phonon interactions. 

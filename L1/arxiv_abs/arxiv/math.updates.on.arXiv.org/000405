@@ -1,0 +1,16 @@
+Many problems of systems control theory boil down to solving polynomial equations, polynomial
+inequalities or polyomial differential equations. Recent advances in convex optimization and
+real algebraic geometry can be combined to generate approximate solutions in floating point arithmetic.
+In the first part of the course we describe semidefinite programming (SDP) as an extension of linear
+programming (LP) to the cone of positive semidefinite matrices. We investigate the geometry of
+spectrahedra, convex sets defined by linear matrix inequalities (LMIs) or affine sections of the
+SDP cone. We also introduce spectrahedral shadows, or lifted LMIs, obtained by projecting affine
+sections of the SDP cones. Then we review existing numerical algorithms for solving SDP problems.
+In the second part of the course we describe several recent applications of SDP. First, we explain
+how to solve polynomial optimization problems, where a real multivariate polynomial must be optimized
+over a (possibly nonconvex) basic semialgebraic set. Second, we extend these techniques to ordinary
+differential equations (ODEs) with polynomial dynamics, and the problem of trajectory optimization
+(analysis of stability or performance of solutions of ODEs). Third, we conclude this part with applications
+to optimal control (design of a trajectory optimal w.r.t. a given functional). For some of these
+decision and optimization problems, it is hoped that the numerical solutions computed by SDP can
+be refined a posteriori and certified rigorously with appropriate techniques. 

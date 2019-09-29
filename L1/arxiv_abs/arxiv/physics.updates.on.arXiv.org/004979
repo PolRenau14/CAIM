@@ -1,0 +1,17 @@
+The accuracy and stability of implicit CFD codes is frequently impaired by the decoupling between
+variables, which can ultimately lead to numerical divergence. Coupled solvers, which solve all
+the governing equations simultaneously, have the potential to fix this problem. In this work, we
+report the implementation of coupled-solvers for transient and steady-state electrically-driven
+flow simulations in the finite-volumes framework. The numerical method, developed in OpenFOAM,
+is generic for Newtonian and viscoelastic fluids, and is formulated for the Poisson-Nernst-Planck
+and Poisson-Boltzmann models. The resulting coupled systems of equations are solved efficiently
+with PETSc library. The performance of the coupled solvers is assessed in two test cases: induced-charge
+electroosmosis of a Newtonian fluid around a cylinder; electroosmotic flow of a PTT viscoelastic
+fluid in a contraction/expansion microchannel. The coupled solvers are more accurate in transient
+simulations and also allow the use of larger time-steps without numerical divergence. For steady-state
+simulations, the coupled solvers converge in less iterations than segregated solvers. Although
+coupled solvers are much slower in a per time-step basis, the overall speedup factor obtained in
+this study reached a maximum value of ~100, where the highest factors have been obtained with semi-coupled
+solvers, which drop some coupling terms between equations. While further research is needed to
+improve the efficiency of the matrix solving stage, coupled solvers are already superior to segregated
+solvers in a number of cases. 

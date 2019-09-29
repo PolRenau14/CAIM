@@ -1,0 +1,16 @@
+Motion planning in multi-contact scenarios has recently gathered interest within the legged robotics
+community, however actuator force/torque limits are rarely considered. We believe that these
+limits gain paramount importance when the complexity of the terrains to be traversed increases.
+For this reason we propose two new six-dimensional bounded polytopes named the Actuation Wrench
+Polytope (AWP) and the Feasible Wrench Polytope (FWP). We define the AWP as the set of all the wrenches
+that a robot can generate on its own Center of Mass (CoM) while considering its actuation limits.
+This considers the admissible contact forces that the robot can generate given its current configuration
+and actuation capabilities but does not include features of the environment such as the contact
+normal or the friction coefficient. These are considered by the Contact Wrench Cone (CWC); the AWP
+can therefore be seen as complementary with respect to the CWC. The intersection of the AWP and of
+the CWC results in a polytope, the FWP, which turns out to be more descriptive of the real robot capabilities,
+while maintaining the same compact representation. We explain how to efficiently compute the vertex-description
+of the FWP and we also introduce a new locomotion stability metric based on the FWP, that we call feasibility
+margin, which allows us to optimize for robustness to external disturbance wrenches. Based on this,
+we present an implementation of a motion planner for our quadruped robot HyQ that provides online
+CoM trajectories that are guaranteed to be stable and actuation-consistent. 

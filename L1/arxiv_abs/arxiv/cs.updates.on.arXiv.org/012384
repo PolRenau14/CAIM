@@ -1,0 +1,17 @@
+In this paper, we provide a rigorous characterization of consensus solvability in synchronous
+directed dynamic networks controlled by an arbitrary message adversary using point-set topology:
+We extend the approach introduced by Alpern and Schneider in 1985 by introducing two novel topologies
+on the space of infinite executions: the process-view topology, induced by a distance function
+that relies on the local view of a given process in an execution, and the minimum topology, which is
+induced by a distance function that focuses on the local view of the process that is the last to distinguish
+two executions. We establish some simple but powerful topological results, which not only lead
+to a topological explanation of bivalence arguments, but also provide necessary and sufficient
+topological conditions on the admissible graph sequences of a message adversary for solving consensus.
+In particular, we characterize consensus solvability in terms of connectivity of the set of admissible
+graph sequences. For non-compact message adversaries, which are not limit-closed in the sense
+that there is a convergent sequence of graph sequences whose limit is not permitted, this requires
+the exclusion of all "fair" and "unfair" limit sequences that coincide with the forever bivalent
+runs constructed in bivalence proofs. For both compact and non-compact message adversaries, we
+also provide tailored characterizations of consensus solvability, i.e., tight conditions for
+impossibility and existence of algorithms, based on the broadcastability of the connected components
+of the set of admissible graph sequences. 

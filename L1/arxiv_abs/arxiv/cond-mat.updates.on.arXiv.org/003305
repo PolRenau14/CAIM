@@ -1,0 +1,16 @@
+Low-loss electron energy loss spectroscopy (EELS) in the scanning transmission electron microscope
+(STEM) probes the valence electron density and relevant optoelectronic properties such as band
+gap energies and other band structure transitions. The measured spectra can be formulated in a dielectric
+theory framework, comparable to optical spectroscopies and ab-initio simulations. Moreover,
+Kramers-Kronig analysis (KKA), an inverse algorithm based on the homonym relations, can be employed
+for the retrieval of the complex dielectric function (CDF). However, spurious contributions traditionally
+not considered in this framework typically impact low-loss EELS modifying the spectral shapes
+and precluding the correct measurement and retrieval of the dielectric information. A relativistic
+KKA algorithm is able to account for the bulk and surface radiative-loss contributions to low-loss
+EELS, revealing the correct dielectric properties. Using a synthetic low-loss EELS model, we propose
+some modifications on the naive implementation of this algorithm that broadens its range of application.
+The robustness of the algorithm is improved by regularization, appliying previous knowledge about
+the shape and smoothness of the correction term. Additionally, our efficient numerical integration
+methodology allows processing hyperspectral datasets in a reasonable amount of time. Harnessing
+these abilities, we show how simultaneous relativistic KKA processing of several spectra can share
+information to produce an improved result. 

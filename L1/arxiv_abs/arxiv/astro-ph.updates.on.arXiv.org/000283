@@ -1,0 +1,16 @@
+We study the efficiency of growing large bodies, starting from a sea of equal-sized planetesimal
+seeds. This is likely one of the earlier steps of planet formation and is related to the origin of the
+asteroid belt, the Kuiper belt and extra-solar debris disks. Here we study the case that the seeds
+do not collide frequently enough for dynamical cooling to be important (the collisionless limit),
+using a newly constructed conglomeration code, and by carefully comparing numerical results with
+analytical scalings. We find that large bodies grow primarily by accreting small seeds (and not
+by accreting each other). As the velocity dispersion of the small bodies (u) is increasingly excited
+by the growing big bodies, growth passes from the well-known run-away stage (when u is higher than
+the big bodies' hill velocity) to the newly discovered trans-hill stage (when u and big bodies both
+grow, but u remains at the big bodies' hill velocity). We find, concurring with analytical understandings
+developed in Lithwick (2013), as well as previous numerical studies, that a size spectrum dn/dR
+~ R^{-4} results, and the formation efficiency, defined as mass fraction in bodies much greater
+than the seed sizes, is ~ a few times R_sun/a, or ~10^{-3} at the distance of the Kuiper belt. This extreme
+inefficiency argues against the collisionless limit for the formation of the Kuiper belt and extra-solar
+debris disks. To conglomerate large bodies in those regions, the initial planetesimals may have
+to be small and highly collisional. 

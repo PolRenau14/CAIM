@@ -1,0 +1,16 @@
+With the development of decentralized consensus protocols, permissionless blockchains have
+been envisioned as a promising enabler for the general-purpose transaction-driven, autonomous
+systems. However, most of the prevalent blockchain networks are built upon the consensus protocols
+under the crypto-puzzle framework known as proof-of-work. Such protocols face the inherent problem
+of transaction-processing bottleneck, as the networks achieve the decentralized consensus for
+transaction confirmation at the cost of very high latency. In this paper, we study the problem of
+consensus formation in a system of multiple throughput-scalable blockchains with sharded consensus.
+Specifically, the protocol design of sharded consensus not only enables parallelizing the process
+of transaction validation with sub-groups of processors, but also introduces the Byzantine consensus
+protocols for accelerating the consensus processes. By allowing different blockchains to impose
+different levels of processing fees and to have different transaction-generating rate, we aim
+to simulate the multi-service provision eco-systems based on blockchains in real world. We focus
+on the dynamics of blockchain-selection in the condition of a large population of consensus processors.
+Hence, we model the evolution of blockchain selection by the individual processors as an evolutionary
+game. Both the theoretical and the numerical analysis are provided regarding the evolutionary
+equilibria and the stability of the processors' strategies in a general case. 

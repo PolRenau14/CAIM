@@ -1,0 +1,16 @@
+Spreadsheets are the most popular end-user programming software, where formulae act like programs
+and also have smells. One well recognized common smell of spreadsheet formulae is nest-IF expressions,
+which have low readability and high cognitive cost for users, and are error-prone during reuse or
+maintenance. However, end users usually lack essential programming language knowledge and skills
+to tackle or even realize the problem. The previous research work has made very initial attempts
+in this aspect, while no effective and automated approach is currently available. This paper firstly
+proposes an AST-based automated approach to systematically refactoring nest-IF formulae. The
+general idea is two-fold. First, we detect and remove logic redundancy on the AST. Second, we identify
+higher-level semantics that have been fragmented and scattered, and reassemble the syntax using
+concise built-in functions. A comprehensive evaluation has been conducted against a real-world
+spreadsheet corpus, which is collected in a leading IT company for research purpose. The results
+with over 68,000 spreadsheets with 27 million nest-IF formulae reveal that our approach is able
+to relieve the smell of over 99\% of nest-IF formulae. Over 50% of the refactorings have reduced nesting
+levels of the nest-IFs by more than a half. In addition, a survey involving 49 participants indicates
+that for most cases the participants prefer the refactored formulae, and agree on that such automated
+refactoring approach is necessary and helpful. 

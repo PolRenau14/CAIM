@@ -1,0 +1,17 @@
+Semiflexible biopolymer networks are commonly found in biological systems, from the cytoskeleton
+of cells to the extracellular matrix. Such networks often naturally occur as composites, in which
+various components interact to generate rich mechanical behaviours. In this work we examine the
+mechanics of composites formed when a single fibre inclusion is placed within discrete fibre networks
+of two distinct architectures. In particular, we computationally and theoretically investigate
+the mechanics of composites formed when an inclusion is introduced to Voronoi- and Mikado--type
+networks within the nonaffine regime. On subjecting these single inclusion composites to small
+shear deformations, we observe different behaviours dependent on the choice of network geometry.
+This divergence in mechanical responses is interpreted as a consequence of architecture-dependent
+differences in the nonaffine displacement field. Scaling laws for the increase in network energy
+due to inclusions of different lengths, orientations, and elastic properties are proposed and
+computationally verified. We present theoretical predictions for critical values of the inclusion
+bending and stretching stiffnesses, above which no further increases in network energy are observed
+for a given shear deformation. These predictions are supported by extensive computational evidence.
+We expect the architectural differences identified in this work to be pertinent to theoretical
+investigations into the complex behaviour of biopolymer networks, and to experimental work, where
+complex mechanics has been observed in composite fibre networks. 

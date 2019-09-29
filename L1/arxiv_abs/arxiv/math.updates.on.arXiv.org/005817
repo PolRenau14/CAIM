@@ -1,0 +1,16 @@
+We develop backstepping state feedback control to stabilize a moving shockwave in a freeway segment
+under bilateral boundary actuations of traffic flow. A moving shockwave, consisting of light traffic
+upstream of the shockwave and heavy traffic downstream, is usually caused by changes of local road
+situations. The density discontinuity travels upstream and drivers caught in the shockwave experience
+transitions from free to congested traffic. Boundary control design in this paper brings the moving
+shockwave front to a static setpoint position, hindering the upstream propagation of traffic congestion.
+The traffic dynamics are described with Lighthill-Whitham-Richard (LWR) model, leading to a system
+of two first-order hyperbolic partial differential equations (PDEs). Each represents the traffic
+density of a spatial domain segregated by the moving interface. By Rankine-Hugoniot condition,
+the interface position is driven by flux discontinuity and thus governed by a PDE state dependent
+ordinary differential equation (ODE). For the PDE-ODE coupled system. the control objective is
+to stabilize both the PDE states of traffic density and the ODE state of moving shock position to setpoint
+values. Using delay representation and backstepping method, we design predictor feedback controllers
+to cooperatively compensate state-dependent input delays to the ODE. From Lyapunov stability
+analysis, we show local stability of the closed-loop system in $H^1$ norm. The performance of controllers
+is demonstrated by numerical simulation. 

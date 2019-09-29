@@ -1,0 +1,17 @@
+We study unbinding of multivalent cationic ligands from oppositely charged polymeric binding
+sites sparsely grafted on a flat neutral substrate. Our molecular dynamics (MD) simulations are
+suggested by single-molecule studies of protein-DNA interactions. We consider univalent salt
+concentrations spanning roughly a thousandfold range, together with various concentrations
+of excess ligands in solution. To reveal the ionic effects on unbinding kinetics of spontaneous
+and facilitated dissociation mechanisms, we treat electrostatic interactions both at a Debye-H\"{u}ckel
+(DH, or `implicit' ions, i.e., use of an electrostatic potential with a prescribed decay length)
+level, as well as by the more precise approach of considering all ionic species explicitly in the
+simulations. We find that the DH approach systematically overestimates unbinding rates, relative
+to the calculations where all ion pairs are present explicitly in solution, although many aspects
+of the two types of calculation are qualitatively similar. For facilitated dissociation (FD, acceleration
+of unbinding by free ligands in solution) explicit ion simulations lead to unbinding at lower free
+ligand concentrations. Our simulations predict a variety of FD regimes as a function of free ligand
+and ion concentrations; a particularly interesting regime is at intermediate concentrations
+of ligands where non-electrostatic binding strength controls FD. We conclude that explicit-ion
+electrostatic modeling is an essential component to quantitatively tackle problems in molecular
+ligand dissociation, including nucleic-acid-binding proteins. 

@@ -1,0 +1,16 @@
+Having timely and fresh knowledge about the current state of information sources is critical in
+a variety of applications. In particular, a status update may arrive at the destination much later
+than its generation time due to processing and communication delays. The freshness of the status
+update at the destination is captured by the notion of age of information. In this study, we first
+analyze a network with a single source, $n$ servers, and the monitor (destination). The servers
+independently sense the source of information and send the status update to the monitor. We then
+extend our result to multiple independent sources of information in the presence of $n$ servers.
+We assume that updates arrive at the servers according to Poisson random processes. Each server
+sends its update to the monitor through a direct link, which is modeled as a queue. The service time
+to transmit an update is considered to be an exponential random variable. We examine both homogeneous
+and heterogeneous service and arrival rates for the single-source case, and only homogeneous arrival
+and service rates for the multiple sources case. We derive a closed-form expression for the average
+age of information under a last-come-first-serve (LCFS) queue for a single source and arbitrary
+$n$ homogeneous servers. For $n=2,3$, we derive the explicit average age of information for arbitrary
+sources and homogeneous servers, and for a single source and heterogeneous servers. For $n=2$ we
+find the optimal arrival rates given a fixed sum arrival rate and service rates. 

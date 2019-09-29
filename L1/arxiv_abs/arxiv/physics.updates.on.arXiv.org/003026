@@ -1,0 +1,17 @@
+It is of great concern to produce numerically efficient methods for moisture diffusion through
+porous media, capable of accurately calculate moisture distribution with a reduced computational
+effort. In this way, model reduction methods are promising approaches to bring a solution to this
+issue since they do not degrade the physical model and provide a significant reduction of computational
+cost. Therefore, this article explores in details the capabilities of two model-reduction techniques
+- the Spectral Reduced-Order Model (Spectral-ROM) and the Proper Generalised Decomposition (PGD)
+- to numerically solve moisture diffusive transfer through porous materials. Both approaches
+are applied to three different problems to provide clear examples of the construction and use of
+these reduced-order models. The methodology of both approaches is explained extensively so that
+the article can be used as a numerical benchmark by anyone interested in building a reduced-order
+model for diffusion problems in porous materials. Linear and non-linear unsteady behaviors of
+unidimensional moisture diffusion are investigated. The last case focuses on solving a parametric
+problem in which the solution depends on space, time and the diffusivity properties. Results have
+highlighted that both methods provide accurate solutions and enable to reduce significantly the
+order of the model around ten times lower than the large original model. It also allows an efficient
+computation of the physical phenomena with an error lower than 10^{-2} when compared to a reference
+solution. 

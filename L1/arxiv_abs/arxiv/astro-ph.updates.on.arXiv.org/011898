@@ -1,0 +1,16 @@
+Ultraluminous X-ray (ULX) pulsars are a new class of object powered by apparent super-critical
+accretion onto magnetized neutron stars. Three sources in this class identified so far; M82 X-2,
+NGC 5907 ULX-1 and NGC 7793 P13, have been found to have two properties in common; $\sim1$-s spin periods,
+and for NGC 5907 ULX-1 and NGC 7793 P13 periodic X-ray flux modulations on timescales of $\sim60-80$
+days. M82 X-2 resides in a crowded field that includes the ULX M82 X-1 separated from X-2 by 5", as well
+as other bright point sources. A 60-day modulation has been observed from the region but the origin
+has been difficult to identify; both M82 X-1 and X-2 have been suggested as the source. In this paper
+we present the analysis of a systematic monitoring campaign by Chandra, the only X-ray telescope
+capable of resolving the crowded field. From a simple Lomb-Scargle periodogram analysis and a more
+sophisticated Gaussian Process analysis we find that only X-2 exhibits a periodic signal around
+60 days supporting previous claims that it is the origin. We also construct a phase-averaged flux
+profile of the modulations from higher cadence Swift/XRT data and find that the flux variations
+in the Chandra data are fully consistent with the flux profile. Since the orbit of the neutron star
+and its companion is known to be 2.5 days, the $\sim60$-day period must be super-orbital in origin.
+The flux of the modulations varies by a factor of $\sim$100 from minimum to maximum, with no evidence
+for spectral variations, making the origin difficult to explain. 

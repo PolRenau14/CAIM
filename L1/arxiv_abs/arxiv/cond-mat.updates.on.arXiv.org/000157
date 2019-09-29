@@ -1,0 +1,16 @@
+We calculate the conductances of a three-terminal junction set-up of spinless Luttinger liquid
+wires threaded by a magnetic flux, allowing for different interaction strength g_3 != g in the third
+wire. We employ the fermionic representation in the scattering state picture, allowing for a direct
+calculation of the linear response conductances, without the need of introducing contact resistances
+at the connection points to the outer ideal leads. The matrix of conductances is parametrized by
+three variables. For these we derive coupled renormalization group (RG) equations, by summing
+up infinite classes of contributions in perturbation theory. The resulting general structure
+of the RG equations may be employed to describe junctions with an arbitrary number of wires and arbitrary
+interaction strength in each wire. The fixed point structure of these equations (for the chiral
+Y-junction) is analyzed in detail. For repulsive interaction (g,g_3>0) there is only one stable
+fixed point, corresponding to the complete separation of the wires. For attractive interaction
+(g<0 and/or g_3<0) four fixed points are found, the stability of which depends on the interaction
+strength. We confirm our previous weak-coupling result of lines of fixed points for special values
+of the interaction parameters reaching into the strong coupling domain. We find new fixed points
+not discussed before, even at the symmetric line g=g_3, at variance with the results of Oshikawa
+et al. The pair tunneling phenomenon conjectured by the latter authors is not found by us. 

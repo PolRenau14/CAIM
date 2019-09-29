@@ -1,0 +1,16 @@
+A theoretical model based on the method of super transition arrays (STA) is used to compute the emissivities,
+opacities and average ionization states of carbon (C) and polystyrene (CH) plasmas in the warm-dense
+matter regime in which the coupling constant varies between 0.02 to 2.0. The accuracy of results
+of STA calculations is assessed by benchmarking against the available experimental data and results
+obtained using other theoretical methods, assuming that a state of local thermodynamic equilibrium
+exists in the plasma. In the case of a carbon plasma, the STA method yields spectral features that
+are in reasonably-good agreement with Dirac-Fock and Hartree-Fock-Slater theories; in the case
+of CH, we find that STA-derived opacities are very similar to those derived using quantum-molecular-dynamics
+density-functional theory and Hartree-Fock method down to plasma temperature of about 20 eV. Our
+calculations also compare favorably with available experimental measurements of Gamboa {\it
+et al} [High Energy Density Phys. {\bf 11}, 75 (2014)] of the plasma temperature and average ionization
+state behind a blast wave in a pure carbon foam. Although the STA-computed average-ionization charge
+state in the rarefaction region appears to be lower than the experimental data, it is within the experimental
+uncertainty and the discrepancy is nevertheless consistent with results reported using an atomic
+kinetic model. In addition, we further predict the temperature dependence of average ionization
+states of CH plasma in the same temperature range as for the carbon plasma. 

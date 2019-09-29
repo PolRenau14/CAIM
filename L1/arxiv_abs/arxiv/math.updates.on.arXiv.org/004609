@@ -1,0 +1,17 @@
+We consider settings in which the distribution of a multivariate random variable is partly ambiguous.
+We assume the ambiguity lies on the level of dependence structure, and that the marginal distributions
+are known. Furthermore, a current best guess for the distribution, called reference measure, is
+available. We work with the set of distributions that are both close to the given reference measure
+in a transportation distance (e.g. the Wasserstein distance), and additionally have the correct
+marginal structure. The goal is to find upper and lower bounds for integrals of interest with respect
+to distributions in this set. The described problem appears naturally in the context of risk aggregation.
+When aggregating different risks, the marginal distributions of these risks are known and the task
+is to quantify their joint effect on a given system. This is typically done by applying a meaningful
+risk measure to the sum of the individual risks. For this purpose, the stochastic interdependencies
+between the risks need to be specified. In practice the models of this dependence structure are however
+subject to relatively high model ambiguity. The contribution of this paper is twofold: Firstly,
+we derive a dual representation of the considered problem and prove that strong duality holds. Secondly,
+we propose a generally applicable and computationally feasible method, which relies on neural
+networks, in order to numerically solve the derived dual problem. The latter method is tested on
+a number of toy examples, before it is finally applied to perform robust risk aggregation in a real
+world instance. 

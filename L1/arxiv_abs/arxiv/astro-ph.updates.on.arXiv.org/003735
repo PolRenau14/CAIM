@@ -1,0 +1,16 @@
+We analyse modelling techniques for the large-scale structure formed in scalar-tensor theories
+of constant Brans-Dicke parameter which match the concordance model background expansion history
+and produce a chameleon suppression of the gravitational modification in high-density regions.
+Thereby, we use a mass and environment dependent chameleon spherical collapse model, the Sheth-Tormen
+halo mass function and linear halo bias, the Navarro-Frenk-White halo density profile, and the
+halo model. Furthermore, using the spherical collapse model, we extrapolate a chameleon mass-concentration
+scaling relation from a LCDM prescription calibrated to N-body simulations. We also provide constraints
+on the model parameters to ensure viability on local scales. We test our description of the halo mass
+function and nonlinear matter power spectrum against the respective observables extracted from
+large-volume and high-resolution N-body simulations in the limiting case of f(R) gravity, corresponding
+to a vanishing Brans-Dicke parameter. We find good agreement between the two; the halo model provides
+a good qualitative description of the shape of the relative enhancement of the f(R) matter power
+spectrum with respect to LCDM caused by the extra attractive gravitational force but fails to recover
+the correct amplitude. Introducing an effective linear power spectrum in the computation of the
+two-halo term to account for an underestimation of the chameleon suppression at intermediate scales
+in our approach, we accurately reproduce the measurements from the N-body simulations. 

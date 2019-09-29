@@ -1,0 +1,16 @@
+Women are severely marginalized in software development, especially in open source. In this article
+we argue that disadvantage is more due to gendered behavior than to categorical discrimination:
+women are at a disadvantage because of what they do, rather than because of who they are. Using data
+on entire careers of users from GitHub.com, we develop a measure to capture the gendered pattern
+of behavior: We use a random forest prediction of being female (as opposed to being male) by behavioral
+choices in the level of activity, specialization in programming languages, and choice of partners.
+We test differences in success and survival along both categorical gender and the gendered pattern
+of behavior. We find that 84.5% of women's disadvantage (compared to men) in success and 34.8% of
+their disadvantage in survival are due to the female pattern of their behavior. Men are also disadvantaged
+along their interquartile range of the female pattern of their behavior, and users who don't reveal
+their gender suffer an even more drastic disadvantage in survival probability. Moreover, we do
+not see evidence for any reduction of these inequalities in time. Our findings are robust to noise
+in gender recognition, and to taking into account particular programming languages, or decision
+tree classes of gendered behavior. Our results suggest that fighting categorical gender discrimination
+will have a limited impact on gender inequalities in open source software development, and that
+gender hiding is not a viable strategy for women. 

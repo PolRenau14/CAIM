@@ -1,0 +1,16 @@
+We study correlated quantum wires subject to harmonic modulation of the onsite-potential concentrating
+on the limit of large times, where the response of the system has synchronized with the drive. We identify
+the ratio $\Delta\epsilon/\Omega$ of the driving amplitude $\Delta\epsilon$ and the frequency
+of driving $\Omega$ as the scale determining the crossover from a modified Luttinger liquid picture
+to a system that behaves effectively like a higher dimensional one. We exemplify this crossover
+by studying the frequency dependency of the boundary density of state $\rho_{\rm B}(\omega)$ as
+well as the temperature dependency of the linear conductance $G(T)$ through the wire, if the latter
+is contacted to leads. Both observables are known to exhibit Luttinger liquid physics without driving
+given by characteristic power-law suppression as $\omega\to\epsilon_{\rm F}$ (with $\epsilon_{\rm
+F}$ the Fermi energy) or $T\to 0$, respectively. With driving we find that this suppression is modified
+from a single power-law to a superposition of an infinite number of power laws. At small $\Delta\epsilon/\Omega\ll
+1$ only a few terms of this infinite sum are relevant as the prefactors of higher terms are suppressed
+exponentially. Thus a picture similar to the equilibrium Luttinger liquid one emerges. Increasing
+$\Delta\epsilon/\Omega$ an increasing number of power laws contribute to the sum and approaching
+$\Delta\epsilon/\Omega\gg 1$ the system behaves effectively two dimensional, for which the suppression
+is wiped out completely. 

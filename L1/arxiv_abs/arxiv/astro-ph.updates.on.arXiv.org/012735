@@ -1,0 +1,16 @@
+During its two year prime mission the Transiting Exoplanet Survey Satellite (TESS) will perform
+a time-series photometric survey covering over 80% of the sky. This survey comprises observations
+of 26 24 x 96 degree sectors that are each monitored continuously for approximately 27 days. The main
+goal of TESS is to find transiting planets around 200,000 pre-selected stars for which fixed aperture
+photometry is recorded every two minutes. However, TESS is also recording and delivering Full-Frame
+Images (FFIs) of each detector at a 30 minute cadence. We have created an open-source tool, eleanor,
+to produce light curves for objects in the TESS FFIs. Here, we describe the methods used in eleanor
+to produce light curves that are optimized for planet searches. The tool performs background subtraction,
+aperture and PSF photometry, decorrelation of instrument systematics, and cotrending using principal
+component analysis. We recover known transiting exoplanets in the FFIs to validate the pipeline
+and perform a limited search for new planet candidates in Sector 1. Our tests indicate that eleanor
+produces light curves with significantly less scatter than other tools that have been used in the
+literature. Cadence-stacked images, and raw and detrended eleanor light curves for each analyzed
+star will be hosted on MAST, with planet candidates on ExoFOP-TESS as Community TESS Objects of Interest
+(CTOIs). This work confirms the promise that the TESS FFIs will enable the detection of thousands
+of new exoplanets and a broad range of time domain astrophysics. 

@@ -1,0 +1,16 @@
+The homogenization of periodic elastic composites is addressed through the reformulation of the
+local equations of the mechanical problem in a geometric functional setting. This relies on the
+definition of Hilbert spaces of kinematically and statically admissible tensor fields, whose
+orthogonality and duality properties are recalled. These are endowed with specific energetic
+scalar products that make use of a reference and uniform elasticity tensor. The corresponding strain
+and stress Green's operators are introduced and interpreted as orthogonal projection operators
+in the admissibility spaces. In this context and as an alternative to classical minimum energy principles,
+two geometric variational principles are investigated with the introduction of functionals that
+aim at measuring the discrepancy of arbitrary test fields to the kinematic, static or material admissibility
+conditions of the problem. By relaxing the corresponding local equations, this study aims in particular
+at laying the groundwork for the homogenization of composites whose constitutive properties are
+only partially known or uncertain. The local fields in the composite and their macroscopic responses
+are computed through the minimization of the proposed geometric functionals. To do so, their gradients
+are computed using the Green's operators and gradient-based optimization schemes are discussed.
+A FFT-based implementation of these schemes is proposed and they are assessed numerically on a canonical
+example for which analytical solutions are available. 

@@ -1,0 +1,15 @@
+Let $G$ be a connected graph with $X\subseteq V(G)$ and with the spanning forest $F$. Let $\lambda\in
+[0,1]$ be a real number and let $\eta:X\rightarrow (\lambda,\infty)$ be a real function. In this
+paper, we show that if for all $S\subseteq X$, $\omega(G\setminus S)\le\sum_{v\in S}\big(\eta(v)-2\big)+2-\lambda(e_G(S)+1)$,
+then $G$ has a spanning tree $T$ containing $F$ such that for each vertex $v\in X$, $d_T(v)\le \lceil\eta(v)-\lambda\rceil+\max\{0,d_F(v)-1\}$,
+where $\omega(G\setminus S)$ denotes the number of components of $G\setminus S$ and $e_G(S)$ denotes
+the number of edges of $G$ with both ends in $S$. This is an improvement of several results and the condition
+is best possible. Next, we also investigate an extension for this result and deduce that every $k$-edge-connected
+graph $G$ has a spanning subgraph $H$ containing $m$ edge-disjoint spanning trees such that for
+each vertex $v$, $d_H(v)\le \big\lceil \frac{m}{k}(d_G(v)-2m)\big\rceil+2m$, where $k\ge
+2m$; also if $G$ contains $k$ edge-disjoint spanning trees, then $H$ can be found such that for each
+vertex $v$, $d_H(v)\le \big\lceil \frac{m}{k}(d_G(v)-m)\big\rceil+m$, where $k\ge m$. Finally,
+we show that certain family of $2$-tough graphs (namely strongly $2$-tough graphs that contain
+$(2n-2)$-connected $K_{1,n}$-free simple graphs with $n\ge 3$) have spanning Eulerian subgraphs
+whose degrees lie in the set $\{2,4\}$. From this result, we deduce that every $2$-tough graph has
+a spanning closed walk meeting each vertex at most $2$ times. 

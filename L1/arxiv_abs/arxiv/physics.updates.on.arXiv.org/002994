@@ -1,0 +1,16 @@
+Typical multispecies compressible Navier-Stokes computations employ conservative equations
+for mass fraction transport. Upwind discretisations of these governing equations produce spurious
+pressure oscillations at diffuse contact surfaces between gases of differing ratio of specific
+heat capacities which degrade the convergence rate of the algorithm. Adding quasi-conservative
+equations for volume fraction can solve this error, however this approach has been derived only
+for immiscible fluids. Here, a five-equation quasi-conservative model is proposed that includes
+the effects of species diffusion, viscosity and thermal conductivity. The derivation of the model
+is presented, along with a numerical method to solve the governing equations at second order accuracy
+in space and time. Formal convergence studies demonstrate the expected order of accuracy is achieved
+for three benchmark problems, cross-validated against two standard mass fraction models. In these
+test cases, the new model has between 2 and 10 times lower error for a given grid size. Simulations
+of a two-dimensional air-SF_6 Richtmyer-Meshkov instability demonstrate that the new model converges
+to the solution with four times fewer points in each direction when compared to the mass fraction
+model in an identical numerical framework. This represents an ~40 times lower computational cost
+for an equivalent error in two-dimensional computations. The proposed model is thus very suitable
+for Direct Numerical Simulation and Large Eddy Simulation of compressible mixing. 

@@ -1,0 +1,16 @@
+We test different physically motivated models for the spectral shape of the $\gamma$-ray emission
+in a sample of 128 blazars with known redshifts detected by the Fermi Large Area Telescope (LAT) at
+energies above 50 GeV. The first nine years of LAT data in the energy range from 300 MeV to 2 TeV are analyzed
+in order to extend the spectral energy coverage of the 2FHL blazars in our sample. We compare these
+spectral data to four leptonic models for the production of $\gamma$-rays through Compton scattering
+by a population of electrons with different spectral shapes. In the first three models we consider
+Compton scattering in the Thomson regime with different acceleration mechanisms for the electrons.
+In the fourth model we consider Compton scattering by a pure power law distribution of electrons
+with spectral curvature due to scattering in the Klein-Nishina regime. The majority of blazar $\gamma$-ray
+spectra are preferentially fit with either a power law with exponential cut-off in the Thomson regime
+or a power law electron distribution with Compton scattering in the Klein-Nishina regime, while
+a log-parabola with a low-energy power-law and broken power-law spectral shape in the Thomson regime
+appears systematically disfavoured, which is likely a consequence of the restriction to pure Thomson
+scattering which we imposed on those models. This finding may be an indication that the $\gamma$-ray
+emission from FSRQs in the 2FHL catalog is dominated by Compton scattering of radiation from the
+dusty torus, while in the case of BL Lac objects, it is dominated by synchrotron self-Compton radiation.

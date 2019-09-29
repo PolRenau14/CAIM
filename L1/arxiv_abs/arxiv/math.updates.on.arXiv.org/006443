@@ -1,0 +1,16 @@
+In this paper we continue the formal analysis of the long-time asymptotics of the homoenergetic
+solutions for the Boltzmann equation that we began in [18]. They have the form $f\left( x,v,t\right)
+=g\left(v-L\left( t\right) x,t\right) $ where $L\left( t\right) =A\left(I+tA\right) ^{-1}$
+where $A$ is a constant matrix. Homoenergetic solutions satisfy an integro-differential equation
+which contains, in addition to the classical Boltzmann collision operator, a linear hyperbolic
+term. Depending on the properties of the collision kernel the collision and the hyperbolic terms
+might be of the same order of magnitude as $t\to\infty$, or the collision term could be the dominant
+one for large times, or the hyperbolic term could be the largest. The first case has been rigorously
+studied in [17]. Formal asymptotic expansions in the second case have been obtained in [18]. All
+the solutions obtained in this case can be approximated by Maxwellian distributions with changing
+temperature. In this paper we focus in the case where the hyperbolic terms are much larger than the
+collision term for large times (hyperbolic-dominated behavior). In the hyperbolic-dominated
+case it does not seem to be possible to describe in a simple way all the long time asymptotics of the
+solutions, but we discuss several physical situations and formulate precise conjectures. We give
+explicit formulas for the relationship between density, temperature and entropy for these solutions.
+These formulas differ greatly from the ones at equilibrium. 

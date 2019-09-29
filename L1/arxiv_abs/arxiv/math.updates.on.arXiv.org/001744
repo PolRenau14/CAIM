@@ -1,0 +1,16 @@
+Based on elementary one-sided (first-order) directional derivatives and their extensions to
+second order, we introduce several local properties of non-convex, non-differentiable functions
+at a given point, and discuss their realizations in piecewise affine statistical estimation problems,
+with or without sparsity control. These properties provide sufficient conditions under which
+the following local optimality questions can be positively answered for a constrained optimization
+problem with first-order, and respectively, second-order directionally differentiable objective
+functions. When is first-order directional stationarity necessary and sufficient for local minimizing?
+When is weak second-order directional stationarity necessary and sufficient for local minimizing?
+We also show that for a twice directionally differentiable objective, the strongly locally minimizing
+property of a first-order directional stationary solution can be characterized in terms of a strong
+second-order directional stationarity condition. The introduced properties are of a local pointwise
+convexity and generalized convexity type, they are shown to be invariant under composition with
+piecewise affine functions. For a special class of unconstrained problems with a smooth objective
+function plus the non-differentiable $\ell_1$-function, we show that the task of verifying the
+second-order directional stationarity condition can be converted to the problem of checking the
+copositivity of certain Schur complement on the nonnegative 

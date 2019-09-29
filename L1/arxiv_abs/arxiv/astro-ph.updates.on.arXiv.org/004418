@@ -1,0 +1,16 @@
+When combining cosmological and oscillations results to constrain the neutrino sector, the question
+of the propagation of systematic uncertainties is often raised. We address this issue in the context
+of the derivation of an upper bound on the sum of the neutrino masses ($\Sigma m_\nu$) with recent
+cosmological data. This work is performed within the ${{\mathrm{\Lambda{CDM}}}}$ model extended
+to $\Sigma m_\nu$, for which we advocate the use of three mass-degenerate neutrinos. We focus on
+the study of systematic uncertainties linked to the foregrounds modelling in CMB data analysis,
+and on the impact of the present knowledge of the reionisation optical depth. This is done through
+the use of different likelihoods built from Planck data. Limits on $\Sigma m_\nu$ are derived with
+various combinations of data, including the latest Baryon Acoustic Oscillations (BAO) and Type
+Ia Supernovae (SN) results. We also discuss the impact of the preference for current CMB data for
+amplitudes of the gravitational lensing distortions higher than expected within the ${{\mathrm{\Lambda{CDM}}}}$
+model, and add the Planck CMB lensing. We then derive a robust upper limit: $\Sigma m_\nu< 0.17\hbox{
+eV at }95\% \hbox{CL}$, including 0.01 eV of foreground systematics. We also discuss the neutrino
+mass repartition and show that today's data do not allow one to disentangle normal from inverted
+hierarchy. The impact on the other cosmological parameters is also reported, for different assumptions
+on the neutrino mass repartition, and different high and low multipole CMB likelihoods. 

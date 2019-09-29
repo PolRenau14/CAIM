@@ -1,0 +1,17 @@
+This paper presents theoretical advances in the application of the Stochastic Partial Differential
+Equation (SPDE) approach in geostatistics. We show a general approach to construct stationary
+models related to a wide class of SPDEs, with applications to spatio-temporal models having non-trivial
+properties. Within the framework of Generalized Random Fields, a criterion for existence and uniqueness
+of stationary solutions for a wide class of linear SPDEs is proposed and proven. Their covariance
+are then obtained through their associated spectral measure. We also present a result that relates
+the covariance in the case of a White Noise source term with that of a generic case through convolution.
+Using these results, we obtain a variety of SPDE-based stationary random fields. In particular,
+well-known results regarding the Mat\'ern Model and models with Markovian behavior are recovered.
+A new relationship between the Stein model and a particular SPDE is obtained. New spatio-temporal
+models obtained from evolution SPDEs of arbitrary temporal derivative order are then obtained,
+for which properties of separability and symmetry can easily be controlled. Models with a fractional
+evolution in time are introduced and described, and we thereby obtain a large class of spatio-temporal
+models which separate regularity over space and time without separability or symmetry conditions.
+We also obtain results concerning stationary solutions for physically inspired models, such as
+solutions for the heat equation, the advection-diffusion equation, some Langevin's equations
+and the wave equation. 

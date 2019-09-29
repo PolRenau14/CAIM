@@ -1,0 +1,16 @@
+Sudoku is a widely popular $\mathcal{NP}$-Complete combinatorial puzzle whose prospects for
+studying human computation have recently received attention, but the algorithmic hardness of
+Sudoku solving is yet largely unexplored. In this paper, we study the statistical mechanical properties
+of random Sudoku grids, showing that puzzles of varying sizes attain a hardness peak associated
+with a critical behavior in the constrainedness of random instances. In doing so, we provide the
+first description of a Sudoku \emph{freezing} transition, showing that the fraction of backbone
+variables undergoes a phase transition as the density of pre-filled cells is calibrated. We also
+uncover a variety of critical phenomena in the applicability of Sudoku elimination strategies,
+providing explanations as to why puzzles become boring outside the typical range of clue densities
+adopted by Sudoku publishers. We further show that the constrainedness of Sudoku puzzles can be
+understood in terms of the informational (Shannon) entropy of their solutions, which only increases
+up to the critical point where variables become frozen. Our findings shed light on the nature of the
+$k$-coloring transition when the graph topology is fixed, and are an invitation to the study of phase
+transition phenomena in problems defined over \emph{alldifferent} constraints. They also suggest
+advantages to studying the statistical mechanics of popular $\mathcal{NP}$-Hard puzzles, which
+can both aid the design of hard instances and help understand the difficulty of human problem solving.

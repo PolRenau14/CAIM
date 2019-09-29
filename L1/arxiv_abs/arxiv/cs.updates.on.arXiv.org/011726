@@ -1,0 +1,16 @@
+The VertexCover problem is proven to be computationally hard in different ways: It is NP-complete
+to find an optimal solution and even NP-hard to find an approximation with reasonable factors. In
+contrast, recent experiments suggest that on many real-world networks the run time to solve VertexCover
+is way smaller than even the best known FPT-approaches can explain. Similarly, greedy algorithms
+deliver very good approximations to the optimal solution in practice, although VertexCover is
+NP-hard to approximate within reasonable factors. We link these observations to two properties
+that are observed in many real-world networks, namely a heterogeneous degree distribution and
+high clustering. To formalize these properties and explain the observed behavior, we analyze how
+a branch-and-reduce algorithm performs on hyperbolic random graphs, which have become increasingly
+popular for modeling real-world networks. In fact, we are able to show that the VertexCover problem
+on hyperbolic random graphs can be solved in polynomial time, with high probability. The proof relies
+on interesting structural properties of hyperbolic random graphs. Since these predictions of
+the model are interesting in their own right, we conducted experiments on real-world networks showing
+that these properties are also observed in practice. When utilizing the same structural properties
+in an adaptive greedy algorithm, further experiments suggest that this leads to even better approximations
+than the standard greedy approach on real instances. 

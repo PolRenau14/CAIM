@@ -1,0 +1,16 @@
+Manifold-learning techniques are routinely used in mining complex spatiotemporal data to extract
+useful, parsimonious data representations/parametrizations; these are, in turn, useful in nonlinear
+model identification tasks. We focus here on the case of time series data that can ultimately be modelled
+as a spatially distributed system (e.g. a partial differential equation, PDE), but where we do not
+know the space in which this PDE should be formulated. Hence, even the spatial coordinates for the
+distributed system themselves need to be identified - to emerge from - the data mining process. We
+will first validate this emergent space reconstruction for time series sampled without space labels
+in known PDEs; this brings up the issue of observability of physical space from temporal observation
+data, and the transition from spatially resolved to lumped (order-parameter-based) representations
+by tuning the scale of the data mining kernels. We will then present actual emergent space discovery
+illustrations. Our illustrative examples include chimera states (states of coexisting coherent
+and incoherent dynamics), and chaotic as well as quasiperiodic spatiotemporal dynamics, arising
+in partial differential equations and/or in heterogeneous networks. We also discuss how data-driven
+spatial coordinates can be extracted in ways invariant to the nature of the measuring instrument.
+Such gauge-invariant data mining can go beyond the fusion of heterogeneous observations of the
+same system, to the possible matching of apparently different systems. 

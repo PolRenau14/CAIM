@@ -1,0 +1,16 @@
+We introduce the reputational voter model (RVM) to account for the time-varying abilities of individuals
+to influence their neighbors. To understand of the RVM, we first discuss the fitness voter model
+(FVM), in which each voter has a fixed and distinct fitness. In a voting event where voter $i$ is fitter
+than voter $j$, only $j$ changes opinion. We show that the dynamics of the FVM and the voter model are
+identical. We next discuss the adaptive voter model (AVM), in which the influencing voter in a voting
+event increases its fitness by a fixed amount. The dynamics of the AVM is non-stationary and slowly
+crosses over to that of FVM because of the gradual broadening of the fitness distribution of the population.
+Finally, we treat the RVM, in which the voter $i$ is endowed with a reputational rank $r_i$ that ranges
+from 1 (highest rank) to $N$ (lowest), where $N$ is the population size. In a voting event in which
+voter $i$ outranks $j$, only the opinion of $j$ changes. Concomitantly, the rank of $i$ increases,
+while that of $j$ does not change. The rank distribution remains uniform on the integers $1,2,3,\ldots,N$,
+leading to stationary dynamics. For equal number of voters in the two voting states with these two
+subpopulations having the same average rand, the time to reach consensus in the mean-field limit
+scales as $\exp(\sqrt{N})$. This long consensus time arises because the average rank of the minority
+population is typically higher than that of the majority. Thus whenever consensus is approached,
+this highly ranked minority tends to drive the population away from consensus. 

@@ -1,0 +1,16 @@
+Machine learning systems are ubiquitous in various kinds of digital applications and have a huge
+impact on our everyday life. But a lack of explainability and interpretability of such systems hinders
+meaningful participation by people, especially by those without a technical background. Interactive
+visual interfaces (e.g., providing means for manipulating parameters in the user interface) can
+help tackle this challenge. In this paper we present PreCall, an interactive visual interface for
+ORES, a machine learning-based web service for Wikimedia projects such as Wikipedia. While ORES
+can be used for a number of settings, it can be challenging to translate requirements from the application
+domain into formal parameter sets needed to configure the ORES models. Assisting Wikipedia editors
+in finding damaging edits, for example, can be realized at various stages of automatization, which
+might impact the precision of the applied model. Our prototype PreCall attempts to close this translation
+gap by interactively visualizing the relationship between major model metrics (recall, precision,
+false positive rate) and a parameter (the threshold between valuable and damaging edits). Furthermore,
+PreCall visualizes the probable results for the current model configuration to improve the human's
+understanding of the relationship between metrics and outcome when using ORES. We describe PreCall's
+components and present a use case that highlights the benefits of our approach. Finally, we pose
+further research questions we would like to discuss during the workshop. 

@@ -1,0 +1,17 @@
+A path (cycle) in a $c$-edge-colored multigraph is alternating if no two consecutive edges have
+the same color. The problem of determining the existence of alternating Hamiltonian paths and cycles
+in $2$-edge-colored multigraphs is an $\mathcal{NP}$-complete problem and it has been studied
+by several authors. In Bang-Jensen and Gutin's book "Digraphs: Theory, Algorithms and Applications",
+it is devoted one chapter to survey the last results on this topic. Most results on the existence of
+alternating Hamiltonian paths and cycles concern on complete and bipartite complete multigraphs
+and a few ones on multigraphs with high monochromatic degrees or regular monochromatic subgraphs.
+In this work, we use a different approach imposing local conditions on the multigraphs and it is worthwhile
+to notice that the class of multigraphs we deal with is much larger than, and includes, complete multigraphs,
+and we provide a full characterization of this class. Given a $2$-edge-colored multigraph $G$,
+we say that $G$ is $2$-$\mathcal{M}$-closed (resp. $2$-$\mathcal{NM}$-closed)} if for every
+monochromatic (resp. non-monochromatic) $2$-path $P=(x_1, x_2, x_3)$, there exists an edge between
+$x_1$ and $x_3$. In this work we provide the following characterization: A $2$-$\mathcal{M}$-closed
+multigraph has an alternating Hamiltonian cycle if and only if it is color-connected and it has an
+alternating cycle factor. Furthermore, we construct an infinite family of $2$-$\mathcal{NM}$-closed
+graphs, color-connected, with an alternating cycle factor, and with no alternating Hamiltonian
+cycle. 

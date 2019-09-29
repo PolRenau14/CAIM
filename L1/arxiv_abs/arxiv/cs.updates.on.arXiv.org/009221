@@ -1,0 +1,17 @@
+IoT devices are increasingly deployed in daily life. Many of these devices are, however, vulnerable
+due to insecure design, implementation, and configuration. As a result, many networks already
+have vulnerable IoT devices that are easy to compromise. This has led to a new category of malware
+specifically targeting IoT devices. However, existing intrusion detection techniques are not
+effective in detecting compromised IoT devices given the massive scale of the problem in terms of
+the number of different types of devices and manufacturers involved. In this paper, we present D\"IoT,
+an autonomous self-learning distributed system for detecting compromised IoT devices effectively.
+In contrast to prior work, D\"IoT uses a novel self-learning approach to classify devices into device
+types and build normal communication profiles for each of these that can subsequently be used to
+detect anomalous deviations in communication patterns. D\"IoT utilizes a federated learning
+approach for aggregating behavior profiles efficiently. To the best of our knowledge, it is the
+first system to employ a federated learning approach to anomaly-detection-based intrusion detection.
+Consequently, D\"IoT can cope with emerging new and unknown attacks. We systematically and extensively
+evaluated more than 30 off-the-shelf IoT devices over a long term and show that D\"IoT is highly effective
+(95.6% detection rate) and fast (~257 ms) at detecting devices compromised by, for instance, the
+infamous Mirai malware. D\"IoT reported no false alarms when evaluated in a real-world smart home
+deployment setting. 

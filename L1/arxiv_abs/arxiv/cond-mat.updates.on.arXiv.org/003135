@@ -1,0 +1,17 @@
+The recently discovered superconductivity on the (001) surface of the topological crystalline
+insulator Pb$_{1-x}$Sn$_{x}$Te has been predicted to be of the chiral $p-$wave type, but awaits
+experimental confirmation. While the usual prescription of detecting Majorana zero modes at the
+end-points of linear defects on the surface could be a possible test for chiral $p$-wave superconductivity,
+these modes may not exist for other defect symmetries such as point like ones, or may be difficult
+to confirm experimentally. In this context, we study the nature of subgap bound states induced at
+point and linear nonmagnetic defects, under conditions of broken time-reversal symmetry, and
+propose alternative signatures for chiral $p-$wave order in this system. In particular, we identify
+two regimes: the $normal$ band gap regime where the bound states smoothly connect with impurity
+states in semiconductors, and the $inverted$ band gap regime, where the impurity states nontrivially
+depend on the existence of superconductivity. We obtain analytical expressions for the bound-state
+spectra and importantly, also for the wavefunctions. We find that for point defects, the bound states
+are quasi-localized, decreasing as an inverse-square law at large distances from the defect. We
+also find that the wavefunction for a zero-energy bound state realized in a point defect has an internal
+SU(2) rotational symmetry that enables its use as a possible quantum qubit, and provides an alternative
+to the usual strategy of utilizing zero-energy Majorana bound states at the end points of linear
+defects for realizing a qubit. 

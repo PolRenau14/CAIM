@@ -1,0 +1,16 @@
+Social media are becoming an increasingly important source of information about the public mood
+regarding issues such as elections, Brexit, stock market, etc. In this paper we focus on sentiment
+classification of Twitter data. Construction of sentiment classifiers is a standard text mining
+task, but here we address the question of how to properly evaluate them as there is no settled way to
+do so. Sentiment classes are ordered and unbalanced, and Twitter produces a stream of time-ordered
+data. The problem we address concerns the procedures used to obtain reliable estimates of performance
+measures, and whether the temporal ordering of the training and test data matters. We collected
+a large set of 1.5 million tweets in 13 European languages. We created 138 sentiment models and out-of-sample
+datasets, which are used as a gold standard for evaluations. The corresponding 138 in-sample datasets
+are used to empirically compare six different estimation procedures: three variants of cross-validation,
+and three variants of sequential validation (where test set always follows the training set). We
+find no significant difference between the best cross-validation and sequential validation.
+However, we observe that all cross-validation variants tend to overestimate the performance,
+while the sequential methods tend to underestimate it. Standard cross-validation with random
+selection of examples is significantly worse than the blocked cross-validation, and should not
+be used to evaluate classifiers in time-ordered data scenarios. 

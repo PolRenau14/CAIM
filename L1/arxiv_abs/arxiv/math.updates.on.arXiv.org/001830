@@ -1,0 +1,16 @@
+We present a novel method for exact hierarchical sparse polynomial regression. Our regressor is
+that degree $r$ polynomial which depends on at most $k$ inputs, counting at most $\ell$ monomial
+terms, which minimizes the sum of the squares of its prediction errors. The previous hierarchical
+sparse specification aligns well with modern big data settings where many inputs are not relevant
+for prediction purposes and the functional complexity of the regressor needs to be controlled as
+to avoid overfitting. We present a two-step approach to this hierarchical sparse regression problem.
+First, we discard irrelevant inputs using an extremely fast input ranking heuristic. Secondly,
+we take advantage of modern cutting plane methods for integer optimization to solve our resulting
+reduced hierarchical $(k, \ell)$-sparse problem exactly. The ability of our method to identify
+all $k$ relevant inputs and all $\ell$ monomial terms is shown empirically to experience a phase
+transition. Crucially, the same transition also presents itself in our ability to reject all irrelevant
+features and monomials as well. In the regime where our method is statistically powerful, its computational
+complexity is interestingly on par with Lasso based heuristics. The presented work fills a void
+in terms of a lack of powerful disciplined nonlinear sparse regression methods in high-dimensional
+settings. Our method is shown empirically to scale to regression problems with $n\approx 10,000$
+observations for input dimension $p\approx 1,000$. 

@@ -1,0 +1,16 @@
+The formation of massive black hole binaries (MBHBs) is an unavoidable outcome of galaxy evolution
+via successive mergers. However, the mechanism that drives their orbital evolution from parsec
+separations down to the gravitational wave (GW) dominated regime is poorly understood, and their
+final fate is still unclear. If such binaries are embedded in gas-rich and turbulent environments,
+as observed in remnants of galaxy mergers, the interaction with gas clumps (such as molecular clouds)
+may efficiently drive their orbital evolution. Using numerical simulations, we test this hypothesis
+by studying the dynamical evolution of an equal-mass, circular MBHB accreting infalling molecular
+clouds. We investigate different orbital configurations, modelling a total of 13 systems to explore
+different possible impact parameters and relative inclinations of the cloud-binary encounter.
+We focus our study on the prompt, transient phase during the first few orbits when the dynamical evolution
+of the binary is fastest, finding that this evolution is dominated by the exchange of angular momentum
+through gas capture by the individual black holes and accretion. Building on these results, we construct
+a simple model for evolving a MBHB interacting with a sequence of clouds, which are randomly drawn
+from reasonable populations with different levels of anisotropy in their angular momenta distributions.
+We show that the binary efficiently evolves down to the GW emission regime within a few hundred million
+years, overcoming the 'final parsec' problem regardless of the stellar distribution. 

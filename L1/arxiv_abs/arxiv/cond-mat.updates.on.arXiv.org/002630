@@ -1,0 +1,16 @@
+We present an investigation of the electron spin dynamics in an ensemble of singly-charged quantum
+dots subject to an external magnetic field and laser pumping with circularly polarized light. The
+spectral laser width is tailored such that different groups of quantum dots are coherently pumped.
+Surprisingly, the dephasing time $T^*$ of the electron spin polarization depends only weakly on
+the laser spectral width. These findings can be consistently explained by a cluster theory of coupled
+quantum dots with a long range electronic spin-spin interaction. We present a numerical simulation
+of the spin dynamics based on the central spin model that includes a quantum mechanical description
+of the laser pulses as well as a time-independent Heisenberg interaction between each pair of electron
+spins. We discuss the individual dephasing contributions stemming from the Overhauser field,
+the distribution of the electron $g$-factors and the electronic spin-spin interaction as well
+as the spectral width of the laser pulse. This analysis reveals the counterbalancing effect of the
+total dephasing time when increasing the spectral laser width. On one hand, the deviations of the
+electron $g$-factors increase. On the other hand, an increasing number of coherently pumped electron
+spins synchronize due to the spin-spin interaction. We find an excellent agreement between the
+experimental data and the dephasing time in the simulation using an exponential distribution of
+Heisenberg couplings with a mean value $\overline{J}\approx 0.26\,\mathrm{\mu eV}$. 

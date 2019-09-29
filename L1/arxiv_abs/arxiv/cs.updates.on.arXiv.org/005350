@@ -1,0 +1,16 @@
+As most users do not precisely know the structure and/or the content of databases, their queries
+do not exactly reflect their information needs. The database management systems (DBMS) may interact
+with users and use their feedback on the returned results to learn the information needs behind their
+queries. Current query interfaces assume that users do not learn and modify the way way they express
+their information needs in form of queries during their interaction with the DBMS. Using a real-world
+interaction workload, we show that users learn and modify how to express their information needs
+during their interactions with the DBMS and their learning is accurately modeled by a well-known
+reinforcement learning mechanism. As current data interaction systems assume that users do not
+modify their strategies, they cannot discover the information needs behind users' queries effectively.
+We model the interaction between users and DBMS as a game with identical interest between two rational
+agents whose goal is to establish a common language for representing information needs in form of
+queries. We propose a reinforcement learning method that learns and answers the information needs
+behind queries and adapts to the changes in users' strategies and prove that it improves the effectiveness
+of answering queries stochastically speaking. We propose two efficient implementation of this
+method over large relational databases. Our extensive empirical studies over real-world query
+workloads indicate that our algorithms are efficient and effective. 

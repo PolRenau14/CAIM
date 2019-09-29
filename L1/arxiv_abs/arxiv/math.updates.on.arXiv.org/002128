@@ -1,0 +1,17 @@
+Detecting correlation structures in large networks arises in many domains. Such detection problems
+are often studied independently of the underlying data acquisition process, rendering settings
+in which data acquisition policies (e.g., the sample-size) are pre-specified. Motivated by the
+advantages of data-adaptive sampling, this paper treats the inherently coupled problems of data
+acquisition and decision-making for correlation detection. Specifically, this paper considers
+a Markov network of agents generating random variables, and designs a quickest sequential strategy
+for discerning the correlation model governing the Markov network. By abstracting the Markov network
+as an undirected graph,designing the quickest sampling strategy becomes equivalent to sequentially
+and data-adaptively identifying and sampling a sequence of vertices in the graph. The existing
+data-adaptive approaches fail to solve this problem since the node selection actions are dependent.
+Hence, a novel sampling strategy is proposed to incorporate the correlation structures into the
+decision rules for minimizing the average delay in forming a confident decision. The proposed procedure
+involves searching over all possible future decisions which becomes computationally prohibitive
+for large networks. However, by leveraging the Markov properties it is shown that the search horizon
+can be reduced to the neighbors of each node in the dependency graph without compromising the performance.
+Performance analyses and numerical evaluations demonstrate the gains of the proposed sequential
+approach over the existing ones. 

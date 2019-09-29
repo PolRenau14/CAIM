@@ -1,0 +1,17 @@
+Driver distraction has become a major threat to the road safety, and the globally booming taxi-hailing
+application introduces new source of distraction to drivers. Although various in-vehicle information
+systems (IVIS) have been studied extensively, no documentation exists objectively measuring
+the extent to which interacting with taxi-hailing application during driving impacts drivers'
+behavior. To fill this gap, a simulator-based study was conducted to synthetically compare the
+effects that different output modalities (visual, audio, combined visual-audio) and input modalities
+(baseline, manual, speech) imposed on the driving performance. The results show that the visual
+output introduced more negative effects on driving performance compared to audio output. In the
+combined output, visual component dominated the effects imposed on the longitudinal control and
+hazard detection; audio component only exacerbated the negative effects of visual component on
+the lateral control. Speech input modality was overall less detrimental to driving performance
+than manual input modality, especially reflected in the drivers' quicker reaction to hazard events.
+The visual-manual interaction modality most severely impaired the hazard detecting ability,
+while also led to strong compensative behaviors. The audio-speech and visual-speech modality
+associated with more smooth lateral control and faster response to hazard events respectively
+compared to other modality. These results could be applied to improve the design of not only the taxi-hailing
+application, but also other input-output balanced IVIS. 

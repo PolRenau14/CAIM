@@ -1,0 +1,16 @@
+Navigation is known to be an effective complement to search. In addition to data discovery, navigation
+can help users develop a conceptual model of what types of data are available. In data lakes, there
+has been considerable research on dataset discovery using search. We consider the complementary
+problem of creating an effective navigation structure over a data lake. We define an organization
+as a navigation structure (graph) containing nodes representing sets of attributes within a data
+lake. An edge represents a subset relationship. We propose a novel problem, the data lake organization
+problem where the goal is to find an organization that allows a user to most efficiently find attributes.
+We present a new probabilistic model of how users interact with an organization and define the likelihood
+of a user finding an attribute using the organization. Our approach uses attribute values and metadata
+(when available). For data lakes with little or no metadata, we propose a way of creating metadata
+using metadata available in other lakes. We propose an approximate algorithm for the organization
+problem and show its effectiveness on a synthetic benchmark. Finally, we construct an organization
+on attributes of a real data lake containing data from federal Open Data portals and show that the
+organization improves the expected probability of discovering attributes over a baseline. Using
+a second real data lake with no metadata, we show how metadata can be inferred that is effective in
+enabling organization creation. 

@@ -1,0 +1,17 @@
+We consider the parabolic, initial value problem $$ v_t =\Delta_p(v)+\lambda g(x,v)\phi_p(v),
+\quad \text{in $\Omega \times (0,\infty),$} $$ \[ v =0, \text{in $\partial\Omega \times (0,\infty),$}\tag{IVP}
+v =v_0\ge0, \text{in $\Omega \times \{0\},$} \] where $\Omega$ is a bounded domain in ${\mathbb
+R}^N$, for some integer $N\ge1$, with smooth boundary $\partial\Omega$, $\phi_p(s):=|s|^{p-1}
+{\rm sgn}s$, $s\in{\mathbb R}$, $\Delta_p$ denotes the $p$-Laplacian, with $p>\max\{2,N\}$,
+$v_0\in C^0(\overline{\Omega})$, and $\lambda>0$. The function $g:\overline{\Omega } \times
+[0,\infty)\to(0,\infty)$ is $C^0$ and, for each $x\in\overline{\Omega }$, the function $g(x,\cdot):[0,\infty)\to(0,\infty)$
+is Lipschitz continuous and strictly decreasing. Clearly, (IVP) has the trivial solution $v\equiv0$,
+for all $\lambda>0$. In addition, there exists $0<\lambda_{\rm min}(g)<\lambda_{\rm max}(g)$
+($\lambda_{\rm max}(g)$ may be $\infty$) such that: $(a)$ if $\lambda\not\in(\lambda_{\rm min}(g),\lambda_{\rm
+max}(g))$ then (IVP) has no non-trivial, positive equilibrium; $(b)$ if $\lambda\in(\lambda_{\rm
+min}(g),\lambda_{\rm max}(g))$ then (IVP) has a unique, non-trivial, positive equilibrium $e_\lambda\in
+W_0^{1,p}(\Omega)$. We prove the following results on the positive solutions of (IVP): $(a)$ if
+$0<\lambda<\lambda_{\rm min}(g)$ then the trivial solution is globally asymptotically stable;
+$(b)$ if $\lambda_{\rm min}(g)<\lambda<\lambda_{\rm max}(g)$ then $e_\lambda$ is globally
+asymptotically stable; $(c)$ if $\lambda_{\rm max}(g)<\lambda$ then any non-trivial solution
+blows up in finite time. 

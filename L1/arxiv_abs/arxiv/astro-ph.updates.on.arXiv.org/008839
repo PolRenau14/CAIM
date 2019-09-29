@@ -1,0 +1,16 @@
+Hot Jupiter (HJ) type exoplanets are expected to produce strong radio emission in the MHz range via
+the Electron Cyclotron Maser Instability (ECMI). To date, no repeatable detections have been made.
+To explain the absence of observational results, we conduct 3D adaptive mess refinement (AMR) magnetohydrodynamic
+(MHD) simulations of the magnetic interactions between a solar type star and HJ using the publicly
+available code PLUTO. The results are used to calculate the efficiency of the ECMI at producing detectable
+radio emission from the planets magnetosphere. We also calculate the frequency of the ECMI emission,
+providing an upper and lower bounds, placing it at the limits of detectability due to Earth's ionospheric
+cutoff of $\sim 10 \ \mathrm{MHz}$. The incident kinetic and magnetic power available to the ECMI
+is also determined and a flux of $0.069 \ \mathrm{mJy}$ for an observer at $10 \ \mathrm{pc}$ is calculated.
+The magnetosphere is also characterized and an analysis of the bow shock which forms upstream of
+the planet is conducted. This shock corresponds to the thin shell model for a colliding wind system.
+A result consistent with a colliding wind system. The simulation results show that the ECMI process
+is completely inhibited by the planets expanding atmosphere, due to absorption of UV radiation
+form the host star. The density, velocity, temperature and magnetic field of the planetary wind
+are found to result in a magnetosphere where the plasma frequency is raised above that due to the ECMI
+process making the planet undetectable at radio MHz frequencies. 

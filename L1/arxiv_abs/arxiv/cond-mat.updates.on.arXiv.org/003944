@@ -1,0 +1,17 @@
+Metallic layers are known to be used for the suppression of wave transmission when their thickness
+is sufficiently higher than the skin depth of metal. If in addition to blocking the transmission,
+metallic layers have the feature of blocking the reflection, too, they would make perfect absorbers.
+In this work, we propose an experimental approach of using a single thin layer of Manganese (Mn) as
+both the transmission suppresser and the reflection suppresser. This approach leads to obtaining
+lithography-free ultra-broadband perfect absorption in an ultra-wide spectrum ranging from
+Ultraviolet (UV) to Far Infrared (FIR). The measured average absorption is approximately 99%.
+Such a promising result can be achieved by only coating a single Mn layer on high-roughness substrates
+that include random nano-pyramids on it. In other words, we do not need a stack of different materials
+and combinations of geometrical features. The high roughness is realized on a commercial Silicon
+wafer substrate by inductively coupled plasma (ICP) etching. The key to this ultra-wideband absorption
+is electromagnetic field tapering which exists due to the graded-index feature of the structure
+(known as moth-eye effect), along with the ideal optical properties of Mn which makes it an excellent
+metal for broadband absorption applications. A full experimental characterization of the fabricated
+samples is presented along with the physical analysis of the phenomena. The findings of this paper
+can be used for the realization of lithography-free, cost-effective and high-throughput mass
+production of broadband absorbers. 

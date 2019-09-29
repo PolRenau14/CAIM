@@ -1,0 +1,16 @@
+We present new methods to solve the Riemann problem both exactly and approximately for general equations
+of state (EoS) to facilitate realistic modeling and understanding of astrophysical flows. The
+existence and uniqueness of the new exact general EoS Riemann solution can be guaranteed if the EoS
+is monotone regardless of the physical validity of the EoS. We confirm that: (1) the solution of the
+new exact general EoS Riemann solver and the solution of the original exact Riemann solver match
+when calculating perfect gas Euler equations; (2) the solution of the new Harten-Lax-van Leer-Contact
+(HLLC) general EoS Riemann solver and the solution of the original HLLC Riemann solver match when
+working with perfect gas EoS; and (3) the solution of the new HLLC general EoS Riemann solver approaches
+the new exact solution. We solve the EoS with two methods, one is to interpolate 2D EoS tables by the
+bi-linear interpolation method, and the other is to analytically calculate thermodynamic variables
+at run-time. The interpolation method is more general as it can work with other monotone and realistic
+EoS while the analytic EoS solver introduced here works with a relatively idealized EoS. Numerical
+results confirm that the accuracy of the two EoS solvers is similar. We study the efficiency of these
+two methods with the HLLC general EoS Riemann solver and find that analytic EoS solver is faster in
+the test problems. However, we point out that a combination of the two EoS solvers may become favorable
+in some specific problems. Throughout this research, we assume local thermal equilibrium. 

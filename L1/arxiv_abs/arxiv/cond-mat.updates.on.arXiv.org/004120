@@ -1,0 +1,16 @@
+We study different estimators of the radius of convergence of the Taylor series of the pressure in
+finite density QCD. We adopt the approach in which the radius of convergence is estimated first in
+a finite volume, and the infinite-volume limit is taken later. This requires an estimator for the
+radius of convergence that is reliable in a finite volume. Based on general arguments about the analytic
+structure of the partition function in a finite volume, we demonstrate that the ratio estimator
+cannot work in this approach, and propose three new estimators, capable of extracting reliably
+the radius of convergence, which coincides with the distance from the origin of the closest Lee-Yang
+zero. We also provide an estimator for the phase of the closest Lee-Yang zero, necessary to assess
+whether the leading singularity is a true critical point. We demonstrate the usage of these estimators
+on a toy model, namely 4 flavors of unimproved staggered fermions on a small $6^3 \times 4$ lattice,
+where both the radius of convergence and the Taylor coefficients to any order can be obtained by a
+direct determination of the Lee-Yang zeros. Interestingly, while the relative statistical error
+of the Taylor expansion coefficients steadily grows with order, that of our estimators stabilizes,
+allowing for an accurate estimate of the radius of convergence. In particular, we show that despite
+the more than 100\% error bars on high-order Taylor coefficients, the given ensemble contains enough
+information about the radius of convergence. 

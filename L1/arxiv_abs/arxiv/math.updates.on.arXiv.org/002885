@@ -1,0 +1,16 @@
+In this paper we propose local approximation spaces for localized model order reduction procedures
+such as domain decomposition and multiscale methods. Those spaces are constructed from local solutions
+of the partial differential equation (PDE) with random boundary conditions, yield an approximation
+that converges provably at a nearly optimal rate, and can be generated at close to optimal computational
+complexity. In many localized model order reduction approaches like the generalized finite element
+method, static condensation procedures, and the multiscale finite element method local approximation
+spaces can be constructed by approximating the range of a suitably defined transfer operator that
+acts on the space of local solutions of the PDE. Optimal local approximation spaces that yield in
+general an exponentially convergent approximation are given by the left singular vectors of this
+transfer operator [I. Babu\v{s}ka and R. Lipton 2011, K. Smetana and A. T. Patera 2016]. However,
+the direct calculation of these singular vectors is computationally very expensive. In this paper,
+we propose an adaptive randomized algorithm based on methods from randomized linear algebra [N.
+Halko et al. 2011], which constructs a local reduced space approximating the range of the transfer
+operator and thus the optimal local approximation spaces. The adaptive algorithm relies on a probabilistic
+a posteriori error estimator for which we prove that it is both efficient and reliable with high probability.
+Several numerical experiments confirm the theoretical findings. 

@@ -1,0 +1,17 @@
+Within the Composite Operator Method (COM), we report the solution of the Emery model (also known
+as p-d or three band model), which is relevant for the cuprate high-Tc superconduc- tors. We also
+discuss the relevance of the often-neglected direct oxygen-oxygen hopping for a more accurate,
+sometimes unique, description of this class of materials. The benchmark of the solution is performed
+by comparing our results with the available quantum Monte Carlo ones. Both single- particle and
+thermodynamic properties of the model are studied in detail. Our solution features a metal-insulator
+transition at half filling. The resulting metal-insulator phase diagram agrees qual- itatively
+very well with the one obtained within Dynamical Mean-Field Theory. We discuss the type of transition
+(Mott-Hubbard (MH) or charge-transfer (CT)) for the microscopic (ab-initio) parameter range
+relevant for cuprates getting, as expected a CT type. The emerging single-particle scenario clearly
+suggests a very close relation between the relevant sub-bands of the three- (Emery) and the single-
+band (Hubbard) models, thus providing an independent and non-perturbative proof of the validity
+of the mapping between the two models for the model parameters optimal to describe cuprates. Such
+a result confirms the emergence of the Zhang-Rice scenario, which has been recently questioned.
+We also report the behavior of the specific heat and of the entropy as functions of the temperature
+on varying the model parameters as these quantities, more than any other, depend on and, consequently,
+reveal the most relevant energy scales of the system. 

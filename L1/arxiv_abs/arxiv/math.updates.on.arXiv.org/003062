@@ -1,0 +1,16 @@
+The generalized Langevin equation (GLE) is a stochastic integro-differential equation that has
+been used to describe the velocity of microparticles in viscoelastic fluids. In this work, we consider
+the large-time asymptotic properties of a Markovian approximation to the GLE in the presence of
+a wide class of external potential wells. The qualitative behavior of the GLE is largely determined
+by its memory kernel $K$, which summarizes the delayed response of the fluid medium on the particles
+past movement. When $K$ can be expressed as a finite sum of exponentials, it has been shown that long-term
+time-averaged properties of the position and velocity do not depend on $K$ at all. In certain applications,
+however, it is important to consider the GLE with a power law memory kernel. Using the fact that infinite
+sums of exponentials can have power law tails, we study the infinite-dimensional version of the
+Markovian GLE in a potential well. In the case where the memory kernel $K$ is integrable (i.e. in the
+asymptotically diffusive regime), we are able to extend previous results and show that there is
+a unique stationary distribution for the GLE system and that the long-term statistics of the position
+and velocity do not depend on $K$. However, when $K$ is not integrable (i.e. in the asymptotically
+subdiffusive regime), we are able to show the existence of an invariant probability measure but
+uniqueness remains an open question. In particular, the method of asymptotic coupling used in the
+integrable case to show uniqueness does not apply when $K$ fails to be integrable. 

@@ -1,0 +1,16 @@
+In this paper we proceed to study properties of Mellin-Barnes (MB) transforms of Usyukina-Davydychev
+(UD) functions. In our previous papers [Nuclear Physics B 870 (2013) 243], [Nuclear Physics B 876
+(2013) 322] we showed that multi-fold Mellin-Barnes (MB) transforms of Usyukina-Davydychev (UD)
+functions may be reduced to two-fold MB transforms and that the higher-order UD functions were obtained
+in terms of a differential operator by applying it to a slightly modified first UD function. The result
+is valid in $d=4$ dimensions and its analog in $d=4-2\varepsilon$ dimensions exits too [Theoretical
+and Mathematical Physics 177 (2013) 1515]. In [Nuclear Physics B 870 (2013) 243] the chain of recurrent
+relations for analytically regularized UD functions was obtained implicitly by comparing the
+left hand side and the right hand side of the diagrammatic relations between the diagrams with different
+loop orders. In turn, these diagrammatic relations were obtained due to the method of loop reduction
+for the triangle ladder diagrams proposed in 1983 by Belokurov and Usyukina. Here we reproduce these
+recurrent relations by calculating explicitly via Barnes lemmas the contour integrals produced
+by the left hand sides of the diagrammatic relations. In such a way we explicitly calculate a family
+of multi-fold contour integrals of certain ratios of Euler gamma functions. We make a conjecture
+that similar results for the contour integrals are valid for a wider family of smooth functions which
+includes the MB transforms of UD functions. 

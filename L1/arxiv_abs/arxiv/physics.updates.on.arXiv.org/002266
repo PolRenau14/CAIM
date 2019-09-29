@@ -1,0 +1,16 @@
+In rankings by average metrics, smaller samples are more volatile: They can fluctuate to higher
+or lower scores more easily than larger samples, which are more stable. The range of these fluctuations
+depends on two factors: The disparity (variance) of values in the wider population, and sample size.
+We have used the celebrated Central Limit Theorem (CLT) of statistics to understand the behavior
+of citation averages (Impact Factors). We find that Impact Factors are strongly dependent on journal
+size. We explain the observed stratification in Impact Factor rankings, whereby small journals
+occupy the top, middle, {\it and} bottom ranks; mid-sized journals occupy the middle ranks; and
+very large journals converge to a single Impact Factor value. Further, we applied the CLT to develop
+an `uncertainty relation' for Impact Factors, which provides an upper ($f_{max}^{th}(n)$) and
+lower bound for a journal's Impact Factor given its size, $n$. We confirm the functional form of $f_{max}^{th}(n)$
+by analyzing the complete set of 166,498 journals in the 1997--2016 Journal Citation Reports (JCR)
+of Clarivate Analytics, the top-cited portion of 345,177 papers published in 2014--2015 in physics,
+as well as the citation distributions of an arbitrarily sampled list of journals. We conclude that
+the Impact Factor `uncertainty relation' is a very good predictor of the range of Impact Factors
+observed for actual journals. Because the size-dependent effects are strong, Impact Factor rankings
+can be misleading, unless one compares like-sized journals or adjusts for these effects. 

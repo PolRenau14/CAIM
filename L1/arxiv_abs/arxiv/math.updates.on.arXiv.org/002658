@@ -1,0 +1,16 @@
+In this paper, we consider the max-min signal-to-interference plus noise ratio (SINR) problem
+for the uplink transmission of a cell-free Massive multiple-input multiple-output (MIMO) system.
+Assuming that the central processing unit (CPU) and the users exploit only the knowledge of the channel
+statistics, we first derive a closed-form expression for uplink rate. In particular, we enhance
+(or maximize) user fairness by solving the max-min optimization problem for user rate, by power
+allocation and choice of receiver coefficients, where the minimum uplink rate of the users is maximized
+with available transmit power at the particular user. Based on the derived closed-form expression
+for the uplink rate, we formulate the original user max-min problem to design the optimal receiver
+coefficients and user power allocations. However, this max-min SINR problem is not jointly convex
+in terms of design variables and therefore we decompose this original problem into two sub-problems,
+namely, receiver coefficient design and user power allocation. By iteratively solving these sub-problems,
+we develop an iterative algorithm to obtain the optimal receiver coefficient and user power allocations.
+In particular, the receiver coefficients design for a fixed user power allocation is formulated
+as generalized eigenvalue problem whereas a geometric programming (GP) approach is utilized to
+solve the power allocation problem for a given set of receiver coefficients. Numerical results
+confirm a three-fold increase in system rate over existing schemes in the literature. 

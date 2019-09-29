@@ -1,0 +1,16 @@
+The ability to automatically detect certain types of cells or cellular subunits in microscopy images
+is of significant interest to a wide range of biomedical research and clinical practices. Cell detection
+methods have evolved from employing hand-crafted features to deep learning-based techniques.
+The essential idea of these methods is that their cell classifiers or detectors are trained in the
+pixel space, where the locations of target cells are labeled. In this paper, we seek a different route
+and propose a convolutional neural network (CNN)-based cell detection method that uses encoding
+of the output pixel space. For the cell detection problem, the output space is the sparsely labeled
+pixel locations indicating cell centers. We employ random projections to encode the output space
+to a compressed vector of fixed dimension. Then, CNN regresses this compressed vector from the input
+pixels. Furthermore, it is possible to stably recover sparse cell locations on the output pixel
+space from the predicted compressed vector using $L_1$-norm optimization. In the past, output
+space encoding using compressed sensing (CS) has been used in conjunction with linear and non-linear
+predictors. To the best of our knowledge, this is the first successful use of CNN with CS-based output
+space encoding. We made substantial experiments on several benchmark datasets, where the proposed
+CNN + CS framework (referred to as CNNCS) achieved the highest or at least top-3 performance in terms
+of F1-score, compared with other state-of-the-art methods. 

@@ -1,0 +1,17 @@
+Background: Virtual reality simulators and machine learning have the potential to augment understanding,
+assessment and training of psychomotor performance in neurosurgery residents. Objective: This
+study outlines the first application of machine learning to distinguish "skilled" and "novice"
+psychomotor performance during a virtual reality neurosurgical task. Methods: Twenty-three
+neurosurgeons and senior neurosurgery residents comprising the "skilled" group and 92 junior
+neurosurgery residents and medical students the "novice" group. The task involved removing a series
+of virtual brain tumors without causing injury to surrounding tissue. Over 100 features were extracted
+and 68 selected using t-test analysis. These features were provided to 4 classifiers: K-Nearest
+Neighbors, Parzen Window, Support Vector Machine, and Fuzzy K-Nearest Neighbors. Equal Error
+Rate was used to assess classifier performance. Results: Ratios of train set size to test set size
+from 10% to 90% and 5 to 30 features, chosen by the forward feature selection algorithm, were employed.
+A working point of 50% train to test set size ratio and 15 features resulted in an equal error rates
+as low as 8.3% using the Fuzzy K-Nearest Neighbors classifier. Conclusion: Machine learning may
+be one component helping realign the traditional apprenticeship educational paradigm to a more
+objective model based on proven performance standards. Keywords: Artificial intelligence, Classifiers,
+Machine learning, Neurosurgery skill assessment, Surgical education, Tumor resection, Virtual
+reality simulation 

@@ -1,0 +1,16 @@
+We take the end result of smoothed particle hydrodynamics (SPH) simulations of star formation which
+include feedback from photoionisation and stellar winds and evolve them for a further 10Myr using
+$N$-body simulations. We compare the evolution of each simulation to a control run without feedback,
+and to a run with photoionisation feedback only. In common with previous work, we find that the presence
+of feedback prevents the runaway growth of massive stars, and the resulting star-forming regions
+are less dense, and preserve their initial substructure for longer. The addition of stellar winds
+to the feedback produces only marginal differences compared to the simulations with just photoionisation
+feedback. We search for mass segregation at different stages in the simulations; before feedback
+is switched on in the SPH runs, at the end of the SPH runs (before $N$-body integration) and during
+the $N$-body evolution. Whether a simulation is primordially mass segregated (i.e. before dynamical
+evolution) depends extensively on how mass segregation is defined, and different methods for measuring
+mass segregation give apparently contradictory results. Primordial mass segregation is also
+less common in the simulations when star formation occurs under the influence of feedback. Further
+dynamical mass segregation can also take place during the subsequent (gas-free) dynamical evolution.
+Taken together, our results suggest that extreme caution should be exercised when interpreting
+the spatial distribution of massive stars relative to low-mass stars in simulations. 

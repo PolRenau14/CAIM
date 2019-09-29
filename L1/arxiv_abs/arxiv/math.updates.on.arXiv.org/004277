@@ -1,0 +1,17 @@
+The Cholesky QR algorithm is an efficient communication-minimizing algorithm for computing the
+QR factorization of a tall-skinny matrix. Unfortunately it has the inherent numerical instability
+and breakdown when the matrix is ill-conditioned. A recent work establishes that the instability
+can be cured by repeating the algorithm twice (called CholeskyQR2). However, the applicability
+of CholeskyQR2 is still limited by the requirement that the Cholesky factorization of the Gram matrix
+runs to completion, which means it does not always work for matrices $X$ with $\kappa_2(X)\gtrsim
+{{\bf u}}^{-\frac{1}{2}}$ where ${{\bf u}}$ is the unit roundoff. In this work we extend the applicability
+to $\kappa_2(X)=\mathcal{O}({\bf u}^{-1})$ by introducing a shift to the computed Gram matrix
+so as to guarantee the Cholesky factorization $R^TR= A^TA+sI$ succeeds numerically. We show that
+the computed $AR^{-1}$ has reduced condition number $\leq {{\bf u}}^{-\frac{1}{2}}$, for which
+CholeskyQR2 safely computes the QR factorization, yielding a computed $Q$ of orthogonality $\|Q^TQ-I\|_2$
+and residual $\|A-QR\|_F/\|A\|_F$ both $\mathcal{O}({{\bf u}})$. Thus we obtain the required
+QR factorization by essentially running Cholesky QR thrice. We extensively analyze the resulting
+algorithm shiftedCholeskyQR to reveal its excellent numerical stability. shiftedCholeskyQR
+is also highly parallelizable, and applicable and effective also when working in an oblique inner
+product space. We illustrate our findings through experiments, in which we achieve significant
+(up to x40) speedup over alternative methods. 

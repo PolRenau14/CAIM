@@ -1,0 +1,16 @@
+We implement a search for exoplanets in campaigns zero through eight (C0-8) of the K2 extension of
+the Kepler spacecraft. We apply a modified version of the QATS planet search algorithm to K2 light
+curves produced by the EVEREST pipeline, carrying out the C0-8 search on $1.5 \times 10^5$ target
+stars with magnitudes in the range of Kp = 9-15. We detect 818 transiting planet candidates, of which
+374 were undiscovered by prior searches, with {64,15,5,2,1} in {2,3,4,5,6}-planet multi-planet
+candidate systems, respectively. Of the new planets detected, 100 orbit M dwarfs, including one
+which is potentially rocky and in the habitable zone. 154 of our candidates reciprocally transit
+with our Solar System: they are geometrically aligned to see at least one Solar System planet transit.
+We find candidates which display transit timing variations and dozens of candidates on both period
+extremes with single transits or ultra-short periods. We point to evidence that our candidates
+display similar patterns in frequency and size-period relation as confirmed planets, such as tentative
+evidence for the radius gap. Confirmation of these planet candidates with follow-up studies will
+increase the number of K2 planets by up to 50%, and characterization of their host stars will improve
+statistical studies of planet properties. Our sample includes many planets orbiting bright stars
+amenable for radial velocity follow-up and future characterization with JWST. We also list the
+579 eclipsing binary systems detected as part of this search. 

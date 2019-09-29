@@ -1,0 +1,17 @@
+Given a set of data, one central goal is to group them into clusters based on some notion of similarity
+between the individual objects. One of the most popular and widely-used approaches is k-means despite
+the computational hardness to find its global minimum. We study and compare the properties of different
+convex relaxations by relating them to corresponding proximity conditions, an idea originally
+introduced by Kumar and Kannan. Using conic duality theory, we present an improved proximity condition
+under which the Peng-Wei relaxation of k-means recovers the underlying clusters exactly. Our proximity
+condition improves upon Kumar and Kannan, and is comparable to that of Awashti and Sheffet where
+proximity conditions are established for projective k-means. In addition, we provide a necessary
+proximity condition for the exactness of the Peng-Wei relaxation. For the special case of equal
+cluster sizes, we establish a different and completely localized proximity condition under which
+the Amini-Levina relaxation yields exact clustering, thereby having addressed an open problem
+by Awasthi and Sheffet in the balanced case. Our framework is not only deterministic and model-free
+but also comes with a clear geometric meaning which allows for further analysis and generalization.
+Moreover, it can be conveniently applied to analyzing various data generative models such as the
+stochastic ball models and Gaussian mixture models. With this method, we improve the current minimum
+separation bound for the stochastic ball models and achieve the state-of-the-art results of learning
+Gaussian mixture models. 

@@ -1,0 +1,16 @@
+We consider the problems ZERO EXTENSION and METRIC LABELLING under the paradigm of parameterized
+complexity. These are natural, well-studied problems with important applications, but have previously
+not received much attention from parameterized complexity. Depending on the chosen cost function
+$\mu$, we find that different algorithmic approaches can be applied to design FPT-algorithms:
+for arbitrary $\mu$ we parameterized by the number of edges that cross the cut (not the cost) and show
+how to solve ZERO EXTENSION in time $O(|D|^{O(k^2)} n^4 \log n)$ using randomized contractions.
+We improve this running time with respect to both parameter and input size to $O(|D|^{O(k)} m)$ in
+the case where $\mu$ is a metric. We further show that the problem admits a polynomial sparsifier,
+that is, a kernel of size $O(k^{|D|+1})$ that is independent of the metric $\mu$. With the stronger
+condition that $\mu$ is described by the distances of leaves in a tree, we parameterize by a gap parameter
+$(q - p)$ between the cost of a true solution $q$ and a `discrete relaxation' $p$ and achieve a running
+time of $O(|D|^{q-p} |T|m + |T|\phi(n,m))$ where $T$ is the size of the tree over which $\mu$ is defined
+and $\phi(n,m)$ is the running time of a max-flow computation. We achieve a similar running for the
+more general METRIC LABELLING, while also allowing $\mu$ to be the distance metric between an arbitrary
+subset of nodes in a tree using tools from the theory of VCSPs. We expect the methods used in the latter
+result to have further applications. 

@@ -1,0 +1,16 @@
+Placing signal templates (grid points) as efficiently as possible to cover a multi-dimensional
+parameter space is crucial in computing-intensive matched-filtering searches for gravitational
+waves, but also in similar searches in other fields of astronomy. To generate efficient coverings
+of arbitrary parameter spaces, stochastic template banks have been advocated, where templates
+are placed at random while rejecting those too close to others. However, in this simple scheme, for
+each new random point its distance to every template in the existing bank is computed. This rapidly
+increasing number of distance computations can render the acceptance of new templates computationally
+prohibitive, particularly for wide parameter spaces or in large dimensions. This work presents
+a neighboring cell algorithm that can dramatically improve the efficiency of constructing a stochastic
+template bank. By dividing the parameter space into sub-volumes (cells), for an arbitrary point
+an efficient hashing technique is exploited to obtain the index of its enclosing cell along with
+the parameters of its neighboring templates. Hence only distances to these neighboring templates
+in the bank are computed, massively lowering the overall computing cost, as demonstrated in simple
+examples. Furthermore, we propose a novel method based on this technique to increase the fraction
+of covered parameter space solely by directed template shifts, without adding any templates. As
+is demonstrated in examples, this method can be highly effective.. 

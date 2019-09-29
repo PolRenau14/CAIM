@@ -1,0 +1,17 @@
+In this paper, we explore the benefit of cooperation in adversarial bandit settings. As a motivating
+example, we consider the problem of wireless network selection. Mobile devices are often required
+to choose the right network to associate with for optimal performance, which is non-trivial. The
+excellent theoretical properties of EXP3, a leading multi-armed bandit algorithm, suggest that
+it should work well for this type of problem. Yet, it performs poorly in practice. A major limitation
+is its slow rate of stabilization. Bandit-style algorithms perform better when global knowledge
+is available, i.e., when devices receive feedback about all networks after each selection. But,
+unfortunately, communicating full information to all devices is expensive. Therefore, we address
+the question of how much information is adequate to achieve better performance. We propose Co-Bandit,
+a novel cooperative bandit approach, that allows devices to occasionally share their observations
+and forward feedback received from neighbors; hence, feedback may be received with a delay. Devices
+perform network selection based on their own observation and feedback from neighbors. As such,
+they speed up each other's rate of learning. We prove that Co-Bandit is regret-minimizing and retains
+the convergence property of multiplicative weight update algorithms with full information. Through
+simulation, we show that a very small amount of information, even with a delay, is adequate to nudge
+each other to select the right network and yield significantly faster stabilization at the optimal
+state (about 630x faster than EXP3). 

@@ -1,0 +1,16 @@
+Linear matrix inequalities (LMIs) $I_d + \sum_{j=1}^g A_jx_j + \sum_{j=1}^g A_j^*x_j^*\succeq0$
+play a role in many areas of applications and the set of solutions to one is called a spectrahedron.
+LMIs in (dimension--free) matrix variables model most problems in linear systems engineering,
+and their solution sets D_A are called free spectrahedra. These are exactly the free semialgebraic
+convex sets. This paper studies free analytic maps between free spectrahedra and, under certain
+irreducibility assumptions, classifies all those that are bianalytic. The foundation of such
+maps turns out to be a very small class of birational maps we call convexotonic. The convexotonic
+maps in g variables sit in correspondence with g-dimensional algebras. If two bounded free spectrahedra
+D_A and D_B meeting our irreducibility assumptions are free bianalytic with map denoted p, then
+p must (after possibly an affine linear transform) extend to a convexotonic map corresponding to
+a g-dimensional algebra spanned by (U-I)A_1,...,(U-I)A_g for some unitary U. Furthermore, B and
+UA are unitarily equivalent. The article also establishes a Positivstellensatz for free analytic
+functions whose real part is positive semidefinite on a free spectrahedron and proves a representation
+for a free analytic map from D_A to D_B (not necessarily bianalytic). Another result shows that a
+function analytic on any radial expansion of a free spectrahedron is approximable by polynomials
+uniformly on the spectrahedron. These theorems are needed for classifying free bianalytic maps.

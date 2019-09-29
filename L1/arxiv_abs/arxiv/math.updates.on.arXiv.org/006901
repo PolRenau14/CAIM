@@ -1,0 +1,16 @@
+An empty simplex is a lattice simplex with only its vertices as lattice points. Their classification
+in dimension three was completed by White in 1964. In dimension four, the same task was started in
+1988 by Mori, Morrison, and Morrison, with their motivation coming from the close relationship
+between empty simplices and terminal quotient singularities. They conjectured a classification
+of empty simplices of prime volume, modulo finitely many exceptions. Their conjecture was proved
+by Sankaran (1990) with a simplified proof by Bober (2009). The same classification was claimed
+by Barile et al. in 2011 for simplices of non-prime volume, but this statement was proved wrong by
+Blanco et al. (2016+). We here complete the classification of $4$-dimensional empty simplices.
+In doing so we correct and complete the classification claimed by Barile et al., and we also compute
+all the finitely many exceptions, by first proving an upper bound for their volume. The whole classification
+has: - One $3$-parameter family, consisting of simplices of width equal to one. - Two $2$-parameter
+families (the one in Mori et al., plus a second new one). - Forty-six $1$-paramater families (the
+29 in Mori et al., plus 17 new ones). - $2461$ individual simplices not belonging to the above families,
+with volumes ranging betwen 29 and 419. We characterize the infinite families of empty simplices
+in terms of lower dimensional point configurations that they project to, with techniques that can
+be applied to higher dimensions and larger classes of lattice polytopes. 

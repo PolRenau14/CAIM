@@ -1,0 +1,17 @@
+We present results from two-dimensional, general relativistic, viscous, radiation hydrodynamic
+numerical simulations of Shakura-Sunyaev thin disks accreting onto stellar mass Schwarzschild
+black holes. We consider cases on both the gas- and radiation-pressure-dominated branches of the
+thermal equilibrium curve, with mass accretion rates spanning the range from $\dot{M} = 0.01 L_\mathrm{Edd}/c^2$
+to $10 L_\mathrm{Edd}/c^2$. The simulations directly test the stability of this standard disk
+model on the different branches. We find clear evidence of thermal instability for all radiation-pressure-dominated
+disks, resulting universally in the vertical collapse of the disks, which in some cases then settle
+onto the stable, gas-pressure-dominated branch. Although these results are consistent with decades-old
+theoretical predictions, they appear to be in conflict with available observational data from
+black hole X-ray binaries. We also find evidence for a radiation-pressure-driven instability
+that breaks the unstable disks up into alternating rings of high and low surface density on a timescale
+comparable to the thermal collapse. Since radiation is included self-consistently in the simulations,
+we are able to calculate lightcurves and power density spectra (PDS). For the most part, we measure
+radiative efficiencies (ratio of luminosity to mass accretion rate) close to 6%, as expected for
+a non-rotating black hole. The PDS appear as broken power laws, with a break typically around 100
+Hz. There is no evidence of significant excess power at any frequencies, i.e. no quasi-periodic
+oscillations are observed. 

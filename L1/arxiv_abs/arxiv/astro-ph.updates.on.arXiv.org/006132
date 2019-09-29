@@ -1,0 +1,17 @@
+Context. Interplanetary (IP) shocks are known to be accelerators of energetic charged particles
+observed in-situ in the heliosphere. However, the acceleration of near-relativistic electrons
+by shocks in the interplanetary medium is often questioned. On 9 August 2011 a Corotating Interaction
+Region (CIR) passed STEREO B (STB) that resulted in a flux increase in the electron and ion channels
+of the Solar Electron and Proton Telescope (SEPT). Because electron measurements in the few keV
+to several 100 keV range rely on the so-called magnet foil technique, which is utilized by SEPT, ions
+can contribute to the electron channels. Aims. We aim to investigate whether the flux increase in
+the electron channels of SEPT during the CIR event on 9 August 2011 is caused by ion contamination
+only. Methods. We compute the SEPT response functions for protons and helium utilizing an updated
+GEANT4 model of SEPT. The CIR energetic particle ion spectra for protons and helium are assumed to
+follow a Band function in energy per nucleon with a constant helium to proton ratio. Results. Our
+analysis leads to a helium to proton ratio of 16.9% and a proton flux following a Band function with
+the parameters $I_0 = 1.24 \cdot 10^4$ / (cm2 s sr MeV/nuc.), $E_c = 79$ keV/nuc. and spectral indices
+of $\gamma_1 = -0.94$ and $\gamma_2 = -3.80$ which are in good agreement with measurements by the
+Suprathermal Ion Telescope (SIT) aboard STB. Conclusions. Since our results explain the SEPT measurements,
+we conclude that no significant amount of electrons were accelerated between $55$ keV and $425$
+keV by the CIR. 

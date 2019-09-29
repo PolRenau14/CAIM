@@ -1,0 +1,17 @@
+This work addresses the problem of impersonation detection in an underwater acoustic sensor network
+(UWASN). We consider a UWASN consisting of $M$ underwater sensor nodes randomly deployed according
+to uniform distribution within a vertical half-disc (the so-called trusted zone). The sensor nodes
+report their sensed data to a sink node on water surface on an additive white gaussian noise (AWGN)
+reporting channel in a time-division multiple-access (TDMA) fashion. The ongoing communication
+on the shared reporting channel is at risk of potential impersonation attack by an active-yet-invisible
+adversary (so-called Eve) present in the close vicinity, who aims to inject malicious data into
+the system. To this end, this work proposes a novel, two-step method at the sink node to thwart the
+potential impersonation attack by Eve. We assume that the sink node is equipped with a uniform linear
+array of hydrophones; and therefore, the estimates of the distance, angle of arrival, and the location
+of the transmit node are available at the sink node. The sink node exploits these measurements as
+device fingerprints to carry out a number of binary hypothesis tests (for impersonation attack
+detection) as well as a number of maximum likelihood hypothesis tests (for transmitter identification
+when no impersonation is detected). We provide closed-form expressions for the error probabilities
+(i.e., the performance) of most of the hypothesis tests. Furthermore, extensive simulation results
+(for various scenarios of Eve's location) are provided, which attest to the efficacy of the proposed
+scheme. 

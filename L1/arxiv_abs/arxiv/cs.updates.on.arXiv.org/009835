@@ -1,0 +1,17 @@
+An important part of many machine learning workflows on graphs is vertex representation learning,
+i.e., learning a low-dimensional vector representation for each vertex in the graph. Recently,
+several powerful techniques for unsupervised representation learning have been demonstrated
+to give the state-of-the-art performance in downstream tasks such as vertex classification and
+edge prediction. These techniques rely on random walks performed on the graph in order to capture
+its structural properties. These structural properties are then encoded in the vector representation
+space. However, most contemporary representation learning methods only apply to static graphs
+while real-world graphs are often dynamic and change over time. Static representation learning
+methods are not able to update the vector representations when the graph changes; therefore, they
+must re-generate the vector representations on an updated static snapshot of the graph regardless
+of the extent of the change in the graph. In this work, we propose computationally efficient algorithms
+for vertex representation learning that extend random walk based methods to dynamic graphs. The
+computation complexity of our algorithms depends upon the extent and rate of changes (the number
+of edges changed per update) and on the density of the graph. We empirically evaluate our algorithms
+on real world datasets for downstream machine learning tasks of multi-class and multi-label vertex
+classification. The results show that our algorithms can achieve competitive results to the state-of-the-art
+methods while being computationally efficient. 

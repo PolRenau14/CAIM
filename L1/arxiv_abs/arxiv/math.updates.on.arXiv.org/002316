@@ -1,0 +1,16 @@
+The group of diffeomorphisms of a compact manifold endowed with the L^2 metric acting on the space
+of probability densities gives a unifying framework for the incompressible Euler equation and
+the theory of optimal mass transport. Recently, several authors have extended optimal transport
+to the space of positive Radon measures where the Wasserstein-Fisher-Rao distance is a natural
+extension of the classical L^2-Wasserstein distance. In this paper, we show a similar relation
+between this unbalanced optimal transport problem and the Hdiv right-invariant metric on the group
+of diffeomorphisms, which corresponds to the Camassa-Holm (CH) equation in one dimension. On the
+optimal transport side, we prove a polar factorization theorem on the automorphism group of half-densities.Geometrically,
+our point of view provides an isometric embedding of the group of diffeomorphisms endowed with this
+right-invariant metric in the automorphisms group of the fiber bundle of half densities endowed
+with an L^2 type of cone metric. This leads to a new formulation of the (generalized) CH equation as
+a geodesic equation on an isotropy subgroup of this automorphisms group; On S1, solutions to the
+standard CH thus give particular solutions of the incompressible Euler equation on a group of homeomorphisms
+of R^2 which preserve a radial density that has a singularity at 0. An other application consists
+in proving that smooth solutions of the Euler-Arnold equation for the Hdiv right-invariant metric
+are length minimizing geodesics for sufficiently short times. 

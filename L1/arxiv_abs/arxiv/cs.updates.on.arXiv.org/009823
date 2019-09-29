@@ -1,0 +1,17 @@
+We present a novel data-driven nested optimization framework that addresses the problem of coupling
+between plant and controller optimization. This optimization strategy is tailored towards instances
+where a closed-form expression for the system dynamic response is unobtainable and simulations
+or experiments are necessary. Specifically, Bayesian Optimization, which is a data-driven technique
+for finding the optimum of an unknown and expensive-to-evaluate objective function, is employed
+to solve a nested optimization problem. The underlying objective function is modeled by a Gaussian
+Process (GP); then, Bayesian Optimization utilizes the predictive uncertainty information from
+the GP to determine the best subsequent control or plant parameters. The proposed framework differs
+from the majority of co-design literature where there exists a closed-form model of the system dynamics.
+Furthermore, we utilize the idea of Batch Bayesian Optimization at the plant optimization level
+to generate a set of plant designs at each iteration of the overall optimization process, recognizing
+that there will exist economies of scale in running multiple experiments in each iteration of the
+plant design process. We validate the proposed framework for a Buoyant Airborne Turbine (BAT).
+We choose the horizontal stabilizer area, longitudinal center of mass relative to center of buoyancy
+(plant parameters), and the pitch angle set-point (controller parameter) as our decision variables.
+Our results demonstrate that these plant and control parameters converge to their respective optimal
+values within only a few iterations. 

@@ -1,0 +1,16 @@
+It is widely accepted that stars in a spiral disk, like the Milky Way's, can radially migrate on order
+a scale length over the disk's lifetime. With the exception of cold torquing, also known as "churning,"
+processes that contribute to the radial migration of stars are necessarily associated with kinematic
+heating. Additionally, it is an open question whether or not an episode of cold torquing is kinemically
+cold over long radial distances. This study uses a suite of analytically based simulations to investigate
+the dynamical response when stars are subject to cold torquing and are also resonant with an ultraharmonic.
+Model results demonstrate that these populations are kinematically heated and have RMS changes
+in orbital angular momentum around corotation that can exceed those of populations that do not experience
+resonant overlap. Thus, kinematic heating can occur during episodes of cold torquing. In a case
+study of a Milky Way-like disk with an exponential surface density profile and flat rotation curve,
+up to 40% of cold torqued stars in the solar cylinder experience resonant overlap. This fraction
+increases toward the galactic center. To first approximation, the maximum radial excursions from
+cold torquing depend only on the strength of the spiral pattern and the underlying rotation curve.
+This work places an upper limit to these excursions to be the distance between the ultraharmonics,
+otherwise radial migration near corotation can kinematically heat. The diffusion rate for kinematically
+cold radial migration is thus constrained by limiting the step size in the random walk approximation.

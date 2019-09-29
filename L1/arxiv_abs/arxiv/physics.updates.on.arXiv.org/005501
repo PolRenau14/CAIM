@@ -1,0 +1,16 @@
+This work demonstrates a computational framework for simulating vaporizing, liquid-gas flows.
+It is developed for the general vaporization problem which solves the vaporization rate based as
+from the local thermodynamic equilibrium of the liquid-gas system. This includes the commonly
+studied vaporization regimes of film boiling and isothermal evaporation. The framework is built
+upon a Cartesian grid solver for low-Mach, turbulent flows which has been modified to handle multiphase
+flows with large density ratios. Interface transport is performed using an unsplit volume of fluid
+solver. A novel, divergence-free extrapolation technique is used to create a velocity field that
+is suitable for interface transport. Sharp treatments are used for the vapor mass fractions and
+temperature fields. The pressure Poisson equation is treated using the Ghost Fluid Method. Interface
+equilibrium at the interface is computed using the Clausius-Clapeyron relation, and is coupled
+to the flow solver using a monotone, unconditionally stable scheme. It will be shown that correct
+prediction of the interface properties is fundamental to accurate simulations of the vaporization
+process. The convergence and accuracy of the proposed numerical framework is verified against
+solutions in one, two, and three dimensions. The simulations recover first order convergence under
+temporal and spatial refinement for the general vaporization problem. The work is concluded with
+a demonstration of unsteady vaporization of a droplet at intermediate Reynolds number. 

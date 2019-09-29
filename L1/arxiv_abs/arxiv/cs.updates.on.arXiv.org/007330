@@ -1,0 +1,17 @@
+The area under the ROC curve (AUC) is a measure of interest in various machine learning and data mining
+applications. It has been widely used to evaluate classification performance on heavily imbalanced
+data. The kernelized AUC maximization machines have established a superior generalization ability
+compared to linear AUC machines because of their capability in modeling the complex nonlinear structure
+underlying most real-world data. However, the high training complexity renders the kernelized
+AUC machines infeasible for large-scale data. In this paper, we present two nonlinear AUC maximization
+algorithms that optimize pairwise linear classifiers over a finite-dimensional feature space
+constructed via the k-means Nystr\"{o}m method. Our first algorithm maximize the AUC metric by
+optimizing a pairwise squared hinge loss function using the truncated Newton method. However,
+the second-order batch AUC maximization method becomes expensive to optimize for extremely massive
+datasets. This motivate us to develop a first-order stochastic AUC maximization algorithm that
+incorporates a scheduled regularization update and scheduled averaging techniques to accelerate
+the convergence of the classifier. Experiments on several benchmark datasets demonstrate that
+the proposed AUC classifiers are more efficient than kernelized AUC machines while they are able
+to surpass or at least match the AUC performance of the kernelized AUC machines. The experiments
+also show that the proposed stochastic AUC classifier outperforms the state-of-the-art online
+AUC maximization methods in terms of AUC classification accuracy. 

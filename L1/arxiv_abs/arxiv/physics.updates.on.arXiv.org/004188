@@ -1,0 +1,17 @@
+The ecologically best way to produce nanoparticles (NP) is based on laser ablation in liquid (LAL).
+In the considered here case the LAL means that a gold target is irradiated through transparent water.
+During and after irradiation the heated material from surface of a target forms a plume which expands
+into liquid. In this paper we study a reach set of physical processes mixed with complicated hydrodynamic
+phenomena which all accompany LAL. These theoretical and simulation investigations are very important
+for practical applications. Laser pulses with different durations $\tau_L$ covering 5-th orders
+of magnitudes range from 0.1 ps to 0.5 ns and large absorbed fluences $F_{abs}$ near optical breakdown
+of liquid are compared. It is shown that the trajectory of the contact boundary with liquid at the
+middle and late stages after passing of the instant of maximum intensity of the longest pulse are
+rather similar for very different pulse durations (of course at comparable energies $F_{abs});$
+we consider the pulses with a Gaussian temporal shape $I\propto \exp(-t^2/\tau_L^2).$ We follow
+how hot (few eV range) dense gold plasma expands, cools down, intersects a saturation curve, and
+condenses into NPs. These NPs appear first inside the water-gold diffusively mixed intermediate
+layer where gold vapor has the lowest temperature. Later in time pressure around the gold-water
+contact drops down below critical pressure for water. Thus NPs find themselves in gaseous water
+bubble where density of water gradually decreases to $10^{-4}-10^{-5}$ g/cm$\!^3$ at the instant
+of maximum expansion of a bubble. 

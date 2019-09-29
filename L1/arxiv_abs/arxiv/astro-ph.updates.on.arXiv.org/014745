@@ -1,0 +1,16 @@
+The recently discovered resonant drag instability (RDI) of dust streaming in protoplanetary disc
+is considered as the mode coupling of subsonic gas-dust mixture perturbations. This mode coupling
+is coalescence of two modes with nearly equal phase velocities: inertial wave (IW) having positive
+energy and a streaming dust wave (SDW) having negative energy as measured in the frame of gas environment
+being at rest in vertical hydrostatic equilibrium. SDW is a trivial mode produced by the bulk streaming
+of dust, which transports perturbations of dust density. In this way, settling combined with radial
+drift of the dust makes possible coupling of SDW with IW and the onset of the instability. In accordance
+with the concept of the mode coupling, RDI growth rate is proportional to the square root of the coupling
+term of the dispersion equation, which itself is proportional to mass fraction of dust, $f\ll 1$.
+This clarifies why RDI growth rate $\propto f^{1/2}$. When SDW has positive energy, its resonance
+with IW provides an avoided crossing instead of the mode coupling. In the high wavenumber limit RDI
+with unbounded growth rate $\propto f^{1/3}$ is explained by the triple mode coupling, which is
+coupling of SDW with two IW. It coexists with a new quasi-resonant instability accompanied by bonding
+of two oppositely propagating low-frequency IW. The mode coupling does not exist for dust streaming
+only radially in a disc. In this case RDI is provided by the obscured mechanism associated with the
+inertia of solids. 

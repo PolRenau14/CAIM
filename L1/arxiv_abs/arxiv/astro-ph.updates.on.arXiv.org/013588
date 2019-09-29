@@ -1,0 +1,17 @@
+The delay time distribution of (DTD) of binary neutron stars (BNS) remains poorly constrained,
+mainly by the small known population of Galactic binaries, the properties of short gamma-ray burst
+host galaxies, and inferences from $r$-process enrichment. In the new era of BNS merger detections
+through gravitational waves (GW), a new route to the DTD is the demographics of the host galaxies,
+localized through associated electromagnetic counterparts. This approach takes advantage of
+the correlation between star formation history (SFH) and galaxy mass, such that the convolution
+of the SFH and DTD impacts the BNS merger rate as a function of galaxy mass. Here we quantify this approach
+for a power law DTD governed by two parameters: the power law index ($\Gamma$) and a minimum delay
+time ($t_{\rm min}$). Under the reasonable assumption that EM counterparts are likely only detectable
+in the local universe, accessible by the current generation of GW detectors, we study how many host
+galaxies at $z\sim 0$ are required to constrain the DTD parameters. We find that the DTD is mainly
+imprinted in the statistics of massive galaxies (stellar mass of $M_*\gtrsim 10^{10.5}$ M$_\odot$,
+comparable to the host galaxy of GW170817). Taking account of relevant uncertainties we find that
+$\mathcal{O}(10^3)$ host galaxies are required to constrain the DTD; for a fixed value of $t_{\rm
+min}$, as done in previous analyses of the DTD, $\mathcal{O}(10^2)$ host galaxies will suffice.
+Such a sample might become available within the next two decades, prior to the advent of third-generation
+GW detectors. 

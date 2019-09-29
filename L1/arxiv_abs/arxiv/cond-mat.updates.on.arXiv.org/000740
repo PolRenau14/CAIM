@@ -1,0 +1,16 @@
+Semiconductor alloys exhibit a strong dependence of effective thermal conductivity on measurement
+frequency. So far this quasi-ballistic behaviour has only been interpreted phenomenologically,
+providing limited insight into the underlying thermal transport dynamics. Here, we show that quasi-ballistic
+heat conduction in semiconductor alloys is governed by L\'evy superdiffusion. By solving the Boltzmann
+transport equation (BTE) with ab initio phonon dispersions and scattering rates, we reveal a transport
+regime with fractal space dimension $1 < \alpha < 2$ and superlinear time evolution of mean
+square energy displacement $\sigma^2(t) \sim t^{\beta} (1 < \beta < 2)$. The characteristic
+exponents are directly interconnected with the order $n$ of the dominant phonon scattering mechanism
+$\tau \sim \omega^{-n} (n>3)$ and cumulative conductivity spectra $\kappa_{\Sigma}(\tau;\Lambda)\sim
+(\tau;\Lambda)^{\gamma}$ resolved for relaxation times or mean free paths through simple relations
+$\alpha = 3-\beta = 1 + 3/n = 2 - \gamma$. The quasi-ballistic transport inside alloys is no longer
+governed by Brownian motion, but instead dominated by L\'evy dynamics. This has important implications
+for the interpretation of thermoreflectance (TR) measurements with modified Fourier theory.
+Experimental $\alpha$ values for InGaAs and SiGe, determined through TR analysis with a novel L\'evy
+heat formalism, match ab initio BTE predictions within a few percent. Our findings lead to a deeper
+and more accurate quantitative understanding of the physics of nanoscale heat flow experiments.

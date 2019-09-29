@@ -1,0 +1,16 @@
+There are two significant challenges, the thermal stability (both structure and magnetization)
+and spin polarization (both material and transport), for the development of magnetic tunnel junction
+(MTJ)-based non-volatile magnetoresistive random access memory (MRAM) currently. Using first
+principles calculations, we study the thermal stability of the interfacial structure and magnetization,
+as well as the interfacial and transport spin polarization of Co2FeAl (CFA)/MgO/Co2FeAl (001)
+MTJs. It is found that the architecture of FeAl-O is the most thermally stable interfacial structure.
+Investigation on the interfacial magnetization demonstrates a perpendicular-anisotropy at
+the CFA/MgO interface, which is attributed to the hybridization of the Fe-dz2 and O-pz orbitals.
+This perpendicular magnetocrystalline anisotropy (MCA) provides the magnetic thermal stability,
+which can be further tuned using an external electric field via the magnetoelectric effect. Based
+on the spin polarization calculations, the half-metallicity of CFA electrodes can be quickly recovered
+within only a few atomic layers back away from the interface to the bulk, indicating the reserve of
+high spin polarization in the ultra-thin CFA ferroelectric layer. Compared with CoFe/MgO/CoFe
+and FePt/MgO/FePt MTJs, our transport calculations show that CFA/MgO/CFA MTJs have better MR properties
+(MR ratio and {\Delta}RA). Our systematical study on CFA/MgO/CFA junctions provides a useful guide
+for the experimental development of high-performance MTJs, and then non-volatile MRAM. 

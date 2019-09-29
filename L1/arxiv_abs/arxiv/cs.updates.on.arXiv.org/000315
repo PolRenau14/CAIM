@@ -1,0 +1,16 @@
+We consider infinite duration alternating move games. These games were previously studied by Roth,
+Balcan, Kalai and Mansour. They presented an FPTAS for computing an approximated equilibrium,
+and conjectured that there is a polynomial algorithm for finding an exact equilibrium. We extend
+their study in two directions: (1) We show that finding an exact equilibrium, even for two-player
+zero-sum games, is polynomial time equivalent to finding a winning strategy for a (two-player)
+mean-payoff game on graphs. The existence of a polynomial algorithm for the latter is a long standing
+open question in computer science. Our hardness result for two-player games suggests that two-player
+alternating move games are harder to solve than two-player simultaneous move games, while the work
+of Roth et al., suggests that for $k\geq 3$, $k$-player games are easier to analyze in the alternating
+move setting. (2) We show that optimal equilibriums (with respect to the social welfare metric)
+can be obtained by pure strategies, and we present an FPTAS for computing a pure approximated equilibrium
+that is $\delta$-optimal with respect to the social welfare metric. This result extends the previous
+work by presenting an FPTAS that finds a much more desirable approximated equilibrium. We also show
+that if there is a polynomial algorithm for mean-payoff games on graphs, then there is a polynomial
+algorithm that computes an optimal exact equilibrium, and hence, (two-player) mean-payoff games
+on graphs are inter-reducible with $k$-player alternating move games, for any $k\geq 2$. 

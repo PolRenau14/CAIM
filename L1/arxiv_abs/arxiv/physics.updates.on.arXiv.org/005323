@@ -1,0 +1,16 @@
+Constructing a classical potential suited to simulate a given atomic system is a remarkably difficult
+task. This chapter presents a framework under which this problem can be tackled, based on the Bayesian
+construction of nonparametric force fields of a given order using Gaussian process (GP) priors.
+The formalism of GP regression is first reviewed, particularly in relation to its application in
+learning local atomic energies and forces. For accurate regression it is fundamental to incorporate
+prior knowledge into the GP kernel function. To this end, this chapter details how properties of
+smoothness, invariance and interaction order of a force field can be encoded into corresponding
+kernel properties. A range of kernels is then proposed, possessing all the required properties
+and an adjustable parameter $n$ governing the interaction order modelled. The order $n$ best suited
+to describe a given system can be found automatically within the Bayesian framework by maximisation
+of the marginal likelihood. The procedure is first tested on a toy model of known interaction and
+later applied to two real materials described at the DFT level of accuracy. The models automatically
+selected for the two materials were found to be in agreement with physical intuition. More in general,
+it was found that lower order (simpler) models should be chosen when the data are not sufficient to
+resolve more complex interactions. Low $n$ GPs can be further sped up by orders of magnitude by constructing
+the corresponding tabulated force field, here named "MFF". 

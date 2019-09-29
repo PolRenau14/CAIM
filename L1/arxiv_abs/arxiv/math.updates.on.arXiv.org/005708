@@ -1,0 +1,16 @@
+Let $\calH$ be a separable infinite-dimensional $\C$-linear Hilbert space, with sesquilinear
+inner product $\langle\cdot,\cdot\rangle_\calH$. Given any two orthonormal systems $x_1,x_2,x_3,\ldots$
+and $y_1,y_2,y_3,\ldots$ in $\calH$, we show that the weighted sums \[ S(l):=\sum_{j,k:j+k=l}\bigg(\frac{l}{jk}\bigg)^{\frac12}\,
+\langle x_j,y_k\rangle_{\calH} \] satisfy $|S(l)|^2\lessapprox2$ holds in an average sense.
+A construction due to Zachary Chase shows that this would not be true if the number $2$ is replaced
+by the smaller number $1.72$. In the construction, the system $y_1,y_2,y_3,\ldots$ is a permutation
+of the system $x_1,x_2,x_3,\ldots$. We interpret our bound in terms of the correlation $\expect
+\Phi(z)\Psi(z)$ of two copies of a Gaussian analytic function with possibly intricate Gaussian
+correlation structure between them. The Gaussian analytic function we study arises in connection
+with the classical Dirichlet space, which is naturally M\"obius invariant. The study of the correlations
+$\expect\Phi(z)\Psi(z)$ leads us to introduce a new space, the \emph{mock-Bloch space}, which
+is slightly bigger than the standard Bloch space. Our bound has an interpretation in terms of McMullen's
+asymptotic variance, originally considered for functions in the Bloch space. Finally, we show
+that the correlations $\expect\Phi(z)\Psi(w)$ may be expressed as Dirichlet symbols of contractions
+on $L^2(\D)$, and show that the Dirichlet symbols of Grunsky operators associated with univalent
+functions find a natural characterization in terms of a nonlinear wave equation. 

@@ -1,0 +1,16 @@
+Let $\Lambda\left(n\right)$ be the von Mangoldt function and $r_{G}\left(n\right) := \sum_{m_1
++ m_2=n} \Lambda \left(m_1 \right) \Lambda\left(m_2 \right)$ be the counting function for the
+numbers that can be written as sum of two primes (that we will call "Goldbach numbers", for brevity)
+and let $\widetilde{S }\left(z\right) := \sum_{n\geq1} \Lambda\left(n\right) e^{-nz}$, with
+$z\in\mathbb{C}$, $\mathrm{Re}\left(z\right)>0$. In this paper we will prove the identity $$\widetilde{S}\left(z\right)
+= \frac{e^{-2z}}{z}-\sum_{\rho}z^{-\rho} \Gamma \left(\rho\right) + \sum_{\rho} \left(z^{-\rho}
+\gamma\left(\rho,2z\right) - \frac{2^{\rho}e^{-z}}{\rho} \right) + G\left(z\right)$$ where
+$\gamma\left(\rho,2z\right)$ is the lower incomplete Gamma function, $\rho=\beta+i\gamma$
+runs over the non-trivial zeros of the Riemann Zeta function and $G\left(z\right)$ is a sum of (explicitly
+calculate) elementary function and complex Exponential integrals. In addition we will prove that
+\begin{align*} \sum_{n\leq N} r_G \left(n\right) \left(N-n\right) = & \frac{N^{3}}{6} - 2\sum_{\rho}\frac{\left(N-2\right)^{\rho+2}}{\rho\left(\rho
++ 1\right)\left(\rho+2\right)} + & \sum_{\rho_1} \sum_{\rho_2} \frac{\Gamma\left(\rho_{1}\right)
+\Gamma\left(\rho_{2}\right)} {\Gamma\left(\rho_{1} + \rho_{2}+ 2\right)} N^{\rho_1 + \rho_2+1}
++ F\left(N\right) \end{align*} where $N>4$ is a natural number and $F\left(N\right)$ is a sum of
+(explicitly calculate) elementary functions, dilogarithms and sums over non-trivial zeros of
+the Riemann Zeta function involving the incomplete Beta function. 

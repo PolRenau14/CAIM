@@ -1,0 +1,17 @@
+The Method of Moments [Pea94] is one of the most widely used methods in statistics for parameter estimation,
+by means of solving the system of equations that match the population and estimated moments. However,
+in practice and especially for the important case of mixture models, one frequently needs to contend
+with the difficulties of non-existence or non-uniqueness of statistically meaningful solutions,
+as well as the high computational cost of solving large polynomial systems. Moreover, theoretical
+analysis of the method of moments are mainly confined to asymptotic normality style of results established
+under strong assumptions. This paper considers estimating a $k$-component Gaussian location
+mixture with a common (possibly unknown) variance parameter. To overcome the aforementioned theoretic
+and algorithmic hurdles, a crucial step is to denoise the moment estimates by projecting to the truncated
+moment space (via semidefinite programming) before solving the method of moments equations. Not
+only does this regularization ensures existence and uniqueness of solutions, it also yields fast
+solvers by means of Gauss quadrature. Furthermore, by proving new moment comparison theorems in
+the Wasserstein distance via polynomial interpolation and majorization techniques, we establish
+the statistical guarantees and adaptive optimality of the proposed procedure, as well as oracle
+inequality in misspecified models. These results can also be viewed as provable algorithms for
+Generalized Method of Moments [Han82] which involves non-convex optimization and lacks theoretical
+guarantees. 

@@ -1,0 +1,16 @@
+We consider the problem of optimal decentralized estimation of a linear stochastic process by multiple
+agents. Each agent receives a noisy observation of the state of the process and delayed observations
+of its neighbors (according to a pre-specified, strongly connected, communication graph). Based
+on their observations, all agents generate a sequence of estimates of the state of the process. The
+objective is to minimize the total expected weighted mean square error between the state and the
+agents' estimates over a finite horizon. In centralized estimation with weighted mean square error
+criteria, the optimal estimator does not depend on the weight matrix in the cost function. We show
+that this is not the case when the information is decentralized. The optimal decentralized estimates
+depend on the weight matrix in the cost function. In particular, we show that the optimal estimate
+consists of two parts: a common estimate which is the conditional mean of the state given the common
+information and a correction term which is a linear function of the offset of the local information
+from the conditional expectation of the local information given the common information. The corresponding
+gain depends on the weight matrix as well as on the covariance between the offset of agents' local
+information from the conditional mean of the local information given the common information. We
+show that the local and common estimates can be computed from a single Kalman filter and derive recursive
+expressions for computing the offset covariances and the estimation gains. 

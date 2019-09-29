@@ -1,0 +1,16 @@
+This paper employs a weighted network approach to study the empirical properties of the web of trade
+relationships among world countries, and its evolution over time. We show that most countries are
+characterized by weak trade links; yet, there exists a group of countries featuring a large number
+of strong relationships, thus hinting to a core-periphery structure. The World Trade Web (WTW)
+is characterized by the following representation: a directed graph connecting world Countries
+with trade relationships, with the aim of finding its topological characterization in terms of
+motifs and isolating the key factors underlying its evolution. Frequent patterns can identify
+channels or infrastructures to be strengthened and can help in choosing the most suitable message
+routing schema or network protocol. In general, frequent patterns have been called {\it motifs}
+and overrepresented motifs have been recognized to be the low-level building blocks of networks
+and to be useful to explain many of their properties, playing a relevant role in determining their
+dynamic and evolution. In this paper triadic motifs are found first partitioning a network by strength
+of connections and then analyzing the partitions separately. The WTW has been split based on the
+weights of the graph to highlight structural differences between the big players in terms of volumes
+of trade and the rest of the world. As test case, the period 2003-2010 has been analyzed, to show the
+structural effect of the economical crisis in the year 2007. 

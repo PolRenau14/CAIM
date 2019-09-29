@@ -1,0 +1,16 @@
+We give a general construction of debiased/locally robust/orthogonal (LR) moment functions for
+GMM, where the derivative with respect to first step nonparametric estimation is zero and equivalently
+first step estimation has no effect on the influence function. This construction consists of adding
+an estimator of the influence function adjustment term for first step nonparametric estimation
+to identifying or original moment conditions. We also give numerical methods for estimating LR
+moment functions that do not require an explicit formula for the adjustment term. LR moment conditions
+have reduced bias and so are important when the first step is machine learning. We derive LR moment
+conditions for dynamic discrete choice based on first step machine learning estimators of conditional
+choice probabilities. We provide simple and general asymptotic theory for LR estimators based
+on sample splitting. This theory uses the additive decomposition of LR moment conditions into an
+identifying condition and a first step influence adjustment. Our conditions require only mean
+square consistency and a few (generally either one or two) readily interpretable rate conditions.
+LR moment functions have the advantage of being less sensitive to first step estimation. Some LR
+moment functions are also doubly robust meaning they hold if one first step is incorrect. We give
+novel classes of doubly robust moment functions and characterize double robustness. For doubly
+robust estimators our asymptotic theory only requires one rate condition. 

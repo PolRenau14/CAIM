@@ -1,0 +1,17 @@
+The reverse shock in the ejecta of core-collapse supernovae is potentially able to destroy newly
+formed dust material. In order to determine dust survival rates, we have performed a set of hydrodynamic
+simulations using the grid-based code AstroBEAR in order to model a shock wave interacting with
+clumpy supernova ejecta. Dust motions and destruction rates were computed using our newly developed
+external, post-processing code Paperboats, which includes gas drag, grain charging, sputtering
+and grain-grain collisions. We have determined dust destruction rates for the oxygen-rich supernova
+remnant Cassiopeia A as a function of initial grain sizes and clump gas density. We found that up to
+30 % of the carbon dust mass is able to survive the passage of the reverse shock if the initial grain
+size distribution is narrow with radii around ~10 - 50 nm for high gas densities, or with radii around
+~0.5 - 1.5 ${\mu}$m for low and medium gas densities. Silicate grains with initial radii around 10
+- 30 nm show survival rates of up to 40 % for medium and high density contrasts, while silicate material
+with micron sized distributions is mostly destroyed. For both materials, the surviving dust mass
+is rearranged into a new size distribution that can be approximated by two components: a power-law
+distribution of small grains and a log-normal distribution of grains having the same size range
+as the initial distribution. Our results show that grain-grain collisions and sputtering are synergistic
+and that grain-grain collisions can play a crucial role in determining the surviving dust budget
+in supernova remnants. 

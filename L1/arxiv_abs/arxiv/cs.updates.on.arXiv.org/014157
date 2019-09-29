@@ -1,0 +1,17 @@
+In this paper, we consider hybrid beamforming designs for multiuser massive multiple-input multiple-output
+(MIMO)-orthogonal frequency division multiplexing (OFDM) systems. Aiming at maximizing the
+weighted spectral efficiency, we propose one alternating maximization framework where the analog
+precoding is optimized by Riemannian manifold optimization. If the digital precoding is optimized
+by a locally optimal algorithm, we obtain a locally optimal alternating maximization algorithm.
+In contrast, if we use a weighted minimum mean square error (MMSE)-based iterative algorithm for
+digital precoding, we obtain a suboptimal alternating maximization algorithm with reduced complexity
+in each iteration. By characterizing the upper bound of the weighted arithmetic and geometric means
+of mean square errors (MSEs), it is shown that the two alternating maximization algorithms have
+similar performance when the user specific weights do not have big differences. Verified by numerical
+results, the performance gap between the two alternating maximization algorithms becomes large
+when the ratio of the maximal and minimal weights among users is very large. Moreover, we also propose
+a low-complexity closed-form method without iterations. It employs matrix decomposition for
+the analog beamforming and weighted MMSE for the digital beamforming. Although it is not supposed
+to maximize the weighted spectral efficiency, it exhibits small performance deterioration compared
+to the two iterative alternating maximization algorithms and it qualifies as a good initialization
+for iterative algorithms, saving thereby iterations. 

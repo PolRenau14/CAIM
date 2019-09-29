@@ -1,0 +1,16 @@
+NASA's Kepler Space Telescope was designed to determine the frequency of Earth-sized planets orbiting
+Sun-like stars, but these planets are on the very edge of the mission's detection sensitivity. Accurately
+determining the occurrence rate of these planets will require automatically and accurately assessing
+the likelihood that individual candidates are indeed planets, even at low signal-to-noise ratios.
+We present a method for classifying potential planet signals using deep learning, a class of machine
+learning algorithms that have recently become state-of-the-art in a wide variety of tasks. We train
+a deep convolutional neural network to predict whether a given signal is a transiting exoplanet
+or a false positive caused by astrophysical or instrumental phenomena. Our model is highly effective
+at ranking individual candidates by the likelihood that they are indeed planets: 98.8% of the time
+it ranks plausible planet signals higher than false positive signals in our test set. We apply our
+model to a new set of candidate signals that we identified in a search of known Kepler multi-planet
+systems. We statistically validate two new planets that are identified with high confidence by
+our model. One of these planets is part of a five-planet resonant chain around Kepler-80, with an
+orbital period closely matching the prediction by three-body Laplace relations. The other planet
+orbits Kepler-90, a star which was previously known to host seven transiting planets. Our discovery
+of an eighth planet brings Kepler-90 into a tie with our Sun as the star known to host the most planets.

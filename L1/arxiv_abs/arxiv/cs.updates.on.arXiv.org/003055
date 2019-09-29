@@ -1,0 +1,17 @@
+OpenMP is a shared memory programming model which supports the offloading of target regions to accelerators
+such as NVIDIA GPUs. The implementation in Clang/LLVM aims to deliver a generic GPU compilation
+toolchain that supports both the native CUDA C/C++ and the OpenMP device offloading models. There
+are situations where the semantics of OpenMP and those of CUDA diverge. One such example is the policy
+for implicitly handling local variables. In CUDA, local variables are implicitly mapped to thread
+local memory and thus become private to a CUDA thread. In OpenMP, due to semantics that allow the nesting
+of regions executed by different numbers of threads, variables need to be implicitly \emph{shared}
+among the threads of a contention group. In this paper we introduce a re-design of the OpenMP device
+data sharing infrastructure that is responsible for the implicit sharing of local variables in
+the Clang/LLVM toolchain. We introduce a new data sharing infrastructure that lowers implicitly
+shared variables to the shared memory of the GPU. We measure the amount of shared memory used by our
+scheme in cases that involve scalar variables and statically allocated arrays. The evaluation
+is carried out by offloading to K40 and P100 NVIDIA GPUs. For scalar variables the pressure on shared
+memory is relatively low, under 26\% of shared memory utilization for the K40, and does not negatively
+impact occupancy. The limiting occupancy factor in that case is register pressure. The data sharing
+scheme offers the users a simple memory model for controlling the implicit allocation of device
+shared memory. 

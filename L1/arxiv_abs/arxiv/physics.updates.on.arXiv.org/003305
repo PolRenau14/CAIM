@@ -1,0 +1,17 @@
+Many-body perturbation theory (MBPT) is widely used in quantum physics, chemistry, and materials
+science. At the heart of MBPT is the Feynman diagrammatic expansion, which is, simply speaking,
+an elegant way of organizing the combinatorially growing number of terms of a certain Taylor expansion.
+In particular, the construction of the `bold Feynman diagrammatic expansion' involves the partial
+resummation to infinite order of possibly divergent series of diagrams. This procedure demands
+investigation from both the combinatorial (perturbative) and the analytical (non-perturbative)
+viewpoints. In Part I of this two-part series, we illustrate how the combinatorial properties of
+Feynman diagrams in MBPT can be studied in the simplified setting of Gibbs measures (known as the
+Euclidean lattice field theory in the physics literature) and provide a self-contained explanation
+of Feynman diagrams in this setting. We prove the combinatorial validity of the bold diagrammatic
+expansion, with methods generalizable to several types of field theories and interactions. Our
+treatment simplifies the presentation and numerical study of known techniques in MBPT such as the
+self-consistent Hartree-Fock approximation (HF), the second-order Green's function approximation
+(GF2), and the GW approximation. The bold diagrams are closely related to the Luttinger-Ward (LW)
+formalism, which was proposed in 1960 but whose analytic properties have not been rigorously established.
+The analytical study of the LW formalism in the setting of Gibbs measures will be the topic of Part
+II. 

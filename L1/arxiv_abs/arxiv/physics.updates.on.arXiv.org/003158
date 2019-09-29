@@ -1,0 +1,16 @@
+Here we propose a conceptual framework of aeolian sediment transport initiation that includes
+the role of turbulence. Upon increasing the wind shear stress $\tau$ above a threshold value $\tau^\prime_t$,
+particles resting at the bed surface begin to rock in their pockets because the largest turbulent
+fluctuations of the instantaneous wind velocity above its mean value $\overline{u}$ induce fluid
+torques that exceed resisting torques. Upon a slight further increase of $\tau$, rocking turns
+into a rolling regime (i.e., rolling threshold $\tau_t\simeq\tau^\prime_t$) provided that the
+ratio between the integral time scale $T_i\propto\delta/\overline{u}$ (where $\delta$ is the
+boundary layer thickness) and the time $T_e\propto\sqrt{d/[(1-1/s)g]}$ required for entrainment
+(where $d$ is the particle diameter and $s$ the particle-fluid-density ratio) is sufficiently
+large. Rolling then evolves into mean-wind-sustained saltation transport provided that the mean
+wind is able to compensate energy losses from particle-bed rebounds. However, when $T_i/T_e$ is
+too small, $\tau_t$ may be larger than $\tau^\prime_t$ because fluctuations are too short-lived.
+Theoretical analysis and experiments suggest that the threshold scales as $\tau_t/\tau^\prime_t\propto{T}_e/T_i\propto{s}d^2/\delta^2$
+in this regime. Because $\delta/d$ controls $T_i/T_e$ and the relative amplitude of turbulent
+wind velocity fluctuations, it may not be justified to extrapolate threshold measurements from
+wind tunnel experiments to natural atmospheric conditions. 

@@ -1,0 +1,16 @@
+Most of what is considered as solid evidence of quantum non-locality is based on experimental violations
+of the Clauser-Horne (CH) inequality (1974), under the no-enhancement assumption (i.e., a non-genuine
+version). The role of this and other additional assumptions in Bell tests is not sufficiently acknowledged:
+here we provide explicit examples of how a model of hidden local variables (LHV) defying no-enhancement
+is able to produce a violation of such inequality ("enhancement" enables unfair sampling on the
+non-genuine expression). Seeking for an accurate criteria on the physical significance of these
+models, we demand compliance with the full set of quantum predictions for a given state and observables;
+we find that, as usual, the existence of such a model can be excluded for detection rates beyond a critical
+value $\eta_{\rm crit}$ (usually known as "critical detection efficiency"). In any case, $\eta_{\rm
+crit} \geq \tfrac{1}{2}$ for any choice of state and observables, always, at least when symmetry
+between the two observers is considered. On the other hand, the inplausibility of both the no-enhancement
+and the fair-sampling assumptions is also strongly suggested by what we call "the Wigner-PDC picture
+of photon entanglement" (Casado et al). Finally, some recent reports of relevance are also briefly
+addressed: Kot et al in PRL {\bf 108}, (2012), Giustina et al in Nature (2013). Contrary to what the
+authors seem to believe, this second test, while closing the detection loophole, does not however
+exclude local theories exhibiting unfair sampling: the question is still open. 

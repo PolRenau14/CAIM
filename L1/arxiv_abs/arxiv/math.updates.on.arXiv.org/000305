@@ -1,0 +1,16 @@
+A Hidden Markov Model generates two basic stochastic processes, a Markov chain, which is hidden,
+and an observation sequence. The filtering process of a Hidden Markov Model is, roughly speaking,
+the sequence of conditional distributions of the hidden Markov chain that is obtained as new observations
+are received. It is well-known, that the filtering process itself, is also a Markov chain. A classical,
+theoretical problem is to find conditions which imply that the distributions of the filtering process
+converge towards a unique limit measure. This problem goes back to a paper of D Blackwell for the case
+when the Markov chain takes its values in a finite set and it goes back to a paper of H Kunita for the case
+when the state space of the Markov chain is a compact Hausdorff space. Recently due to work by F Kochman,
+J Reeds, P Chigansky and R van Handel, a necessary and sufficient condition for the convergence of
+the distributions of the filtering process has been found for the case when the state space is finite.
+This condition has since been generalised to the case when the state space is denumerable. In this
+paper we generalise some of the previous results on convergence in distribution to the case when
+the Markov chain and the observation sequence of a Hidden Markov Model take their values in complete
+separable metric spaces; it has though been necessary to assume that both the transition probability
+function of the Markov chain and the transition probability function that generates the observation
+sequence have densities. 

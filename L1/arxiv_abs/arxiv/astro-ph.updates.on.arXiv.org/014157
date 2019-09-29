@@ -1,0 +1,16 @@
+In this paper we demonstrate that the information encoded in \emph{one} single (sufficiently large)
+$N$-body simulation can be used to reproduce arbitrary numbers of halo catalogues with different
+phases. To this end we use as a reference one realisation (from an ensemble of $300$) of the Minerva
+$N$-body simulations and the recently published Bias Assignment Method (Balaguera-Antol\'inez
+et al. 2019) to extract the local and non-local bias linking the halo to the dark matter distribution.
+We use an approximate (and fast) gravity solver to generate $300$ dark matter density fields from
+the down-sampled initial conditions of the reference simulation and sample each of these fields
+using the halo-bias and a kernel, both calibrated from the arbitrarily chosen realisation of the
+reference simulation. We show that the power spectrum, its variance and the three-point statistics
+are reproduced within $\sim 2\%$ (up to $k\sim 1.0\,h\,{\rm Mpc}^{-1}$), $\sim 5\%$ and $10\%$,
+respectively. Using a model for the real space power spectrum we show that the covariance matrices
+obtained from our procedure lead to parameter uncertainties that are compatible within $\sim 1\%$
+with respect to those derived from the reference covariance matrix. Our method has the potential
+to learn from one simulation with moderate volumes and high-mass resolution and extrapolate the
+information of the bias and the kernel to larger volumes, making it ideal for the construction of
+mock catalogues for present and forthcoming observational campaigns such as Euclid or DESI. 

@@ -1,0 +1,16 @@
+In this paper we report a systematic search for an emission line around 3.5 keV in the spectrum of the
+Cosmic X-ray Background using a total of $\sim$10 Ms Chandra observations towards the COSMOS Legacy
+and CDFS survey fields. We find a marginal evidence of a feature at an energy of $\sim$3.51 keV with
+a significance of 2.5-3 $\sigma$, depending on the choice of the statistical treatment. The line
+intensity is best fit at $8.8\ \pm\ {2.9}\times10^{-7}$ ph cm$^{-2}$s$^{-1}$ when using a simple
+$\Delta\chi^2$ or $10.2\ ^{+0.2}_{-0.4} \times10^{-7}$ ph cm$^{-2}$s$^{-1}$ when MCMC is used.
+Based on our knowledge of $Chandra$, and the reported detection of the line by other instruments,
+an instrumental origin for the line remains unlikely. We cannot though rule out a statistical fluctuation
+and in that case our results provide a 3$\sigma$ upper limit at 1.85$\times$10$^{-6}$ ph cm$^{-2}$s$^{-1}$.
+We discuss the interpretation of this observed line in terms of the iron line background; S {\sc XVI}
+charge exchange as well as potentially from sterile neutrino decay. We note that our detection is
+consistent with previous measurements of this line toward the Galactic center, and can be modeled
+as the result of sterile neutrino decay from the Milky Way for the dark matter distribution modeled
+as an NFW profile. For this case, we estimate a mass m$_{\nu}\sim$7.01 keV and a mixing angle sin$^2$(2$\theta$)=
+0.83--2.75 $\times 10^{-10}$. These derived values are in agreement with independent estimates
+from galaxy clusters; the Galactic center and M31. 

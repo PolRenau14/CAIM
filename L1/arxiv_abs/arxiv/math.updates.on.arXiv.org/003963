@@ -1,0 +1,16 @@
+We found in 2016 a few results on the mathematical structure of the conformal Killing differential
+sequence in arbitrary dimension $n$, in particular the rank and order changes of the successive
+differential operators for $n=3,n=4$ or $n\geq 5$. They were so striking that we did not dare to publish
+them before our former PhD student A. Quadrat (INRIA) could confirm them while using new computer
+algebra packages that he developped for studying extension modules in differential homological
+algebra. In the meantime, as a complementary result, we found in 2017 the "missing link" justifying
+the doubts we had since a long time on the origin and existence of Gravitational Waves in General Relativity.
+In both cases, the main tool is the explicit computation of certain extension modules for the classical
+or conformal Killing differential sequences. These results therefore lead to revisit the work
+of C. Lanczos and successors on the existence of a parametrization of the Riemann or Weyl operators
+and their respective formal adjoint operators. We also provide an example showing how these extension
+modules are depending on the structure constants appearing in the Vessiot structure equations
+(1903), still not acknowledged after one century even though they generalize the constant Riemannian
+curvature integrability condition of L.P. Eisenhart (1926) for the Killing equations. The present
+paper is written from a lecture gven at the recent 24 th conference on Applications of Computer Algebra
+(ACA 2018) held in Santiago de Compostela, Spain, june 18-22, 2018. 

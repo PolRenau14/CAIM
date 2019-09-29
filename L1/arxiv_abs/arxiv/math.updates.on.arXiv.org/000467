@@ -1,0 +1,16 @@
+Arithmetic combinatorics is often concerned with the problem of bounding the behaviour of arbitrary
+finite sets in a group or ring with respect to arithmetic operations such as addition or multiplication.
+Similarly, combinatorial geometry is often concerned with the problem of bounding the behaviour
+of arbitrary finite collections of geometric objects such as points, lines, or circles with respect
+to geometric operations such as incidence or distance. Given the presence of arbitrary finite sets
+in these problems, the methods used to attack these problems have primarily been combinatorial
+in nature. In recent years, however, many outstanding problems in these questions have been solved
+by algebraic means (and more specifically, using tools from algebraic geometry and/or algebraic
+topology), giving rise to an emerging set of techniques which is now known as the polynomial method.
+While various instances of the polynomial method have been known for decades (e.g. Stepanov's method,
+the combinatorial nullstellensatz, or Baker's theorem), the general theory of this method is still
+in the process of maturing; in particular, the limitations of the polynomial method are not well
+understood, and there is still considerable scope to apply deeper results from algebraic geometry
+or algebraic topology to strengthen the method further. In this survey we present several of the
+known applications of these methods, focusing on the simplest cases to illustrate the techniques.
+We will assume as little prior knowledge of algebraic geometry as possible. 

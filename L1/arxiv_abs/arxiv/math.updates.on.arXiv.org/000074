@@ -1,0 +1,16 @@
+Let R be a commutative ring, and let A be a Poisson algebra over R. We construct an (R,A)-Lie algebra
+structure, in the sense of Rinehart, on the A-module of K\"ahler differentials of A depending naturally
+on A and the Poisson bracket. This gives rise to suitable algebraic notions of Poisson homology and
+cohomology for an arbitrary Poisson algebra. A geometric version thereof includes the canonical
+homology and Poisson cohomology of a Poisson manifold introduced by Brylinski, Koszul, and Lichnerowicz,
+and absorbes the latter in standard homological algebra by expressing them as Tor and Ext groups,
+respectively, over a suitable algebra of differential operators. Furthermore, the Poisson structure
+determines a closed 2-form in the complex computing Poisson cohomology. This 2-form generalizes
+the 2-form defining a symplectic structure on a smooth manifold; moreover, the class of that 2-form
+in Poisson cohomology generalizes the class in de Rham cohomology of a symplectic structure on a
+smooth manifold and appears as a crucial ingredient for the construction of suitable linear representations
+of A, viewed as a Lie algebra; representations of this kind occur in quantum theory. To describe this
+class and to construct the representations, we relate formal concepts of connection and curvature
+generalizing the classical ones with extensions of Lie algebras. We illustrate our results with
+a number of examples of Poisson algebras and with a quantization procedure for a relativistic particle
+with zero rest mass and spin zero. 

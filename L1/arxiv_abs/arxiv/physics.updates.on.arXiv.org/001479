@@ -1,0 +1,16 @@
+Swirl-switching is a low-frequency oscillatory phenomenon which affects the Dean vortices in
+bent pipes and may cause fatigue in piping systems. Despite thirty years worth of research, the mechanism
+that causes these oscillations and the frequencies that characterise them remain unclear. Here
+we show that a three-dimensional wave-like structure is responsible for the low-frequency switching
+of the dominant Dean vortex. The present study, performed via direct numerical simulation, focuses
+on the turbulent flow through a 90 \degree pipe bend preceded and followed by straight pipe segments.
+A pipe with curvature 0.3 (defined as ratio between pipe radius and bend radius) is studied for a bulk
+Reynolds number Re = 11 700, corresponding to a friction Reynolds number Re_\tau \approx 360. Synthetic
+turbulence is generated at the inflow section and used instead of the classical recycling method
+in order to avoid the interference between recycling and swirl-switching frequencies. The flow
+field is analysed by three-dimensional proper orthogonal decomposition (POD) which for the first
+time allows the identification of the source of swirl-switching: a wave-like structure that originates
+in the pipe bend. Contrary to some previous studies, the flow in the upstream pipe does not show any
+direct influence on the swirl-switching modes. Our analysis further shows that a three- dimensional
+characterisation of the modes is crucial to understand the mechanism, and that reconstructions
+based on 2D POD modes are incomplete. 

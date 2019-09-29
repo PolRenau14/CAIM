@@ -1,0 +1,16 @@
+Ultrafaint dwarf galaxies (UFDs) are typically assumed to have simple, stellar populations with
+star formation ending at reionization. Yet as the observations of these galaxies continue to improve,
+their star formation histories (SFHs) are revealed to be more complicated than previously thought.
+In this paper, we study how star formation, chemical enrichment, and mixing proceed in small, dark
+matter halos at early times using a high-resolution, cosmological, hydrodynamical simulation.
+The goals are to inform the future use of analytic models and to explore observable properties of
+the simulated halos in the context of UFD data. Specifically, we look at analytic approaches that
+might inform metal enrichment within and beyond small galaxies in the early Universe. We find that
+simple assumptions for modeling the extent of supernova-driven winds agree with the simulation
+on average whereas inhomogeneous mixing and gas flows have a large effect on the spread in simulated
+stellar metallicities. In the context of the UFDs, this work demonstrates that simulations can
+form halos with a complex SFH and a large spread in the metallicity distribution function within
+a few hundred Myr in the early Universe. In particular, bursty and continuous star formation are
+seen in the simulation and both scenarios have been argued from the data. Spreads in the simulated
+metallicities, however remain too narrow and too metal-rich when compared to the UFDs. Future work
+is needed to help reduce these discrepancies and advance our interpretation of the data. 

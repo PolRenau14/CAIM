@@ -1,0 +1,17 @@
+Linear-scaling implementations of density functional theory (DFT) exhibiting computational
+times proportional to system size typically 'kick in' only when the system length scale is larger
+than the range of the reduced density matrix (DM). In practice, this range is rather large and therefore,
+approaches bypassing a direct DM calculation, offer an attractive alternative. Such a general
+framework, dubbed stochastic DFT (sDFT) has recently been developed within plane-wave/grid representations.
+This review presents a general formulation of sDFT, applicable to any representation, and includes
+a theoretical analysis of the statistical errors (SEs) in intensive quantities, the standard deviation
+$\sigma$, caused by fluctuations, and the bias $b$, arising from the nonlinear nature of the DFT
+calculation. We supplement the theoretical discussion with a numerical comparison of deterministic
+and stochastic DFT results in large water clusters, both produced using a new Gaussian-type basis-set
+implementation. We also discuss a generalized embedded fragments technique developing a new local
+basis set formulation and demonstrating their utility in efficiently reducing the SEs of intensive
+quantities as well as density of states and force calculations. Finally we demonstrate that the
+bias error in a localized subsystem can be largely wiped out if it is submerged within a large fragment.
+We also discuss the algorithmic complexity of sDFT, demonstrating a linear CPU time scaling. The
+method easily parallelizes over $I$ processors in distributed architectures with near-linear
+speedups. 

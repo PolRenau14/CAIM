@@ -1,0 +1,16 @@
+In the classic Integer Programming (IP) problem, the objective is to decide whether, for a given
+$m \times n$ matrix $A$ and an $m$-vector $b=(b_1,\dots, b_m)$, there is a non-negative integer
+$n$-vector $x$ such that $Ax=b$. Solving (IP) is an important step in numerous algorithms and it
+is important to obtain an understanding of the precise complexity of this problem as a function of
+natural parameters of the input. The classic pseudo-polynomial time algorithm of Papadimitriou
+[J. ACM 1981] for instances of (IP) with a constant number of constraints was only recently improved
+upon by Eisenbrand and Weismantel [SODA 2018] and Jansen and Rohwedder [ArXiv 2018]. We continue
+this line of work and show that under the Exponential Time Hypothesis (ETH), the algorithm of Jansen
+and Rohwedder is nearly optimal. We also show that when the matrix $A$ is assumed to be non-negative,
+a component of Papadimitriou's original algorithm is already nearly optimal under ETH. This motivates
+us to pick up the line of research initiated by Cunningham and Geelen [IPCO 2007] who studied the complexity
+of solving (IP) with non-negative matrices in which the number of constraints may be unbounded,
+but the branch-width of the column-matroid corresponding to the constraint matrix is a constant.
+We prove a lower bound on the complexity of solving (IP) for such instances and obtain optimal results
+with respect to a closely related parameter, path-width. Specifically, we prove matching upper
+and lower bounds for (IP) when the path-width of the corresponding column-matroid is a constant.

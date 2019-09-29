@@ -1,0 +1,17 @@
+Coalescence of binary neutron star give rise to electromagnetic emission, kilonova, powered by
+radioactive decays of r-process nuclei. Observations of kilonova associated with GW170817 provided
+unique opportunity to study the heavy element synthesis in the Universe. However, atomic data of
+r-process elements to decipher the light curves and spectral features of kilonova are not fully
+constructed yet. In this paper, we perform extended atomic calculations of neodymium (Nd, Z=60)
+to study the impact of accuracies in atomic calculations to the astrophysical opacities. By employing
+multiconfiguration Dirac-Hartree-Fock and relativistic configuration interaction methods,
+we calculate energy levels and transition data of electric dipole transitions for Nd II, Nd III,
+and Nd IV ions. Compared with previous calculations, our new results provide better agreement with
+the experimental data. The accuracy of energy levels was achieved in the present work 10 %, 3 % and
+11 % for Nd II, Nd III and Nd IV, respectively, comparing with the NIST database. We confirm that the
+overall properties of the opacity are not significantly affected by the accuracies of the atomic
+calculations. The impact to the Planck mean opacity is up to a factor of 1.5, which affects the timescale
+of kilonova at most 20 %. However, we find that the wavelength dependent features in the opacity are
+affected by the accuracies of the calculations. We emphasize that accurate atomic calculations,
+in particular for low-lying energy levels, are important to provide predictions of kilonova light
+curves and spectra. 

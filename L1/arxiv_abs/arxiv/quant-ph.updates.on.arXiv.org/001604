@@ -1,0 +1,16 @@
+Pauli channels are ubiquitous in quantum information, both as a dominant noise source in many computing
+architectures and as a practical model for analyzing error correction and fault tolerance. Here
+we prove several results on efficiently learning Pauli channels, and more generally the Pauli projection
+of a quantum channel. We first derive a procedure for learning a Pauli channel on $n$ qubits with high
+probability to a relative precision $\epsilon$ using $O\bigl(\epsilon^{-2} n 2^n\bigr)$ measurements,
+which is efficient in the Hilbert space dimension. The estimate is robust to state preparation and
+measurement errors which, together with the relative precision, makes it especially appropriate
+for applications involving characterization of high-accuracy quantum gates. Next we show that
+the error rates for an arbitrary set of $s$ Pauli errors can be estimated to a relative precision $\epsilon$
+using $O\bigl(\epsilon^{-4} \log s\log s/\epsilon\bigr)$ measurements. Finally, we show that
+when the Pauli channel is given by a Markov field with at most $k$-local correlations, we can learn
+an entire $n$-qubit Pauli channel to relative precision $\epsilon$ with only $O_k\bigl(\epsilon^{-2}
+n^2 \log n \bigr)$ measurements, which is efficient in the number of qubits. These results enable
+a host of applications beyond just characterizing noise in a large-scale quantum system: they pave
+the way to tailoring quantum codes, optimizing decoders, and customizing fault tolerance procedures
+to suit a particular device. 

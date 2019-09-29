@@ -1,0 +1,16 @@
+Predictive simulation of many complex flows requires moving beyond Reynolds-averaged Navier-Stokes
+(RANS) based models to representations resolving at least some scales of turbulence in at least
+some regions of the flow. To resolve turbulence where necessary while avoiding the cost of performing
+large eddy simulation (LES) everywhere, a broad range of hybrid RANS/LES methods have been developed.
+While successful in some situations, existing methods exhibit a number of deficiencies which limit
+their predictive capability in many cases of interest, for instance in many flows involving smooth
+wall separation. These deficiencies result from inappropriate blending approaches and resulting
+inconsistencies between the resolved and modeled turbulence as well as errors inherited from the
+underlying RANS and LES models. This work details these problems and their effects in hybrid simulations,
+and develops a modeling paradigm aimed at overcoming these challenges. The new approach discards
+typical blending approaches in favor of a hybridization strategy in which the RANS and LES model
+components act through separate models formulated using the mean and fluctuating velocity, respectively.
+Further, a forcing approach in which fluctuating content is actively transferred from the modeled
+to the resolved scales is introduced. Finally, the model makes use of an anisotropic LES model that
+is intended to represent the effects of grid anisotropy. The model is demonstrated on fully-developed,
+incompressible channel flow and shown to be very promising. 

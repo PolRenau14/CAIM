@@ -1,0 +1,16 @@
+We address a natural question in noncommutative geometry, namely the rigidity observed in many
+examples, whereby noncommutative spaces (or equivalently their coordinate algebras) have very
+few automorphisms by comparison with their commutative counterparts. In the framework of noncommutative
+projective geometry, we define a groupoid whose objects are noncommutative projective spaces
+of a given dimension and whose morphisms correspond to isomorphisms of these. This groupoid is then
+a natural generalization of an automorphism group. Using work of Zhang, we may translate this structure
+to the algebraic side, wherein we consider homogeneous coordinate algebras of noncommutative
+projective spaces. The morphisms in our groupoid precisely correspond to the existence of a Zhang
+twist relating the two coordinate algebras. We analyse this automorphism groupoid, showing that
+in dimension 1 it is connected, so that every noncommutative $\mathbb{P}^{1}$ is isomorphic to
+commutative $\mathbb{P}^{1}$. For dimension 2 and above, we use the geometry of the point scheme,
+as introduced by Artin-Tate-Van den Bergh, to relate morphisms in our groupoid to certain automorphisms
+of the point scheme. We apply our results to two important examples, quantum projective spaces and
+Sklyanin algebras. In both cases, we are able to use the geometry of the point schemes to fully describe
+the corresponding component of the automorphism groupoid. This provides a concrete description
+of the collection of Zhang twists of these algebras. 

@@ -1,0 +1,16 @@
+The interpretation of the DAMA seasonal variation pattern as a Dark Matter (DM) effect rests on the
+assumption that all sources of variable background have been excluded from the measurement. We
+have identified an overlooked background that mimics the DM signature -- a large, patently existing
+effect that has nothing to do with detection within the scintillators. This process takes place
+exclusively within the individual photomultiplier tubes (PMTs), with two familiar actors (thermionic
+electrons and helium atoms), two familiar processes (helium penetration of glass and ion afterpulsing),
+and a simple storyline: (a) After defeating the insulation of the DAMA detector, helium atoms from
+the variable local environment penetrate the PMT vacua; (b) Thermionic electrons from the PMT photocathode
+ionize helium atoms; (c) Secondary electrons from each helium ion impact in the photocathode form
+an afterpulse, and thus effectively boost and extend the waveform. We demonstrate that the accidental
+coincidences of such inflated dark noise waveforms, originating from any pair of PMTs, mimic scintillation
+events at a rate of $\approx$ 1 cpd/kg/keV, which is consistent with DAMA result. The reported seasonal
+variation of $\sim$ 1% thus implicates an equivalent variation of helium concentration in the local
+environment. We predict that the DAMA detector with a modified readout logic -- blinded for the DM
+scintillation events \textendash will measure the same, helium -- driven seasonal variation pattern
+as the original detector. 

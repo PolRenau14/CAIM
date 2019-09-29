@@ -1,0 +1,17 @@
+We present a systematic search for molecular hydrogen absorption systems at high redshift in quasar
+spectra from the Sloan Digital Sky Survey (SDSS) II Data Release 7 and SDSS-III Data Release 9. We
+have selected candidates using a modified profile fitting technique taking into account that the
+Ly$\alpha$ forest can effectively mimic H$_2$ absorption systems at the resolution of SDSS data.
+To estimate the confidence level of the detections, we use two methods: a Monte-Carlo sampling and
+an analysis of control samples. The analysis of control samples allows us to define regions of the
+spectral quality parameter space where H$_2$ absorption systems can be confidently identified.
+We find that H$_2$ absorption systems with column densities $\log {\rm N_{H_2}} > 19$ can be detected
+in only less than 3% of SDSS quasar spectra. We estimate the upper limit on the detection rate of saturated
+H$_2$ absorption systems ($\log {\rm N_{H_2}} > 19$) in Damped Ly-$\alpha$ (DLA) systems to
+be about 7%. We provide a sample of 23 confident H$_2$ absorption system candidates that would be
+interesting to follow up with high resolution spectrographs. There is a 1$\sigma$ $r-i$ color excess
+and non-significant $A_{\rm V}$ extinction excess in quasar spectra with an H$_2$ candidate compared
+to standard DLA-bearing quasar spectra. The equivalent widths (EWs) of C II, Si II and Al III (but
+not Fe II) absorptions associated with H$_2$ candidate DLAs are larger compared to standard DLAs.
+This is probably related to a larger spread in velocity of the absorption lines in the H$_2$ bearing
+sample. 

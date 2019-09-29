@@ -1,0 +1,16 @@
+The KOI-94 system is a closely-packed, multi-transiting planetary system discovered by the Kepler
+space telescope. It is known as the first system that exhibited a rare event called a "planet-planet
+eclipse (PPE)," in which two planets partially overlap with each other in their double-transit
+phase. In this paper, we constrain the parameters of the KOI-94 system with an analysis of the transit
+timing variations (TTVs). Such constraints are independent of the radial velocity (RV) analysis
+recently performed by Weiss and coworkers, and valuable in examining the reliability of the parameter
+estimate using TTVs. We numerically fit the observed TTVs of KOI-94c, KOI-94d, and KOI-94e for their
+masses, eccentricities, and longitudes of periastrons, and obtain the best-fit parameters including
+$m_{\rm c} = 9.4_{-2.1}^{+2.4} M_{\oplus}$, $m_{\rm d} = 52.1_{-7.1}^{+6.9} M_{\oplus}$, $m_{\rm
+e} = 13.0_{-2.1}^{+2.5} M_{\oplus}$, and $e \lesssim 0.1$ for all the three planets. While these
+values are mostly in agreement with the RV result, the mass of KOI-94d estimated from the TTV is significantly
+smaller than the RV value $m_{\rm d} = 106 \pm 11 M_{\oplus}$. In addition, we find that the TTV of the
+outermost planet KOI-94e is not well reproduced in the current modeling. We also present analytic
+modeling of the PPE and derive a simple formula to reconstruct the mutual inclination of the two planets
+from the observed height, central time, and duration of the brightening caused by the PPE. Based
+on this model, the implication of the results of TTV analysis for the time of the next PPE is discussed.

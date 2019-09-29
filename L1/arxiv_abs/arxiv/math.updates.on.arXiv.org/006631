@@ -1,0 +1,16 @@
+In this paper we introduce a technique to produce tighter cutting planes for mixed-integer non-linear
+programs. Usually, a cutting plane is generated to cut off a specific infeasible point. The underlying
+idea is to use the infeasible point to restrict the feasible region in order to obtain a tighter domain.
+To ensure validity, we require that every valid cut separating the infeasible point from the restricted
+feasible region is still valid for the original feasible region. We translate this requirement
+in terms of the separation problem and the reverse polar. In particular, if the reverse polar of the
+restricted feasible region is the same as the reverse polar of the feasible region, then any cut valid
+for the restricted feasible region that separates the infeasible point, is valid for the feasible
+region. We show that the reverse polar of the visible points of the feasible region from the infeasible
+point coincides with the reverse polar of the feasible region. In the special where the feasible
+region is described by a single non-convex constraint intersected with a convex set we provide a
+characterization of the visible points. Furthermore, when the non-convex constraint is quadratic
+the characterization is particularly simple. We also provide an extended formulation for a relaxation
+of the visible points when the non-convex constraint is a general polynomial. Finally, we give some
+conditions under which for a given set there is an inclusion-wise smallest set, in some predefined
+family of sets, whose reverse polars coincide. 

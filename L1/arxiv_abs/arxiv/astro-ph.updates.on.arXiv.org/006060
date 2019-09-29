@@ -1,0 +1,17 @@
+In X-ray binary star systems consisting of a compact object that accretes material from an orbiting
+secondary star, there is no straightforward means to decide if the compact object is a black hole
+or a neutron star. To assist this classification, we develop a Bayesian statistical model that makes
+use of the fact that X-ray binary systems appear to cluster based on their compact object type when
+viewed from a 3-dimensional coordinate system derived from X-ray spectral data. The first coordinate
+of this data is the ratio of counts in mid to low energy band (color 1), the second coordinate is the
+ratio of counts in high to low energy band (color 2), and the third coordinate is the sum of counts in
+all three bands. We use this model to estimate the probabilities that an X-ray binary system contains
+a black hole, non-pulsing neutron star, or pulsing neutron star. In particular, we utilize a latent
+variable model in which the latent variables follow a Gaussian process prior distribution, and
+hence we are able to induce the spatial correlation we believe exists between systems of the same
+type. The utility of this approach is evidenced by the accurate prediction of system types using
+Rossi X-ray Timing Explorer All Sky Monitor data, but it is not flawless. In particular, non-pulsing
+neutron systems containing "bursters" that are close to the boundary demarcating systems containing
+black holes tend to be classified as black hole systems. As a byproduct of our analyses, we provide
+the astronomer with public R code that can be used to predict the compact object type of X-ray binaries
+given training data. 

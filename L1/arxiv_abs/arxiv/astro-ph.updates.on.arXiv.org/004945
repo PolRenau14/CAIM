@@ -1,0 +1,17 @@
+We combine Gaia DR1, PS1, SDSS and 2MASS astrometry to measure proper motions for 350 million sources
+across three-fourths of the sky down to a magnitude of $m_r\sim20$\,. Using positions of galaxies
+from PS1, we build a common reference frame for the multi-epoch PS1, single-epoch SDSS and 2MASS
+data, and calibrate the data in small angular patches to this frame. As the Gaia DR1 excludes resolved
+galaxy images, we choose a different approach to calibrate its positions to this reference frame:
+we exploit the fact that the proper motions of stars in these patches are {\it linear}. By simultaneously
+fitting the positions of stars at different epochs of -- Gaia DR1, PS1, SDSS, and 2MASS -- we construct
+an extensive catalog of proper motions dubbed GPS1. GPS1 has a characteristic systematic error
+of less than 0.3 \masyr\, and a typical precision of $ 1.5-2.0$\masyr. The proper motions have been
+validated using galaxies, open clusters, distant giant stars and QSOs. In comparison with other
+published faint proper motion catalogs, GPS1's systematic error ($<0.3$ \masyr) should be nearly
+an order of magnitude better than that of PPMXL and UCAC4 ($>2.0$ \masyr). Similarly, its precision
+($\sim 1.5$ \masyr) is a four-fold improvement relative to PPMXL and UCAC4 ($\sim 6.0$ \masyr).
+For QSOs, the precision of GPS1 is found to be worse ($\sim 2.0-3.0$\masyr), possibly due to their
+particular differential chromatic refraction (DCR). The GPS1 catalog will be released on-line
+and available via the VizieR Service and VO Service. (===GPS1 is available with VO TAP Query now,
+see this http URL for details=== ) 

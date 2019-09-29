@@ -1,0 +1,16 @@
+Large intelligent surfaces (LISs) constitute a new and promising wireless communication paradigm
+that relies on the integration of a massive number of antenna elements over the entire surfaces of
+man-made structures. The LIS concept provides many advantages, such as the capability to provide
+reliable and space-intensive communications by effectively establishing line-of-sight (LOS)
+channels. In this paper, the system spectral efficiency (SSE) of an uplink LIS system is asymptotically
+analyzed under a practical LIS environment with a well-defined uplink frame structure. In order
+to verify the impact on the SSE of pilot contamination, the SSE of a multi-LIS system is asymptotically
+studied and a theoretical bound on its performance is derived. Given this performance bound, an
+optimal pilot training length for multi-LIS systems subjected to pilot contamination is characterized
+and, subsequently, the performance-maximizing number of devices that the LIS system must service
+is derived. Simulation results show that the derived analyses are in close agreement with the exact
+mutual information in presence of a large number of antennas, and the achievable SSE is limited by
+the effect of pilot contamination and intra/inter-LIS interference through the LOS path, even
+if the LIS is equipped with an infinite number of antennas. Additionally, the SSE obtained with the
+proposed pilot training length and number of scheduled devices is shown to reach the one obtained
+via a brute-force search for the optimal solution. 

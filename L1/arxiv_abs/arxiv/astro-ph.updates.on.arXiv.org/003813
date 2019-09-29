@@ -1,0 +1,17 @@
+In this paper, we report the development of a java application for the Superposition T-matrix code,
+JaSTA (Java Superposition T-matrix App), to study the light scattering properties of aggregate
+structures. It has been developed using Netbeans 7.1.2, which is a java integrated development
+environment (IDE). The JaSTA uses double precession superposition codes for multi-sphere clusters
+in random orientation developed by Mackowski and Mischenko (1996). It consists of a graphical user
+interface (GUI) in the front hand and a database of related data in the back hand. Both the interactive
+GUI and database package directly enable a user to model by self-monitoring respective input parameters
+(namely, wavelength, complex refractive indices, grain size, etc.) to study the related optical
+properties of cosmic dust (namely, extinction, polarization, etc.) instantly, i.e., with zero
+computational time. This increases the efficiency of the user. The database of JaSTA is now created
+for a few sets of input parameters with a plan to create a large database in future. This application
+also has an option where users can compile and run the scattering code directly for aggregates in
+GUI environment. The JaSTA aims to provide convenient and quicker data analysis of the optical properties
+which can be used in different fields like planetary science, atmospheric science, nano science,
+etc. The current version of this software is developed for the Linux and Windows platform to study
+the light scattering properties of small aggregates which will be extended for larger aggregates
+using parallel codes in future. 

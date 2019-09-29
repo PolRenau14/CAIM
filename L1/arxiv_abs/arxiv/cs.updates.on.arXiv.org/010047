@@ -1,0 +1,16 @@
+The notions of softwarization and virtualization of the radio access network (RAN) of next-generation
+(5G) wireless systems are ushering in a vision where applications and services are physically decoupled
+from devices and network infrastructure. This crucial aspect will ultimately enable the dynamic
+deployment of heterogeneous services by different network operators over the same physical infrastructure.
+RAN slicing is a form of 5G virtualization that allows network infrastructure owners to dynamically
+"slice" and "serve" their network resources (i.e., spectrum, power, antennas, among others) to
+different mobile virtual network operators (MVNOs), according to their current needs. Once the
+slicing policy (i.e., the percentage of resources assigned to each MVNO) has been computed, a major
+challenge is how to allocate spectrum resources to MVNOs in such a way that (i) the slicing policy
+defined by the network owner is enforced; and (ii) the interference among different MVNOs is minimized.
+In this article, we mathematically formalize the RAN slicing enforcement problem (RSEP) and demonstrate
+its NP-hardness. For this reason, we design three approximation algorithms that render the solution
+scalable as the RSEP increases in size. We extensively evaluate their performance through simulations
+and experiments on a testbed made up of 8 software-defined radio peripherals. Experimental results
+reveal that not only do our algorithms enforce the slicing policies, but can also double the total
+network throughput when intra-MVNO power control policies are used in conjunction. 

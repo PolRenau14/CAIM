@@ -1,0 +1,16 @@
+We study the evolution of substructure in the mass distribution with mass, redshift and radius in
+a sample of simulated galaxy clusters. The sample, containing $1226$ objects, spans the mass range
+$M_{200} = 10^{14} - 1.74 \times 10^{15} \ {\rm M_{\odot}} \ h^{-1}$ in six redshift bins from $z=0$
+to $z=1.179$. We consider three different diagnostics: 1) subhalos identified with SUBFIND; 2)
+overdense regions localized by dividing the cluster into octants; 3) offset between the potential
+minimum and the center of mass. The octant analysis is a new method that we introduce in this work.
+We find that none of the diagnostics indicate a correlation between the mass of the cluster and the
+fraction of substructures. On the other hand, all the diagnostics suggest an evolution of substructures
+with redshift. For SUBFIND halos, the mass fraction is constant with redshift at $R_{\mathrm{vir}}$,
+but shows a mild evolution at $R_{200}$ and $R_{500}$. Also, the fraction of clusters with at least
+a subhalo more massive than one thirtieth of the total mass is less than $20 \%$. Our new method based
+on the octants returns a mass fraction in substructures which has a strong evolution with redshift
+at all radii. The offsets also evolve strongly with redshift. We also find a strong correlation for
+individual clusters between the offset and the fraction of substructures identified with the octant
+analysis. Our work puts strong constraints on the amount of substructures we expect to find in galaxy
+clusters and on their evolution with redshift. 

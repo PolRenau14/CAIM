@@ -1,0 +1,16 @@
+At the Centre for Proton Therapy at the Paul Scherrer Institute cancer patients are treated with
+a fixed beamline and in two gantries for ocular and non-ocular malignancies, respectively. For
+the installation of a third gantry a new patient safety system (PaSS) was developed and is sequentially
+being rolled out to update the existing areas. The aim of PaSS is to interrupt the treatment whenever
+any sub-system detects a hazardous condition. To ensure correct treatment delivery, this system
+needs to be thoroughly tested as part of the regular quality assurance (QA) protocols as well as after
+any upgrade. In the legacy safety systems, unit testing required an extensive use of resources:
+two weeks of work per area in the laboratory in addition to QA beam time. In order to significantly
+reduce the time, an automated PaSS test stand for unit testing was developed based on a PXI chassis
+with virtually unlimited IOs that are synchronously stimulated or sampled at 1 MHz. It can emulate
+the rest of the facility using adapters to connect each type of interface. With it PaSS can be tested
+under arbitrary conditions. A VHDL-based formal language was developed to describe stimuli, expected
+behaviour and specific measurements, interpreted by a LabView runtime environment. This article
+describes the tools and methodology being applied for unit testing and QA release tests for the new
+PaSS. It shows how automation and formalization made possible an increase in test coverage while
+significantly cutting down the laboratory testing time and facility's beam usage. 

@@ -1,0 +1,15 @@
+In this thesis, we study the Berkovich skeleton of an algebraic curve over a discretely valued field
+$K$. We do this using coverings $C\rightarrow{\mathbb{P}^{1}}$ of the projective line. To study
+these coverings, we take the Galois closure of the corresponding injection of function fields $K(\mathbb{P}^{1})\rightarrow{K(C)}$,
+giving a Galois morphism $\overline{C}\rightarrow{\mathbb{P}^{1}}$. A theorem by Liu and Lorenzini
+tells us how to associate to this morphism a Galois morphism of semistable models $\mathcal{C}\rightarrow{\mathcal{D}}$.
+That is, we make the branch locus disjoint in the special fiber of $\mathcal{D}$ and remove any vertical
+ramification on the components of $\mathcal{D}_{s}$. This morphism $\mathcal{C}\rightarrow{\mathcal{D}}$
+then gives rise to a morphism of intersection graphs $\Sigma(\mathcal{C})\rightarrow{\Sigma(\mathcal{D})}$.
+Our goal is to reconstruct $\Sigma(\mathcal{C})$ from $\Sigma(\mathcal{D})$ and we will do this
+by giving a set of covering and twisting data. These then give algorithms for finding the Berkovich
+skeleton of a curve $C$ whenever that curve has a morphism $\overline{C}\rightarrow{\mathbb{P}^{1}}$
+with a solvable Galois group. In particular, this gives an algorithm for finding the Berkovich skeleton
+of any genus three curve. These coverings also give a new proof of a classical result on the semistable
+reduction type of an elliptic curve, saying that an elliptic curve has potential good reduction
+if and only if the valuation of the $j$-invariant is positive. 

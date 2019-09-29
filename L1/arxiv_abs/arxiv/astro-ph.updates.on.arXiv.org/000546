@@ -1,0 +1,16 @@
+Broad absorption line quasars (BALQs) present a large diversity in their broad absorption line
+(BAL) profiles. To investigate what physical parameters underlie this diversity, we construct
+a sample of BALQs which covers lambda_rest ~ 800-3000 {\AA}, based on the Sloan Digital Sky Survey
+DR7 quasar catalogue. The average BAL properties are evaluated by taking the ratios of average BALQ
+spectra to the average spectra of matched samples of non-BALQs, where the matching is based on various
+emission properties. We find the following properties. (i) There is no detectable Lyman edge associated
+with the BAL absorbing gas (tau<0.1). (ii) The known increase of average absorption depth with
+the ionization potential extends to the higher ionization N V and O VI BALs. We also find that the C
+IV BAL profile is controlled by two parameters. (i) The He II emission EW, which controls the typical
+velocity of the C IV BAL, but does not affect the absorption depth. (ii) The spectral slope in the 1700-3000
+{\AA} range (alpha_UVl), which controls the C IV peak absorption depth, but does not affect the typical
+velocity. The He II EW and alpha_UVl also control the observed fraction of quasars that are BALQs.
+We suggest that a lower He II EW may indicate a weaker ionizing continuum, which allows the outflow
+to reach higher velocities before being overionized, possibly without a need to invoke a shielding
+gas. A redder continuum may indicate a more inclined system, and a larger covering factor and larger
+column of the outflow along the line of sight. 

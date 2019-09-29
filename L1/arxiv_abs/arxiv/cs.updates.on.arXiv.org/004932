@@ -1,0 +1,17 @@
+Due to the special gating schemes of Long Short-Term Memory (LSTM), LSTMs have shown greater potential
+to process complex sequential information than the traditional Recurrent Neural Network (RNN).
+The conventional LSTM, however, fails to take into consideration the impact of salient spatio-temporal
+dynamics present in the sequential input data. This problem was first addressed by the differential
+Recurrent Neural Network (dRNN), which uses a differential gating scheme known as Derivative of
+States (DoS). DoS uses higher orders of internal state derivatives to analyze the change in information
+gain caused by the salient motions between the successive frames. The weighted combination of several
+orders of DoS is then used to modulate the gates in dRNN. While each individual order of DoS is good
+at modeling a certain level of salient spatio-temporal sequences, the sum of all the orders of DoS
+could distort the detected motion patterns. To address this problem, we propose to control the LSTM
+gates via individual orders of DoS and stack multiple levels of LSTM cells in an increasing order
+of state derivatives. The proposed model progressively builds up the ability of the LSTM gates to
+detect salient dynamical patterns in deeper stacked layers modeling higher orders of DoS, and thus
+the proposed LSTM model is termed deep differential Recurrent Neural Network (d2RNN). The effectiveness
+of the proposed model is demonstrated on two publicly available human activity datasets: NUS-HGA
+and Violent-Flows. The proposed model outperforms both LSTM and non-LSTM based state-of-the-art
+algorithms. 

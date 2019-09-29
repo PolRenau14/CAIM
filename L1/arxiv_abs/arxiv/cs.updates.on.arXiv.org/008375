@@ -1,0 +1,16 @@
+Blockchain systems benefit from lessons in prior art such as fault tolerance, distributed systems,
+peer-to-peer systems, and game theory. In this paper we argue that blockchain algorithms should
+tolerate both rational (self-interested) users and Byzantine (malicious) ones, rather than assuming
+all non-Byzantine users are altruistic and follow the protocols blindly. Such algorithms are called
+BAR-tolerant [1]. To design a BAR-tolerant system, one can follow these three steps: clearly define
+the utility function for the rational users, prove the algorithm is such that there is no benefit
+from unilaterally deviating (that is, it's a Byzantine Nash Equilibrium), then prove the algorithm
+correct assuming the rational actors follow the protocol. We present an example attack by rational
+users: the gatekeeping attack, where members of a system selfishly decide to prevent newcomers
+from joining. This attack may affect any stake-based system where the existing members prevent
+newcomers from making a stake, and essentially form a cartel. We then sketch a BAR-tolerant consensus
+protocol for blockchain that can defend against this attack. It relies on a strict order to decide
+who gets to propose a new block (so there's no need to race to solve a crypto puzzle) and it relies on
+hardware ID tokens to make sure every computer is only represented at most once as a block proposer
+to mitigate Sybil attacks. It also defends against the gatekeeper attack. The BAR-tolerant approach
+is naturally also applicable to other blockchain algorithms. 

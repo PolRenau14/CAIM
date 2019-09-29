@@ -1,0 +1,16 @@
+The local character of self-gravity along with the number of spatial dimensions are critical issues
+when computing the potential and forces inside massive systems like stars and disks. This appears
+from the discretisation scale where each cell of the numerical grid is a self-interacting body in
+itself. There is apparently no closed-form expression yet giving the potential of a three-dimensional
+homogeneous cylindrical or spherical cell, in contrast with the Cartesian case. By using Green's
+theorem, we show that the potential integral for such polar-type 3D sectors -- initially, a volume
+integral with singular kernel -- can be converted into a regular line-integral running over the
+lateral contour, thereby generalising a formula already known under axial symmetry. It therefore
+is a step towards the obtention of another potential/density pair. The new kernel is a finite function
+of the cell's shape (with the simplest form in cylindrical geometry), and mixes incomplete elliptic
+integrals, inverse trigonometric and hyperbolic functions. The contour integral is easy to compute;
+it is valid in the whole physical space, exterior and interior to the sector itself and works in fact
+for a wide variety of shapes of astrophysical interest (e.g. sectors of tori or flared discs). This
+result is suited to easily providing reference solutions, and to reconstructing potential and
+forces in inhomogeneous systems by superposition. The contour integrals for the 3 components of
+the acceleration vector are explicitely given. 

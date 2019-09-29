@@ -1,0 +1,16 @@
+NGC 5128 (Centaurus A) is one of the best targets to study AGN-feedback in the local Universe. Optical
+filaments located at 16 kpc from the galaxy along the radio jet direction show recent star formation,
+likely triggered by the interaction of the jet with an HI shell. A large reservoir of molecular gas
+has been discovered outside the HI. In this reservoir, lies the Horseshoe complex: a filamentary
+structure seen in CO with ALMA and in Halpha with MUSE. The ionised gas is mostly excited by shocks,
+with only a minor contribution of star formation. We used the Atacama Pathfinder EXperiment (APEX)
+to observe the 12CO(3-2) and 12CO(4-3) transitions, as well as dense gas tracers in the Horseshoe
+complex. 12CO(3-2) and 12CO(4-3) are detected for the first time in the northern filaments of Centaurus
+A, with integrated intensity line ratios R32~0.2 and R43~0.1, compared to the 12CO(1-0) emission.
+We also derived a line ratio R21~0.6, based on the previous 12CO(2-1) observations of Salom\'e et
+al. (2016). We used the non-LTE radiative transfer code RADEX and determined that the molecular
+gas in this region has a temperature of 55-70 K and densities between 2-6x10^2 cm^-3. Such densities
+are also in agreement with results from the Paris-Durham shock code that predicts a post-shock density
+of a few 100 cm^-3. However, we need more observations of emission lines at a better angular resolution
+in order to place tighter constraints on our radiative models, whether they are used as a stand-alone
+tool (LVG codes) or combined with a shock model. 

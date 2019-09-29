@@ -1,0 +1,17 @@
+WIRC+Pol is a newly commissioned low-resolution (R~100), near-infrared (J and H band) spectropolarimetry
+mode of the Wide-field InfraRed Camera (WIRC) on the 200-inch Hale Telescope at Palomar Observatory.
+The instrument utilizes a novel polarimeter design based on a quarter-wave plate and a polarization
+grating (PG), which provides full linear polarization measurements (Stokes I, Q, and U) in one exposure.
+The PG also has high transmission across the J and H bands. The instrument is situated at the prime
+focus of an equatorially mounted telescope. As a result, the system only has one reflection in the
+light path, providing minimal telescope induced polarization. A data reduction pipeline has been
+developed for WIRC+Pol to produce linear polarization measurements from observations. WIRC+Pol
+has been on-sky since February 2017. Results from the first year commissioning data show that the
+instrument has a high dispersion efficiency as expected from the polarization grating. We demonstrate
+the polarimetric stability of the instrument with RMS variation at 0.2% level over 30 minutes for
+a bright standard star (J = 8.7). While the spectral extraction is photon noise limited, polarization
+calibration between sources remain limited by systematics, likely related to gravity dependent
+pointing effects. We discuss instrumental systematics we have uncovered in the data, their potential
+causes, along with calibrations that are necessary to eliminate them. We describe a modulator upgrade
+that will eliminate the slowly varying systematics and provide polarimetric accuracy better than
+0.1%. 

@@ -1,0 +1,16 @@
+One of the main challenges hampering an accurate measurement of the double parton scattering (DPS)
+cross sections is the difficulty in separating the DPS from the leading twist (LT) contributions.
+We argue that such a separation can be achieved, and cross section of DPS measured, by exploiting
+the different centrality dependence of DPS and LT processes in proton-nucleus scattering. We developed
+a Monte Carlo implementation of the DPS processes which includes realistic nucleon-nucleon (NN)
+correlations in nuclei, an accurate description of transverse geometry of both hard and soft NN
+collisions as well as fluctuations of the strength of interaction of nucleon with nucleus (color
+fluctuation effects). Our method allows the calculation of probability distributions of single
+and double dijet events as a function of centrality, also distinguishing double hard scatterings
+originating from a single target nucleon and from two different nucleons. We present numerical
+results for the rate of DPS as a function of centrality, which relates the number of wounded nucleons
+and the sum of transverse energy of hadrons produced at large negative (along the nucleus direction)
+rapidities, which is experimentally measurable. We suggest a new quantity which allows to test
+the geometry of DPS and we argue that it is a universal function of centrality for different DPS processes.
+This quantity can be tested by analyzing existing LHC data. The method developed in this work can
+be extended to the search for triple parton interactions. 

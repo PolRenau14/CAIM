@@ -1,0 +1,17 @@
+The Lieb-Robinson (LR) bound rigorously shows that in quantum systems with short-range interactions,
+the maximum amount of information that travels beyond an effective "light cone" decays exponentially
+with distance from the light-cone front, which expands at finite velocity. Despite being a fundamental
+result, existing bounds are often extremely loose, limiting their applications when quantitative
+accuracy is necessary. We derive improved LR bounds in systems with finite-range interactions
+that qualitatively strengthen previous bounds in three ways: (1) At large distance $d_{XY}$, the
+bound decays like $e^{-d_{XY}\ln d_{XY}}$, faster than the previous exponential decay. (2) At
+short times, the bound is $O(t^{d_{XY}})$, which is much smaller than previous bounds, which grow
+proportional to $t$, and is often tight. (3) The LR velocity vastly improves previous bounds. As
+an example, when applied to the two-dimensional transverse field Ising model~(TFIM) with interaction
+strength $J$ and transverse field $h$, our bound for the LR velocity is $\min\{4.27\sqrt{Jh},15.1J,12.1h\}$.
+Compared to the best previously known bound on the LR speed, $16 e J\approx 43.5J$, the new bound is
+more than 10 times tighter for $J=h$, at least 2.8 times tighter for every value of $J$ and $h$, and
+remains finite as $J\rightarrow\infty$, while previous bounds diverge. These tighter LR bounds
+have immediate consequences. For example, we obtain qualitatively tighter bounds for the correlations
+in gapped ground states. We also expect the bounds to enable new applications where quantitative
+accuracy is necessary. 

@@ -1,0 +1,17 @@
+Biological and advanced cyberphysical control systems often have limited, sparse, uncertain,
+and distributed communication and computing in addition to sensing and actuation. Fortunately,
+the corresponding plants and performance requirements are also sparse and structured, and this
+must be exploited to make constrained controller design feasible and tractable. We introduce a
+new "system level" (SL) approach involving three complementary SL elements. System Level Parameterizations
+(SLPs) generalize state space and Youla parameterizations of all stabilizing controllers and
+the responses they achieve, and combine with System Level Constraints (SLCs) to parameterize the
+largest known class of constrained stabilizing controllers that admit a convex characterization,
+generalizing quadratic invariance (QI). SLPs also lead to a generalization of detectability and
+stabilizability, suggesting the existence of a rich separation structure, that when combined
+with SLCs, is naturally applicable to structurally constrained controllers and systems. We further
+provide a catalog of useful SLCs, most importantly including sparsity, delay, and locality constraints
+on both communication and computing internal to the controller, and external system performance.
+The resulting System Level Synthesis (SLS) problems that arise define the broadest known class
+of constrained optimal control problems that can be solved using convex programming. An example
+illustrates how this system level approach can systematically explore tradeoffs in controller
+performance, robustness, and synthesis/implementation complexity. 

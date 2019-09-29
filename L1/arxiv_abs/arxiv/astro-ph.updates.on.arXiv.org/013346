@@ -1,0 +1,16 @@
+The inter-line comparison between high- and low-ionization emission lines has yielded a wealth
+of information on the quasar broad line region (BLR) structure and dynamics, including perhaps
+the earliest unambiguous evidence in favor of a disk + wind structure in radio-quiet quasars. We
+carried out an analysis of the CIV 1549 and Hbeta line profiles of 28 Hamburg-ESO high luminosity
+quasars and of 48 low-z, low luminosity sources in order to test whether the high-ionization line
+CIV 1549 width could be correlated with Hbeta and be used as a virial broadening estimator. We analyze
+intermediate- to high-S/N, moderate resolution optical and NIR spectra covering the redshifted
+CIV and H$\beta$ over a broad range of luminosity log L ~ 44 - 48.5 [erg/s] and redshift (0 - 3), following
+an approach based on the quasar main sequence. The present analysis indicates that the line width
+of CIV 1549 is not immediately offering a virial broadening estimator equivalent to H$\beta$. At
+the same time a virialized part of the BLR appears to be preserved even at the highest luminosities.
+We suggest a correction to FWHM(CIV) for Eddington ratio (using the CIV blueshift as a proxy) and
+luminosity effects that can be applied over more than four dex in luminosity. Great care should be
+used in estimating high-L black hole masses from CIV 1549 line width. However, once corrected FWHM(CIV)
+values are used, a CIV-based scaling law can yield unbiased MBH values with respect to the ones based
+on H$\beta$ with sample standard deviation ~ 0.3 dex. 

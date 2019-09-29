@@ -1,0 +1,16 @@
+The realization of a quantum interface between a propagating photon used for transmission of quantum
+information, and a stationary qubit used for storage and manipulation, has long been an outstanding
+goal in quantum information science. A method for implementing such an interface between dissimilar
+qubits is quantum teleportation, which has attracted considerable interest not only as a versatile
+quantum-state-transfer method but also as a quantum computational primitive. Here, we experimentally
+demonstrate transfer of quantum information carried by a photonic qubit to a quantum dot spin qubit
+using quantum teleportation. In our experiment, a single photon in a superposition state of two
+colors -- a photonic qubit is generated using selective resonant excitation of a neutral quantum
+dot. We achieve an unprecedented degree of indistinguishability of single photons from different
+quantum dots by using local electric and magnetic field control. To teleport a photonic qubit, we
+generate an entangled spin-photon state in a second quantum dot located 5 meters away from the first
+and interfere the photons from the two dots in a Hong-Ou-Mandel set-up. A coincidence detection
+at the output of the interferometer heralds successful teleportation, which we verify by measuring
+the resulting spin state after its coherence time is prolonged by an optical spin-echo pulse sequence.
+The demonstration of successful inter-conversion of photonic and semiconductor spin qubits constitute
+a major step towards the realization of on-chip quantum networks based on semiconductor nano-structures.

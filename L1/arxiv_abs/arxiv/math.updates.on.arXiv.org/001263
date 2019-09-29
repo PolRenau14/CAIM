@@ -1,0 +1,17 @@
+The heterogeneous system, where small networks (e.g., femtocell or WiFi) boost the system capacity
+under the umbrella of a large network (e.g., cellular systems), is a promising architecture for
+the next generation wireless communication systems. In addition, energy harvesting (EH) based
+green communication is one key next-generation technology. In this paper, we study an uplink transmission
+scenario under such a heterogeneous network hierarchy, where each mobile user (MU) is powered by
+a sustainable energy supply and has deterministic access to the large network via one private channel,
+but only dynamic access to a small network with certain probability via one common channel shared
+by multiple MUs. Considering a general EH model, i.e., energy arrivals are time-correlated, we
+study an opportunistic transmission scheme and aim to maximize the average throughput for each
+MU, which jointly exploits the statistics and current states of the channel, battery, and EH rate,
+together with the availability to the common channel. Applying a simple yet efficient "save-then-transmit"
+scheme, the throughput maximization problem is cast as a "rate-of-return" optimal stopping problem.
+The optimal solution is investigated for the general Markovian channel states and energy arrivals,
+followed by the independent and identically distributed (i.i.d.) case. As performance benchmarks,
+the optimal and some suboptimal power allocation schemes with conventional constant power supplies
+are also examined. Finally, numerical results are presented, and a new concept of "EH diversity"
+is discussed. 

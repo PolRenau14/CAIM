@@ -1,0 +1,16 @@
+Motivated by recent studies of quantum computational complexity in quantum field theory and holography,
+we discuss how weighting certain classes of gates building up a quantum circuit more heavily than
+others does affect the complexity. Utilizing Nielsen's geometric approach to circuit complexity,
+we investigate the effects for a regulated field theory for which the optimal circuit is a representation
+of $GL(N,\mathbb{R})$. More precisely, we work out how a uniformly chosen weighting factor acting
+on the entangling gates affects the complexity and, particularly, its divergent behavior. We show
+that assigning a higher cost to the entangling gates increases the complexity. Employing the penalized
+and the unpenalized complexities for the $\mathcal{F}_{\kappa=2}$ cost, we further find an interesting
+relation between the latter and the one based on the unpenalized $\mathcal{F}_{\kappa=1}$ cost.
+In addition, we exhibit how imposing such penalties modifies the leading order UV divergence in
+the complexity. We show that appropriately tuning the gate weighting eliminates the additional
+logarithmic factor, thus, resulting in a simple power law scaling. We also compare the circuit complexity
+with holographic predictions, specifically, based on the complexity=action conjecture, and
+relate the weighting factor to certain bulk quantities. Finally, we comment on certain expectations
+concerning the role of gate penalties in defining complexity in field theory and also speculate
+on possible implications for holography. 

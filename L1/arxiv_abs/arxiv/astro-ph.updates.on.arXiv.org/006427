@@ -1,0 +1,16 @@
+In the Hall magnetohydrodynamics, the onset condition of the Kelvin Helmholtz instability is solely
+determined by the Hall effect and is independent of the nature of shear flows. In addition, the physical
+mechanism behind the super and sub Alfvenic flows becoming unstable is quite different: the high
+frequency right circularly polarized whistler becomes unstable in the super Alfvenic flows whereas
+low frequency, left circularly polarized ion-cyclotron wave becomes unstable in the presence
+of sub Alfvenic shear flows. The growth rate of the Kelvin Helmholtz instability in the super Alfvenic
+case is higher than the corresponding ideal magnetohydrodynamic rate. In the sub Alfvenic case,
+the Hall effect opens up a new, hitherto inaccessible (to the magnetohydrodynamics) channel through
+which the partially or fully ionized fluid can become Kelvin-Helmholtz unstable. The instability
+growth rate in this case is smaller than the super Alfvenic case owing to the smaller free shear energy
+content of the flow. When the Hall term is somewhat smaller than the advection term in the induction
+equation, the Hall effect is also responsible for the appearance of a new overstable mode whose growth
+rate is smaller than the purely growing Kelvin Helmholtz mode. On the other hand, when the Hall diffusion
+dominates the advection term, the growth rate of the instability depends only on the Alfven Mach
+number and is independent of the Hall diffusion coefficient. Further, the growth rate in this case
+linearly increase with the Alfven frequency with smaller slope for sub Alfvenic flows. 

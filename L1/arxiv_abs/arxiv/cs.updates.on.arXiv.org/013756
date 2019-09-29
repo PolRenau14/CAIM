@@ -1,0 +1,16 @@
+Static analysis is an effective technique to catch bugs early when they are easy to fix. Recent advances
+in program reasoning theory have led to increasing adoption of static analyzers in software engineering
+practice. Despite the significant progress, there is still potential for improvement. In this
+paper, we present an alternative approach to create static bug finders. Instead of relying on human
+expertise, we leverage deep neural networks-which have achieved groundbreaking results in a number
+of problem domains-to train a static analyzer directly from data. In particular, we frame the problem
+of bug finding as a classification task and train a classifier to differentiate the buggy from non-buggy
+programs using Gated Graph Neural Network (GGNN). In addition, we propose a novel interval-based
+propagation mechanism that significantly improves the generalization of GGNN on larger graphs.
+We have realized our approach into a framework, NeurSA, and extensively evaluated it. In a cross-project
+prediction task, three neural bug detectors we instantiate from NeurSA are highly precise in catching
+null pointer dereference, array index out of bound and class cast bugs in unseen code. A close comparison
+with Facebook Infer in catching null pointer dereference bugs reveals NeurSA to be far more precise
+in catching the real bugs and suppressing the spurious warnings. We are in active discussion with
+Visa Inc for possible adoption of NeurSA in their software development cycle. Due to the effectiveness
+and generality, we expect NeurSA to be helpful in improving the quality of their code base. 

@@ -1,0 +1,16 @@
+An approach to non-adiabatic dynamics of atoms in molecular and condensed matter systems under
+general non-equilibrium conditions is proposed. In this method interaction between nuclei and
+electrons is considered explicitly up to the second order in atomic displacements defined with
+respect to the mean atomic trajectory. This method enables one to consider movement of atoms beyond
+their simple vibrations. Both electrons and nuclei are treated fully quantum-mechanically using
+a combination of path integrals applied to nuclei and non-equilibrium Green's functions (NEGF)
+to elections. Our method is partition-less: initially, the entire system is coupled and assumed
+to be at thermal equilibrium. Then, the exact application of the Hubbard-Stratanovich transformation
+in mixed real and imaginary times enables us to obtain, without doing any additional approximations,
+an exact expression for the reduced density matrix for nuclei and hence an effective quantum Liouville
+equation for them, both containing Gaussian noises. It is shown that the time evolution of the expectation
+values for atomic positions is described by an infinite hierarchy of stochastic differential equations
+for atomic positions and momenta and their various fluctuations. The actual dynamics is obtained
+by sampling all stochastic trajectories. It is expected that applications of the method may include
+photo-induced chemical reactions (e.g. dissociation), electromigration, atomic manipulation
+in scanning tunneling microscopy, to name just a few. 

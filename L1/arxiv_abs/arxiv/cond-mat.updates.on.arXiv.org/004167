@@ -1,0 +1,16 @@
+In vivo, DNA forms loops over a broad range of length scales: from several thousand base pairs (bp)
+down to about 100 bp. In loops shorter than the DNA persistence length (150 bp), thermal fluctuations
+can be neglected, and the molecule assumes approximately its minimal-energy shape. It is well-known
+that for a simple isotropic wormlike chain model, the minimal-energy shape of a loop can be derived
+exactly and is expressed as a combination of inverse elliptic integrals. Here, we construct a simple
+explicit two-parameter variational solution, referred to as harmonic loop, which reproduces
+the exact loop energy up to the fourth significant digit. The harmonic-loop solution is easier to
+handle than the exact one, simplifying the analytical calculation of several quantities. We generalize
+this solution to a twistable DNA model with anisotropic bending and twist-bend coupling, and show
+that the loop shape thus derived is in excellent agreement with simulations of two different coarse-grained
+DNA models. As recently found for DNA minicircles and observed in nucleosomal DNA data, twist-bend
+coupling induces twist oscillations in bent DNA. Here, we show that twist waves in DNA loops have
+a modulated amplitude, which is maximal in the middle of the loop and decaying at the loop edges, following
+the curvature modulation. We, finally, simulate the loop dynamics at room temperature, and show
+that the twist waves are robust against thermal fluctuations, and perform a normal diffusive motion,
+whose origin is briefly discussed. 

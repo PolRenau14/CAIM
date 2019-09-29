@@ -1,0 +1,16 @@
+Infrared divergences have long been heralded to cancel in sufficiently inclusive cross-sections,
+according to the famous Kinoshita-Lee-Nauenberg theorem which mandates an initial and final state
+sum. While well-motivated, this theorem is much weaker than necessary: for finiteness, one need
+only sum over initial $\textit{or}$ final states. Moreover, the cancellation generically requires
+the inclusion of the forward scattering process. We provide a number of examples showing the importance
+of this revised understanding: in $e^+e^- \to Z$ at next-to-leading order, one can sum over certain
+initial and final states with an arbitrary number of extra photons, or only over final states with
+a finite number of photons, if forward scattering is included. For Compton scattering, infrared
+finiteness requires the indistinguishability of hard forward-scattered electrons and photons.
+This implies that in addition to experimental limits on the energy and angular resolution, there
+must also be an experimental limit on the momentum at which electric charge can be observed. Similar
+considerations are required to explain why the rate for $\gamma \gamma$ to scatter into photons
+alone is infrared divergent but the rate for $\gamma \gamma$ to scatter into photons or charged particles
+is finite. This new understanding sheds light on the importance of including degenerate initial
+states in physical predictions, the relevance of disconnected Feynman diagrams, the importance
+of dressing initial or final-state charged particles, and the quest to properly define the $S$ matrix.

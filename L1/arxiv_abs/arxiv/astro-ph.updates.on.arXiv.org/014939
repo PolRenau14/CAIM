@@ -1,0 +1,16 @@
+Like other young stellar objects (YSOs), FU Ori-type stars have been detected as strong X-ray emitters.
+However, little is known about how the outbursts of these stars affect their X-ray properties. We
+assemble available X-ray data from XMM Newton and Chandra observations of 16 FU Ori stars, including
+a new XMM Newton observation of Gaia 17bpi during its optical rise phase. Of these stars, six were
+detected at least once, while 10 were non-detections, for which we calculate upper limits on intrinsic
+X-ray luminosity ($L_X$) as a function of plasma temperature ($kT$) and column density ($N_H$).
+The detected FU Ori stars tend to be more X-ray luminous than typical for non-outbursting YSOs, based
+on comparison to a sample of low-mass stars in the Orion Nebula Cluster. FU Ori stars with high $L_X$
+have been observed both at the onset of their outbursts and decades later. We use the Kaplan-Meier
+estimator to investigate whether the higher X-ray luminosities for FU Ori stars is characteristic
+or a result of selection effects, and we find the difference to be statistically significant ($p<0.01$)
+even when non-detections are taken into account. The additional X-ray luminosity of FU Ori stars
+relative to non-outbursting YSOs cannot be explained by accretion shocks, given the high observed
+plasma temperatures. This suggests that, for many FU Ori stars, either 1) the outburst leads to a
+restructuring of the magnetosphere in a way that enhances X-ray emission, or 2) FU Ori outbursts
+are more likely to occur among YSOs with the highest quiescent X-ray luminosity. 

@@ -1,0 +1,16 @@
+Community detection emerges as an important task in the discovery of network mesoscopic structures.
+However, the concept of a "good" community is very context-dependent and it is relatively complicated
+to deduce community characteristics using available community detection techniques. In reality,
+the existence of a gap between structural goodness quality metrics and expected topological patterns
+creates a confusion in evaluating community structures. In this paper, we introduce an empirical
+multivariate analysis of different structural goodness properties in order to characterize several
+detectable community topologies. Specifically, we show that a combination of two representative
+structural dimensions including community transitivity and hub dominance allows to distinguish
+different topologies such as star-based, clique-based, string-based and grid-based structures.
+Additionally, these classes of topology disclose structural proximities with those of graphs
+created by Erd\H{o}s-R\'{e}nyi, Watts-Strogatz and Barab\'{a}si-Albert generative models.
+We illustrate popular community topologies identified by different detection methods on a large
+dataset composing many network categories and associate their structures with the most related
+graph generative model. Interestingly, this conjunctive representation sheds light on fundamental
+differences between mesoscopic structures in various network categories including: communication,
+information, biological, technological, social, ecological, synthetic networks and more. 

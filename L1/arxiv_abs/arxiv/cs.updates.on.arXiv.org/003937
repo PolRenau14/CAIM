@@ -1,0 +1,17 @@
+Eyal and Sirer's selfish mining strategy has demonstrated that Bitcoin system is not secure even
+if 50% of total mining power is held by altruistic miners. Since then, researchers have been investigating
+either to improve the efficiency of selfish mining, or how to defend against it, typically in a single
+selfish miner setting. Yet there is no research on a selfish mining strategies concurrently used
+by multiple miners in the system. The effectiveness of such selfish mining strategies and their
+required mining power under such multiple selfish miners setting remains unknown. In this paper,
+a preliminary investigation and our findings of selfish mining strategy used by multiple miners
+are reported. In addition, the conventional model of Bitcoin system is slightly redesigned to tackle
+its shortcoming: namely, a concurrency of individual mining processes. Although a theoretical
+analysis of selfish mining strategy under this setting is yet to be established, the current findings
+based on simulations is promising and of great interest. In particular, our work shows that a lower
+bound of power threshold required for selfish mining strategy decreases in proportion to a number
+of selfish miners. Moreover, there exist Nash equilibria where all selfish miners in the system
+do not change to an honest mining strategy and simultaneously earn their unfair amount of mining
+reward given that they equally possess sufficiently large mining power. Lastly, our new model yields
+a power threshold for mounting selfish mining strategy slightly greater than one from the conventional
+model. 

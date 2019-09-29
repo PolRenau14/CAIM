@@ -1,0 +1,16 @@
+We derive a new Bayesian Information Criterion (BIC) from first principles by formulating the problem
+of estimating the number of clusters in an observed data set as maximization of the posterior probability
+of the candidate models. Given that some mild assumptions are satisfied, we provide a general BIC
+expression for a broad class of data distributions. This serves as an important milestone when deriving
+the BIC for specific data distributions. Along this line, we provide a closed-form BIC expression
+for multivariate Gaussian distributed observations. We show that incorporating data structure
+of the clustering problem into the derivation of the BIC results in an expression whose penalty term
+is different from that of the original BIC. We propose a two-step cluster enumeration algorithm.
+First, a model-based unsupervised learning algorithm partitions the data according to a given
+set of candidate models. Subsequently, the optimal cluster number is determined as the one associated
+to the model for which the proposed BIC is maximal. The performance of the proposed criterion is tested
+using synthetic and real data sets. Despite the fact that the original BIC is a generic criterion
+which does not include information about the specific model selection problem at hand, it has been
+widely used in the literature to estimate the number of clusters in an observed data set. We, therefore,
+consider it as a benchmark comparison. Simulation results show that our proposed criterion outperforms
+the existing cluster enumeration methods that are based on the original BIC. 

@@ -1,0 +1,17 @@
+Internet of Things (IoT) has gained substantial attention over the past years. And the main discussion
+has been how to process the amount of data that it generates which has lead to the edge computing paradigm.
+Wether it is called fog1, edge or mist, the principle remains that cloud services must become available
+closer to clients. This documents presents ongoing work on future edge systems that are built to
+provide steadfast IoT services to users by bringing storage and processing power closer to peripheral
+parts of networks. Designing such infrastructures is becoming much more challenging as the number
+of IoT devices keeps growing. Production grade deployments have to meet very high performance requirements,
+and end-to-end solutions involve significant investments. In this paper, we aim at providing a
+solution to extend the range of the edge model to the very farthest nodes in the network. Specifically,
+we focus on providing reliable storage and computation capabilities immediately on wireless IoT
+sensor nodes. This extended edge model will allow end users to manage their IoT ecosystem without
+forcibly relying on gateways or Internet provider solutions. In this document, we introduce Achlys,
+a prototype implementation of an edge node that is a concrete port of the Lasp programming library
+on the GRiSP Erlang embedded system. This way, we aim at addressing the need for a general purpose
+edge that is both resilient and consistent in terms of storage and network. Finally, we study example
+use cases that could take advantage of integrating the Achlys framework and discuss future work
+for the latter. 

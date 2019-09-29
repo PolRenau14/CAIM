@@ -1,0 +1,16 @@
+We have performed an initial stage conceptual design study for the Deep Interior Scanning CubeSat
+(DISCUS), a tandem 6U CubeSat carrying a bistatic radar as main payload. DISCUS will be operated
+either as an independent mission or accompanying a larger one. It is designed to determine the internal
+macroporosity of a 260-600 m diameter Near Earth Asteroid (NEA) from a few kilometers distance.
+The main goal will be to achieve a global penetration with a low-frequency signal as well as to analyze
+the scattering strength for various different penetration depths and measurement positions.
+Moreover, the measurements will be inverted through a computed radar tomography (CRT) approach.
+The scientific data provided by DISCUS would bring more knowledge of the internal configuration
+of rubble pile asteroids and their collisional evolution in the Solar System. It would also advance
+the design of future asteroid deflection concepts. We aim at a single-unit (1U) radar design equipped
+with a half-wavelength dipole antenna. The radar will utilize a stepped-frequency modulation
+technique the baseline of which was developed for ESA's technology projects GINGER and PIRA. The
+radar measurements will be used for CRT and shape reconstruction. The CubeSat will also be equipped
+with an optical camera system and laser altimeter to sup- port navigation and shape reconstruction.
+We provide the details of the measurement methods to be applied along with the requirements derived
+of the known characteristics of rubble pile asteroids. 

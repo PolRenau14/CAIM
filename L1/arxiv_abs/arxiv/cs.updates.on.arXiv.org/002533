@@ -1,0 +1,17 @@
+As vehicle maneuver data becomes abundant for assisted or autonomous driving, their implication
+of privacy invasion/leakage has become an increasing concern. In particular, the surface for fingerprinting
+a driver will expand significantly if the driver's identity can be linked with the data collected
+from his mobile or wearable devices which are widely deployed worldwide and have increasing sensing
+capabilities. In line with this trend, this paper investigates a fast emerging driving data source
+that has driver's privacy implications. We first show that such privacy threats can be materialized
+via any mobile device with IMUs (e.g., gyroscope and accelerometer). We then present Dri-Fi (Driver
+Fingerprint), a driving data analytic engine that can fingerprint the driver with vehicle turn(s).
+Dri-Fi achieves this based on IMUs data taken only during the vehicle's turn(s). Such an approach
+expands the attack surface significantly compared to existing driver fingerprinting schemes.
+From this data, Dri-Fi extracts three new features --- acceleration along the end-of-turn axis,
+its deviation, and the deviation of the yaw rate --- and exploits them to identify the driver. Our
+extensive evaluation shows that an adversary equipped with Dri-Fi can correctly fingerprint the
+driver within just one turn with 74.1%, 83.5%, and 90.8% accuracy across 12, 8, and 5 drivers --- typical
+of an immediate family or close-friends circle --- respectively. Moreover, with measurements
+on more than one turn, the adversary can achieve up to 95.3%, 95.4%, and 96.6% accuracy across 12,
+8, and 5 drivers, respectively. 

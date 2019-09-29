@@ -1,0 +1,16 @@
+It is expected that the periodic cyclic homology of a DG algebra over the field of complex numbers
+(and, more generally, the periodic cyclic homology of a DG category) carries a lot of additional
+structure similar to the mixed Hodge structure on the de Rham cohomology of algebraic varieties.
+Whereas a construction of such a structure seems to be out of reach at the moment its counterpart in
+finite characteristic is much better understood thanks to recent groundbreaking works of Kaledin.
+In particular, it is proven by Kaledin that under some assumptions on a DG algebra $A$ over a perfect
+field $k$ of characteristic $p$, a lifting of $A$ over the ring of second Witt vectors $W_2(k)$ specifies
+the structure of a Fontaine-Laffaille module on the periodic cyclic homology of $A$. The purpose
+of this paper is to develop a relative version of Kaledin's theory for DG algebras over a base $k$-algebra
+$R$ incorporating in the picture the Gauss-Manin connection on the relative periodic cyclic homology
+constructed by Getzler. Our main result asserts that, under some assumptions on $A$, the Gauss-Manin
+connection on its periodic cyclic homology can be recovered from the Hochschild homology of $A$
+equipped with the action of the Kodaira-Spencer operator as the inverse Cartier transform (in the
+sense of Ogus-Vologodsky). As an application, we prove, using the reduction modulo $p$ technique,
+that, for a smooth and proper DG algebra over a complex punctured disk, the monodromy of the Gauss-Manin
+connection on its periodic cyclic homology is quasi-unipotent. 

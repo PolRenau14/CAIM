@@ -1,0 +1,16 @@
+We prove an asymptotic structure theorem for glueball and meson propagators of any spin in large-N
+QCD and in n=1 SUSY QCD with massless quarks, that determines asymptotically the residues of the
+poles of the propagators in terms of their anomalous dimensions and of the spectral density of the
+masses. The asymptotic theorem follows by the severe constraints on the propagators in large-N
+QCD with massless quarks, or in any large-N confining asymptotically-free gauge theory massless
+in perturbation theory, that arise by perturbation theory in conjunction with the renormalization
+group and by the OPE on the ultraviolet side. The asymptotic theorem is inspired by a recently proposed
+Topological Field Theory (TFT) underlying large-N pure YM, that computes sums of the scalar and
+of the pseudoscalar correlators satisfying the asymptotic theorem and that implies for the large-N
+joint scalar and pseudoscalar glueball spectrum exact linearity in the masses squared. On the infrared
+side we test the prediction of the exact linearity in the TFT by Meyer-Teper lattice numerical computation
+of the masses of the low-lying glueballs in SU(8) YM, finding accurate agreement. Besides, we employ
+the aforementioned ultraviolet and infrared constraints in order to compare critically the scalar
+or pseudoscalar glueball propagators computed in the framework of the AdS String/large-N Gauge
+Theory correspondence with those of the TFT underlying large-N YM. We find that only the TFT satisfies
+the ultraviolet and infrared constraints. 

@@ -1,0 +1,16 @@
+It is widely known that in active galactic nuclei (AGNs) and black hole X-ray binaries (BHXBs), there
+is a tight correlation among their radio luminosity ($L_R$), X-ray luminosity ($L_X$) and BH mass
+($\mbh$), the so-called `fundamental plane' (FP) of BH activity. Yet the supporting data are very
+limited in the $\mbh$ regime between stellar mass (i.e., BHXBs) and 10$^{6.5}$\,\msun\ (namely,
+the lower bound of supermassive BHs in common AGNs). In this work, we developed a new method to measure
+the 1.4 GHz flux directly from the images of the VLA FIRST survey, and apply it to the type-1 low-mass
+AGNs in the \cite{2012ApJ...755..167D} sample. As a result, we obtained 19 new low-mass AGNs for
+FP research with both \mbh\ estimates ($\mbh \approx 10^{5.5-6.5}$\,\msun), reliable X-ray measurements,
+and (candidate) radio detections, tripling the number of such candidate sources in the literature.Most
+(if not all) of the low-mass AGNs follow the standard radio/X-ray correlation and the universal
+FP relation fitted with the combined dataset of BHXBs and supermassive AGNs by \citet{2009ApJ...706..404G};
+the consistency in the radio/X-ray correlation slope among those accretion systems supports the
+picture that the accretion and ejection (jet) processes are quite similar in all accretion systems
+of different \mbh. In view of the FP relation, we speculate that the radio loudness $\mathcal{R}$
+(i.e., the luminosity ratio of the jet to the accretion disk) of AGNs depends not only on Eddington
+ratio, but probably also on \mbh. 

@@ -1,0 +1,16 @@
+We consider the exact channel synthesis problem, which is the problem of determining how much information
+is required to create exact correlation remotely when there is a certain amount of randomness shared
+by two terminals. This problem generalizes an existing approximate version, in which the generated
+joint distribution is restricted to be close to a target distribution under the total variation
+(TV) distance measure, instead being exactly equal to the target distribution. We study the admissible
+region of the shared randomness rate and the communication rate for the exact channel synthesis
+problem by providing single-letter inner and outer bounds on it. The inner bound implies that a linear
+number of bits (or a finite rate) of shared randomness suffices to realize exact channel synthesis,
+even when communication rates are restricted to approach to the optimal communication rate $I(X;Y)$
+asymptotically. This disproves a conjecture posed by Bennett-Devetak-Harrow-Shor-Winter (2014),
+where they conjectured that under this scenario, an exponential number of bits of shared randomness
+is necessary to realize exact channel synthesis. Furthermore, our bounds coincide for doubly symmetric
+binary sources (or binary symmetric channels), which implies that for such sources, the admissible
+rate region is completely characterized. We observe that for such sources, the admissible rate
+region for exact channel synthesis is strictly larger than that for TV-approximate version. We
+also extend these results to other sources, including Gaussian sources. 

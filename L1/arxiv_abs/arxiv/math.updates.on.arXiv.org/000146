@@ -1,0 +1,15 @@
+Given a principal bundle over a closed manifold, G --> P --> M, let P^{Ad} --> M be the associated
+adjoint bundle. Gruher and Salvatore showed that the Thom spectrum (P^{Ad})^{-TM} is a ring spectrum
+whose corresponding product in homology is a Chas-Sullivan type string topology product. We refer
+to this spectrum as the `string topology spectrum of P", S (P). In the universal case when P is contractible,
+S(P) is equivalent to LM^{-TM} where LM is the free loop space of the manifold. This ring spectrum
+was introduced by the authors as a homotopy theoretic realization of the Chas-Sullivan string topology
+of M. The main purpose of this paper is to introduce an action of the gauge group of the principal bundle,
+G (P) on the string topology spectrum S(P), and to study this action in detail. Indeed we study the
+entire group of units and the induced representation G(P) --> GL_1(S (P)). We show that this group
+of units is the group of homotopy automorphisms of the fiberwise suspension spectrum of P. More generally
+we describe the homotopy type of the group of homotopy automorphisms of any E-line bundle for any
+ring spectrum E. We import some of the basic ideas of gauge theory, such as the action of the gauge group
+on the space of connections to the setting of E-line bundles over a manifold, and do explicit calculations.
+We end by discussing a functorial perspective, which describes a sense in which the string topology
+spectrum S(P) of a principal bundle is the "linearization" of the gauge group G(P). 

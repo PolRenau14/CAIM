@@ -1,0 +1,16 @@
+Parameter extension simulation (PES) as a mathematical method for simulating turbulent flows
+has been proposed in the study. It is defined as a calculation of the turbulent flow for the desired
+parameter values with the help of a reference solution. A typical PES calculation is composed of
+three consecutive steps: Set up the asymptotic relationship between the desired solution and the
+reference solution; Calculate the reference solution and the necessary asymptotic coefficients;
+Extend the reference solution to the desired parameter values. A controlled eddy simulation (CES)
+method has been developed to calculate the reference solution and the asymptotic coefficients.
+The CES method is a special type of large eddy simulation (LES) method in which a weight coefficient
+and an artificial force distribution are used to model part of the turbulent motions. The artificial
+force distribution is modeled based on the eddy viscosity assumption. The reference weight coefficient
+and the asymptotic coefficients can be determined through a weight coefficient convergence study.
+The proposed PES/CES method has been used to simulate four types of turbulent flows. They are decaying
+homogeneous and isotropic turbulence, smooth wall channel flows, rough wall channel flows, and
+compressor blade cascade flows. The numerical results show that the 0-order PES solution (or the
+reference CES solution) has a similar accuracy as a traditional LES solution, while its computational
+cost is much lower. A higher order PES method has an even higher model accuracy. 

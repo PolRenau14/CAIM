@@ -1,0 +1,16 @@
+A small subset of young stellar objects (YSOs) exhibit "see-saw" temporal variations in their mid-infrared
+SED; as the flux short-ward of a fulcrum wavelength ($\lambda_{f}$) increases the flux long-wards
+of this wavelength decreases (and vice-versa) over timescales of weeks to years. While previous
+studies have shown that an opaque, axisymmetric occulter of variable height can cause this behaviour
+in the SED of these objects, the conditions under which a single $\lambda_{f}$ occurs have not previously
+been determined, nor the factors determining its value. Using radiative transfer modelling, we
+conduct a parametric study of the exemplar of this class, LRLL 31 to explore this phenomenon, and
+confirm that the cause of this flux variation is likely due to the change in height of the optically
+thick inner rim of the accretion disc at the dust sublimation radius, or some other phenomenon which
+results in a similar appearance. We also determine that a fulcrum wavelength only occurs for high
+inclinations, where the line of sight intersects the accretion disc. Accepting that the disc of
+LRLL 31 is highly inclined, the inner rim radius, radial and vertical density profiles are independently
+varied to gauge what effect this had on $\lambda_{f}$ and its position relative to the silicate feature
+near $10 \mu$m. While $\lambda_{f}$ is a function of each of these parameters, it is found to be most
+strongly dependent on the vertical density exponent $\beta$. All other factors being held constant,
+only for flatter discs ($\beta < 1.2$) did we find a $\lambda_{f}$ beyond the silicate feature. 

@@ -1,0 +1,16 @@
+In this survey paper, we systematically summarize the current literature on studies that apply
+machine learning (ML) and data mining techniques to bearing fault diagnostics. Conventional ML
+methods, including artificial neural network (ANN), principal component analysis (PCA), support
+vector machines (SVM), etc., have been successfully applied to detecting and categorizing bearing
+faults since the last decade, while the application of deep learning (DL) methods has sparked great
+interest in both the industry and academia in the last five years. In this paper, we will first review
+the conventional ML methods, before taking a deep dive into the latest developments in DL algorithms
+for bearing fault applications. Specifically, the superiority of the DL based methods over the
+conventional ML methods are analyzed in terms of metrics directly related to fault feature extraction
+and classifier performances; the new functionalities offered by DL techniques that cannot be accomplished
+before are also summarized. In addition, to obtain a more intuitive insight, a comparative study
+is performed on the classifier performance and accuracy for a number of papers utilizing the open
+source Case Western Reserve University (CWRU) bearing data set. Finally, based on the nature of
+the time-series 1-D data obtained from sensors monitoring the bearing conditions, recommendations
+and suggestions are provided to applying DL algorithms on bearing fault diagnostics based on specific
+applications, as well as future research directions to further improve its performance. 

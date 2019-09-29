@@ -1,0 +1,16 @@
+We study bandstructure properties of periodic optical systems composed of lossy and intrinsically
+dispersive materials. To this end, we develop an analytical framework based on adjoint modes of
+a lossy periodic electromagnetic system and show how the problem of linearly dependent eigenmodes
+in the presence of material dispersion can be overcome. We then formulate expressions for the bandstructure
+derivative $(\partial \omega) / (\partial \mathbf{k})$ (complex group velocity) and the local
+and total density of transverse optical states. Our exact expressions hold for 3D periodic arrays
+of materials with arbitrary dispersion properties and in general need to be evaluated numerically.
+They can be generalized to systems with two, one or no directions of periodicity provided the fields
+are localized along non-periodic directions. Possible applications are photonic crystals, metamaterials,
+metasurfaces composed of highly dispersive materials such as metals or lossless photonic crystals,
+metamaterials or metasurfaces strongly coupled to resonant perturbations such as quantum dots
+or excitons in 2D materials. For illustration purposes, we analytically evaluate our expressions
+for some simple systems consisting of lossless dielectrics with one sharp Lorentzian material
+resonance. Finally, we show how the perturbation of a periodic system with a sharp resonance modifies
+the bandstructure. By combining several Lorentz poles, this provides an avenue to perturbatively
+treat quite general material loss bands in photonic crystals. 

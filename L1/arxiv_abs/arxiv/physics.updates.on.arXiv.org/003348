@@ -1,0 +1,17 @@
+Large parallel gains in the development of both computational resources as well as sampling methods
+have now made it possible to simulate dissociation events in ligand-protein complexes with all--atom
+resolution. Such encouraging progress, together with the inherent spatiotemporal resolution
+associated with molecular simulations, has left their use for investigating dissociation processes
+brimming with potential, both in rational drug design, where it can be an invaluable tool for determining
+the mechanistic driving forces behind dissociation rate constants, as well as in force-field development,
+where it can provide a catalog of transient molecular structures on which to refine force-fields.
+Although much progress has been made in making force-fields more accurate, reducing their error
+for transient structures along a transition path could yet prove to be a critical development helping
+to make kinetic predictions much more accurate. In what follows we will provide a state-of-the-art
+compilation of the molecular dynamics (MD) methods used to investigate the kinetics and mechanisms
+of ligand-protein dissociation processes. Due to the timescales of such processes being slower
+than what is accessible using straightforward MD simulations, several ingenious schemes are being
+devised at a rapid rate to overcome this obstacle. Here we provide an up-to-date compendium of such
+methods and their achievements/shortcomings in extracting mechanistic insight into ligand-protein
+dissociation. We conclude with a critical and provocative appraisal attempting to answer the title
+of this review. 

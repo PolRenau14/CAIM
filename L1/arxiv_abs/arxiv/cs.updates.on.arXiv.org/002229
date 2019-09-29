@@ -1,0 +1,16 @@
+We present theoretical analysis and a suite of tests and procedures for addressing a broad class
+of redundant and misleading association rules we call \emph{specious rules}. Specious dependencies,
+also known as \emph{spurious}, \emph{apparent}, or \emph{illusory associations}, refer to a
+well-known phenomenon where marginal dependencies are merely products of interactions with other
+variables and disappear when conditioned on those variables. The most extreme example is Yule-Simpson's
+paradox where two variables present positive dependence in the marginal contingency table but
+negative in all partial tables defined by different levels of a confounding factor. It is accepted
+wisdom that in data of any nontrivial dimensionality it is infeasible to control for all of the exponentially
+many possible confounds of this nature. In this paper, we consider the problem of specious dependencies
+in the context of statistical association rule mining. We define specious rules and show they offer
+a unifying framework which covers many types of previously proposed redundant or misleading association
+rules. After theoretical analysis, we introduce practical algorithms for detecting and pruning
+out specious association rules efficiently under many key goodness measures, including mutual
+information and exact hypergeometric probabilities. We demonstrate that the procedure greatly
+reduces the number of associations discovered, providing an elegant and effective solution to
+the problem of association mining discovering large numbers of misleading and redundant rules.

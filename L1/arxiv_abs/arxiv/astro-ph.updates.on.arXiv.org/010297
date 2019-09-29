@@ -1,0 +1,16 @@
+The California-Kepler Survey (CKS) catalog contains precise stellar and planetary properties
+for the \Kepler\ planet candidates, including systems with multiple detected transiting planets
+("multis") and systems with just one detected transiting planet ("singles," although additional
+planets could exist). We compared the stellar and planetary properties of the multis and singles
+in a homogenous subset of the full CKS-Gaia catalog. We found that sub-Neptune sized singles and
+multis do not differ in their stellar properties or planet radii. In particular: (1.) The distributions
+of stellar properties $M_\star$, [Fe/H], and $v\mathrm{sin}i$ for the Kepler sub Neptune-sized
+singles and multis are statistically indistinguishable. (2.) The radius distributions of the
+sub-Neptune sized singles and multis with $P > 3$ days are indistinguishable, and both have a valley
+at $\sim1.8~R_\oplus$. However, there are significantly more detected short-period ($P < 3$ days),
+sub-Neptune sized singles than multis. The similarity of the host star properties, planet radii,
+and radius valley for singles and multis suggests a common origin. The similar radius valley, which
+is likely sculpted by photo-evaporation from the host star within the first 100 Myr, suggests that
+planets in both singles and multis spend much of the first 100 Myr near their present, close-in locations.
+One explanation that is consistent with the similar fundamental properties of singles and multis
+is that many of the singles are members of multi-planet systems that underwent planet-planet scattering.

@@ -1,0 +1,16 @@
+Chemical abundances and abundance ratios measured in galaxies provide precious information about
+the mechanisms, modes and time scales of the assembly of cosmic structures. Yet, the nucleogenesis
+and chemical evolution of elements heavier than helium are dictated mostly by the physics of the
+stars and the shape of the stellar mass spectrum. In particular, estimates of CNO isotopic abundances
+in the hot, dusty media of high-redshift starburst galaxies offer a unique glimpse into the shape
+of the stellar initial mass function (IMF) in extreme environments that can not be accessed with
+direct observations (star counts). Underlying uncertainties in stellar evolution and nucleosynthesis
+theory, however, may hurt our chances of getting a firm grasp of the IMF in these galaxies. In this
+work, we adopt new yields for massive stars, covering different initial rotational velocities.
+First, we implement the new yield set in a well-tested chemical evolution model for the Milky Way.
+The calibrated model is then adapted to the specific case of a prototype submillimeter galaxy (SMG).
+We show that, if the formation of fast-rotating stars is favoured in the turbulent medium of violently
+star-forming galaxies irrespective of metallicity, the IMF needs to be skewed towards high-mass
+stars in order to explain the CNO isotope ratios observed in SMGs. If, instead, stellar rotation
+becomes negligible beyond a given metallicity threshold, as is the case for our own Galaxy, there
+is no need to invoke a top-heavy IMF in starbursts. 

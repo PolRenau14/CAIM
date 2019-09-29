@@ -1,0 +1,17 @@
+Superluminous supernovae have been proposed to arise from Population III progenitors that explode
+as pair-instability supernovae. Pop III stars are the first generation of stars in the Universe,
+and are thought to form as late as $z \sim 6$. Future near-infrared imaging facilities such as ULTIMATE-Subaru
+can potentially detect and identify these PISNe with a dedicated survey. Gravitational lensing
+by intervening structure in the Universe can aid in the detection of these rare objects by magnifying
+the high-$z$ source population into detectability. We perform a mock survey with ULTIMATE-Subaru,
+taking into account lensing by line-of-sight structure to evaluate its impact on the predicted
+detection rate. We compare a LOS mass reconstruction using observational data from the Hyper Suprime
+Cam survey to results from cosmological simulations to test their consistency in calculating the
+magnification distribution in the Universe to high-$z$, but find that the data-based method is
+still limited by an inability to accurately characterize structure beyond $z \sim1.2$. We also
+evaluate a survey strategy of targeting massive galaxy clusters to take advantage of their large
+areas of high magnification. We find that targeting clusters can result in a gain of a factor of $\sim$two
+in the predicted number of detected PISNe at $z > 5$, and even higher gains with increasing redshift,
+given our assumed survey parameters. For the highest-redshift sources at $z \sim 7-9$, blank field
+surveys will not detect any sources, and lensing magnification by massive clusters will be necessary
+to observe this population. 

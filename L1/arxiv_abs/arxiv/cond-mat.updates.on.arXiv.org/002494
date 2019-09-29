@@ -1,0 +1,17 @@
+Hereby, we present finite-difference time-domain (FDTD) simulation results on engineering of
+technologically undemanding photonic structures offering a significant and spectrally-broad
+improvement in extraction efficiency of emission at the third telecommunication window. The modelling
+of the extraction efficiency has been performed for cylindrical and rectangular mesa structures
+containing an exciton confined in a single quantum dot emitting at 1550 nm. We used FDTD method to
+characterize the emission pattern from such mesas made of InP or interchangeable AlGaInAs for two
+cases: monolithic InP substrate and InP/AlGaInAs distributed Bragg reflector (DBR) underneath
+the mesa. The calculations have been performed in function of the system geometrical parameters,
+i.e. mesa shape and dimensions, and the emitter position. Our results show that extraction efficiencies
+of 25 % are achievable for numerical aperture of 0.4 of a common optical detection system. We also
+observed that the extraction efficiency is rather weakly sensitive to the in-plane dipole alignment
+and exhibits significantly higher susceptibility to even slight changes in its vertical position
+or in mesa geometry. We also comment on the influence of the Purcell effect on the total emission power
+leading to its enhancement for structures with high extraction efficiency. Finally, we have calculated
+the extraction efficiency dependence versus the numerical aperture of the first detection lens
+to verify the practical limits, which appeared to be about 47 % for NA of 0.9 and for the considered
+structures with DBR. 

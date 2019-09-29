@@ -1,0 +1,16 @@
+The propagation of both electrons and photons becomes chiral when their momentum and spin are correlated
+in forms such as spin-momentum locking. For the surface electrons in three-dimensional topological
+insulators (TIs), their spin is locked to the transport direction. For photons in optical fibers
+and photonic waveguides, they carry transverse spin angular momentum (SAM) which is also locked
+to the propagation direction. A direct connection between chiral electrons and chiral photons
+occurs in TIs with lifted spin degeneracy, which leads to spin-dependent selection rules of optical
+transition and results in phenomena such as circular photogalvanic effect (CPGE). Here, we demonstrate
+an optoelectronic device that integrates a TI with a chiral photonic waveguide. Interaction between
+the photons in the transverse-magnetic (TM) mode of the waveguide, which carries transverse SAM,
+and the surface electrons in a Bi2Se3 layer generates a directional, spin-polarized photocurrent.
+Because of optical spin-momentum locking, the device works in a non-reciprocal way such that changing
+the light propagation direction reverses the photon spin and thus the direction of the photocurrent
+in the TI. This novel device provides a chiral interface that directly converts the photon propagation
+path to the direction and spin polarization of the photo-excited current in the TI. It represents
+a new way of implementing coupled spin-orbit interaction between electrons and photons and may
+lead to significant applications in opto-spintronics and quantum information processing. 

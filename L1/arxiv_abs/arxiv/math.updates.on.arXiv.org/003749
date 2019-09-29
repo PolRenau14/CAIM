@@ -1,0 +1,17 @@
+An (improper) graph colouring has "defect" $d$ if each monochromatic subgraph has maximum degree
+at most $d$, and has "clustering" $c$ if each monochromatic component has at most $c$ vertices. This
+paper studies defective and clustered list-colourings for graphs with given maximum average degree.
+We prove that every graph with maximum average degree less than $\frac{2d+2}{d+2} k$ is $k$-choosable
+with defect $d$. This improves upon a similar result by Havet and Sereni [J. Graph Theory, 2006].
+For clustered choosability of graphs with maximum average degree $m$, no $(1-\epsilon)m$ bound
+on the number of colours was previously known. The above result with $d=1$ solves this problem. It
+implies that every graph with maximum average degree $m$ is $\lfloor{\frac{3}{4}m+1}\rfloor$-choosable
+with clustering 2. This extends a result of Kopreski and Yu [Discrete Math., 2017] to the setting
+of choosability. We then prove two results about clustered choosability that explore the trade-off
+between the number of colours and the clustering. In particular, we prove that every graph with maximum
+average degree $m$ is $\lfloor{\frac{7}{10}m+1}\rfloor$-choosable with clustering $9$, and
+is $\lfloor{\frac{2}{3}m+1}\rfloor$-choosable with clustering $O(m)$. As an example, the later
+result implies that every biplanar graph is 8-choosable with bounded clustering. This is the first
+non-trivial result for the clustered version of the earth-moon problem. The results extend to the
+setting where we only consider the maximum average degree of subgraphs with at least some number
+of vertices. Several applications are presented. 

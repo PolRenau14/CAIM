@@ -1,0 +1,16 @@
+In this paper, we analyze the inverse dynamics and control of a bacteria-inspired uniflagellar
+robot in a fluid medium at low Reynolds number. Inspired by the mechanism behind the locomotion of
+flagellated bacteria, we consider a robot comprised of a flagellum -- a flexible helical filament
+-- attached to a spherical head. The flagellum rotates about the head at a controlled angular velocity
+and generates a propulsive force that moves the robot forward. When the angular velocity exceeds
+a threshold value, the hydrodynamic force exerted by the fluid can cause the soft flagellum to buckle,
+characterized by a dramatic change in shape. In this computational study, a fluid-structure interaction
+model that combines Discrete Elastic Rods (DER) algorithm with Lighthill's Slender Body Theory
+(LSBT) is employed to simulate the locomotion and deformation of the robot. We demonstrate that
+the robot can follow a prescribed path in three dimensional space by exploiting buckling of the flagellum.
+The control scheme involves only a single (binary) scalar input -- the angular velocity of the flagellum.
+By triggering the buckling instability at the right moment, the robot can follow an arbitrary path
+in three dimensional space. We also show that the complexity of the dynamics of the helical filament
+can be captured using a deep neural network, from which we identify the input-output functional
+relationship between the control inputs and the trajectory of the robot. Furthermore, our study
+underscores the potential role of buckling in the locomotion of natural bacteria. 

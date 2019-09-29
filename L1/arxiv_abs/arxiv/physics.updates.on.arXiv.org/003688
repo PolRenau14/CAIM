@@ -1,0 +1,17 @@
+One of the key requirements for neutron scattering instruments is the Signal-to-Background ratio
+(SBR). This is as well a design driving requirement for many instruments at the European Spallation
+Source (ESS), which aspires to be the brightest neutron source of the world. The SBR can be effectively
+improved with background reduction. The Multi-Grid, a large-area thermal neutron detector with
+a solid boron carbide converter, is a novel solution for chopper spectrometers. This detector will
+be installed for the three prospective chopper spectrometers at the ESS. As the Multi-Grid detector
+is a large area detector with a complex structure, its intrinsic background and its suppression
+via advanced shielding design should be investigated in its complexity, as it cannot be naively
+calculated. The intrinsic scattered neutron background and its effect on the SBR is determined
+via a detailed Monte Carlo simulation for the Multi-Grid detector module, designed for the CSPEC
+instrument at the ESS. The impact of the detector vessel and the neutron entrance window on scattering
+is determined, revealing the importance of an optimised internal detector shielding. The background-reducing
+capacity of common shielding geometries, like side-shielding and end-shielding is determined
+by using perfect absorber as shielding material, and common shielding materials, like B$_{4}$C
+and Cd are also tested. On the basis of the comparison of the effectiveness of the different shielding
+topologies and materials, recommendations are given for a combined shielding of the Multi-Grid
+detector module, optimised for increased SBR. 

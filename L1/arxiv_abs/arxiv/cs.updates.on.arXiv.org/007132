@@ -1,0 +1,17 @@
+The prediction of high-resolution hourly traffic volumes of a given roadway is essential for future
+planning in a transportation system. Traditionally, Automatic Traffic Recorders (ATR) are used
+to collect this hourly volume data, which is often used to predict future traffic volumes accurately.
+However, these large data sets generated from these various ATRs are time series data characterized
+by long-term temporal dependencies and missing data sets. Regarding the temporal dependencies,
+all roadways are characterized by seasonal variations that can be weekly, monthly or yearly, depending
+on the cause of the variation. Regarding the missing data in a time-series sequence, traditional
+time series forecasting models perform poorly under their influence. Therefore, a robust, Recurrent
+Neural Network (RNN) based, multi-step ahead time-series forecasting model is developed in this
+study. The simple RNN, the Gated Recurrent Unit (GRU) and the Long Short-Term Memory (LSTM) units
+are used to develop the model and evaluate its performance. Two novel approaches are used to address
+the missing value issue: masking and imputation, in conjunction with the RNN unit. Six different
+imputation algorithms are then used to identify the best model. Our analyses indicate that the LSTM
+model performs better than simple RNN and GRU models, and imputation performs better than masking.
+The performance of imputation methods is also dependent on the percentage of missing data in the
+input dataset. Overall, the LSTM-Median model is deemed the best model in all scenarios for AADT
+prediction, with an average accuracy of 98.5%. 

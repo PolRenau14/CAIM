@@ -1,0 +1,17 @@
+The dark matter halo of the Milky Way is expected to be triaxial and filled with substructure. It is
+hoped that streams or shells of stars produced by tidal disruption of stellar systems will provide
+precise measures of the gravitational potential to test these predictions. We develop a method
+for inferring the Galactic potential with tidal streams based on the idea that the stream stars were
+once close in phase space. Our method can flexibly adapt to any form for the Galactic potential: it
+works in phase-space rather than action-space and hence relies neither on our ability to derive
+actions nor on the integrability of the potential. Our model is probabilistic, with a likelihood
+function and priors on the parameters. The method can properly account for finite observational
+uncertainties and missing data dimensions. We test our method on synthetic datasets generated
+from N-body simulations of satellite disruption in a static, multi-component Milky Way including
+a triaxial dark matter halo with observational uncertainties chosen to mimic current and near-future
+surveys of various stars. We find that with just four well-measured stream stars, we can infer properties
+of a triaxial potential with precisions of order 5-7 percent. Without proper motions we obtain 15
+percent constraints on potential parameters and precisions around 25 percent for recovering missing
+phase-space coordinates. These results are encouraging for the eventual goal of using flexible,
+time-dependent potential models combined with larger data sets to unravel the detailed shape of
+the dark matter distribution around the Milky Way. 

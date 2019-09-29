@@ -1,0 +1,17 @@
+Experiments on single crystal Li$_X$FePO$_4$ (LFP) nanoparticles indicate rich nonequilibrium
+phase behavior, such as suppression of phase separation at high lithiation rates, striped patterns
+of coherent phase boundaries, nucleation by binarysolid surface wetting and intercalation waves.
+These observations have been successfully predicted (prior to the experiments) by 1D depth-averaged
+phase-field models, which neglect any subsurface phase separation. In this paper, using an electro-chemo-mechanical
+phase-field model, we investigate the coherent non-equilibrium subsurface phase morphologies
+that develop in the $ab$- plane of platelet-like single-crystal platelet-like Li$_X$FePO$_4$
+nanoparticles. Finite element simulations are performed for 2D plane-stress conditions in the
+$ab$- plane, and validated by 3D simulations, showing similar results. We show that the anisotropy
+of the interfacial tension tensor, coupled with electroautocatalytic surface intercalation
+reactions, plays a crucial role in determining the subsurface phase morphology. With isotropic
+interfacial tension, subsurface phase separation is observed, independent of the reaction kinetics,
+but for strong anisotropy, phase separation is controlled by surface reactions, as assumed in 1D
+models. Moreover, the driven intercalation reaction suppresses phase separation during lithiation,
+while enhancing it during delithiation, by electro-autocatalysis, in quantitative agreement
+with {\it in operando} imaging experiments in single-crystalline nanoparticles, given measured
+reaction rate constants. 

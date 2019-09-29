@@ -1,0 +1,16 @@
+High cadence transient surveys are able to capture supernovae closer to their first light than before.
+Applying analytical models to such early emission, we can constrain the progenitor stars properties.
+In this paper, we present observations of SN2018fif (ZTF18abokyfk). The supernova was discovered
+close to first light and monitored by the Zwicky Transient Facility (ZTF) and the Neil Gehrels Swift
+Observatory. Early spectroscopic observations suggest that the progenitor of SN2018fif was surrounded
+by relatively small amounts of circumstellar material (CSM) compared to all previous cases. This
+particularity, coupled with the high cadence multiple-band coverage, makes it a good candidate
+to investigate using shock-cooling models. We employ the SOPRANOS code, an implementation of the
+model by Sapir & Waxman (2017). Compared with previous implementations, SOPRANOS has the advantage
+of including a careful account of the limited temporal validity domain of the shock-cooling model.
+We find that the progenitor of SN2018fif was a large red supergiant, with a radius of R=1174_{-81}^{+208}
+solar radii, and an ejected mass of M=5.6_{-1.0}^{+9.1} solar masses. Our model also gives information
+on the explosion epoch, the progenitor inner structure, the shock velocity and the extinction.
+The large radius differs from previously modeled objects, and the difference could be either intrinsic
+or due to the relatively small amount of CSM around SN2018fif, perhaps making it a "cleaner" candidate
+for applying shock-cooling analytical models. 

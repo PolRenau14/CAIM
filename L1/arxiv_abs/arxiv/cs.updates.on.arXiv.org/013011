@@ -1,0 +1,16 @@
+Recommender systems are used with the purpose of suggesting contents and resources to the users
+in a social network. These systems use ranks or tags each user assign to different resources to predict
+or make suggestions to users. Lately, social tagging systems, in which users can insert new contents,
+tag, organize, share, and search for contents are becoming more popular. These systems have a lot
+of valuable information, but data growth is one of its biggest challenges and this has led to the need
+for recommender systems that will predict what each user may like or need. One approach to the design
+of these systems which uses social environment of users is known as collaborative filtering (CF).
+One of the problems in CF systems is trustworthy of users and their tags. In this work, we consider
+a trust metric (which is concluded from users tagging behavior) beside the similarities to give
+suggestions and examine its effect on results. On the other hand, a decentralized approach is introduced
+which calculates similarity and trust relationships between users in a distributed manner. This
+causes the capability of implementing the proposed approach among all types of users with respect
+to different types of items, which are accessed by unique id across heterogeneous networks and environments.
+Finally, we show that the proposed model for calculating similarities between users reduces the
+size of the user-item matrix and considering trust in collaborative systems can lead to a better
+performance in generating suggestions. 

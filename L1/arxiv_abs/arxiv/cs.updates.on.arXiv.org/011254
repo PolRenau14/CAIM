@@ -1,0 +1,17 @@
+In the fast-growing smart devices, Android is the most popular OS, and due to its attractive features,
+mobility, ease of use, these devices hold sensitive information such as personal data, browsing
+history, shopping history, financial details, etc. Therefore, any security gap in these devices
+means that the information stored or accessing the smart devices are at high risk of being breached
+by the malware. These malware are continuously growing and are also used for military espionage,
+disrupting the industry, power grids, etc. To detect these malware, traditional signature matching
+techniques are widely used. However, such strategies are not capable to detect the advanced Android
+malicious apps because malware developer uses several obfuscation techniques. Hence, researchers
+are continuously addressing the security issues in the Android based smart devices. Therefore,
+in this paper using Drebin benchmark malware dataset we experimentally demonstrate how to improve
+the detection accuracy by analyzing the apps after grouping the collected data based on the permissions
+and achieved 97.15% overall average accuracy. Our results outperform the accuracy obtained without
+grouping data (79.27%, 2017), Arp, et al. (94%, 2014), Annamalai et al. (84.29%, 2016), Bahman Rashidi
+et al. (82%, 2017)) and Ali Feizollah, et al. (95.5%, 2017). The analysis also shows that among the
+groups, Microphone group detection accuracy is least while Calendar group apps are detected with
+the highest accuracy, and with the highest accuracy, and for the best performance, one shall take
+80-100 features. 

@@ -1,0 +1,16 @@
+In this paper, we demonstrate a simple scheme of 6.835 GHz microwave frequency synthesizer based
+on the sub-sampling phase lock loop (PLL) technique. The application of the sub-sampling PLL is
+the key to simplify the architecture of the synthesizer in this scheme. A 100 MHz oven controlled
+crystal oscillator (OCXO) with ultra-low phase noise is used as the initial signal source. Then
+a dielectric resonant oscillator (DRO) of 6.8 GHz is directly phase locked to the 100 MHz OCXO utilizing
+the sub-sampling PLL. Benefiting from the sub-sampling PLL, the processes of microwave frequency
+multiplication and phase lock which are necessary in the development of microwave synthesizer
+are greatly simplified. Therefore, the architecture of the synthesizer is very simple. Correspondingly,
+the power consumption and cost of the synthesizer are low. The absolute phase noises of the 6.835
+GHz output signal are measured to be -47 dBc/Hz, -77 dBc/Hz, -104 dBc/Hz and -121 dBc/Hz at 1 Hz, 10
+Hz, 100 Hz and 1 kHz offset frequencies, respectively. he synthesizer can be used as the local oscillator
+of the Rb atomic clocks. For the Rb atomic clocks operated in the continuous or pulsed optically pumped
+(POP) mode, Tthe short-term frequency stability limited by the absolute phase noises of the synthesizer
+through the intermodulation or the Dick effect is theoretically calculated to be better than 5.0E10^-14/t^1/2.
+This low phase noise microwave frequency synthesizer can be used in other experiments of fundamental
+physics measurement. 

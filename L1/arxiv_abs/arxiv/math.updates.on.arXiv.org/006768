@@ -1,0 +1,16 @@
+We introduce a quasi-convex relaxation of the $\mathsf{CD}(K,N)$ condition we call the Quasi Curvature-Dimension
+condition $\mathsf{QCD}(Q,K,N)$. Our motivation stems from a recent interpolation inequality
+along Wasserstein geodesics in the ideal sub-Riemannian setting due to Barilari and Rizzi. We show
+that on an ideal sub-Riemannian manifold of dimension $n$, the Measure Contraction Property $\mathsf{MCP}(K,N)$
+implies $\mathsf{QCD}(Q,K,N)$ with $Q = 2^{N-n} \geq 1$, yielding numerous interesting spaces
+with the latter property, including ideal generalized H-type Carnot groups and in particular the
+Heisenberg groups. By extending the localization paradigm to completely general interpolation
+inequalities, we reduce the study of various analytic and geometric inequalities on $\mathsf{QCD}$
+spaces to the one-dimensional case. Consequently, we deduce that while ideal (genuinely) sub-Riemannian
+manifolds typically do not satisfy any type of $\mathsf{CD}$ condition, they satisfy numerous
+functional inequalities with exactly the same quantitative dependence (up to a factor of $Q$) as
+their $\mathsf{CD}$ counterparts. We thus obtain the best known quantitative estimates for (say)
+the $L^p$-Poincar\'e and log-Sobolev inequalities on the sub-Riemannian manifolds mentioned
+above. Moreover, this constitutes the first time that a quantitative estimate independent of the
+dimension $n$ is established on these spaces. For instance, the Li-Yau / Zhong-Yang spectral-gap
+estimate holds on all Heisenberg groups of arbitrary dimension up to a factor of $4$. 

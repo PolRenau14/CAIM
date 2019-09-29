@@ -1,0 +1,16 @@
+The photoelectron spectroscopy beamline at National Synchrotron Radiation Laboratory (NSRL)
+is equipped with a spherical grating monochromator with the included angle of 174 deg. Three gratings
+with line density of 200, 700 and 1200 lines/mm are used to cover the energy region from 60 eV to 1000
+eV. After several years operation, the spectral resolution and flux throughput were deteriorated,
+realignment is necessary to improve the performance. First, the wavelength scanning mechanism,
+the optical components position and the exit slit guide direction are aligned according to the design
+value. Second, the gratings are checked by Atomic Force Microscopy (AFM). And then the gas absorption
+spectrum is measured to optimize the focusing condition of the monochromator. The spectral resolving
+power is recovered to the designed value of 1000@244eV. The flux at the end station for the 200 lines/mm
+grating is about 10^10 photons/sec/200mA, which is in accordance with the design. The photon flux
+for the 700 lines/mm grating is about 5 X 10^8 photons/sec/200mA, which is lower than expected. This
+poor flux throughput may be caused by carbon contamination on the optical components. The 1200 lines/mm
+grating has roughness much higher than expected so the diffraction efficiency is too low to detect
+any signal. A new grating would be ordered. After the alignment, the beamline has significant performance
+improvements in both the resolving power and the flux throughput for 200 and 700 lines/mm gratings
+and is provided to users. 

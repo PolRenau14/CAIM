@@ -1,0 +1,17 @@
+A discrete unified gas kinetic scheme (DUGKS) coupled with the immersed boundary (IB) method is
+developed to perform interface-resolved simulation of particle-laden flows. The present method
+(IB-DUGKS) preserves the respective advantages of the IB and DUGKS, i.e., the flexibility and efficiency
+for treating complex flows, and the robustness and low numerical-dissipation. In IB-DUGKS, the
+IB method is used to treat the fluid-solid interfaces and the DUGKS is applied to simulate the fluid
+flow, making use of the Lagrangian and Eulerian meshes, respectively. Those two meshes are fully
+independent, which contributes to the avoidance of grid regeneration when a solid particle moves.
+Specifically, in the present implementation of IB-DUGKS, the no-slip boundary condition at the
+particle surface is accurately enforced by introducing an efficient iterative forcing algorithm,
+and the IB force induced by the particle boundary is conveniently incorporated into the DUGKS with
+the Strange-Splitting scheme. The accuracy of the IB-DUGKS is first verified in the flows past a
+stationary cylinder and an oscillating cylinder in a quiescent fluid. After that, several well-established
+two- and three-dimensional particulate flow problems are simulated, including the sedimentation
+of a particle and the DKT dynamics of two particles in a channel, and a group of particles settling
+in an enclosure. In all test cases, the results are in good agreement with the data available in the
+literature, demonstrating that the proposed IB-DUGKS is a promising tool for simulating particulate
+flows. 

@@ -1,0 +1,16 @@
+Advances in techniques for monitoring pH in complex fluids could have significant impact on analytical
+and biomedical applications ranging from water quality assessment to in vivo diagnostics. We developed
+flexible graphene microelectrodes (GEs) for rapid (< 5 seconds), very low power (femtowatt) detection
+of the pH of complex biofluids. The method is based on real-time measurement of Faradaic charge transfer
+between the GE and a solution at zero electrical bias. For an idealized sample of phosphate buffer
+solution (PBS), the Faradaic current varied monotonically and systematically with the pH with
+resolution of ~0.2 pH unit. The current-pH dependence was well described by a hybrid analytical-computational
+model where the electric double layer derives from an intrinsic, pH-independent (positive) charge
+associated with the graphene-water interface and ionizable (negative) charged groups described
+by the Langmuir-Freundlich adsorption isotherm. We also tested the GEs in more complex bio-solutions.
+In the case of a ferritin solution, the relative Faradaic current, defined as the difference between
+the measured current response and a baseline response due to PBS, showed a strong signal associated
+with the disassembly of the ferritin and the release of ferric ions at pH ~ 2.0. For samples of human
+serum, the Faradaic current showed a reproducible rapid (<20s) response to pH. By combining the
+Faradaic current and real time current variation, the methodology is potentially suitable for
+use to detect tumor-induced changes in extracellular pH. 

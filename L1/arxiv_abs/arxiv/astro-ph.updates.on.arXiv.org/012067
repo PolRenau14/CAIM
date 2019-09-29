@@ -1,0 +1,16 @@
+We study the relationship between dense gas and star formation in the Antennae galaxies by comparing
+ALMA observations of dense gas tracers (HCN, HCO$^+$, and HNC $\mathrm{J}=1-0$) to the total infrared
+luminosity ($\mathrm{L_{TIR}}$) calculated using data from the \textit{Herschel} Space Observatory
+and the \textit{Spitzer} Space Telescope. We compare the luminosities of our SFR and gas tracers
+using aperture photometry and employing two methods for defining apertures. We taper the ALMA dataset
+to match the resolution of our $\mathrm{L_{TIR}}$ maps and present new detections of dense gas emission
+from complexes in the overlap and western arm regions. Using OVRO CO $\mathrm{J}=1-0$ data, we compare
+with the total molecular gas content, $\mathrm{M(H_2)_{tot}}$, and calculate star formation
+efficiencies and dense gas mass fractions for these different regions. We derive HCN, HCO$^+$ and
+HNC upper limits for apertures where emission was not significantly detected, as we expect emission
+from dense gas should be present in most star-forming regions. The Antennae extends the linear $\mathrm{L_{TIR}-L_{HCN}}$
+relationship found in previous studies. The $\mathrm{L_{TIR}-L_{HCN}}$ ratio varies by up to
+a factor of $\sim$10 across different regions of the Antennae implying variations in the star formation
+efficiency of dense gas, with the nuclei, NGC 4038 and NGC 4039, showing the lowest SFE$_\mathrm{dense}$
+(0.44 and 0.70 $\times10^{-8}$ yr$^{-1}$). The nuclei also exhibit the highest dense gas fractions
+($\sim 9.1\%$ and $\sim7.9\%$). 

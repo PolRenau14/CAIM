@@ -1,0 +1,16 @@
+The calculation of a segment of eigenvalues and their corresponding eigenvectors of a Hermitian
+matrix or matrix pencil has many applications. A new density-matrix-based algorithm has been proposed
+recently and a software package FEAST has been developed. The density-matrix approach allows FEAST's
+implementation to exploit a key strength of modern computer architectures, namely, multiple levels
+of parallelism. Consequently, the software package has been well received, especially in the electronic
+structure community. Nevertheless, theoretical analysis of FEAST has been lagging. For instance,
+the FEAST algorithm has not been proven to converge. This paper offers a detailed numerical analysis
+of FEAST. In particular, we show that the FEAST algorithm can be understood as the standard subspace
+iteration algorithm in conjunction with the Rayleigh-Ritz procedure. The novelty of FEAST is that
+it does not iterate directly with the original matrices, but instead iterates with an approximation
+to the spectral projector onto the eigenspace in question. Analysis of the numerical nature of this
+approximate spectral projector and the resulting subspaces generated in the FEAST algorithm establishes
+the algorithm's convergence. This paper shows that FEAST is resilient against rounding errors
+and establishes properties that can be leveraged to enhance the algorithm's robustness. We also
+outline a possible extension of FEAST to handle non-Hermitian problems. Further investigations
+into numerical quadrature rules suitable for approximating spectral projectors are also worthwhile.

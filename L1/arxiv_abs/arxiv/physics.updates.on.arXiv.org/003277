@@ -1,0 +1,16 @@
+Pulse-tube based dilution refrigerators are massively employed in low temperature physics. They
+allow to reduce the running costs and to be operated with unprecedented easiness. However, the main
+drawback of this technology is the mechanical vibrations induced by the pulse-tube cryocooler.
+These perturbations can cause extra-noises drastically affecting the detector performance.
+In this paper, we propose a solution to mitigate the impact of these vibrations by mounting the detectors
+in an elastic-pendulum based suspended tower. Based on vibration modeling and experimental tests,
+we show that the vibration levels are attenuated by up to two orders of magnitude at most frequencies,
+especially above $\sim20$ Hz, for both vertical and radial directions. Thanks to this passive isolation
+solution, vibration levels, both along vertical and radial directions, below 1 $\mu\textrm{g/}\sqrt{\text{Hz}}$
+in the frequency range [1-1000] Hz are obtained. This provides a convenient environment to test
+the ultimate performance of low temperature detectors. As a result, we report an improvement by
+one to two orders of magnitude on the noise levels of massive cryogenic bolometers, leading to thermal
+energy resolutions improved by a factor 5 to 40. Finally, we conclude that the energy resolution
+of our cryogenic bolometers are no longer limited from any residual vibrations, hence allowing
+the perspective of further improving our bolometer performance in the context of low-mass dark
+matter searches and neutrino physics applications. 

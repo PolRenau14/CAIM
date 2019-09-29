@@ -1,0 +1,16 @@
+In this paper, we prove superpolynomial lower bounds for the class of homogeneous depth 4 arithmetic
+circuits. We give an explicit polynomial in VNP of degree $n$ in $n^2$ variables such that any homogeneous
+depth 4 arithmetic circuit computing it must have size $n^{\Omega(\log \log n)}$. Our results extend
+the works of Nisan-Wigderson [NW95] (which showed superpolynomial lower bounds for homogeneous
+depth 3 circuits), Gupta-Kamath-Kayal-Saptharishi and Kayal-Saha-Saptharishi [GKKS13, KSS13]
+(which showed superpolynomial lower bounds for homogeneous depth 4 circuits with bounded bottom
+fan-in), Kumar-Saraf [KS13a] (which showed superpolynomial lower bounds for homogeneous depth
+4 circuits with bounded top fan-in) and Raz-Yehudayoff and Fournier-Limaye-Malod-Srinivasan
+[RY08, FLMS13] (which showed superpolynomial lower bounds for multilinear depth 4 circuits).
+Several of these results in fact showed exponential lower bounds. The main ingredient in our proof
+is a new complexity measure of {\it bounded support} shifted partial derivatives. This measure
+allows us to prove exponential lower bounds for homogeneous depth 4 circuits where all the monomials
+computed at the bottom layer have {\it bounded support} (but possibly unbounded degree/fan-in),
+strengthening the results of Gupta et al and Kayal et al [GKKS13, KSS13]. This new lower bound combined
+with a careful "random restriction" procedure (that transforms general depth 4 homogeneous circuits
+to depth 4 circuits with bounded support) gives us our final result. 

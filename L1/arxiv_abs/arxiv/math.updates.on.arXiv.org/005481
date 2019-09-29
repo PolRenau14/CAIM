@@ -1,0 +1,16 @@
+This paper presents a weakly intrusive strategy for computing a low-rank approximation of the solution
+of a system of nonlinear parameter-dependent equations. The proposed strategy relies on a Newton-like
+iterative solver which only requires evaluations of the residual of the parameter-dependent equation
+and of a preconditioner (such as the differential of the residual) for instances of the parameters
+independently. The algorithm provides an approximation of the set of solutions associated with
+a possibly large number of instances of the parameters, with a computational complexity which can
+be orders of magnitude lower than when using the same Newton-like solver for all instances of the
+parameters. The reduction of complexity requires efficient strategies for obtaining low-rank
+approximations of the residual, of the preconditioner, and of the increment at each iteration of
+the algorithm. For the approximation of the residual and the preconditioner, weakly intrusive
+variants of the empirical interpolation method are introduced, which require evaluations of entries
+of the residual and the preconditioner. Then, an approximation of the increment is obtained by using
+a greedy algorithm for low-rank approximation, and a low-rank approximation of the iterate is finally
+obtained by using a truncated singular value decomposition. When the preconditioner is the differential
+of the residual, the proposed algorithm is interpreted as an inexact Newton solver for which a detailed
+convergence analysis is provided. Numerical examples illustrate the efficiency of the method.

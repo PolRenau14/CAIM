@@ -1,0 +1,16 @@
+We present the results of a semicoherent search for continuous gravitational waves from the low-mass
+X-ray binary Scorpius X-1, using data from the first Advanced LIGO observing run. The search method
+uses details of the modelled, parametrized continuous signal to combine coherently data separated
+by less than a specified coherence time, which can be adjusted to trade off sensitivity against computational
+cost. A search was conducted over the frequency range from 25 Hz to 2000 Hz, spanning the current observationally-constrained
+range of the binary orbital parameters. No significant detection candidates were found, and frequency-dependent
+upper limits were set using a combination of sensitivity estimates and simulated signal injections.
+The most stringent upper limit was set at 175 Hz, with comparable limits set across the most sensitive
+frequency range from 100 Hz to 200 Hz. At this frequency, the 95 pct upper limit on signal amplitude
+h0 is 2.3e-25 marginalized over the unknown inclination angle of the neutron star's spin, and 8.03e-26
+assuming the best orientation (which results in circularly polarized gravitational waves). These
+limits are a factor of 3-4 stronger than those set by other analyses of the same data, and a factor of
+about 7 stronger than the best upper limits set using initial LIGO data. In the vicinity of 100 Hz,
+the limits are a factor of between 1.2 and 3.5 above the predictions of the torque balance model, depending
+on inclination angle, if the most likely inclination angle of 44 degrees is assumed, they are within
+a factor of 1.7. 

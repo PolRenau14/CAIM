@@ -1,0 +1,17 @@
+We calculate the sensitivity of next generation neutrino telescopes to the 28 (isoscalar and isovector)
+coupling constants defining the non-relativistic effective theory of (spin 1/2) dark matter (DM)-nucleon
+interactions. We take as a benchmark detector the proposed Precision IceCube Next Generation Upgrade
+(PINGU), although our results are valid for any other neutrino telescope of similar effective volume.
+We express PINGU's sensitivity in terms of $5\sigma$ sensitivity contours in the DM-mass - coupling
+constant plane, and compare our sensitivity contours with the 90% C.L. exclusion limits on the same
+coupling constants that we obtain from a reanalysis of the null result of current DM searches at IceCube/DeepCore.
+We find that PINGU can effectively probe not only the canonical spin-independent and spin-dependent
+DM-nucleon interactions, but also velocity-dependent or momentum-dependent interactions that
+generate coherently enhanced DM-nucleus scattering cross sections. We also find that PINGU's
+$5\sigma$ sensitivity contours are significantly below current IceCube/DeepCore 90% C.L. exclusion
+limits when $b\bar{b}$ is the leading DM annihilation channel. This result shows the importance
+of lowering the experimental energy threshold when probing models that generate soft neutrino
+energy spectra, and holds true independently of the assumed DM-nucleon interaction and for all
+DM masses tested here. When DM primarily annihilates into $\tau\bar{\tau}$, a PINGU-like detector
+will improve upon current exclusion limits for DM masses below $35$ GeV, independently of the assumed
+DM-nucleon interaction. 

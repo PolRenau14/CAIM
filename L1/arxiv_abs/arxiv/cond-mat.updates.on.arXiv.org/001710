@@ -1,0 +1,17 @@
+Global coevolutionary models of homologous protein families, as constructed by direct coupling
+analysis (DCA), have recently gained popularity in particular due to their capacity to accurately
+predict residue-residue contacts from sequence information alone, and thereby to facilitate
+tertiary and quaternary protein structure prediction. More recently, they have also been used
+to predict fitness effects of amino-acid substitutions in proteins, and to predict evolutionary
+conserved protein-protein interactions. These models are based on two currently unjustified
+hypotheses: (a) correlations in the amino-acid usage of different positions are resulting collectively
+from networks of direct couplings; and (b) pairwise couplings are sufficient to capture the amino-acid
+variability. Here we propose a highly precise inference scheme based on Boltzmann-machine learning,
+which allows us to systematically address these hypotheses. We show how correlations are built
+up in a highly collective way by a large number of coupling paths, which are based on the protein's
+three-dimensional structure. We further find that pairwise coevolutionary models capture the
+collective residue variability across homologous proteins even for quantities which are not imposed
+by the inference procedure, like three-residue correlations, the clustered structure of protein
+families in sequence space or the sequence distances between homologs. These findings strongly
+suggest that pairwise coevolutionary models are actually sufficient to accurately capture the
+residue variability in homologous protein families. 

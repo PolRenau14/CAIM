@@ -1,0 +1,17 @@
+Picard-Lefschetz theory is applied to solutions of the Helmholtz equation, formulated in terms
+of sums of integrals of a proper-time, or `einbein', wave function $\Psi(\Lambda) = \exp(i\mathbb
+S(\Lambda))$ along complex contours bounded by essential singularities of $\Psi$. There is a one
+to one map between steepest descent paths connecting essential singularities and real or complex
+eigenrays. Residues of finite $\Lambda$ poles of $\mathbb S(\Lambda)$ are shown to vanish at spatial
+points corresponding to sources, provided that the pole bounds only one steepest descent path.
+If the sum includes two such paths, with one beginning and the other ending at the same pole, points
+of vanishing residue are not sources, but are argued to be the locus on which caustic curves may have
+singularities such as cusp points. The map between $\mathbb S$ and the generating function in the
+Thom--Arnold classification of catastrophes is discussed. Monodromies of the solution set with
+respect to complexified parameters defining the index of refraction, or spatial endpoints of Green's
+functions, are trivially determined from the singularities of $\mathbb S(\Lambda)$. We construct
+a variant of a Laurent series expansion of $\mathbb S$ about a pole at finite $\Lambda$. Expressions
+for the coefficients of each order in this expansion can often be given exactly. Based on the Laurent
+series expansion, we propose a variation of a Pad\'e approximant for $\mathbb S$, with the intent
+of capturing additional poles and the associated cusp caustics which are not visible in the Laurent
+series expansion. 

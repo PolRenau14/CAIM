@@ -1,0 +1,17 @@
+We study fermion-parity-changing quantum phase transitions (QPTs) in platform Josephson junctions.
+These QPTs, associated with zero-energy bound states, are rather widely observed experimentally.
+They emerge from numerical calculations frequently without detailed microscopic insight. Importantly,
+they may incorrectly lend support to claims for the observations of Majorana zero modes. In this
+paper we present a fully self consistent solution of the Bogoliubov-de Gennes equations and show
+how this consistency provides insights into the origin of the QPTs. This is enabled by an analysis
+of the spatially-dependent induced magnetization throughout the junction. The junctions we consider
+can have an arbitrary phase difference and are chosen to mirror conventional, proximitized Josephson
+experiments; they contain two superconducting leads (separated by a thin insulator). The leads
+induce superconductivity in a fourth substrate medium which incorporates both Zeeman and spin-orbit
+coupling as required for a topological phase. We find, quite generally, the wavefunctions of the
+zero-energy bound states are confined to regions with magnetization inhomogeneities and exist
+almost exclusively inside the substrate medium where the magnetization is large. We interpret
+this to suggest that these parity-changing QPTs derive from physics involving spatially extended
+magnetic "impurities". Our results suggest more generally that QPTs in Josephson junctions generally
+do not require the existence of spin-orbit coupling and should not be confused with, nor are they
+indicators of, Majorana physics. 

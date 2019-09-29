@@ -1,0 +1,16 @@
+Using standard 1D-LTE model atmosphere analysis, we provide an in-depth investigation of iron
+abundance as derived from neutral and singly ionization iron lines (Fe {\scriptsize{I, II}}) in
+nearby star clusters. Specifically, we replicate the discrepancy regarding $\Delta$[Fe/H],
+wherein the difference of Fe {\scriptsize{II}} - Fe {\scriptsize{I}} increases for stars of the
+same cluster with decreasing $T_\mathrm{eff}$, reaching an astonishing 1.0 dex at $T_\mathrm{eff}$
+$\thicksim$ 4000 K. Previous studies have investigated this anomaly in the Pleiades and Hyades
+clusters with no concrete solution. In this analysis, we probe two samples: 63 wide binary field
+stars where the primary star is of sun-like temperatures and the secondary is a K-dwarf, ranging
+from 4231 K $\leq$ $T_\mathrm{eff}$ $\leq$ 6453 K, and 33 Hyades stars of temperatures 4268 K $\leq$
+$T_\mathrm{eff}$ $\leq$ 6072 K. Previous studies have found discrepancies on the order of 1.0 dex.
+However, we find that these studies have neglected line-blending effects of certain Fe {\scriptsize{II}}
+lines, namely $\lambda$ = \{4508.29 \AA, 4993.34 \AA, 5197.58 \AA, 5325.55 \AA, 5425.26 \AA, 6456.38
+\AA\}. When these lines are removed from the line-list, we find $\Delta$[Fe/H] decreases to $\thicksim$
+0.6 dex in the field binaries and $\thicksim$ 0.3 dex in the Hyades. The reason for this remaining
+trend is investigated by probing NLTE effects, as well as age and activity considerations using
+Ca {\scriptsize{II}} H+K emission and Li absorption, but these results appear to be small to negligible.

@@ -1,0 +1,16 @@
+The detection of six Fast Radio Bursts (FRBs) has recently been reported. FRBs are short duration
+($\sim$ 1 ms), highly dispersed radio pulses from astronomical sources. The physical interpretation
+for the FRBs remains unclear but is thought to involve highly compact objects at cosmological distance.
+It has been suggested that a fraction of FRBs could be physically associated with gamma-ray bursts
+(GRBs). Recent radio observations of GRBs have reported the detection of two highly dispersed short
+duration radio pulses using a 12 m radio telescope at 1.4 GHz. Motivated by this result, we have performed
+a systematic and sensitive search for FRBs associated with GRBs. We have observed five GRBs at 2.3
+GHz using a 26 m radio telescope located at the Mount Pleasant Radio Observatory, Hobart. The radio
+telescope was automated to rapidly respond to Gamma-ray Coordination Network notifications from
+the Swift satellite and slew to the GRB position within $\sim$ 140 s. The data were searched for pulses
+up to 5000 pc $\rm cm^{-3}$ in dispersion measure and pulse widths ranging from 640 $\rm \mu$s to 25.60
+ms. We did not detect any events $\rm \geq 6 \sigma$. An in-depth statistical analysis of our data
+shows that events detected above $\rm 5 \sigma$ are consistent with thermal noise fluctuations
+only. A joint analysis of our data with previous experiments shows that previously claimed detections
+of FRBs from GRBs are unlikely to be astrophysical. Our results are in line with the lack of consistency
+noted between the recently presented FRB event rates and GRB event rates. 

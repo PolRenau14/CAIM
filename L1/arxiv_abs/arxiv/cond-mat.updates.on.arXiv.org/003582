@@ -1,0 +1,16 @@
+A basic paradigm underlying the Hookean mechanics of amorphous, isotropic solids is that small
+deformations are proportional to the magnitude of external forces. However, slender bodies may
+undergo large deformations even under minute forces, leading to nonlinear responses rooted in
+purely geometric effects. Here we identify stiffening and softening as two prominent motifs of
+such a material-independent, geometrically-nonlinear response of thin sheets, and we show how
+both effects emanate from the nontrivial yet generic features of the stress and displacement fields.
+Our insights are borne out of studying the indentation of a polymer film on a liquid bath, using experiments,
+simulations, and theory. Starting at small displacement, the first nonlinearity occurs when radial
+retraction of the film begins to reduce azimuthal stresses --- this underlies a wrinkling instability
+and causes the effective spring constant of the system to stiffen as radial forces are transmitted
+more effectively through the sheet. The response then softens when the sheet reaches large slopes,
+indicating a second nonlinearity that is accompanied by localization of the vertical profile.
+We thus find that stiffening is due to growing anisotropy of the stress field whereas softening is
+due to changes in the overall shape. These general mechanisms should apply to any sufficiently thin
+sheet, and we discuss similarities with the mechanics of fiber networks, suggesting that our results
+are relevant to a wide range of two- and three-dimensional materials. 

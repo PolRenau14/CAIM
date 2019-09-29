@@ -1,0 +1,16 @@
+The Kochen-Specker theorem rules out models of quantum theory wherein sharp measurements are assigned
+outcomes deterministically and independently of context. This notion of noncontextuality is
+not applicable to experimental measurements because these are never free of noise and thus never
+truly sharp. For unsharp measurements, therefore, one must drop the requirement that an outcome
+is assigned deterministically in the model and merely require that the distribution over outcomes
+that is assigned in the model is context-independent. By demanding context-independence in the
+representation of preparations as well, one obtains a generalized principle of noncontextuality
+that also supports a quantum no-go theorem. Several recent works have shown how to derive inequalities
+on experimental data which, if violated, demonstrate the impossibility of finding a generalized-noncontextual
+model of this data. That is, these inequalities do not presume quantum theory and, in particular,
+they make sense without requiring a notion of "sharpness" of measurements in any operational theory
+describing the experiment. We here describe a technique for deriving such inequalities starting
+from arbitrary proofs of the Kochen-Specker theorem. It extends significantly previous techniques,
+which worked only for logical proofs (based on uncolourable orthogonality graphs), to the case
+of statistical proofs (where the graphs are colourable, but the colourings cannot explain the quantum
+statistics). The derived inequalities are robust to noise. 

@@ -1,0 +1,16 @@
+Maximum likelihood estimation of linear functionals in the inverse problem of deconvolution is
+considered. Given observations of a random sample from a distribution $P_0\equiv P_{F_0}$ indexed
+by a (potentially infinite-dimensional) parameter $F_0$, which is the distribution of the latent
+variable in a standard additive Laplace measurement error model, one wants to estimate a linear
+functional of $F_0$. Asymptotically efficient maximum likelihood estimation (MLE) of integral
+linear functionals of the mixing distribution $F_0$ in a convolution model with the Laplace kernel
+density is investigated. Situations are distinguished in which the functional of interest can
+be consistently estimated at $n^{-1/2}$-rate by the plug-in MLE, which is asymptotically normal
+and efficient, in the sense of achieving the variance lower bound, from those in which no integral
+linear functional can be estimated at parametric rate, which precludes any possibility for asymptotic
+efficiency. The $\sqrt{n}$-convergence of the MLE, valid in the case of a degenerate mixing distribution
+at a single location point, fails in general, as does asymptotic normality. It is shown that there
+exists no regular estimator sequence for integral linear functionals of the mixing distribution
+that, when recentered about the estimand and $\sqrt{n}$-rescaled, is asymptotically efficient,
+\emph{viz}., has Gaussian limit distribution with minimum variance. One can thus only expect estimation
+with some slower rate and, often, with a non-Gaussian limit distribution. 

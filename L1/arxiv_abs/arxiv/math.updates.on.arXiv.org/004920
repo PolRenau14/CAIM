@@ -1,0 +1,17 @@
+We will partially classify spaces of characters of vertex operator algebras $V$ with central charges
+8 and 16, such that the spaces of characters is 3-dimensional and the characters forms a basis of the
+solution space of a third order monic modular linear differential equation with rational indicial
+roots. Assuming a mild arithmetic condition, we show that the space of characters of $V$ coincides
+with the space of characters of lattice vertex operators associated with integral lattices $\sqrt{2}E_8$
+or the affine vertex operator algebra of type $D_{20}^{(1)}$ for $c=8$, and the Barnes--Wall lattice
+$\Lambda_{16}$, the affine vertex operator algebras of type $D_{16}^{(1)}$ with level 1 and type
+$D_{28}^{(1)}$ with level 1 for $c=16$. (The central charge of the affine vertex operator algebra
+of type $D_{28}^{(1)}$ with level 1 is 28, but the space of characters satisfies the differential
+equations for $c=16$.) Supposing a mild condition on characters of $V$, then it uniquely determines
+(up to isomorphism) the spaces of characters of the lattice $\sqrt{2}E_8$ and the Barnes--Wall
+lattice $\Lambda_{16}$, respectively. The reason why vertex operator algebras with central charges
+8 and 16 are intensively studied is that there are solutions which do not depend on extra parameters
+(which represent conformal weights). This fact is well understood using the hypergeometric function
+$3F2$. Hence we cannot apply our standard method to classify vertex operator algebras in which we
+are interested. In appendix we classify $c=4$ vertex operator algebras with the same conditions
+mentioned above. 

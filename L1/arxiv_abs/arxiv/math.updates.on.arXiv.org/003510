@@ -1,0 +1,16 @@
+In our first main result, we show that if G is a finitely generated group then, for certain sequences
+P_n of probability measures on G, if limsup P_n([x_1,...,x_k]=1) > 0 then G is virtually (k-1)-step
+nilpotent. This includes the cases in which P_n is the distribution of the nth step of a symmetric
+random walk, or in which G is amenable and (P_n) is an almost-invariant sequence of probability measures.
+This generalises both an earlier result of the second author treating the case k=2, and a result of
+Shalev for finite groups, and uses techniques from both of those earlier results. We also show, using
+the notion of polynomial mappings of groups developed by Leibman and others, that P_n([x_1,...,x_k]=1)
+actually converges to a limit that does not depend on the sequence of probability measures. As part
+of our argument we generalise a result of Leibman by showing that if f is a polynomial mapping into
+a torsion-free nilpotent group then the set of roots of f is sparse in a certain sense. In our second
+main result we consider the case where G is residually finite, but not necessarily finitely generated,
+and (H_n) is a sequence of finite-index normal subgroups with trivial intersection. Here, writing
+P_n for the uniform probability measure on G/H_n, we again show that if limsup P_n([x_1,...,x_k]=1)
+> 0 then G is virtually (k-1)-step nilpotent, answering a question of Shalev. As part of our proof
+we show that, with respect to the uniform probability measure on a finite group, P_n([x_1,...,x_k]=1)
+is sub-multiplicative with respect to quotients, generalising a result of Gallagher. 

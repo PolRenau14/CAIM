@@ -1,0 +1,16 @@
+Context: Technical debt management is challenging for software engineers due to poor tool support
+and a lack of knowledge on how to prioritize technical debt repayment and prevention activities.
+Furthermore, when there is a large backlog of debt, developers often lack the motivation to address
+it. Objective: In this paper, we describe a design study to investigate how gamification can support
+Technical Debt Management in a large legacy software system of an industrial company. Our study
+leads to a novel tool (named Themis) that combines technical debt support, version control, and
+gamification features. In addition to gamification features, Themis provides suggestions for
+developers on where to focus their effort, and visualizations for managers to track technical debt
+activities. Method: We describe how Themis was refined and validated in an iterative deployment
+with the company, finally conducting a qualitative study to investigate how the features of Themis
+affect technical debt management behavior. We consider the impact on both developers and managers.
+Results: Our results show that it achieves increased developer motivation, and supports managers
+in monitoring and influencing developer behaviors. We show how our findings may be transferable
+to other contexts by proposing guidelines on how to apply gamification. Conclusions: With this
+case, gamification appears as a promising solution to help technical debt management, although
+it needs to be carefully designed and implemented to avoid its possible negative effects. 

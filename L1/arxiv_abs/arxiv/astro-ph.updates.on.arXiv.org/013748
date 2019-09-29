@@ -1,0 +1,16 @@
+In this work, we characterise the contributions from both ongoing star formation and the ambient
+radiation field in Local Group galaxy M33, as well as estimate the scale of the local dust-energy
+balance (i.e. the scale at which the dust is re-emitting starlight generated in that same region)
+in this galaxy through high-resolution radiative transfer (RT) modelling, with defined stellar
+and dust geometries. We have characterised the spectral energy distribution (SED) of M33 from UV
+to sub-mm wavelengths, at a spatial scale of 100 pc. We constructed input maps of the various stellar
+and dust geometries for use in the RT modelling. By modifying our dust mix (fewer very small carbon
+grains and a lower silicate-to-carbon ratio as compared to the Milky Way), we can much better fit
+the sub-mm dust continuum. Using this new dust composition, we find that we are able to well reproduce
+the observed SED of M33 using our adopted model. In terms of stellar attenuation by dust, we find a
+reasonably strong, broad UV bump, as well as significant systematic differences in the amount of
+dust attenuation when compared to standard SED modelling. We also find discrepancies in the residuals
+of the spiral arms versus the diffuse interstellar medium (ISM), indicating a difference in properties
+between these two regimes. The dust emission is dominated by heating due to the young stellar populations
+at all wavelengths ($\sim$80% at 10 $\mu$m to $\sim$50% at 1 mm). We find that the local dust-energy
+balance is restored at spatial scales greater than around 1.5 kpc. 

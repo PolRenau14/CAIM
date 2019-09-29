@@ -1,0 +1,17 @@
+We consider the problem of covert communication over wireless adhoc networks in which (roughly)
+$n$ legitimate nodes (LNs) and $n^{\kappa}$ for $0<\kappa<1$ non-communicating warden nodes
+(WNs) are randomly distributed in a square of unit area. Each legitimate source wants to communicate
+with its intended destination node while ensuring that every WN is unable to detect the presence
+of the communication. In this scenario, we study the throughput scaling law. Due the covert communication
+constraint, the transmit powers are necessarily limited. Under this condition, we introduce a
+preservation region around each WN. This region serves to prevent transmission from the LNs and
+to increase the transmit power of the LNs outside the preservation regions. For the achievability
+results, multi-hop (MH), hierarchical cooperation (HC), and hybrid HC-MH schemes are utilized
+with some appropriate modifications. In the proposed MH and hybrid schemes, because the preservation
+regions may impede communication along direct data paths, the data paths are suitably modified
+by taking a detour around each preservation region. To avoid the concentration of detours resulting
+extra relaying burdens, we distribute the detours evenly over a wide region. In the proposed HC scheme,
+we control the symbol power and the scheduling of distributed multiple-input multiple-output
+transmission. We also present matching upper bounds on the throughput scaling under the assumption
+that every active LN consumes the same average transmit power over the time period in which the WNs
+observe the channel outputs. 

@@ -1,0 +1,16 @@
+In this paper, we investigate the relationship between deep neural networks (DNN) with rectified
+linear unit (ReLU) function as the activation function and continuous piecewise linear (CPWL)
+functions, especially CPWL functions from the simplicial linear finite element method (FEM).
+We first consider the special case of FEM. By exploring the DNN representation of its nodal basis
+functions, we present a ReLU DNN representation of CPWL in FEM. We theoretically establish that
+at least $2$ hidden layers are needed in a ReLU DNN to represent any linear finite element functions
+in $\Omega \subseteq \mathbb{R}^d$ when $d\ge2$. Consequently, for $d=2,3$ which are often encountered
+in scientific and engineering computing, the minimal number of two hidden layers are necessary
+and sufficient for any CPWL function to be represented by a ReLU DNN. Then we include a detailed account
+on how a general CPWL in $\mathbb R^d$ can be represented by a ReLU DNN with at most $\lceil\log_2(d+1)\rceil$
+hidden layers and we also give an estimation of the number of neurons in DNN that are needed in such
+a representation. Furthermore, using the relationship between DNN and FEM, we theoretically argue
+that a special class of DNN models with low bit-width are still expected to have an adequate representation
+power in applications. Finally, as a proof of concept, we present some numerical results for using
+ReLU DNNs to solve a two point boundary problem to demonstrate the potential of applying DNN for numerical
+solution of partial differential equations. 

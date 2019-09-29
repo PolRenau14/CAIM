@@ -1,0 +1,16 @@
+We present a set-oriented graph-based computational framework for continuous-time optimal transport
+over nonlinear dynamical systems. We recover provably optimal control laws for steering a given
+initial distribution in phase space to a final distribution in prescribed finite time for the case
+of non-autonomous nonlinear control-affine systems, while minimizing a quadratic control cost.
+The resulting control law can be used to obtain approximate feedback laws for individual agents
+in a swarm control application. Using infinitesimal generators, the optimal control problem is
+reduced to a modified Monge-Kantorovich optimal transport problem, resulting in a convex Benamou-Brenier
+type fluid dynamics formulation on a graph. The well-posedness of this problem is shown to be a consequence
+of the graph being strongly-connected, which in turn is shown to result from controllability of
+the underlying dynamical system. Using our computational framework, we study optimal transport
+of distributions where the underlying dynamical systems are chaotic, and non-holonomic. The solutions
+to the optimal transport problem elucidate the role played by invariant manifolds, lobe-dynamics
+and almost-invariant sets in efficient transport of distributions in finite time. Our work connects
+set-oriented operator-theoretic methods in dynamical systems with optimal mass transportation
+theory, and opens up new directions in design of efficient feedback control strategies for nonlinear
+multi-agent and swarm systems operating in nonlinear ambient flow fields. 

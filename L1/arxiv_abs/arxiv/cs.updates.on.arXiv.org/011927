@@ -1,0 +1,17 @@
+This paper proposes DeepRMSA, a deep reinforcement learning framework for routing, modulation
+and spectrum assignment (RMSA) in elastic optical networks (EONs). DeepRMSA learns the correct
+online RMSA policies by parameterizing the policies with deep neural networks (DNNs) that can sense
+complex EON states. The DNNs are trained with experiences of dynamic lightpath provisioning. We
+first modify the asynchronous advantage actor-critic algorithm and present an episode-based
+training mechanism for DeepRMSA, namely, DeepRMSA-EP. DeepRMSA-EP divides the dynamic provisioning
+process into multiple episodes (each containing the servicing of a fixed number of lightpath requests)
+and performs training by the end of each episode. The optimization target of DeepRMSA-EP at each
+step of servicing a request is to maximize the cumulative reward within the rest of the episode. Thus,
+we obviate the need for estimating the rewards related to unknown future states. To overcome the
+instability issue in the training of DeepRMSA-EP due to the oscillations of cumulative rewards,
+we further propose a window-based flexible training mechanism, i.e., DeepRMSA-FLX. DeepRMSA-FLX
+attempts to smooth out the oscillations by defining the optimization scope at each step as a sliding
+window, and ensuring that the cumulative rewards always include rewards from a fixed number of requests.
+Evaluations with the two sample topologies show that DeepRMSA-FLX can effectively stabilize the
+training while achieving blocking probability reductions of more than 20.3% and 14.3%, when compared
+with the baselines. 

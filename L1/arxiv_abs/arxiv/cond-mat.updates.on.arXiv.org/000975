@@ -1,0 +1,16 @@
+The optical conductivity of a metal near a quantum critical point (QCP) is expected to depend on frequency
+not only via the scattering time but also via the effective mass, which acquires a singular frequency
+dependence near a QCP. We check this assertion by computing diagrammatically the optical conductivity,
+$\sigma' (\Omega)$, near both nematic and spin-density wave (SDW) quantum critical points (QCPs)
+in 2D. If renormalization of current vertices is not taken into account, $\sigma' (\Omega)$ is expressed
+via the quasiparticle residue $Z$ (equal to the ratio of bare and renormalized masses in our approximation)
+and transport scattering rate $\gamma_{\text{tr}}$ as $\sigma' (\Omega)\propto Z^2 \gamma_{\text{tr}}/\Omega^2$.
+For a nematic QCP ($\gamma_{\text{tr}}\propto\Omega^{4/3}$ and $Z\propto\Omega^{1/3}$),
+this formula suggests that $\sigma'(\Omega)$ would tend to a constant at $\Omega \to 0$. We explicitly
+demonstrate that the actual behavior of $\sigma' (\Omega)$ is different due to strong renormalization
+of the current vertices, which cancels out a factor of $Z^2$. As a result, $\sigma' (\Omega)$ diverges
+as $1/\Omega^{2/3}$, as earlier works conjectured. In the SDW case, we consider two contributions
+to the conductivity: from hot spots and from"lukewarm" regions of the Fermi surface. The hot-spot
+contribution is not affected by vertex renormalization, but it is subleading to the lukewarm one.
+For the latter, we argue that a factor of $Z^2$ is again cancelled by vertex corrections. As a result,
+$\sigma' (\Omega)$ at a SDW QCP scales as $1/\Omega$ down to the lowest frequencies. 

@@ -1,0 +1,16 @@
+Multiview video supports observing a scene from different viewpoints. The Joint Video Team (JVT)
+developed H.264/MVC to enhance the compression efficiency for multiview video, however, MVC encoded
+multiview video (MVC video) still requires high bitrates for transmission. This paper investigates
+live MVC video streaming over Peer-to-Peer (P2P) networks. The goal is to minimize the server bandwidth
+costs whist ensuring high streaming quality to peers. MVC employs intra-view and inter-view prediction
+structures, which leads to a complicated layer dependency relationship. As the peers' outbound
+bandwidth is shared while supplying all the MVC video layers, the bandwidth allocation to one MVC
+layer affects the available outbound bandwidth of the other layers. To optimise the utilisation
+of the peers' outbound bandwidth for providing video layers, a maximum flow based model is proposed
+which considers the MVC video layer dependency and the layer supplying relationship between peers.
+Based on the model, a layer dependency aware live MVC video streaming method over a BitTorrent-like
+P2P network is proposed, named MVP2P. The key components of MVP2P include a chunk scheduling strategy
+and a peer selection strategy for receiving peers, and a bandwidth scheduling algorithm for supplying
+peers. To evaluate the efficiency of the proposed solution, MVP2P is compared with existing methods
+considering the constraints of peer bandwidth, peer numbers, view switching rates, and peer churns.
+The test results show that MVP2P significantly outperforms the existing methods. 

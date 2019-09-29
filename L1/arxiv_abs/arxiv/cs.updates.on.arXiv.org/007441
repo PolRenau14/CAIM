@@ -1,0 +1,16 @@
+A set family $F$ is said to satisfy the $(p,q)$ property if among any $p$ sets in $F$, some $q$ have a
+non-empty intersection. Hadwiger and Debrunner (1957) conjectured that for any $p \geq q \geq d+1$
+there exists $c=c_d(p,q)$, such that any family of compact convex sets in $\mathbb{R}^d$ that satisfies
+the $(p,q)$ property, can be pierced by at most $c$ points. In their celebrated $(p,q)$ theorem from
+1992, Alon and Kleitman proved the conjecture but did not obtain effective bounds on $c_d(p,q)$,
+called `the Hadwiger-Debrunner numbers'. Ever since, obtaining such bounds is a major open problem
+in convexity theory. The best currently known asymptotic lower bound on the Hadwiger-Debrunner
+numbers in the plane is $c_2(p,q) = \Omega( \frac{p}{q}\log(\frac{p}{q}))$. In this paper we present
+the significantly stronger lower bound $c_2(p,q) \geq p^{1+\Omega(1/q)}$. This bound, obtained
+by an explicit family of lines, is tight for all families that have a bounded VC-dimension. Unlike
+previous bounds on the Hadwiger-Debrunner numbers which mainly used the weak epsilon-net theorem,
+our bound stems from a surprising connection of the $(p,q)$ problem to an old problem of Erd\H{o}s
+on points in general position in the plane. We use a novel construction for the Erd\H{o}s' problem,
+obtained recently by Balogh and Solymosi using the hypergraph container method, to get the lower
+bound on $c_2(p,3)$. We then generalize the bound to $c_2(p,q)$ for any $q \geq 3$ with a construction
+based on a subset of the $(2q-2)$-dimensional grid. 

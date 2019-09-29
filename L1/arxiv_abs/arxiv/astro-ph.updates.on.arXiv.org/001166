@@ -1,0 +1,17 @@
+We investigate the effect of primordial non-Gaussianity on the cross-correlation between the
+CMB anisotropies and the 21 cm fluctuations from the epoch of reionization. We assume an analytic
+reionization model and an ionization fraction with $f_{\rm NL}$ induced scale dependent bias.
+We estimate the angular power spectrum of the cross-correlation of the CMB and 21 cm. In order to evaluate
+the detectability, the signal-to-noise (S/N) ratio for only a single redshift slice is also calculated
+for current and future observations, such as CMB observations by Planck satellite and 21 cm observations
+by Omniscope. The existence of the $f_{\rm NL}$ increases the signal of the cross-correlation at
+large scales and the amplification does not depend on the reionization parameters in our reionization
+model. However the cosmic variance is significant on such scales and the S/N ratio is suppressed.
+The obtained S/N ratio is 2.8 (2.4) for $f_{\rm NL}=10$ (100) in our fiducial reionization model.
+Our work suggests in the absence of significant foregrounds and systematics, the auto-correlations
+of 21 cm is a better probe of $f_{\rm NL}$ than the cross-correlations (as expected since it depends
+on $b^2$), while the cross-correlations contain only one factor of $b$. Nevertheless, it is interesting
+to examine the cross-correlations between 21 cm and CMB, as the signal-to-noise ratio is not negligible
+and it is more likely we can rid ourselves of systematics and foregrounds that are common to both CMB
+and 21 cm experiments than completely clean 21 cm of all of the possible foregrounds and systematics
+in large scales. 

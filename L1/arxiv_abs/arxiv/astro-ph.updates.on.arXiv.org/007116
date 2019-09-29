@@ -1,0 +1,16 @@
+POLICAN is a near-infrared imaging linear polarimeter developed for the Cananea Near-infrared
+Camera (CANICA) at the 2.1m telescope of the Guillermo Haro Astrophysical Observatory (OAGH) located
+in Cananea, Sonora, Mexico. POLICAN is mounted ahead of CANICA and consist of a rotating super-achromatic
+1-2.7 micron half-wave plate (HWP) as the modulator and a fixed wire-grid polarizer as the analyzer.
+CANICA has a 1024 x 1024 HgCdTe detector with a plate scale of 0.32 arcsec/pixel and provides a field
+of view of 5.5 x 5.5 arcmin^2. The polarimetric observations are carried out by modulating the incoming
+light through different steps of half-wave plate angles 0, 22.5, 45, 67.5 deg, to establish linear
+Stokes parameters (I, Q, and U). Image reduction consists of dark subtraction, polarimetric flat
+fielding, and sky subtraction. The astrometry and photometric calibrations are performed using
+the publicly available data from the Two Micron All Sky Survey. Polarimetric calibration includes
+observations of globular clusters and polarization standards available in the literature. Analysis
+of multiple observations of globular clusters yielded an instrumental polarization of 0.51%.
+Uncertainties in polarization range from 0.1% to 10% from the brightest 7 mag to faintest 16 mag stars.
+The polarimetric accuracy achieved is better than 0.5% and the position angle errors less than 5
+deg for stars brighter than 13 mag in H-band. POLICAN is mainly being used to study the scattered polarization
+and magnetic fields in and around star-forming regions of the interstellar medium. 

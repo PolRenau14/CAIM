@@ -1,0 +1,16 @@
+Strong gravitational lensing provides an independent measurement of the Hubble parameter ($H_0$).
+One remaining systematic is a bias from the additional mass due to a galaxy group at the lens redshift
+or along the sightline. We quantify this bias for more than 20 strong lenses that have well-sampled
+sightline mass distributions, focusing on the convergence $\kappa$ and shear $\gamma$. In 23%
+of these fields, a lens group contributes a $\ge$1% convergence bias; in 57%, there is a similarly
+significant line-of-sight group. For the nine time delay lens systems, $H_0$ is overestimated
+by 11$^{+3}_{-2}$% on average when groups are ignored. In 67% of fields with total $\kappa \ge$ 0.01,
+line-of-sight groups contribute $\gtrsim 2\times$ more convergence than do lens groups, indicating
+that the lens group is not the only important mass. Lens environment affects the ratio of four (quad)
+to two (double) image systems; all seven quads have lens groups while only three of 10 doubles do,
+and the highest convergences due to lens groups are in quads. We calibrate the $\gamma$-$\kappa$
+relation: $\log(\kappa_{\rm{tot}}) = (1.94 \pm 0.34) \log(\gamma_{\rm{tot}}) + (1.31 \pm 0.49)$
+with a rms scatter of 0.34 dex. Shear, which, unlike convergence, can be measured directly from lensed
+images, can be a poor predictor of $\kappa$; for 19% of our fields, $\kappa$ is $\gtrsim 2\gamma$.
+Thus, accurate cosmology using strong gravitational lenses requires precise measurement and
+correction for all significant structures in each lens field. 

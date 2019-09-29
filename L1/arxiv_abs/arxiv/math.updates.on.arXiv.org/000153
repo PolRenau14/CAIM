@@ -1,0 +1,17 @@
+Let \phi be a first order formula and M be a countable model. \phi^M denotes the set of all assignments
+that satisfy \phi in M. Let M, N be countable models. A formula \phi distinguishes these models if
+|\phi^M|\neq |\phi^N|. We show that the number of distinguishable countable models for a complete
+countable first order theory, satisfies the Glimm Effross dichotomy, hence also Vaught's conjecture.
+The proof in the presence of equality is fairly easy, though we need infinite conjunctions to implement
+it and somewhat heavy theorems from descriptive set theory. However, the case without equality
+seems to be much more difficult (because we cannot count without equality) and in this case algebraic
+logic comes to our rescue via the representation theory of locally finite quasi polyadic algebras.
+We show that the equivalence relation induced by such (indistinguishable) models is a Borel subset
+of the product of the Stone Polish space (consisting of ultarfilters corresponding to models) with
+itself. We also formuate and prove a Vaught's theorem for certian infinitary extensions of first
+order logic via the representation theory of dimension complemented algebras. In all case we also
+count the number of non isomorphic models omitting < covK many non isolated types (the latter
+is the least cardinal such that the Baire Category theorem fails and also the largest cardinal such
+tha Martin's axiom restrcited to countable Boolean algebra hold.) In such cases, for locally finite
+algebras and dimension complemented ones we obtain the same number of non-ismorphic distinguishable
+models. 

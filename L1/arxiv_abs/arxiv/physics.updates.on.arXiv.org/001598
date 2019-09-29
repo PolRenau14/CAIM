@@ -1,0 +1,16 @@
+The conventional definition of ground-level enhancement (GLE) events requires a detection of
+solar energetic particles (SEP) by at least two differently located neutron monitors. Some places
+are exceptionally well suitable for ground-based detection of SEP - high-elevation polar regions
+with negligible geomagnetic and reduced atmospheric energy/rigidity cutoffs. At present, there
+are two neutron-monitor stations in such locations on the Antarctic plateau: SOPO/SOPB (at Amundsen-Scott
+station, 2835 m elevation), and DOMC/DOMB (at Concordia station, 3233 m elevation). Since 2015,
+when the DOMC/DOMB station started continuous operation, a relatively weak SEP event that was not
+detected by sea-level neutron-monitor stations was registered by both SOPO/SOPB and DOMC/DOMB,
+and it was accordingly classified as a GLE. This would lead to a distortion of the homogeneity of the
+historic GLE list and the corresponding statistics. To address this issue, we propose to modify
+the GLE definition so that it maintains the homogeneity: A GLE event is registered when there are
+near-time coincident and statistically significant enhancements of the count rates of at least
+two differently located neutron monitors, including at least one neutron monitor near sea level
+and a corresponding enhancement in the proton flux measured by a space-borne instrument(s). Relatively
+weak SEP events registered only by high-altitude polar neutron monitors, but with no response from
+cosmic-ray stations at sea level, can be classified as sub-GLEs. 

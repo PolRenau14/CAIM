@@ -1,0 +1,17 @@
+The non-trivial structure of such complex systems makes the analysis of their collective behavior
+a challenge. The problem is even more difficult when the information is distributed across networks
+(e.g., communication networks in different media); in this case, it becomes impossible to have
+a complete, or even partial picture, if situations are analyzed separately within each network
+due to sparsity. A multiplex network is well-suited to model the complexity of this kind of systems
+by preserving the semantics associated with each network. Centrality measures are fundamental
+for the identification of key players, but existing approaches are typically designed to capture
+a predefined aspect of the system, ignoring or merging the semantics of the individual layers. To
+overcome the aforementioned limitations, we present a Framework for Tailoring Centrality Measures
+in Multiplex networks (TaCMM), which offers a flexible methodology that encompasses and generalizes
+previous approaches. The strength of TaCMM is to enable the encoding of specific dependencies between
+the subnets of multiplex networks to define semantic-aware centrality measures. We develop a theoretically
+sound iterative method, based on Perron-Frobenius theory, designed to be effective also in high-sparsity
+conditions. We formally and experimentally prove its convergence for ranking computation. We
+provide a thorough investigation of our methodology against existing techniques using different
+types of subnets in multiplex networks. The results clearly show the power and flexibility of the
+proposed framework. 

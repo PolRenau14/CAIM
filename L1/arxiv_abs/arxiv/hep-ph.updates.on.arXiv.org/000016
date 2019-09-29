@@ -1,0 +1,16 @@
+We study single jet production in electron-nucleus collisions e^- + N_A -> J + X, using the 1-jettiness
+(\tau_1) global event shape. It inclusively quantifies the pattern of radiation in the final state,
+gives enhanced sensitivity to soft radiation at wide angles from the nuclear beam and final-state
+jet, and facilitates the resummation of large Sudakov logarithms associated with the veto on additional
+jets. Through their effect on the observed pattern of radiation, 1-jettiness can be a useful probe
+of nuclear PDFs and power corrections from dynamical effects in the nuclear medium. This formalism
+allows for the standard jet shape analysis while simultaneously providing sensitivity to soft
+radiation at wide angles from the jet. We use a factorization framework for cross-sections differential
+in $\tau_1$ and the transverse momentum (P_{J_T}) and rapidity (y) of the jet, in the region \tau_1<<
+P_{J_T}. The restriction $\tau_1 << P_{J_T}$ allows only soft radiation between the nuclear
+beam and jet directions, thereby acting as a veto on additional jets. This region is also insensitive
+to the details of the jet algorithm, allowing for better theoretical control over resummation,
+while providing enhanced sensitivity to nuclear medium effects. We give numerical results at leading
+twist, with resummation at the next-to-next-to-leading logarithmic (NNLL) level of accuracy,
+for a variety of nuclear targets. Such studies would be ideal for the EIC and the LHeC proposals for
+a future electron-ion collider, where a range of nuclear targets are planned. 

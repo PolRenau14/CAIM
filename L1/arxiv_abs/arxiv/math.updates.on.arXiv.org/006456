@@ -1,0 +1,16 @@
+This paper considers sparse device activity detection for cellular machine-type communications
+with non-orthogonal signatures using the approximate message passing algorithm. This paper compares
+two network architectures, massive multiple-input multiple-output (MIMO) and cooperative MIMO,
+in terms of their effectiveness in overcoming inter-cell interference. In the massive MIMO architecture,
+each base station (BS) detects only the users from its own cell while treating inter-cell interference
+as noise. In the cooperative MIMO architecture, each BS detects the users from neighboring cells
+as well; the detection results are then forwarded in the form of log-likelihood ratio (LLR) to a central
+unit where final decisions are made. This paper analytically characterizes the probabilities
+of false alarm and missed detection for both architectures. Numerical results validate the analytic
+characterization and show that as the number of antennas increases, a massive MIMO system effectively
+drives the detection error to zero, while as the cooperation size increases, the cooperative MIMO
+architecture mainly improves the cell-edge user performance. Moreover, this paper studies the
+effect of LLR quantization to account for the finite-capacity fronthaul. Numerical simulations
+of a practical scenario suggest that in that specific case cooperating three BSs in a cooperative
+MIMO system achieves about the same cell-edge detection reliability as a non-cooperative massive
+MIMO system with four times the number of antennas per BS. 

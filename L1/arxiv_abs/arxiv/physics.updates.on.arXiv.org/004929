@@ -1,0 +1,16 @@
+The hydrostatic equilibrium state is the consequence of the exact hydrostatic balance between
+hydrostatic pressure and external force. Standard finite volume or finite difference schemes
+cannot keep this balance exactly due to their unbalanced truncation errors. In this study, we introduce
+an auxiliary variable which becomes constant at isothermal hydrostatic equilibrium state and
+propose a well-balanced gas kinetic scheme for the Navier-Stokes equations with a global reconstruction.
+Through reformulating the convection term and the force term via the auxiliary variable, zero numerical
+flux and zero numerical source term are enforced at the hydrostatic equilibrium state instead of
+the balance between hydrostatic pressure and external force. Several problems are tested numerically
+to demonstrate the accuracy and the stability of the new scheme, and the results confirm that, the
+new scheme can preserve the exact hydrostatic solution. The small perturbation riding on hydrostatic
+equilibria can be calculated accurately. The viscous effect is also illustrated through the propagation
+of small perturbation and the Rayleigh-Taylor instability. More importantly, the new scheme is
+capable of simulating the process of converging towards hydrostatic equilibrium state from a highly
+non-balanced initial condition. The ultimate state of zero velocity and constant temperature
+is achieved up to machine accuracy. As demonstrated by the numerical experiments, the current scheme
+is very suitable for small amplitude perturbation and long time running under gravitational potential.

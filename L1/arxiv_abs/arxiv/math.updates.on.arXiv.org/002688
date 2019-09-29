@@ -1,0 +1,16 @@
+For a composite containing one isotropic elastic material, with positive Lame moduli, and void,
+with the elastic material occupying a prescribed volume fraction $f$, and with the composite being
+subject to an average stress, ${{ {\sigma}}}^0$, Gibiansky, Cherkaev, and Allaire provided a sharp
+lower bound $W_f({{ {\sigma}}}^0)$ on the minimum compliance energy $\sigma^0:\epsilon^0$,
+in which ${ {\epsilon}}^0$ is the average strain. Here we show these bounds also provide sharp bounds
+on the possible $({{ {\sigma}}}^0,{{ {\epsilon}}}^0)$-pairs that can coexist in such composites,
+and thus solve the weak $G$-closure problem for $3d$-printed materials. The materials we use to
+achieve the extremal $(\sigma^0,\epsilon^0)$-pairs are denoted as near optimal pentamodes.
+We also consider two-phase composites containing this isotropic elasticity material and a rigid
+phase with the elastic material occupying a prescribed volume fraction $f$, and with the composite
+being subject to an average strain, $\epsilon^0$. For such composites, Allaire and Kohn provided
+a sharp lower bound $\widetilde{W}_f({{ {\epsilon}}}^0)$ on the minimum elastic energy $\sigma^0:\epsilon^0$.
+We show that these bounds also provide sharp bounds on the possible $({{ {\sigma}}}^0,{{ {\epsilon}}}^0)$-pairs
+that can coexist in such composites of the elastic and rigid phases, and thus solve the weak $G$-closure
+problem in this case too. The materials we use to achieve these extremal $({{ {\sigma}}}^0,{{ {\epsilon}}}^0)$-pairs
+are denoted as near optimal unimodes. 

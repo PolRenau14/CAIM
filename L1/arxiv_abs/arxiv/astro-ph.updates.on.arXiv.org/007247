@@ -1,0 +1,16 @@
+We study the impact of a warm dark matter (WDM) cosmology on dwarf galaxy formation through a suite
+of cosmological hydrodynamical zoom-in simulations of $M_{\rm halo} \approx10^{10}\,M_{\odot}$
+dark matter halos as part of the Feedback in Realistic Environments (FIRE) project. A main focus
+of this paper is to evaluate the combined effects of dark matter physics and stellar feedback on the
+well-known small-scale issues found in cold dark matter (CDM) models. We find that the $z=0$ stellar
+mass of a galaxy is strongly correlated with the central density of its host dark matter halo at the
+time of formation, $z_{\rm f}$, in both CDM and WDM models. WDM halos follow the same $M_{\star}(z=0)-V_{\rm
+max}(z_{\rm f})$ relation as in CDM, but they form later, are less centrally dense, and therefore
+contain galaxies that are less massive than their CDM counterparts. As a result, the impact of baryonic
+effects on the central gravitational potential is typically diminished relative to CDM. However,
+the combination of delayed formation in WDM and energy input from stellar feedback results in dark
+matter profiles with lower overall densities. The WDM galaxies studied here have a wider diversity
+of star formation histories (SFHs) than the same systems simulated in CDM, and the two lowest $M_{\star}$
+WDM galaxies form all of their stars at late times. The discovery of young ultra-faint dwarf galaxies
+with no ancient star formation -- which do not exist in our CDM simulations -- would therefore provide
+evidence in support of WDM. 

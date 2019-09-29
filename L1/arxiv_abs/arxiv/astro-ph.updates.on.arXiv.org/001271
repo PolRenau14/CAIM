@@ -1,0 +1,16 @@
+We present the first simulation addressing the prospects of finding an electromagnetic (EM) counterpart
+to gravitational wave detections (GW) during the early years of only two advanced interferometers.
+The perils of such a search may have appeared insurmountable when considering the coarse ring-shaped
+GW localizations spanning thousands of deg^2 using time-of-arrival information alone. We show
+that leveraging the amplitude and phase information of the predicted GW signal narrows the localization
+to arcs with a median area of only ~250 deg^2, thereby making an EM search tractable. Based on the locations
+and orientations of the two LIGO detectors, we find that the GW sensitivity is limited to one polarization
+and thus to only two sky quadrants. Thus, the rates of GW events with two interferometers is only ~40%
+of the rate with three interferometers of similar sensitivity. Another important implication
+of the sky quadrant bias is that EM observatories in North America and Southern Africa would be able
+to systematically respond to GW triggers several hours sooner than Russia and Chile. Given the larger
+sky areas and the relative proximity of detected mergers, 1m-class telescopes with very wide-field
+cameras are well positioned for the challenge of finding an EM counterpart. Identification of the
+EM counterpart amidst the even larger numbers of false positives further underscores the importance
+of building a comprehensive catalog of foreground stellar sources, background AGN and potential
+host galaxies in the local universe. 

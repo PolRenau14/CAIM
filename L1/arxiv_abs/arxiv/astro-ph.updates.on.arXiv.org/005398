@@ -1,0 +1,16 @@
+This paper is the first of a series of papers constraining cosmological parameters with weak lensing
+peak statistics using $\sim 450~\rm deg^2$ of imaging data from the Kilo Degree Survey (KiDS-450).
+We measure high signal-to-noise ratio (SNR: $\nu$) weak lensing convergence peaks in the range
+of $3<\nu<5$, and employ theoretical models to derive expected values. These models are validated
+using a suite of simulations. We take into account two major systematic effects, the boost factor
+and the effect of baryons on the mass-concentration relation of dark matter haloes. In addition,
+we investigate the impacts of other potential astrophysical systematics including the projection
+effects of large scale structures, intrinsic galaxy alignments, as well as residual measurement
+uncertainties in the shear and redshift calibration. Assuming a flat $\Lambda$CDM model, we find
+constraints for $S_{\rm 8}=\sigma_{\rm 8}(\Omega_{\rm m}/0.3)^{0.5}=0.746^{+0.046}_{-0.107}$
+according to the degeneracy direction of the cosmic shear analysis and $\Sigma_{\rm 8}=\sigma_{\rm
+8}(\Omega_{\rm m}/0.3)^{0.38}=0.696^{+0.048}_{-0.050}$ based on the derived degeneracy direction
+of our high-SNR peak statistics. The difference between the power index of $S_{\rm 8}$ and in $\Sigma_{\rm
+8}$ indicates that combining the two probes has the potential to break the degeneracy in $\sigma_{\rm
+8}$ and $\Omega_{\rm m}$. Our results are consistent with the cosmic shear tomographic correlation
+analysis of the same dataset and $\sim 2\sigma$ lower than the Planck 2016 results. 

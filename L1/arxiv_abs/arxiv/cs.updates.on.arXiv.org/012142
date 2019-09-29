@@ -1,0 +1,16 @@
+The security of applications hinges on the trustworthiness of the operating system, as applications
+rely on the OS to protect code and data. As a result, multiple protections for safeguarding the integrity
+of kernel code and data are being continuously proposed and deployed. These existing protections,
+however, are far from ideal as they either provide partial protection, or require complex and high
+overhead hardware and software stacks. In this work, we present Neverland: a low-overhead, hardware-assisted,
+memory protection scheme that safeguards the operating system from rootkits and kernel-mode malware.
+Once the system is done booting, Neverland's hardware takes away the operating system's ability
+to overwrite certain configuration registers, as well as portions of its own physical address space
+that contain kernel code and security-critical data. Furthermore, it prohibits the CPU from fetching
+privileged code from any memory region lying outside the physical addresses assigned to the OS kernel
+and drivers (regardless of virtual page permissions). This combination of protections makes it
+extremely hard for an attacker to tamper with the kernel or introduce new privileged code into the
+system -- even in the presence of kernel vulnerabilities. Our evaluations show that the extra hardware
+required to support these protections incurs minimal silicon and energy overheads. Neverland
+enables operating systems to reduce their attack surface without having to rely on complex integrity
+monitoring software or hardware. 

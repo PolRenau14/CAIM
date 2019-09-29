@@ -1,0 +1,16 @@
+Following detailed analysis of data the domain of applicability of Non-Relativistic QED (NRQED)
+with static nuclei is described for ground state energy of helium-like (and lithium-like) ions
+for $Z \leq 20$. It is demonstrated that finite nuclear mass effects do not change 4-5 significant
+digits (s.d.) and the leading relativistic and QED effects leave unchanged 3-4 s.d. for $Z \leq 20$
+in ground state energy for both helium and lithium-like ions. It is shown that the non-relativistic
+ground state energy can be easily interpolated in full physics range of nuclear charge $Z$ with accuracy
+of not less than 6 decimal digits (d.d.) (or 7-8 s.d.) for $Z \leq 50$ for helium-like ions and for $Z
+\leq 20$ for lithium-like ions using a meromorphic function in variable ${\lambda}=\sqrt{Z-{Z_B}}$
+(here $Z_B$ is the 2nd critical charge \cite{TLO:2016}), which is well inside the domain of applicability
+of non-relativistic QED. In turn, it is found a fourth degree polynomial in ${\lambda}$ which reproduces
+the ground state energy of the helium-like and lithium-like ions for $Z \leq 20$ in the domain of applicability
+of NRQED with static nuclei, thus, 3 s.d. It is noted that $\sim 99.9\%$ of the ground state energy
+(and some expectation values) is given by the variational energy for properly optimized trial function
+of the form of (anti)-symmetrized product of three (six) Coulomb orbitals for two-(three) electron
+system with 3 (7) free parameters for $Z \leq 20$, respectively. It implies that these trial functions
+are, in fact, the {\it exact} wavefunctions for non-relativistic QED. 

@@ -1,0 +1,16 @@
+This is a sequel to the authors' article [BKO]. We consider a hyperbolic knot $K$ in a closed 3-manifold
+$M$ and the cotangent bundle of its complement $M \setminus K$. We equip a hyperbolic metric $h$ with
+$M \setminus K$ and the induced kinetic energy Hamiltonian $H_h = \frac{1}{2} |p|_h^2$ and Sasakian
+almost complex structure $J_h$ with the cotangent bundle $T^*(M \setminus K)$. We consider the
+conormal $\nu^*T$ of a horo-torus $T$, i.e., the cusp cross-section given by a level set of the Busemann
+function in the cusp end and maps $u: (\Sigma, \partial \Sigma) \to (T^*(M \setminus K), \nu^*T)$
+converging to a \emph{non-constant} Hamiltonian chord of $H_h$ at each puncture of $\Sigma$, a
+boundary-punctured open Riemann surface of genus zero with boundary. We prove that all non-constant
+Hamiltonian chords are transversal and of Morse index 0 relative to the horo-torus $T$. As a consequence,
+we prove that $\widetilde{\mathfrak m}^k = 0$ unless $k \neq 2$ and an $A_\infty$-algebra associated
+to $\nu^*T$ is reduced to a noncommutative algebra concentrated to degree 0. We then prove that the
+wrapped Floer cohomology $HW(\nu^*T; H_h)$ with respect to $H_h$ is well-defined and isomorphic
+to the Knot Floer cohomology $HW(\partial_\infty(M \setminus K))$ that was introduced in [BKO]
+for arbitrary knot $K \subset M$. We also define a reduced cohomology, denoted by $\widetilde{HW}^d(\partial_\infty(M
+\setminus K))$, by modding out constant chords and prove that if $\widetilde{HW}^d(\partial_\infty(M
+\setminus K))\neq 0$ for some $d \geq 1$, then $K$ cannot be hyperbolic. 

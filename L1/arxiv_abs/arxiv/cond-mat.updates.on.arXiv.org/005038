@@ -1,0 +1,16 @@
+We present a worm-type Monte Carlo study of several typical models in the three-dimensional (3D)
+U(1) universality class, which include the classical 3D XY model in the directed flow representation
+and its Villain version, as well as the 2D quantum Bose-Hubbard (BH) model with unitary filling in
+the imaginary-time world-line representation. From the topology of the configurations on a torus,
+we sample the superfluid stiffness $\rho_s$ and the dimensionless wrapping probability $R$. From
+the finite-size scaling analyses of $\rho_s$ and of $R$, we determine the critical points as $T_c
+({\rm XY}) =2.201\, 844 \,1(5)$ and $T_c ({\rm Villain})=0.333\, 067\, 04(7)$ and $(t/U)_c ({\rm
+BH})=0.059 \, 729 \,1(8)$, where $T$ is the temperature for the classical models, and $t$ and $U$
+are respectively the hopping and on-site interaction strength for the BH model. The precision of
+our estimates improves significantly over that of the existing results. Moreover, it is observed
+that at criticality, the derivative of a wrapping probability with respect to $T$ suffers from negligible
+leading corrections and enables a precise determination of the correlation length critical exponent
+as $\nu=0.671 \, 83(18)$. In addition, the critical exponent $\eta$ is estimated as $\eta=0.038
+\, 53(48)$ by analyzing a susceptibility-like quantity. We believe that these numerical results
+would provide a solid reference in the study of classical and quantum phase transitions in the 3D
+U(1) universality, including the recent development of the conformal bootstrap method. 

@@ -1,0 +1,17 @@
+Gravitational wave (GW) astronomy has consolidated its role as a new observational window to reveal
+the properties of compact binaries in the Universe. In particular, the discovery of the first binary
+neutron star coalescence, GW170817, led to a number of scientific breakthroughs as the possibility
+to place constraints on the equation of state of cold matter at supranuclear densities. These constraints
+and all scientific results based on them require accurate models describing the GW signal to extract
+the source properties from the measured signal. In this article, we study potential systematic
+biases during the extraction of source parameters using different descriptions for both, the point-particle
+dynamics and tidal effects. We find that for the considered cases the mass and spin recovery show
+almost no systematic bias with respect to the chosen waveform model. However, the extracted tidal
+effects can be strongly biased, where we find generally that Post-Newtonian approximants predict
+neutron stars with larger deformability and radii than numerical relativity tuned models. Noteworthy,
+an increase in the Post-Newtonian order in the tidal phasing does not lead to a monotonic change in
+the estimated properties. We find that for a signal with strength similar to GW170817, but observed
+with design sensitivity, the estimated tidal parameters can differ by more than a factor of two depending
+on the employed tidal description of the waveform approximant. This shows the current need for the
+development of better waveform models to extract reliably the source properties from upcoming
+GW detections. 

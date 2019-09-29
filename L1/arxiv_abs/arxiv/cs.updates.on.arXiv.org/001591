@@ -1,0 +1,16 @@
+We consider the slight variation of the adversarial queuing theory model, in which an adversary
+injects packets with routes into the network subject to the following constraint: For any link $e$,
+the total number of packets injected in any time window $[t,t')$ and whose route contains $e$, is
+at most $\rho(t'-t)+\sigma$, where $\rho$ and $\sigma$ are non-negative parameters. Informally,
+$\rho$ bounds the long-term rate of injections and $\sigma$ bounds the "burstiness" of injection:
+$\sigma=0$ means that the injection is as smooth as it can be. It is known that greedy scheduling of
+the packets (under which a link is not idle if there is any packet ready to be sent over it) may result
+in $\Omega(n)$ buffer size even on an $n$-line network and very smooth injections ($\sigma=0$).
+In this paper we propose a simple non-greedy scheduling policy and show that, in a tree where all packets
+are destined at the root, no buffer needs to be larger than $\sigma+2\rho$ to ensure that no overflows
+occur, which is optimal in our model. The rule of our algorithm is to forward a packet only if its next
+buffer is completely empty. The policy is centralized: in a single step, a long "train" of packets
+may progress together. We show that in some sense central coordination is required, by presenting
+an injection pattern with $\sigma=0$ for the $n$-node line that results in $\Omega(n)$ packets
+in a buffer if local control is used, even for the more sophisticated "downhill" algorithm, which
+forwards a packet only if its next buffer is less occupied than its current one. 

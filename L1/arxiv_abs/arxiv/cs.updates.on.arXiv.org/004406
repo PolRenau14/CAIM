@@ -1,0 +1,16 @@
+With social media datasets being increasingly shared by researchers, it also presents the caveat
+that those datasets are not always completely replicable. Having to adhere to requirements of platforms
+like Twitter, researchers cannot release the raw data and instead have to release a list of unique
+identifiers, which others can then use to recollect the data from the platform themselves. This
+leads to the problem that subsets of the data may no longer be available, as content can be deleted
+or user accounts deactivated. To quantify the impact of content deletion in the replicability of
+datasets in a long term, we perform a longitudinal analysis of the persistence of 30 Twitter datasets,
+which include over 147 million tweets. Having the original datasets collected between 2012 and
+2016, and recollecting them later by using the tweet IDs, we look at four different factors that quantify
+the extent to which recollected datasets resemble original ones: completeness, representativity,
+similarity and changingness. Even though the ratio of available tweets keeps decreasing as the
+dataset gets older, we find that the textual content of the recollected subset is still largely representative
+of the whole dataset that was originally collected. The representativity of the metadata, however,
+keeps decreasing over time, both because the dataset shrinks and because certain metadata, such
+as the users' number of followers, keeps changing. Our study has important implications for researchers
+sharing and using publicly shared Twitter datasets in their research. 

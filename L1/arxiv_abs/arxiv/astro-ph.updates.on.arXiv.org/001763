@@ -1,0 +1,16 @@
+The ultra-long Gamma Ray Burst 111209A, which occurred at a redshift of $z = 0.677$, is the longest
+duration burst ever observed due to a rest frame prompt emission duration of order of $10^{4}$ s.
+The very early X-ray afterglow of Gamma Ray Burst 111209A showed unusual behavior, with a significant
+bump observed at about 2000 s after the BAT trigger. One possible explanation is that the bump resulted
+from mass fall back. In this paper, we present a detailed numerical study of the fall back process
+to interpret the very early X-ray afterglow light curve of Gamma Ray Burst 111209A. For the afterglow
+at late times, we apply external shock by adding an energy injection. In our model, we assume two periods
+of energy injection, each with a constant injection power. One injection starts at $8.0\times10^{3}$
+s and lasts for about 8000 s, with an injection power of $9.0\times10^{47}$ ${\rm erg}$ ${\rm s^{-1}}$;
+this energy injection accounts for the plateau at X-ray wavelength in the early stage. The other
+injection starts at $6.5\times10^{4}$ s and lasts for about 16 ks with an injection power of $6.0\times10^{46}$
+${\rm erg}$ ${\rm s^{-1}}$. This second energy injection can help to explain the other plateau at
+X-ray wavelengths and the rebrightening in the optical band at about $10^{5}$ s. We argue that the
+two periods of energy injection can be produced by the infall of clumpy mass onto the central compact
+object of the burster, which leads to an enhancement of the accretion rate and results in a strong
+temporary outflow. 

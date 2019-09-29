@@ -1,0 +1,16 @@
+We describe approximation algorithms in Linial's classic LOCAL model of distributed computing
+to find maximum-weight matchings in a hypergraph of rank $r$. Our main result is a deterministic
+algorithm to generate a matching which is an $O(r)$-approximation to the maximum weight matching,
+running in $\tilde O(r \log \Delta + \log^2 \Delta + \log^* n)$ rounds. This is based on a number of
+new derandomization techniques extending methods of Ghaffari, Harris & Kuhn (2017). The first
+main application of this is to get nearly-optimal algorithms for the long-studied problem of maximum-weight
+graph matching. Specifically, we obtain a $(1+\epsilon)$ approximation algorithm running in
+$\tilde O(\log \Delta / \epsilon^3 + \text{polylog}(1/\epsilon, \log \log n))$ randomized time
+and $\tilde O(\log^2 \Delta / \epsilon^4 + \log^*n / \epsilon)$ deterministic time. The second
+application is a faster algorithm for hypergraph maximal matching, a versatile subroutine introduced
+in Ghaffari et al. (2017) for a variety of local graph algorithms. This gives an algorithm for $(2
+\Delta - 1)$-edge-list coloring in $\tilde O(\log^2 \Delta \log n)$ rounds deterministically
+or $\tilde O( (\log \log n)^3 )$ rounds randomly. Another consequence (with additional optimizations)
+is an algorithm which generates an edge-orientation with out-degree at most $\lceil (1+\epsilon)
+\lambda \rceil$ for a graph of arboricity $\lambda$; for fixed $\epsilon$ this runs in $\tilde O(\log^6
+n)$ rounds deterministically or $\tilde O(\log^3 n )$ rounds randomly. 

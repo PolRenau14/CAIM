@@ -1,0 +1,17 @@
+Video on-demand streaming from Internet-based servers is becoming one of the most important services
+offered by wireless networks today. In order to improve the area spectral efficiency of video transmission
+in cellular systems, small cells heterogeneous architectures (e.g., femtocells, WiFi off-loading)
+are being proposed, such that video traffic to nomadic users can be handled by short-range links
+to the nearest small cell access points (referred to as "helpers"). As the helper deployment density
+increases, the backhaul capacity becomes the system bottleneck. In order to alleviate such bottleneck
+we propose a system where helpers with low-rate backhaul but high storage capacity cache popular
+video files. Files not available from helpers are transmitted by the cellular base station. We analyze
+the optimum way of assigning files to the helpers, in order to minimize the expected downloading
+time for files. We distinguish between the uncoded case (where only complete files are stored) and
+the coded case, where segments of Fountain-encoded versions of the video files are stored at helpers.
+We show that the uncoded optimum file assignment is NP-hard, and develop a greedy strategy that is
+provably within a factor 2 of the optimum. Further, for a special case we provide an efficient algorithm
+achieving a provably better approximation ratio of 1-(1-1/d)^d, where d is the maximum number of
+helpers a user can be connected to. We also show that the coded optimum cache assignment problem is
+convex that can be further reduced to a linear program. We present numerical results comparing proposed
+schemes. 

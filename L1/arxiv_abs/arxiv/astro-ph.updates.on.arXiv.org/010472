@@ -1,0 +1,17 @@
+The Kepler spacecraft provided the first long-baseline, high-precision photometry for large
+numbers of stars. This enabled the discovery of thousands of new exoplanets, and the characterization
+of myriad astrophysical phenomena. However, one of the challenges with interpreting Kepler data
+has been that no instrument has provided a comparison dataset. Therefore, the replication of Kepler
+time-series data has remained elusive. The Transiting Exoplanet Survey Satellite (TESS) launched
+in April 2018 and began science operations in July 2018. During the TESS primary mission, it will
+survey 85% of the sky. NASA's first two observatories dedicated to discovering exoplanets, Kepler
+and TESS, were simultaneously operating during 2018. While the Kepler's K2 mission surveyed the
+ecliptic plane, TESS targets fields outside the ecliptic. However, during September 2018, a small
+region of the sky was observed simultaneously by both TESS and Kepler as part of TESS's Sector 2 (Aug
+22 - Sep 20, 2018) and K2 Campaign 19 (Sep 7 - Sep 26, 2018). The overlap region was 0.5 sq. deg. We identified
+171 K2 targets that fell inside TESS Sector 2 field of view, all of which are observed at 30-minute
+cadence by both missions. The targets range in brightness in the TESS bandpass (Tmag) from 6.7-18.4,
+with 93 targets brighter than Tmag=15, and 17 brighter than Tmag=12. This dataset provides the first
+simultaneous, long-duration, high-precision observations of the same targets from different
+space-based observatories and presents an excellent opportunity to explore instrumental systematics
+present in the two telescopes. 

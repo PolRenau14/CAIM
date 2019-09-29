@@ -1,0 +1,17 @@
+The detection of GW170817 is revolutionizing many areas of astrophysics with the joint observation
+of gravitational waves and electromagnetic emissions. These multi-messenger events provide
+a new approach to determine the Hubble constant, thus, they are a promising candidate for mitigating
+the tension between measurements of Type Ia supernovae via the local distance ladder and the Cosmic
+Microwave Background. In addition to the "standard siren" provided by the gravitational-wave
+measurement, the kilonova itself has characteristics that allow to improve existing measurements
+or to perform yet another, independent measurement of the Hubble constant without gravitational-wave
+information. Here, we employ standardization techniques borrowed from the type-Ia community
+and apply them to kilonovae, not using any information from the gravitational-wave signal. We use
+two versions of this technique, one derived from direct observables measured from the lightcurve,
+and the other based on inferred ejecta parameters, e.g., mass, velocity, and composition. According
+to these techniques, we obtain constraints of $D = 31^{+17}_{-11}$ Mpc or $D = 36^{+9}_{-7}$ Mpc
+(median and symmetric 68% credible interval) for the distance of GW170817 for the measured and inferred
+analysis respectively. These lead to Hubble Constant measurements of $H_0 = 109^{+49}_{-35}$
+km $\mathrm{s}^{-1}$ $\mathrm{Mpc}^{-1}$ and $H_0 = 85^{+21}_{-16}$ km $\mathrm{s}^{-1}$ $\mathrm{Mpc}^{-1}$.
+We show in this way that the kilonova measurement is competitive with the gravitational-wave measurements
+as an independent constraint on $H_0$. 

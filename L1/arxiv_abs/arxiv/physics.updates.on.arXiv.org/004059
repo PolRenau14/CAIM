@@ -1,0 +1,16 @@
+In this article, we demonstrate the use of artificial neural networks as optimal maps which are utilized
+for convolution and deconvolution of coarse-grained fields to account for sub-grid scale turbulence
+effects. We demonstrate that an effective eddy-viscosity is predicted by our purely data-driven
+large eddy simulation framework without explicit utilization of phenomenological arguments.
+In addition, our data-driven framework precludes the knowledge of true sub-grid stress information
+during the training phase due to its focus on estimating an effective filter and its inverse so that
+grid-resolved variables may be related to direct numerical simulation data statistically. The
+proposed predictive framework is also combined with a statistical truncation mechanism for ensuring
+numerical realizability in an explicit formulation. Through this we seek to unite structural and
+functional modeling strategies for modeling non-linear partial differential equations using
+reduced degrees of freedom. Both a priori and a posteriori results are shown for a two-dimensional
+decaying turbulence case in addition to a detailed description of validation and testing. A hyperparameter
+sensitivity study also shows that the proposed dual network framework simplifies learning complexity
+and is viable with exceedingly simple network architectures. Our findings indicate that the proposed
+framework approximates a robust and stable sub-grid closure which compares favorably to the Smagorinsky
+and Leith hypotheses for capturing the theoretical $k^{-3}$ scaling in Kraichnan turbulence.

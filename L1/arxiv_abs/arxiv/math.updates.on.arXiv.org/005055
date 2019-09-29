@@ -1,0 +1,17 @@
+We construct symmetric pairs for Drinfeld doubles of pre-Nichols algebras of diagonal type and
+determine when they possess an Iwasawa decomposition. This extends G. Letzter's theory of quantum
+symmetric pairs. Our results can be uniformly applied to Kac-Moody quantum groups for a generic
+quantum parameter, for roots of unity in respect to both big and small quantum groups, to quantum
+supergroups and to exotic quantum groups of ufo type. We give a second construction of symmetric
+pairs for Heisenberg doubles in the above generality and prove that they always admit an Iwasawa
+decomposition. For symmetric pair coideal subalgebras with Iwasawa decomposition in the above
+generality we then address two problems which are fundamental already in the setting of quantum
+groups. Firstly, we show that the symmetric pair coideal subalgebras are isomorphic to intrinsically
+defined deformations of partial bosonizations of the corresponding pre-Nichols algebras. To
+this end we develop a general notion of star products on N-graded connected algebras which provides
+an efficient tool to prove that two deformations of the partial bosonization are isomorphic. The
+new perspective also provides an effective algorithm for determining the defining relations of
+the coideal subalgebras. Secondly, for Nichols algebras of diagonal type, we use the linear isomorphism
+between the coideal subalgebra and the partial bosonization to give an explicit construction of
+quasi K-matrices as sums over dual bases. We show that the resulting quasi K-matrices give rise to
+weakly universal K-matrices in the above generality. 

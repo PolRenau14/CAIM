@@ -1,0 +1,16 @@
+Departures of the Cosmic Microwave Background (CMB) frequency spectrum from a blackbody - commonly
+referred to as spectral distortions - encode information about the thermal history of the early
+Universe (redshift 10^3< z < few x 10^6). While the signal is usually characterized as mu-
+and y-type distortion, a smaller residual (non-y/non-mu) distortion can also be created at intermediate
+redshifts 10^4 < z < 3 x 10^5. Here, we construct a new set of observables, mu_i, that describes
+the principal components of this residual distortion. The principal components are orthogonal
+to temperature shift, y- and mu-type distortion, and ranked by their detectability, thereby delivering
+a compression of all valuable information offered by the CMB spectrum. This method provides an efficient
+way of analyzing the spectral distortion for given experimental settings, and can be applied to
+a wide range of energy-release scenarios. As an illustration, we discuss the analysis of the spectral
+distortion signatures caused by dissipation of small-scale acoustic waves and decaying/annihilating
+particles for a PIXIE-type experiments. We provide forecasts for the expected measurement uncertainties
+of model-parameters and detections limits in each case. We furthermore show that a PIXIE-type experiments
+can in principle distinguish dissipative energy release from particle decays for a nearly scale-invariant
+primordial power spectrum with small running. Future CMB spectroscopy thus offers a unique way
+to probe of physics in the primordial Universe. 

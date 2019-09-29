@@ -1,0 +1,17 @@
+Fair division is the problem of dividing one or several goods amongst two or more agents in a way that
+satisfies a suitable fairness criterion. These Notes provide a succinct introduction to the field.
+We cover three main topics. First, we need to define what is to be understood by a "fair" allocation
+of goods to individuals. We present an overview of the most important fairness criteria (as well
+as the closely related criteria for economic efficiency) developed in the literature, together
+with a short discussion of their axiomatic foundations. Second, we give an introduction to cake-cutting
+procedures as an example of methods for fairly dividing a single divisible resource amongst a group
+of individuals. Third, we discuss the combinatorial optimisation problem of fairly allocating
+a set of indivisible goods to a group of agents, covering both centralised algorithms (similar to
+auctions) and a distributed approach based on negotiation. While the classical literature on fair
+division has largely developed within Economics, these Notes are specifically written for readers
+with a background in Computer Science or similar, and who may be (or may wish to be) engaged in research
+in Artificial Intelligence, Multiagent Systems, or Computational Social Choice. References
+for further reading, as well as a small number of exercises, are included. Notes prepared for a tutorial
+at the 11th European Agent Systems Summer School (EASSS-2009), Torino, Italy, 31 August and 1 September
+2009. Updated for a tutorial at the COST-ADT Doctoral School on Computational Social Choice, Estoril,
+Portugal, 9--14 April 2010. 

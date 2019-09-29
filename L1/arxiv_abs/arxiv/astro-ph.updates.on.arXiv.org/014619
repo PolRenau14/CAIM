@@ -1,0 +1,16 @@
+We report lensing magnifications, extinction, and time-delay estimates for the first resolved,
+multiply-imaged Type Ia supernova iPTF16geu, at $z = 0.409$, using $Hubble\,Space\,Telescope$
+($HST$) observations in combination with supporting ground-based data. Multi-band photometry
+of the resolved images provides unique information about the differential dimming due to dust in
+the lensing galaxy. Using $HST$ and Keck AO reference images taken after the SN faded, we obtain a
+total lensing magnification for iPTF16geu of $\mu = 67.8^{+2.6}_{-2.9}$, accounting for extinction
+in the host and lensing galaxy. As expected from the symmetry of the system, we measure very short
+time-delays for the three fainter images with respect to the brightest one: -0.23 $\pm$ 0.99, -1.43
+$\pm$ 0.74 and 1.36 $\pm$ 1.07 days. Interestingly, we find large differences between the magnifications
+of the four supernova images, even after accounting for uncertainties in the extinction corrections:
+$\Delta m_1 = -3.88^{+0.07}_{-0.06}$, $\Delta m_2 = -2.99^{+0.09}_{-0.08}$, $\Delta m_3 = -2.19^{+0.14}_{-0.15}$
+and $\Delta m_4 = -2.40^{+0.14}_{-0.12}$ mag, discrepant with model predictions suggesting similar
+image brightnesses. A possible explanation for the large differences is gravitational lensing
+by substructures, micro- or millilensing, in addition to the large scale lens causing the image
+separations. We find that the inferred magnification is insensitive to the assumptions about the
+dust properties in the host and lens galaxy. 

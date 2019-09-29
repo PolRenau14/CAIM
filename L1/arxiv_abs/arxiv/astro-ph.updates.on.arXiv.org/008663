@@ -1,0 +1,17 @@
+We present a novel suite of cosmological N-body simulations called the DUSTRAIN-pathfinder, implementing
+simultaneously the effects of an extension to General Relativity in the form of $f(R)$ gravity and
+of a non-negligible fraction of massive neutrinos. We describe the generation of simulated weak
+lensing and cluster counts observables within a past light-cone extracted from these simulations.
+The simulations have been performed by means of a combination of the MG-GADGET code and a particle-based
+implementation of massive neutrinos, while the light-cones have been generated using the MapSim
+pipeline allowing us to compute weak lensing maps through a ray-tracing algorithm for different
+values of the source plane redshift. The mock observables extracted from our simulations will be
+employed for a series of papers focussed on understanding and possibly breaking the well-known
+observational degeneracy between $f(R)$ gravity and massive neutrinos, i.e. the fact that some
+specific combinations of the characteristic parameters for these two phenomena (the $f_{R0}$
+scalar amplitude and the total neutrino mass $\Sigma m_{\nu}$) may result indistinguishable from
+the standard $\mathrm{\Lambda CDM}$ cosmology through several standard observational probes.
+In particular, in the present work we show how a tomographic approach to weak lensing statistics
+could allow - especially for the next generation of wide-field surveys - to disentangle some of the
+models that appear statistically indistinguishable through standard single-redshift weak lensing
+probe. 

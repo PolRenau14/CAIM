@@ -1,0 +1,16 @@
+We consider a multiple-unicast network flow problem of maximizing aggregate user utilities over
+a multi-hop network, subject to link capacity constraints, maximum end-to-end delay constraints,
+and user throughput requirements. A user's utility is an arbitrary function of the achieved throughput
+or the experienced maximum delay. The problem is important for supporting real-time multimedia
+or Cyber-Physical System (CPS) traffic, and it is uniquely challenging due to the need of simultaneously
+considering maximum delay constraints and throughput requirements. We first show that it is NP-complete
+to even construct a feasible solution to our problem. We then develop the first set of polynomial-time
+algorithms in the literature, to our best knowledge, named PASS, to obtain solutions that (i) achieve
+constant or problem-dependent approximation ratios, at the cost of (ii) violating maximum delay
+constraints or throughput requirements up to constant or problem-dependent ratios, under certain
+conditions derived in this paper. We observe that the conditions are satisfied in many popular application
+scenarios, where hence PASS can be applied with strong theoretical performance guarantee. We evaluate
+the empirical performance of PASS in simulations of supporting video-conferencing traffic across
+Amazon EC2 datacenters. Our design leverages a novel understanding between non-convex maximum-delay-aware
+problems and their convex average-delay-aware counterparts, which can be of independent interest
+and suggest a new avenue for solving maximum-delay-aware network optimization problems. 

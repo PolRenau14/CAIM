@@ -1,0 +1,17 @@
+Blockchain offers an innovative approach to storing information, executing transactions, performing
+functions, and establishing trust in an open environment. Many consider blockchain as a technology
+breakthrough for cryptography and cybersecurity, with use cases ranging from globally deployed
+cryptocurrency systems like Bitcoin, to smart contracts, smart grids over the Internet of Things,
+and so forth. Although blockchain has received growing interests in both academia and industry
+in the recent years, the security and privacy of blockchains continue to be at the center of the debate
+when deploying blockchain in different applications. This paper presents a comprehensive overview
+of the security and privacy of blockchain. To facilitate the discussion, we first introduce the
+notion of blockchains and its utility in the context of Bitcoin like online transactions. Then we
+describe the basic security properties that are supported as the essential requirements and building
+blocks for Bitcoin like cryptocurrency systems, followed by presenting the additional security
+and privacy properties that are desired in many blockchain applications. Finally, we review the
+security and privacy techniques for achieving these security properties in blockchain-based
+systems, including representative consensus algorithms, hash chained storage, mixing protocols,
+anonymous signatures, non-interactive zero-knowledge proof, and so forth. We conjecture that
+this survey can help readers to gain an in-depth understanding of the security and privacy of blockchain
+with respect to concept, attributes, techniques and systems. 

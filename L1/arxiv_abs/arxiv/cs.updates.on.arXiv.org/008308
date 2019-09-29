@@ -1,0 +1,16 @@
+This paper introduces a novel heterogenous domain adaptation (HDA) method for hyperspectral image
+classification with a limited amount of labeled samples in both domains. The method is achieved
+in the way of cross-domain collaborative learning (CDCL), which is addressed via cluster canonical
+correlation analysis (C-CCA) and random walker (RW) algorithms. To be specific, the proposed CDCL
+method is an iterative process of three main stages, i.e. twice of RW-based pseudolabeling and cross
+domain learning via C-CCA. Firstly, given the initially labeled target samples as training set
+($\mathbf{TS}$), the RW-based pseudolabeling is employed to update $\mathbf{TS}$ and extract
+target clusters ($\mathbf{TCs}$) by fusing the segmentation results obtained by RW and extended
+RW (ERW) classifiers. Secondly, cross domain learning via C-CCA is applied using labeled source
+samples and $\mathbf{TCs}$. The unlabeled target samples are then classified with the estimated
+probability maps using the model trained in the projected correlation subspace. Thirdly, both
+$\mathbf{TS}$ and estimated probability maps are used for updating $\mathbf{TS}$ again via RW-based
+pseudolabeling. When the iterative process finishes, the result obtained by the ERW classifier
+using the final $\mathbf{TS}$ and estimated probability maps is regarded as the final classification
+map. Experimental results on four real HSIs demonstrate that the proposed method can achieve better
+performance compared with the state-of-the-art HDA and ERW methods. 

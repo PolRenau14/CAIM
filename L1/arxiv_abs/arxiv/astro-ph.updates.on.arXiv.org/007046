@@ -1,0 +1,16 @@
+We present the characterization of 5 new short-period low-mass eclipsing binaries from the WFCAM
+Transit Survey. The analysis was performed by using the photometric WFCAM J-mag data and additional
+low- and intermediate-resolution spectroscopic data to obtain both orbital and physical properties
+of the studied sample. The light curves and the measured radial velocity curves were modeled simultaneously
+with the JKTEBOP code, with Markov chain Monte Carlo simulations for the error estimates. The best-model
+fit have revealed that the investigated detached binaries are in very close orbits, with orbital
+separations of $2.9 \leq a \leq 6.7$ $R_{\odot}$ and short periods of $0.59 \leq P_{\rm orb} \leq
+1.72$ d, approximately. We have derived stellar masses between $0.24$ and $0.72$ $M_{\odot}$ and
+radii ranging from $0.42$ to $0.67$ $R_{\odot}$. The great majority of the LMEBs in our sample has
+an estimated radius far from the predicted values according to evolutionary models. The components
+with derived masses of $M < 0.6$ $M_{\odot}$ present a radius inflation of $\sim$$9\%$ or more. This
+general behavior follows the trend of inflation for partially-radiative stars proposed previously.
+These systems add to the increasing sample of low-mass stellar radii that are not well-reproduced
+by stellar models. They further highlight the need to understand the magnetic activity and physical
+state of small stars. Missions like TESS will provide many such systems to perform high-precision
+radius measurements to tightly constrain low-mass stellar evolution models. 

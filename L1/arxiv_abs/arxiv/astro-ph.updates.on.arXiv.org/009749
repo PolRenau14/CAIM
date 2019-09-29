@@ -1,0 +1,17 @@
+We present a series of simulations in both pure hydrodynamics (HD) and magnetohydrodynamics (MHD)
+exploring the degree to which alignment of disks subjected to external precessional torques (e.g.,
+as in the `Bardeen-Petterson' effect) is dependent upon the disk sound speed c_s. Across the range
+of sound speeds examined, we find that the influence of the sound speed can be encapsulated in a simple
+"lumped-parameter" model proposed by Sorathia et al. (2013a). In this model, alignment fronts
+propagate outward at a speed ~0.2 rOmega_precess(r), where Omega_precess is the local test-particle
+precession frequency. Meanwhile, transonic radial motions transport angular momentum both inward
+and outward at a rate that may be described roughly in terms of an orientation diffusion model with
+diffusion coefficient ~2c_s^2/Omega, for local orbital frequency Omega. The competition between
+the two leads, in isothermal disks, to a stationary position for the alignment front at a radius proportional
+to c_s^(-4/5). For alignment to happen at all, the disk must either be turbulent due to the magnetorotational
+instability in MHD, or, in HD, it must be cool enough for the bending waves driven by disk warp to be
+nonlinear at their launch point. Contrary to long-standing predictions, warp propagation in MHD
+disks is diffusive independent of the parameter c_s/(alpha v_orb$, for orbital speed v_orb and
+ratio of stress to pressure of alpha. In purely HD disks, i.e., those with no internal stresses other
+than bulk viscosity, warmer disks align weakly or not at all; cooler disks align qualitatively similarly
+to MHD disks. 

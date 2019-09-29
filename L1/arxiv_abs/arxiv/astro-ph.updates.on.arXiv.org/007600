@@ -1,0 +1,17 @@
+We present a reanalysis of five transit and eight eclipse observations of the ultra-short period
+super-Earth 55 Cancri e observed using the Spitzer Space Telescope during 2011-2013. We use pixel-level
+decorrelation to derive accurate transit and eclipse depths from the Spitzer data, and we perform
+an extensive error analysis. We focus on determining possible variability in the eclipse data,
+as was reported in Demory et al. 2016a. From the transit data, we determine updated orbital parameters,
+yielding T0 = 2455733.0037 $\pm$ 0.0002, P = 0.7365454 $\pm$ 0.0000003 days, i = 83.5 $\pm$ 1.3 degrees,
+and $R_p$ = 1.89 $\pm$ 0.05 $R_\oplus$. Our transit results are consistent with a constant depth,
+and we conclude that they are not variable. We find a significant amount of variability between the
+eight eclipse observations, and confirm agreement with Demory et al. 2016a through a correlation
+analysis. We convert the eclipse measurements to brightness temperatures, and generate and discuss
+several heuristic models that explain the evolution of the planet's eclipse depth versus time.
+The eclipses are best modeled by a year-to-year variability model, but variability on shorter timescales
+cannot be ruled out. The derived range of brightness temperatures can be achieved by a dark planet
+with inefficient heat redistribution intermittently covered over a large fraction of the sub-stellar
+hemisphere by reflective grains, possibly indicating volcanic activity or cloud variability.
+This time-variable system should be observable with future space missions, both planned (JWST)
+and proposed (i.e. ARIEL). 

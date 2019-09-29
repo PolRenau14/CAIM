@@ -1,0 +1,17 @@
+Reynold's parametricity theory captures the property that parametrically polymorphic functions
+behave uniformly: they produce related results on related instantiations. In dependently-typed
+programming languages, such relations and uniformity proofs can be expressed internally, and
+generated as a program translation. We present a new parametricity translation for a significant
+fragment of Coq. Previous translations of parametrically polymorphic propositions allowed non-uniformity.
+For example, on related instantiations, a function may return propositions that are logically
+inequivalent (e.g. True and False). We show that uniformity of polymorphic propositions is not
+achievable in general. Nevertheless, our translation produces proofs that the two propositions
+are logically equivalent and also that any two proofs of those propositions are related. This is
+achieved at the cost of potentially requiring more assumptions on the instantiations, requiring
+them to be isomorphic in the worst case. Our translation augments the previous one for Coq by carrying
+and compositionally building extra proofs about parametricity relations. It is made easier by
+a new method for translating inductive types and pattern matching. The new method builds upon and
+generalizes previous such translations for dependently-typed programming languages. Using
+reification and reflection, we have implemented our translation as Coq programs. We obtain several
+stronger free theorems applicable to an ongoing compiler-correctness project. Previously, proofs
+of some of these theorems took several hours to finish. 

@@ -1,0 +1,17 @@
+Multicellular organisms consist of cells that interact via elaborate adhesion complexes. Desmosomes
+are membrane-associated adhesion complexes that mechanically tether the cytoskeletal intermediate
+filaments (IFs) between two adjacent cells, creating a network of tough connections in tissues
+such as skin and heart. Desmoplakin (DP) is the key desmosomal protein that binds IFs, and the DP-IF
+association poses a quandary: desmoplakin must stably and tightly bind IFs to maintain the structural
+integrity of the desmosome. Yet, newly synthesized DP must traffick along the cytoskeleton to the
+site of nascent desmosome assembly without 'sticking' to the IF network, implying weak or transient
+DP--IF contacts. Recent work reveals that these contacts are modulated by post-translational
+modifications (PTMs) in DP's C-terminal tail. Using molecular dynamics simulations, we have elucidated
+the structural basis of these PTM-induced effects. Our simulations, nearing 2 microseconds in
+aggregate, indicate that phosphorylation of S2849 induces an 'arginine claw' in desmoplakin's
+C-terminal tail (DPCTT). If a key arginine, R2834, is methylated, the DPCTT preferentially samples
+conformations that are geometrically well-suited as substrates for processive phosphorylation
+by the cognate kinase GSK3. We suggest that DPCTT is a molecular switch that modulates, via its conformational
+dynamics, DP's efficacy as a substrate for GSK3. Finally, we show that the fluctuating DPCTT can
+contact other parts of DP, suggesting a competitive binding mechanism for the modulation of DP--IF
+interactions. 

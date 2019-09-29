@@ -1,0 +1,17 @@
+We apply the periodized stationary phase method to discrete Wigner functions of systems with odd
+prime dimension using results from $p$-adic number theory. We derive the Wigner-Weyl-Moyal (WWM)
+formalism with higher order $\hbar$ corrections representing contextual corrections to non-contextual
+Clifford operations. We apply this formalism to a subset of unitaries that include diagonal gates
+such as the $\frac{\pi}{8}$ gates. We characterize the stationary phase critical points as a quantum
+resource injecting contextuality and show that this resource allows for the replacement of the
+$p^{2t}$ points that represent $t$ magic state Wigner functions on $p$-dimensional qudits by $\le
+p^{t}$ points. We find that the $\frac{\pi}{8}$ gate introduces the smallest higher order $\hbar$
+correction possible, requiring the lowest number of additional critical points compared to the
+Clifford gates. We then establish a relationship between the stabilizer rank of states and the number
+of critical points necessary to treat them in the WWM formalism. This allows us to exploit the stabilizer
+rank decomposition of two qutrit $\frac{\pi}{8}$ gates to develop a classical strong simulation
+of a single qutrit marginal on $t$ qutrit $\frac{\pi}{8}$ gates that are followed by Clifford evolution,
+and show that this only requires calculating $3^{\frac{t}{2}+1}$ critical points corresponding
+to Gauss sums. This outperforms the best alternative qutrit algorithm (based on Wigner negativity
+and scaling as $\sim\hspace{-3pt} 3^{0.8 t}$ for $10^{-2}$ precision) for any number of $\frac{\pi}{8}$
+gates to full precision. 

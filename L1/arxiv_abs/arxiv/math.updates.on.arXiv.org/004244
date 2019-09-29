@@ -1,0 +1,16 @@
+Bayesian inference typically requires the computation of an approximation to the posterior distribution.
+An important requirement for an approximate Bayesian inference algorithm is to output high-accuracy
+posterior mean and uncertainty estimates. Classical Monte Carlo methods, particularly Markov
+Chain Monte Carlo, remain the gold standard for approximate Bayesian inference because they have
+a robust finite-sample theory and reliable convergence diagnostics. However, alternative methods,
+which are more scalable or apply to problems where Markov Chain Monte Carlo cannot be used, lack the
+same finite-data approximation theory and tools for evaluating their accuracy. In this work, we
+develop a flexible new approach to bounding the error of mean and uncertainty estimates of scalable
+inference algorithms. Our strategy is to control the estimation errors in terms of Wasserstein
+distance, then bound the Wasserstein distance via a generalized notion of Fisher distance. Unlike
+computing the Wasserstein distance, which requires access to the normalized posterior distribution,
+the Fisher distance is tractable to compute because it requires access only to the gradient of the
+log posterior density. We demonstrate the usefulness of our Fisher distance approach by deriving
+bounds on the Wasserstein error of the Laplace approximation and Hilbert coresets. We anticipate
+that our approach will be applicable to many other approximate inference methods such as the integrated
+Laplace approximation, variational inference, and approximate Bayesian computation 

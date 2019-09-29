@@ -1,0 +1,16 @@
+In fog-aided cellular systems, content delivery latency can be minimized by jointly optimizing
+edge caching and transmission strategies. In order to account for the cache capacity limitations
+at the Edge Nodes (ENs), transmission generally involves both fronthaul transfer from a cloud processor
+with access to the content library to the ENs, as well as wireless delivery from the ENs to the users.
+In this paper, the resulting problem is studied from an information-theoretic viewpoint by making
+the following practically relevant assumptions: 1) the ENs have multiple antennas; 2) only uncoded
+fractional caching is allowed; 3) the fronthaul links are used to send fractions of contents; and
+4) the ENs are constrained to use one-shot linear precoding on the wireless channel. Assuming offline
+proactive caching and focusing on a high signal-to-noise ratio (SNR) latency metric, the optimal
+information-theoretic performance is investigated under both serial and pipelined fronthaul-edge
+transmission modes. The analysis characterizes the minimum high-SNR latency in terms of Normalized
+Delivery Time (NDT) for worst-case users' demands. The characterization is exact for a subset of
+system parameters, and is generally optimal within a multiplicative factor of 3/2 for the serial
+case and of 2 for the pipelined case. The results bring insights into the optimal interplay between
+edge and cloud processing in fog-aided wireless networks as a function of system resources, including
+the number of antennas at the ENs, the ENs' cache capacity and the fronthaul capacity. 

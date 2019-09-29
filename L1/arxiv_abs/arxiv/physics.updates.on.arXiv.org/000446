@@ -1,0 +1,17 @@
+We derive 15 classes of time-dependent two-state models solvable in terms of the confluent Heun
+functions. These classes extend over all the known families of 3- and 2-parametric models solvable
+in terms of the Gauss hypergeometric and the Kummer confluent hypergeometric functions to more
+general four-parametric classes involving three-parametric detuning modulation functions.
+The classes suggest a variety of families of field configurations possessing useful properties
+not covered by the previously known analytic models. In the case of constant detuning the field configurations
+defined by the derived classes describe excitations of two-state quantum systems by symmetric
+or asymmetric pulses of controllable width and edge-steepness. The particular classes out of the
+derived fifteen that provide constant detuning pulses of finite area are identified and the factors
+controlling the corresponding pulse shapes are discussed in detail. The positions of the pulse
+edges for the case of step-wise edges are determined. We show that the asymmetry and the peak heights
+are mostly defined by two of the three parameters of the detuning modulation function, while the
+pulse width is mainly controlled by the third one, the constant term in the detuning modulation function.
+It is shown that the pulse width diverges as this parameter goes to infinity. Furthermore, it is shown
+that rectangular box pulses, as well as infinitely narrow pulses are possible, and the conditions
+for these to be achieved are obtained. Several examples of such field configurations are mentioned
+and their basic properties are discussed. 

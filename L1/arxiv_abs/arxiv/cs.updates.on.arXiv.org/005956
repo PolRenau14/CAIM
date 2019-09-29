@@ -1,0 +1,17 @@
+Deep-neural-network (DNN) based noise suppression systems yield significant improvements over
+conventional approaches such as spectral subtraction and non-negative matrix factorization,
+but do not generalize well to noise conditions they were not trained for. In comparison to DNNs, humans
+show remarkable noise suppression capabilities that yield successful speech intelligibility
+under various adverse listening conditions and negative signal-to-noise ratios (SNRs). Motivated
+by the excellent human performance, this paper explores whether numerical models that simulate
+human cochlear signal processing can be combined with DNNs to improve the robustness of DNN based
+noise suppression systems. Five cochlear models were coupled to fully-connected and recurrent
+NN-based noise suppression systems and were trained and evaluated for a variety of noise conditions
+using objective metrics: perceptual speech quality (PESQ), segmental SNR and cepstral distance.
+The simulations show that biophysically-inspired cochlear models improve the generalizability
+of DNN-based noise suppression systems for unseen noise and negative SNRs. This approach thus leads
+to robust noise suppression systems that are less sensitive to the noise type and noise level. Because
+cochlear models capture the intrinsic nonlinearities and dynamics of peripheral auditory processing,
+it is shown here that accounting for their deterministic signal processing improves machine hearing
+and avoids overtraining of multi-layer DNNs. We hence conclude that machines hear better when realistic
+cochlear models are used at the input of DNNs. 

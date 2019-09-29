@@ -1,0 +1,16 @@
+One of the biggest setbacks in traditional frequent pattern mining is that overwhelmingly many
+of the discovered patterns are redundant. A prototypical example of such redundancy is a freerider
+pattern where the pattern contains a true pattern and some additional noise events. A technique
+for filtering freerider patterns that has proved to be efficient in ranking itemsets is to use a partition
+model where a pattern is divided into two subpatterns and the observed support is compared to the
+expected support under the assumption that these two subpatterns occur independently. In this
+paper we develop a partition model for episodes, patterns discovered from sequential data. An episode
+is essentially a set of events, with possible restrictions on the order of events. Unlike with itemset
+mining, computing the expected support of an episode requires surprisingly sophisticated methods.
+In order to construct the model, we partition the episode into two subepisodes. We then model how
+likely the events in each subepisode occur close to each other. If this probability is high---which
+is often the case if the subepisode has a high support---then we can expect that when one event from
+a subepisode occurs, then the remaining events occur also close by. This approach increases the
+expected support of the episode, and if this increase explains the observed support, then we can
+deem the episode uninteresting. We demonstrate in our experiments that using the partition model
+can effectively and efficiently reduce the redundancy in episodes. 

@@ -1,0 +1,16 @@
+The stability properties of two- (2D) and three-dimensional (3D) compressible flows over a rectangular
+cavity with length-to-depth ratio of $L/D=6$ is analyzed at a free stream Mach number of $M_\infty=0.6$
+and depth-based Reynolds number of $Re_D=502$. In this study, we closely examine the influence
+of three-dimensionality on the wake-mode that has been reported to exhibit high-amplitude fluctuations
+from the formation and ejection of large-scale spanwise vortices. Direct numerical simulation
+(DNS) and bi-global stability analysis are utilized to study the instability characteristics
+of the wake-mode. Using the bi-global stability analysis with the time-average flow as the base
+state, we capture the global stability properties of the wake-mode at a spanwise wavenumber of $\beta=0$.
+To uncover spanwise effects on the 2D wake-mode, 3D DNS are performed with cavity width-to-depth
+ratio of $W/D=1$ and $2$. We find that the 2D wake-mode is not present in the 3D cavity flow for a wider
+spanwise setting with $W/D=2$, in which spanwise structures are observed near the rear region of
+the cavity. These 3D instabilities are further investigated via bi-global stability analysis
+for spanwise wavelengths of $\lambda/D=0.5-2.0$ to reveal the eigenspectra of the 3D eigenmodes.
+Based on the findings of 2D and 3D global stability analysis, we conclude that the absence of the wake-mode
+in 3D rectangular cavity flows is due to the release of kinetic energy from the spanwise vortices
+to the streamwise vortical structures that develops from the spanwise instabilities. 

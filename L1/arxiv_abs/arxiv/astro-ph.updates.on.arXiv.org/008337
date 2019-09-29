@@ -1,0 +1,16 @@
+We analyze the >4-sigma sources in the most sensitive 100 arcmin^2 area (rms <0.56 mJy) of a SCUBA-2
+850 micron survey of the GOODS-S and present the 75 band 7 ALMA sources (>4.5-sigma) obtained from
+high-resolution interferometric follow-up observations. The SCUBA-2---and hence ALMA---samples
+should be complete to 2.25 mJy. Of the 53 SCUBA-2 sources in this complete sample, only five have no
+ALMA detections, while 13% (68% confidence range 7-19%) have multiple ALMA counterparts. Color-based
+high-redshift dusty galaxy selection techniques find at most 55% of the total ALMA sample. In addition
+to using literature spectroscopic and optical/NIR photometric redshifts, we estimate FIR photometric
+redshifts based on an Arp 220 template. We identify seven z>4 candidates. We see the expected decline
+with redshift of the 4.5 micron and 24 micron to 850 micron flux ratios, confirming these as good diagnostics
+of z>4 candidates. We visually classify 52 ALMA sources, finding 44% (68% confidence range 35-53%)
+to be apparent mergers. We calculate rest-frame 2-8 keV and 8-28 keV luminosities using the 7 Ms Chandra
+X-ray image. Nearly all of the ALMA sources detected at 0.5-2 keV are consistent with a known X-ray
+luminosity to 850 micron flux relation for star-forming galaxies, while most of those detected
+at 2-7 keV are moderate luminosity AGNs that lie just above the 2-7 keV detection threshold. The latter
+largely have substantial obscurations of log N_H = 23-24 cm^-2, but two of the high-redshift candidates
+may even be Compton thick. 

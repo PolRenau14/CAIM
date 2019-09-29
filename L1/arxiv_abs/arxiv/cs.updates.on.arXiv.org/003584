@@ -1,0 +1,16 @@
+Despite years of intensive research in the field of software vulnerabilities discovery, exploits
+are becoming ever more common. Consequently, it is more necessary than ever to choose software configurations
+that minimize systems' exposure surface to these threats. In order to support users in assessing
+the security risks induced by their software configurations and in making informed decisions,
+we introduce M-STAR, a Modular Software Trustworthiness ARchitecture and framework for probabilistically
+assessing the trustworthiness of software systems, based on evidence, such as their vulnerability
+history and source code properties. Integral to M-STAR is a software trustworthiness model, consistent
+with the concept of computational trust. Computational trust models are rooted in Bayesian probability
+and Dempster-Shafer Belief theory, offering mathematical soundness and expressiveness to our
+framework. To evaluate our framework, we instantiate M-STAR for Debian Linux packages, and investigate
+real-world deployment scenarios. In our experiments with real-world data, M-STAR could assess
+the relative trustworthiness of complete software configurations with an error of less than 10%.
+Due to its modular design, our proposed framework is agile, as it can incorporate future advances
+in the field of code analysis and vulnerability prediction. Our results point out that M-STAR can
+be a valuable tool for system administrators, regular users and developers, helping them assess
+and manage risks associated with their software configurations. 

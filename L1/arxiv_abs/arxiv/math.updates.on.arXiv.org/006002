@@ -1,0 +1,17 @@
+In this paper, we present a conservative semi-Lagrangian finite-difference scheme for the BGK
+model. Classical semi-Lagrangian finite difference schemes, coupled with an L-stable treatment
+of the collision term, allow large time steps, for all the range of Knudsen number. Unfortunately,
+however, such schemes are not conservative. There are two main sources of lack of conservation.
+First, when using classical continuous Maxwellian, conservation error is negligible only if velocity
+space is resolved with sufficiently large number of grid points. However, for a small number of grids
+in velocity space such error is not negligible, because the parameters of the Maxwellian do not coincide
+with the discrete moments. Secondly, the non-linear reconstruction used to prevent oscillations
+destroys the translation invariance which is at the basis of the conservation properties of the
+scheme. As a consequence the schemes show a wrong shock speed in the limit of small Knudsen number.
+To treat the first problem and ensure machine precision conservation of mass, momentum and energy
+with a relatively small number of velocity grid points, we replace the continuous Maxwellian with
+the discrete Maxwellian introduced by Mieussens. The second problem is treated by implementing
+a conservative correction procedure based on the flux difference form. In this way we can construct
+a conservative semi-Lagrangian scheme which is Asymptotic Preserving (AP) for the underlying
+Euler limit, as the Knudsen number vanishes. The effectiveness of the proposed scheme is demonstrated
+by extensive numerical tests. 

@@ -1,0 +1,17 @@
+Datasets are often used multiple times and each successive analysis may depend on the outcome of
+previous analyses. Standard techniques for ensuring generalization and statistical validity
+do not account for this adaptive dependence. A recent line of work studies the challenges that arise
+from such adaptive data reuse by considering the problem of answering a sequence of "queries" about
+the data distribution where each query may depend arbitrarily on answers to previous queries. The
+strongest results obtained for this problem rely on differential privacy -- a strong notion of algorithmic
+stability with the important property that it "composes" well when data is reused. However the notion
+is rather strict, as it requires stability under replacement of an arbitrary data element. The simplest
+algorithm is to add Gaussian (or Laplace) noise to distort the empirical answers. However, analysing
+this technique using differential privacy yields suboptimal accuracy guarantees when the queries
+have low variance. Here we propose a relaxed notion of stability that also composes adaptively.
+We demonstrate that a simple and natural algorithm based on adding noise scaled to the standard deviation
+of the query provides our notion of stability. This implies an algorithm that can answer statistical
+queries about the dataset with substantially improved accuracy guarantees for low-variance queries.
+The only previous approach that provides such accuracy guarantees is based on a more involved differentially
+private median-of-means algorithm and its analysis exploits stronger "group" stability of the
+algorithm. 

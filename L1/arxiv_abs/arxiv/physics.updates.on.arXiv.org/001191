@@ -1,0 +1,17 @@
+Ultrasound computed tomography (USCT) holds great promise for breast cancer screening. Waveform
+inversion-based image reconstruction methods account for higher order diffraction effects and
+can produce high-resolution USCT images, but are computationally demanding. Recently, a source
+encoding technique was combined with stochastic gradient descent to greatly reduce image reconstruction
+times. However, this method bundles the stochastic data fidelity term with the deterministic regularization
+term. This limitation can be overcome by replacing stochastic gradient descent (SGD) with a structured
+optimization method, such as the regularized dual averaging (RDA) method, that exploits knowledge
+of the composition of the cost function. In this work, the dual averaging method is combined with
+source encoding techniques to improve the effectiveness of regularization while maintaining
+the reduced reconstruction times afforded by source encoding. It is demonstrated that each iteration
+can be decomposed into a gradient descent step based on the data fidelity term and a proximal update
+step corresponding to the regularization term. Furthermore, the regularization term is never
+explicitly differentiated, allowing non-smooth regularization penalties to be naturally incorporated.
+The wave equation is solved by use of a time-domain method. The effectiveness of this approach is
+demonstrated through computer-simulation and experimental studies. The results suggest that
+the dual averaging method can produce images with less noise and comparable resolution to those
+obtained by use of stochastic gradient descent. 

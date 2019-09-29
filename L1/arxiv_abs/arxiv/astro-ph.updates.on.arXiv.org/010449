@@ -1,0 +1,16 @@
+The Pan-Andromeda Archaeological Survey is a survey of $>400$ square degrees centered on the Andromeda
+(M31) and Triangulum (M33) galaxies that has provided the most extensive panorama of a $L_\star$
+galaxy group to large projected galactocentric radii. Here, we collate and summarise the current
+status of our knowledge of the substructures in the stellar halo of M31, and discuss connections
+between these features. We estimate that the 13 most distinctive substructures were produced by
+at least 5 different accretion events, all in the last 3 or 4 Gyrs. We suggest that a few of the substructures
+furthest from M31 may be shells from a single accretion event. We calculate the luminosities of some
+prominent substructures for which previous estimates were not available, and we estimate the stellar
+mass budget of the outer halo of M31. We revisit the problem of quantifying the properties of a highly
+structured dataset; specifically, we use the OPTICS clustering algorithm to quantify the hierarchical
+structure of M31's stellar halo, and identify three new faint structures. M31's halo, in projection,
+appears to be dominated by two `mega-structures', that can be considered as the two most significant
+branches of a merger tree produced by breaking M31's stellar halo into smaller and smaller structures
+based on the stellar spatial clustering. We conclude that OPTICS is a powerful algorithm that could
+be used in any astronomical application involving the hierarchical clustering of points. The publication
+of this article coincides with the public release of all PAndAS data products. 

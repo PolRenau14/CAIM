@@ -1,0 +1,16 @@
+The Internet of Things (IoT) is envisioned as a global network of connected things enabling ubiquitous
+machine-to-machine (M2M) communication. With estimations of billions of sensors and devices
+to be connected in the coming years, the IoT has been advocated as having a great potential to impact
+the way we live, but also how we work. However, the connectivity aspect in itself only accounts for
+the underlying M2M infrastructure. In order to properly support engineering IoT systems and applications,
+it is key to orchestrate heterogeneous 'things' in a seamless, adaptive and dynamic manner, such
+that the system can exhibit a goal-directed behaviour and take appropriate actions. Yet, this form
+of interaction between things needs to take a user-centric approach and by no means elude the users'
+requirements. To this end, contextualisation is an important feature of the system, allowing it
+to infer user activities and prompt the user with relevant information and interactions even in
+the absence of intentional commands. In this work we propose a role-based model for emergent configurations
+of connected systems as a means to model, manage, and reason about IoT systems including the user's
+interaction with them. We put a special focus on integrating the user perspective in order to guide
+the emergent configurations such that systems goals are aligned with the users' intentions. We
+discuss related scientific and technical challenges and provide several uses cases outlining
+the concept of emergent configurations. 

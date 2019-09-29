@@ -1,0 +1,17 @@
+While powerful techniques exist to accurately account for anharmonicity in vibrational molecular
+spectroscopy, they are computationally very expensive and cannot be routinely employed for large
+species and/or at non- zero vibrational temperatures. Motivated by the study of Polycyclic Aromatic
+Hydrocarbon (PAH) emission in space, we developed a new code, which takes into account all modes
+and can describe all IR transitions including bands becoming active due to resonances as well as
+overtones, combination and difference bands. In this article, we describe the methodology that
+was implemented and discuss how the main difficulties were overcome, so as to keep the problem tractable.
+Benchmarking with high-level calculations was performed on a small molecule. We carried out specific
+convergence tests on two prototypical PAHs, pyrene (C$_{16}$H$_{10}$) and coronene (C$_{24}$H$_{12}$),
+aiming at optimising tunable parameters to achieve both acceptable accuracy and computational
+costs for this class of molecules. We then report the results obtained at 0 K for pyrene and coronene,
+comparing the calculated spectra with available experimental data. The theoretical band positions
+were found to be significantly improved compared to harmonic Density Functional Theory (DFT) calculations.
+The band intensities are in reasonable agreement with experiments, the main limitation being the
+accuracy of the underlying calculations of the quartic force field. This is a first step towards
+calculating moderately high-temperature spectra of PAHs and other similarly rigid molecules
+using Monte Carlo sampling. 

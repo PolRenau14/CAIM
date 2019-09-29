@@ -1,0 +1,17 @@
+One decade ago, Bitcoin was introduced, becoming the first cryptocurrency and establishing the
+concept of "blockchain" as a distributed ledger. As of today, there are many different implementations
+of cryptocurrencies working over a blockchain, with different approaches and philosophies. However,
+many of them share one common feature: they require proof-of-work to support the generation of blocks
+(mining) and, eventually, the generation of money. This proof-of-work scheme often consists in
+the resolution of a cryptography problem, most commonly breaking a hash value, which can only be
+achieved through brute-force. The main drawback of proof-of-work is that it requires ridiculously
+large amounts of energy which do not have any useful outcome beyond supporting the currency. In this
+paper, we present a theoretical proposal that introduces a proof-of-useful-work scheme to support
+a cryptocurrency running over a blockchain, which we named Coin.AI. In this system, the mining scheme
+requires training deep learning models, and a block is only mined when the performance of such model
+exceeds a threshold. The distributed system allows for nodes to verify the models delivered by miners
+in an easy way (certainly much more efficiently than the mining process itself), determining when
+a block is to be generated. Additionally, this paper presents a proof-of-storage scheme for rewarding
+users that provide storage for the deep learning models, as well as a theoretical dissertation on
+how the mechanics of the system could be articulated with the ultimate goal of democratizing access
+to artificial intelligence. 

@@ -1,0 +1,17 @@
+2-field functional integrals (2FFI) are an important class of solution methods for generating
+functions of dissipative processes, including discrete-state stochastic processes, dissipative
+dynamical systems, and decohering quantum densities. The stationary trajectories of these integrals
+describe a conserved current by Liouville's theorem, despite the fact that there is no conserved
+phase space current in the underlying stochastic process. We develop the information geometry
+of generating functions for discrete-state classical stochastic processes in the Doi-Peliti
+2FFI form, showing that the conserved current is a Fisher information between the underlying distribution
+of the process and the tilting weight of the generating function. To give an interpretation to the
+time invertibility implied by current conservation, we use generating functions to represent
+importance sampling protocols, and show that the conserved Fisher information is the differential
+of a sample volume under deformations of the nominal distribution and the likelihood ratio. We derive
+a new pair of dual Riemannian connections respecting the symplectic structure of transport along
+stationary rays that gives rise to Liouville's theorem, and show that dual flatness in the affine
+coordinates of the coherent-state basis captures the special role played by coherent states in
+many 2FFI theories. The covariant convective derivative under time translation correctly represents
+the geometric invariants of generating functions under canonical transformations of the 2FFI
+field variables of integration. 

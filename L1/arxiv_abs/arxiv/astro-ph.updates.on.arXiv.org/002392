@@ -1,0 +1,16 @@
+In the solar system, moons largely exceed planets in number. The Kepler database has been shown to
+be sensitive to exomoon detection down to the mass of Mars, but the first search has been unsuccessful.
+Here, we use a particles-in-cell code to predict the transit of the plasma torus produced by a satellite.
+Despite the small size of a moon, the spatial extent of its plasma torus can be large enough to produce
+substantial transit absorptions. The model is used for the interpretation of Hubble Space Telescope
+early ingress absorptions apparently observed during WASP-12b and HD 189733b UV transits for which
+no consistent explanation exists. For HD 189733b an exomoon transiting $\sim 16$ $R_p$ ahead of
+the planet and loading $\sim 10^{29}$ C II ions/s into space is required to explain the tentative
+early ingress absorption observed for C II. For WASP-12b, a moon transiting $\sim 6$ $R_p$ ahead
+from the planet and ejecting $\sim 10^{28}$ Mg II ions per second is required to explain the NUV early
+ingress absorption feature. Interestingly, both HD 189733b and WASP-12b predicted satellites
+are outside the Hill sphere of their planets, an indication that the moons, if present, were not formed
+in situ but probably captured later. Finally, our simulations show a strong electromagnetic coupling
+between the polar regions of planets and the orbital position of the moons, an expected outcome of
+the unipolar induction DC circuit model. Future observations should test our predictions with
+a potential opportunity to unambiguously detect the first exomoon plasma torus. 

@@ -1,0 +1,16 @@
+We undertake a detailed study of the lowest weight modules for the Hermitian symmetric pair (G,K),
+where G=Sp_4(R) and K is its maximal compact subgroup. In particular, we determine K-types and composition
+series, and write down explicit differential operators that navigate all the highest weight vectors
+of such a module starting from the unique lowest-weight vector. By rewriting these operators in
+classical language, we show that the automorphic forms on G that correspond to the highest weight
+vectors are exactly those that arise from nearly holomorphic vector-valued Siegel modular forms
+of degree 2. Further, by explicating the algebraic structure of the relevant space of n-finite automorphic
+forms, we are able to prove a structure theorem for the space of nearly holomorphic vector-valued
+Siegel modular forms of (arbitrary) weight $det^\ell$ sym^m with respect to an arbitrary congruence
+subgroup of Sp_4(Q). We show that the cuspidal part of this space is the direct sum of subspaces obtained
+by applying explicit differential operators to holomorphic vector-valued cusp forms of weight
+$det^{\ell'} sym^{m'}$ with $(\ell', m')$ varying over a certain set. The structure theorem for
+the space of all modular forms is similar, except that we may now have an additional component coming
+from certain nearly holomorphic forms of weight $det^{3}sym^{m'}$ that cannot be obtained from
+holomorphic forms. As an application of our structure theorem, we prove several arithmetic results
+concerning nearly holomorphic modular forms that improve previously known results in that direction.

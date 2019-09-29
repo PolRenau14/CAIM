@@ -1,0 +1,16 @@
+Fe$_{2}$VAl and Fe$_{2}$TiSn are full Heusler compounds with non-magnetic ground state. The two
+compouds are good thermoelectric materials. PBE and LDA(PW92) are the two most commonly used density
+functionals to study the Heusler compounds. Along with these two well studied exchange-correlation
+functionals, recently developed PBEsol, mBJ and SCAN functionals are employed to study the two
+compounds. Using the five functionals equilibrium lattice parameter and bulk modulus are calculated.
+Obtained values are compared with experimental reports wherever available. Electronic structure
+properties are studied by calculating dispersion curves, total and partial density of states.
+For Fe$_{2}$VAl, band gap of 0.22 eV is obtained from the mBJ potential which is in reasonable agreement
+with experimental value while, for Fe$_{2}$TiSn band gap of 0.68 eV is obtained. Fe$_{2}$VAl is
+predicted to be semimetallic with different values of negative gaps from LDA,PBEsol,PBE and SCAN
+functionals. Whereas, Fe$_{2}$TiSn is found to be semimetallic(semiconducting) from LDA,PBEsol(PBE,SCAN)
+functionals employed calculations. From the dispersion curve effective mass values are also computed
+to see the contribution to the Seebeck coefficient. In Fe$_{2}$TiSn, a flat band is present along
+the $\Gamma$-X direction with calculated value of effective mass $\sim$36 more than the mass of
+electron. The improvements or inadequacies among the functionals in explaining the properties
+of full Heusler alloys for thermoelectric application are thus observed through this study. 

@@ -1,0 +1,16 @@
+In applications of distributed storage systems to modern key-value stores, the stored data is highly
+dynamic due to frequent updates. The multi-version coding problem was formulated to study the cost
+of storing dynamic data in distributed storage systems. Previous work on multi-version coding
+considered a completely decentralized and asynchronous system assuming that the servers are not
+aware of which versions of the data are received by the other servers. In this paper, we relax this
+assumption and study a system where a server may acquire side information of the data versions propagated
+to some other servers based on the network topology. Specifically, we study a storage system with
+$n$ servers over a directed graph that store $\nu$ totally ordered versions of a message. Each server
+receives a subset of these $\nu$ versions. A server is aware of which versions have been received
+by its neighbors in the network graph. We show that the side information can result in a better storage
+cost as compared with the case where there is no side information for some regimes at the expense of
+the additional latency associated with exchanging the side information. Through an information-theoretic
+converse, we identify surprising scenarios where the side information may not help in improving
+the worst-case storage cost beyond the case where servers have no side information. Finally, we
+present a case study over Amazon web services (AWS) that demonstrates the potential cost reductions
+that may be obtained by our constructions. 

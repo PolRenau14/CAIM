@@ -1,0 +1,16 @@
+This paper studies the long-existing idea of adding a nice smooth function to "smooth" a non-differentiable
+objective function in the context of sparse optimization, in particular, the minimization of $||x||_1+1/(2\alpha)||x||_2^2$,
+where $x$ is a vector, as well as the minimization of $||X||_*+1/(2\alpha)||X||_F^2$, where $X$
+is a matrix and $||X||_*$ and $||X||_F$ are the nuclear and Frobenius norms of $X$, respectively.
+We show that they can efficiently recover sparse vectors and low-rank matrices. In particular,
+they enjoy exact and stable recovery guarantees similar to those known for minimizing $||x||_1$
+and $||X||_*$ under the conditions on the sensing operator such as its null-space property, restricted
+isometry property, spherical section property, or RIPless property. To recover a (nearly) sparse
+vector $x^0$, minimizing $||x||_1+1/(2\alpha)||x||_2^2$ returns (nearly) the same solution
+as minimizing $||x||_1$ almost whenever $\alpha\ge 10||x^0||_\infty$. The same relation also
+holds between minimizing $||X||_*+1/(2\alpha)||X||_F^2$ and minimizing $||X||_*$ for recovering
+a (nearly) low-rank matrix $X^0$, if $\alpha\ge 10||X^0||_2$. Furthermore, we show that the linearized
+Bregman algorithm for minimizing $||x||_1+1/(2\alpha)||x||_2^2$ subject to $Ax=b$ enjoys global
+linear convergence as long as a nonzero solution exists, and we give an explicit rate of convergence.
+The convergence property does not require a solution solution or any properties on $A$. To our knowledge,
+this is the best known global convergence result for first-order sparse optimization algorithms.

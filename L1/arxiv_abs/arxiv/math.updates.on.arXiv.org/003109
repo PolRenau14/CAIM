@@ -1,0 +1,16 @@
+The recent breakthrough works [6,8,9] which established the amenability for new classes of groups,
+lead to the following question: is the action $W(\mathbb{Z}^d) \curvearrowright \mathbb{Z}^d$
+extensive-amenable? (Where $W(\mathbb{Z}^d)$ is the {\em wobbling group} of permutations $\sigma:\mathbb{Z}^d
+\to \mathbb{Z}^d$ with bounded range). This is equivalent to asking whether the action $(\mathbb{Z}/2\
+\mathbb{Z})^{(\mathbb{Z}^d)} \rtimes W(\mathbb{Z}^d) \curvearrowright (\mathbb{Z}/2\mathbb{Z})^{(\mathbb{Z}^d)}$
+is amenable. The $d=1$ and $d=2$ and have been settled respectively in [6,8]. By [9], a positive answer
+to this question would imply the amenability of the IET group. In this work, we give a partial answer
+to this question by introducing a natural strengthening of the notion of extensive-amenability
+which we call diffuse-extensive-amenability. Our main result is that for any bounded degree graph
+$X$, the action $W(X)\curvearrowright X$ is diffuse-extensive-amenable if and only if $X$ is recurrent.
+Our proof is based on the construction of suitable stochastic processes $(\tau_t)_{t\geq 0}$ on
+$W(X)\, <\, \mathfrak{S}(\mathbb{Z}^d)$ whose {\em inverted orbits} $$ \bar O_t(x_0) = \{x\in
+X, \exists s\leq t,\, \tau_s(x)=x_0\} = \bigcup_{0\leq s \leq t} \tau_s^{-1}(\{x_0\}) $$ are exponentially
+unlikely to be sub-linear when $X$ is transient. This result leads us to conjecture that the action
+$W(\mathbb{Z}^d) \curvearrowright \mathbb{Z}^d$ is not extensive-amenable when $d\geq 3$ and
+that a different route towards the (non-?)amenability of the IET group may be needed. 

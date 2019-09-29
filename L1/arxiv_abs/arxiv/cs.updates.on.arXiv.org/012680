@@ -1,0 +1,17 @@
+Websites employ third-party ads and tracking services leveraging cookies and JavaScript code,
+to deliver ads and track users' behavior, causing privacy concerns. To limit online tracking and
+block advertisements, several ad-blocking (black) lists have been curated consisting of URLs
+and domains of well-known ads and tracking services. Using Internet Archive's Wayback Machine
+in this paper, we collect a retrospective view of the Web to analyze the evolution of ads and tracking
+services and evaluate the effectiveness of ad-blocking blacklists. We propose metrics to capture
+the efficacy of ad-blocking blacklists to investigate whether these blacklists have been reactive
+or proactive in tackling the online ad and tracking services. We introduce a stability metric to
+measure the temporal changes in ads and tracking domains blocked by ad-blocking blacklists, and
+a diversity metric to measure the ratio of new ads and tracking domains detected. We observe that
+ads and tracking domains in websites change over time, and among the ad-blocking blacklists that
+we investigated, our analysis reveals that some blacklists were more informed with the existence
+of ads and tracking domains, but their rate of change was slower than other blacklists. Our analysis
+also shows that Alexa top 5K websites in the US, Canada, and the UK have the most number of ads and tracking
+domains per website, and have the highest proactive scores. This suggests that ad-blocking blacklists
+are updated by prioritizing ads and tracking domains reported in the popular websites from these
+countries. 

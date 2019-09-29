@@ -1,0 +1,17 @@
+This paper is concerned with a posteriori error bounds for linear transport equations and related
+questions of contriving corresponding adaptive solution strategies in the context of Discontinuous-Petrov-Galerkin
+schemes. After indicating our motivation for this investigation in a wider context the first major
+part of the paper is devoted to the derivation and analysis of a posteriori error bounds that, under
+mild conditions on variable convection fields, are efficient and, modulo a data-oscillation term,
+reliable. In particular, it is shown that these error estimators are computed at a cost that stays
+uniformly proportional to the problem size. The remaining part of the paper is then concerned with
+the question whether typical bulk criteria known from adaptive strategies for elliptic problems
+entail a fixed error reduction rate also in the context of transport equations. This turns out to
+be significantly more difficult than for elliptic problems and at this point we can give a complete
+affirmative answer for a single spatial dimension. For the general multidimensional case we provide
+partial results which we find of interest in their own right. An essential distinction from known
+concepts is that global arguments enter the issue of error reduction. An important ingredient of
+the underlying analysis, which is perhaps interesting in its own right, is to relate the derived
+error indicators to the residuals that naturally arise in related least squares formulations.
+This reveals a close interrelation between both settings regarding error reduction in the context
+of adaptive refinements. 

@@ -1,0 +1,16 @@
+Systems can become misconfigured for a variety of reasons such as operator errors or buggy patches.
+When a misconfiguration is discovered, usually the first order of business is to restore availability,
+often by undoing the misconfiguration. To simplify this task, we propose the Statistical Analysis
+for Identifying Configuration Files (SAIC), which analyzes how the contents of a file changes over
+time to automatically determine which files contain configuration state. In this way, SAIC reduces
+the number of files a user must manually examine during recovery and allows versioning file systems
+to make more efficient use of their versioning storage. The two key insights that enable SAIC to identify
+configuration files are that configuration state must persist across executions of an application
+and that configuration state changes at a slower rate than other types of application state. SAIC
+applies these insights through a set of filters, which eliminate non-persistent files from consideration,
+and a novel similarity metric, which measures how similar a file's versions are to each other. Together,
+these two mechanisms enable SAIC to identify all 72 configuration files out of 2363 versioned files
+from 6 common applications in two user traces, while mistaking only 33 non-configuration files
+as configuration files, which allows a versioning file system to eliminate roughly 66% of non-configuration
+file versions from its logs, thus reducing the number of file versions that a user must try to recover
+from a misconfiguration. 

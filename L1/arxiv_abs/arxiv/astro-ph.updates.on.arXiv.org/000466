@@ -1,0 +1,17 @@
+We have discovered a \sim420d modulation, with associated X-ray dips, in RXTE-ASM/MAXI/Swift-BAT
+archival light-curves of the short-period (3.2h) black-hole X-ray transient, Swift J1753.5-0127.
+This modulation only appeared at the end of a gradual rebrightening, approximately 3 years after
+the initial X-ray outburst in mid-2005. The same periodicity is present in both the 2-20 keV and 15-50
+keV bands, but with a \sim0.1 phase offset (\sim40d). Contemporaneous photometry in the optical
+and near-IR reveals a weaker modulation, but consistent with the X-ray period. There are two substantial
+X-ray dips (very strong in the 15-50 keV band, weaker at lower energies) that are separated by an interval
+equal to the X-ray period. This likely indicates two physically separated emitting regions for
+the hard X-ray and lower energy emission. We interpret this periodicity as a property of the accretion
+disc, most likely a long-term precession, where the disc edge structure and X-ray irradiation is
+responsible for the hard X-ray dips and modulation, although we discuss other possible explanations,
+including Lense-Thirring precession in the inner disc region and spectral state variations. Such
+precession indicates a very high mass ratio LMXB, which even for a \sim10M_sun BH requires a brown
+dwarf donor (\sim0.02M_sun), making Swift J1753.5-0127 a possible analogue of millisecond X-ray
+pulsars.We compare the properties of Swift J1753.5-0127 with other recently discovered short-period
+transients, which are now forming a separate population of high latitude BH transients located
+in the galactic halo. 

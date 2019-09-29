@@ -1,0 +1,16 @@
+The precise knowledge of the positions of space debris objects and in particular of defunct satellites
+is fundamental for satellite operations. Several studies showed that it is possible to improve
+the accuracy of the orbit determination results by fusing different types of observables, i.e.
+classical astrometric positions and range measurements. Particularly promising in the space
+debris field are the ranges provided by a satellite laser ranging system. The factors that limit
+the applicability of the satellite laser ranging (SLR) techniques are the altitude of the target,
+the accuracy of the predicted ephemeris of the target, the energy of the laser pulse, and the laser
+field of view. In this paper we will show a way to overcome the mentioned challenges by using a night-tracking
+camera for the real time correction of the pointing of the SLR system (active tracking), and for the
+simultaneous acquisition of measurements used to improve the orbits and to study the attitude of
+the target. After presenting the basic functionalities, the performance of the night-tracking
+camera, and the procedure to acquire the measurements, we will also show the potential of this tool
+to allow improving orbits in real-time. This study is carried out for defunct or recently decommissioned
+satellites. Only real angular/laser measurements provided by the sensors of the Swiss Optical
+Ground Station and Geodynamics Observatory Zimmerwald (SwissOGS) owned by the Astronomical Institute
+of the University of Bern (AIUB) are used. 

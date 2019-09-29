@@ -1,0 +1,17 @@
+Rapid progress in genomics has enabled a thriving market for `direct-to-consumer' genetic testing,
+whereby people have access to their genetic information without the involvement of a healthcare
+provider. Companies like 23andMe and AncestryDNA, which provide affordable health, genealogy,
+and ancestry reports, have already tested tens of millions of customers. At the same time, alas,
+far-right groups have also taken an interest in genetic testing, using them to attack minorities
+and prove their genetic `purity.' However, the relation between genetic testing and online hate
+has not really been studied by the scientific community. To address this gap, we present a measurement
+study shedding light on how genetic testing is discussed on Web communities in Reddit and 4chan.
+We collect 1.3M comments posted over 27 months using a set of 280 keywords related to genetic testing.
+We then use Latent Dirichlet Allocation, Google's Perspective API, Perceptual Hashing, and word
+embeddings to identify trends, themes, and topics of discussion. Our analysis shows that genetic
+testing is discussed frequently on Reddit and 4chan, and often includes highly toxic language expressed
+through hateful, racist, and misogynistic comments. In particular, on 4chan's politically incorrect
+board (/pol/), content from genetic testing conversations involves several alt-right personalities
+and openly antisemitic memes. Finally, we find that genetic testing appears in a few unexpected
+contexts, and that users seem to build groups ranging from technology enthusiasts to communities
+using it to promote fringe political views. 

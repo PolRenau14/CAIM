@@ -1,0 +1,17 @@
+The increasing number of distributed generators connected to distribution grids requires a reliable
+monitoring of distribution grids. Economic considerations prevent a full observation of distribution
+grids with direct measurements. First approaches using artificial neural networks (ANN) for monitoring
+distribution grids with a limited amount of measurements exist. These approaches, however, are
+limited to static topologies, only estimate voltage magnitudes, do not work properly when confronted
+with a high amount of distributed generation and often yield inaccurate results. These strong limitations
+have prevented a true applicability of ANN for distribution system monitoring. We propose a new
+ANN-based scheme overcoming the limitations of existing approaches. Our scheme can cope with a
+very low amount of measurements, far less than is traditionally required by the state-of-the-art
+weighted least squares state estimation (WLS SE). It can estimate both voltage magnitudes and line
+loadings with high precision and includes different switching states as inputs. Our contribution
+includes a method to generate useful training data by using a scenario generator and a number of hyperparameters
+that define the ANN architecture. Both can be used for different power grids even with the high amount
+of distributed generation. Simulations performed with an elaborate evaluation approach on a real
+and benchmark grid demonstrate that the proposed ANN scheme clearly outperforms state-of-the-art
+ANN schemes and WLS SE under normal operating conditions and different situations such as gross
+measurement errors. 

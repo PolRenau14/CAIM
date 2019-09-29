@@ -1,0 +1,17 @@
+Motivated by the increasing use of online appointment booking platforms, we study how to offer appointment
+slots to customers in order to maximize the total number of slots booked. We develop two models, non-sequential
+offering and sequential offering, to capture different types of interactions between customers
+and the scheduling system. In these two models, the scheduler offers either a single set of appointment
+slots for the arriving customer to choose from, or multiple sets in sequence, respectively. For
+the non-sequential model, we identify a static randomized policy which is asymptotically optimal
+when the system demand and capacity increase simultaneously, and we further show that offering
+all available slots at all times has a constant factor of 2 performance guarantee. For the sequential
+model, we derive a closed-form optimal policy for a large class of instances and develop a simple,
+effective heuristic for those instances without an explicit optimal policy. By comparing these
+two models, our study generates useful operational insights for improving the current appointment
+booking processes. In particular, our analysis reveals an interesting equivalence between the
+sequential offering model and the non-sequential offering model with perfect customer preference
+information. This equivalence allows us to apply sequential offering in a wide range of interactive
+scheduling contexts. Our extensive numerical study shows that sequential offering can significantly
+improve the slot fill rate (6-8% on average and up to 18% in our testing cases) compared to non-sequential
+offering. 

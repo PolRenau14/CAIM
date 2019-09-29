@@ -1,0 +1,16 @@
+Long Short-Term Memory (LSTM) neural network is an enhanced Recurrent Neural Network (RNN) that
+has gained significant attention in recent years. It solved the vanishing and exploding gradient
+problems that a standard RNN has and was successfully applied to a variety of time-series forecasting
+problems. In power systems, distribution feeder long-term load forecast is a critical task many
+electric utility companies perform on an annual basis. The goal of this task is to forecast the load
+change on existing distribution feeders for the next few years. The forecasted results will be used
+as input in long-term system planning studies to determine necessary system upgrades so that the
+distribution system can continue to operate reliably during normal operation and contingences.
+This research proposed a comprehensive hybrid model based on LSTM neural network for this classic
+and important forecasting task. It is not only able to combine the advantages of top-down and bottom-up
+forecasting models but also able to leverage the time-series characteristics of multi-year data.
+This paper firstly explains the concept of LSTM neural network and then discusses the steps of feature
+selection, feature engineering and model establishment in detail. In the end, a real-world application
+example for a large urban grid in West Canada is provided. The results are compared to other models
+such as bottom-up, ARIMA and ANN. The proposed model demonstrates superior performance and great
+practicality for forecasting long-term peak demand for distribution feeders. 

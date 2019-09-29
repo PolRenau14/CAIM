@@ -1,0 +1,16 @@
+We present 1.3 millimeter observations of the debris disk surrounding the HR 8799 multi-planet
+system from the Submillimeter Array to complement archival ALMA observations that spatially filtered
+away the bulk of the emission. The image morphology at $3.8$ arcsecond (150 AU) resolution indicates
+an optically thin circumstellar belt, which we associate with a population of dust-producing planetesimals
+within the debris disk. The interferometric visibilities are fit well by an axisymmetric radial
+power-law model characterized by a broad width, $\Delta R/R\gtrsim 1$. The belt inclination and
+orientation parameters are consistent with the planet orbital parameters within the mutual uncertainties.
+The models constrain the radial location of the inner edge of the belt to $R_\text{in}= 104_{-12}^{+8}$
+AU. In a simple scenario where the chaotic zone of the outermost planet b truncates the planetesimal
+distribution, this inner edge location translates into a constraint on the planet~b mass of $M_\text{pl}
+= 5.8_{-3.1}^{+7.9}$ M$_{\rm Jup}$. This mass estimate is consistent with infrared observations
+of the planet luminosity and standard hot-start evolutionary models, with the uncertainties allowing
+for a range of initial conditions. We also present new 9 millimeter observations of the debris disk
+from the Very Large Array and determine a millimeter spectral index of $2.41\pm0.17$. This value
+is typical of debris disks and indicates a power-law index of the grain size distribution $q=3.27\pm0.10$,
+close to predictions for a classical collisional cascade. 

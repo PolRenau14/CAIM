@@ -1,0 +1,16 @@
+In recent years blockchain has received tremendous attention as a means to provide a distributed,
+secure, auditable, and anonymous framework for the Internet of Things (IoT). In an IoT-based blockchain,
+the communications between IoT devices are stored in the blockchain in the form of transactions.
+Similar to other existing blockchains, IoT users and devices use changeable Public Keys (PKs) as
+their identity in an attempt to remain anonymous. However, recent studies in crytocurrency demonstrated
+that the users can be deanonymized by analyzing the pattern of transactions. In this paper, we study
+the success rate of classifiying IoT devices using the stored transactions in the blockchain which
+potentially may compromise user anonymity. To the best of our knowledge, this paper is the first
+attempt to analyze device classification in blockchain-based IoT. We use a smart home as a representative
+IoT scenario. First, a blockchain is populated according to a real-world smart home traffic dataset.
+We then apply machine learning algorithms on the data stored in the blockchain to analyze the success
+rate of device classification, modeling both an informed and a blind attacker. Our results demonstrate
+success rates over 90% in classifying devices. We propose three timestamp obfuscation methods,
+namely combining multiple packets into a single transaction, merging ledgers of multiple devices,
+and randomly delaying transactions, to reduce the success rate in classifying devices. The proposed
+timestamp obfuscation methods can reduce the classification success rates to as low as 20%. 

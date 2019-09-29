@@ -1,0 +1,16 @@
+The problem of tolerant junta testing is a natural and challenging problem which asks if the property
+of a function having some specified correlation with a $k$-Junta is testable. In this paper we give
+an affirmative answer to this question: We show that given distance parameters $\frac{1}{2} >c_u>c_{\ell}
+\ge 0$, there is a tester which given oracle access to $f:\{-1,1\}^n \rightarrow \{-1,1\}$, with
+query complexity $ 2^k \cdot \mathsf{poly}(k,1/|c_u-c_{\ell}|)$ and distinguishes between
+the following cases: $\mathbf{1.}$ The distance of $f$ from any $k$-junta is at least $c_u$; $\mathbf{2.}$
+There is a $k$-junta $g$ which has distance at most $c_\ell$ from $f$. This is the first non-trivial
+tester (i.e., query complexity is independent of $n$) which works for all $1/2 > c_u > c_\ell \ge 0$.
+The best previously known results by Blais \emph{et~ al.}, required $c_u \ge 16 c_\ell$. In fact,
+with the same query complexity, we accomplish the stronger goal of identifying the most correlated
+$k$-junta, up to permutations of the coordinates. We can further improve the query complexity to
+$\mathsf{poly}(k, 1/|c_u-c_{\ell}|)$ for the (weaker) task of distinguishing between the following
+cases: $\mathbf{1.}$ The distance of $f$ from any $k'$-junta is at least $c_u$. $\mathbf{2.}$ There
+is a $k$-junta $g$ which is at a distance at most $c_\ell$ from $f$. Here $k'=O(k^2/|c_u-c_\ell|)$.
+Our main tools are Fourier analysis based algorithms that simulate oracle access to influential
+coordinates of functions. 

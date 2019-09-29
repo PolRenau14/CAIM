@@ -1,0 +1,16 @@
+We evaluate the potential for current and future cosmic shear measurements from large galaxy surveys
+to constrain the impact of baryonic physics on the matter power spectrum. We do so using a model-independent
+parameterization that describes deviations of the matter power spectrum from the dark-matter-only
+case as a set of principal components that are localized in wavenumber and redshift. We perform forecasts
+for a variety of current and future datasets, and find that at least ~90% of the constraining power
+of these datasets is contained in no more than nine principal components. The constraining power
+of different surveys can be quantified using a figure of merit defined relative to currently available
+surveys. With this metric, we find that the final Dark Energy Survey dataset (DES Y5) and the Hyper
+Suprime Cam Survey will be roughly an order of magnitude more powerful than existing data in constraining
+baryonic effects. Upcoming Stage IV surveys (LSST, Euclid, and WFIRST) will improve upon this by
+a further factor of a few. We show that this conclusion is robust to marginalization over several
+key systematics. The ultimate power of cosmic shear to constrain galaxy formation is dependent
+on understanding systematics in the shear measurements at small (sub-arcminute) scales. If these
+systematics can be sufficiently controlled, cosmic shear measurements from DES Y5 and other future
+surveys have the potential to provide a very clean probe of galaxy formation and to strongly constrain
+a wide range of predictions from modern hydrodynamical simulations. 

@@ -1,0 +1,16 @@
+Advanced deep learning methods have been developed to conduct prostate MR volume segmentation
+in either a 2D or 3D fully convolutional manner. However, 2D methods tend to have limited segmentation
+performance, since large amounts of spatial information of prostate volumes are discarded during
+the slice-by-slice segmentation process; and 3D methods also have room for improvement, since
+they use isotropic kernels to perform 3D convolutions whereas most prostate MR volumes have anisotropic
+spatial resolution. Besides, the fully convolutional structural methods achieve good performance
+for localization issues but neglect the per-voxel classification for segmentation tasks. In this
+paper, we propose a 3D Global Convolutional Adversarial Network (3D GCA-Net) to address efficient
+prostate MR volume segmentation. We first design a 3D ResNet encoder to extract 3D features from
+prostate scans, and then develop the decoder, which is composed of a multi-scale 3D global convolutional
+block and a 3D boundary refinement block, to address the classification and localization issues
+simultaneously for volumetric segmentation. Additionally, we combine the encoder-decoder segmentation
+network with an adversarial network in the training phrase to enforce the contiguity of long-range
+spatial predictions. Throughout the proposed model, we use anisotropic convolutional processing
+for better feature learning on prostate MR scans. We evaluated our 3D GCA-Net model on two public
+prostate MR datasets and achieved state-of-the-art performances. 

@@ -1,0 +1,17 @@
+The last decade has witnessed a swiftly increasing interest in the design and production of novel
+multivalent molecules as powerful alternatives for conventional antibodies in the fight against
+cancer and infectious diseases. However, while it is widely accepted that large-scale flexibility
+($10-100$ nm) and free/constrained dynamics (100 ns $- \mu$s) control the activity of such novel
+molecules, computational strategies at the mesoscale still lag behind experiments in optimizing
+the design of crucial features, such as the binding cooperativity (a.k.a. avidity). In this study,
+we introduced different coarse-grained models of a polymer-linked, two-nanobody composite molecule,
+with the aim of laying down the physical bases of a thorough computational drug design protocol at
+the mesoscale. We show that the calculation of suitable potentials of mean force allows one to apprehend
+the nature, range and strength of the thermodynamic forces that govern the motion of free and wall-tethered
+molecules. Furthermore, we develop a simple computational strategy to quantify the encounter/dissociation
+dynamics between the free end of a wall-tethered molecule and the surface, at the roots of binding
+cooperativity. This procedure allows one to pinpoint the role of internal flexibility and weak
+non-specific interactions on the kinetic constants of the NB-wall encounter and dissociation.
+Finally, we quantify the role and weight of rare events, which are expected to play a major role in
+real-life situations, such as in the immune synapse, where the binding kinetics is likely dominated
+by fluctuations. 

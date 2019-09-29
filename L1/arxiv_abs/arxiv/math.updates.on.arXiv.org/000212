@@ -1,0 +1,16 @@
+We study the convergence of different multigrid schemes for the Helmholtz equation, focusing in
+particular on the choice of the coarse scale operator. Assuming that the coarse scale solutions
+should approximate the true solutions, the coarse level grid must have a minimum number, say $G_c$,
+of points per wavelength. The oscillating nature of the solutions implies the requirement $G_c
+> 2$. However, in examples the requirement can be more like $G_c \gtrsim 8$, in a trade-off involving
+also the amount of damping present and the number of multigrid iterations. We find that the main factor
+affecting $G_c$ is the difference in phase speeds between the coarse, and fine scale operators.
+The 5-point operator in 2-D is our main example. A new coarse scale 9-point operator is designed to
+match its dispersion relation. We then compare dispersion relations and multigrid performance
+of standard multigrid schemes with schemes using the new operator. The required $G_c$ can be reduced
+from about 8 to about 4, while at the same time reducing the damping so that the waves propagate over
+~ 100 wavelengths in the new scheme. In 3-D comparable results are obtained with standard 7 point
+differences and an optimized 15 point coarse grid operator, leading to an order of magnitude reduction
+in the number of unknows for the coarse scale linear system. Matching coarse scale operators can
+easily be constructed for other discretizations. The method is therefore potentially useful for
+a large class of discretized high-frequency Helmholtz equations. 

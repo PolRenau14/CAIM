@@ -1,0 +1,16 @@
+In this paper, we address the problem of power-efficient resource management in Cloud Radio Access
+Networks (C-RANs). Specifically, we consider the case where Remote Radio Heads (RRHs) perform
+data transmission, and signal processing is executed in a virtually centralized Base-Band Units
+(BBUs) pool. Users request to transmit at different time instants; they demand minimum signal-to-noise-plus-interference
+ratio (SINR) guarantees, and their requests must be accommodated within a given deadline. These
+constraints pose significant challenges to the management of C-RANs and, as we will show, considerably
+impact the allocation of processing and radio resources in the network. Accordingly, we analyze
+the power consumption of the C-RAN system, and we formulate the power consumption minimization
+problem as a weighted joint scheduling of processing and power allocation problem for C-RANs with
+minimum SINR and finite horizon constraints. The problem is a Mixed Integer Non-Linear Program
+(MINLP), and we propose an optimal offline solution based on Dynamic Programming (DP). We show that
+the optimal solution is of exponential complexity, thus we propose a sub-optimal greedy online
+algorithm of polynomial complexity. We assess the performance of the two proposed solutions through
+extensive numerical results. Our solution aims to reach an appropriate trade-off between minimizing
+the power consumption and maximizing the percentage of satisfied users. We show that it results
+in power consumption that is only marginally higher than the optimum, at significantly lower complexity.

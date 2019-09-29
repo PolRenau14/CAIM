@@ -1,0 +1,17 @@
+It has been argued that computational thinking should precede computer programming in the course
+of a career in computing. This argument is the basis for the slogan "logic first, syntax later" and
+the development of many cryptic syntax removed programming languages such as Scratch!, Blockly
+and Visual Logic. The goal is to focus on the structuring of the semantic relationships among the
+logical building blocks to yield solutions to computational problems. While this approach is helping
+novice programmers and early learners, the gap between computational thinking and professional
+programming using high level languages such as C++, Python and Java is quite wide. It is wide enough
+for about one third students in first college computer science classes to drop out or fail. In this
+paper, we introduce a new programming platform, called the CodeMapper, in which learners are able
+to build computational logic in independent modules and aggregate them to create complex modules.
+Code{\em Mapper} is an abstract development environment in which rapid visual prototyping of small
+to substantially large systems is possible by combining already developed independent modules
+in logical steps. The challenge we address involves supporting a visual development environment
+in which "annotated code snippets" authored by the masses in social computing sites such as SourceForge,
+StackOverflow or GitHub can also be used as is into prototypes and mapped to real executable programs.
+CodeMapper thus facilitates soft transition from visual programming to syntax driven programming
+without having to practice syntax too heavily. 

@@ -1,0 +1,16 @@
+A single-step process that utilizes acoustophoresis to modulate the electrical properties of
+composites is developed to address the demand for 3-D printing multifunctional materials. Here,
+acoustic fields assemble conductive particles into networks within polymer matrices, whose configuration
+is modulated prior to curing to produce 2-D conductive, 1-D conductive, or insulating materials
+on-demand, all using the same precursor ink. These variously patterned materials, used as electrical
+interconnects, are demonstrated to yield discrete, useful outputs from an electrical circuit.
+Furthermore, patterning efficient percolated networks in this way increases conductivity an
+order of magnitude over conventional dispersed-fiber composites, which rely on inefficient stochastic
+networks, to >5000 S/m bulk conductivity (2.6v% silver-coated fibers; 97% network efficiency).
+Similarly, these efficient networks require an order of magnitude lower particle loading than
+dispersed-fiber composites, improving printability and allowing versatile orthogonal control
+of other properties. As a demonstration of this multifunctional control, conductive elastomeric
+composites made with this method are demonstrated to withstand >500 bending cycles to a radius of
+0.7 mm without losses in conductivity. This technology demonstrates a novel approach to modulating
+material properties via on-the-fly microstructure control to pave the way for 3D printing components
+with embedded electrical circuits or other spatially modulated properties. 

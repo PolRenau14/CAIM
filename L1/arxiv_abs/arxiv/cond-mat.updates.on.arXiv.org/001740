@@ -1,0 +1,17 @@
+This work integrates in-situ neutron diffraction and crystal plasticity finite element modeling
+to study the kinematic stability of retained austenite in high carbon bearing steels. The presence
+of a kinematically metastable retained austenite in bearing steels can significantly affect the
+macro-mechanical and micro-mechanical material response. Mechanical characterization of metastable
+austenite is a critical component in accurately capturing the micro-mechanical behavior under
+typical application loads. Traditional mechanical characterization techniques are unable to
+discretely quantify the micro-mechanical response of the austenite, and as a result, the computational
+predictions rely heavily on trial and error or qualitative descriptions of the austenite phase.
+In order to overcome this, in this present work, we use in-situ neutron diffraction of a uniaxial
+tension test of an A485 Grade 1 bearing steel specimen. The mechanical response determined from
+the neutron diffraction analysis was incorporated into a hybrid crystal plasticity finite element
+model that accounts for the martensite's crystal plasticity and the stress-assisted transformation
+from austenite to martensite in bearing steels. The modeling response was used to estimate the single
+crystal elastic constants of the austenite and martensite phases. The results show that using in-situ
+neutron diffraction coupled with a crystal plasticity model, can successfully predict both the
+micro-mechanical and macro-mechanical responses of bearing steels while accounting for the martensitic
+transformation of the retained austenite. 

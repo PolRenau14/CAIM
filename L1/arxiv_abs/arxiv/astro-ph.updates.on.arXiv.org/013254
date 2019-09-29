@@ -1,0 +1,17 @@
+We explore methods for robust estimation of the 21 cm signal from the Epoch of Reionisation (EoR).
+A Kernel Density Estimator (KDE) is introduced for measuring the spatial temperature fluctuation
+power spectrum from the EoR. The KDE estimates the underlying probability distribution function
+of fluctuations as a function of spatial scale, and contains different systematic biases and errors
+to the typical approach to estimating the fluctuation power spectrum. Extraction of histograms
+of visibilities allows moments analysis to be used to discriminate foregrounds from 21 cm signal
+and thermal noise. We use the information available in the histograms, along with the statistical
+dis-similarity of foregrounds from two independent observing fields, to robustly separate foregrounds
+from cosmological signal, while making no assumptions about the Gaussianity of the signal. Using
+two independent observing fields to robustly discriminate signal from foregrounds is crucial
+for the analysis presented in this paper. We apply the techniques to 13 hours of Murchison Widefield
+Array (MWA) EoR data over two observing fields. We compare the output to that obtained with a comparative
+power spectrum estimation method, and demonstrate the reduced foreground contamination using
+this approach. Using the second moment obtained directly from the KDE distribution functions yields
+a factor of 2-3 improvement in power for k < 0.3hMpc^{-1} compared with a matched delay space power
+estimator, while weighting data by additional statistics does not offer significant improvement
+beyond that available for thermal noise-only weights. 

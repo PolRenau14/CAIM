@@ -1,0 +1,16 @@
+Some systems of nonlinear wave equations admit global solutions for all sufficiently small initial
+data, while others do not. The (classical) null condition guarantees that such a result holds, but
+it is too strong to capture certain systems -- most famously the Einstein equations -- which nevertheless
+admit global solutions for small initial data. The weak null condition has been proposed as a sufficient
+condition for such a result to hold; it takes the form of a condition on a related set of nonlinear ODEs
+known as the "asymptotic system". Previous results in this direction have required certain structural
+conditions on the asymptotic system in addition to the weak null condition. In this work we show that,
+if the solutions to the asymptotic system are bounded (given small initial data), and, in addition,
+if these solutions are stable against rapidly decaying perturbations, then the corresponding
+system of nonlinear wave equations admits global solutions for all sufficiently small initial
+data. This avoids any direct assumptions on the structure of the nonlinear terms. We also give an
+example of a class of systems obeying this condition but not obeying previously identified structural
+conditions. For this class the asymptotic system arises as a generalisation of the "Euler equations"
+for rigid body motion, associated with a left-invariant Hamiltonian flow on a finite dimensional
+Lie group. This work relies heavily on the author's previous work, "The weak null condition and global
+existence using the p-weighted energy method". 

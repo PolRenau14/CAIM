@@ -1,0 +1,16 @@
+Centrality is a fundamental building block in network analysis. Existing centrality measures
+focus on the network topology without considering nodal characteristics. However, this ignorance
+is perilous if the cascade payoff does not grow monotonically with the size of the cascade. In this
+paper, we propose a new centrality measure, Cascade Centrality, which integrates network position,
+the diffusion process, and nodal characteristics. It nests and spans the gap between degree, eigenvector,
+Katz, and diffusion centrality. Interestingly, when $p\lambda_1 > 1$, eigenvector, Katz and diffusion
+centrality all collapse to Cascade Centrality with a scaling factor determined by the distribution
+of eigenvector and the nodal influence vector. Furthermore, the presence of homophily in social
+networks enables the de-noising of real-world observations. Therefore, we propose a unified framework
+to simultaneously learn the actual nodal influence vector and network structure with an iterative
+learning algorithm. Experiments on synthetic and real data show that Cascade Centrality outperforms
+existing centrality measures in generating cascade payoffs. Moreover, with the proposed algorithm,
+the de-noised centrality measure is more correlated with the actual Cascade Centrality than merely
+computing from the observations. Cascade Centrality can capture more complex behaviors and processes
+in the network and has significant implications for theoretical studies in influence maximization
+and practical applications in viral marketing and political campaign. 

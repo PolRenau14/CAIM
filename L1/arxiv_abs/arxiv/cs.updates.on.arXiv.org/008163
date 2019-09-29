@@ -1,0 +1,16 @@
+Ehrhard, Pagani and Tasson proposed a model of probabilistic functional programming in a category
+of normed positive cones and stable measurable cone maps, which can be seen as a coordinate-free
+generalization of probabilistic coherence spaces. However, unlike the case of probabilistic
+coherence spaces, it remained unclear if the model could be refined to a model of classical linear
+logic. In this work we consider a somewhat similar category which gives indeed a coordinate-free
+model of full propositional linear logic with nondegenerate interpretation of additives and sound
+interpretation of exponentials. Objects are dual pairs of normed cones satisfying certain specific
+completeness properties, such as existence of norm-bounded monotone weak limits, and morphisms
+are bounded (adjointable) positive maps. Norms allow us a distinct interpretation of dual additive
+connectives as product and coproduct. Exponential connectives are modelled using real analytic
+functions and distributions that have representations as power series with positive coefficients.
+Unlike the familiar case of probabilistic coherence spaces, there is no reference or need for a preferred
+basis; in this sense the model is invariant. Probabilistic coherence spaces form a full subcategory,
+whose objects, seen as posets, are lattices. Thus we get a model fitting in the tradition of interpreting
+linear logic in a linear algebraic setting, which arguably is free from the drawbacks of its predecessors.
+Relations with constructions of Ehrhard, Pagani and Tasson's work are left for future research.

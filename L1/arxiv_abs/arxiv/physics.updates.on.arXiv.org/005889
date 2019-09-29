@@ -1,0 +1,16 @@
+Earthquakes in seismological catalogs and acoustic emission events in lab experiments can be statistically
+described as a linear Hawkes point process, where the spatio-temporal rate of events is a linear
+superposition of background intensity and the aftershock clusters triggered by preceding activity.
+Traditionally, statistical seismology has interpreted this model as the outcome of an epidemic
+branching process, where one-to-one causal links can be established between mainshocks and aftershocks.
+Declustering techniques have been used to infer the underlying triggering trees and relate their
+topological properties with epidemic branching models. Here, we review how the standard Epidemic
+Type Aftershock Sequence (ETAS) model extends from the Galton-Watson (GW) branching processes
+and bridges two extreme cases: Poisson sampling and scale-free power-law trees. We report the most
+essential topological properties expected in GW epidemic trees: the branching probability, the
+distribution of tree size, the expected family size, and the relation between average leaf-depth
+and tree size. We find that such topological properties depend exclusively on two sampling parameters
+of the standard ETAS model: the average branching ratio $N_b$ and the exponent ratio $\alpha/b$
+determining the branching probability distribution. From these results, one can use the memory-less
+GW as a null-model for empirical triggering processes and assess the validity of the ETAS model to
+reproduce the statistics of natural and artificial catalogs. 

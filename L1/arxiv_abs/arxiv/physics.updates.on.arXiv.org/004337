@@ -1,0 +1,16 @@
+Recent years have witnessed an extraordinary spurt in attention toward the wave manipulating strategies
+revealed by coding metasurfaces as they build up a bridge between the physical and digital worlds.
+Newly, it has been shown that when two different coding patterns responsible for doing separate
+missions are added together based on the superposition theorem, the mixed coding pattern will perform
+both missions at the same time. In this paper, via a semi-analytical procedure, we demonstrate that
+such a theorem is not necessarily valid for all possible functionalities with considering phase-only
+coding distributions and ignoring the element pattern function. By revisiting the addition theorem,
+we introduce the concept of asymmetric spatial power divider (ASPD) with arbitrary power ratio
+levels in which modulating both amplitude and phase of the meta-atoms is inevitable to fully control
+the power intensity pattern of the metasurface. Numerical simulations illustrate that the proposed
+ASPD driven by proper coding sequences can directly generate a desired number of beams with pre-determined
+orientations and power budgets. The phase/amplitude-encoded Pancharatnam-Berry meta-atoms
+realize the required coding pattern in each case and good conformity between simulations and theoretical
+predictions verifies the presented formalism. This work exposes a new opportunity to implement
+spatial power dividers for various applications such as multiple-target radar systems, beamforming
+networks, and multiple-input multiple-output (MIMO) communication. 

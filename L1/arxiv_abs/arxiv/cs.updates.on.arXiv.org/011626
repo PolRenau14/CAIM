@@ -1,0 +1,17 @@
+Game theory provides a well-established framework for the analysis of concurrent and multi-agent
+systems. The basic idea is that concurrent processes (agents) can be understood as corresponding
+to players in a game; plays represent the possible computation runs of the system; and strategies
+define the behaviour of agents. Typically, strategies are modelled as functions from sequences
+of system states to player actions. Analysing a system in such a setting involves computing the set
+of (Nash) equilibria in the concurrent game. However, we show that, with respect to the above model
+of strategies (arguably, the `standard' model in the computer science literature), bisimilarity
+does not preserve the existence of Nash equilibria. Thus, two concurrent games which are behaviourally
+equivalent from a semantic perspective, and which from a logical perspective satisfy the same temporal
+logic formulae, may nevertheless have fundamentally different properties (solutions) from a
+game theoretic perspective. Our aim in this paper is to explore the issues raised by this discovery.
+After illustrating the issue by way of a motivating example, we present three models of strategies
+with respect to which the existence of Nash equilibria is preserved under bisimilarity. We use some
+of these models of strategies to provide new semantic foundations for logics for strategic reasoning,
+and investigate restricted scenarios where bisimilarity can be shown to preserve the existence
+of Nash equilibria with respect to the conventional model of strategies in the computer science
+literature. 

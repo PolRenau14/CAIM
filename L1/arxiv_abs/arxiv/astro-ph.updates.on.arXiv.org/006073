@@ -1,0 +1,16 @@
+The extent to which a magnetosphere protects its planetary atmosphere from stellar wind ablation
+depends upon how well it prevents plasma from entering and how well it traps otherwise escaping plasma.
+We focus on the entering, and provide a simple formalism for estimating upper limits on mass and energy
+capture, the latter of which determines maximum mass loss rates. Our approach quantifies a competition
+between two effects: a sufficiently strong planetary magnetic field deflects incoming plasma,
+but also increases the mass loading cross section when the wind and planetary fields are oriented
+for magnetic reconnection. The rate of mass loading can be larger for a magnetized versus an unmagnetized
+planet even if the rate of energy loading is correspondingly less. We find this to be the case for Earth's
+history since the lunar forming impact-- the likely start of the geodynamo. However, polar focusing
+can increase the local energy flux beyond that without a magnetosphere for a strong enough planetary
+field and weak enough wind, and we find that this may be the case for Earth's future. The future protective
+role of Earth's magnetic field would then depend on its ability to trap outgoing plasma. Generally,
+the competition between increased collection area and reduced inflow speed from a magnetosphere
+is likely essential in determining the net protective role of planetary fields and its importance
+in sustaining habitability. The competing effects may also help explain why current ion loss rates
+from Mars, Venus and Earth are similar. 

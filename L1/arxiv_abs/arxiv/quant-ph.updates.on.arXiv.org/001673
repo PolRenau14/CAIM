@@ -1,0 +1,16 @@
+Secret sharing allows a trusted party (the dealer) to distribute a secret to a group of players, who
+can only access the secret cooperatively. Quantum secret sharing (QSS) protocols could provide
+unconditional security based on fundamental laws in physics. While the general security proof
+has been established recently in an entanglement-based QSS protocol, the tolerable channel loss
+is unfortunately rather small. Here we propose a continuous variable QSS protocol using conventional
+laser sources and homodyne detectors. In this protocol, a Gaussian-modulated coherent state (GMCS)
+prepared by one player passes through the secure stations of the other players sequentially, and
+each of the other players injects a locally prepared, independent GMCS into the circulating optical
+mode. Finally, the dealer measures both the amplitude and phase quadratures of the receiving optical
+mode using double homodyne detectors. Collectively, the players can use their encoded random numbers
+to estimate the measurement results of the dealer and further generate a shared key. Unlike the existing
+single photon based sequential QSS protocol, our scheme is intrinsically immune to Trojan horse
+attacks. Furthermore, the additional loss introduced by each player's system can be extremely
+small, which makes the protocol scalable to a large number of players. We prove the unconditional
+security of the proposed protocol against both eavesdroppers and dishonest players in the presence
+of high channel loss, and discuss various practical issues. 

@@ -1,0 +1,16 @@
+Over the past two decades, many quantum systems have been explored as candidate qubits for quantum
+information processing. Qubits based on nuclear spins enjoy exceptionally long coherence times,
+especially compared to other solid-state platforms. However, this usually comes at the cost of
+slow gate operations and weak interqubit interactions, aspects which have so far prevented the
+development of multi-qubit processors comprised of solid-state nuclear spins. An exception to
+this is the TbPc$_2$ single-molecule magnet, a nuclear spin qubit which features a remarkable combination
+of long-lived coherence and fast electrical control. Despite this promise, it has remained an open
+question how to couple such qubits together to create the entanglement needed for quantum information
+applications. Given the sensitivity of the TbPc$_2$ molecule to electric fields via the hyperfine
+Stark effect, it is natural to consider the possibility of using a superconducting transmission
+line resonator to mediate a long-distance coupling between multiple TbPc$_2$ qubits. We use recent
+experimental results on single-qubit Rabi oscillations to deduce the strength and nature of the
+hyperfine Stark effect, information we then use to estimate the qubit-resonator coupling and to
+design two-qubit entangling gates with fidelities exceeding 99%. Our results suggest that the
+qubit-resonator interaction is near the edge of the strong coupling regime and could potentially
+pass into it with further improvements in device designs and components. 

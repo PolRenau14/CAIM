@@ -1,0 +1,16 @@
+3D content creation is referred to as one of the most fundamental tasks of computer graphics. And
+many 3D modeling algorithms from 2D images or curves have been developed over the past several decades.
+Designers are allowed to align some conceptual images or sketch some suggestive curves, from front,
+side, and top views, and then use them as references in constructing a 3D model automatically or manually.
+However, to the best of our knowledge, no studies have investigated on 3D human body reconstruction
+in a similar manner. In this paper, we propose a deep learning based reconstruction of 3D human body
+shape from 2D orthographic views. A novel CNN-based regression network, with two branches corresponding
+to frontal and lateral views respectively, is designed for estimating 3D human body shape from 2D
+mask images. We train our networks separately to decouple the feature descriptors which encode
+the body parameters from different views, and fuse them to estimate an accurate human body shape.
+In addition, to overcome the shortage of training data required for this purpose, we propose some
+significantly data augmentation schemes for 3D human body shapes, which can be used to promote further
+research on this topic. Extensive experimen- tal results demonstrate that visually realistic
+and accurate reconstructions can be achieved effectively using our algorithm. Requiring only
+binary mask images, our method can help users create their own digital avatars quickly, and also
+make it easy to create digital human body for 3D game, virtual reality, online fashion shopping.

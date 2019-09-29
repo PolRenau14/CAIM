@@ -1,0 +1,16 @@
+Poisson Voronoi tessellations have been used in modeling many types of systems across different
+sciences, from geography and astronomy to telecommunications. The existing literature on the
+statistical properties of Poisson Voronoi cells is vast, however, little is known about the properties
+of Voronoi cells located close to the boundaries of a compact domain. In a domain with boundaries,
+some Voronoi cells would be naturally clipped by the boundary, and the cell area falling inside the
+deployment domain would have different statistical properties as compared to those of non-clipped
+Voronoi cells located in the bulk of the domain. In this paper, we consider the planar Voronoi tessellation
+induced by a homogeneous Poisson point process of intensity $\lambda\!>\!0$ in a quadrant, where
+the two half-axes represent boundaries. We show that the mean cell area is less than $\lambda^{-1}$
+when the seed is located exactly at the boundary, and it can be larger than $\lambda^{-1}$ when the
+seed lies close to the boundary. In addition, we calculate the second moment of cell area at two locations
+for the seed: (i) at the corner of a quadrant, and (ii) at the boundary of the half-plane. We illustrate
+that the two-parameter Gamma distribution, with location-dependent parameters calculated using
+the method of moments, can be of use in approximating the distribution of cell area. As a potential
+application, we use the Gamma approximations to study the degree distribution for secure connectivity
+in wireless sensor networks deployed over a domain with boundaries. 

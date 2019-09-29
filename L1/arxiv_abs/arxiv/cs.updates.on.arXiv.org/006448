@@ -1,0 +1,16 @@
+We consider the problem of distributed secondary frequency regulation in power networks such that
+stability and an optimal power allocation are attained. This is a problem that has been widely studied
+in the literature, and two main control schemes have been proposed, usually referred to as 'primal-dual'
+and 'distributed averaging proportional-integral (DAPI)' respectively. However, each has its
+limitations, with the former requiring knowledge of uncontrollable demand, which can be difficult
+to obtain in real time, and with the existing literature on the latter being based on static models
+for generation and demand. We propose a novel control scheme that overcomes these issues by making
+use of generation measurements in the control policy. In particular, our analysis allows distributed
+stability and optimality guarantees to be deduced with practical measurement requirements and
+permits a broad range of linear generation dynamics, that can be of higher order, to be incorporated
+in the power network. We show how the controller parameters can be selected in a computationally
+efficient way by solving appropriate linear matrix inequalities (LMIs). Furthermore, we demonstrate
+how the proposed analysis applies to several examples of turbine governor models. The practicality
+of our analysis is demonstrated with simulations on the Northeast Power Coordinating Council (NPCC)
+140-bus system that verify that our proposed controller achieves convergence to the nominal frequency
+and an economically optimal power allocation. 

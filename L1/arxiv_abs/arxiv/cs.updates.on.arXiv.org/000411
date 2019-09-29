@@ -1,0 +1,16 @@
+Answer Set Programming (ASP) is a truly-declarative programming paradigm proposed in the area
+of non-monotonic reasoning and logic programming, that has been recently employed in many applications.
+The development of efficient ASP systems is, thus, crucial. Having in mind the task of improving
+the solving methods for ASP, there are two usual ways to reach this goal: $(i)$ extending state-of-the-art
+techniques and ASP solvers, or $(ii)$ designing a new ASP solver from scratch. An alternative to
+these trends is to build on top of state-of-the-art solvers, and to apply machine learning techniques
+for choosing automatically the "best" available solver on a per-instance basis. In this paper we
+pursue this latter direction. We first define a set of cheap-to-compute syntactic features that
+characterize several aspects of ASP programs. Then, we apply classification methods that, given
+the features of the instances in a {\sl training} set and the solvers' performance on these instances,
+inductively learn algorithm selection strategies to be applied to a {\sl test} set. We report the
+results of a number of experiments considering solvers and different training and test sets of instances
+taken from the ones submitted to the "System Track" of the 3rd ASP Competition. Our analysis shows
+that, by applying machine learning techniques to ASP solving, it is possible to obtain very robust
+performance: our approach can solve more instances compared with any solver that entered the 3rd
+ASP Competition. (To appear in Theory and Practice of Logic Programming (TPLP).) 

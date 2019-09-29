@@ -1,0 +1,16 @@
+When exposed to strong shearing, the particles in a crystal will rearrange and ultimately, the crystal
+will break by forming large nonaffine defects. Even for the initial stage of this process, only little
+effort has been devoted to the understanding of the breaking process on the scale of the individual
+particle size for thermalized mixed crystals. Here, we explore the shear-induced breaking for
+an equimolar two-dimensional binary model crystal with a high interaction asymmetry between the
+two different species such that the initial crystal has an intersecting square sublattice of the
+two constituents. Using Brownian dynamics computer simulations, we show that the combination
+of shear and thermal fluctuations leads to a characteristic hierarchical breaking scenario where
+initially, the more strongly coupled particles are thermally distorted, paving the way for the
+weakly coupled particles to escape from their cage. This in turn leads to mobile defects which may
+finally merge, proliferating a cascade of defects, which triggers the final breakage of the crystal.
+This scenario is in marked contrast to the breakage of one-component crystals close to melting.
+Moreover, we explore the orientational dependence of the initial shear direction relative to the
+crystal orientation and compare this to the usual melting scenario without shear. Our results are
+verifiable in real-space experiments of superparamagnetic colloidal mixtures at a pending air-water
+interface in an external magnetic field where the shear can be induced by an external laser field.

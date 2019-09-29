@@ -1,0 +1,17 @@
+In this paper, we consider signal detection algorithms in a multiple-input multiple-output (MIMO)
+decode-forward (DF) relay channel with one source, one relay, and one destination. The existing
+suboptimal near maximum likelihood (NML) detector and the NML with two-level pair-wise error probability
+(NMLw2PEP) detector achieve excellent performance with instantaneous channel state information
+(CSI) of the source-relay (SR) link and with statistical CSI of the SR link, respectively. However,
+the NML detectors require an exponentially increasing complexity as the number of transmit antennas
+increases. Using deep learning algorithms, NML-based detection networks (NMLDNs) are proposed
+with and without the CSI of the SR link at the destination. The NMLDNs detect signals in changing channels
+after a single training using a large number of randomly distributed channels. The detection networks
+require much lower detection complexity than the exhaustive search NML detectors while exhibiting
+good performance. To evaluate the performance, we introduce semidefinite relaxation detectors
+with polynomial complexity based on the NML detectors. Additionally, new linear detectors based
+on the zero gradient of the NML metrics are proposed. Applying various detection algorithms at the
+relay (DetR) and detection algorithms at the destination (DetD), we present some DetR-DetD methods
+in MIMO DF relay channels. An appropriate DetR-DetD method can be employed according to the required
+error probability and detection complexity. The complexity analysis and simulation results validate
+the arguments of this paper. 

@@ -1,0 +1,16 @@
+We present the first three-dimensional (3D), hydrodynamic simulations of the core convection
+zone (CZ) and extended radiative zone spanning from 1% to 90% of the stellar radius of an intermediate
+mass (3 $\mathrm{M}_\odot$) star. This allows us to self-consistently follow the generation of
+internal gravity waves (IGWs) at the convective boundary and their propagation to the surface.
+We find that convection in the core is dominated by plumes. The frequency spectrum in the CZ and that
+of IGW generation is a double power law as seen in previous two-dimensional (2D) simulations. The
+spectrum is significantly flatter than theoretical predictions using excitation through Reynolds
+stresses induced by convective eddies alone. It is compatible with excitation through plume penetration.
+An empirically determined distribution of plume frequencies generally matches the one necessary
+to explain a large part of the observed spectrum. We observe waves propagating in the radiation zone
+and excited standing modes, which can be identified as gravity and fundamental modes. They show
+similar frequencies and node patterns to those predicted by the stellar oscillation code GYRE.
+The continuous part of the spectrum fulfills the IGW dispersion relation. A spectrum of tangential
+velocity and temperature fluctuations close to the surface is extracted, which are directly related
+to observable brightness variations in stars. Unlike 2D simulations we do not see the high frequencies
+associated with wave breaking, likely because these 3D simulations are more heavily damped. 

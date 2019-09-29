@@ -1,0 +1,16 @@
+We analyze the long-term lightcurve of 3C 454.3 observed with Fermi/LAT and investigate its relation
+to the flux in the radio, optical, and X-ray bands. By fitting the 1-day binned GeV lightcurve with
+multiple Gaussian function (MGF), we propose that the typical variability timescale in the GeV
+band is 1--10 days. The GeV flux variation is accompanied by the spectral variation characterized
+as flux-tracking, i.e., "harder when brighter". The GeV flux is correlated with the optical and
+X-ray fluxes, and a weak correlation between gamma-ray flux and radio flux is also observed. The
+gamma-ray flux is not correlated with the optical linear polarization degree for the global lightcurves,
+but they show a correlation for the lightcurves before MJD 56000. The power density spectrum of the
+global lightcurve shows an obvious turnover at ~7.7 days, which may indicate a typical variability
+timescale of 3C 454.3 in the gamma-ray band. This is also consistent with the derived timescales
+by fitting the global lightcurve with MGF. The spectral evolution and an increase of the optical
+linear polarization degree along with the increase of the gamma-ray flux may indicate that the radiation
+particles are accelerated and the magnetic field is ordered by the shock processes during the outbursts.
+In addition, the nature of 3C 454.3 may be consistent with the self-organized criticality system,
+similar to Sagittarius A, and thus the outbursts are from plasmoid ejections driven by magnetic
+reconnection. This may further support the idea that the jet radiation regions are magnetized.

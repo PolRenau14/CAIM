@@ -1,0 +1,17 @@
+The Fermi-Pasta-Ulam (FPU) one-dimensional Hamiltonian includes a quartic term which guarantees
+ergodicity of the system in the thermodynamic limit. Consistently, the Boltzmann factor $P(\epsilon)
+\sim e^{-\beta \epsilon}$ describes its equilibrium distribution of one-body energies, and its
+velocity distribution is Maxwellian, i.e., $P(v) \sim e^{- \beta v^2/2}$. We consider here a generalized
+system where the quartic coupling constant between sites decays as $1/d_{ij}^{\alpha}$ $(\alpha
+\ge 0; d_{ij} = 1,2,\dots)$. Through {\it first-principle} molecular dynamics we demonstrate
+that, for large $\alpha$ (above $\alpha \simeq 1$), i.e., short-range interactions, Boltzmann
+statistics (based on the {\it additive} entropic functional $S_B[P(z)]=-k \int dz P(z) \ln P(z)$)
+is verified. However, for small values of $\alpha$ (below $\alpha \simeq 1$), i.e., long-range
+interactions, Boltzmann statistics dramatically fails and is replaced by q-statistics (based
+on the {\it nonadditive} entropic functional $S_q[P(z)]=k (1-\int dz [P(z)]^q)/(q-1)$, with
+$S_1 = S_B$). Indeed, the one-body energy distribution is q-exponential, $P(\epsilon) \sim e_{q_{\epsilon}}^{-\beta_{\epsilon}
+\epsilon} \equiv [1+(q_{\epsilon} - 1) \beta_{\epsilon}{\epsilon}]^{-1/(q_{\epsilon}-1)}$
+with $q_{\epsilon} > 1$, and its velocity distribution is given by $P(v) \sim e_{q_v}^{ - \beta_v
+v^2/2}$ with $q_v > 1$. Moreover, within small error bars, we verify $q_{\epsilon} = q_v = q$, which
+decreases from an extrapolated value q $\simeq$ 5/3 to q=1 when $\alpha$ increases from zero to $\alpha
+\simeq 1$, and remains q = 1 thereafter. 

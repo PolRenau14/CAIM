@@ -1,0 +1,16 @@
+We present a bijective algorithm with which an arbitrary permutation decomposes canonically into
+elementary blocks which we call families, which are sets with a specified number of ascents and descents.
+We show that families, arranged in an arbitrary order in a sequence, are in bijection with permutations.
+The permutation decomposes canonically, by inserting parentheses, into a tree having as nodes
+a class of permutations which we call primitive. Primitive permutations can be assembled from very
+simple data. The data for the trees into which a permutation decomposes can be written in a form similar
+to the decimal classification of a library. We axiomatize that data. It has a structure very different
+from the permutation which it encodes, with shuffles and pairings instead of reorderings. These
+structures are similar to the fundamental processes in quantum field theory. Our main bijective
+structure algorithm gives explicit, additive multinomial formulae for the number of permutations
+with given sets of elements under and over the diagonal, or with given ascent and descent values.
+The multinomial expressions obtained this way give a new class of bicolored set statistics, between
+set partitions and set compositions, called shifted multinomials. These provide for the first
+time additive multinomial expressions for Eulerian numbers and derangements, as part of a sequence
+of new combinatorial objects. These multinomial expressions satisfy inductive relations involving
+only immediate neighbors, similar to the relations satisfied by the Eulerian numbers. 

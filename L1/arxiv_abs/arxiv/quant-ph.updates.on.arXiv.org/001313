@@ -1,0 +1,17 @@
+Noisy, intermediate-scale quantum (NISQ) systems are expected to have a few hundred qubits, minimal
+or no error correction, limited connectivity and limits on the number of gates that can be performed
+within the short coherence window of the machine. The past decade's research on quantum programming
+languages and compilers is directed towards large systems with thousands of qubits. For near term
+quantum systems, it is crucial to design tool flows which make efficient use of the hardware resources
+without sacrificing the ease and portability of a high-level programming environment. In this
+paper, we present a compiler for the Scaffold quantum programming language in which aggressive
+optimization specifically targets NISQ machines with hundreds of qubits. Our compiler extracts
+gates from a Scaffold program, and formulates a constrained optimization problem which considers
+both program characteristics and machine constraints. Using the Z3 SMT solver, the compiler maps
+program qubits to hardware qubits, schedules gates, and inserts CNOT routing operations while
+optimizing the overall execution time. The output of the optimization is used to produce target
+code in the OpenQASM language, which can be executed on existing quantum hardware such as the 16-qubit
+IBM machine. Using real and synthetic benchmarks, we show that it is feasible to synthesize near-optimal
+compiled code for current and small NISQ systems. For large programs and machine sizes, the SMT optimization
+approach can be used to synthesize compiled code that is guaranteed to finish within the coherence
+window of the machine. 

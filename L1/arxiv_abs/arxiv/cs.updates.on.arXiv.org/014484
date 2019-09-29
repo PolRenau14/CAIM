@@ -1,0 +1,16 @@
+An origami extrusion is a folding of a 3D object in the middle of a flat piece of paper, using 3D gadgets
+which create faces with solid angles. Our main concern is to make origami extrusions of polyhedrons
+using 3D gadgets with simple outgoing pleats, where a simple pleat is a pair of a mountain fold and
+a valley fold which are parallel to each other. In this paper we present a new type of 3D gadgets with
+simple outgoing pleats in origami extrusions and their construction. Our 3D gadgets are downward
+compatible with the conventional pyramid-supported gadgets developed by Calros Natan as a generalization
+of the cube gadget, in the sense that in most cases we can replace the conventional gadgets with the
+new ones with the same outgoing pleats while the converse is not always possible. We can also change
+angles of the outgoing pleats under certain conditions. Unlike the conventional pyramid-supported
+3D gadgets, the new ones have flat back sides above the ambient paper, and thus we can make flat-foldable
+origami extrusions. Furthermore, since our new 3D gadgets are less interfering with adjacent gadgets
+than the conventional ones, we can use wider pleats at one time to make the extrusion higher. For example,
+we prove that the maximal height of the prism of any convex polygon (resp. any triangle) that can be
+extruded with our new gadgets is more than 4/3 times (resp. $\sqrt{2}$ times) of that with the conventional
+ones. We also present explicit constructions of division/repetition and negative versions of
+the new 3D gadgets. 

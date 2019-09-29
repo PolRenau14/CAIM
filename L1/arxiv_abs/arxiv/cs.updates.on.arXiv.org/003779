@@ -1,0 +1,16 @@
+Testing whether a set $\mathbf{f}$ of polynomials has an algebraic dependence is a basic problem
+with several applications. The polynomials are given as algebraic circuits. Algebraic independence
+testing question is wide open over finite fields (Dvir, Gabizon, Wigderson, FOCS'07). The best
+complexity known is NP$^{\#\rm P}$ (Mittmann, Saxena, Scheiblechner, Trans.AMS'14). In this
+work we put the problem in AM $\cap$ coAM. In particular, dependence testing is unlikely to be NP-hard
+and joins the league of problems of "intermediate" complexity, eg. graph isomorphism & integer
+factoring. Our proof method is algebro-geometric-- estimating the size of the image/preimage
+of the polynomial map $\mathbf{f}$ over the finite field. A gap in this size is utilized in the AM protocols.
+Next, we study the open question of testing whether every annihilator of $\mathbf{f}$ has zero constant
+term (Kayal, CCC'09). We give a geometric characterization using Zariski closure of the image of
+$\mathbf{f}$; introducing a new problem called approximate polynomials satisfiability (APS).
+We show that APS is NP-hard and, using projective algebraic-geometry ideas, we put APS in PSPACE
+(prior best was EXPSPACE via Grobner basis computation). As an unexpected application of this to
+approximative complexity theory we get-- Over any field, hitting-set for $\overline{\rm VP}$
+can be designed in PSPACE. This solves an open problem posed in (Mulmuley, FOCS'12, J.AMS 2017);
+greatly mitigating the GCT Chasm (exponentially in terms of space complexity). 

@@ -1,0 +1,16 @@
+The shot-noise unit in continuous-variable quantum key distribution plays an important and fundamental
+role in experimental implementation as it is used as a normalization parameter that contribute
+to perform security analysis and distill the key information. However, the traditional calibration
+procedure and detector model can not cover all system noise in practical application, which will
+result in some loopholes and influence the practical security. What's more, the traditional procedure
+is also rather complicated and has difficulty in compatible with automatic operating system. In
+this paper we propose a calibration model based on the proposed trusted detector model, which could
+naturally close the loopholes in practical application. It can help identify the shot-noise unit
+in only one step, which can not only effectively simplify the evaluation process but also reduce
+the statistical fluctuation, while two steps are needed in traditional method. We prove its feasibility
+and derive the complete version of the corresponding entanglement-based model. Detailed security
+analysis against arbitrary collective attacks and numerous simulation results in both the asymptotic
+limit regime and the finite-size regime are provided. A proof-of-principle experiment has been
+implemented and the results indicate that the one-time-calibration model can be employed as a powerful
+substitution to calibrate the shot-noise unit. Our method paves the way for the deployment of continuous-variable
+quantum key distribution with real time calibration and automatic operation. 

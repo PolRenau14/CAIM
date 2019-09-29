@@ -1,0 +1,16 @@
+We study the theoretical foundations for the pressure shifts in high-precision atomic beam spectrosopy
+of hydrogen, with a particular emphasis on transitions involving higher excited P states. In particular,
+the long-range interaction of an excited hydrogen atom in a 4P state with a ground-state and metastable
+hydrogen atom is studied, with a full resolution of the hyperfine structure. It is found that the
+full inclusion of the 4P_1/2 and 4P_3/2 manifolds becomes necessary in order to obtain reliable
+theoretical predictions, because the 1S ground state hyperfine frequency is commensurate with
+the 4P fine-structure splitting. An even more complex problem is encountered in the case of the 4P-2S
+interaction, where the inclusion of quasi-degenerate 4S-2P_1/2 state becomes necessary in view
+of the dipole couplings induced by the van der Waals Hamiltonian. Matrices of dimension up to 40 have
+to be treated despite all efforts to reduce the problem to irreducible submanifolds within the quasi-degenerate
+basis. We focus on the phenomenologically important second-order van der Waals shifts, proportional
+to 1/R^6 where R is the interatomic distance, and obtain results with full resolution of the hyperfine
+structure. The magnitude of van der Waals coefficients for hydrogen atom-atom collisions involving
+excited P states is drastically enhanced due to energetic quasi-degeneracy; we find no such enhancement
+for atom-molecule collisions involving atomic nP states, even if the complex molecular spectrum
+involving ro-vibrational levels requires a deeper analysis. 

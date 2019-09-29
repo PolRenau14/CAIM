@@ -1,0 +1,16 @@
+Variational methods are widely applied to ill-posed inverse problems for they have the ability
+to embed prior knowledge about the solution. However, the level of performance of these methods
+significantly depends on a set of parameters, which can be estimated through computationally expensive
+and time-consuming methods. In contrast, deep learning offers very generic and efficient architectures,
+at the expense of explainability, since it is often used as a black-box, without any fine control
+over its output. Deep unfolding provides a convenient approach to combine variational-based and
+deep learning approaches. Starting from a variational formulation for image restoration, we develop
+iRestNet, a neural network architecture obtained by unfolding a proximal interior point algorithm.
+Hard constraints, encoding desirable properties for the restored image, are incorporated into
+the network thanks to a logarithmic barrier, while the barrier parameter, the stepsize, and the
+penalization weight are learned by the network. We derive explicit expressions for the gradient
+of the proximity operator for various choices of constraints, which allows training iRestNet with
+gradient descent and backpropagation. In addition, we provide theoretical results regarding
+the stability of the network for a common inverse problem example. Numerical experiments on image
+deblurring problems show that the proposed approach compares favorably with both state-of-the-art
+variational and machine learning methods in terms of image quality. 

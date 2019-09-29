@@ -1,0 +1,16 @@
+Model predictive control (MPC) has become one of the well-established modern control methods for
+three-phase inverters with an output LC filter, where a high-quality voltage with low total harmonic
+distortion (THD) is needed. Though it is an intuitive controller easy to understand and implement,
+it has the significant disadvantage of requiring a large number of online calculations for solving
+the optimization problem. On the other hand, the application of model-free approaches such as artificial
+neural network-based (ANN-based) approaches is currently growing rapidly in the area of power
+electronics and drives. This paper presents a new control scheme for a two-level converter based
+on combining MPC with feed-forward ANN, with the aim of getting lower THD and improving the steady
+and dynamic performance of the system for different types of loads. First, MPC is used, as an expert,
+in the training phase to generate data required for training the proposed neural network. Then,
+once the neural network is fine-tuned, it can be successfully used online for voltage tracking purpose,
+without the need of using MPC. The proposed ANN-based control strategy is validated through simulation,
+using MATLAB/Simulink tools, taking into account different loads conditions. Moreover, the performance
+of the ANN-based controller is evaluated, on several samples of linear and non-linear loads under
+various operating conditions, and compared to that of MPC, demonstrating the excellent steady-state
+and dynamic performance of the proposed ANN-based control strategy. 

@@ -1,0 +1,16 @@
+We present and study the largest and the most comprehensive catalog of microlensing events ever
+constructed. The sample of standard microlensing events comprises 3718 unique events from years
+2001--2009, with 1410 not detected before in real-time by the Early Warning System of the Optical
+Gravitational Lensing Experiment (OGLE). The search pipeline makes use of Machine Learning algorithms
+in order to help find rare phenomena among 150 million objects and derive the detection efficiency.
+Applications of the catalog can be numerous, from analyzing individual events to large statistical
+studies for the Galactic mass and kinematics distributions and planetary abundances. We derive
+the maps of the mean Einstein ring crossing time of events spanning 31 sq. deg. toward of the Galactic
+Center and compare the observed distributions with the most recent models. We find good agreement
+within the observed region and we see the signature of the tilt of the bar in the microlensing data.
+However, the asymmetry of the mean time-scales seems to rise more steeply than predictions, indicating
+either a somewhat different orientation of the bar or a larger bar width. The map for the events with
+sources in the Galactic bulge shows a dependence of the mean time-scale on the Galactic latitude,
+signaling an increasing contribution from disk lenses closer to the plane, related with the height
+of the disk. Our data present a perfect set for comparing and enhancing new models of the central parts
+of the Milky Way and creating the 3D picture of the Galaxy. 

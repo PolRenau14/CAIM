@@ -1,0 +1,17 @@
+Observations of exoplanet transit spectra are essential to understanding the physics and chemistry
+of distant worlds. The effects of opacity sources and many physical processes combine to set the
+shape of a transit spectrum. Two such key processes - refraction and cloud and/or haze forward scattering
+- have seen substantial recent study. However, models of these processes are typically complex,
+which prevents their incorporation into observational analyses and standard transit spectrum
+tools. In this work, we develop analytic expressions that allow for the efficient parameterization
+of forward scattering and refraction effects in transit spectra. We derive an effective slant optical
+depth that includes a correction for forward scattered light, and present an analytic form of this
+correction. We validate our correction against a full-physics transit spectrum model that includes
+scattering, and we explore the extent to which the omission of forward scattering effects may bias
+models. Also, we verify a common analytic expression for the location of a refractive boundary,
+which we express in terms of the maximum pressure probed in a transit spectrum. This expression is
+designed to be easily incorporated into existing tools, and we discuss how the detection of a refractive
+boundary could help indicate the background atmospheric composition by constraining the bulk
+refractivity of the atmosphere. Finally, we show that opacity from Rayleigh scattering and collision
+induced absorption will outweigh the effects of refraction for Jupiter-like atmospheres whose
+equilibrium temperatures are above 400-500 K. 

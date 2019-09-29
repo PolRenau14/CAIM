@@ -1,0 +1,16 @@
+Rhino populations are at a critical level due to the demand for rhino horn and the subsequent poaching.
+Wild life managers attempt to secure rhinos with approaches such as devaluing the horn. The most
+common strategy of devaluing horns is dehorning. Game theory has been used before to examine the
+interaction of poachers and wild life managers. A manager can either `dehorn' their rhinos or leave
+the horn attached. Poachers may chose to to behave `selectively' or `indiscriminately'. The approach
+described in this paper builds on this previous work and investigates the interactions between
+the poachers. Using evolutionary game theory, we determine which strategy is preferred by a poacher
+in various different populations of poachers. The purpose of this work is to discover whether conditions
+which encourage the poachers to behave selectively exist, that is, they only kill those rhinos with
+full horns. Notwithstanding, the analytical results prove that poachers will never adopt a selective
+strategy as long as there is gain from a partial horn. Additionally, poachers behaving indiscriminately
+is stable and robust. However, the model is adapted further to include a disincentive factor, which
+may represent factors such as harsher punishment, or lower demand for horn. With a disincentive,
+poachers can be encouraged to behave selectively, but only when there are few devalued rhinos. This
+paper aims to contribute to the necessary research needed for informed discussion about the lively
+debate on legalising rhino horn trade. 

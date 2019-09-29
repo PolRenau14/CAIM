@@ -1,0 +1,16 @@
+Quantum error correction was invented to allow for fault-tolerant quantum computation. Topological
+ordered systems turned out to give a natural physical realization of quantum error correcting codes
+(QECC) in their grounspaces. More recently, in the context of the AdS/CFT correspondence, it has
+been argued that eigenstates of CFTs with a holographic dual should also form QECCs. These two examples
+lead to the question of how generally do eigenstates of many-body models form quantum codes. In this
+work we establish new connections between quantum chaos and translation-invariance in many-body
+spin systems, on one hand, and approximate quantum error correcting codes (AQECC), on the other
+hand. We first observe that quantum chaotic systems exhibiting the Eigenstate Thermalization
+Hypothesis (ETH) have eigenstates forming quantum error-correcting codes. Then we show that AQECC
+can be obtained probabilistically from the spectrum of every translation-invariant spin chains,
+even for integrable models, by taking translation-invariant energy eigenstates. Applying this
+result to 1D classical systems, we show that local symmetries can be used to construct parent Hamiltonians
+which embed these codes into the low-energy subspace of gapless 1D spin chains. As explicit examples
+we obtain local AQECC in the ground space of the 1D ferromagnetic Heisenberg model and the Motzkin
+spin chain model with periodic boundary conditions, thereby yielding non-stabilizer codes in
+the ground space and low energy subspace of physically plausible 1D gapless models. 

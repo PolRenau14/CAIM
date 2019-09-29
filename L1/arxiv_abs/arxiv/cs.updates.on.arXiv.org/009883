@@ -1,0 +1,17 @@
+Cross-project defect prediction (CPDP) aims to predict defects of projects lacking training data
+by using prediction models trained on historical defect data from other projects. However, since
+the distribution differences between datasets from different projects, it is still a challenge
+to build high-quality CPDP models. Unfortunately, class imbalanced nature of software defect
+datasets further increases the difficulty. In this paper, we propose a transferlearning oriented
+minority over-sampling technique (TOMO) based feature weighting transfer naive Bayes (FWTNB)
+approach (TOMOFWTNB) for CPDP by considering both classimbalance and feature importance problems.
+Differing from traditional over-sampling techniques, TOMO not only can balance the data but reduce
+the distribution difference. And then FWTNB is used to further increase the similarity of two distributions.
+Experiments are performed on 11 public defect datasets. The experimental results show that (1)
+TOMO improves the average G-Measure by 23.7\%$\sim$41.8\%, and the average MCC by 54.2\%$\sim$77.8\%.
+(2) feature weighting (FW) strategy improves the average G-Measure by 11\%, and the average MCC
+by 29.2\%. (3) TOMOFWTNB improves the average G-Measure value by at least 27.8\%, and the average
+MCC value by at least 71.5\%, compared with existing state-of-theart CPDP approaches. It can be
+concluded that (1) TOMO is very effective for addressing class-imbalance problem in CPDP scenario;
+(2) our FW strategy is helpful for CPDP; (3) TOMOFWTNB outperforms previous state-of-the-art CPDP
+approaches. 

@@ -1,0 +1,17 @@
+Early time series classification (eTSC) is the problem of classifying a time series after as few
+measurements as possible with the highest possible accuracy. The most critical issue of any eTSC
+method is to decide when enough data of a time series has been seen to take a decision: Waiting for more
+data points usually makes the classification problem easier but delays the time in which a classification
+is made; in contrast, earlier classification has to cope with less input data, often leading to inferior
+accuracy. The state-of-the-art eTSC methods compute a fixed optimal decision time assuming that
+every times series has the same defined start time (like turning on a machine). However, in many real-life
+applications measurements start at arbitrary times (like measuring heartbeats of a patient),
+implying that the best time for taking a decision varies heavily between time series. We present
+TEASER, a novel algorithm that models eTSC as a two two-tier classification problem: In the first
+tier, a classifier periodically assesses the incoming time series to compute class probabilities.
+However, these class probabilities are only used as output label if a second-tier classifier decides
+that the predicted label is reliable enough, which can happen after a different number of measurements.
+In an evaluation using 45 benchmark datasets, TEASER is two to three times earlier at predictions
+than its competitors while reaching the same or an even higher classification accuracy. We further
+show TEASER's superior performance using real-life use cases, namely energy monitoring, and gait
+detection. 

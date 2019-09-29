@@ -1,0 +1,16 @@
+Spintronic neurons which emit sharp voltage spikes are required for the realization of hardware
+neural networks enabling fast data processing with low-power consumption. In many neuroscience
+and computer science models, neurons are abstracted as non-linear oscillators. Magnetic nano-oscillators
+called spin-torque nano-oscillators are interesting candidates for imitating neurons at nanoscale.
+These oscillators, however, emit sinusoidal waveforms without spiking while biological neurons
+are relaxation oscillators that emit sharp voltage spikes. Here we propose a simple way to imitate
+neuron spiking in high-magnetoresistance nanoscale spin valves where both magnetic layers are
+free and thin enough to be switched by spin torque. Our numerical-simulation results show that the
+windmill motion induced by spin torque in the proposed spintronic neurons gives rise to spikes whose
+shape and frequency, set by the charging and discharging times, can be tuned through the amplitude
+of injected dc current. We also found that these devices can exhibit chaotic oscillations. Chaotic-like
+neuron dynamics has been observed in the brain, and it is desirable in some neuromorphic computing
+applications whereas it should be avoided in others. We demonstrate that the degree of chaos can
+be tuned in a wide range by engineering the magnetic stack and anisotropies and by changing the dc
+current. The proposed spintronic neuron is a promising building block for hardware neuromorphic
+chips leveraging non-linear dynamics for computing. 

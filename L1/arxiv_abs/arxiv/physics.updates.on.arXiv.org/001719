@@ -1,0 +1,17 @@
+Using two-dimensional hybrid-kinetic simulations, we explore the nonlinear "interruption"
+of standing and traveling shear-Alfv\'en waves in collisionless plasmas. Interruption involves
+a self-generated pressure anisotropy removing the restoring force of a linearly polarized Alfv\'enic
+perturbation, and occurs for wave amplitudes $\delta B_{\perp}/B_{0}\gtrsim \beta^{\,-1/2}$
+(where $\beta$ is the ratio of thermal to magnetic pressure). We use highly elongated domains to
+obtain maximal scale separation between the wave and the ion gyroscale. For standing waves above
+the amplitude limit, we find that the large-scale magnetic field of the wave decays rapidly. The
+dynamics are strongly affected by the excitation of oblique firehose modes, which transition into
+long-lived parallel fluctuations at the ion gyroscale and cause significant particle scattering.
+Traveling waves are damped more slowly, but are also influenced by small-scale parallel fluctuations
+created by the decay of firehose modes. Our results demonstrate that collisionless plasmas cannot
+support linearly polarized Alfv\'en waves above $\delta B_{\perp}/B_{0}\sim \beta^{\,-1/2}$.
+They also provide a vivid illustration of two key aspects of low-collisionality plasma dynamics:
+(i) the importance of velocity-space instabilities in regulating plasma dynamics at high $\beta$,
+and (ii) how nonlinear collisionless processes can transfer mechanical energy directly from the
+largest scales into thermal energy and microscale fluctuations, without the need for a scale-by-scale
+turbulent cascade. 

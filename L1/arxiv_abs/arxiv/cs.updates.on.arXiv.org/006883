@@ -1,0 +1,16 @@
+Enabling large-scale energy-efficient Internet-of-things (IoT) connectivity is an essential
+step towards realization of networked society. While legacy wide-area wireless systems are highly
+dependent on network-side coordination, the level of consumed energy in signaling, as well as the
+expected increase in the number of IoT devices, makes such centralized approaches infeasible in
+future. Here, we address this problem by self-coordination for IoT networks through learning from
+past communications. To this end, we first study low-complexity distributed learning approaches
+applicable in IoT communications. Then, we present a learning solution to adapt communication
+parameters of devices to the environment for maximizing energy efficiency and reliability in data
+transmissions. Furthermore, leveraging tools from stochastic geometry, we evaluate the performance
+of proposed distributed learning solution against the centralized coordination. Finally, we
+analyze the interplay amongst energy efficiency, reliability of communications against noise
+and interference over data channel, and reliability against adversarial interference over data
+and feedback channels. The simulation results indicate that compared to the state of the art approaches,
+both energy efficiency and reliability in IoT communications could be significantly improved
+using the proposed learning approach. These promising results, which are achieved using lightweight
+learning, make our solution favorable in many low-cost low-power IoT applications. 

@@ -1,0 +1,16 @@
+Let $\mathfrak X$ be a Hunt process on a locally compact space $X$ such that the set $\mathcal E_{\mathfrak
+X}$ of its Borel measurable excessive functions separates points, every function in $\mathcal
+E_{\mathfrak X}$ is the supremum of its continuous minorants in $\mathcal E_{\mathfrak X}$ and
+there are strictly positive continuous functions $v,w\in\mathcal E_{\mathfrak X}$ such that
+$v/w$ vanishes at infinity. A numerical function $u\ge 0$ on $X$ is said to be nearly hyperharmonic,
+if $\int^\ast u\circ X_{\tau_V}\,dP^x\le u(x)$ for all $x\in X$ and relatively compact open neighborhoods
+$V$ of $x$, where $\tau_V$ denotes the exit time of $V$. For every such function $u$, its lower semicontinous
+regularization $\hat u$ is excessive. The main purpose of the paper is to give a short, complete and
+understandable proof for the statement that every Borel measurable nearly hyperharmonic function
+on $X$ is the infimum of its majorants in $E_{\mathfrak X}$. The major novelties of our approach are
+the following: 1. A quick reduction to the special case, where starting at $x\in X$ with $u(x)<\infty$
+the expected number of times the process $\mathfrak X$ visits the set of points $y\in X$, where $\hat
+u(y):=\liminf_{z\to y} u(z)<u(y)$, is finite. 2. The statement that the integral $\int u\,d\mu$
+is the infimum of all integrals $\int w\,d\mu$, $w\in E_{\mathfrak X}$ and $w\ge u$, not only for
+measures $\mu$ satisfying $\int w\,d\mu<\infty$ for some excessive majorant $w$ of $u$, but also
+for all finite measures. At the end, the measurability assumption on $u$ is weakened considerably.

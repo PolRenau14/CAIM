@@ -1,0 +1,16 @@
+In this paper I propose a new method of encoding integer variables into Ising model qubits for quantum
+optimization. The new method is based on the physics of domain walls in one dimensional Ising spin
+chains. I find that these encodings and the encoding of arbitrary two variable interactions is possible
+with only two body Ising terms. Following on from similar results for the `one hot' method of encoding
+integer variables [Hadfield et. al. Algorithms 12.2 (2019): 34] I also demonstrate that it is possible
+to construct two body mixer terms which do not leave the logical subspace, an important consideration
+for optimising using the quantum alternating operator ansatz (QAOA). I additionally discuss how,
+since the couplings in the domain wall encoding only need to be ferromagnetic and therefore could
+in principle be much stronger than anti-ferromagnetic couplers, that application specific quantum
+annealers for integer problems based on this construction may be beneficial. Finally, I compare
+embedding for synthetic scheduling and colouring problems with the domain wall and one hot encodings
+on two graphs which are relevant for quantum annealing, the chimera graph and the Pegasus graph.
+For every case I examine I find a similar or better performance from the domain wall encoding as compared
+to one hot, but this advantage is highly dependent on the structure of the problem. For encoding some
+problems, I find an advantage similar to the one found by embedding in a Pegasus graph compared to
+embedding in a chimera graph. 

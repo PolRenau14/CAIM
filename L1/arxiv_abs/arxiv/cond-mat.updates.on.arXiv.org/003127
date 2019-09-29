@@ -1,0 +1,17 @@
+We demonstrate single-shot imaging and narrow-line cooling of individual alkaline earth atoms
+in optical tweezers; specifically, strontium-88 atoms trapped in $515.2~\text{nm}$ light. We
+achieve high-fidelity single-atom-resolved imaging by detecting photons from the broad singlet
+transition while cooling on the narrow intercombination line, and extend this technique to highly
+uniform two-dimensional arrays of $121$ tweezers. Cooling during imaging is based on a previously
+unobserved narrow-line Sisyphus mechanism, which we predict to be applicable in a wide variety
+of experimental situations. Further, we demonstrate optically resolved sideband cooling of a
+single atom close to the motional ground state of a tweezer. Precise determination of losses during
+imaging indicate that the branching ratio from $^1$P$_1$ to $^1$D$_2$ is more than a factor of two
+larger than commonly quoted, a discrepancy also predicted by our ab initio calculations. We also
+measure the differential polarizability of the intercombination line in a $515.2~\text{nm}$
+tweezer and achieve a magic-trapping configuration by tuning the tweezer polarization from linear
+to elliptical. We present calculations, in agreement with our results, which predict a magic crossing
+for linear polarization at $520(2)~\text{nm}$ and a crossing independent of polarization at 500.65(50)nm.
+Our results pave the way for a wide range of novel experimental avenues based on individually controlled
+alkaline earth atoms in tweezers -- from fundamental experiments in atomic physics to quantum computing,
+simulation, and metrology implementations. 

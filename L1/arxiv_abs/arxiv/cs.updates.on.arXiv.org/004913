@@ -1,0 +1,17 @@
+The deployment of the next generation computing platform at ExaFlops scale requires to solve new
+technological challenges mainly related to the impressive number (up to 10^6) of compute elements
+required. This impacts on system power consumption, in terms of feasibility and costs, and on system
+scalability and computing efficiency. In this perspective analysis, exploration and evaluation
+of technologies characterized by low power, high efficiency and high degree of customization is
+strongly needed. Among the various European initiative targeting the design of ExaFlops system,
+ExaNeSt and EuroExa are EU-H2020 funded initiatives leveraging on high end MPSoC FPGAs. Last generation
+MPSoC FPGAs can be seen as non-mainstream but powerful HPC Exascale enabling components thanks
+to the integration of embedded multi-core, ARM-based low power CPUs and a huge number of hardware
+resources usable to co-design application oriented accelerators and to develop a low latency high
+bandwidth network architecture. In this paper we introduce ExaNet the FPGA-based, scalable, direct
+network architecture of ExaNeSt system. ExaNet allow us to explore different interconnection
+topologies, to evaluate advanced routing functions for congestion control and fault tolerance
+and to design specific hardware components for acceleration of collective operations. After a
+brief introduction of the motivations and goals of ExaNeSt and EuroExa projects, we will report
+on the status of network architecture design and its hardware/software testbed adding preliminary
+bandwidth and latency achievements. 

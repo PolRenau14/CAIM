@@ -1,0 +1,16 @@
+A set of points $P$ in a metric space and a constant integer $k$ are given. The $k$-center problem finds
+$k$ points as centers among $P$, such that the maximum distance of any point of $P$ to their closest
+centers $(r)$ is minimized. Doubling metrics are metric spaces in which for any $r$, a ball of radius
+$r$ can be covered using a constant number of balls of radius $r/2$. Fixed dimensional Euclidean
+spaces are doubling metrics. The lower bound on the approximation factor of $k$-center is $1.822$
+in Euclidean spaces, however, $(1+\epsilon)$-approximation algorithms with exponential dependency
+on $\frac{1}{\epsilon}$ and $k$ exist. For a given set of sets $P_1,\ldots,P_L$, a composable coreset
+independently computes subsets $C_1\subset P_1, \ldots, C_L\subset P_L$, such that $\cup_{i=1}^L
+C_i$ contains an approximation of a measure of the set $\cup_{i=1}^L P_i$. We introduce a $(1+\epsilon)$-approximation
+composable coreset for $k$-center, which in doubling metrics has size sublinear in $|P|$. This
+results in a $(2+\epsilon)$-approximation algorithm for $k$-center in MapReduce with a constant
+number of rounds in doubling metrics for any $\epsilon>0$ and sublinear communications, which
+is based on parametric pruning. We prove the exponential nature of the trade-off between the number
+of centers $(k)$ and the radius $(r)$, and give a composable coreset for a related problem called
+dual clustering. Also, we give a new version of the parametric pruning algorithm with $O(\frac{nk}{\epsilon})$
+running time, $O(n)$ space and $2+\epsilon$ approximation factor for metric $k$-center. 

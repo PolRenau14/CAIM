@@ -1,0 +1,16 @@
+Attaining the vision of Smart Cities requires the deployment of an enormous number of sensors for
+monitoring various conditions of the environment. Backscatter-sensors have emerged to be a promising
+solution due to the uninterruptible energy supply and relative simple hardwares. On the other hand,
+backscatter-sensors with limited signal-processing capabilities are unable to support conventional
+algorithms for multiple-access and channel-training. Thus, the key challenge in designing backscatter-sensor
+networks is to enable readers to accurately detect sensing-values given simple ALOHA random access,
+primitive transmission schemes, and no knowledge of channel-states. We tackle this challenge
+by proposing the novel framework of backscatter sensing featuring random-encoding at sensors
+and statistical-inference at readers. Specifically, assuming the on/off keying for backscatter
+transmissions, the practical random-encoding scheme causes the on/off transmission of a sensor
+to follow a distribution parameterized by the sensing values. Facilitated by the scheme, statistical-inference
+algorithms are designed to enable a reader to infer sensing-values from randomized transmissions
+by multiple sensors. The specific design procedure involves the construction of Bayesian networks,
+namely deriving conditional distributions for relating unknown parameters and variables to signals
+observed by the reader. Then based on the Bayesian networks and the well-known expectation-maximization
+principle, inference algorithms are derived to recover sensing-values. 

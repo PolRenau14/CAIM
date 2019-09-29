@@ -1,0 +1,17 @@
+We present the results of an investigation of the dredge-up and mixing during the merger of two white
+dwarfs with different chemical compositions by conducting hydrodynamic simulations of binary
+mergers for three representative mass ratios. In all the simulations, the total mass of the two white
+dwarfs is $\lesssim1.0~{\rm M_\odot}$. Mergers involving a CO and a He white dwarf have been suggested
+as a possible formation channel for R Coronae Borealis type stars, and we are interested in testing
+if such mergers lead to conditions and outcomes in agreement with observations. Even if the conditions
+during the merger and subsequent nucleosynthesis favor the production of $^{18}{\mathrm O}$,
+the merger must avoid dredging up large amounts of $^{16}{\mathrm O}$, or else it will be difficult
+to produce sufficient $^{18}{\mathrm O}$ to explain the oxygen ratio observed to be of order unity.
+We performed a total of 9 simulations using two different grid-based hydrodynamics codes using
+fixed and adaptive meshes, and one smooth particle hydrodynamics (SPH) code. We find that in most
+of the simulations, $>10^{-2}~{\rm M_\odot}$ of $^{16}{\mathrm O}$ is indeed dredged up during
+the merger. However, in SPH simulations where the accretor is a hybrid He/CO white dwarf with a $\sim
+0.1~{\rm M_\odot}$ layer of helium on top, we find that no $^{16}{\mathrm O}$ is being dredged up,
+while in the $q=0.8$ simulation $<10^{-4}~{\rm M_\odot}$ of $^{16}{\mathrm O}$ has been brought
+up, making a WD binary consisting of a hybrid CO/He WD and a companion He WD an excellent candidate
+for the progenitor of RCB stars. 

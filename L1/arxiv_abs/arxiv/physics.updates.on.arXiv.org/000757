@@ -1,0 +1,16 @@
+In June 2012, an Expression of Interest for a long-baseline experiment (LBNO) has been submitted
+to the CERN SPSC. LBNO considers three types of neutrino detector technologies: a double-phase
+liquid argon (LAr) TPC and a magnetised iron detector as far detectors. For the near detector, a high-pressure
+gas TPC embedded in a calorimeter and a magnet is the baseline design. A mandatory milestone is a concrete
+prototyping effort towards the envisioned large-scale detectors, and an accompanying campaign
+of measurements aimed at assessing the detector associated systematic errors. The proposed $6\times
+6\times 6$m$^3$ DLAr is an industrial prototype of the design discussed in the EoI and scalable to
+20 kton or 50~kton. It is to be constructed and operated in a controlled laboratory and surface environment
+with test beam access, such as the CERN North Area (NA). Its successful operation and full characterisation
+will be a fundamental milestone, likely opening the path to an underground deployment of larger
+detectors. The response of the DLAr demonstrator will be measured and understood with an unprecedented
+precision in a charged particle test beam (0.5-20 GeV/c). The exposure will certify the assumptions
+and calibrate the response of the detector, and allow to develop and to benchmark sophisticated
+reconstruction algorithms, such as those of 3-dimensional tracking, particle ID and energy flow
+in liquid argon. All these steps are fundamental for validating the correctness of the physics performance
+described in the LBNO EoI. 

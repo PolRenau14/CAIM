@@ -1,0 +1,16 @@
+In this paper, we use simulated swarms of robots to further explore the aggregation dynamics generated
+by these simple individual mechanisms. Our objective is to study the introduction of "informed
+robots", and to study how many of these are needed to direct the aggregation process toward a pre-defined
+site among those available in the environment. Informed robots are members of a group that selectively
+avoid the site/s where no aggregate should emerge, and stop only on the experimenter predefined
+site/s for aggregation. We study the aggregation process with informed robots in three different
+scenarios: two that are morphologically symmetric, whereby the different types of aggregation
+site are equally represented in the environment; and an asymmetric scenario, whereby the target
+site has an area that is half the area of the sites that should be avoided. We first show what happens
+when no robot in the swarm is informed: in symmetric environments, the swarm is able to break the symmetry
+and aggregates on one of the two types of site at random, not necessarily on the target site, while
+in the asymmetric environment, the swarm tends to aggregate on the sites that are most represented
+in terms of area. As a further valuable contribution of this study, we provide analytical results
+by studying a system of Ordinary Differential Equations' (ODEs) that is an extension of a well known
+model. Using this model, we show how, for certain values of the parameters, the model can predict
+the dynamics observed with simulated robots in one of the two symmetric scenarios. 

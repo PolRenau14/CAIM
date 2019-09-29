@@ -1,0 +1,16 @@
+Recently, the integrated impact indicator (I3) indicator was introduced where citations are weighted
+in accordance with the percentile rank class of each publication in a set of publications. I3 can
+be used as a field-normalized indicator. Field-normalization is common practice in bibliometrics,
+especially when institutions and countries are compared. Publication and citation practices
+are so different among fields that citation impact is normalized for cross-field comparisons.
+In this study, we test the ability of the indicator to discriminate between quality levels of papers
+as defined by Faculty members at F1000Prime. F1000Prime is a post-publication peer review system
+for assessing papers in the biomedical area. Thus, we test the convergent validity of I3 (in its size-independent
+variant) using assessments by peers as baseline and compare its validity with several other (field-normalized)
+indicators: the mean-normalized citation score (MNCS), relative-citation ratio (RCR), citation
+score normalized by cited references (CSNCR), characteristic scores and scales (CSS), source-normalized
+citation score (SNCS), citation percentiles, and proportion of papers which belong to the x% most
+frequently cited papers (PPtop x%). The results show that the PPtop 1% indicator discriminates
+best among different quality levels. I3 performs similar as (slightly better than) most of the other
+field-normalized indicators. Thus, the results point out that the indicator could be a valuable
+alternative to other indicators in bibliometrics. 

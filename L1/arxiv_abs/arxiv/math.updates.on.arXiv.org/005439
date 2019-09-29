@@ -1,0 +1,16 @@
+For fixed integers $r\ge 2,e\ge 2,v\ge r+1$, an $r$-uniform hypergraph is called $\mathscr{G}_r(v,e)$-free
+if the union of any $e$ distinct edges contains at least $v+1$ vertices. Let $f_r(n,v,e)$ denote
+the maximum number of edges in a $\mathscr{G}_r(v,e)$-free $r$-uniform hypergraph on $n$ vertices.
+Brown, Erd\H{o}s and S\'{o}s showed in 1973 that there exist constants $c_1,c_2$ depending only
+on $r,e,v$ such that $$c_1n^{\frac{er-v}{e-1}}\le f_r(n,v,e)\le c_2n^{\lceil\frac{er-v}{e-1}\rceil}.$$
+For $e-1|er-v$, the lower bound matches the upper bound up to a constant factor; whereas for $e-1\nmid
+er-v$, it is a notoriously hard problem to determine the correct exponent of $n$ for general $r,e,v$.
+Our main result is an improvement on the above lower bound by a $(\log n)^{\frac{1}{e-1}}$ factor
+$$f_r(n,v,e)=\Omega(n^{\frac{er-v}{e-1}}(\log n)^{\frac{1}{e-1}})$$ for any $r,e,v$ satisfying
+$\gcd(e-1,er-v)=1$. Moreover, the hypergraph we constructed is not only $\mathscr{G}_r(v,e)$-free
+but also universally $\mathscr{G}_r(ir-\lceil\frac{(i-1)(er-v)}{e-1}\rceil,i)$-free for
+every $2\le i\le e$. Interestingly, our new lower bound provides improved constructions for several
+seemingly unrelated objects in Coding Theory, namely, Parent-Identifying Set Systems, uniform
+Combinatorial Batch Codes and optimal Locally Recoverable Codes. The proof of the main result is
+based on a novel application of the well-known lower bound on the hypergraph independence number
+due to Ajtai, Koml\'os, Pintz, Spencer, and Szemer\'edi, and Duke, Lefmann, and R{\"o}dl. 

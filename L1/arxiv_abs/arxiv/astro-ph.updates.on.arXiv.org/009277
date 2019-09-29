@@ -1,0 +1,16 @@
+We present the detection at 89 $\mu$m (observed frame) of the {\it Herschel}-selected gravitationally
+lensed starburst galaxy HATLASJ1429-0028 (also known as G15v2.19) in 15 minutes with the High-resolution
+Airborne Wideband Camera-plus (HAWC+) onboard the Stratospheric Observatory for Infrared Astronomy
+(SOFIA). The spectacular lensing system consists of an edge-on foreground disk galaxy at $z$ = 0.22
+and a nearly complete Einstein ring of an intrinsic ultra-luminous infrared galaxy at $z$ = 1.03.
+Is this high IR luminosity powered by pure star formation (SF) or also an active galactic nucleus
+(AGN)? Previous nebular line diagnostics indicate that it is star-formation dominated. We perform
+a 27-band multi-wavelength spectral energy distribution modeling (SED) including the new SOFIA/HAWC+
+data to constrain the fractional AGN contribution to the total IR luminosity. The AGN fraction in
+the IR turns out to be negligible. In addition, J1429-0028 serves as a testbed for comparing SED results
+from different models/templates and SED codes (MAGPHYS, SED3FIT, and CIGALE). We stress that star
+formation history is the dominant source of uncertainty in the derived stellar mass (as high as a
+factor of $\sim$ 10) even in the case of extensive photometric coverage. Furthermore, the detection
+of a source at $z$ $\sim$ 1 with SOFIA/HAWC+ demonstrates the potential of utilizing this facility
+for distant galaxy studies including the decomposition of SF/AGN components, which cannot be accomplished
+with other current facilities. 

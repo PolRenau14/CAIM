@@ -1,0 +1,16 @@
+The use of low-resolution analog-to-digital converters (ADCs) can significantly reduce power
+consumption and hardware cost. However, their resulting severe nonlinear distortion makes achieving
+reliable data transmission challenging. For orthogonal frequency division multiplexing (OFDM)
+transmission, the orthogonality among subcarriers is destroyed. This invalidates conventional
+OFDM receivers relying heavily on this orthogonality. In this study, we move on to quantized OFDM
+(Q-OFDM) prototyping implementation based on our previous achievement in optimal Q-OFDM detection.
+First, we propose a novel Q-OFDM channel estimator by extending the generalized Turbo (GTurbo)
+framework formerly applied for optimal detection. Specifically, we integrate a type of robust
+linear OFDM channel estimator into the original GTurbo framework, and derive its corresponding
+extrinsic information to guarantee its convergence. We also propose feasible schemes for automatic
+gain control, noise power estimation, and synchronization. Combined with the proposed inference
+algorithms, we develop an efficient Q-OFDM receiver architecture. Furthermore, we construct
+a proof-of-concept prototyping system and conduct over-the-air (OTA) experiments to examine
+its feasibility and reliability. This is the first work that focuses on algorithm design system
+implementation in the field of low-resolution quantization communication. The results of the
+numerical simulation and OTA experiment demonstrate that reliable data transmission can be achieved.

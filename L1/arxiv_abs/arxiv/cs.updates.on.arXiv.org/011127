@@ -1,0 +1,16 @@
+Massively parallel join algorithms have received much attention in recent years, while most prior
+work has focused on worst-optimal algorithms. However, the worst-case optimality of these join
+algorithms relies on hard instances having very large output sizes, which rarely appear in practice.
+A stronger notion of optimality is {\em output-optimal}, which requires an algorithm to be optimal
+within the class of all instances sharing the same input and output size. An even stronger optimality
+is {\em instance-optimal}, i.e., the algorithm is optimal on every single instance, but this may
+not always be achievable. In the traditional RAM model of computation, the classical Yannakakis
+algorithm is instance-optimal on any acyclic join. But in the massively parallel computation (MPC)
+model, the situation becomes much more complicated. We first show that for the class of r-hierarchical
+joins, instance-optimality can still be achieved in the MPC model. Then, we give a new MPC algorithm
+for an arbitrary acyclic join with load $O ({\IN \over p} + {\sqrt{\IN \cdot \OUT} \over p})$, where
+$\IN,\OUT$ are the input and output sizes of the join, and $p$ is the number of servers in the MPC model.
+This improves the MPC version of the Yannakakis algorithm by an $O (\sqrt{\OUT \over \IN} )$ factor.
+Furthermore, we show that this is output-optimal when $\OUT = O(p \cdot \IN)$, for every acyclic
+but non-r-hierarchical join. Finally, we give the first output-sensitive lower bound for the triangle
+join in the MPC model, showing that it is inherently more difficult than acyclic joins. 

@@ -1,0 +1,16 @@
+We first show that a K\"ahler cone appears as the tangent cone of a complete expanding gradient K\"ahler-Ricci
+soliton with quadratic curvature decay with derivatives if and only if it has a smooth canonical
+model (on which the soliton lives). This allows us to classify two-dimensional complete expanding
+gradient K\"ahler-Ricci solitons with quadratic curvature decay with derivatives. We then show
+that any two-dimensional complete shrinking gradient K\"ahler-Ricci soliton whose scalar curvature
+tends to zero at infinity is, up to pullback by an element of $GL(2,\,\mathbb{C})$, either the flat
+metric on $\mathbb{C}^{2}$ or the $U(2)$-invariant shrinking gradient K\"ahler-Ricci soliton
+of Feldman-Ilmanen-Knopf on the blowup of $\mathbb{C}^{2}$ at one point. Finally, we show that
+up to pullback by an element of $GL(n,\,\mathbb{C})$, the only complete shrinking gradient K\"ahler-Ricci
+soliton with quadratic curvature decay on $\mathbb{C}^{n}$ is the flat metric and on the total space
+of $\mathcal{O}(-k)\to\mathbb{P}^{n-1}$ for $0<k<n$ is the $U(n)$-invariant example of Feldman-Ilmanen-Knopf.
+In the course of the proof, we establish the uniqueness of the soliton vector field of a complete shrinking
+gradient K\"ahler-Ricci soliton with bounded Ricci curvature in the Lie algebra of a torus. A key
+tool used to achieve this result is the Duistermaat-Heckman theorem from symplectic geometry.
+This provides the first step towards understanding the relationship between complete shrinking
+gradient K\"ahler-Ricci solitons and algebraic geometry. 

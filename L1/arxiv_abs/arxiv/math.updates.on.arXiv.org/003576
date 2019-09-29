@@ -1,0 +1,16 @@
+A linear system is a pair $(P,\mathcal{L})$ where $\mathcal{L}$ is a family of subsets on a ground
+finite set $P$ such that $|l\cap l^\prime|\leq 1$, for every $l,l^\prime \in \mathcal{L}$. The
+elements of $P$ and $\mathcal{L}$ are called points and lines, respectively, and the linear system
+is called intersecting if any pair of lines intersect in exactly one point. A subset $D$ of points
+of a linear system $(P,\mathcal{L})$ is a dominating set of $(P,\mathcal{L})$ if for every $u\in
+P\setminus D$ there exists $v\in D$ such that $u,v\in l$, for some $l\in\mathcal{L}$. The cardinality
+of a minimum dominating set of a linear system $(P,\mathcal{L})$ is called domination number of
+$(P,\mathcal{L})$, denoted by $\gamma(P,\mathcal{L})$. On the other hand, a subset $R$ of lines
+of a linear system $(P,\mathcal{L})$ is a 2-packing if any three elements of $R$ have not a common
+point (are triplewise disjoint). The cardinality of a maximum 2-packing of a linear system $(P,\mathcal{L})$
+is called 2-packing number of $(P,\mathcal{L})$, denoted by $\nu_2(P,\mathcal{L})$. It is know
+for intersecting linear systems $(P,\mathcal{L})$ of rank $r$ it satisfies $\gamma(P,\mathcal{L})\leq
+r-1$. In this note we prove, if $q$ is an even prime power and $(P,\mathcal{L})$ is an intersecting
+linear system of rank $q+2$ satisfying $\gamma(P,\mathcal{L})=q+1$, then this linear system
+can be constructed from a spanning $(q+1)$-uniform intersecting linear subsystem $(P^\prime,\mathcal{L}^\prime)$
+of the projective plane of order $q$ satisfying $\tau(P^\prime,\mathcal{L}^\prime)=\nu_2(P^\prime,\mathcal{L}^\prime)-1=q+1$.

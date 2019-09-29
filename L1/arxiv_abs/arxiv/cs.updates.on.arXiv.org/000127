@@ -1,0 +1,16 @@
+Information theory and the framework of information dynamics have been used to provide tools to
+characterise complex systems. In particular, we are interested in quantifying information storage,
+information modification and information transfer as characteristic elements of computation.
+Although these quantities are defined for autonomous dynamical systems, information dynamics
+can also help to get a "wholistic" understanding of input-driven systems such as neural networks.
+In this case, we do not distinguish between the system itself, and the effects the input has to the
+system. This may be desired in some cases, but it will change the questions we are able to answer, and
+is consequently an important consideration, for example, for biological systems which perform
+non-trivial computations and also retain a short-term memory of past inputs. Many other real world
+systems like cortical networks are also heavily input-driven, and application of tools designed
+for autonomous dynamic systems may not necessarily lead to intuitively interpretable results.
+The aim of our work is to extend the measurements used in the information dynamics framework for input-driven
+systems. Using the proposed input-corrected information storage we hope to better quantify system
+behaviour, which will be important for heavily input-driven systems like artificial neural networks
+to abstract from specific benchmarks, or for brain networks, where intervention is difficult,
+individual components cannot be tested in isolation or with arbitrary input data. 

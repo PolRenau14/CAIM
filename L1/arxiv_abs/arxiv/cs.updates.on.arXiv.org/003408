@@ -1,0 +1,17 @@
+Convolutional Neural Networks has been implemented in many complex machine learning takes such
+as image classification, object identification, autonomous vehicle and robotic vision tasks.
+However, ConvNet architecture efficiency and accuracy depend on a large number of fac- tors. Also,
+the complex architecture requires a significant amount of data to train and involves with a large
+number of hyperparameters that increases the computational expenses and difficul- ties. Hence,
+it is necessary to address the limitations and techniques to overcome the barriers to ensure that
+the architecture performs well in complex visual tasks. This article is intended to develop an efficient
+ConvNet architecture for multi-class image categorical classification applica- tion. In the
+development of the architecture, large pool of grey scale images are taken as input information
+images and split into training and test datasets. The numerously available technique is implemented
+to reduce the overfitting and poor generalization of the network. The hyperpa- rameters of determined
+by Bayesian Optimization with Gaussian Process prior algorithm. ReLu non-linear activation function
+is implemented after the convolutional layers. Max pooling op- eration is carried out to downsampling
+the data points in pooling layers. Cross-entropy loss function is used to measure the performance
+of the architecture where the softmax is used in the classification layer. Mini-batch gradient
+descent with Adam optimizer algorithm is used for backpropagation. Developed architecture is
+validated with confusion matrix and classification report. 

@@ -1,0 +1,16 @@
+Parameterized state space models in the form of recurrent networks are often used in machine learning
+to learn from data streams exhibiting temporal dependencies. To break the black box nature of such
+models it is important to understand the dynamical features of the input driving time series that
+are formed in the state space. We propose a framework for rigorous analysis of such state representations
+in vanishing memory state space models such as echo state networks (ESN). In particular, we consider
+the state space a temporal feature space and the readout mapping from the state space a kernel machine
+operating in that feature space. We show that: (1) The usual ESN strategy of randomly generating
+input-to-state, as well as state coupling leads to shallow memory time series representations,
+corresponding to cross-correlation operator with fast exponentially decaying coefficients;
+(2) Imposing symmetry on dynamic coupling yields a constrained dynamic kernel matching the input
+time series with straightforward exponentially decaying motifs or exponentially decaying motifs
+of the highest frequency; (3) Simple cycle high-dimensional reservoir topology specified only
+through two free parameters can implement deep memory dynamic kernels with a rich variety of matching
+motifs. We quantify richness of feature representations imposed by dynamic kernels and demonstrate
+that for dynamic kernel associated with cycle reservoir topology, the kernel richness undergoes
+a phase transition close to the edge of stability. 

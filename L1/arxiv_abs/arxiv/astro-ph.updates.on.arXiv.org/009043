@@ -1,0 +1,16 @@
+The X-ray Integral Field Unit (X-IFU) is the cryogenic imaging spectrometer on board the future
+X-ray observatory \textsl{Athena}. With a hexagonal array of 3840 AC-biased Transition Edge Sensors
+(TES), it will provide narrow-field observations (5$^{\prime}$ equivalent diameter) with unprecedented
+high spectral resolution (2.5 eV up to 7 keV) over the 0.2 - 12 keV bandpass. Throughout its observations,
+the X-IFU will face various sources of X-ray background. Specifically, the so-called Non-X-ray
+Background (NXB) caused by the interaction of high-energy cosmic rays with the instrument, may
+lead to a degradation of its sensitivity in the observation of faint extended sources (e.g. galaxy
+clusters outskirts). To limit this effect, a cryogenic anti-coincidence detector (CryoAC) will
+be placed below the detector plane to lower the NXB level down to the required level of $5 \times 10^{-3}$
+cts/s/cm$^{2}$/keV over 2 - 10 keV. In this contribution, we investigate ways to accurately monitor
+the NXB and ensure the highest reproducibility in-flight. Using the limiting science case of the
+background-dominated observation of galaxy clusters outskirts, we demonstrate that a reproducibility
+of 2\% on the absolute knowledge of the background is required to perform driving science objectives,
+such as measuring abundances and turbulence in the outskirts. Monitoring of the NXB in-flight through
+closed observations, the detector's CryoAC or the companion instrument (Wide Field Imager) will
+be used to meet this requirement. 

@@ -1,0 +1,17 @@
+We present a new approach to check for commutativity in concurrent programs from their state-chart
+graphs. A set of operations are commutative if changing the order of their execution on an object
+does not affect the abstract state of the object and returns the same response. Concurrent operations
+that commute at object-level can be executed concurrently at transaction-level, which boosts
+performance while preserving the appearance of atomicity and isolation. Utilizing object-level
+commutativity in transactional execution enables the reuse of existing non-blocking programming
+techniques for thread-level synchronization. In our approach, we generate state-chart graphs
+by tracking data on the atomic instructions invoked on the concurrent object during model checking
+and represent the atomic instructions as states in a state-transition representation. Considering
+the non-deterministic nature of concurrent programs, we determine commutativity by exhaustively
+searching for identical object states captured at a thread-level granularity across all thread
+interleavings. With this methodology, a user can not only verify commutativity among operations,
+but also can visually check ways in which methods commute at object-level, which is an edge over current
+state-of-the-art tools. The object-level commutative information helps in identifying faulty
+implementations and performance improvement considerations. We use the graph database, Neo4j,
+to represent object states as nodes that further assists the user to check for concurrency properties
+using Cypher queries. 

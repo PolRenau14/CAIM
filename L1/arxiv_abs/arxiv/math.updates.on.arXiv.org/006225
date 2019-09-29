@@ -1,0 +1,17 @@
+This work presents a multiscale model reduction approach to discontinuous fields identification
+problems in the framework of Bayesian inference. An ensemble-based variable separation (VS) method
+is proposed to approximate multiscale basis functions used to build a coarse model. The variable-separation
+expression is constructed for stochastic multiscale basis functions based on the random field,
+which is treated Gauss process as prior information. To this end, multiple local inhomogeneous
+Dirichlet boundary condition problems are required to be solved, and the ensemble-based method
+is used to obtain variable separation forms for the corresponding local functions. The local functions
+share the same interpolate rule for different physical basis functions in each coarse block. This
+approach significantly improves the efficiency of computation. We obtain the variable separation
+expression of multiscale basis functions, which can be used to the models with different boundary
+conditions and source terms, once the expression constructed. The proposed method is applied to
+discontinuous field identification problems where the hybrid of total variation and Gaussian
+(TG) densities are imposed as the penalty. We give a convergence analysis of the approximate posterior
+to the reference one with respect to the Kullback-Leibler (KL) divergence under the hybrid prior.
+The proposed method is applied to identify discontinuous structures in permeability fields. Two
+patterns of discontinuous structures are considered in numerical examples: separated blocks
+and nested blocks. 

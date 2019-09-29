@@ -1,0 +1,16 @@
+Let $S$ be a finite set of primes. The $S$-part $[m]_S$ of a non-zero integer $m$ is the largest positive
+divisor of $m$ that is composed of primes from $S$. In 2013, Gross and Vincent proved that if $f(X)$
+is a polynomial with integer coefficients and with at least two roots in the complex numbers, then
+for every integer $x$ at which $f(x)$ is non-zero, we have (*) $[f(x)]_S\leq c\cdot |f(x)|^d$, where
+$c$ and $d$ are effectively computable and $d<1$. Their proof uses Baker-type estimates for linear
+forms in complex logarithms of algebraic numbers. As an easy application of the $p$-adic Thue-Siegel-Roth
+theorem we show that if $f(X)$ has degree $n\geq 2$ and no multiple roots, then an inequality such
+as (*) holds for all $d>1/n$, provided we do not require effectivity of $c$. Further, we show that
+such an inequality does not hold anymore with $d=1/n$ and sufficiently small $c$. In addition we
+prove a density result, giving for every $\epsilon>0$ an asymptotic estimate with the right order
+of magnitude for the number of integers $x$ with absolute value at most $B$ such that $f(x)$ has $S$-part
+at least $|f(x)|^{\epsilon}$. The result of Gross and Vincent, as well as the other results mentioned
+above, are generalized to values of binary forms and decomposable forms at integral points. Our
+main tools are Baker type estimates for linear forms in complex and $p$-adic logarithms, the $p$-adic
+Subspace Theorem of Schmidt and Schlickewei, and a recent general lattice point counting result
+of Barroero and Widmer. 

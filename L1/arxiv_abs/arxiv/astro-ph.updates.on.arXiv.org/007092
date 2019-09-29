@@ -1,0 +1,17 @@
+The Transiting Exoplanet Survey Satellite (TESS) will observe $\sim$150~million stars brighter
+than $T_{\rm mag} \approx 16$, with photometric precision from 60~ppm to 3~percent, enabling an
+array of exoplanet and stellar astrophysics investigations.While light curves will be provided
+for $\sim$400,000 targets observed at 2-min cadence, observations of most stars will only be provided
+as full-frame images (FFIs) at 30~min cadence. The TESS image scale of $\sim21$''/pix is highly
+susceptible to crowding, blending, and source confusion, and the highly spatially variable point
+spread function (PSF) will challenge traditional techniques, such as aperture and Gaussian-kernel
+PSF photometry. We use official "End-to-End~6" TESS simulated FFIs to demonstrate a difference
+image analysis pipeline, using a $\delta$-function kernel,that achieves the mission specification
+noise floor of 60~ppm~hr$^{-1/2}$. We show that the pipeline performance does not depend on position
+across the field, and only $\sim$2\% of stars appear to exhibit residual systematics at the level
+of $\sim$5~ppt. We also demonstrate recoverability of planet transits, eclipsing binaries, and
+other variables. We provide the pipeline as an open-source tool at https://github.com/ryanoelkers/DIA
+in both IDL and PYTHON. We intend to extract light curves for all point sources in the \textit{TESS}
+FFIs as soon as they become publicly available, and will provide the light curves through the Filtergraph
+data visualization service. An example data portal based on the simulated FFIs is available for
+inspection at https://filtergraph.com/tess_ffi. 

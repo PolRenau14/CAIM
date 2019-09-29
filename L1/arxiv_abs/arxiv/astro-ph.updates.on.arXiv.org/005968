@@ -1,0 +1,16 @@
+This paper forms part of the second major public data release of the Herschel Astrophysical Terahertz
+Large Area Survey (H-ATLAS). In this work, we describe the identification of optical and near-infrared
+counterparts to the submillimetre detected sources in the $177$ deg$^2$ North Galactic Plane (NGP)
+field. We used the likelihood ratio method to identify counterparts in the Sloan Digital Sky Survey
+and in the UKIRT Imaging Deep Sky Survey within a search radius of $10$ arcsec of the H-ATLAS sources
+with a $4\sigma$ detection at $250 \, \mu$m. We obtained reliable ($R \ge 0.8 $) optical counterparts
+with $r< 22.4$ for 42429 H-ATLAS sources ($37.8$ per cent), with an estimated completeness of $71.7$
+per cent and a false identification rate of $4.7$ per cent. We also identified counterparts in the
+near-infrared using deeper $K$-band data which covers a smaller $\sim25$ deg$^2$. We found reliable
+near-infrared counterparts to $61.8$ per cent of the $250$-$\mu$m-selected sources within that
+area. We assessed the performance of the likelihood ratio method to identify optical and near-infrared
+counterparts taking into account the depth and area of both input catalogues. Using catalogues
+with the same surface density of objects in the overlapping $\sim25$ deg$^2$ area, we obtained that
+the reliable fraction in the near-infrared ($54.8$ per cent) is significantly higher than in the
+optical ($36.4$ per cent). Finally, using deep radio data which covers a small region of the NGP field,
+we found that $80 - 90$ per cent of our reliable identifications are correct. 

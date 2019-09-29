@@ -1,0 +1,17 @@
+We investigate how to recover the spectral properties of underlying magnetohydrodynamic (MHD)
+turbulence using fluctuation statistics of synchrotron polarization radiation, based on the
+synthetic observations. Taking spatially coincident, separated, and compounded synchrotron
+emission and Faraday rotation regions into account, we extract the power spectrum of synchrotron
+polarization intensities integrated along the line of sight. Our results demonstrate that in the
+short wavelength range, the power spectra reflect fluctuation statistics of the perpendicular
+component of turbulent magnetic fields, and the spectra at long wavelengths reveal the fluctuation
+of the Faraday rotation density, which is a product of the parallel component of magnetic field and
+thermal electron density. We find that our numerical results (in the case of spatially coincident
+regions) are in agreement with the analytical prediction in Lazarian \& Pogosyan (2016), and this
+theoretical prediction is applicable to more complicated settings, i.e., the spatially separated
+and compounded regions. We simulate telescopic observations that incorporate the effects of telescope
+angular resolution and noise, and find that statistics of underlying MHD turbulence can be recovered
+successfully. We expect that the technique can be applied to a variety of astrophysical environments,
+with existing synchrotron data cubes and a large number of forthcoming data sets from such as the
+LOw-Frequency Array for Radio astronomy (LOFAR), the Square Kilometer Array (SKA) and the Five-hundred-meter
+Aperture Spherical radio Telescope (FAST). 

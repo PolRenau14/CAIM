@@ -1,0 +1,17 @@
+Using piezoelectric impedance/admittance sensing for structural health monitoring is promising,
+owing to the simplicity in circuitry design as well as the high-frequency interrogation capability.
+The actual identification of fault location and severity using impedance/admittance measurements,
+nevertheless, remains to be an extremely challenging task. A first-principle based structural
+model using finite element discretization requires high dimensionality to characterize the high-frequency
+response. As such, direct inversion using the sensitivity matrix usually yields an under-determined
+problem. Alternatively, the identification problem may be cast into an optimization framework
+in which fault parameters are identified through repeated forward finite element analysis which
+however is oftentimes computationally prohibitive. This paper presents an efficient data-assisted
+optimization approach for fault identification without using finite element model iteratively.
+We formulate a many-objective optimization problem to identify fault parameters, where response
+surfaces of impedance measurements are constructed through Gaussian process-based calibration.
+To balance between solution diversity and convergence, an -dominance enabled many-objective
+simulated annealing algorithm is established. As multiple solutions are expected, a voting score
+calculation procedure is developed to further identify those solutions that yield better implications
+regarding structural health condition. The effectiveness of the proposed approach is demonstrated
+by systematic numerical and experimental case studies. 

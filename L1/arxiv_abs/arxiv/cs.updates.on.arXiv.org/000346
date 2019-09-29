@@ -1,0 +1,16 @@
+Diversity-multiplexing trade-off has been studied extensively to quantify the benefits of different
+relaying strategies in terms of error and rate performance. However, even in the case of a single
+half-duplex relay, which seems fully characterized, implications are not clear. When all channels
+in the system are assumed to be independent and identically fading, a fixed schedule where the relay
+listens half of the total duration for communication and transmits the second half combined with
+quantize-map-and-forward relaying (static QMF) is known to achieve the full-duplex performance
+[1]. However, when there is no direct link between the source and the destination, a dynamic decode-and-forward
+(DDF) strategy is needed [2]. It is not clear which one of these two conclusions would carry to a less
+idealized setup, where the direct link can be neither as strong as the other links nor fully non-existent.
+In this paper, we provide a generalized diversity-multiplexing trade-off for the half-duplex
+relay channel which accounts for different channel strengths and recovers the two earlier results
+as two special cases. We show that these two strategies are sufficient to achieve the diversity-multiplexing
+trade-off across all channel configurations, by characterizing the best achievable trade-off
+when channel state information (CSI) is only available at the receivers (CSIR). However, for general
+relay networks we show that a generalization of these two schemes through a dynamic QMF strategy
+is needed to achieve optimal performance. 

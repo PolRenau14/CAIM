@@ -1,0 +1,16 @@
+Storage systems often rely on multiple copies of the same compressed data, enabling recovery in
+case of binary data errors, of course, at the expense of a higher storage cost. In this paper we show
+that a wiser method of duplication entails great potential benefits for data types tolerating approximate
+representations, like images and videos. We propose a method to produce a set of distinct compressed
+representations for a given signal, such that any subset of them allows reconstruction of the signal
+at a quality depending only on the number of compressed representations utilized. Essentially,
+we implement the holographic representation idea, where all the representations are equally important
+in refining the reconstruction. Here we propose to exploit the shift sensitivity of common compression
+processes and generate holographic representations via compression of various shifts of the signal.
+Two implementations for the idea, based on standard compression methods, are presented: the first
+is a simple, optimization-free design. The second approach originates in a challenging rate-distortion
+optimization, mitigated by the alternating direction method of multipliers (ADMM), leading to
+a process of repeatedly applying standard compression techniques. Evaluation of the approach,
+in conjunction with the JPEG2000 image compression standard, shows the effectiveness of the optimization
+in providing compressed holographic representations that, by means of an elementary reconstruction
+process, enable impressive gains of several dBs in PSNR over exact duplications. 

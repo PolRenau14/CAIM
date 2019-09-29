@@ -1,0 +1,16 @@
+Metal-organic frameworks show both fundamental interest and great promise for applications in
+adsorption-based technologies, such as the separation and storage of gases. The flexibility and
+complexity of the molecular scaffold poses a considerable challenge to atomistic modeling, especially
+when also considering the presence of guest molecules. We investigate the role played by quantum
+and anharmonic fluctuations in the archetypical case of MOF-5, comparing the material at various
+levels of methane loading. Accurate path integral simulations of such effects are made affordable
+by the introduction of an accelerated simulation scheme and the use of an optimized force field based
+on first-principles reference calculations. We find that the level of statistical treatment that
+is required for predictive modeling depends significantly on the property of interest. The thermal
+properties of the lattice are generally well described by a quantum harmonic treatment, with the
+adsorbate behaving in a classical but strongly anharmonic manner. The heat capacity of the loaded
+framework - which plays an important role in the characterization of the framework and in determining
+its stability to thermal fluctuations during adsorption/desorption cycles - requires, however,
+a full quantum and anharmonic treatment, either by path integral methods or by a simple but approximate
+scheme. We also present molecular-level insight into the nanoscopic interactions contributing
+to the material's properties and suggest design principles to optimize them 

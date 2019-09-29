@@ -1,0 +1,16 @@
+A predominant topic in the theory of evolutionary algorithms and, more generally, theory of randomized
+black-box optimization techniques is running time analysis. Running time analysis aims at understanding
+the performance of a given heuristic on a given problem by bounding the number of function evaluations
+that are needed by the heuristic to identify a solution of a desired quality. As in general algorithms
+theory, this running time perspective is most useful when it is complemented by a meaningful complexity
+theory that studies the limits of algorithmic solutions. In the context of discrete black-box optimization,
+several black-box complexity models have been developed to analyze the best possible performance
+that a black-box optimization algorithm can achieve on a given problem. The models differ in the
+classes of algorithms to which these lower bounds apply. This way, black-box complexity contributes
+to a better understanding of how certain algorithmic choices (such as the amount of memory used by
+a heuristic, its selective pressure, or properties of the strategies that it uses to create new solution
+candidates) influences performance. In this chapter we review the different black-box complexity
+models that have been proposed in the literature, survey the bounds that have been obtained for these
+models, and discuss how the interplay of running time analysis and black-box complexity can inspire
+new algorithmic solutions to well-researched problems in evolutionary computation. We also discuss
+in this chapter several interesting open questions for future work. 

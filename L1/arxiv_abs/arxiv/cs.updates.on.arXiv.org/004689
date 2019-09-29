@@ -1,0 +1,17 @@
+We consider discrete-time dynamics, for cascading failure in DC networks, whose map is composition
+of failure rule with control actions. Supply-demand at the nodes is monotonically non-increasing
+under admissible control. Under the failure rule, a link is removed permanently if its flow exceeds
+capacity constraints. We consider finite horizon optimal control to steer the network from an arbitrary
+initial state, defined in terms of active link set and supply-demand at the nodes, to a feasible state,
+i.e., a state which is invariant under the failure rule. There is no running cost and the reward associated
+with a feasible terminal state is the associated cumulative supply-demand. We propose two approaches
+for computing optimal control. The first approach, geared towards tree reducible networks, decomposes
+the global problem into a system of coupled local problems, which can be solved to optimality in two
+iterations. When restricted to the class of one-shot control actions, the optimal solutions to
+the local problems possess a piecewise affine property, which facilitates analytical solution.
+The second approach computes optimal control by searching over the reachable set, which is shown
+to admit an equivalent finite representation by aggregation of control actions leading to the same
+reachable active link set. An algorithmic procedure to construct this representation is provided
+by leveraging and extending tools for arrangement of hyperplanes and polytopes. Illustrative
+simulations, including showing the effectiveness of a projection-based approximation algorithm,
+are also presented. 

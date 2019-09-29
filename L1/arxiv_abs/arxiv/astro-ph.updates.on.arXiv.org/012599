@@ -1,0 +1,16 @@
+The intrinsic strength of the Ly$\alpha$ line in young, star-forming systems makes it a special
+tool for studying high-redshift galaxies. However, interpreting observations remains challenging
+due to the complex radiative transfer involved. Here, we combine state-of-the-art hydrodynamical
+simulations of 'Alth{\ae}a', a prototypical Lyman Break Galaxy (LBG, stellar mass $M_{\star}$$\simeq$
+$10^{10}{\rm M}_{\odot})$ at $z=7.2$, with detailed radiative transfer computations of dust/continuum,
+C[II] 158 $\mu$m, and Ly$\alpha$ to clarify the relation between the galaxy properties and its Ly$\alpha$
+emission. Alth{\ae}a exhibits low ($f_\alpha< 1$\%) Ly$\alpha$ escape fractions and Equivalent
+Widths, EW $\lesssim 6$ Angstrom for the simulated lines of sight, with a large scatter. The correlation
+between escape fraction and inclination is weak, as a result of the rather chaotic structure of high-redshift
+galaxies. Low $f_\alpha$ values persist even if we artificially remove neutral gas around star
+forming regions to mimick the presence of HII regions. The high attenuation is primarily caused
+by dust clumps co-located with young stellar clusters. We can turn Alth{\ae}a into a Lyman Alpha
+Emitter (LAE) only if we artificially remove dust from the clumps, yielding EWs up to $22$ Angstrom.
+Our study suggests that the LBG-LAE duty-cycle required by recent clustering measurements poses
+the challenging problem of a dynamically changing dust attenuation. Finally, we find an anti-correlation
+between the magnitude of Ly$\alpha$-C[II] line velocity shift and Ly$\alpha$ luminosity. 

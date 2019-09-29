@@ -1,0 +1,16 @@
+In this paper, a general cognitive radio system consisting of a set of users with different level
+of spectrum access including two primary transceivers and several types of secondary users is considered.
+It is assumed that two secondary users operate based on an underlay model at the same frequency bandwidth
+and at the same time as the primary users based on a multiple access broadcast channel (MABC) bidirectional
+beamforming scheme. Other secondary users provide a relaying service to the primary users in exchange
+for the opportunity to send their messages towards their own destinations for a fixed portion of
+the communication cycle. In addition, it is assumed that some interferers are active during the
+communication cycle and cause interference for the network. Furthermore, it is assumed that only
+partial channel state information (CSI) between interferers and other nodes in the network is available.
+We provide a robust optimization method against imperfection on the interferers' CSI to maximize
+the joint primary and secondary {signal-to-interference-plus-noise-ratio (SINR)} with the
+assumption of limited available power at the secondary relays. An amplify-and-forward (AF) relaying
+scheme is deployed at the secondary relays and the optimal beamforming is obtained using second
+order convex programming (SOCP) method. The simulation results show the performance of the proposed
+beamforming method against the existence of interferers, and demonstrate the effectiveness of
+our robust method against uncertainty in knowledge of interferers' CSIs. 

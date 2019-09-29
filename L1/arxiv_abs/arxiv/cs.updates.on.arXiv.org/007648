@@ -1,0 +1,16 @@
+Communication-centric software systems exhibit non trivial forms of concurrency and distribution,
+they are expected to respect intended protocols among interacting services, but also to never "get
+stuck". This intuitive requirement has been expressed by liveness properties such as progress
+or (dead)lock freedom, various type systems ensure these properties for concurrent processes.
+Unfortunately, very little is known about the precise relationship between these type systems
+and the typed processes they induce. This paper puts forward the first comparative study of different
+type systems for enforcing deadlock-freedom in message-passing concurrent processes. We compare
+two representative classes of deadlock-free typed processes, here denoted L and K. The class L stands
+out for its canonicity: it results naturally from Curry-Howard interpretations of linear logic
+propositions as session types. The class K, obtained by encoding session types into Kobayashi's
+usage types, includes processes not typable in other type systems. We show that L is strictly included
+in K. We also identify the precise condition under which L and K coincide. One key observation is that
+the degree of sharing between parallel processes determines a new expressiveness hierarchy for
+typed concurrent processes. Furthermore, we provide two type-preserving procedures for rewriting
+processes in K into processes in L. Our two procedures suggest that, while effective, the degree
+of sharing is a rather subtle criterion for distinguishing typed concurrent processes 

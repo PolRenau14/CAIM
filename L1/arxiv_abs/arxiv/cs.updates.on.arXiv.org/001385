@@ -1,0 +1,16 @@
+Graphical Models use the intuitive and well-studied methods of graph theory to implicitly represent
+dependencies between variables in large systems and model the global behaviour of a complex system
+by specifying only local factors. This paper studies the form and complexity of inference in graphical
+models using the abstraction offered by algebraic structures. In particular, we broadly formalize
+inference problems in graphical models by viewing them as a sequence of commutative semigroups
+and study their computational complexity. This is in part achieved by organizing the problems in
+an inference hierarchy, such that problems in the same class of the hierarchy also belong to the same
+complexity class. When the underlying structure of an inference problem is a commutative semiring
+-- i.e., a combination of two commutative semigroups with the distributive law -- a message passing
+procedure can leverage this additional structure to perform inference. The resulting procedure,
+known as belief propagation allows exact inference for tree structures and efficient approximations
+for general graphs. We prove that for general graphs, exact inference in any commutative semiring
+is NP-hard under randomized reduction. Moreover, we show that direct application of distributive
+law for exact inference on tree structures is limited to inference problems with two commutative
+semigroups. We then study a more involved form of message passing, called survey propagation, from
+an algebraic point of view and express its updates using a combination of two commutative semirings.

@@ -1,0 +1,16 @@
+We discuss the infrared and ultraviolet behavior of the fermion propagator in (2+1)-dimensional
+QED based on spectral representation.If we choose soft-photon exponentiation to include all orders
+of soft-photon emission by electron,its spectral function may be written as $e^{F}$,where $F$
+is a model independent spectral function of the lowest order in the coupling constant.We evaluate
+the function $F$ in an analytic way and show its short and long distance behavior with an infrared
+cut-off $\mu$.At short distance function $F$ has linear and logarithmic infrared divergence.However
+in the long distance limit function $F$ vanishes.So that only short distance part of $e^{F}$ is modified
+from unity.We may avoid the linear divergence by the choice of the gauge $d=-1$,where $d$ is a covariant
+gauge fixing parameter.In this gauge the spectral function vanishes in the limit of zero bare photon
+mass $\mu$.We overcome this difficulty by adding continuous spectrum of massive fermion loop to
+photon spectral function $\rho(\mu^{2})$,where $\mu$ has the role of invariant mass for fermion-antifermion
+pair and is larger than $2m.$So that unquenched fermion spectral function survibes.For the application
+of chiral symmetry breaking we carefully studied the position space propagator $S_{F}(0)$.At
+least for weak coupling these values agree quite well with that obtained in Dyson-Schwinger equation
+with proper vertex correction.We also study these parameter as a function of the flavour number
+$N$ and t'Hooft coupling $\alpha=e^{2}N/8\pi$ for strong coupling case. 

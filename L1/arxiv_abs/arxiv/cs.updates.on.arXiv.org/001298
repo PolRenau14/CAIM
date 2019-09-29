@@ -1,0 +1,16 @@
+Logit Dynamics [Blume, Games and Economic Behavior, 1993] are randomized best response dynamics
+for strategic games: at every time step a player is selected uniformly at random and she chooses a
+new strategy according to a probability distribution biased toward strategies promising higher
+payoffs. This process defines an ergodic Markov chain, over the set of strategy profiles of the game,
+whose unique stationary distribution is the long-term equilibrium concept for the game. However,
+when the mixing time of the chain is large (e.g., exponential in the number of players), the stationary
+distribution loses its appeal as equilibrium concept, and the transient phase of the Markov chain
+becomes important. In several cases it happens that on a time-scale shorter than mixing time the
+chain is "metastable", i.e. it stays close to some small set of the state space, while in a time-scale
+multiple of the mixing time it jumps from one metastable configuration to another. In this paper
+we give a quantitative definition of "metastable probability distributions" for a Markov chain
+and we study the metastability of the logit dynamics for some classes of coordination games. We first
+consider a pure n-player coordination game that highlights the distinctive features of our metastability
+notion based on distributions. Then, we study no-risk-dominant coordination games on the clique
+(which is equivalent to the well-known Glauber dynamics for the Curie-Weiss model) and coordination
+games on a ring (both the risk-dominant and no-risk-dominant case). 

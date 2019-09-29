@@ -1,0 +1,16 @@
+Thermal systems are an attractive setting for exploring the connections between the lumped-element
+approximations of elementary circuit theory and the partial-differential field equations of
+mathematical physics, a topic that has been neglected in physics curricula. In a calculation suitable
+for an undergraduate course in mathematical physics, we show that the response function between
+an oscillating heater and temperature probe has a smooth crossover between a low-frequency, "lumped-element"
+regime where the system behaves as an electrical capacitor and a high-frequency regime dominated
+by the spatial dependence of the temperature field. Undergraduates can easily (and cheaply) explore
+these ideas experimentally in a typical advanced laboratory course. Because the characteristic
+frequencies are low, ($\approx$ 30 s)$^{-1}$, measuring the response frequency by frequency is
+slow and challenging; to speed up the measurements, we introduce a useful, if underappreciated
+experimental technique based on a multisine power signal that sums carefully chosen harmonic components
+with random phases. Strikingly, we find that the simple model of a one-dimensional, finite rod predicts
+a temperature response in the frequency domain that closely approximates experimental measurements
+from an irregular, blob-shaped object. The unexpected conclusion is that the frequency response
+of this irregular thermal system is nearly independent of its geometry, an example of---and justification
+for---the "spherical cow" approximations so beloved of physicists. 

@@ -1,0 +1,17 @@
+Individual electrons in graphene behave as massless quasiparticles. In surprising twist, it is
+inferred from plasmonic investigations that collectively excited graphene electrons must exhibit
+non-zero mass and its inertial acceleration is essential for graphene plasmonics. Despite such
+importance, this collective mass has defied direct unequivocal measurement. It may be directly
+measured by accelerating it with a time-varying voltage and quantifying the phase delay of the resulting
+current; this voltage-current phase relation would manifest as kinetic inductance, representing
+the collective inertia's reluctance to accelerate. However, at optical (infrared) frequencies
+phase measurement of current is generally difficult and at microwave frequencies the inertial
+phase delay has been buried under electron scattering. Here we directly, precisely measure the
+kinetic inductance, thus, collective mass, by combining innovative device engineering that reduces
+electron scattering and delicate microwave phase measurements. Particularly, encapsulation
+of graphene between hexagonal-boron-nitride layers, one-dimensional edge contacts, and a proximate
+top gate configured as microwave ground together enable resolving the inertial phase delay from
+the electron scattering. Beside the fundamental importance, the kinetic inductance demonstrated
+here to be orders-of-magnitude larger than magnetic inductance can dramatically miniaturize
+radio-frequency integrated circuits. Moreover, its bias-dependency heralds a solid-state voltage-controlled
+inductor to complement the prevalent voltage-controlled capacitor. 

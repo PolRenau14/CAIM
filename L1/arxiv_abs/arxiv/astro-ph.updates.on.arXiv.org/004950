@@ -1,0 +1,16 @@
+We present a measurement of the DLA mean bias from the cross-correlation of DLA and the Ly$\alpha$
+forest, updating earlier results of Font-Ribera et al. 2012 with the final BOSS Data Release and
+an improved method to address continuum fitting corrections. Our cross-correlation is well fitted
+by linear theory with the standard $\Lambda CDM$ model, with a DLA bias of $b_{\rm DLA} = 1.99\pm 0.11$;
+a more conservative analysis, which removes DLA in the Ly$\beta$ forest and uses only the cross-correlation
+at $r> 10{\rm h^{-1}\,Mpc}$, yields $b_{\rm DLA} = 2.00\pm 0.19$. This assumes the cosmological
+model from \cite{Planck2015} and the Ly$\alpha$ forest bias factors of Bautista et al. 2017, and
+includes only statistical errors obtained from bootstrap analysis. The main systematic errors
+arise from possible impurities and selection effects in the DLA catalogue, and from uncertainties
+in the determination of the Ly$\alpha$ forest bias factors and a correction for effects of high column
+density absorbers. We find no dependence of the DLA bias on column density or redshift. The measured
+bias value corresponds to a host halo mass $\sim 4\cdot10^{11} {\rm M_{\odot}}$ if all DLA were hosted
+in halos of a similar mass. In a realistic model where host halos over a broad mass range have a DLA cross
+section $\Sigma(M_h) \propto M_h^{\alpha}$ down to $M_h > M_{\rm min} =10^{8.5} {\rm M_{\odot}}$,
+we find that $\alpha > 1$ is required to have $b_{\rm DLA}> 1.7$, implying a steeper relation or higher
+value of $M_{\rm min}$ than is generally predicted in numerical simulations of galaxy formation.

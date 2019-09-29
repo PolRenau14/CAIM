@@ -1,0 +1,16 @@
+Recently, topological superconductors based on Josephson junctions in two-dimensional electron
+gases with strong Rashba spin-orbit coupling have been proposed as attractive alternatives to
+wire-based setups. Here, we elucidate how phase-controlled Josephson junctions based on quantum
+wells with [001] growth direction and an arbitrary combination of Rashba and Dresselhaus spin-orbit
+coupling can also host Majorana bound states for a wide range of parameters as long as the magnetic
+field is oriented appropriately. Hence, Majorana bound states based on Josephson junctions can
+appear in a wide class of two-dimensional electron gases. We study the effect of spin-orbit coupling,
+the Zeeman energies, and the superconducting phase difference to create a full topological phase
+diagram and find the optimal stability region to observe Majorana bound states in narrow junctions.
+Surprisingly, for equal Rashba and Dresselhaus spin-orbit coupling, well localized Majorana
+bound states can appear only for phase differences $\phi\neq\pi$ as the topological gap protecting
+the Majorana bound states vanishes at $\phi=\pi$. Our results show that the ratio between Rashba
+and Dresselhaus spin-orbit coupling or the choice of the in-plane crystallographic axis along
+which the superconducting phase bias is applied offer additional tunable knobs to test Majorana
+bound states in these systems. Finally, we discuss signatures of Majorana bound states that could
+be probed experimentally by tunneling conductance measurements at the edge of the junction. 

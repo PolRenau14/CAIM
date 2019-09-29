@@ -1,0 +1,16 @@
+Motivated by seminal paper of Kozlov et al.(1975) we consider in this paper a branching process with
+a geometric offspring distribution parametrized by random success probability $A$ and immigration
+equals $1$ in each generation. In contrast to above mentioned article, we assume that environment
+is heavy-tailed, that is $\log A^{-1} (1-A)$ is regularly varying with a parameter $\alpha>1$,
+that is that ${\bf P} \Big( \log A^{-1} (1-A) > x \Big) = x^{-\alpha} L(x)$ for a slowly varying function
+$L$. We will prove that although the offspring distribution is light-tailed, the environment itself
+can produce extremely heavy tails of distribution of the population at $n$-th generation which
+gets even heavier with $n$ increasing. Precisely, in this work, we prove that asymptotic tail ${\bf
+P}(Z_l \ge m)$ of $l$-th population $Z_l$ is of order $ \Big(\log^{(l)} m \Big)^{-\alpha} L \Big(\log^{(l)}
+m \Big)$ for large $m$, where $\log^{(l)} m = \log \ldots \log m$. The proof is mainly based on Tauberian
+theorem. Using this result we also analyze the asymptotic behaviour of the first passage time $T_n$
+of the state $n \in \mathbb{Z}$ by the walker in a neighborhood random walk in random environment
+created by independent copies $(A_i : i \in \mathbb{Z})$ of $(0,1)$-valued random variable $A$.
+This version differs from the final version as it contains an alternative proof for the tail behavior
+for generation sizes which is not very sharp (lacks constant) but completely avoids arguments based
+on Tauberian theorem. This proof may be of an independent interest. 

@@ -1,0 +1,16 @@
+The stellar yields for galactic modeling applications (SYGMA) code is an open-source module that
+models the chemical ejecta and feedback of simple stellar populations (SSPs). It is intended for
+use in hydrodynamical simulations and semi-analytic models of galactic chemical evolution. The
+module includes the enrichment from asymptotic giant branch (AGB) stars, massive stars, SNIa and
+neutron-star mergers. An extensive and extendable stellar yields library includes the NuGrid
+yields with all elements and many isotopes up to Bi. Stellar feedback from mechanic and frequency-dependent
+radiative luminosities are computed based on NuGrid stellar models and their synthetic spectra.
+The module further allows for customizable initial-mass functions and supernova Ia (SNIa) delay-time
+distributions to calculate time-dependent ejecta based on stellar yield input. A variety of r-process
+sites can be included. A comparison of SSP ejecta based on NuGrid yields with those from Portinari
+et al. (1998) and Marigo (2001) reveals up to a factor of 3.5 and 4.8 less C and N enrichment from AGB
+stars at low metallicity, a result we attribute to NuGrid's modeling of hot-bottom burning. Different
+core-collapse supernova explosion and fallback prescriptions may lead to substantial variations
+for the accumulated ejecta of C, O and Si in the first $10^7\, \mathrm{yr}$ at $Z=0.001$. An online
+interface of the open-source SYGMA module enables interactive simulations, analysis and data
+extraction of the evolution of all species formed by the evolution of simple stellar populations.

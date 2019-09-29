@@ -1,0 +1,16 @@
+Thermospheric mass density is a major driver of satellite drag, the largest source of uncertainty
+in accurately predicting the orbit of satellites in low Earth orbit (LEO) pertinent to space situational
+awareness. Most existing models for thermosphere are either physics-based or empirical. Physics-based
+models offer the potential for good predictive/forecast capabilities but require dedicated parallel
+resources for real-time evaluation and data assimilative capabilities that have yet to be developed.
+Empirical models are fast to evaluate, but offer very limited forecasting abilities. This paper
+presents a methodology of developing a reduced-order dynamic model from high-dimensional physics-based
+models by capturing the underlying dynamical behavior. This work develops a quasi-physical reduced
+order model (ROM) for thermospheric mass density using simulated output from NCAR's Thermosphere-Ionosphere-Electrodynamics
+General Circular Model (TIE-GCM). The ROM is derived using a dynamic system formulation from a large
+dataset of TIE-GCM simulations spanning 12 years and covering a complete solar cycle. Towards this
+end, a new reduced order modeling approach, based on Dynamic Mode Decomposition with control (DMDc),
+that uses the Hermitian space of the problem to derive the dynamics and input matrices in a tractable
+manner is developed. Results show that the ROM performs well in serving as a reduced order surrogate
+for TIE-GCM while almost always maintaining the forecast error to within 5\% of the simulated densities
+after 24 hours. 

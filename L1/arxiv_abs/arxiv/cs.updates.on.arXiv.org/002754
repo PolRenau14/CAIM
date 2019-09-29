@@ -1,0 +1,17 @@
+The vehicular connectivity revolution is fueling the automotive industry's most significant
+transformation seen in decades. However, as modern vehicles become more connected, they also become
+much more vulnerable to cyber-attacks. In this paper, a fully working machine learning approach
+is proposed to protect connected vehicles (fleets and individuals) against such attacks. We present
+a system that monitors different vehicle's interfaces (Network, CAN and OS), extracts relevant
+information based on configurable rules and sends it to a trained generative model to detect deviations
+from normal behavior. Using configurable data collector, we provide a higher level of data abstraction
+as the model is trained based on events instead of raw data, which has a noise-filtering effect and
+eliminates the need to retrain the model whenever a protocol changes. We present a new approach for
+detecting anomalies, tailored to the temporal nature of our domain. Adapting the hybrid approach
+of Gutflaish et al. (2017) to the fully temporal setting, we first train a Hidden Markov Model to learn
+normal vehicle behavior, and then a regression model to calibrate the likelihood threshold for
+anomaly. Using this architecture, our method detects sophisticated and realistic anomalies,
+which are missed by other existing methods monitoring the CAN bus only. We also demonstrate the superiority
+of adaptive thresholds over static ones. Furthermore, our approach scales efficiently from monitoring
+individual cars to serving large fleets. We demonstrate the competitive advantage of our model
+via encouraging empirical results. 

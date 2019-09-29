@@ -1,0 +1,16 @@
+The local dynamics of the lead-free relaxor $0.964\mathrm{Na}_{1/2}\mathrm{Bi}_{1/2}\mathrm{TiO}_3-0.036\mathrm{BaTiO}_3$
+(NBT-3.6BT) have been investigated by a combination of quasielastic neutron scattering (QENS)
+and ab initio molecular dynamics simulations. In a previous paper, we were able to show that the tetragonal
+platelets in the microstructure are crucial for understanding the dielectric properties of NBT-3.6BT
+[F. Pforr et al., Phys. Rev. B 94, 014105 (2016)]. To investigate their dynamics, ab initio molecular
+dynamics simulations were carried out using $\mathrm{Na}_{1/2}\mathrm{Bi}_{1/2}\mathrm{TiO}_3$
+with 001 cation order as a simple model system for the tetragonal platelets in NBT-3.6BT. Similarly,
+111-ordered $\mathrm{Na}_{1/2}\mathrm{Bi}_{1/2}\mathrm{TiO}_3$ was used as a model for the
+rhombohedral matrix. The measured single crystal QENS spectra could be reproduced by a linear combination
+of calculated spectra. We find that the relaxational dynamics of NBT-3.6BT are concentrated in
+the tetragonal platelets. Chaotic stages, during which the local tilt order changes incessantly
+on the timescale of several picoseconds, cause the most significant contribution to the quasielastic
+intensity. They can be regarded as an excited state of tetragonal platelets, whose relaxation back
+into a quasistable state might explain the frequency dependence of the dielectric properties of
+NBT-3.6BT in the 100 GHz to THz range. This substantiates the assumption that the relaxor properties
+of NBT-3.6BT originate from the tetragonal platelets. 

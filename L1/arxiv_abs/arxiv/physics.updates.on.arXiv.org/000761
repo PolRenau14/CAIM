@@ -1,0 +1,16 @@
+The network topology can be described by the number of nodes and the interconnections among them.
+The degree of a node in a network is the number of connections it has to other nodes and the degree distribution
+is the probability distribution of these degrees over the whole network. Therefore, the degree
+is very important structural parameter of network topology. However, given the number of nodes
+and the degree of each node in a network, the topology of the network cannot be determined. Therefore,
+we propose the degree-layer theory of network topology to describe deeply the network topology.
+First, we propose the concept of degree-tree with the breadth-first search tree. The degrees of
+all nodes are layered and have a hierarchical structure. Second,the degree-layer theory is described
+in detail. Two new concepts are defined in the theory. An index is proposed to quantitatively distinguish
+the two network topologies. It also can quantitatively measure the stability of network topology
+built by a model mechanism. One theorem is given and proved, furthermore, and one corollary is derived
+directly from the theorem. Third, the applications of the degree-layer theory are discussed in
+the ER random network, WS small world network and BA scale-free network, and the influences of the
+degree distribution on the stability of network topology are studied in the three networks. In conclusion,
+the degree-layer theory is helpful for accurately describing the network topology, and provides
+a new starting point for researching the similarity and isomorphism between two network topologies.

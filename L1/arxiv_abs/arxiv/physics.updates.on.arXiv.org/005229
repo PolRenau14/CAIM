@@ -1,0 +1,16 @@
+Rock-scissors-paper game, as the simplest model of intransitive relation between competing agents,
+is a frequently quoted model to explain the stable diversity of competitors in the race of surviving.
+When increasing the number of competitors we may face a novel situation because beside the mentioned
+unidirectional predator-prey-like dominance a balanced or peer relation can emerge between some
+competitors. By utilizing this possibility in the present work we generalize a four-state predator-prey
+type model where we establish two groups of species labeled by even and odd numbers. In particular,
+we introduce different invasion probabilities between and within these groups, which results
+in a tunable intensity of bidirectional invasion among peer species. Our study reveals an exceptional
+richness of pattern formations where five quantitatively different phases are observed by varying
+solely the strength of the mentioned inner invasion. The related transition points can be identified
+with the help of appropriate order parameters based on the spatial autocorrelation decay, on the
+fraction of empty sites, and on the variance of the species density. Furthermore, the application
+of diverse, alliance-specific inner invasion rates for different groups may result in the extinction
+of the pair of species where this inner invasion is moderate. These observations highlight that
+beyond the well-known and intensively studied cyclic dominance there is an additional source of
+complexity of pattern formation that has not been explored earlier. 

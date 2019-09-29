@@ -1,0 +1,16 @@
+We consider a stochastic SIR (susceptible $\to$ infective $\to$ recovered) epidemic defined on
+a configuration model random graph, in which infective individuals can infect only their neighbours
+in the graph during an infectious period which has an arbitrary but specified distribution. Central
+limit theorems for the final size (number of initial susceptibles that become infected) of such
+an epidemic as the population size $n$ tends to infinity, with explicit, easy to compute expressions
+for the asymptotic variance, are proved assuming that the degrees are bounded. The results are obtained
+for both the Molloy-Reed random graph, in which the degrees of individuals are deterministic, and
+the Newman-Strogatz-Watts random graph, in which the degrees are independent and identically
+distributed. The central limit theorems cover the cases when the number of initial infectives either
+(a) tends to infinity or (b) is held fixed as $n \to \infty$. In (a) it is assumed that the fraction of
+the population that is initially infected converges to a limit (which may be $0$) as $n \to \infty$,
+while in (b) the central limit theorems are conditional upon the occurrence of a large outbreak (more
+precisely one of size at least $\log n$). Central limit theorems for the size of the largest cluster
+in bond percolation on Molloy-Reed and Newman-Strogatz-Watts random graphs follow immediately
+from our results, as do central limit theorems for the size of the giant component of those graphs.
+Corresponding central limit theorems for site percolation on those graphs are also proved. 

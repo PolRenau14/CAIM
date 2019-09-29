@@ -1,0 +1,16 @@
+JavaCard is a multi-application security platform deployed to over twenty billion smartcards,
+used in applications ranging from secure payments to telecommunications. While the platform is
+a popular choice for established commercial use cases (e.g., SIM cards in telecommunication networks),
+it has notably low adoption rates in: 1) application scenarios requiring recently-standardized
+cryptographic algorithms, 2) research projects, and 3) open source initiatives. We attribute
+this to the restricted access to low-level cryptographic primitives (e.g., elliptic curve operations)
+and the lack of essential data types (e.g., Integers). While the underlying hardware has those capabilities,
+the JavaCard API does not provide calls for the corresponding functionality. Until now, the only
+available workaround was manufacturer-specific proprietary APIs that come with very restrictive
+non-disclosure agreements. In this paper, we introduce a methodology to efficiently derive essential
+data types and low-level cryptographic primitives from high-level operations. Our techniques
+are ideal for resource-constrained platforms, and make optimal use of the underlying hardware,
+while having a small memory footprint. We also introduce JCMathLib, which, to the best of our knowledge,
+is the first generic library for low-level cryptographic operations in JavaCards that does not
+rely on a proprietary API. Without any disclosure limitations, JCMathLib enables open code sharing,
+release of research prototypes and public and third-party code audits. 

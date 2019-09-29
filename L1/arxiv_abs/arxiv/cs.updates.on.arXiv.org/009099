@@ -1,0 +1,16 @@
+Motivation: Drug discovery demands rapid quantification of compound-protein interaction (CPI).
+However, there is a lack of methods that can predict compound-protein affinity from sequences alone
+with high applicability, accuracy, and interpretability. Results: We present a seamless integration
+of domain knowledges and learning-based approaches. Under novel representations of structurally-annotated
+protein sequences, a semi-supervised deep learning model that unifies recurrent and convolutional
+neural networks has been proposed to exploit both unlabeled and labeled data, for jointly encoding
+molecular representations and predicting affinities. Our representations and models outperform
+conventional options in achieving relative error in IC$_{50}$ within 5-fold for test cases and
+20-fold for protein classes not included for training. Performances for new protein classes with
+few labeled data are further improved by transfer learning. Furthermore, separate and joint attention
+mechanisms are developed and embedded to our model to add to its interpretability, as illustrated
+in case studies for predicting and explaining selective drug-target interactions. Lastly, alternative
+representations using protein sequences or compound graphs and a unified RNN/GCNN-CNN model using
+graph CNN (GCNN) are also explored to reveal algorithmic challenges ahead. Availability: Data
+and source codes are available at https://github.com/Shen-Lab/DeepAffinity Supplementary
+Information: Supplementary data are available at this http URL 

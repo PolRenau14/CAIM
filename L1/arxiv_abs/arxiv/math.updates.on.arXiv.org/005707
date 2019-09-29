@@ -1,0 +1,16 @@
+Deep neural networks with rectified linear units (ReLU) are getting more and more popular due to
+its universal representation power and successful applications. Some theoretical progresses
+on deep ReLU network approximation power for functions in Sobolev space and Korobov space have recently
+been made by [D. Yarotsky, Neural Network, 94:103-114, 2017] and [H. Montanelli and Q. Du, SIAM J
+Math. Data Sci., 1:78-92, 2019]. Following similar approaches, we show that deep networks with
+rectified power units (RePU) can give better approximations for smooth functions than deep ReLU
+networks. Our analysis bases on classical polynomial approximation theory and some efficient
+algorithms proposed in this paper to convert polynomials into deep RePU networks of optimal size
+without any approximation error. Comparing to the results on ReLU network, the sizes of RePU networks
+required to approximate functions in Sobolev space and Korobov space with an error tolerance $\varepsilon$,
+by our constructive proofs, are in general $\mathcal{O}(\log \frac{1}{\varepsilon})$ times
+smaller than the sizes of corresponding ReLU networks. Our constructive proofs reveal the relation
+between the depth of the RePU network and the `order' of polynomial approximation. Taking into account
+some other good properties of RePU networks, such as being high-order differentiable and requiring
+less arithmetic operations, we advocate the use of deep RePU networks for problems where the underlying
+high dimensional functions are smooth or derivatives are involved in the loss function. 

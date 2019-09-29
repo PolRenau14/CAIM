@@ -1,0 +1,16 @@
+We describe the construction and characterization of the 280 GHz bolometric focal plane units (FPUs)
+to be deployed on the second flight of the balloon-borne SPIDER instrument. These FPUs are vital
+to SPIDER's primary science goal of detecting or placing an upper limit on the amplitude of the primordial
+gravitational wave signature in the cosmic microwave background (CMB) by constraining the B-mode
+contamination in the CMB from Galactic dust emission. Each 280 GHz focal plane contains a 16 x 16 grid
+of corrugated silicon feedhorns coupled to an array of aluminum-manganese transition-edge sensor
+(TES) bolometers fabricated on 150 mm diameter substrates. In total, the three 280 GHz FPUs contain
+1,530 polarization sensitive bolometers (765 spatial pixels) optimized for the low loading environment
+in flight and read out by time-division SQUID multiplexing. In this paper we describe the mechanical,
+thermal, and magnetic shielding architecture of the focal planes and present cryogenic measurements
+which characterize yield and the uniformity of several bolometer parameters. The assembled FPUs
+have high yields, with one array as high as 95% including defects from wiring and readout. We demonstrate
+high uniformity in device parameters, finding the median saturation power for each TES array to
+be ~3 pW at 300 mK with a less than 6% variation across each array at one standard deviation. These focal
+planes will be deployed alongside the 95 and 150 GHz telescopes in the SPIDER-2 instrument, slated
+to fly from McMurdo Station in Antarctica in December 2018. 

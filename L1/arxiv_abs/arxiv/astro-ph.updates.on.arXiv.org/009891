@@ -1,0 +1,16 @@
+Mass models of 100 nearby spiral and irregular galaxies, covering morphological types from Sa to
+Irr, are computed using H$\alpha$ rotation curves and R$_c$-band surface brightness profiles.
+The kinematics was obtained using a scanning Fabry-Perot interferometer. One of the aims is to compare
+our results with those from Korsaga et al. (2018), which used mid-infrared (MIR) WISE W1 (3.4 $\mu$m)
+photometric data. For the analysis, the same tools were used for both bands. Pseudo-Isothermal
+(ISO) core and Navarro-Frenk-White (NFW) cuspy models have been used. We test Best Fit Models (BFM),
+Maximum Disc Models (MDM) and models for which M/L is fixed using the B - V colors. Similarly to what
+was found in the MIR 3.4 $\mu$m band, most of the observed rotation curves are better described by
+a central core density profile (ISO) than a cuspy one (NFW) when using the optical R$_c$-band. In
+both bands, the dispersion in the (M/L) values is smaller for the fixed M/L fits. As for the W1 photometry,
+the derived DM halos' parameters depend on the morphological types. We find similar relations than
+those in the literature, only when we compare our results for the bulge-poor sub-sample because
+most of previous results were mainly based on late-type spirals. Because the dispersion in the model
+parameters is smaller and because stellar masses are better defined in that band, MIR photometry
+should be preferred, when possible, to the optical bands. It is shown that for high-z galaxies, sensible
+results can still be obtained without full profile decomposition. 

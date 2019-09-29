@@ -1,0 +1,15 @@
+Let $\Omega \subset \mathbb{R}^n$ be a smooth bounded domain having zero in its interior $0 \in \Omega.$
+We fix $0 < \alpha \le 2$ and $0 \le s <\alpha.$ We investigate a sufficient condition for the existence
+of a positive solution for the following perturbed problem associated with the Hardy-Schr\"odinger
+operator $ L_{\gamma,\alpha,}: = ({-}{ \Delta})^{\frac{\alpha}{2}}- \frac{\gamma}{|x|^{\alpha}}$
+on $\Omega:$ \begin{equation*} \left\{\begin{array}{rl} \displaystyle ({-}{ \Delta})^{\frac{\alpha}{2}}u-
+\gamma \frac{u}{|x|^{\alpha}} - \lambda u= {\frac{u^{2_{\alpha}^*(s)-1}}{|x|^s}}+ h(x) u^{q-1}
+& \text{in } {\Omega}\\ u=0 \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,
+& \text{in } \mathbb{R}^n \setminus \Omega, \end{array}\right. \end{equation*} where ${2_{\alpha}^*(s)}:=\frac{2(n-s)}{n-{\alpha}},$
+$\lambda \in \mathbb{R} $, $h \in C^0(\overline{\Omega}),$ $h \ge 0,$ $q \in (2, 2^*_\alpha)$ with
+$2^*_\alpha:=2^*_\alpha(0),$ and $\gamma < \gamma_H(\alpha),$ the latter being the best constant
+in the Hardy inequality on $\mathbb{R}^n.$ We prove that there exists a threshold $ \gamma_{crit}(\alpha)$
+in $( - \infty, \gamma_H(\alpha)) $ such that the existence of solutions of the above problem is guaranteed
+by the non-linear perturbation $(i.e., h(x) u^{q-1})$ whenever $ \gamma \le \gamma_{crit}(\alpha),$
+while for $\gamma_{crit}(\alpha)<\gamma <\gamma_H(\alpha)$, it is determined by a subtle combination
+of the geometry of the domain and the size of the nonlinearity of the perturbations. 

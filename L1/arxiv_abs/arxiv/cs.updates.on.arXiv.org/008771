@@ -1,0 +1,16 @@
+Mobile phones can record individual's daily behavioral data as a time-series. In this paper, we
+present an effective time-series segmentation technique that extracts optimal time segments
+of individual's similar behavioral characteristics utilizing their mobile phone data. One of
+the determinants of an individual's behavior is the various activities undertaken at various times-of-the-day
+and days-of-the-week. In many cases, such behavior will follow temporal patterns. Currently,
+researchers use either equal or unequal interval-based segmentation of time for mining mobile
+phone users' behavior. Most of them take into account static temporal coverage of 24-h-a-day and
+few of them take into account the number of incidences in time-series data. However, such segmentations
+do not necessarily map to the patterns of individual user activity and subsequent behavior because
+of not taking into account the diverse behaviors of individuals over time-of-the-week. Therefore,
+we propose a behavior-oriented time segmentation (BOTS) technique that takes into account not
+only the temporal coverage of the week but also the number of incidences of diverse behaviors dynamically
+for producing similar behavioral time segments over the week utilizing time-series data. Experiments
+on the real mobile phone datasets show that our proposed segmentation technique better captures
+the user's dominant behavior at various times-of-the-day and days-of-the-week enabling the generation
+of high confidence temporal rules in order to mine individual mobile phone users' behavior. 

@@ -1,0 +1,16 @@
+We derive a nonparametric test for constant (continuous) beta over a fixed interval of time. Continuous
+beta is defined as the ratio of the continuous covariation between an asset and observable risk factor
+(e.g., the market return) and the continuous variation of the latter. Our test is based on discrete
+observations of a bivariate \Ito semimartingale with mesh of the observation grid shrinking to
+zero. We first form a consistent and asymptotically mixed normal estimate of beta using all the observations
+within the time interval under the null hypothesis that beta is constant. Using it we form an estimate
+of the residual component of the asset returns that is orthogonal (in martingale sense) to the risk
+factor. Our test is then based on the distinctive asymptotic behavior, under the null and alternative
+hypothesis, of the sample covariation between the risk factor and the estimated residual component
+of the asset returns over blocks with asymptotically shrinking time span. We document satisfactory
+finite sample properties of the test on simulated data. In an empirical application based on 10-minute
+data we analyze the time variation in market betas of four assets over the period $2006$--$2012$.
+The results suggest that (for likely structural reasons) for one of the assets there is statistically
+nontrivial variation in market beta even for a period as short as a week. On the other hand, for the
+rest of the assets in our analysis we find evidence that a window of constant beta of one week to one
+month is statistically plausible. 

@@ -1,0 +1,17 @@
+In this work, a novel synthetic iteration scheme (SIS) is developed for the LBE to find solutions
+to Kramer's problem accurately and efficiently: the velocity distribution function is first solved
+by the conventional iterative scheme, then it is modified such that in each iteration i) the flow
+velocity is guided by an ordinary differential equation that is asymptotic-preserving at the Navier-Stokes
+limit and ii) the shear stress is equal to the average shear stress. Based on the Bhatnagar-Gross-Krook
+model, the SIS is assessed to be efficient and accurate. Then we investigate the Kramer's problem
+for gases interacting through the inverse power-law, shielded Coulomb, and Lennard-Jones potentials,
+subject to diffuse-specular and Cercignani-Lampis gas-surface boundary conditions. When the
+tangential momentum accommodation coefficient (TMAC) is not larger than one, the Knudsen layer
+function is strongly affected by the potential, where its value and width increase with the effective
+viscosity index of gas molecules. Moreover, the Knudsen layer function exhibits similarities
+among different values of TMAC when the intermolecular potential is fixed. For Cercignani-Lampis
+boundary condition with TMAC larger than one, both the viscous slip coefficient and Knudsen layer
+function are affected by the intermolecular potential, especially when the "backward" scattering
+limit is approached. With the asymptotic theory by Jiang and Luo for the singular behavior of the
+velocity gradient in the vicinity of the solid surface, we find that the whole Knudsen layer function
+can be well fitted by power series. 

@@ -1,0 +1,16 @@
+We examine the statistics of the low-redshift Ly-alpha forest in an adaptive mesh refinement hydrodynamic
+cosmological simulation of sufficient volume to include distinct large-scale environments.
+We compare our HI column density distribution of absorbers both with recent work and between two
+highly-refined regions of our simulation: a large-scale overdensity and a large-scale underdensity
+(on scales of approximately 20 Mpc). We recover the average results presented in Kollmeier et al.
+(2014) using different simulation methods. We further break down these results as a function of
+environment to examine the detailed dependence of absorber statistics on large-scale density.
+We find that the slope of the HI column density distribution in the 10$^{12.5}$ $\le$ N$_{HI}$/cm$^{-2}$
+$\le$ 10$^{14.5}$ range depends on environment such that the slope becomes steeper for higher environmental
+density, and this difference reflects distinct physical conditions of the intergalactic medium
+on these scales. We track this difference to the different temperature structures of filaments
+in varying environments. Specifically, filaments in the overdensity are hotter and, correspondingly,
+are composed of gas with lower HI fractions than those in underdense environments. Our results highlight
+that in order to understand the physics driving the HI CDD, we need not only improved accounting of
+the sources of ionizing UV photons, but also of the physical conditions of the IGM and how this may
+vary as a function of large-scale environment. 

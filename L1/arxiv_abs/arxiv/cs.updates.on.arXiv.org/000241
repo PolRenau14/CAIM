@@ -1,0 +1,16 @@
+Given a set of points that sample a shape, the Rips complex of the data points is often used in machine-learning
+to provide an approximation of the shape easily-computed. It has been proved recently that the Rips
+complex captures the homotopy type of the shape assuming the vertices of the complex meet some mild
+sampling conditions. Unfortunately, the Rips complex is generally high-dimensional. To remedy
+this problem, it is tempting to simplify it through a sequence of collapses. Ideally, we would like
+to end up with a triangulation of the shape. Experiments suggest that, as we simplify the complex
+by iteratively collapsing faces, it should indeed be possible to avoid entering a dead end such as
+the famous Bing's house with two rooms. This paper provides a theoretical justification for this
+empirical observation. We demonstrate that the Rips complex of a point-cloud (for a well-chosen
+scale parameter) can always be turned into a simplicial complex homeomorphic to the shape by a sequence
+of collapses, assuming the shape is nicely triangulable and well-sampled (two concepts we will
+explain in the paper). To establish our result, we rely on a recent work which gives conditions under
+which the Rips complex can be converted into a Cech complex by a sequence of collapses. We proceed
+in two phases. Starting from the Cech complex, we first produce a sequence of collapses that arrives
+to the Cech complex, restricted by the shape. We then apply a sequence of collapses that transforms
+the result into the nerve of some robust covering of the shape. 

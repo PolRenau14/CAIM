@@ -1,0 +1,17 @@
+We present FLASH ({\bf F}ast {\bf L}SH {\bf A}lgorithm for {\bf S}imilarity search accelerated
+with {\bf H}PC (High-Performance Computing)), a similarity search system for ultra-high dimensional
+datasets on a single machine, which does not require similarity computation. Our system is an auspicious
+illustration of the power of randomized algorithms carefully tailored for high-performance computing
+platforms. We leverage LSH style randomized indexing procedure and combine it with several principled
+techniques, such as reservoir sampling, recent advances in one-pass minwise hashing, and count
+based estimations. The combination, while retaining sound theoretical guarantees, reduces the
+computational as well as parallelization overhead of our proposal. We provide CPU and hybrid CPU-GPU
+implementations of FLASH for replicability of our results https://github.com/RUSH-LAB/Flash.
+We evaluate FLASH on several real high dimensional datasets coming from different domains including
+text, malicious URL, click-through prediction, social networks, etc. Our experiments shed new
+light on the difficulties associated with datasets having several millions of dimensions. Current
+state-of-the-art implementations either fail on the presented scale or are orders of magnitude
+slower than our system. FLASH is capable of computing an approximate k-NN graph, from scratch, over
+full webspam dataset (1.3 billion nonzeros) in less than 10 seconds. Computing full k-NN graph in
+less than 10 seconds on webspam dataset, using brute-force ($n^2D$), will require at least 20 TFLOPS.
+We hope that FLASH gets adopted in practice. 

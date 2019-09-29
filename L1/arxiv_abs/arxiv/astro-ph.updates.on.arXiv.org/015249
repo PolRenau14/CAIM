@@ -1,0 +1,16 @@
+Photon-hadronic interactions are important for the sources and the transport of Ultra-High Energy
+Cosmic Rays (UHECRs). Current state-of-the-art cosmic ray transport simulations handle nuclear
+disintegration at energies of the Giant Dipole Resonance at a more sophisticated level, as well
+as the photohadronic interactions of nucleons in the high-energy regime above the pion production
+threshold. However, the interactions of nuclei above the pion production threshold are commonly
+modeled by treating the nucleus as a superposition of free nucleons -- ignoring the effect of the
+nuclear medium. We construct an improved, inclusive model for the photomeson regime for nuclei
+with $A \leq 56$ by employing more accurate, data-driven parametrizations of the interaction cross
+section, the fragmentation of the primary nucleus and the inclusive pion production cross section
+that directly affects the production of astrophysical neutrinos. We apply our results to two multi-messenger
+scenarios (Tidal Disruption Events and Gamma-Ray Bursts) in which photonuclear interactions
+in the photomeson regime are the dominant cooling process for the highest energy cosmic rays. While
+we find moderate changes to the mass composition of UHECRs, the astrophysical neutrino fluxes exhibit
+a significant (factor of a few) reduction compared to the na\"ive superposition of free nucleons
+for sources of UHECR nuclei with a populated cascade. The numerical code implementing the model
+has been made publicly available, which facilitates the integration of our results in similar frameworks.

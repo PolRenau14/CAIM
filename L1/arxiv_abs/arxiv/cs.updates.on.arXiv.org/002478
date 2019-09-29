@@ -1,0 +1,16 @@
+Embedded controllers for cyber-physical systems are often parameterized by look-up maps representing
+discretizations of continuous functions on metric spaces. For example, a non-linear control action
+may be represented as a table of pre-computed values, and the output action of the controller for
+a given input is computed by using interpolation. For industrial-scale control systems, several
+man-hours of effort is spent in tuning the values within the look-up maps, and sub-optimal performance
+is often associated with inappropriate values in look-up maps. Suppose that during testing, the
+controller code is found to have sub-optimal performance. The parameter fault localization problem
+asks which parameter values in the code are potential causes of the sub-optimal behavior. We present
+a statistical parameter fault localization approach based on binary similarity coefficients
+and set spectra methods. Our approach extends previous work on software fault localization to a
+quantitative setting where the parameters encode continuous functions over a metric space and
+the program is reactive. We have implemented our approach in a simulation workflow for automotive
+control systems in Simulink. Given controller code with parameters (including look-up maps),
+our framework bootstraps the simulation workflow to return a ranked list of map entries which are
+deemed to have most impact on the performance. On a suite of industrial case studies with seeded errors,
+our tool was able to precisely identify the location of the errors. 

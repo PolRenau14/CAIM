@@ -1,0 +1,17 @@
+The need for more accurate asteroid models is perhaps secondary to the need to measure their quality.
+The uncertainties of models' parameters propagate to quantities like volume or density -- the most
+important and informative properties of asteroids -- affecting conclusions about their physical
+nature. Our knowledge on shapes and spins of small solar system bodies comes mostly from visual,
+disk-integrated photometry. In this work we present a method for asteroid model uncertainty assessment
+based on visual photometry (lightcurves and sparse-in-time absolute measurements) allowing
+the determination of realistic volume uncertainty, as well as spin axis orientation, rotational
+period and local surface features. The sensitivity analysis is conducted by creating clones of
+the nominal model and accepting the ones that fit the observations within a confidence level. The
+uncertainties of model parameters are extracted from the extreme values found in the accepted clone
+population. Creation of such population of clones enables the conversion of a deterministic asteroid
+model into stochastic one, and can be utilized to create observation predictions with error bars.
+The method was used to assess the uncertainties of fictitious test models and real targets, i.e.
+(21) Lutetia, (89) Julia, (243) Ida, (433) Eros and (162173) Ryugu. We conclude that volumes, and
+subsequently, densities of asteroids derived from lightcurve-based models likely have vastly
+understated uncertainties, the biggest source of which is the inability to establish the extent
+of the model along its spin axis. 

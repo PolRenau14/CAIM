@@ -1,0 +1,16 @@
+We classify symmetry fractionalization and anomalies in a (3+1)d U(1) gauge theory enriched by
+a global symmetry group $G$. We find that, in general, a symmetry-enrichment pattern is specified
+by 4 pieces of data: $\rho$, a map from $G$ to the duality symmetry group of this $\mathrm{U}(1)$ gauge
+theory which physically encodes how the symmetry permutes the fractional excitations, $\nu\in\mathcal{H}^2_{\rho}[G,
+\mathrm{U}_\mathsf{T}(1)]$, the symmetry actions on the electric charge, $p\in\mathcal{H}^1[G,
+\mathbb{Z}_\mathsf{T}]$, indication of certain domain wall decoration with bosonic integer
+quantum Hall (BIQH) states, and a torsor $n$ over $\mathcal{H}^3_{\rho}[G, \mathbb{Z}]$, the
+symmetry actions on the magnetic monopole. However, certain choices of $(\rho, \nu, p, n)$ are not
+physically realizable, i.e. they are anomalous. We find that there are two levels of anomalies.
+The first level of anomalies obstruct the fractional excitations being deconfined, thus are referred
+to as the deconfinement anomaly. States with these anomalies can be realized on the boundary of a
+(4+1)d long-range entangled state. If a state does not suffer from a deconfinement anomaly, there
+can still be the second level of anomaly, the more familiar 't Hooft anomaly, which forbids certain
+types of symmetry fractionalization patterns to be implemented in an on-site fashion. States with
+these anomalies can be realized on the boundary of a (4+1)d short-range entangled state. We apply
+these results to some interesting physical examples. 

@@ -1,0 +1,16 @@
+Building on the successes of satisfiability modulo theories (SMT), Bj{\o}rner et al. initiated
+a research programme advocating Horn constraints as a suitable basis for automatic program verification.
+The notion of first-order constrained Horn clauses has recently been extended to higher-order
+logic by Cathcart Burn et al. To exploit the remarkable efficiency of SMT solving, a natural approach
+to solve systems of higher-order Horn constraints is to reduce them to systems of first-order Horn
+constraints. This paper presents a defunctionalization algorithm to achieve the reduction. Given
+a well-sorted higher-order constrained Horn clause (HoCHC) problem instance, the defunctionalization
+algorithm constructs a first-order well-sorted constrained Horn clause problem. In addition
+to well-sortedness of the algorithm's output, we prove that if an input HoCHC is solvable, then the
+result of its defunctionalization is solvable. The converse also holds, which we prove using a recent
+result on the continuous semantics of HoCHC. To our knowledge, this defunctionalization algorithm
+is the first sound and complete reduction from systems of higher-order Horn constraints to systems
+of first-order Horn constraints. We have constructed DefMono, a prototype implementation of the
+defunctionalization algorithm. It first defunctionalizes an input HoCHC problem and then feeds
+the result into a backend SMT solver. We have evaluated the performance of DefMono empirically by
+comparison with two other higher-order verification tools. 

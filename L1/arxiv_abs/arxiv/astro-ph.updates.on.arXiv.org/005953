@@ -1,0 +1,16 @@
+Gravitational wave astronomy is just beginning, after the recent success of the four direct detections
+of binary black hole (BBH) mergers, the first observation from a binary neutron star inspiral and
+with the expectation of many more events to come. Given the possibility to detect waves from not perfectly
+modeled astrophysical processes, it is fundamental to be ready to calculate the polarization waveforms
+in the case of searches using non-template algorithms. In such case, the waveform polarizations
+are the only quantities that contain direct information about the generating process. We present
+the performance of a new valuable tool to estimate the inverse solution of gravitational wave transient
+signals, starting from the analysis of the signal properties of a non-template algorithm that is
+open to a wider class of gravitational signals not covered by template algorithms. We highlight
+the contributions to the wave polarization associated with the detector response, the sky localization
+and the polarization angle of the source. In this paper we present the performances of such method
+and its implications by using two main classes of transient signals, resembling the limiting case
+for most simple and complicated morphologies. Performances are encouraging, for the tested waveforms:
+the correlation between the original and the reconstructed waveforms spans from better than 80%
+for simple morphologies to better than 50% for complicated ones. For a not-template search this
+results can be considered satisfactory to reconstruct the astrophysical progenitor. 

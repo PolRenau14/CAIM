@@ -1,0 +1,16 @@
+This article investigates emergence and complexity in complex systems that can share information
+on a network. To this end, we use a theoretical approach from information theory, computability
+theory, and complex networks. One key studied question is how much emergent complexity (or information)
+arises when a population of computable systems is networked compared with when this population
+is isolated. First, we define a general model for networked theoretical machines, which we call
+algorithmic networks. Then, we narrow our scope to investigate algorithmic networks that optimize
+the average fitnesses of nodes in a scenario in which each node imitates the fittest neighbor and
+the randomly generated population is networked by a time-varying graph. We show that there are graph-topological
+conditions that cause these algorithmic networks to have the property of expected emergent open-endedness
+for large enough populations. In other words, the expected emergent algorithmic complexity of
+a node tends to infinity as the population size tends to infinity. Given a dynamic network, we show
+that these conditions imply the existence of a central time to trigger expected emergent open-endedness.
+Moreover, we show that networks with small diameter compared to the network size meet these conditions.
+We also discuss future research based on how our results are related to some problems in network science,
+information theory, computability theory, distributed computing, game theory, evolutionary
+biology, and synergy in complex systems. 

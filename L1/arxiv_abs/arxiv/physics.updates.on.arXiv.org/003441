@@ -1,0 +1,16 @@
+Catastrophic events, though rare, do occur and when they occur, they have devastating effects.
+It is, therefore, of utmost importance to understand the complexity of the underlying dynamics
+and signatures of catastrophic events, such as market crashes. For deeper understanding, we choose
+the US and Japanese markets from 1985 onward, and study the evolution of the cross-correlation structures
+of stock return matrices and their eigenspectra over different short time-intervals or "epochs".
+A slight non-linear distortion is applied to the correlation matrix computed for any epoch, leading
+to the emerging spectrum of eigenvalues. The statistical properties of the emerging spectrum display:
+(i) the shape of the emerging spectrum reflects the market instability, (ii) the smallest eigenvalue
+may be able to statistically distinguish the nature of a market turbulence or crisis -- internal
+instability or external shock, and (iii) the time-lagged smallest eigenvalue has a statistically
+significant correlation with the mean market cross-correlation. The smallest eigenvalue seems
+to indicate that the financial market has become more turbulent in a similar way as the mean does.
+Yet we show features of the smallest eigenvalue of the emerging spectrum that distinguish different
+types of market instabilities related to internal or external causes. Based on the paradigmatic
+character of financial time series for other complex systems, the capacity of the emerging spectrum
+to understand the nature of instability may be a new feature, which can be broadly applied. 

@@ -1,0 +1,16 @@
+A modified-Bloch equation based on the fractal derivative is proposed to analyze pulsed field gradient
+(PFG) anomalous diffusion. Anomalous diffusion exists in many systems such as in polymer or biological
+systems. PFG anomalous diffusion could be analyzed based on the fractal derivative or the fractional
+derivative. Compared to the fractional derivative, the fractal derivative is simpler, and it is
+faster in numerical evaluations. In this paper, the fractal derivative is employed to build the
+modified-Bloch equation that is a fundamental method to describe the spin magnetization evolution
+affected by fractional diffusion, Larmor precession, and relaxation. An equivalent form of the
+fractal derivative is proposed to convert the fractional diffusion equation, which can then be
+combined with the precession and relaxation equations to get the modified-Bloch equation. This
+modified-Bloch equation yields a general PFG signal attenuation expression that includes the
+finite gradient pulse width (FGPW) effect, namely, the signal attenuation during field gradient
+pulse. The FGPW effect needs to be considered in most clinical MRI applications, and including FGPW
+effect allows the detecting of slower diffusion that is often encountered in polymer systems. Additionally,
+the spin-spin relaxation effect can be analyzed, which provides a broad view of the dynamic process
+in materials. The modified-Bloch equation based on the fractal derivative could provide a fundamental
+theoretical model for PFG anomalous diffusion. 

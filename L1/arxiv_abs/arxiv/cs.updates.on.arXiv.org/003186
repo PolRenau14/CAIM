@@ -1,0 +1,16 @@
+Solving a large-scale system of linear equations is a key step at the heart of many algorithms in machine
+learning, scientific computing, and beyond. When the problem dimension is large, computational
+and/or memory constraints make it desirable, or even necessary, to perform the task in a distributed
+fashion. In this paper, we consider a common scenario in which a taskmaster intends to solve a large-scale
+system of linear equations by distributing subsets of the equations among a number of computing
+machines/cores. We propose an accelerated distributed consensus algorithm, in which at each iteration
+every machine updates its solution by adding a scaled version of the projection of an error signal
+onto the nullspace of its system of equations, and where the taskmaster conducts an averaging over
+the solutions with momentum. The convergence behavior of the proposed algorithm is analyzed in
+detail and analytically shown to compare favorably with the convergence rate of alternative distributed
+methods, namely distributed gradient descent, distributed versions of Nesterov's accelerated
+gradient descent and heavy-ball method, the block Cimmino method, and ADMM. On randomly chosen
+linear systems, as well as on real-world data sets, the proposed method offers significant speed-up
+relative to all the aforementioned methods. Finally, our analysis suggests a novel variation of
+the distributed heavy-ball method, which employs a particular distributed preconditioning,
+and which achieves the same theoretical convergence rate as the proposed consensus-based method.

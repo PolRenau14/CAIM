@@ -1,0 +1,16 @@
+Labeling each instance in a large dataset is extremely labor- and time- consuming . One way to alleviate
+this problem is active learning, which aims to which discover the most valuable instances for labeling
+to construct a powerful classifier. Considering both informativeness and representativeness
+provides a promising way to design a practical active learning. However, most existing active learning
+methods select instances favoring either informativeness or representativeness. Meanwhile,
+many are designed based on the binary class, so that they may present suboptimal solutions on the
+datasets with multiple classes. In this paper, a hybrid informative and representative criterion
+based multi-class active learning approach is proposed. We combine the informative informativeness
+and representativeness into one formula, which can be solved under a unified framework. The informativeness
+is measured by the margin minimum while the representative information is measured by the maximum
+mean discrepancy. By minimizing the upper bound for the true risk, we generalize the empirical risk
+minimization principle to the active learning setting. Simultaneously, our proposed method makes
+full use of the label information, and the proposed active learning is designed based on multiple
+classes. So the proposed method is not suitable to the binary class but also the multiple classes.
+We conduct our experiments on twelve benchmark UCI data sets, and the experimental results demonstrate
+that the proposed method performs better than some state-of-the-art methods. 

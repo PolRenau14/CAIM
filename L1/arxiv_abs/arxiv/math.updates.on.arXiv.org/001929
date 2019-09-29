@@ -1,0 +1,16 @@
+Meirowitz [17] showed existence of continuous behavioural function equilibria for Bayesian games
+with non-finite type and action spaces. A key condition for the proof of the existence result is equi-continuity
+of behavioural functions which, according to Meirowitz [17, page 215], is likely to fail or difficult
+to verify. In this paper, we advance the research by presenting some verifiable conditions for the
+required equi-continuity, namely some growth conditions of the expected utility functions of
+each player at equilibria. In the case when the growth is of second order, we demonstrate that the
+condition is guaranteed by strong concavity of the utility function. Moreover, by using recent
+research on polynomial decision rules and optimal discretization approaches in stochastic and
+robust optimization, we propose some approximation schemes for the Bayesian equilibrium problem:
+first, by restricting the behavioral functions to polynomial functions of certain order over the
+space of types, we demonstrate that solving a Bayesian polynomial behavioural function equilibrium
+is down to solving a finite dimensional stochastic equilibrium problem; second, we apply the optimal
+quantization method due to Pflug and Pichler [18] to develop an effective discretization scheme
+for solving the latter. Error bounds are derived for the respective approximation schemes under
+moderate conditions and both aca- demic examples and numerical results are presented to explain
+the Bayesian equilibrium problem and their approximation schemes. 

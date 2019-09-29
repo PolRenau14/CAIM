@@ -1,0 +1,17 @@
+Precipitable water vapor (PWV) is an important climate parameter indicative of available moisture
+in the atmosphere; it is also an important greenhouse gas. Observations of precipitable water vapor
+in sub-Sahel West Africa are almost non-existent. Several Aerosol Robotic Network (AERONET) sites
+have been established across West Africa, and observations from four of them, namely, Ilorin (4.34o
+E, 8.32o N), Cinzana (5.93o W, 13.28o N), Banizoumbou (2.67o E, 13.54o N) and Dakar (16.96o W, 14.39o
+N) are being used in this study. Data spanning the period from 2004 to 2014 have been selected; they
+include conventional humidity parameters, remotely sensed aerosol and precipitable water information
+and numerical model outputs. Since in Africa, only conventional information on humidity parameters
+is available, it is important to utilize the unique observations from the AERONET network to calibrate
+empirical formulas frequently used to estimate precipitable water vapor from humidity measurements.
+An empirical formula of the form PWV=aT_d+b where T_d is the surface dew point temperature, a and
+b are constants, was fitted to the data and is proposed as applicable to the climatic condition of
+the sub-Sahel. Moreover, we have also used the AERONET information to evaluate the capabilities
+of well-established numerical weather prediction (NWP) models such as ERA Interim Reanalysis,
+NCEP-DOE Reanalysis II and NCEP-CFSR, to estimate precipitable water vapor in the sub-Sahel West
+Africa; it was found that the models tend to overestimate the amount of precipitable water at the
+selected sites by about 25 %. 

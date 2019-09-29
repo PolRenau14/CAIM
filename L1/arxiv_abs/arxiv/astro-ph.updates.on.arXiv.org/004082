@@ -1,0 +1,17 @@
+We have shown previously that a broad correlation between the peak radio luminosity and the variability
+time-scales, approximately L ~ t^5, exists for variable synchrotron emitting sources and that
+different classes of astrophysical source occupy different regions of luminosity and time-scale
+space. Based on those results, we investigate whether the most basic information available for
+a newly discovered radio variable or transient - their rise and/or decline rate - can be used to set
+initial constraints on the class of events from which they originate. We have analysed a sample of
+~ 800 synchrotron flares, selected from light-curves of ~ 90 sources observed at 5-8 GHz, representing
+a wide range of astrophysical phenomena, from flare stars to supermassive black holes. Selection
+of outbursts from the noisy radio light-curves has been done automatically in order to ensure reproducibility
+of results. The distribution of rise/decline rates for the selected flares is modelled as a Gaussian
+probability distribution for each class of object, and further convolved with estimated areal
+density of that class in order to correct for the strong bias in our sample. We show in this way that
+comparing the measured variability time-scale of a radio transient/variable of unknown origin
+can provide an early, albeit approximate, classification of the object, and could form part of a
+suite of measurements used to provide early categorisation of such events. Finally, we also discuss
+the effect scintillating sources will have on our ability to classify events based on their variability
+time-scales. 

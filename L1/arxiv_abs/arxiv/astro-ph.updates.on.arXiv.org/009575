@@ -1,0 +1,16 @@
+We study dwarf galaxy formation at high redshift ($z\ge5$) using a suite of high- resolution, cosmological
+hydrodynamic simulations and a semi-analytic model (SAM). We focus on gas accretion, cooling and
+star formation in this work by isolating the relevant process from reionization and supernova feedback,
+which will be further discussed in a companion paper. We apply the SAM to halo merger trees constructed
+from a collisionless N-body simulation sharing identical initial conditions to the hydrodynamic
+suite, and calibrate the free parameters against the stellar mass function predicted by the hydrodynamic
+simulations at z = 5. By making comparisons of the star formation history and gas components calculated
+by the two modelling techniques, we find that semi-analytic prescriptions that are commonly adopted
+in the literature of low-redshift galaxy formation do not accurately represent dwarf galaxy properties
+in the hydrodynamic simulation at earlier times. We propose 3 modifications to SAMs that will provide
+more accurate high-redshift simulations. These include 1) the halo mass and baryon fraction which
+are overestimated by collisionless N-body simulations; 2) the star formation efficiency which
+follows a different cosmic evolutionary path from the hydrodynamic simulation; and 3) the cooling
+rate which is not well defined for dwarf galaxies at high redshift. Accurate semi-analytic modelling
+of dwarf galaxy formation informed by detailed hydrodynamical modelling will facilitate reliable
+semi-analytic predictions over the large volumes needed for the study of reionization. 

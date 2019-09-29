@@ -1,0 +1,16 @@
+An HI mass function (HIMF) was derived for 751 galaxies selected from the deep Parkes HI survey across
+the Zone of Avoidance (HIZOA). HIZOA contains both the Great Attractor Wall and the Local Void, two
+of the most extreme environments in the local Universe, making the sample eminently suitable to
+explore the overall HIMF as well as its dependence on local environment. To avoid any selection bias
+because of the different distances of these large-scale structures, we first used the two-dimensional
+stepwise maximum-likelihood method for the definition of an average HIMF. The resulting parameters
+of a Schechter-type HIMF for the whole sample are $\alpha = -1.33\pm0.05$, $\log(M_{\rm HI}^*/M_{\odot})=9.93\pm0.04$,
+and $\phi^* = (3.9\pm0.6)\times 10^{-3}$ Mpc$^{-3}$. We then used the $k$-th nearest-neighbour
+method to subdivide the sample into four environments of decreasing local density and derived the
+Schechter parameters for each subsample. A strong trend is observed, for the slope $\alpha$ of the
+low-mass end of the HIMF. The slope changes from being nearly flat, i.e. $\alpha = -0.99\pm0.19$
+for galaxies residing in the densest bin, to the steep value of $\alpha = -1.31\pm0.10$ in the lowest
+density bin. The characteristic mass, however, does not show a clear trend between the highest and
+lowest density bins. We find similar trends in the low-mass slope when we compare the results for
+a region dominated by the Great Attractor, and the Local Void, which are found to be over-, respectively
+underdense by 1.35 and 0.59 compared to the whole sample. 

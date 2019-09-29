@@ -1,0 +1,16 @@
+We consider the quasi-static problem governing the localized surface plasmon modes and permittivity
+eigenvalues $\epsilon$ of smooth, arbitrarily shaped, axisymmetric inclusions. We develop an
+asymptotic theory for the dense part of the spectrum, i.e., close to the accumulation value $\epsilon=-1$
+at which a flat interface supports surface plasmons; in this regime, the field oscillates rapidly
+along the surface and decays exponentially away from it on a comparable scale. With $\tau=-(\epsilon+1)$
+as the small parameter, we develop a surface-ray description of the eigenfunctions in a narrow boundary
+layer about the interface; the fast phase variation, as well as the slowly varying amplitude and
+geometric phase, along the rays are determined as functions of the local geometry. We focus on modes
+varying at most moderately in the azimuthal direction, in which case the surface rays are meridian
+arcs that focus at the two poles. Asymptotically matching the diverging ray solutions with expansions
+valid in inner regions in the vicinities of the poles yields the quantization rule $$\frac{1}{\tau}
+\sim \frac{\pi n }{\Theta}+\frac{1}{2}\left(\frac{\pi}{\Theta}-1\right)+o(1),$$ where
+$n\gg1$ is an integer and $\Theta$ a geometric parameter given by the product of the inclusion length
+and the reciprocal average of its cross-sectional radius along its symmetry axis. For a sphere,
+$\Theta=\pi$, whereby the formula returns the exact eigenvalues $\epsilon_n=-1-1/n$. We also
+demonstrate good agreement with exact solutions in the case of prolate spheroids. 

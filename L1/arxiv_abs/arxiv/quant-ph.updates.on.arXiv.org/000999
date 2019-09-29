@@ -1,0 +1,16 @@
+The von Neumann entropy of a graph is a spectral complexity measure that has recently found applications
+in complex networks analysis and pattern recognition. Two variants of the von Neumann entropy exist
+based on the graph Laplacian and normalized graph Laplacian, respectively. Due to its computational
+complexity, previous works have proposed to approximate the von Neumann entropy, effectively
+reducing it to the computation of simple node degree statistics. Unfortunately, a number of issues
+surrounding the von Neumann entropy remain unsolved to date, including the interpretation of this
+spectral measure in terms of structural patterns, understanding the relation between its two variants,
+and evaluating the quality of the corresponding approximations. In this paper we aim to answer these
+questions by first analysing and comparing the quadratic approximations of the two variants and
+then performing an extensive set of experiments on both synthetic and real-world graphs. We find
+that 1) the two entropies lead to the emergence of similar structures, but with some significant
+differences; 2) the correlation between them ranges from weakly positive to strongly negative,
+depending on the topology of the underlying graph; 3) the quadratic approximations fail to capture
+the presence of non-trivial structural patterns that seem to influence the value of the exact entropies;
+4) the quality of the approximations, as well as which variant of the von Neumann entropy is better
+approximated, depends on the topology of the underlying graph. 

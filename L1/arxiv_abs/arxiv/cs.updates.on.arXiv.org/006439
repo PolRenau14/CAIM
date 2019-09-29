@@ -1,0 +1,16 @@
+Task parallelism is designed to simplify the task of parallel programming. When executing a task
+parallel program on modern NUMA architectures, it can fail to scale due to the phenomenon called
+work inflation, where the overall processing time that multiple cores spend on doing useful work
+is higher compared to the time required to do the same amount of work on one core, due to effects experienced
+only during parallel executions such as additional cache misses, remote memory accesses, and memory
+bandwidth issues. It's possible to mitigate work inflation by co-locating the computation with
+the data, but this is nontrivial to do with task parallel programs. First, by design, the scheduling
+for task parallel programs is automated, giving the user little control over where the computation
+is performed. Second, the platforms tend to employ work stealing, which provides strong theoretical
+guarantees, but its randomized protocol for load balancing does not discern between work items
+that are far away versus ones that are closer. In this work, we propose NUMA-WS, a NUMA-aware task
+parallel platform engineering based on the work-first principle. By abiding by the work-first
+principle, we are able to obtain a platform that is work efficient, provides the same theoretical
+guarantees as the classic work stealing scheduler, and mitigates work inflation. Furthermore,
+we implemented a prototype platform by modifying Intel's Cilk Plus runtime system and empirically
+demonstrate that the resulting system is work efficient and scalable. 

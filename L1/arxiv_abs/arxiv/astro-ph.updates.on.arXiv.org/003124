@@ -1,0 +1,16 @@
+We present time series analyses of the full Kepler dataset of Zw 229-15. This Kepler light curve ---
+with a baseline greater than three years, composed of virtually continuous, evenly sampled 30-minute
+measurements --- is unprecedented in its quality and precision. We utilize two methods of power
+spectral analysis to investigate the optical variability and search for evidence of a bend frequency
+associated with a characteristic optical variability timescale. Each method yields similar results.
+The first interpolates across data gaps to use the standard Fourier periodogram. The second, using
+the CARMA-based time-domain modeling technique of Kelly et al. (2014), does not need evenly-sampled
+data. Both methods find excess power at high frequencies that may be due to Kepler instrumental effects.
+More importantly both also show strong bends ({\Delta}{\alpha} ~ 2) at timescales of ~5 days, a feature
+similar to those seen in the X-ray PSDs of AGN but never before in the optical. This observed ~5 day
+timescale may be associated with one of several physical processes potentially responsible for
+the variability. A plausible association could be made with light-crossing, dynamical or thermal
+timescales, depending on the assumed value of the accretion disk size and on unobserved disk parameters
+such as {\alpha} and H/R. This timescale is not consistent with the viscous timescale, which would
+be years in a ~10^7 Solar mass AGN such as Zw 229-15. However there must be a second bend on long (>~1
+year) timescales, and that feature could be associated with the viscous timescale. 

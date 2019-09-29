@@ -1,0 +1,16 @@
+Let $p$ be an odd prime. For any $p$-adic integer $a$ we let $a\ (p)$ denote the unique integer $x$ with
+$-p/2<x<p/2$ and $x-a$ divisible by $p$. In this article we first study some permutations involving
+quadratic residues modulo $p$. For instance, we consider the following three sequences. \begin{align*}
+&A_0: 1^2\ (p),\ 2^2\ (p),\ \cdots,\ ((p-1)/2)^2\ (p),\\ &A_1: a_1\ (p),\ a_2\ (p),\ \cdots,\ a_{(p-1)/2}\
+(p),\\ &A_2: g^2\ (p),\ g^4\ (p),\ \cdots,\ g^{p-1}\ (p), \end{align*} where $g\in\mathbb{Z}$
+is a primitive root modulo $p$ and $1\le a_1<a_2<\cdots<a_{(p-1)/2}\le p-1$ are all quadratic
+residues modulo $p$. Obviously $A_i$ is a permutation of $A_j$ and we call this permutation $\sigma_{i,j}$.
+Sun obtained the sign of $\sigma_{0,1}$ when $p\equiv 3\pmod4$. In this paper we give the sign of
+$\sigma_{0,1}$ when $p\equiv 1\pmod 4$ and determine the sign $\sigma_{0,2}$ when $p\equiv 5\pmod8$.
+Moreover, we also investigate problems analogous to the above in the ring of Gaussian integers.
+In the second part of this paper, let $n>2$ be a positive integers. $\mathbb{Q}(\zeta_n)$ denotes
+the $n$-th cyclotomic field, where $\zeta_n$ is a primitive $n$-th root of unity. Let $p\mathbb{Z}[\zeta_n]=(\mathfrak{p}_1\cdots\mathfrak{p}_g)^e$
+be the factorization of $p\mathbb{Z}[\zeta_n]$ into prime ideals of $\mathbb{Z}[\zeta_n]$.
+Then each element $\tau$ of the Galois group $\Gal(\Q(\zeta_n)/\Q)$ induces a permutation $\tilde{\tau}$
+on $\mathfrak{p}_1,\ \cdots,\ \mathfrak{p}_g$ by sending $\mathfrak{p}_i$ to $\tau(\mathfrak{p}_i)$.
+We study the structure and the sign of $\tilde{\tau}$ in this paper. 

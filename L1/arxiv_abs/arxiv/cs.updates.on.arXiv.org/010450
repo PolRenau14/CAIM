@@ -1,0 +1,16 @@
+We study the problem of learning \emph{across} a sequence of price experiments for related products,
+focusing on implementing the Thompson sampling algorithm for dynamic pricing. We consider a practical
+formulation of this problem where the unknown parameters of the demand function for each product
+come from a prior that is shared across products, but is unknown a priori. Our main contribution is
+a meta dynamic pricing algorithm that learns this prior online while solving a sequence of non-overlapping
+pricing experiments (each with horizon $T$) for $N$ different products. Our algorithm addresses
+two challenges: (i) balancing the need to learn the prior (\emph{meta-exploration}) with the need
+to leverage the current estimate of the prior to achieve good performance (\emph{meta-exploitation}),
+and (ii) accounting for uncertainty in the estimated prior by appropriately "widening" the prior
+as a function of its estimation error, thereby ensuring convergence of each price experiment. We
+prove that the price of an unknown prior for Thompson sampling is negligible in experiment-rich
+environments (large $N$). In particular, our algorithm's meta regret can be upper bounded by $\widetilde{O}\left(\sqrt{NT}\right)$
+when the covariance of the prior is known, and $\widetilde{O}\left(N^{\frac{3}{4}}\sqrt{T}\right)$
+otherwise. Numerical experiments on synthetic and real auto loan data demonstrate that our algorithm
+significantly speeds up learning compared to prior-independent algorithms or a naive approach
+of greedily using the updated prior across products. 

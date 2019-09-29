@@ -1,0 +1,17 @@
+We present the results of Galaxy Nurseries project, which was designed to enable crowdsourced analysis
+of slitless spectroscopic data by volunteer citizen scientists using the Zooniverse online interface.
+The dataset was obtained by the WFC3 Infrared Spectroscopic Parallel (WISP) Survey collaboration
+and comprises NIR grism (G102 and G141) and direct imaging. Volunteers were instructed to evaluate
+indicated spectral features and decide whether it was a genuine emission line or more likely an artifact.
+Galaxy Nurseries was completed in only 40 days, gathering 414,360 classifications from 3003 volunteers
+for 27,333 putative emission lines. The results of Galaxy Nurseries demonstrate the feasibility
+of identifying genuine emission lines in slitless spectra by citizen scientists. Volunteer responses
+for each subject were aggregated to compute $f_{\mathrm{Real}}$, the fraction of volunteers who
+classified the corresponding emission line as "Real". To evaluate the accuracy of volunteer classifications,
+their aggregated responses were compared with independent assessments provided by members of
+the WISP Survey Science Team (WSST). Overall, there is a broad agreement between the WSST and volunteers'
+classifications, although we recognize that robust scientific analyses typically require samples
+with higher purity and completeness than raw volunteer classifications provide. Nonetheless,
+choosing optimal threshold values for $f_{\mathrm{Real}}$ allows a large fraction of spurious
+lines to be vetoed, substantially reducing the timescale for subsequent professional analysis
+of the remaining potential lines. 

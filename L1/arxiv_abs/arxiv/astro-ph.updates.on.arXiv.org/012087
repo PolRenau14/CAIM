@@ -1,0 +1,16 @@
+Transit spectroscopy of terrestrial planets around nearby M dwarfs is a primary goal of space missions
+in coming decades. 3-D climate modeling has shown that slow-synchronous rotating terrestrial
+planets may develop thick clouds at the substellar point, increasing the albedo. For M dwarfs with
+Teff > 3000 K, such planets at the inner habitable zone (IHZ) have been shown to retain moist greenhouse
+conditions, with enhanced stratospheric water vapor (fH2O > 1E-3) and low Earth-like surface temperatures.
+However, M dwarfs also possess strong UV activity, which may effectively photolyze stratospheric
+H2O. Prior modeling efforts have not included the impact of high stellar UV activity on the H2O. Here,
+we employ a 1-D photochemical model with varied stellar UV, to assess whether H2O destruction driven
+by high stellar UV would affect its detectability in transmission spectroscopy. Temperature and
+water vapor profiles are taken from published 3-D climate model simulations for an IHZ Earth-sized
+planet around a 3300 K M dwarf with an N2-H2O atmosphere; they serve as self-consistent input profiles
+for the 1-D model. We explore additional chemical complexity within the 1-D model by introducing
+other species into the atmosphere. We find that as long as the atmosphere is well-mixed up to 1 mbar,
+UV activity appears to not impact detectability of H2O in the transmission spectrum. The strongest
+H2O features occur in the JWST MIRI instrument wavelength range and are comparable to the estimated
+systematic noise floor of ~50 ppm. 

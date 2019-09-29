@@ -1,0 +1,17 @@
+We study quantitatively the level of false multifractal signal one may encounter while analyzing
+multifractal phenomena in time series within multifractal detrended fluctuation analysis (MF-DFA).
+The investigated effect appears as a result of finite length of used data series and is additionally
+amplified by the long-term memory the data eventually may contain. We provide the detailed quantitative
+description of such apparent multifractal background signal as a threshold in spread of generalized
+Hurst exponent values $\Delta h$ or a threshold in the width of multifractal spectrum $\Delta \alpha$
+below which multifractal properties of the system are only apparent, i.e. do not exist, despite
+$\Delta\alpha\neq0$ or $\Delta h\neq 0$. We find this effect quite important for shorter or persistent
+series and we argue it is linear with respect to autocorrelation exponent $\gamma$. Its strength
+decays according to power law with respect to the length of time series. The influence of basic linear
+and nonlinear transformations applied to initial data in finite time series with various level
+of long memory is also investigated. This provides additional set of semi-analytical results.
+The obtained formulas are significant in any interdisciplinary application of multifractality,
+including physics, financial data analysis or physiology, because they allow to separate the 'true'
+multifractal phenomena from the apparent (artificial) multifractal effects. They should be a
+helpful tool of the first choice to decide whether we do in particular case with the signal with real
+multiscaling properties or not. 

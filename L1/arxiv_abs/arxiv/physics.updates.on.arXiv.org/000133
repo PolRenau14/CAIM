@@ -1,0 +1,16 @@
+Five physics mechanisms of interaction leading to the binding of the ${\rm H}_3^+$ molecular ion
+are identified. They are realized in a form of variational trial functions and their respective
+total energies are calculated. Each of them provides subsequently the most accurate approximation
+for the Born-Oppenheimer (BO) ground state energy among (two-three-seven)-parametric trial
+functions being correspondingly, H$_2$-molecule plus proton (two variational parameters),
+H$_2^+$-ion plus H-atom (three variational parameters) and generalized Guillemin-Zener (seven
+variational parameters). These trial functions are chosen following a criterion of physical adequacy.
+They include the electronic correlation in the exponential form $\sim\exp{(\gamma r_{12})}$,
+where $\gamma$ is a variational parameter. Superpositions of two different mechanisms of binding
+are investigated and a particular one, which is a generalized Guillemin-Zener plus H$_2$-molecule
+plus proton (ten variational parameters), provides the total energy at the equilibrium of $E=-1.3432$\
+a.u. The superposition of three mechanisms: generalized Guillemin-Zener plus (H$_2$ -molecule
+plus proton) plus (H$_2^+$ -ion plus H) (fourteen parameters) leads to the total energy which deviates
+from the best known BO energy to $\sim 0.0004$\ a.u., {\it it reproduces two-three significant digits
+in exact, non-BO total energy}. In general, our variational energy agrees in two-three-four significant
+digits with the most accurate results available at present as well as major expectation values.

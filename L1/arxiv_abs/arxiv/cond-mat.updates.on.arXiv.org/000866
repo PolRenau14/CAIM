@@ -1,0 +1,17 @@
+Using a combination of muon-spin relaxation ($\mu$SR), inelastic neutron scattering (INS) and
+nuclear magnetic resonance (NMR), we investigated the novel iron-based superconductor with a
+triclinic crystal structure (CaFe$_{1-x}$Pt$_x$As)$_{10}$Pt$_3$As$_8$ (T$_{\rm c}$ = 13 K),
+containing platinum-arsenide intermediary layers. The temperature dependence of the superfluid
+density obtained from the $\mu$SR relaxation-rate measurements indicates the presence of two
+superconducting gaps, $\Delta_\text{1}\gg\Delta_\text{2}$. According to our INS measurements,
+commensurate spin fluctuations are centered at the ($\pi$, 0) wave vector, like in most other iron
+arsenides. Their intensity remains unchanged across T$_\text{c}$, indicating the absence of
+a spin resonance typical for many Fe-based superconductors. Instead, we observed a peak in the spin-excitation
+spectrum around $\hslash\omega_0=\,$7 meV at the same wave vector, which persists above T$_{\rm
+c}$ and is characterized by the ratio $\hslash\omega_0/k_\text{B}T_\text{c}\approx\,$6.2,
+which is significantly higher than typical values for the magnetic resonant modes in iron pnictides
+(~4.3). The temperature dependence of magnetic intensity at 7 meV revealed an anomaly around T*
+= 45 K related to the disappearance of this new mode. A suppression of the spin-lattice relaxation
+rate, $1/T_1T$, observed by NMR immediately below T* without any notable subsequent anomaly at
+T$_{\rm c}$, indicates that T* could mark the onset of a pseudogap in (CaFe$_{1-x}$Pt$_x$As)$_{10}$Pt$_3$As$_8$,
+which is likely associated with the emergence of preformed Cooper pairs. 

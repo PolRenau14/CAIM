@@ -1,0 +1,16 @@
+With its array of 3840 Transition Edge Sensors (TESs) operated at 90 mK, the X-Ray Integral Field
+Unit (X-IFU) on board the ESA L2 mission Athena will provide spatially resolved high-resolution
+spectroscopy (2.5 eV FWHM up to 7 keV) over the 0.2 to 12 keV bandpass. The in-flight performance of
+the X-IFU will be strongly affected by the calibration of the instrument. Uncertainties in the knowledge
+of the overall system, from the filter transmission to the energy scale, may introduce systematic
+errors in the data, which could potentially compromise science objectives - notably those involving
+line characterisation e.g. turbulence velocity measurements - if not properly accounted for.
+Defining and validating calibration requirements is therefore of paramount importance. In this
+paper, we put forward a simulation tool based on the most up-to-date configurations of the various
+subsystems (e.g. filters, detector absorbers) which allows us to estimate systematic errors related
+to uncertainties in the instrumental response. Notably, the effect of uncertainties in the energy
+resolution and of the instrumental quantum efficiency on X-IFU observations is assessed, by taking
+as a test case the measurements of the iron K complex in the hot gas surrounding clusters of galaxies.
+In-flight and ground calibration of the energy resolution and the quantum efficiency is also addressed.
+We demonstrate that provided an accurate calibration of the instrument, such effects should be
+low in both cases with respect to statistics during observations. 

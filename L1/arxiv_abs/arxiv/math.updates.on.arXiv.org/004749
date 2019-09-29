@@ -1,0 +1,16 @@
+A random set is a generalisation of a random variable, i.e. a set-valued random variable. The random
+set theory allows a unification of other uncertainty descriptions such as interval variable, mass
+belief function in Dempster-Shafer theory of evidence, possibility theory, and set of probability
+distributions. The aim of this work is to develop a non-deterministic inference framework, including
+theory, approximation and sampling method, that deals with the inverse problems in which uncertainty
+is represented using random sets. The proposed inference method yields the posterior random set
+based on the intersection of the prior and the measurement induced random sets. That inference method
+is an extension of Dempster's rule of combination, and a generalisation of Bayesian inference as
+well. A direct evaluation of the posterior random set might be impractical. We approximate the posterior
+random set by a random discrete set whose domain is the set of samples generated using a proposed probability
+distribution. We use the capacity transform density function of the posterior random set for this
+proposed distribution. This function has a special property: it is the posterior density function
+yielded by Bayesian inference of the capacity transform density function of the prior random set.
+The samples of such proposed probability distribution can be directly obtained using the methods
+developed in the Bayesian inference framework. With this approximation method, the evaluation
+of the posterior random set becomes tractable. 

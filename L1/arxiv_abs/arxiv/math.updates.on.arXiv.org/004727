@@ -1,0 +1,16 @@
+In this paper, we deal with the Cauchy problem of the quasilinear Sch\"{o}dinger equation \begin{equation*}
+\left\{ \begin{array}{lll} iu_t=\Delta u+2uh'(|u|^2)\Delta h(|u|^2)+(W(x)\ast|u|^2)u,\
+x\in \mathbb{R}^N,\ t>0\\ u(x,0)=u_0(x),\quad x\in \mathbb{R}^N. \end{array}\right. \end{equation*}
+Here $h(s)$ and $W(x)$ are some real functions. We focus on how the potential $W(x)$ takes effect
+on the blowup in finite time and global existence of the solution. In some cases, we even can obtain
+the watershed condition on $W(x)$ in the following sense: If $W(x)\in L^q(\mathbb{R}^N)+L^{\infty}(\mathbb{R}^N)$,
+then exist $q_c$ and $q_s$ such that the solution is global existence for any initial data when $q>q_c$
+while the solution maybe blow up in finite time for some initial data when $q_s<q\leq q_c$. Especially,
+if $W\in L^q(\mathbb{R}^N)$, $a[h(s)+s^{\frac{1}{2}}]\geq \max(s^{\frac{1}{2}}, s^{\alpha})$
+for $s\geq 1$, where $0<\alpha<\frac{N-1}{N}$, then $q_c=\frac{2^*}{\max(2\alpha, 1)2^*-2}$,
+and \begin{align*} a^22^{\frac{4}{N}}C_s^{\frac{2}{2^*}}\|W\|_{L^{q_c}(\mathbb{R}^N)}\|u_0\|_{L^2(\mathbb{R}^N)}^{\min(4-4\alpha,2)}=1
+\end{align*} can be regarded as the watershed for the initial data $u_0$ which determines whether
+the solution is global existence or not, while the exponent $q_s=\max(\frac{\max(\alpha,\frac{1}{2})2^*}{\max(2\alpha,
+1)2^*-2},1)$ likes Sobolev critical exponent $2^*$. We also establish the pseudo-conformal conservation
+laws, give some asymptotic behavior results on the global solution and lower bound for the blowup
+rate of the blowup solution. 

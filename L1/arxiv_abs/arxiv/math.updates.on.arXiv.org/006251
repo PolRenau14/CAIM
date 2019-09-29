@@ -1,0 +1,16 @@
+We prove the linear stability of slowly rotating Kerr black holes as solutions of the Einstein vacuum
+equation: linearized perturbations of a Kerr metric decay at an inverse polynomial rate to a linearized
+Kerr metric plus a pure gauge term. We work in a natural wave map/DeTurck gauge and show that the pure
+gauge term can be taken to lie in a fixed 7-dimensional space with a simple geometric interpretation.
+Our proof rests on a robust general framework, based on recent advances in microlocal analysis and
+non-elliptic Fredholm theory, for the analysis of resolvents of operators on asymptotically flat
+spaces. With the mode stability of the Schwarzschild metric as well as of certain scalar and 1-form
+wave operators on the Schwarzschild spacetime as an input, we establish the linear stability of
+slowly rotating Kerr black holes using perturbative arguments; in particular, our proof does not
+make any use of special algebraic properties of the Kerr metric. The heart of the paper is a detailed
+description of the resolvent of the linearization of a suitable hyperbolic gauge-fixed Einstein
+operator at low energies. As in previous work by the second and third authors on the nonlinear stability
+of cosmological black holes, constraint damping plays an important role. Here, it eliminates certain
+pathological generalized zero energy states; it also ensures that solutions of our hyperbolic
+formulation of the linearized Einstein equation have the stated asymptotics and decay for general
+initial data and forcing terms, which is a useful feature in nonlinear and numerical applications.

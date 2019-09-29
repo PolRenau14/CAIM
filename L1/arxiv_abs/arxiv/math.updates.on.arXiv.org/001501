@@ -1,0 +1,17 @@
+Permutation patterns-based approaches, such as permutation entropy (PerEn), have been widely
+and successfully used to analyze data. However, these methods have two main shortcomings. First,
+when a series is symbolized based on permutation patterns, repetition as an unavoidable phenomenon
+in data is not took in to account. Second, they consider only the order of amplitude values and so,
+some information regarding the amplitude values themselves may be ignored. To address these deficiencies,
+we have very recently introduced dispersion patterns and subsequently, dispersion entropy (DispEn).
+In this paper, we investigate the effect of different linear and non-linear mapping approaches,
+used in the algorithm of DispEn, on the characterization of signals. We also inspect the sensitivity
+of different parameters of DispEn to noise. Moreover, we introduce frequency-based DispEn (FDispEn)
+as a measure to deal with only the frequency of time series. The results suggest that DispEn and FDispEn
+with the log-sigmoid mapping approach, unlike PerEn, can detect outliers. Furthermore, the original
+and frequency-based forbidden dispersion patterns are introduced to discriminate deterministic
+from stochastic time series. The computation times show that DispEn and FDispEn are considerably
+faster than PerEn. Finally, we find that DispEn and FDispEn outperform PerEn to distinguish various
+dynamics of biomedical signals. Due to their advantages over existing entropy methods, DispEn
+and FDispEn are expected to be widely used for the characterization of a wide variety of real-world
+time series. 

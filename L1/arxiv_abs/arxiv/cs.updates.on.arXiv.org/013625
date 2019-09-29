@@ -1,0 +1,16 @@
+Emergency Department (ED) crowding is a worldwide issue that affects the efficiency of hospital
+management and the quality of patient care. This occurs when the request for an admit ward-bed to
+receive a patient is delayed until an admission decision is made by a doctor. To reduce the overcrowding
+and waiting time of ED, we build a classifier to predict the disposition of patients using manually-typed
+nurse notes collected during triage, thereby allowing hospital staff to begin necessary preparation
+beforehand. However, these triage notes involve high dimensional, noisy, and also sparse text
+data which makes model fitting and interpretation difficult. To address this issue, we propose
+the semi-orthogonal non-negative matrix factorization (SONMF) for both continuous and binary
+design matrices to first bi-cluster the patients and words into a reduced number of topics. The subjects
+can then be interpreted as a non-subtractive linear combination of orthogonal basis topic vectors.
+These generated topic vectors provide the hospital with a direct understanding of the cause of admission.
+We show that by using a transformation of basis, the classification accuracy can be further increased
+compared to the conventional bag-of-words model and alternative matrix factorization approaches.
+Through simulated data experiments, we also demonstrate that the proposed method outperforms
+other non-negative matrix factorization (NMF) methods in terms of factorization accuracy, rate
+of convergence, and degree of orthogonality. 

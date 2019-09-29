@@ -1,0 +1,16 @@
+Decades of studies have suggested several criteria to detect Interplanetary coronal mass ejections
+(ICME) in time series from in-situ spacecraft measurements. Among them the most common are an enhanced
+and smoothly rotating magnetic field, a low proton temperature and a low plasma beta. However, these
+features are not all observed for each ICME due to their strong variability. Visual detection is
+time-consuming and biased by the observer interpretation leading to non exhaustive, subjective
+and thus hardly reproducible catalogs. Using convolutional neural networks on sliding windows
+and peak detection, we provide a fast, automatic and multi-scale detection of ICMEs. The method
+has been tested on the in-situ data from WIND between 1997 and 2015 and on the 657 ICMEs that were recorded
+during this period. The method offers an unambiguous visual proxy of ICMEs that gives an interpretation
+of the data similar to what an expert observer would give. We found at a maximum 197 of the 232 ICMEs
+of the 2010-2015 period (recall 84 +-4.5 % including 90% of the ICMEs present in the lists of Nieves-Chinchilla
+et al. (2015) and Chi et al. (2016). The minimal number of False Positives was 25 out of 158 predicted
+ICMEs (precision 84+-2.6%). Although less accurate, the method also works with one or several missing
+input parameters. The method has the advantage of improving its performance by just increasing
+the amount of input data. The generality of the method paves the way for automatic detection of many
+different event signatures in spacecraft in-situ measurements. 

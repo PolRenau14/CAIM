@@ -1,0 +1,17 @@
+Recent advances in scanning transmission electron and scanning probe microscopies have opened
+exciting opportunities in probing the materials structural parameters and various functional
+properties in real space with angstrom-level precision. This progress has been accompanied by
+an exponential increase in the size and quality of datasets produced by microscopic and spectroscopic
+experimental techniques. These developments necessitate adequate methods for extracting relevant
+physical and chemical information from the large datasets, for which a priori information on the
+structures of various atomic configurations and lattice defects is limited or absent. Here we demonstrate
+an application of deep neural networks to extract information from atomically resolved images
+including location of the atomic species and type of defects. We develop a 'weakly-supervised'
+approach that uses information on the coordinates of all atomic species in the image, extracted
+via a deep neural network, to identify a rich variety of defects that are not part of an initial training
+set. We further apply our approach to interpret complex atomic and defect transformation, including
+switching between different coordination of silicon dopants in graphene as a function of time,
+formation of peculiar silicon dimer with mixed 3-fold and 4-fold coordination, and the motion of
+molecular 'rotor'. This deep learning based approach resembles logic of a human operator, but can
+be scaled leading to significant shift in the way of extracting and analyzing information from raw
+experimental data. 

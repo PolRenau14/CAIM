@@ -1,0 +1,16 @@
+For $\alpha > 1$, an $\alpha$-approximate (bi-)kernel is a polynomial-time algorithm that takes
+as input an instance $(I, k)$ of a problem $\mathcal{Q}$ and outputs an instance $(I',k')$ (of a problem
+$\mathcal{Q}'$) of size bounded by a function of $k$ such that, for every $c\geq 1$, a $c$-approximate
+solution for the new instance can be turned into a $(c\cdot\alpha)$-approximate solution of the
+original instance in polynomial time. This framework of lossy kernelization was recently introduced
+by Lokshtanov et al. We study Connected Dominating Set (and its distance-$r$ variant) parameterized
+by solution size on sparse graph classes like biclique-free graphs, classes of bounded expansion,
+and nowhere dense classes. We prove that for every $\alpha>1$, Connected Dominating Set admits
+a polynomial-size $\alpha$-approximate (bi-)kernel on all the aforementioned classes. Our results
+are in sharp contrast to the kernelization complexity of Connected Dominating Set, which is known
+to not admit a polynomial kernel even on $2$-degenerate graphs and graphs of bounded expansion,
+unless $\textsf{NP} \subseteq \textsf{coNP/poly}$. We complement our results by the following
+conditional lower bound. We show that if a class $\mathcal{C}$ is somewhere dense and closed under
+taking subgraphs, then for some value of $r\in\mathbb{N}$ there cannot exist an $\alpha$-approximate
+bi-kernel for the (Connected) Distance-$r$ Dominating Set problem on $\mathcal{C}$ for any $\alpha>1$
+(assuming the Gap Exponential Time Hypothesis). 

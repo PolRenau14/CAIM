@@ -1,0 +1,16 @@
+Computer vision and robotics are being increasingly applied in medical interventions. Especially
+in interventions where extreme precision is required they could make a difference. One such application
+is robot-assisted retinal microsurgery. In recent works, such interventions are conducted under
+a stereo-microscope, and with a robot-controlled surgical tool. The complementarity of computer
+vision and robotics has however not yet been fully exploited. In order to improve the robot control
+we are interested in 3D reconstruction of the anatomy and in automatic tool localization using a
+stereo microscope. In this paper, we solve this problem for the first time using a single pipeline,
+starting from uncalibrated cameras to reach metric 3D reconstruction and registration, in retinal
+microsurgery. The key ingredients of our method are: (a) surgical tool landmark detection, and
+(b) 3D reconstruction with the stereo microscope, using the detected landmarks. To address the
+former, we propose a novel deep learning method that detects and recognizes keypoints in high definition
+images at higher than real-time speed. We use the detected 2D keypoints along with their corresponding
+3D coordinates obtained from the robot sensors to calibrate the stereo microscope using an affine
+projection model. We design an online 3D reconstruction pipeline that makes use of smoothness constraints
+and performs robot-to-camera registration. The entire pipeline is extensively validated on open-sky
+porcine eye sequences. Quantitative and qualitative results are presented for all steps. 

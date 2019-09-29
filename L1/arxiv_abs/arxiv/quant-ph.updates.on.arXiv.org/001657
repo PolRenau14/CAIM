@@ -1,0 +1,16 @@
+The growing field of quantum computing is based on the concept of a q-bit which is a delicate superposition
+of 0 and 1, requiring cryogenic temperatures for its physical realization along with challenging
+coherent coupling techniques for entangling them. By contrast, a probabilistic bit or a p-bit is
+a robust classical entity that fluctuates between 0 and 1, and can be implemented at room temperature
+using present-day technology. Here, we show that a probabilistic coprocessor built out of room
+temperature p-bits can be used to accelerate simulations of a special class of quantum many-body
+systems that are "stoquastic" leveraging the well-known Suzuki-Trotter decomposition that maps
+a $d$-dimensional quantum many body Hamiltonian to a $d$+1-dimensional classical Hamiltonian.
+This mapping allows an efficient emulation of a quantum system by classical computers and is commonly
+used in software to perform Quantum Monte Carlo (QMC) algorithms. By contrast, we show that a compact,
+embedded MTJ-based coprocessor can serve as a highly efficient hardware-accelerator for such
+QMC algorithms providing several orders of magnitude improvement in speed compared to optimized
+CPU implementations. Using realistic device-level SPICE simulations we demonstrate that the
+correct quantum correlations can be obtained using a classical p-circuit built with existing technology
+and operating at room temperature. The proposed coprocessor can serve as a tool to study stoquastic
+quantum many-body systems, overcoming challenges associated with physical quantum annealers.

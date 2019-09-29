@@ -1,0 +1,16 @@
+Convex hulls are a fundamental geometric tool used in a number of algorithms. A famous paper by Akl
+and Toussaint in 1978 described a way to reduce the number of points involved in the computation,
+which is since known as the Akl-Toussaint heuristics. This paper first studies what this heurstics
+really represents in terms of reduction of points and demonstrates that the optimum selection is
+reached using an octogon as the remaining number of points is in O(sqrt(N)) rather than the usual
+O(N). Then it focuses on optimising the overall computational efficiency in a convex hull computation.
+Although the heuristics is usually used as a first step in computations one can obtain the convex
+hull directly from the heuristics's basis. First a simple incremental implementation is described,
+and if the number of characteristic points of the Akl-Toussaint heuristics p is taken as a parametre
+the convex hull is then computed in a O(N(p+h/p)) average complexity or O(Nh) asymptotic complexity.
+Given the relative constant factor of 1/p however experimental results show that this algorithm
+should be considered linear in average. Worst-case complexity is in O(N^2) and space complexity
+is O(h) but could be O(1) if the required output is the array of convex vertices's indexes. Then a remark
+on why the basic incremental method should be preferred for average cases is made. Finally an optimal
+linear algorithm both in average and worst-case and using a minimal space complexity in O(sqrt(N))
+in average (or O(1) if in-place computation is allowed) is presented. 

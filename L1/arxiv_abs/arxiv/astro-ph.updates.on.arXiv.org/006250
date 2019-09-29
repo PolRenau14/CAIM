@@ -1,0 +1,17 @@
+Aims: We test the effects of re-orienting jets on the Intra-Cluster Medium in a cool-core galaxy
+cluster environment. We investigate both the appearance of the X-ray gas cavities and the heating
+they provide to the cool core. Methods: We test, making use of numerical simulations, four models
+of periodically re-orienting jets from the central AGN. We keep the jet power and duration fixed
+and change only the re-orientation angle prescription. We are able to produce realistic X-ray synthetic
+images and compare them qualitatively to real ones. We show the total energy of the gas and its thermodynamic
+properties, as well as the energy transfer from the AGN to the ICM. Results: Jets whose re-orientation
+is substantial (always above $20$ degrees) are able to produce several detached cavities, as opposed
+to a single, internally connected cavity system. The latter is usually larger and filled by hot plasma
+of different ages. Synthetic X-ray observations are able to reproduce many observed features,
+especially resembling real cool-core clusters when the re-orientation angle is constrained between
+$20$ and $30$ degrees. Jets in those same runs, though inflating smaller cavities, allow for a more
+efficient heating of the gas, most importantly on scales smaller than $50$ kpc. Re-orienting jets,
+over hundreds of Myr, can deposit up to $80\%$ of their energy into the ICM, against $60\%$ for jets
+along a single direction. These jets are finally the only ones in our models reaching an inflow/outflow
+balance, effectively counteracting cooling flows and keeping the gas' luminosity around the observed
+values. 

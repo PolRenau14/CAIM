@@ -1,0 +1,17 @@
+We present two new catalogues of superclusters of galaxies out to a redshit of z = 0.15, based on the
+Abell/ACO cluster redshift compilation maintained by one of us (HA). The first of these catalogues,
+the all-sky Main SuperCluster Catalogue (MSCC), is based on only the rich (A-) Abell clusters, and
+the second one, the Southern SuperCluster Catalogue (SSCC), covers declinations delta < -17
+deg and includes the supplementary Abell S-clusters. A tunable Friends-of-Friends (FoF) algorithm
+was used to account for the cluster density decreasing with redshift and for different selection
+functions in distinct areas of the sky. We present the full list of Abell clusters used, together
+with their redshifts and supercluster memberships and including the isolated clusters. The SSCC
+contains about twice the number of superclusters than MSCC for delta < -17 deg, which we found
+to be due to: (1) new superclusters formed by A-clusters in their cores and surrounded by S-clusters
+(50%), (2) new superclusters formed by S-clusters only (40%), (3) redistribution of member clusters
+by fragmentation of rich (multiplicity m > 15) superclusters (8%), and (4) new superclusters
+formed by the connection of A-clusters through bridges of S-clusters (2%). Power-law fits to the
+cumulative supercluster multiplicity function yield slopes of alpha = -2.0 and alpha = -1.9 for
+MSCC and SSCC respectively. This power-law behavior is in agreement with the findings for other
+observational samples of superclusters, but not with that of catalogues based on cosmological
+simulations. 

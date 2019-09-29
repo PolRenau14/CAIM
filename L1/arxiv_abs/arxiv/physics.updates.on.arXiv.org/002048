@@ -1,0 +1,16 @@
+A model is presented here that is capable of simultaneously describing the luminosity function
+and the underlying joint population distribution of the prompt spectral and temporal parameters
+of Gamma-Ray Bursts (GRBs), subject to the detection threshold of gamma-ray instruments--in particular,
+BATSE and Fermi. Based on 2130 GRB prompt emission data in the BATSE catalog, I show that the population
+properties of the two classes of GRBs -- Long and Short durations -- bear striking similarities in
+the 4-dimensional space of prompt parameters: peak luminosity (Liso), total isotropic emission
+(Eiso), time-integrated spectral peak energy (Ep,z) and the prompt duration (T90,z). The two well-known
+Amati (Eiso-Ep,z) and Yonetoku (Liso-Ep,z) relations are shown to be highly affected by selection
+effects, undermining the legitimacy of their frequent uses in the studies of Dark Energy's equation
+of state and different cosmological models. In particular, I show that the slope of the Amati relation
+is likely in the range 0.2-0.3, corresponding to a Pearson's correlation strength of rho=0.58\pm0.04.
+This predicted slope is significantly (>16sigma) less than the value currently perceived by the
+GRB community (~0.56). I argue that similar Eiso-Ep,z and Liso-Ep,z relations with approximately
+same strength and significance should exist in the population of Short GRBs. Also predicted by the
+model is the strong positive correlation of the prompt emission duration (e.g., T90,z) with Eiso
+and Liso in both classes of Short and Long GRBs. 

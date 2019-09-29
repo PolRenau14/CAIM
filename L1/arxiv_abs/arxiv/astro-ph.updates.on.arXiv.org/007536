@@ -1,0 +1,16 @@
+This is the first in a series of papers examining the demographics of star-forming galaxies at $0.2<z<2.5$
+in CANDELS. We study 9,100 galaxies from GOODS-S and UDS having published values of redshifts, masses,
+star-formation rates (SFRs), and dust attenuation ($A_V$) derived from UV-optical SED fitting.
+In agreement with previous works, we find that the $UVJ$ colors of a galaxy are closely correlated
+with its specific star-formation rate (SSFR) and $A_V$. We define rotated $UVJ$ coordinate axes,
+termed $S_\mathrm{SED}$ and $C_\mathrm{SED}$, that are parallel and perpendicular to the star-forming
+sequence and derive a quantitative calibration that predicts SSFR from $C_\mathrm{SED}$ with
+an accuracy of ~0.2 dex. SFRs from UV-optical fitting and from UV+IR values based on Spitzer/MIPS
+24 $\mu\mathrm{m}$ agree well overall, but systematic differences of order 0.2 dex exist at high
+and low redshifts. A novel plotting scheme conveys the evolution of multiple galaxy properties
+simultaneously, and dust growth, as well as star-formation decline and quenching, exhibit "mass-accelerated
+evolution" ("downsizing"). A population of transition galaxies below the star-forming main sequence
+is identified. These objects are located between star-forming and quiescent galaxies in $UVJ$
+space and have lower $A_V$ and smaller radii than galaxies on the main sequence. Their properties
+are consistent with their being in transit between the two regions. The relative numbers of quenched,
+transition, and star-forming galaxies are given as a function of mass and redshift. 

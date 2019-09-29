@@ -1,0 +1,16 @@
+The Kepler mission has detected a number of transiting circumbinary planets (CBPs). Although currently
+not detected, exomoons could be orbiting some of these CBPs, and they might be suitable for harboring
+life. A necessary condition for the existence of such exomoons is their long-term dynamical stability.
+Here, we investigate the stability of exomoons around the Kepler CBPs using numerical N-body integrations.
+We determine regions of stability and obtain stability maps in the (a_m,i_pm) plane, where a_m is
+the initial exolunar semimajor axis with respect to the CBP, and i_pm is the initial inclination
+of the orbit of the exomoon around the planet with respect to the orbit of the planet around the stellar
+binary. Ignoring any dependence on i_pm, for most Kepler CBPs the stability regions are well described
+by the location of the 1:1 mean motion resonance (MMR) of the binary orbit with the orbit of the moon
+around the CBP. This can be ascribed to a destabilizing effect of the binary compared to the case if
+the binary were replaced by a single body, and which is borne out by corresponding 3-body integrations.
+For high inclinations, the evolution is dominated by Lidov-Kozai oscillations, which can bring
+moons in dynamically stable orbits to close proximity within the CBP, triggering strong interactions
+such as tidal evolution, tidal disruption, or direct collisions. This suggests that there is a dearth
+of highly-inclined exomoons around the Kepler CBPs, whereas coplanar exomoons are dynamically
+allowed. 

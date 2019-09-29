@@ -1,0 +1,16 @@
+Spectral techniques have proved amongst the most effective approaches to graph clustering. However,
+in general they require explicit computation of the main eigenvectors of a suitable matrix (usually
+the Laplacian matrix of the graph). Recent work (e.g., Becchetti et al., SODA 2017) suggests that
+observing the temporal evolution of the power method applied to an initial random vector may, at
+least in some cases, provide enough information on the space spanned by the first two eigenvectors,
+so as to allow recovery of a hidden partition without explicit eigenvector computations. While
+the results of Becchetti et al. apply to perfectly balanced partitions and/or graphs that exhibit
+very strong forms of regularity, we extend their approach to graphs containing a hidden $k$ partition
+and characterized by a milder form of volume-regularity. We show that the class of $k$-volume regular
+graphs is the largest class of undirected (possibly weighted) graphs whose transition matrix admits
+$k$ stepwise eigenvectors (i.e., vectors that are constant over each set of the hidden partition).
+To obtain this result, we highlight a connection between volume regularity and lumpability of Markov
+chains. Moreover, we prove that if the stepwise eigenvectors are those associated to the first $k$
+eigenvalues and the gap between the $k$-th and the ($k$+1)-th eigenvalues is sufficiently large,
+the Averaging dynamics of Becchetti et al. recovers the underlying community structure of the graph
+in logarithmic time, with high probability. 

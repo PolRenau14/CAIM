@@ -1,0 +1,16 @@
+Recent advances in convex optimization have led to new strides in the phase retrieval problem over
+finite-dimensional vector spaces. However, certain fundamental questions remain: What sorts
+of measurement vectors uniquely determine every signal up to a global phase factor, and how many
+are needed to do so? Furthermore, which measurement ensembles lend stability? This paper presents
+several results that address each of these questions. We begin by characterizing injectivity,
+and we identify that the complement property is indeed a necessary condition in the complex case.
+We then pose a conjecture that 4M-4 generic measurement vectors are both necessary and sufficient
+for injectivity in M dimensions, and we prove this conjecture in the special cases where M=2,3. Next,
+we shift our attention to stability, both in the worst and average cases. Here, we characterize worst-case
+stability in the real case by introducing a numerical version of the complement property. This new
+property bears some resemblance to the restricted isometry property of compressed sensing and
+can be used to derive a sharp lower Lipschitz bound on the intensity measurement mapping. Localized
+frames are shown to lack this property (suggesting instability), whereas Gaussian random measurements
+are shown to satisfy this property with high probability. We conclude by presenting results that
+use a stochastic noise model in both the real and complex cases, and we leverage Cramer-Rao lower
+bounds to identify stability with stronger versions of the injectivity characterizations. 

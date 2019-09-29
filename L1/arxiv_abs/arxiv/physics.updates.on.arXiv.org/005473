@@ -1,0 +1,17 @@
+This work presents a review of previous articles dealing with an original turbulence theory proposed
+by the author, and provides new theoretical insights into some related issues. The new theoretical
+procedures and methodological approaches confirm and corroborate the previous results. These
+articles study the regime of homogeneous isotropic turbulence for incompressible fluids and propose
+theoretical approaches based on a specific Lyapunov theory for determining the closures of the
+von K\'arm\'an-Howarth and Corrsin equations, and the statistics of velocity and temperature
+difference. Furthermore, novel theoretical issues are here presented among which we can mention
+the following ones. The bifurcation rate of the velocity gradient, calculated along fluid particles
+trajectories, is shown to be much larger than the corresponding maximal Lyapunov exponent. On that
+basis, an interpretation of the energy cascade phenomenon is given and the statistics of finite
+time Lyapunov exponent of the velocity gradient is shown to be represented by normal distribution
+functions. Next, the self--similarity produced by the proposed closures is analyzed, and a proper
+bifurcation analysis of the closed von K\'arm\'an--Howarth equation is performed. This latter
+investigates the route from developed turbulence toward the non--chaotic regimes, leading to
+an estimate of the critical Taylor scale Reynolds number. A proper statistical decomposition based
+on extended distribution functions and on the Navier--Stokes equations is presented, which leads
+to the statistics of velocity and temperature difference. 

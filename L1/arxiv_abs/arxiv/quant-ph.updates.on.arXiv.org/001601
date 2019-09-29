@@ -1,0 +1,16 @@
+Tensor network (TN), a young mathematical tool of high vitality and great potential, has been undergoing
+extremely rapid developments in the last two decades, gaining tremendous success in condensed
+matter physics, atomic physics, quantum information science, statistical physics, and so on.
+In this lecture notes, we focus on the contraction algorithms of TN as well as some of the applications
+to the simulations of quantum many-body systems. Starting from basic concepts and definitions,
+we first explain the relations between TN and physical problems, including the TN representations
+of classical partition functions, quantum many-body states (by matrix product state, tree TN,
+and projected entangled pair state), time evolution simulations, etc. These problems, which are
+challenging to solve, can be transformed to TN contraction problems. We present then several paradigm
+algorithms based on the ideas of the numerical renormalization group and/or boundary states, including
+density matrix renormalization group, time-evolving block decimation, coarse-graining/corner
+tensor renormalization group, and several distinguished variational algorithms. Finally, we
+revisit the TN approaches from the perspective of multi-linear algebra (also known as tensor algebra
+or tensor decompositions) and quantum simulation. Despite the apparent differences in the ideas
+and strategies of different TN algorithms, we aim at revealing the underlying relations and resemblances
+in order to present a systematic picture to understand the TN contraction approaches. 

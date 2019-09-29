@@ -1,0 +1,16 @@
+A well-studied coloring problem is to assign colors to the edges of a graph $G$ so that, for every pair
+of vertices, all edges of at least one shortest path between them receive different colors. The minimum
+number of colors necessary in such a coloring is the strong rainbow connection number ($\src(G)$)
+of the graph. When proving upper bounds on $\src(G)$, it is natural to prove that a coloring exists
+where, for \emph{every} shortest path between every pair of vertices in the graph, all edges of the
+path receive different colors. Therefore, we introduce and formally define this more restricted
+edge coloring number, which we call \emph{very strong rainbow connection number} ($\vsrc(G)$).
+In this paper, we give upper bounds on $\vsrc(G)$ for several graph classes, some of which are tight.
+These immediately imply new upper bounds on $\src(G)$ for these classes, showing that the study
+of $\vsrc(G)$ enables meaningful progress on bounding $\src(G)$. Then we study the complexity
+of the problem to compute $\vsrc(G)$, particularly for graphs of bounded treewidth, and show this
+is an interesting problem in its own right. We prove that $\vsrc(G)$ can be computed in polynomial
+time on cactus graphs; in contrast, this question is still open for $\src(G)$. We also observe that
+deciding whether $\vsrc(G) = k$ is fixed-parameter tractable in $k$ and the treewidth of $G$. Finally,
+on general graphs, we prove that there is no polynomial-time algorithm to decide whether $\vsrc(G)
+\leq 3$ nor to approximate $\vsrc(G)$ within a factor $n^{1-\varepsilon}$, unless P$=$NP. 

@@ -1,0 +1,16 @@
+Community detection is the task of identifying clusters or groups of nodes in a network where nodes
+within the same group are more connected with each other than with nodes in different groups. It has
+practical uses in identifying similar functions or roles of nodes in many biological, social and
+computer networks. With the availability of very large networks in recent years, performance and
+scalability of community detection algorithms become crucial, i.e. if time complexity of an algorithm
+is high, it can not run on large networks. In this paper, we propose a new community detection algorithm,
+which has a local approach and is able to run on large networks. It has a simple and effective method;
+given a network, algorithm constructs a preference network of nodes where each node has a single
+outgoing edge showing its preferred node to be in the same community with. In such a preference network,
+each connected component is a community. Selection of the preferred node is performed using similarity
+based metrics of nodes. We use two alternatives for this purpose which can be calculated in 1-neighborhood
+of nodes, i.e. number of common neighbors of selector node and its neighbors and, the spread capability
+of neighbors around the selector node which is calculated by the gossip algorithm of Lind et.al.
+Our algorithm is tested on both computer generated LFR networks and real-life networks with ground-truth
+community structure. It can identify communities accurately in a fast way. It is local, scalable
+and suitable for distributed execution on large networks. 

@@ -1,0 +1,16 @@
+We investigate the role that planet detection order plays in the Kepler planet detection pipeline.
+The Kepler pipeline typically detects planets in order of descending signal strength (MES). We
+find that the detectability of transits experiences an additional $5.5\%$ and $15.9\%$ efficiency
+loss, for periods $<200$ days and $>200$ days respectively, when detected after the strongest signal
+transit in a multiple-planet system. We provide a method for determining the transit probability
+for multiple-planet systems by marginalizing over the empirical Kepler dataset. Furthermore,
+because detection efficiency appears to be a function of detection order, we discuss the sorting
+statistics that affect the radius and period distributions of each detection order. Our occurrence
+rate dataset includes radius measurement updates from the California Kepler Survey (CKS), Gaia
+DR2, and asteroseismology. Our population model is consistent with the results of Burke et al. (2015),
+but now includes an improved estimate of the multiplicity distribution. From our obtained model
+parameters, we find that only $4.0\pm4.6\%$ of solar-like GK dwarfs harbor one planet. This excess
+is smaller than prior studies and can be well modeled with a modified Poisson distribution, suggesting
+that the Kepler Dichotomy can be accounted for by including the effects of multiplicity on detection
+efficiency. Using our modified Poisson model we expect the average number of planets is $5.86\pm0.18$
+planets per GK dwarf within the radius and period parameter space of Kepler. 

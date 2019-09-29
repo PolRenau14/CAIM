@@ -1,0 +1,16 @@
+The ability to induce, observe and control quantum coherent interactions in room temperature,
+electrically driven optoelectronic devices is of outmost significance for advancing quantum
+science and engineering towards practical applications. Following up on previous demonstrations
+of Rabi oscillations, self-induced transparency and coherent control by shaped optical excitation
+pulses in quantum dot (QD) optical amplifiers, we report here on measuring Ramsey fringes in such
+devices. Observation of Ramsey fringes in semiconductor QDs was previously achieved only at cryogenic
+temperatures, mainly in isolated single dot systems, while now they have been demonstrated in an
+inhomogeneously broadened QD ensemble in the form of a 1.5 mm long optical amplifier operating at
+room temperature. A high-resolution pump probe scheme where both pulses are characterized by cross
+frequency resolved optical gating revealed a clear oscillatory behavior of the amplitude and instantaneous
+frequency of the probe pulse with a period that equals one optical cycle. Moreover, the temporal
+position of the output probe pulse also oscillates with the same periodicity but with a quarter cycle
+delay relative to the intensity variations. This delay is the time domain manifestation of coupling
+between the real and imaginary parts of the complex susceptibility. Using nominal input delays
+of 600 to 900 fs and scanning the separation around each delay in 1 fs steps, we map the evolution of
+the material de-coherence and extract a coherence time of 410 fs. 

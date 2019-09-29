@@ -1,0 +1,16 @@
+Low redshift surveys of galaxy peculiar velocities provide a wealth of cosmological information.
+We revisit the idea of extracting this information by directly measuring the redshift-space momentum
+power spectrum from such surveys. We provide a comprehensive theoretical and practical framework
+for estimating and fitting this from data, analogous to well understood techniques used to measure
+the galaxy density power spectrum from redshift surveys. We formally derive a new estimator, which
+includes the effects of shot noise and survey geometry; we evaluate the variance of the estimator
+in the Gaussian regime; we compute the optimal weights for the estimator; we demonstrate that the
+measurements are Gaussian distributed, allowing for easy extraction of cosmological parameters;
+and we explore the effects of peculiar velocity measurement errors. We finish with a proof-of-concept
+using realistic mock galaxy catalogues, which demonstrates that we can measure and fit both the
+redshift-space galaxy density and momentum power spectra from peculiar velocity surveys and that
+including the latter substantially improves our constraints on the growth rate of structure. We
+also provide theoretical descriptions for modelling the non-linear redshift-space density and
+momentum power spectrum multipoles, and forecasting the constraints on cosmological parameters
+using the Fisher information contained in these measurements for arbitrary weights. These may
+be useful for measurements of the galaxy density power spectrum even in the absence of peculiar velocities.

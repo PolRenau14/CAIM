@@ -1,0 +1,16 @@
+Hybrid precoding is a cost-effective approach to support directional transmissions for millimeter-wave
+(mm-wave) communications, but its precoder design is highly complicated. In this paper, we propose
+a new hybrid precoder implementation, namely the double phase shifter (DPS) implementation, which
+enables highly tractable hybrid precoder design. Efficient algorithms are then developed for
+two popular hybrid precoder structures, i.e., the fully- and partially-connected structures.
+For the fully-connected one, the RF-only precoding and hybrid precoding problems are formulated
+as a least absolute shrinkage and selection operator (LASSO) problem and a low-rank matrix approximation
+problem, respectively. In this way, computationally efficient algorithms are provided to approach
+the performance of the fully digital one with a small number of radio frequency (RF) chains. On the
+other hand, the hybrid precoder design in the partially-connected structure is identified as an
+eigenvalue problem. To enhance the performance of this cost-effective structure, dynamic mapping
+from RF chains to antennas is further proposed, for which a greedy algorithm and a modified K-means
+algorithm are developed. Simulation results demonstrate the performance gains of the proposed
+hybrid precoding algorithms over existing ones. It shows that, with the proposed DPS implementation,
+the fully-connected structure enjoys both satisfactory performance and low design complexity
+while the partially-connected one serves as an economic solution with low hardware complexity.

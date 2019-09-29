@@ -1,0 +1,17 @@
+Disordered hyperuniform dispersions are exotic amorphous two-phase materials characterized
+by an anomalous suppression of long-wavelength volume-fraction fluctuations, endowing them
+with novel physical properties. While such unusual materials have received considerable attention,
+a stumbling block has been an inability to create large samples that are truly hyperuniform due to
+current computational and experimental limitations. To overcome such barriers, we introduce
+a new, simple construction procedure that guarantees perfect hyperuniformity for very large sample
+sizes. It involves tessellating space into cells and then inserting a particle into each cell such
+that the local-cell particle packing fractions are identical to the global packing fraction. We
+analytically prove that such dispersions are perfectly hyperuniform in the infinite-sample-size
+limit. Our methodology enables a remarkable mapping that converts a very large nonhyperuniform
+disordered dispersion into a perfectly hyperuniform one, which we numerically demonstrate in
+two and three dimensions. A similar analysis also establishes the hyperuniformity of the famous
+Hashin-Shtrikman multiscale dispersions, which possess optimal transport and elastic properties.
+Our hyperuniform designs can be readily fabricated using modern photolithographic and 3D printing
+technologies. The exploration of the enormous class of hyperuniform dispersions that can be designed
+and tuned by our tessellation-based methodology paves the way for accelerating the discovery of
+novel hyperuniform materials. 

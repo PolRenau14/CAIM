@@ -1,0 +1,16 @@
+In previous work of Cristofaro-Gardiner, Frenkel, and Schlenk, the embedding function $c_b(a)$
+describing the problem of symplectically embedding an ellipsoid $E(1,a)$ into the smallest scaling
+of the polydisc $P(1,b)$ was determined for all integers $b \geq 2.$ As in McDuff's work, Cristofaro-Gardiner,
+Frenkel, and Schlenk found staircases associated with the embedding function. More recently,
+Usher's work shows that the appearance of infinite staircases as $b$ varies is hard to predict. The
+intricate structure found there suggests that determining the entirety of the graph of $c_b(a)$
+for all $b$ is intractable. In contrast with this result, we show that for every polydisc $P(1,b)$
+with $b>2$, there is an explicit formula for the minimum $a$ such that the embedding problem is determined
+only by volume. That is, when the ellipsoid is sufficiently stretched, there is a symplectic embedding
+of $E(1,a)$ fully filling an appropriately scaled polydisc $P(\lambda,\lambda b)$. We call this
+value of $a$ the rigid-flexible value at $b$, or the RF-value. This formula is piecewise smooth in
+$b$. To further describe the function $RF(b)$, we investigate its behavior as $b\to 1$. Frenkel
+and M\"{u}ller showed that the $RF$-value at $b=1$ is $7 \frac{1}{32}$ and Cristofaro-Gardiner,
+Frenkel, and Schlenk showed that the $RF$-value at $b=2$ is $8 \frac{1}{36}.$ By exhibiting a sequence
+of obstructive classes for $b = \frac{n+1}{n}$ at $a=8$, in combination with the Frenkel-M\"{u}ller
+result, we show that $RF$ is discontinuous at $b=1$. 

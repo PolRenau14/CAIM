@@ -1,0 +1,16 @@
+First-passage times in random walks have a vast number of diverse applications in physics, chemistry,
+biology, and finance. In general, environmental conditions for a stochastic process are not constant
+on the time scale of the average first-passage time, or control might be applied to reduce noise.
+We investigate moments of the first-passage time distribution under a transient describing relaxation
+of environmental conditions. We solve the Laplace-transformed (generalized) master equation
+analytically using a novel method that is applicable to general state schemes. The first-passage
+time from one end to the other of a linear chain of states is our application for the solutions. The
+dependence of its average on the relaxation rate obeys a power law for slow transients. The exponent
+$\nu$ depends on the chain length $N$ like $\nu=-N/(N+1)$ to leading order. Slow transients substantially
+reduce the noise of first-passage times expressed as the coefficient of variation (CV), even if
+the average first-passage time is much longer than the transient. The CV has a pronounced minimum
+for some lengths, which we call resonant lengths. These results also suggest a simple and efficient
+noise control strategy, and are closely related to the timing of repetitive excitations, coherence
+resonance and information transmission by noisy excitable systems. A resonant number of steps
+from the inhibited state to the excitation threshold and slow recovery from negative feedback provide
+optimal timing noise reduction and information transmission. 

@@ -1,0 +1,16 @@
+Modern healthcare is ripe for disruption by AI. A game changer would be automatic understanding
+the latent processes from electronic medical records, which are being collected for billions of
+people worldwide. However, these healthcare processes are complicated by the interaction between
+at least three dynamic components: the illness which involves multiple diseases, the care which
+involves multiple treatments, and the recording practice which is biased and erroneous. Existing
+methods are inadequate in capturing the dynamic structure of care. We propose Resset, an end-to-end
+recurrent model that reads medical record and predicts future risk. The model adopts the algebraic
+view in that discrete medical objects are embedded into continuous vectors lying in the same space.
+We formulate the problem as modeling sequences of sets, a novel setting that have rarely, if not,
+been addressed. Within Resset, the bag of diseases recorded at each clinic visit is modeled as function
+of sets. The same hold for the bag of treatments. The interaction between the disease bag and the treatment
+bag at a visit is modeled in several, one of which as residual of diseases minus the treatments. Finally,
+the health trajectory, which is a sequence of visits, is modeled using a recurrent neural network.
+We report results on over a hundred thousand hospital visits by patients suffered from two costly
+chronic diseases -- diabetes and mental health. Resset shows promises in multiple predictive tasks
+such as readmission prediction, treatments recommendation and diseases progression. 

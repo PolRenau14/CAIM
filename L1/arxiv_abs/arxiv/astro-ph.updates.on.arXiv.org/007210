@@ -1,0 +1,16 @@
+A new 1.4 GHz 19-element, dual-polarization, cryogenic phased array feed (PAF) radio astronomy
+receiver has been developed for the Robert C. Byrd Green Bank Telescope (GBT) as part of FLAG (Focal
+L-band Array for the GBT) project. Commissioning observations of calibrator radio sources show
+that this receiver has the lowest reported beamformed system temperature ($T_{\rm sys}$) normalized
+by aperture efficiency ($\eta$) of any phased array receiver to date. The measured $T_{\rm sys}/\eta$
+is $25.4 \pm 2.5$ K near 1350 MHz for the boresight beam, which is comparable to the performance of
+the current 1.4 GHz cryogenic single feed receiver on the GBT. The degradation in $T_{\rm sys}/\eta$
+at $\sim$ 4 arcmin (required for Nyquist sampling) and $\sim$ 8 arcmin offsets from the boresight
+is, respectively, $\sim$ 1\% and $\sim$ 20\% of the boresight value. The survey speed of the PAF with
+seven formed beams is larger by a factor between 2.1 and 7 compared to a single beam system depending
+on the observing application. The measured performance, both in frequency and offset from boresight,
+qualitatively agree with predictions from a rigorous electromagnetic model of the PAF. The astronomical
+utility of the receiver is demonstrated by observations of the pulsar B0329+54 and an extended HII
+region, the Rosette Nebula. The enhanced survey speed with the new PAF receiver will enable the GBT
+to carry out exciting new science, such as more efficient observations of diffuse, extended neutral
+hydrogen emission from galactic in-flows and searches for Fast Radio Bursts. 

@@ -1,0 +1,16 @@
+In addition to charge plasmons, a 2D electron system with Rashba-type spin-orbit coupling (SOC)
+also supports three collective modes in the spin sector: the chiral-spin modes. We study the dispersions
+of the charge and spin modes and their coupling to each other within a generalized Random Phase Approximation
+for arbitrarily strong SOC, and both in 2D and 3D systems. In both 2D and 3D, we find that the charge
+plasmons are coupled to only one of the three chiral-spin modes. This coupling is shown to affect
+the dispersions of the modes at finite but not at zero wavenumbers. In 3D, the chiral-spin modes are
+strongly damped by particle-hole excitations and disappear for weak electron-electron interaction.
+Landau damping of the chiral-spin modes in 3D is directly related to the fact that, in contrast to
+2D, there is no gap for particle-hole excitations between spin-split subbands. The gapless continuum
+is also responsible for Landau damping of the charge plasmon in 3D - a qualitatively new feature of
+the SOC system. We also discuss the optical conductivity of clean 2D and 3D systems and show that SOC
+introduces spectral weight at finite frequency in a such way that the sum rule is satisfied. The in-plane
+tranverse chiral-spin mode shows up as dispersing peak in the optical conductivity at finite number
+which can can be measured in the presence of diffraction grating. We also discuss possible experimental
+manifestations of chiral-spin modes in semiconductor quantum wells such InGaAs/AlGaAs and 3D
+giant Rashba materials of the BiTeI family. 

@@ -1,0 +1,16 @@
+We present the results of a spectroscopic analysis of rotational velocities in 714 M dwarf stars
+observed by the SDSS III Apache Point Galactic Evolution Experiment (APOGEE) survey. We use a template
+fitting technique to estimate $v\sin{i}$ while simultaneously estimating $\log{g}$, $[\text{M}/\text{H}]$,
+and $T_{\text{eff}}$. We conservatively estimate that our detection limit is 8 km s$^{-1}$. We
+compare our results to M dwarf rotation studies in the literature based on both spectroscopic and
+photometric measurements. Like other authors, we find an increase in the fraction of rapid rotators
+with decreasing stellar temperature, exemplified by a sharp increase in rotation near the M$4$
+transition to fully convective stellar interiors, which is consistent with the hypothesis that
+fully convective stars are unable to shed angular momentum as efficiently as those with radiative
+cores. We compare a sample of targets observed both by APOGEE and the MEarth transiting planet survey
+and find no cases were the measured $v\sin{i}$ and rotation period are physically inconsistent,
+requiring $\sin{i}>1$. We compare our spectroscopic results to the fraction of rotators inferred
+from photometric surveys and find that while the results are broadly consistent, the photometric
+surveys exhibit a smaller fraction of rotators beyond the M$4$ transition by a factor of $\sim 2$.
+We discuss possible reasons for this discrepancy. Given our detection limit, our results are consistent
+with a bi-modal distribution in rotation that is seen in photometric surveys. 

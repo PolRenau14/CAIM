@@ -1,0 +1,16 @@
+A Richardson triple is an ideal fluid flow map $g_{t/\ep,t,\ep t} = h_{t/\ep}k_t l_{\ep t}$ composed
+of three smooth maps with separated time scales: slow, intermediate and fast; corresponding to
+the big, little, and lesser whorls in Richardson's well-known metaphor for turbulence. Under homogenisation,
+as $\lim \ep\to0$, the composition $h_{t/\ep}k_t $ of the fast flow and the intermediate flow is
+known to be describable as a single stochastic flow $\dd g$. The interaction of the homogenised stochastic
+flow $\dd g$ with the slow flow of the big whorl is obtained by going into its non-inertial moving reference
+frame, via the composition of maps $(\dd g)l_{\ep t}$. This procedure parameterises the interactions
+of the three flow components of the Richardson triple as a single stochastic fluid flow in a moving
+reference frame. The Kelvin circulation theorem for the stochastic dynamics of the Richardson
+triple reveals the interactions among its three components. Namely, (i) the velocity in the circulation
+integrand acquires is kinematically swept by the large scales; and (ii) the velocity of the material
+circulation loop acquires additional stochastic Lie transport by the small scales. The stochastic
+dynamics of the composite homogenised flow is derived from a stochastic Hamilton's principle,
+and then recast into Lie-Poisson bracket form with a stochastic Hamiltonian. Several examples
+are given, including fluid flow with stochastically advected quantities, and rigid body motion
+under gravity, i.e., the stochastic heavy top in a rotating frame. 

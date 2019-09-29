@@ -1,0 +1,17 @@
+The purpose of this paper is to investigate shifted $(+1)$ Poisson structures in context of differential
+geometry. The relevant notion is shifted $(+1)$ Poisson structures on differentiable stacks.
+More precisely, we develop the notion of Morita equivalence of quasi-Poisson groupoids. Thus isomorphism
+classes of $(+1)$ Poisson stack correspond to Morita equivalence classes of quasi-Poisson groupoids.
+In the process, we carry out the following programs of independent interests: (1) We introduce a
+$\mathbb Z$-graded Lie 2-algebra of polyvector fields on a given Lie groupoid and prove that its
+homotopy equivalence class is invariant under Morita equivalence of Lie groupoids, thus can be
+considered as polyvector fields on the corresponding differentiable stack ${\mathfrak X}$. It
+turns out that shifted $(+1)$ Poisson structures on ${\mathfrak X}$ correspond exactly to elements
+of the Maurer-Cartan moduli set of the corresponding dgla. (2) We introduce the notion of tangent
+complex $T_{\mathfrak X}$ and cotangent complex $L_{\mathfrak X}$ of a differentiable stack ${\mathfrak
+X}$ in terms of any Lie groupoid $\Gamma{\rightrightarrows} M$ representing ${\mathfrak X}$.
+They correspond to homotopy class of 2-term homotopy $\Gamma$-modules $A[1]\rightarrow TM$ and
+$T^\vee M\rightarrow A^\vee[-1]$, respectively. We prove that a $(+1)$-shifted Poisson structure
+on a differentiable stack ${\mathfrak X}$, defines a morphism ${L_{{\mathfrak X}}}[1]\to {T_{{\mathfrak
+X}}}$. We rely on the tools of theory of VB-groupoids including homotopy and Morita equivalence
+of VB-groupoids. 

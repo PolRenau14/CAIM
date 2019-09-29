@@ -1,0 +1,17 @@
+We extend our discussion of effective actions for stochastic partial differential equations to
+systems that give rise to a Martin-Siggia-Rose (MSR) type of action. This type of action naturally
+arises when one uses the many-body formalism of Doi and Peliti to describe reaction-diffusion models
+which undergo transitions into the absorbing state and which are described by a Master equation.
+These models include predator prey models, and directed percolation models as well as chemical
+kinetic models. For classical dynamical systems with external noise it is always possible to construct
+an MSR action. Using a path integral representation for the generator of the correlation functions,
+we show how, by introducing a composite auxiliary field, one can generate an auxiliary field loop
+expansion for the effective action for both types of systems. As a specific example of the Doi-Peliti
+formalism we determine the effective action for the chemical reaction annihilation and diffusion
+process $A+A \rightarrow 0$. For the external noise problem we evaluate the effective action for
+the Cole-Hopf form of the Kardar-Parisi Zhang (KPZ) equation as well as for the Ginzburg Landau model
+of spin relaxation. We determine for arbitrary spatial dimension $d$, the renormalized effective
+potential in leading order in the auxiliary field loop expansion (LOAF) and also determine the renormalization
+group equation for the running of the reaction rate (coupling constant) for arbitrary $d$. We compare
+our results with known perturbative and non-perturbative results for the renormalization group
+equations. 

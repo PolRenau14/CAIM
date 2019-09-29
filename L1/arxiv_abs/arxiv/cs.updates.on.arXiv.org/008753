@@ -1,0 +1,17 @@
+Heterogeneous networks are large graphs consisting of different types of nodes and edges. They
+are an important category of complex networks, but the process of knowledge extraction and relations
+discovery from these networks are so complicated and time-consuming. Moreover, the scale of these
+networks is steadily increasing. Thus, scalable and accurate methods are required for efficient
+knowledge extraction. In this paper, two distributed label propagation algorithms, namely DHLP-1
+and DHLP-2, in the heterogeneous networks have been introduced. The Apache Giraph platform is employed
+which provides a vertex-centric programming model for designing and running distributed graph
+algorithms. Complex heterogeneous networks have many examples in the real world and are widely
+used today for modeling complicated processes. Biological networks are one of such networks. As
+a case study, we have measured the efficiency of our proposed DHLP-1 and DHLP-2 algorithms on a biological
+network consisting of drugs, diseases, and targets. The subject we have studied in this network
+is drug repositioning, aimed at saving both time and cost by suggesting new indications for the current
+drugs. We compared the proposed algorithms with similar non-distributed versions of them namely
+MINProp and Heter-LP. The experiments revealed that the runtime of the algorithms has decreased
+in the distributed versions rather than non-distributed ones dramatically. The effectiveness
+of our proposed algorithms against other algorithms is supported through statistical analysis
+of 10-fold cross-validation as well as experimental analysis. 

@@ -1,0 +1,17 @@
+Facial beauty prediction (FBP) is a significant visual recognition problem to make assessment
+of facial attractiveness that is consistent to human perception. To tackle this problem, various
+data-driven models, especially state-of-the-art deep learning techniques, were introduced,
+and benchmark dataset become one of the essential elements to achieve FBP. Previous works have formulated
+the recognition of facial beauty as a specific supervised learning problem of classification,
+regression or ranking, which indicates that FBP is intrinsically a computation problem with multiple
+paradigms. However, most of FBP benchmark datasets were built under specific computation constrains,
+which limits the performance and flexibility of the computational model trained on the dataset.
+In this paper, we argue that FBP is a multi-paradigm computation problem, and propose a new diverse
+benchmark dataset, called SCUT-FBP5500, to achieve multi-paradigm facial beauty prediction.
+The SCUT-FBP5500 dataset has totally 5500 frontal faces with diverse properties (male/female,
+Asian/Caucasian, ages) and diverse labels (face landmarks, beauty scores within [1,~5], beauty
+score distribution), which allows different computational models with different FBP paradigms,
+such as appearance-based/shape-based facial beauty classification/regression model for male/female
+of Asian/Caucasian. We evaluated the SCUT-FBP5500 dataset for FBP using different combinations
+of feature and predictor, and various deep learning methods. The results indicates the improvement
+of FBP and the potential applications based on the SCUT-FBP5500. 

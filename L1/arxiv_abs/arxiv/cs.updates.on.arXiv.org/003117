@@ -1,0 +1,17 @@
+Recently, recognition of gender from facial images has gained a lot of importance. There exist a
+handful of research work that focus on feature extraction to obtain gender specific information
+from facial images. However, analyzing different facial regions and their fusion help in deciding
+the gender of a person from facial images. In this paper, we propose a new approach to identify gender
+from frontal facial images that is robust to background, illumination, intensity, and facial expression.
+In our framework, first the frontal face image is divided into a number of distinct regions based
+on facial landmark points that are obtained by the Chehra model proposed by Asthana et al. The model
+provides 49 facial landmark points covering different regions of the face, e.g. forehead, left
+eye, right eye, lips. Next, a face image is segmented into facial regions using landmark points and
+features are extracted from each region. The Compass LBP feature, a variant of LBP feature, has been
+used in our framework to obtain discriminative gender-specific information. Following this,
+a Support Vector Machine based classifier has been used to compute the probability scores from each
+facial region. Finally, the classification scores obtained from individual regions are combined
+with a genetic algorithm based learning to improve the overall classification accuracy. The experiments
+have been performed on popular face image datasets such as Adience, cFERET (color FERET), LFW and
+two sketch datasets, namely CUFS and CUFSF. Through experiments, we have observed that, the proposed
+method outperforms existing approaches. 

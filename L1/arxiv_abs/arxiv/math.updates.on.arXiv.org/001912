@@ -1,0 +1,16 @@
+The columnwise Khatri-Rao product of two matrices is an important matrix type, reprising its role
+as a structured sensing matrix in many fundamental linear inverse problems. Robust signal recovery
+in such inverse problems is often contingent on proving the restricted isometry property (RIP)
+of a certain system matrix expressible as a Khatri-Rao product of two matrices. In this work, we analyze
+the RIP of a generic columnwise Khatri-Rao product by deriving two upper bounds for its $k$-th order
+Restricted Isometry Constant ($k$-RIC) for different values of $k$. The first RIC bound is computed
+in terms of the individual RICs of the input matrices participating in the Khatri-Rao product. The
+second RIC bound is probabilistic in nature, and is specified in terms of the input matrix dimensions.
+We show that the Khatri-Rao product of a pair of $m \times n$ sized random matrices comprising independent
+and identically distributed subgaussian entries satisfies $k$-RIP with arbitrarily high probability,
+provided $m$ exceeds $\mathcal{O}(\sqrt{k} \log^{3/2} n)$. This is a substantially milder condition
+compared to $\mathcal{O}(k \log n)$ rows needed to guarantee $k$-RIP of the input subgaussian random
+matrices participating in the Khatri-Rao product. Our results confirm that the Khatri-Rao product
+exhibits stronger restricted isometry compared to its constituent matrices for the same RIP order.
+The proposed RIC bounds are potentially useful in obtaining improved performance guarantees in
+several sparse signal recovery and tensor decomposition problems. 

@@ -1,0 +1,17 @@
+Given an array A of $n$ elements, we wish to support queries for the most frequent and least frequent
+element in a subrange $[l, r]$ of $A$. We also wish to support updates that change a particular element
+at index $i$ or insert/ delete an element at index $i$. For the range mode problem, our data structure
+supports all operations in $O(n^{2/3})$ deterministic time using only $O(n)$ space. This improves
+two results by Chan et al. \cite{C14}: a linear space data structure supporting update and query
+operations in $\tilde{O}(n^{3/4})$ time and an $O(n^{4/3})$ space data structure supporting
+update and query operations in $\tilde{O}(n^{2/3})$ time. For the range least frequent problem,
+we address two variations. In the first, we are allowed to answer with an element of $A$ that may not
+appear in the query range, and in the second, the returned element must be present in the query range.
+For the first variation, we develop a data structure that supports queries in $\tilde{O}(n^{2/3})$
+time, updates in $O(n^{2/3})$ time, and occupies $O(n)$ space. For the second variation, we develop
+a Monte Carlo data structure that supports queries in $O(n^{2/3})$ time, updates in $\tilde{O}(n^{2/3})$
+time, and occupies $\tilde{O}(n)$ space, but requires that updates are made independently of the
+results of previous queries. The Monte Carlo data structure is also capable of answering $k$-frequency
+queries; that is, the problem of finding an element of given frequency in the specified query range.
+Previously, no dynamic data structures were known for least frequent element or $k$-frequency
+queries. 

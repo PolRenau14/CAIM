@@ -1,0 +1,17 @@
+In the first paper of this series, a comprehensive approach has been provided for the study of S-type
+and P-type habitable regions in stellar binary systems, which was, however, restricted to circular
+orbits of the stellar components. Fortunately, a modest modification of the method also allows
+for the consideration of elliptical orbits, which of course entails a much broader range of applicability.
+This augmented method is presented here, and numerous applications are conveyed. In alignment
+with Paper I, the selected approach considers a variety of aspects, which comprise the consideration
+of a joint constraint including orbital stability and a habitable region for a putative system planet
+through the stellar radiative energy fluxes (radiative habitable zone; RHZ). The devised method
+is based on a combined formalism for the assessment of both S-type and P-type habitability; in particular,
+mathematical criteria are deduced for which kinds of systems S-type and P-type habitable zones
+are realized. If the RHZs are truncated by the additional constraint of orbital stability, the notation
+of ST-type and PT-type habitability applies. In comparison to the circular case, it is found that
+in systems of higher eccentricity, the range of the RHZs is significantly reduced. Furthermore,
+the orbital stability constraint again impacts S-type and P-type habitability in an unfavorable
+manner. Nonetheless, S-, P-, ST-, and PT-type habitability is identified for a considerable set
+of system parameters. The method as presented is utilized for BinHab, a black box code available
+at The University of Texas at Arlington. 

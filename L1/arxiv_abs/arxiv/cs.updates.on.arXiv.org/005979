@@ -1,0 +1,17 @@
+The deep learning community has proposed optimizations spanning hardware, software, and learning
+theory to improve the computational performance of deep learning workloads. While some of these
+optimizations perform the same operations faster (e.g., switching from a NVIDIA K80 to P100), many
+modify the semantics of the training procedure (e.g., large minibatch training, reduced precision),
+which can impact a model's generalization ability. Due to a lack of standard evaluation criteria
+that considers these trade-offs, it has become increasingly difficult to compare these different
+advances. To address this shortcoming, DAWNBENCH and the upcoming MLPERF benchmarks use time-to-accuracy
+as the primary metric for evaluation, with the accuracy threshold set close to state-of-the-art
+and measured on a held-out dataset not used in training; the goal is to train to this accuracy threshold
+as fast as possible. In DAWNBENCH , the winning entries improved time-to-accuracy on ImageNet by
+two orders of magnitude over the seed entries. Despite this progress, it is unclear how sensitive
+time-to-accuracy is to the chosen threshold as well as the variance between independent training
+runs, and how well models optimized for time-to-accuracy generalize. In this paper, we provide
+evidence to suggest that time-to-accuracy has a low coefficient of variance and that the models
+tuned for it generalize nearly as well as pre-trained models. We additionally analyze the winning
+entries to understand the source of these speedups, and give recommendations for future benchmarking
+efforts. 

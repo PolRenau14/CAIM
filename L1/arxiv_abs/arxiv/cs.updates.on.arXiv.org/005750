@@ -1,0 +1,16 @@
+The focus of this paper is on the evaluation of sixteen labeling methods for hierarchical document
+clusters over five datasets. All of the methods are independent from clustering algorithms, applied
+subsequently to the dendrogram construction and based on probabilistic dependence relations
+among labels and clusters. To reach a fair comparison as well as a standard benchmark, we rewrote
+and presented the labeling methods in a similar notation. The experimental results were analyzed
+through a proposed evaluation methodology based on: (i) data standardization before applying
+the cluster labeling methods and over the labeling results; (ii) a particular information retrieval
+process, using the obtained labels and their hierarchical relations to construct the search queries;
+(iii) evaluation of the retrieval process through precision, recall and F measure; (iv) variance
+analysis of the retrieval results to better understanding the differences among the labeling methods;
+and, (v) the emulation of a human judgment through the analysis of a topic observed coherence measure
+- normalized Pointwise Mutual Information (PMI). Applying the methodology, we are able to highlight
+the advantages of certain methods: to capture specific information; for a better document hierarchy
+comprehension at different levels of granularity; and, to capture the most coherent labels through
+the label selections. Finally, the experimental results demonstrated that the label selection
+methods which hardly consider hierarchical relations had the best results. 

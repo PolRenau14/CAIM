@@ -1,0 +1,17 @@
+The ATLAS3D Survey has reported strong evidence for a non-universal stellar initial mass function
+(IMF) and for a trend of the IMF with the effective stellar velocity dispersion of early type galaxies
+(ETGs) (Cappellari et al. 2012). The ATLAS3D Survey consists of detailed Integral Field Spectroscopy
+of 260 ETGs closer than 42 Mpc. Cappellari et al. infer the IMF by comparing mass measurements derived
+from fitting the kinematic data with measurements derived from fitting the spectral energy distribution.
+Here we investigate possible systematic errors and biases that could affect their conclusions.
+We show that part of the reported trend between IMF and velocity dispersion is caused by a selection
+effect on H\b{eta} absorption. Apart from an IMF trend with velocity dispersion, we also find an
+IMF trend with distance, but no correlation between nearest neighbour ETGs as would be expected
+if the dependence on distance would reflect an environmental dependence. Part of the IMF trend with
+velocity dispersion can be traced back to colour-dependent calibration issues with the surface
+brightness fluctuation distances of Tonry et al. (2001) and Mei et al. (2007). There is no IMF-dispersion
+trend for galaxies with distances larger than 25 Mpc. The ATLAS3D Survey appears to be incomplete
+for masses lower than 10^10.3 solar masses. Restricting the analysis to the kinematic mass range
+M > 10^10.3 solar masses completely removes the IMF-dispersion trend. Our findings strongly
+suggest that some of the trends between IMF and galaxy properties reported by ATLAS3D are unphysical
+and caused by systematics. 

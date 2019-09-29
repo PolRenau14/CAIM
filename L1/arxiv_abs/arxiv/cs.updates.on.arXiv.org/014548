@@ -1,0 +1,17 @@
+The success of deep neural networks (DNNs) is attributable to three factors: increased compute
+capacity, more complex models, and more data. These factors, however, are not always present, especially
+for edge applications such as autonomous driving, augmented reality, and internet-of-things.
+Training DNNs requires a large amount of data, which is difficult to obtain. Edge devices such as
+mobile phones have limited compute capacity, and therefore, require specialized and efficient
+DNNs. However, due to the enormous design space and prohibitive training costs, designing efficient
+DNNs for different target devices is challenging. So the question is, with limited data, compute
+capacity, and model complexity, can we still successfully apply deep neural networks? This dissertation
+focuses on the above problems and improving the efficiency of deep neural networks at four levels.
+Model efficiency: we designed neural networks for various computer vision tasks and achieved more
+than 10x faster speed and lower energy. Data efficiency: we developed an advanced tool that enables
+6.2x faster annotation of a LiDAR point cloud. We also leveraged domain adaptation to utilize simulated
+data, bypassing the need for real data. Hardware efficiency: we co-designed neural networks and
+hardware accelerators and achieved 11.6x faster inference. Design efficiency: the process of
+finding the optimal neural networks is time-consuming. Our automated neural architecture search
+algorithms discovered, using 421x lower computational cost than previous search methods, models
+with state-of-the-art accuracy and efficiency. 

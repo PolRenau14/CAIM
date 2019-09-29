@@ -1,0 +1,17 @@
+The present work is concerned with the propagation of electro-magneto-thermoelastic plane waves
+of assigned frequency in a homogeneous isotropic and finitely conducting elastic medium permeated
+by a primary uniform external magnetic field. We formulate our problem under the theory of Green
+and Naghdi of type-III (GN-III) to account for the interactions between the elastic, thermal as
+well as magnetic fields. A general dispersion relation for coupled waves is deduced to ascertain
+the nature of waves propagating through the medium. Perturbation technique has been employed to
+obtain the solution of dispersion relation for small thermo-elastic coupling parameter and identify
+three different types of waves. We specially analyze the nature of important wave components like,
+phase velocity, specific loss and penetration depth of all three modes of waves. We attempt to compute
+these wave components numerically to observe their variations with frequency. The effect of presence
+of magnetic field is analyzed. Comparative results under theories of type GN-I, II and III have been
+presented numerically in which we have found that the coupled thermoelastic waves are un-attenuated
+and nondispersive in case of Green-Naghdi-II model which is completely in contrast with the theories
+of type-I and type-III. Furthermore, the thermal mode wave is observed to propagate with finite
+phase velocity in case of GN-II model, whereas the phase velocity of thermal mode wave is found to
+be an increasing function of frequency in other two cases. We achieve significant variations among
+the results predicted by all three theories. 

@@ -1,0 +1,17 @@
+There has been considerable interest in purely hydrodynamic instabilities in the dead zones of
+protoplanetary disks (PPDs) as a mechanism for driving angular momentum transport and as a source
+of vortices to incubate planetesimal formation. We present a series of numerical simulations with
+both a pseudo-spectral anelastic code and the fully compressible Godunov finite-volume code Athena,
+showing that stably stratified flows in a shearing, rotating box are violently unstable and produce
+space-filling, sustained turbulence dominated by large vortices with Rossby numbers of order
+0.2-0.3. This Zombie Vortex Instability (ZVI) is observed in both codes and is triggered by initial
+Kolmogorov turbulence with Mach numbers less than 0.01. ZVI is robust and requires no special tuning
+of cooling times, boundary conditions, or initial radial entropy or vortensity gradients. ZVI
+has not been seen in previous studies of flows in a rotating, shearing box because those calculations
+frequently lacked vertical density stratification and/or sufficient numerical resolution.
+Although we do not observe appreciable angular momentum transport from ZVI in small domains, we
+hypothesize that ZVI in larger domains with the fully compressible equations may lead to significant
+angular transport via spiral density waves launched by vortices. In a companion paper, we derive
+the instability criterion for ZVI; although ZVI is a subcritical instability, rather than a linear
+one, we show that initial Kolmogorov noise with Mach number no greater than 10^{-6} will trigger
+ZVI. 

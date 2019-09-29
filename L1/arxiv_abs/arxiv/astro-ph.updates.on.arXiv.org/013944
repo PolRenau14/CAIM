@@ -1,0 +1,16 @@
+We use 25 simulated galaxies from the NIHAO project to define and characterize a variety of kinematic
+stellar structures: thin and thick discs, large scale single discs, classical and pseudo bulges,
+spheroids, inner discs, and stellar haloes. These structures have masses, spins, shapes and rotational
+support in good agreement with theoretical expectations and observational data. Above a dark matter
+halo mass of $2.5\times10^{\rm~11}M_{\rm\odot}$, all galaxies have a classical bulge and 70\%
+have a thin and thick disc. The kinematic (thin) discs follow a power-law relation between angular
+momentum and stellar mass $J_{\rm *}=3.4M_{\rm *}^{\rm1.26\pm0.06}$, in very good agreement
+with the prediction based on the empirical stellar-to-halo mass relation in the same mass range,
+and show a strong correlation between maximum `observed' rotation velocity and dark matter halo
+circular velocity $v_{\rm c}=6.4v_{\rm max}^{0.64\pm0.04}$. Tracing back in time these structures'
+progenitors, we find all to lose a fraction $1-f_j$ of their maximum angular momentum. Thin discs
+are significantly better at retaining their high-redshift spins ($f_j\sim0.70$) than thick ones
+($f_j\sim0.40$). Stellar haloes have their progenitor baryons assembled the latest ($z_{\rm~1/2}\sim1.1$)
+and over the longest timescales ($\tau\sim6.2$~Gyr), and have the smallest fraction of stars born
+in-situ ($f_{\rm in-situ}=0.35\pm0.14$). All other structures have $1.5\lesssim z_{\rm1/2}\lesssim3$,
+$\tau=4\pm2$~Gyr and $f_{\rm in-situ}\gtrsim0.9$. 

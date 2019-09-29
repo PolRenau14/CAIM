@@ -1,0 +1,16 @@
+In this paper, we propose the use of a black-box optimization method called deterministic Mesh Adaptive
+Direct Search (MADS) algorithm with orthogonal directions (Ortho-MADS) for the selection of hyperparameters
+of Support Vector Machines with a Gaussian kernel. Different from most of the methods in the literature
+that exploit the properties of the data or attempt to minimize the accuracy of a validation dataset
+over the first quadrant of (C, gamma), the Ortho-MADS provides convergence proof. We present the
+MADS, followed by the Ortho-MADS, the dynamic stopping criterion defined by the MADS mesh size and
+two different search strategies (Nelder-Mead and Variable Neighborhood Search) that contribute
+to a competitive convergence rate as well as a mechanism to escape from undesired local minima. We
+have investigated the practical selection of hyperparameters for the Support Vector Machine with
+a Gaussian kernel, i.e., properly choose the hyperparameters gamma (bandwidth) and C (trade-off)
+on several benchmark datasets. The experimental results have shown that the proposed approach
+for hyperparameter tuning consistently finds comparable or better solutions, when using a common
+configuration, than other methods. We have also evaluated the accuracy and the number of function
+evaluations of the Ortho-MADS with the Nelder-Mead search strategy and the Variable Neighborhood
+Search strategy using the mesh size as a stopping criterion, and we have achieved accuracy that no
+other method for hyperparameters optimization could reach. 

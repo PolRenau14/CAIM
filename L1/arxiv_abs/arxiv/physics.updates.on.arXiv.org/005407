@@ -1,0 +1,16 @@
+In this paper we assessed changes in scaling properties of the river Danube level and flow data, associated
+with building of Djerdap/Iron Gates hydrological power plants positioned on the border of Romania
+and Serbia. We used detrended fluctuation analysis (DFA), wavelet transform spectral analysis
+(WTS) and wavelet-based modulus maxima method (WTMM) to investigate time series of river levels
+and river flows recorded at hydrological stations in the vicinity of dams and in the area of up to 480
+km upstream from dams, and time series of simulated NOAA-CIRES 20th Century Global Reanalysis precipitation
+records for the Djerdap/Iron Gates region. By comparing river dynamics during the periods before
+and after construction of dams, we were able to register changes in scaling that are different for
+recordings from upstream and from downstream (from dams) areas. We found that damming caused appearance
+of human-made or enhancement of natural cycles in the small time scales region, which largely influenced
+the change in temporal scaling in downstream recording stations. We additionally found disappearance
+or decline in the amplitude of large-time-scale cycles as a result of damming, that changed the dynamics
+of upstream data. The most prominent finding of our paper is a demonstration of a complete or partial
+loss of annual cycles in the upstream stations' data that we found to extend as far as 220 km from dams.
+We discussed probable sources of such found changes in scaling, aiming to provide explanations
+that could be of use in future environmental assessments. 

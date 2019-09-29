@@ -1,0 +1,17 @@
+To gain a better understanding of the interplay between frustrated long-range interactions and
+zero-temperature quantum fluctuations, we investigate the ground-state phase diagram of the
+transverse-field Ising model with algebraically-decaying long-range Ising interactions on
+quasi one-dimensional infinite-cylinder triangular lattices. Technically, we apply various
+approaches including low- and high-field series expansions. For the classical long-range Ising
+model, we investigate cylinders with an arbitrary even circumference. We show the occurrence of
+gapped stripe-ordered phases emerging out of the infinitely-degenerate nearest-neighbor Ising
+ground-state space on the two-dimensional triangular lattice. Further, while cylinders with
+circumferences $6$, $10$, $14$ et cetera are always in the same stripe phase for any decay exponent
+of the long-range Ising interaction, the family of cylinders with circumferences $4$, $8$, $12$
+et cetera displays a phase transition between two different types of stripe structures. For the
+full long-range transverse-field Ising model, we concentrate on cylinders with circumference
+four and six. The ground-state phase diagram consists of several quantum phases in both cases including
+an $x$-polarized phase, stripe-ordered phases, and clock-ordered phases which emerge from an
+order-by-disorder scenario already present in the nearest-neighbor model. In addition, the generic
+presence of a potential intermediate gapless phase with algebraic correlations and associated
+Kosterlitz-Thouless transitions is discussed for both cylinders. 

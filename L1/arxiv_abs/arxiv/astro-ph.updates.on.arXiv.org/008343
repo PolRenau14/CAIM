@@ -1,0 +1,16 @@
+Evidence presented by Yershov, Orlov and Raikov apparently showed that the WMAP/Planck cosmic
+microwave background (CMB) pixel-temperatures (T) at supernovae (SNe) locations tend to increase
+with increasing redshift ($z$). They suggest this correlation could be caused by the Integrated
+Sachs-Wolfe effect and/or by some unrelated foreground emission. Here, we assess this correlation
+independently using Planck 2015 SMICA R2.01 data and, following Yershov et al., a sample of 2783
+SNe from the Sternberg Astronomical Institute. Our analysis supports the prima facie existence
+of the correlation but attributes it to a composite selection bias (high CMB T $\times$ high SNe $z$)
+caused by the accidental alignment of seven deep survey fields with CMB hotspots. These seven fields
+contain 9.2 per cent of the SNe sample (256 SNe). Spearman's rank-order correlation coefficient
+indicates the correlation present in the whole sample ($\rho_s = 0.5$, p-value $= 6.7 \times 10^{-9}$)
+is insignificant for a sub-sample of the seven fields together ($\rho_s = 0.2$, p-value $= 0.2$)
+and entirely absent for the remainder of the SNe ($\rho_s = 0.1$, p-value $= 0.6$). We demonstrate
+the temperature and redshift biases of these seven deep fields, and estimate the likelihood of their
+falling on CMB hotspots by chance is at least $\sim$ 6.8 per cent (approximately 1 in 15). We show that
+a sample of 7880 SNe from the Open Supernova Catalogue exhibits the same effect and we conclude that
+the correlation is an accidental but not unlikely selection bias. 

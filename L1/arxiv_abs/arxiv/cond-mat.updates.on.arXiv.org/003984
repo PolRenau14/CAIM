@@ -1,0 +1,16 @@
+Simple intersections between one-dimensional channels can act as coherent beam splitters for
+non-interacting electrons. Here we examine how coherent splitting at such intersections is affected
+by inter-particle interactions, in the special case of an intersection of topological edge states.
+We derive an effective impurity model which represents the edge-state intersection within Luttinger
+liquid theory at low energy. For Luttinger K = 1 / 2 , we compute the exact time-dependent expectation
+values of the charge density as well as the density-density correlation functions. In general a
+single incoming charge density wave packet will split into four outgoing wave packets with transmission
+and reflection coefficients depending on the strengths of the tunnelling processes between the
+wires at the junction. We find that when multiple charge density wave packets from different directions
+pass through the intersection at the same time, reflection and splitting of the packets depend on
+the relative phases of the waves. Active use of this phase-dependent splitting of wave packets may
+make Luttinger interferometry possible. We also find that coherent incident packets generally
+suffer partial decoherence from the intersection, with some of their initially coherent signal
+being transferred into correlated quantum noise. In an extreme case four incident coherent wave
+packets can be transformed entirely into density-density correlations, with the charge density
+itself having zero expectation value everywhere in the final state. 

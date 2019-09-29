@@ -1,0 +1,16 @@
+Let $X$ be a compact manifold, $G$ a Lie group, $P \to X$ a principal $G$-bundle, and $\mathcal{B}_P$
+the infinite-dimensional moduli space of connections on $P$ modulo gauge. For a real elliptic operator
+$E_\bullet$ we previously studied orientations on the real determinant line bundle over $\mathcal{B}_P$.
+These are used to construct orientations in the usual sense on smooth gauge theory moduli spaces,
+and have been extensively studied since the work of Donaldson. Here we consider complex elliptic
+operators $F_\bullet$ and introduce the idea of spin structures, square roots of the complex determinant
+line bundle of $F_\bullet$. These may be used to construct spin structures in the usual sense on smooth
+complex gauge theory moduli spaces. We study the existence and classification of such spin structures.
+Our main result identifies spin structures on $X$ with orientations on $X \times S^1$. Thus, if $P
+\to X$ and $Q \to X \times S^1$ are principal $G$-bundles with $Q|_{X\times\{1\}} \cong P$, we relate
+spin structures on $(\mathcal{B}_P,F_\bullet)$ to orientations on $(\mathcal{B}_Q,E_\bullet)$
+for a certain class of operators $F_\bullet$ on $X$ and $E_\bullet$ on $X\times S^1$. Combined with
+arXiv:1811.02405, we obtain canonical spin structures for positive Diracians on spin 6-manifolds
+and gauge groups $G=U(m), SU(m)$. In a sequel we will apply this to define canonical orientation
+data for all Calabi-Yau 3-folds $X$ over the complex numbers, as in Kontsevich-Soibelman arXiv:0811.2435,
+solving a long-standing problem in Donaldson-Thomas theory. 

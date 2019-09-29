@@ -1,0 +1,16 @@
+Unconventional superconductivity often arises from Cooper pairing between neighboring atomic
+sites, stipulating a characteristic pairing symmetry in the reciprocal space. The twisted bilayer
+graphene (TBG) presents a new setting where superconductivity emerges on the flat bands whose Wannier
+wavefunctions spread over many graphene unit cells, forming the so-called Moir\'e pattern. To
+unravel how Wannier states form Cooper pairs, we study the interplay between electronic, structural,
+and pairing instabilities in TBG. For comparisons, we also study graphene on boron-nitride (GBN)
+possessing a different Moir\'e pattern, and single-layer graphene (SLG) without a Moir\'e pattern.
+For all cases, we compute the pairing eigenvalues and eigenfunctions by solving a linearized superconducting
+gap equation, where the spin-fluctuation mediated pairing potential is evaluated from materials
+specific tight-binding band structures. We find an extended $s$-wave as the leading pairing symmetry
+in TBG, in which the nearest-neighbor Wannier sites form Cooper pairs with same phase. In contrast,
+GBN assumes a $p+ip$-wave pairing between nearest-neighbor Wannier states with odd-parity phase,
+while SLG has the $d+id$-wave symmetry for inter-sublattice pairing with even-parity phase. Moreover,
+while $p+ip$, and $d+id$ pairings are chiral, and nodeless, but the extended $s$-wave channel possesses
+accidental {\it nodes}. The nodal pairing symmetry makes it easily distinguishable via power-law
+dependencies in thermodynamical entities, in addition to their direct visualization via spectroscopies.

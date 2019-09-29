@@ -1,0 +1,16 @@
+We investigate task clustering for deep-learning based multi-task and few-shot learning in a many-task
+setting. We propose a new method to measure task similarities with cross-task transfer performance
+matrix for the deep learning scenario. Although this matrix provides us critical information regarding
+similarity between tasks, its asymmetric property and unreliable performance scores can affect
+conventional clustering methods adversely. Additionally, the uncertain task-pairs, i.e., the
+ones with extremely asymmetric transfer scores, may collectively mislead clustering algorithms
+to output an inaccurate task-partition. To overcome these limitations, we propose a novel task-clustering
+algorithm by using the matrix completion technique. The proposed algorithm constructs a partially-observed
+similarity matrix based on the certainty of cluster membership of the task-pairs. We then use a matrix
+completion algorithm to complete the similarity matrix. Our theoretical analysis shows that under
+mild constraints, the proposed algorithm will perfectly recover the underlying "true" similarity
+matrix with a high probability. Our results show that the new task clustering method can discover
+task clusters for training flexible and superior neural network models in a multi-task learning
+setup for sentiment classification and dialog intent classification tasks. Our task clustering
+approach also extends metric-based few-shot learning methods to adapt multiple metrics, which
+demonstrates empirical advantages when the tasks are diverse. 

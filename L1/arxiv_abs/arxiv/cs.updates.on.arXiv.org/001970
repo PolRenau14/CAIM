@@ -1,0 +1,16 @@
+Leveraging recent advances in technologies surrounding the Internet of Things, "smart" water
+systems are poised to transform water resources management by enabling ubiquitous real-time sensing
+and control. Recent applications have demonstrated the potential to improve flood forecasting,
+enhance rainwater harvesting, and prevent combined sewer overflows. However, adoption of smart
+water systems has been hindered by a limited number of proven case studies, along with a lack of guidance
+on how smart water systems should be built. To this end, we review existing solutions, and introduce
+open storm---an open-source, end-to-end platform for real-time monitoring and control of watersheds.
+Open storm includes (i) a robust hardware stack for distributed sensing and control in harsh environments
+(ii) a cloud services platform that enables system-level supervision and coordination of water
+assets, and (iii) a comprehensive, web-based "how-to" guide, available on open-storm.org, that
+empowers newcomers to develop and deploy their own smart water networks. We illustrate the capabilities
+of the open storm platform through two ongoing deployments: (i) a high-resolution flash-flood
+monitoring network that detects and communicates flood hazards at the level of individual roadways
+and (ii) a real-time stormwater control network that actively modulates discharges from stormwater
+facilities to improve water quality and reduce stream erosion. Through these case studies, we demonstrate
+the real-world potential for smart water systems to enable sustainable management of water resources.

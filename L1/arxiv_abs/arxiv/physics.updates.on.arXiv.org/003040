@@ -1,0 +1,17 @@
+Network representation learning (also known as information network embedding) has been the central
+piece of research in social and information network analysis for the last couple of years. An information
+network can be viewed as a linked structure of a set of entities. A set of linked web pages and documents,
+a set of users in a social network are common examples of information network. Network embedding
+learns low dimensional representations of the nodes, which can further be used for downstream network
+mining applications such as community detection or node clustering. Information network representation
+techniques traditionally use only the link structure of the network. But in real world networks,
+nodes come with additional content such as textual descriptions or associated images. This content
+is semantically correlated with the network structure and hence using the content along with the
+topological structure of the network can facilitate the overall network representation. In this
+paper, we propose Sac2Vec, a network representation technique that exploits both the structure
+and content. We convert the network into a multi-layered graph and use random walk and language modeling
+technique to generate the embedding of the nodes. Our approach is simple and computationally fast,
+yet able to use the content as a complement to structure and vice-versa. We also generalize the approach
+for networks having multiple types of content in each node. Experimental evaluations on four real
+world publicly available datasets show the merit of our approach compared to state-of-the-art
+algorithms in the domain. 

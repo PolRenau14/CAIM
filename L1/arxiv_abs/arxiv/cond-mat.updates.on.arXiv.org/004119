@@ -1,0 +1,16 @@
+We introduce a planar embedding of the k-regular k-XORSAT problem, in which solutions are encoded
+in the ground state of a classical statistical mechanics model of reversible logic gates arranged
+on a square grid and acting on bits that represent the Boolean variables of the problem. The special
+feature of this embedding is that the resulting model lacks a finite-temperature phase transition,
+thus bypassing the first-order thermodynamic transition known to occur in the random graph representation
+of XORSAT. In spite of this attractive feature, the thermal relaxation into the ground state displays
+remarkably slow glassy behavior. The question addressed in this paper is whether this planar embedding
+can afford an efficient path to solution of k-regular k-XORSAT via quantum adiabatic annealing.
+We first show that our model bypasses an avoided level crossing and consequent exponentially small
+gap in the limit of small transverse fields. We then present quantum Monte Carlo results for our embedding
+of the k-regular k-XORSAT that strongly support a picture in which second-order and first-order
+transitions develop at a finite transverse field for k = 2 and k = 3, respectively. This translates
+into power-law and exponential dependences in the scaling of energy gaps with system size, corresponding
+to times-to-solution which are, respectively, polynomial and exponential in the number of variables.
+We conclude that neither classical nor quantum annealing can efficiently solve our reformulation
+of XORSAT, even though the original problem can be solved in polynomial time by Gaussian elimination.

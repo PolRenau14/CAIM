@@ -1,0 +1,16 @@
+The lensing convergence measurable with future CMB surveys like CMB-S4 will be highly correlated
+with the clustering observed by deep photometric large scale structure (LSS) surveys such as the
+LSST, with cross-correlation coefficient as high as 95\%. This will enable use of sample variance
+cancellation techniques to determine cosmological parameters, and use of cross-correlation
+measurements to break parameter degeneracies. Assuming large sky overlap between CMB-S4 and LSST,
+we show that a joint analysis of CMB-S4 lensing and LSST clustering can yield very tight constraints
+on the matter amplitude $\sigma_8(z)$, halo bias, and $f_\mathrm{NL}$, competitive with the best
+stage IV experiment predictions, but using complementary methods, which may carry different and
+possibly lower systematics. Having no sky overlap between experiments degrades the precision
+of $\sigma_8(z)$ by a factor of 20, and that of $f_\mathrm{NL}$ by a factor of 1.5 to 2. Without CMB
+lensing, the precision always degrades by an order of magnitude or more, showing that a joint analysis
+is critical. Our results also suggest that CMB lensing in combination with LSS photometric surveys
+is a competitive probe of the evolution of structure in the redshift range $z\simeq 1-7$, probing
+a regime that is not well tested observationally. We explore predictions against other surveys
+and experiment configurations, finding that wide patches with maximal sky overlap between CMB
+and LSS surveys are most powerful for $\sigma_8(z)$ and $f_\mathrm{NL}$. 

@@ -1,0 +1,16 @@
+We report the detection of relativistically broadened iron K alpha emission in the X-ray spectra
+of AGN detected in the 4Ms CDF-S. Using the Bayesian X-ray analysis (BXA) package, we fit 199 hard
+band (2-7 keV) selected sources in the redshift range z=0.5--4 with three models: (i) an absorbed
+power-law, (ii) the first model plus a narrow reflection component, and (iii) the second model with
+an additional relativistic broadened reflection. The Bayesian evidence for the full sample of
+sources selects the model with the additional broad component as being 10^5 times more probable
+to describe the data better than the second model. For the two brightest sources in our sample, CID
+190 (z=0.734) and CID 104 (z=0.543), BXA reveals the relativistic signatures in the individual
+spectra. We estimate the fraction of sources containing a broad component to be 54^{+35}_{-37}%
+(107/199 sources). Considering that the low signal-to-noise ratio of some spectra prevents the
+detection of the broad iron K alpha line, we infer an intrinsic fraction with broad emission of around
+two thirds. The detection of relativistic signatures in the X-ray spectra of these sources suggests
+that they are powered by a radiatively efficient accretion disk. Preliminary evidence is found
+that the spin of the black hole is high, with a maximally spinning Kerr BH model (a=1) providing a significantly
+better fit than a Schwarzschild model (a=0). Our analysis demonstrate the potential of X-ray spectroscopy
+to measure this key parameter in typical SMBH systems at the peak of BH growth. 

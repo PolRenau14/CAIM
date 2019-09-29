@@ -1,0 +1,16 @@
+One of the biggest problems we can encounter while dealing with the limb-darkening coefficients
+for stellar atmospheric models with spherical symmetry is the difficulty of adjusting both the
+limb and the central parts simultaneously. In particular, the regions near the drop-offs are not
+well reproduced for most models, depending on Teff, log g, or wavelength. Even if the law with four
+terms is used, these disagreements still persist. Here we introduce a new method that considerably
+improves the description of both the limb and the central parts and that will allow users to test models
+of stellar atmospheres with spherical symmetry more accurately in environments such as exoplanetary
+transits, eclipsing binaries, etc. The method introduced here is simple. Instead of considering
+all the $\mu $ points in the adjustment, as is traditional, we consider only the points until the drop-off
+($\mu_{cri}$) of each model. From this point, we impose a condition ${I(\mu)}/{I (1)} = 0$. All calculations
+were performed by adopting the least-squares method. The resulting coefficients using this new
+method reproduce the intensity distribution of the PHOENIX spherical models (COND and DRIFT) quite
+well for the photometric systems of the space missions {{\sc TESS}}, {{\sc KEPLER}}, {{\sc COROT}},
+and {{\sc MOST}}. The calculations cover the following ranges of local gravity and effective temperatures:
+2.5 $\leq$ log g $\leq$ 6.0 and 1500 K $\leq$ T$_{\rm eff}$ $\leq$ 12000 K. The new spherical coefficients
+can easily be adapted to the most commonly used light curve synthesis codes. 

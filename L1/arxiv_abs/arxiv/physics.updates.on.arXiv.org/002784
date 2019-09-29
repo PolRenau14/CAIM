@@ -1,0 +1,16 @@
+[Taken from the "README" in the book] My goal with this book is to provide some kind of bridge for mathematics
+between the high-school-level and college-level for physics students. From my perspective, our
+job as physicists is to observe and understand the universe around us. Unfortunately our universe
+happens to be pretty complicated, at least from a mathematical point-of-view. However, a lot of
+the underlying physics | the underlying set of rules surrounding how things move and behave | is usually
+not too complicated. Sure, when we couple things together, everything turns disgusting, and we
+need to turn to really powerful computers or simulators to get a lot accomplished. But the basic rules
+are not that bad. My hope is to provide enough of a conceptual framework for you to learn to $read$ math
+as I saw a lot of other physicists do when I started my undergraduate career. I plan to cover some of
+the topics that tend to trip up a lot of physics students, although I could not cover these exhaustively.
+When I found that I should have covered more, but could not due to finite time constraints, I left a
+reference to other work that I think you may find helpful. However, unlike a lot of works, my focus
+is to help modify your thinking of how math is used, rather than just pummel you with algorithms for
+you to memorize without giving you the proper context for such algorithms. Whenever you find my explanations
+long-winded, feel free to proceed through faster. If you get stuck, you are always free to go back
+and see what I might have referenced before. 

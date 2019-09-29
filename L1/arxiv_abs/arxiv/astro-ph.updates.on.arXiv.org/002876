@@ -1,0 +1,16 @@
+An earlier analysis of the Milky Way Star Cluster (MWSC) catalogue revealed an apparent lack of old
+(> 1 Gyr) open clusters in the solar neighbourhood (< 1 kpc). To fill this gap we undertook a
+search for hitherto unknown star clusters, assuming that the missing old clusters reside at high
+Galactic latitudes |b|> 20{\deg}. We were looking for stellar density enhancements using a
+star count algorithm on the 2MASS point source catalogue. To increase the contrast between potential
+clusters and the field, we applied filters in colour-magnitude space according to typical colour-magnitude
+diagrams of nearby old open clusters. The subsequent comparison with lists of known objects allowed
+us to select thus far unknown cluster candidates. For verification they were processed with the
+standard pipeline used within the MWSC survey for computing cluster membership probabilities
+and for determining structural, kinematic, and astrophysical parameters. In total we discovered
+782 density enhancements, 522 of which were classified as real objects. Among them 139 are new open
+clusters with ages 8.3 < log (t [yr]) < 9.7, distances d < 3 kpc, and distances from the Galactic
+plane 0.3 < Z < 1 kpc. This new sample has increased the total number of known high latitude open
+clusters by about 150%. Nevertheless, we still observe a lack of older nearby clusters up to 1 kpc
+from the Sun. This volume is expected to still contain about 60 unknown clusters that probably escaped
+our detection algorithm, which fails to detect sparse overdensities with large angular size. 

@@ -1,0 +1,17 @@
+The problem of nonparametric inference on a monotone function has been extensively studied in many
+particular cases. Estimators considered have often been of so-called Grenander type, being representable
+as the left derivative of the greatest convex minorant or least concave majorant of an estimator
+of a primitive function. In this paper, we provide general conditions for consistency and pointwise
+convergence in distribution of a class of generalized Grenander-type estimators of a monotone
+function. This broad class allows the minorization or majoratization operation to be performed
+on a data-dependent transformation of the domain, possibly yielding benefits in practice. Additionally,
+we provide simpler conditions and more concrete distributional theory in the important case that
+the primitive estimator and data-dependent transformation function are asymptotically linear.
+We use our general results in the context of various well-studied problems, and show that we readily
+recover classical results established separately in each case. More importantly, we show that
+our results allow us to tackle more challenging problems involving parameters for which the use
+of flexible learning strategies appears necessary. In particular, we study inference on monotone
+density and hazard functions using informatively right-censored data, extending the classical
+work on independent censoring, and on a covariate-marginalized conditional mean function, extending
+the classical work on monotone regression functions. In addition to a theoretical study, we present
+numerical evidence supporting our large-sample results. 

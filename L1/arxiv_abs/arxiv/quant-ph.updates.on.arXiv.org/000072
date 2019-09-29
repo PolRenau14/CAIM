@@ -1,0 +1,16 @@
+Ising models, and the physical systems described by them, play a central role in generating entangled
+states for use in quantum metrology and quantum information. In particular, ultracold atomic gases,
+trapped ion systems, and Rydberg atoms realize long-ranged Ising models, which even in the absence
+of a transverse field can give rise to highly non-classical dynamics and long-range quantum correlations.
+In the first part of this paper, we present a detailed theoretical framework for studying the dynamics
+of such systems driven (at time t=0) into arbitrary unentangled non-equilibrium states, thus greatly
+extending and unifying the work of Ref. [1]. Specifically, we derive exact expressions for closed-time-path
+ordered correlation functions, and use these to study experimentally relevant observables, e.g.
+Bloch vector and spin-squeezing dynamics. In the second part, these correlation functions are
+then used to derive closed-form expressions for the dynamics of arbitrary spin-spin correlation
+functions in the presence of both T_1 (spontaneous spin relaxation/excitation) and T_2 (dephasing)
+type decoherence processes. Even though the decoherence is local, our solution reveals that the
+competition between Ising dynamics and T_1 decoherence gives rise to an emergent non-local dephasing
+effect, thereby drastically amplifying the degradation of quantum correlations. In addition
+to identifying the mechanism of this deleterious effect, our solution points toward a scheme to
+eliminate it via measurement-based coherent feedback. 

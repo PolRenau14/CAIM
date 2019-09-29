@@ -1,0 +1,16 @@
+Life appears to have emerged relatively quickly on the Earth, a fact sometimes used to justify a high
+rate of spontaneous abiogenesis ($\lambda$) among Earth-like worlds. Conditioned upon a single
+datum - the time of earliest evidence for life ($t_{\mathrm{obs}}$) - previous Bayesian formalisms
+for the posterior distribution of $\lambda$ have demonstrated how inferences are highly sensitive
+to the priors. Rather than attempt to infer the true $\lambda$ posterior, we here compute the relative
+change to $\lambda$ when new experimental/observational evidence is introduced. By simulating
+posterior distributions and resulting entropic information gains, we compare three experimental
+pressures on $\lambda$: 1) evidence for an earlier start to life; $t_{\mathrm{obs}}$; 2) constraints
+on spontaneous abiogenesis from the lab; and 3) an exoplanet survey for biosignatures. First, we
+find that experiments 1 and 2 can only yield lower limits on $\lambda$, unlike 3. Second, evidence
+for an earlier start to life can yield negligible information on $\lambda$ if $t_{\mathrm{obs}}
+\ll \lambda_{\mathrm{max}}^{-1}$. Vice versa, experiment 2 is uninformative when $\lambda_{\mathrm{max}}
+\gg t_{\mathrm{obs}}^{-1}$. Whilst experiment 3 appears the most direct means of measuring $\lambda$,
+we highlight that early starts inform us of the conditions of abiogenesis, and that lab experiments
+could succeed in building new life. Together then, the three experiments are complimentary and
+we encourage activity in all to solve this grand challenge. 

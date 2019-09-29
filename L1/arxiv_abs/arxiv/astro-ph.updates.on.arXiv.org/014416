@@ -1,0 +1,17 @@
+As part of the ongoing effort to characterize the low-mass (sub-)stellar population in a sample
+of massive young clusters, we have targeted the ~2 Myr old cluster NGC 2244. The distance to NGC 2244
+from Gaia DR2 parallaxes is 1.59 kpc, with errors of 1% (statistical) and 11% (systematic). We used
+the FLAMINGOS-2 near-infrared camera at the Gemini-South telescope for deep multi-band imaging
+of the central portion of the cluster (~2.4pc^2). We determined membership in a statistical manner,
+through a comparison of the cluster's color-magnitude diagram to that of a control field. Masses
+and extinctions of the candidate members are then calculated with the help of evolutionary models,
+leading to the first Initial Mass Function (IMF) of the cluster extending into the substellar regime,
+with the 90-percent completeness limit around 0.02 Msun. The IMF is well represented by a broken
+power-law (dN/dM \propto M^{-alpha}), with a break at ~0.4 Msun. The slope at the high mass side (0.4
+- 7 Msun) is alpha=2.12+-0.08, close to the standard Salpeter's slope. In the low-mass range (0.02
+- 0.4 Msun), we find a slope alpha=1.03+-0.02, which is on the high end of the typical values obtained
+in nearby star-forming regions (alpha=0.5-1.0), but still in agreement within the uncertainties.
+Our results reveal no clear evidence for variations in the formation efficiency of brown dwarfs
+and very-low mass stars due to the presence of OB stars, or a change in stellar densities. Our finding
+rules out photoevaporation and fragmentation of infalling filaments as substantial pathways
+for brown dwarf formation. 

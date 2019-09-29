@@ -1,0 +1,17 @@
+Recent years have seen several new directions in the design of sparse control of cyber-physical
+systems (CPSs) driven by the objective of reducing communication cost. One common assumption made
+in these designs is that the communication happens over a dedicated network. For many practical
+applications, however, communication must occur over shared networks, leading to two critical
+design challenges, namely - time-delays in the feedback and fair sharing of bandwidth among users.
+In this paper, we present a set of sparse H2 control designs under these two design constraints. An
+important aspect of our design is that the delay itself can be a function of sparsity, which leads
+to an interesting pattern of trade-offs in the H2 performance. We present three distinct algorithms.
+The first algorithm preconditions the assignable bandwidth to the network and produces an initial
+guess for a stabilizing controller. This is followed by our second algorithm, which sparsifies
+this controller while simultaneously adapting the feedback delay and optimizing the H2 performance
+using alternating directions method of multipliers (ADMM). The third algorithm extends this approach
+to a multiple user scenario where optimal number of communication links, whose total sum is fixed,
+is distributed fairly among users by minimizing the variance of their H2 performances. The problem
+is cast as a difference-of-convex (DC) program with mixed-integer linear program (MILP) constraints.
+We provide theorems to prove convergence of these algorithms, followed by validation through numerical
+simulations. 

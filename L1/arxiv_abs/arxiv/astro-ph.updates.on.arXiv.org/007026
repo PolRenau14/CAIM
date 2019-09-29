@@ -1,0 +1,16 @@
+Thin astrophysical discs are very often modelled using the equations of two-dimensional hydrodynamics.
+We derive an extension of this model that describes more accurately the behaviour of a thin disc in
+the absence of self-gravity, magnetic fields and complex internal motions. The ideal fluid theory
+is derived directly from Hamilton's Principle for a three-dimensional fluid after making a specific
+approximation to the deformation gradient tensor. We express the equations in Eulerian form after
+projection on to a reference plane. The disc is thought of as a set of fluid columns, each of which is
+capable of a time-dependent affine transformation, consisting of a translation together with
+a linear transformation in three dimensions. Therefore, in addition to the usual two-dimensional
+hydrodynamics in the reference plane, the theory allows for a deformation of the midplane (as occurs
+in warped discs) and for the internal shearing motions that accompany such deformations. It also
+allows for the vertical expansions driven in non-circular discs by a variation of the vertical gravitational
+field around the horizontal streamlines, or by a divergence of the horizontal velocity. The equations
+of the affine model embody conservation laws for energy and potential vorticity, even for non-planar
+discs. We verify that they reproduce exactly the linear theories of three-dimensional warped and
+eccentric discs in a secular approximation. However, the affine model does not rely on any secular
+or small-amplitude assumptions and should be useful in more general circumstances. 

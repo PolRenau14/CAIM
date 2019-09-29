@@ -1,0 +1,16 @@
+A single-sensor two-detectors system is considered where the sensor communicates with both detectors
+and Detector 1 communicates with Detector 2, all over noise-free rate-limited links. The sensor
+and both detectors observe discrete memoryless source sequences whose joint probability mass
+function depends on a binary hypothesis. The goal at each detector is to guess the binary hypothesis
+in a way that, for increasing observation lengths, the probability of error under one of the hypotheses
+decays to zero with largest possible exponential decay, whereas the probability of error under
+the other hypothesis can decay to zero arbitrarily slow. For the setting with zero-rate communication
+on both links, we exactly characterize the set of possible exponents and the gain brought up by cooperation,
+in function of the number of bits that are sent over the two links. Notice that, for this setting, tradeoffs
+between the exponents achieved at the two detectors arise only in few particular cases. In all other
+cases, each detector achieves the same performance as if it were the only detector in the system.
+For the setting with positive communication rates from the sensor to the detectors, we characterize
+the set of all possible exponents in a special case of testing against independence. In this case
+the cooperation link allows Detector~2 to increase its Type-II error exponent by an amount that
+is equal to the exponent attained at Detector 1. We also provide a general inner bound on the set of
+achievable error exponents. For most cases it shows a tradeoff between the two exponents. 

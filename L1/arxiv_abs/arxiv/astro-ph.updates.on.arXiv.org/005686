@@ -1,0 +1,17 @@
+We calculate the cross-correlation function $\langle (\Delta T/T)(\mathbf{v}\cdot \mathbf{n}/\sigma_{v})
+\rangle$ between the kinetic Sunyaev-Zeldovich (kSZ) effect and the reconstructed peculiar velocity
+field using linear perturbation theory, to constrain the optical depth $\tau$ and peculiar velocity
+bias of central galaxies with Planck data. We vary the optical depth $\tau$ and the velocity bias
+function $b_{v}(k)=1+b(k/k_{0})^{n}$, and fit the model to the data, with and without varying
+the calibration parameter $y_{0}$ that controls the vertical shift of the correlation function.
+By constructing a likelihood function and constraining $\tau$, $b$ and $n$ parameters, we find
+that the quadratic power-law model of velocity bias $b_{v}(k)=1+b(k/k_{0})^{2}$ provides the
+best-fit to the data. The best-fit values are $\tau=(1.18 \pm 0.24) \times 10^{-4}$, $b=-0.84^{+0.16}_{-0.20}$
+and $y_{0}=(12.39^{+3.65}_{-3.66})\times 10^{-9}$ ($68\%$ confidence level). The probability
+of $b>0$ is only $3.12 \times 10^{-8}$ for the parameter $b$, which clearly suggests a detection
+of scale-dependent velocity bias. The fitting results indicate that the large-scale ($k \leq 0.1\,h\,{\rm
+Mpc}^{-1}$) velocity bias is unity, while on small scales the bias tends to become negative. The
+value of $\tau$ is consistent with the stellar mass--halo mass and optical depth relation proposed
+in the previous literatures, and the negative velocity bias on small scales is consistent with the
+peak background-split theory. Our method provides a direct tool to study the gaseous and kinematic
+properties of galaxies. 

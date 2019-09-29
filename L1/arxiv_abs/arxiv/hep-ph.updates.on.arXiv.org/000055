@@ -1,0 +1,16 @@
+We study in detail the general structure and further properties of the tree-level amplitudes in
+the SU(N) nonlinear sigma model. We construct the flavor-ordered Feynman rules for various parameterizations
+of the SU(N) fields U(x), write down the Berends-Giele relations for the semi-on-shell currents
+and discuss their efficiency for the amplitude calculation in comparison with those of renormalizable
+theories. We also present an explicit form of the partial amplitudes up to ten external particles.
+It is well known that the standard BCFW recursive relations cannot be used for reconstruction of
+the the on-shell amplitudes of effective theories like the SU(N) nonlinear sigma model because
+of the inappropriate behavior of the deformed on-shell amplitudes at infinity. We discuss possible
+generalization of the BCFW approach introducing "BCFW formula with subtractions" and with help
+of Berends-Giele relations we prove particular scaling properties of the semi-on-shell amplitudes
+of the SU(N) nonlinear sigma model under specific shifts of the external momenta. These results
+allow us to define alternative deformation of the semi-on-shell amplitudes and derive BCFW-like
+recursion relations. These provide a systematic and effective tool for calculation of Goldstone
+bosons scattering amplitudes and it also shows the possible applicability of on-shell methods
+to effective field theories. We also use these BCFW-like relations for the investigation of the
+Adler zeroes and double soft limit of the semi-on-shell amplitudes. 

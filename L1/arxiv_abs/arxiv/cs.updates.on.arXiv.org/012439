@@ -1,0 +1,16 @@
+In few-shot learning, a machine learning system learns from a small set of labelled examples relating
+to a specific task, such that it can generalize to new examples of the same task. Given the limited
+availability of labelled examples in such tasks ,we wish to make use of all the information we can.
+Usually a model learns task-specific information from a small training-set (support-set) to predict
+on an unlabelled validation set (target-set). The target-set contains additional task-specific
+information which is not utilized by existing few-shot learning methods. Making use of the target-set
+examples via transductive learning requires approaches beyond the current methods; at inference
+time, the target-set contains only unlabelled input data-points, and so discriminative learning
+cannot be used. In this paper, we propose a framework called Self-Critique and Adaptor SCA, which
+learns to learn a label-free loss function, parameterized as a neural network. A base-model learns
+on a support-set using existing methods (e.g. stochastic gradient descent combined with the cross-entropy
+loss), and then is updated for the incoming target-task using the learnt loss function. This label-free
+loss function is itself optimized such that the learnt model achieves higher generalization performance.
+Experiments demonstrate that SCA offers substantially reduced error-rates compared to baselines
+which only adapt on the support-set, and results in state of the art benchmark performance on Mini-ImageNet
+and Caltech-UCSD Birds 200. 

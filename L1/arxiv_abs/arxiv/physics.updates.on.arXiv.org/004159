@@ -1,0 +1,17 @@
+We present the first experiments of dissolution-driven convection of carbon dioxide (CO$_2$)
+in a confined brine-saturated porous medium at high pressures. We designed a novel Hele-Shaw cell
+that allows for both visual and quantitative analyses, and address the effects of free-phase CO$_2$
+and brine composition on convective dissolution. The visual examination of the gas volume combined
+with the measurement of pressure, which both evolve with dissolution, enable us to yield insights
+into the dynamics of convection in conditions that more closely reflect the geologic conditions.
+We find and analyze different dissolution events, including diffusive, early and late convection,
+and shut-down regimes. Our experiments reveal that in intermediate regime, a so-called `quasi-steady'
+state actually never happens. Dissolution flux continuously decreases in this regime, which is
+due to a negative feedback loop: the rapid reduction of pressure following convective dissolution,
+in turn, decreases the solubility of CO$_2$ at the gas-brine interface and thus the instability
+strength. We introduce a new scaling factor that not only compensates the flux reduction but also
+the nonlinearities that arise from different salt types. We present robust scaling relations for
+the compensated flux and for the transition times between consecutive regimes in systems with NaCl
+(Ra $\sim$ 3271--4841) and NaCl+CaCl$_2$ mixtures (Ra $\sim$ 2919--4283). We also find that NaCl+CaCl$_2$
+mixtures enjoy a longer intermediate period before the shut-down of dissolution, but with a lower
+dissolution flux, as compared to NaCl brines... 

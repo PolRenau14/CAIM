@@ -1,0 +1,16 @@
+The search for novel topological systems and phase transitions has recently broadened to include
+random substitutional alloys such as (AX)_x(BX)_{1-x}. Owing to disorder, such alloys lack translational
+symmetry that defines wavevectors and the specific crystalline symmetries that protect topological
+phases. We apply a disorder model within density functional formalism by solving the band structure
+problems within large supercells, in which different local environments, as well as atomic displacements
+and inter-site charge transfer are allowed. The "effective band structure" is then recovered by
+unfolding the supercell eigen solutions. This provides spectral functions manifesting coherent
+dispersive and incoherent broadening features, which reflects the above noted effects. Application
+to the PbSe-SnSe topological crystalline insulator (TCI) alloys reveals that the (a) valley degeneracy
+at the L points is removed by spatial randomness (valley splitting > 150 meV), and (b) absence of inversion
+lifts spin degenerates. Consequently, (a) instead of finding a concurrent transition between
+normal insulator and TCI phases, as predicted by standard alloy models that retain the high symmetry
+of components, we find a new, sequential, one-by-one inversion of the split valley components over
+a range of alloy compositions. Furthermore, (b) leads to a Weyl semimetal phase in this sequential
+transition, even without the need of external magnetic field. We suggest that the sequential band
+inversion can be measured in experiment. 

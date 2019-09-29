@@ -1,0 +1,16 @@
+Analytical solutions for the surface state (SS) of an extended Wolff Hamiltonian, which is a common
+Hamiltonian for strongly spin-orbit coupled systems, are obtained both for semi-infinite and
+finite-thickness boundary conditions. For the semi-infinite system, there are three types of
+SS solutions: (I-a) linearly crossing SSs in the direct bulk band gap, (I-b) SSs with linear dispersions
+entering the bulk conduction or valence bands away from the band edge, and (II) SSs with nearly flat
+dispersions entering the bulk state at the band edge. For the finite-thickness system, a gap opens
+in the SS of solution I-a. Numerical solutions for the SS are also obtained based on the tight-binding
+model of Liu and Allen [Phys. Rev. B, 52, 1566 (1995)] for Bi$_{1-x}$Sb$_x$ ($0\le x \le 0.1$). A perfect
+correspondence between the analytic and numerical solutions is obtained around the $\bar{M}$
+point including their thickness dependence. This is the first time that the character of the SS numerically
+obtained is identified with the help of analytical solutions. The size of the gap for I-a SS can be
+larger than that of bulk band gap even for a "thick" films ($\lesssim 200$ bilayers $\simeq 80$ nm)
+of pure bismuth. Consequently, in such a film of Bi$_{1-x}$Sb$_x$, there is no apparent change in
+the SSs through the band inversion at $x\simeq 0.04$, even though the nature of the SS is changed from
+solution I-a to I-b. Based on our theoretical results, the experimental results on the SS of Bi$_{1-x}$Sb$_x$
+($0\le x \lesssim 0.1$) are duscussed. 

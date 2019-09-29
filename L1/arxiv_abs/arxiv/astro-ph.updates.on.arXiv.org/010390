@@ -1,0 +1,16 @@
+Gamma-ray bursts are the most energetic electromagnetic sources in the Universe. Their prompt
+gamma-ray radiation corresponds to an energy release of 1E42-1E47J. Fifty years after their discovery
+and several dedicated space-based instruments, the physical origin of this emission is still unknown.
+Synchrotron emission has been one of the early contenders but was criticized because spectral fits
+of empirical models (such as a smoothly-connected broken power law or a cut-off power law) suggest
+too hard a slope of the low-energy power law, violating the so-called synchrotron line-of-death.
+We perform time-resolved gamma-ray spectroscopy of single-peaked GRBs as measured with Fermi/GBM.
+We demonstrate that idealized synchrotron emission, when properly incorporating time-dependent
+cooling of the electrons, is capable of fitting ~95% of all these GBM spectra. The comparison with
+spectral fit results based on previous empirical models demonstrates that the past exclusion of
+synchrotron radiation as an emission mechanism derived via the line-of-death was misleading.
+Our analysis probes the physics of these ultra-relativistic outflows and the related microphysical
+processes, and for the first time provides estimates of magnetic field strength and Lorentz factors
+of the emitting region directly from spectral fits. Our modeling of the Fermi/GBM observations
+provides evidence that GRBs are produced by moderately magnetized jets in which relativistic mini-jets
+emit optically-thin synchrotron radiation at large emission radii. 

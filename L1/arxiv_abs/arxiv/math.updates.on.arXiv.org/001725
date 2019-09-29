@@ -1,0 +1,16 @@
+The Kronecker modules (or matrix pencils) are the representations of the n-Kronecker quiver K(n)
+(the quiver with two vertices, namely a sink and a source, and n arrows) over some fixed field. The
+universal cover of K(n) is the n-regular tree with bipartite orientation. The paper deals with the
+representations of the n-regular tree with bipartite orientation (thus with graded Kronecker
+modules). The simultaneous Bernstein-Gelfand-Ponomarev reflection at all sinks will be called
+the shift functor, and we consider the orbits under this shift functor. Whereas the length of a regular
+module growths exponentially when we apply the shift functor repeatedly, the radius of such a module
+growths just linearly. To any regular shift orbit, we attach a positive integer r (the minimal radius
+of the sink modules in the orbit) and the path in T(n) which starts at the center p of the sink modules
+in the orbit and ends at the center q of the source modules in the orbit. If r is even, then p has to be a
+sink, otherwise a source. We call this path the center path of the orbit (since the center of any module
+in the orbit lies on this path). If the center path of a shift orbit has length b, then the orbit contains
+precisely b flow modules, the remaining modules are sink modules and source modules. We use this
+division in order to index the regular graded Kronecker modules in a coherent way. Conversely, we
+show that given a positive integer r and a path in T(n) (starting at a sink iff r is even), there are regular
+shift orbits with these invariants. 

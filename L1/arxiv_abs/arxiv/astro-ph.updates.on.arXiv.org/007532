@@ -1,0 +1,17 @@
+We present a new technique that allows us to compute ensemble statistics on a local basis, directly
+relating halo properties to their local environment. This is achieved by the use of a correlated
+ensemble in which the Large Scale Structure is common to all realizations while having each an independent
+halo population. The correlated ensemble can be stacked, effectively increasing the halo number
+density by an arbitrary factor, thus breaking the fundamental limit in the halo number density given
+by the haloe mass function. This technique allows us to compute \textit{local ensemble statistics}
+of the matter/haloe distribution at any position in the simulation box, while removing the intrinsic
+stochasticity in the halo formation process and directly relating halo properties to their environment.
+We introduce the \textit{Multum In Parvo} (MIP) correlated ensemble simulation consisting of
+220 realizations on a 32 h$^{-1}$ Mpc box with $256^3$ particles each. This is equivalent in terms
+of effective volume and number of particles to a box of $\sim 193$ h$^{-1}$ Mpc of side with $\sim 1540^3$
+particles containing $\sim 5\times 10^6$ haloes with a minimum mass of $3.25 \times 10^9$ h$^{-1}$
+M$_{\odot}$. The potential of the technique presented here is illustrated by computing the local
+ensemble statistics of the halo ellipticity and halo shape-LSS alignment. We show that, while there
+are general trends in the ellipticity and alignment of haloes with their LSS, there are also significant
+spatial variations which has important implications for observational studies of galaxy shape
+and alignment. 

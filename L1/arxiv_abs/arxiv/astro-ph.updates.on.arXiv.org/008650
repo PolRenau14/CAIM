@@ -1,0 +1,16 @@
+We analyzed V-band photometry of the Be star {\omega} CMa, obtained during the last four decades,
+during which the star went through four complete cycles of disc formation and dissipation. The data
+were simulated by hydrodynamic models based on a time-dependent implementation of the viscous
+decretion disc (VDD) paradigm, in which a disc around a fast-spinning Be star is formed by material
+ejected by the star and driven to progressively larger orbits by means of viscous torques. Our simulations
+offer a good description of the photometric variability during phases of disc formation and dissipation,
+which suggests that the VDD model adequately describes the structural evolution of the disc. Furthermore,
+our analysis allowed us to determine the viscosity parameter {\alpha}, as well as the net mass and
+angular momentum (AM) loss rates. We find that {\alpha} is variable, ranging from 0.1 to 1.0, not
+only from cycle to cycle but also within a given cycle. Additionally, build-up phases usually have
+larger values of {\alpha} than the dissipation phases. Furthermore, during dissipation the outward
+AM flux is not necessarily zero, meaning that {\omega} CMa does not experience a true quiescence
+but, instead, switches between a high to a low AM loss rate during which the disc quickly assumes an
+overall lower density but never zero. We confront the average AM loss rate with predictions from
+stellar evolution models for fast-rotating stars, and find that our measurements are smaller by
+more than one order of magnitude. 

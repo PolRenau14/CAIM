@@ -1,0 +1,16 @@
+During the past two years, Flash malware has become one of the most insidious threats to detect, with
+almost 600 critical vulnerabilities targeting Adobe Flash Player disclosed in the wild. Research
+has shown that machine learning can be successfully used to tackle this increasing variability
+and sophistication of Flash malware, by simply leveraging static analysis to extract information
+from the structure of the file or from its bytecode. However, the robustness of such systems against
+well-crafted evasion attempts - also known as adversarial examples - has never been investigated.
+In this paper, we first discuss how to craft adversarial Flash malware examples, and show that it
+suffices to only slightly manipulate them to evade detection. We then empirically demonstrate
+that popular defense techniques proposed to mitigate such threat, including re-training on adversarial
+examples, may not always be effective. We argue that this occurs when the feature vectors extracted
+from adversarial examples become indistinguishable from those of benign data, meaning that the
+given feature representation is intrinsically vulnerable. In this respect, we are the first to
+formally define and quantitatively characterize this vulnerability, highlighting when an attack
+can be countered by solely improving the security of the learning algorithm, or when it requires
+also considering additional features. We conclude the paper by suggesting alternative research
+directions to improve the security of learning-based Flash malware detectors. 

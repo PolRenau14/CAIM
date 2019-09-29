@@ -1,0 +1,15 @@
+Let $G$ be a graph with vertex set $V(G)$. For any two distinct vertices $x$ and $y$ of $G$, let $R\{x,
+y\}$ denote the set of vertices $z$ such that the distance from $x$ to $z$ is not equal to the distance
+from $y$ to $z$ in $G$. For a function $g$ defined on $V(G)$ and for $U \subseteq V(G)$, let $g(U)=\sum_{s
+\in U}g(s)$. Let $\kappa(G)=\min\{|R\{x,y\}|: x\neq y \mbox{ and } x,y \in V(G)\}$. For any real
+number $k \in [1, \kappa(G)]$, a real-valued function $g: V(G) \rightarrow [0,1]$ is a \emph{$k$-resolving
+function} of $G$ if $g(R\{x,y\}) \ge k$ for any two distinct vertices $x,y \in V(G)$. The \emph{fractional
+$k$-metric dimension}, $\dim^k_f(G)$, of $G$ is $\min\{g(V(G)): g \mbox{ is a $k$-resolving function
+of } G\}$. In this paper, we initiate the study of the fractional $k$-metric dimension of graphs.
+For a connected graph $G$ and $k \in [1, \kappa(G)]$, it's easy to see that $k \le \dim_f^k(G) \le \frac{k|V(G)|}{\kappa(G)}$;
+we characterize graphs $G$ satisfying $\dim_f^k(G)=k$ and $\dim_f^k(G)=|V(G)|$, respectively.
+We show that $\dim_f^k(G) \ge k \dim_f(G)$ for any $k \in [1, \kappa(G)]$, and we give an example showing
+that $\dim_f^k(G)-k\dim_f(G)$ can be arbitrarily large for some $k \in (1, \kappa(G)]$; we also
+describe a condition for which $\dim_f^k(G)=k\dim_f(G)$ holds. We determine the fractional $k$-metric
+dimension for some classes of graphs, and conclude with two open problems, including whether $\phi(k)=\dim_f^k(G)$
+is a continuous function of $k$ on every connected graph $G$. 

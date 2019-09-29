@@ -1,0 +1,16 @@
+Projections onto sets are used in a wide variety of methods in optimization theory but not every method
+that uses projections really belongs to the class of projection methods as we mean it here. Here projection
+methods are iterative algorithms that use projections onto sets while relying on the general principle
+that when a family of (usually closed and convex) sets is present then projections (or approximate
+projections) onto the given individual sets are easier to perform than projections onto other sets
+(intersections, image sets under some transformation, etc.) that are derived from the given family
+of individual sets. Projection methods employ projections (or approximate projections) onto
+convex sets in various ways. They may use different kinds of projections and, sometimes, even use
+different projections within the same algorithm. They serve to solve a variety of problems which
+are either of the feasibility or the optimization types. They have different algorithmic structures,
+of which some are particularly suitable for parallel computing, and they demonstrate nice convergence
+properties and/or good initial behavior patterns. This class of algorithms has witnessed great
+progress in recent years and its member algorithms have been applied with success to many scientific,
+technological, and mathematical problems. This annotated bibliography includes books and review
+papers on, or related to, projection methods that we know about, use, and like. If you know of books
+or review papers that should be added to this list please contact us. 

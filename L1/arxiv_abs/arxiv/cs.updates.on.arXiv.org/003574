@@ -1,0 +1,17 @@
+Despite the several successes of deep learning systems, there are concerns about their limitations,
+discussed most recently by Gary Marcus. This paper discusses Marcus's concerns and some others,
+together with solutions to several of these problems provided by the "P theory of intelligence"
+and its realisation in the "SP computer model". The main advantages of the SP system are: relatively
+small requirements for data and the ability to learn from a single experience; the ability to model
+both hierarchical and non-hierarchical structures; strengths in several kinds of reasoning,
+including `commonsense' reasoning; transparency in the representation of knowledge, and the
+provision of an audit trail for all processing; the likelihood that the SP system could not be fooled
+into bizarre or eccentric recognition of stimuli, as deep learning systems can be; the SP system
+provides a robust solution to the problem of `catastrophic forgetting' in deep learning systems;
+the SP system provides a theoretically-coherent solution to the problems of correcting over- and
+under-generalisations in learning, and learning correct structures despite errors in data; unlike
+most research on deep learning, the SP programme of research draws extensively on research on human
+learning, perception, and cognition; and the SP programme of research has an overarching theory,
+supported by evidence, something that is largely missing from research on deep learning. In general,
+the SP system provides a much firmer foundation than deep learning for the development of artificial
+general intelligence. 

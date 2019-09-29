@@ -1,0 +1,16 @@
+Supporting ultra-reliable low-latency communications (URLLC) is a major challenge of 5G wireless
+networks. Stringent delay and reliability requirements need to be satisfied for both scheduled
+and non-scheduled URLLC traffic to enable a diverse set of 5G applications. Although physical and
+media access control layer solutions have been investigated to satisfy only scheduled URLLC traffic,
+there is a lack of study on enabling transmission of non-scheduled URLLC traffic, especially in
+coexistence with the scheduled URLLC traffic. Machine learning (ML) is an important enabler for
+such a co-existence scenario due to its ability to exploit spatial/temporal correlation in user
+behaviors and use of radio resources. Hence, in this paper, we first study the coexistence design
+challenges, especially the radio resource management (RRM) problem and propose a distributed
+risk-aware ML solution for RRM. The proposed solution benefits from hybrid orthogonal/non-orthogonal
+radio resource slicing, and proactively regulates the spectrum needed for satisfying delay/reliability
+requirement of each URLLC traffic type. A case study is introduced to investigate the potential
+of the proposed RRM in serving coexisting URLLC traffic types. The results further provide insights
+on the benefits of leveraging intelligent RRM, e.g. a 75% increase in data rate with respect to the
+conservative design approach for the scheduled traffic is achieved, while the 99.99% reliability
+of both scheduled and nonscheduled traffic types is satisfied. 

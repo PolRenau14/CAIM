@@ -1,0 +1,17 @@
+Most studies of mass transfer in binary systems assume circular orbits at the onset of Roche-lobe
+overflow. However, there are theoretical and observational indications that mass transfer could
+occur in eccentric orbits. In particular, eccentricity could be produced via sudden mass loss and
+velocity kicks during supernova explosions, or Lidov-Kozai (LK) oscillations in hierarchical
+triple systems, or, more generally, secular evolution in multiple-star systems. However, current
+analytic models of eccentric mass transfer are faced with the problem that they are only well defined
+in the limit of very high eccentricities, and break down for less eccentric and circular orbits.
+This provides a major obstacle to implementing such models in binary and higher-order population
+synthesis codes, which are useful tools for studying the long-term evolution of a large number of
+systems. Here, we present a new analytic model to describe the secular orbital evolution of binaries
+undergoing conservative mass transfer. The main improvement of our model is that the mass transfer
+rate is a smoothly-varying function of orbital phase, rather than a delta function centered at periapsis.
+Consequently, our model is in principle valid for any eccentricity, thereby overcoming the main
+limitation of previous works. We implement our model in an easy-to-use and publicly available code
+which can be used as a basis for implementations of our model into population synthesis codes. We
+investigate the implications of our model in a number of applications with circular and eccentric
+binaries, and triples undergoing LK oscillations. 

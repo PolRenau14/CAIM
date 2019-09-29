@@ -1,0 +1,16 @@
+We study the secure and reliable connectivity of wireless sensor networks under the heterogeneous
+pairwise key predistribution scheme. This scheme was recently introduced as an extension of the
+random pairwise key predistribution scheme of Chan et al. to accommodate networks where the constituent
+sensors have different capabilities or requirements for security and connectivity. For simplicity,
+we consider a heterogeneous network where each of the $n$ sensors is classified as type-1 (respectively,
+type-2) with probability $\mu$ (respectively, $1-\mu)$ where $0<\mu<1$. Each type-1 (respectively,
+type-2) node selects 1 (respectively, $K_n$) other nodes uniformly at random to be paired with;
+according to the pairwise scheme each pair is then assigned a unique pairwise key so that they can
+securely communicate with each other. We establish critical conditions on $n, \mu$, and $K_n$ such
+that the resulting network has minimum node degree of at least $k$ with high probability in the limit
+of large network size. Our result constitutes a zero-one law for the minimum node degree of the recently
+introduced inhomogeneous random K-out graph model. This constitutes a crucial step towards establishing
+a similar zero-one law for the $k$-connectivity of the graph; i.e., for the property that the network
+remains connected despite the failure of any $k-1$ nodes or links. We present numerical results
+that indicate the usefulness of our results in selecting the parameters of the scheme in practical
+settings with finite number of sensors. 

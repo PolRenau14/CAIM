@@ -1,0 +1,16 @@
+We present a consistent analysis of linear spectroscopy for arrays of nearest neighbor dipole-coupled
+two-level molecules that reveals distinct signatures of weak and strong coupling regimes separated
+for infinite size arrays by a quantum critical point. In the weak coupling regime, the ground state
+of the molecular array is disordered, but in the strong coupling regime it has (anti)ferroelectric
+ordering. We show that multiple molecular excitations (odd/even in weak/strong coupling regime)
+can be accessed directly from the ground state. We analyze the scaling of absorption and emission
+with system size and find that the oscillator strengths show enhanced superradiant behavior in
+both ordered and disordered phases. As the coupling increases, the single excitation oscillator
+strength rapidly exceeds the well known Heitler-London value. In the strong coupling regime we
+show the existence of a unique spectral transition with excitation energy that can be tuned by varying
+the system size and that asymptotically approaches zero for large systems. The oscillator strength
+for this transition scales quadratically with system size, showing an anomalous one-photon superradiance.
+For systems of infinite size, we find a novel, singular spectroscopic signature of the quantum phase
+transition between disordered and ordered ground states. We outline how arrays of ultra cold dipolar
+molecules trapped in an optical lattice can be used to access the strong coupling regime and observe
+the anomalous superradiant effects associated with this regime. 

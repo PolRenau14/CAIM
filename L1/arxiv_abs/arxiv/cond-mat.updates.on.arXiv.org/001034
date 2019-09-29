@@ -1,0 +1,16 @@
+The longitudinal spin Seebeck effect refers to the generation of a spin current when heat flows across
+a normal metal/magnetic insulator interface. Until recently, most explanations of the spin Seebeck
+effect use the interfacial temperature difference as the conversion mechanism between heat and
+spin fluxes. However, theoretically it is expected that a magnon spin current is generated in the
+bulk of a magnetic insulator even in the absence of an interface. This is the so-called intrinsic
+spin Seebeck effect. Here, by utilizing a non-local spin Seebeck geometry, we provide evidence
+that the total magnon spin current in the ferrimagnetic insulator yttrium iron garnet (YIG) actually
+contains two distinct terms: one proportional to the gradient in the magnon chemical potential
+(pure spin diffusion), and a second proportional to the gradient in magnon temperature ($\nabla
+T_m$). We observe two characteristic decay lengths for magnon spin currents in YIG with distinct
+temperature dependences: a temperature independent decay length of ~ 10 {\mu}m consistent with
+earlier measurements of pure ($\nabla T_m = 0$) magnon spin diffusion, and a longer decay length
+ranging from about 20 {\mu}m around 250 K and exceeding 80 {\mu}m at 10 K. The coupled spin-heat transport
+processes are modeled using a finite element method revealing that the longer range spin current
+is attributable to the intrinsic spin Seebeck ($\nabla T_m \neq 0$), whose length scale increases
+at lower temperatures in agreement with our experimental data. 

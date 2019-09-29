@@ -1,0 +1,16 @@
+We explore the connection between the atomic gas fraction, f_atm, and `global disc stability' parameter,
+q, of galaxies within a fully cosmological context by examining galaxies in the Dark Sage semi-analytic
+model. The q parameter is given by the ratio of disc specific angular momentum to mass, i.e. q \propto
+j_disc/m_disc. Dark Sage is well suited to our study, as it includes the numerical evolution of one-dimensional
+disc structure, making both j_disc and q predicted quantities. We show that Dark Sage produces a
+clear correlation between gas fraction and j_disc, at fixed disc mass, in line with recent results
+from observations and hydrodynamic simulations. This translates to a tight q--f_atm sequence
+for star-forming central galaxies, which closely tracks the analytic prediction of Obreschkow
+et al. The scatter in this sequence is driven by the probability distribution function of mass as
+a function of j (PDF of j) within discs, specifically where it peaks. We find that halo mass is primarily
+responsible for the peak location of the PDF of j, at least for low values of q. Two main mechanisms
+of equal significance are then identified for disconnecting f_atm from q. Mergers in the model can
+trigger quasar winds, with the potential to blow out most of the gas disc, while leaving the stellar
+disc relatively unharmed. Ram-pressure stripping of satellite galaxies has a similar effect,
+where f_atm can drop drastically with only a minimal effect to q. We highlight challenges associated
+with following these predictions up with observations. 

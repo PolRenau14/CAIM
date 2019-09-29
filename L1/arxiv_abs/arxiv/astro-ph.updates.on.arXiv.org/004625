@@ -1,0 +1,16 @@
+Intrinsic alignments of galaxies are a significant astrophysical systematic affecting cosmological
+constraints from weak gravitational lensing. Obtaining numerical predictions from hydrodynamical
+simulations of expected survey volumes is expensive, and a cheaper alternative relies on populating
+large dark matter-only simulations with accurate models of alignments calibrated on smaller hydrodynamical
+runs. This requires connecting the shapes and orientations of galaxies to those of dark matter haloes
+and to the large-scale structure. In this paper, we characterise galaxy-halo alignments in the
+Horizon-AGN cosmological hydrodynamical simulation. We compare the shapes and orientations
+of galaxies in the redshift range $0<z<3$ to those of their embedding dark matter haloes, and to the
+matching haloes of a twin dark-matter only run with identical initial conditions. We find that galaxy
+ellipticities in general cannot be predicted directly from halo ellipticities. The mean misalignment
+angle between the minor axis of a galaxy and its embedding halo is a function of halo mass, with residuals
+arising from the dependence of alignment on galaxy type, but not on environment. Haloes are much
+more strongly aligned among themselves than galaxies, and they decrease their alignment towards
+low redshift. Galaxy alignments compete with this effect, as galaxies tend to increase their alignment
+with haloes towards low redshift. We discuss the implications of these results for current halo
+models of intrinsic alignments and suggest several avenues for improvement. 

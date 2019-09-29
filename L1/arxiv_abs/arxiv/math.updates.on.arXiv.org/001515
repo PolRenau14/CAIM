@@ -1,0 +1,16 @@
+This article is about applications of linear algebra to knot theory. For example, for odd prime p,
+there is a rule (given in the article) for coloring the arcs of a knot or link diagram from the residues
+mod p. This is a knot invariant in the sense that if a diagram of the knot under study admits such a coloring,
+then so does any other diagram of the same knot. This is called p-colorability. It is also associated
+to systems of linear homogeneous equations over the residues mod p, by regarding the arcs of the diagram
+as variables and assigning the equation "twice the over-arc minus the sum of the under-arcs equals
+zero" to each crossing. The knot invariant is here the existence or non-existence of non-trivial
+solutions of these systems of equations, when working over the integers modulo p (a non-trivial
+solution is such that not all variables take up the same value). Another knot invariant is the minimum
+number of distinct colors (values) these non-trivial solutions require, should they exist. This
+corresponds to finding a basis, supported by a diagram, in which these solutions take up the least
+number of distinct values. The actual minimum is hard to calculate, in general. For the first few
+primes, less than 17, it depends only on the prime, p, and not on the specific knots that admit non-trivial
+solutions, modulo p. For primes larger than 13 this is an open problem. In this article, we begin the
+exploration of other generalizations of these colorings (which also involve systems of linear
+homogeneous equations mod p) and we give lower bounds for the number of colors. 

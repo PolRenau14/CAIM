@@ -1,0 +1,17 @@
+HI intensity mapping data traces the large-scale structure matter distribution using the integrated
+emission of neutral hydrogen gas (HI). The cross-correlation of the intensity maps with optical
+galaxy surveys can mitigate foreground and systematic effects, but has been shown to significantly
+depend on galaxy evolution parameters of the HI and the optical sample. Previously, we have shown
+that the shot noise of the cross-correlation scales with the HI content of the optical samples, such
+that the shot noise estimation infers the average HI masses of these samples. In this article, we
+present an adaptive framework for the cross-correlation of HI intensity maps with galaxy samples
+using our implementation of the halo model formalism (Murray et al 2018, in prep) which utilises
+the halo occupation distribution of galaxies to predict their power spectra. We compare two HI population
+models, tracing the spatial halo and the galaxy distribution respectively, and present their auto-
+and cross-power spectra with an associated galaxy sample. We find that the choice of the HI model
+and the distribution of the HI within the galaxy sample have minor significance for the shape of the
+auto- and cross-correlations, but highly impact the measured shot noise amplitude of the estimators,
+a finding we confirm with simulations. We demonstrate parameter estimation of the HI halo occupation
+models and advocate this framework for the interpretation of future experimental data, with the
+prospect of determining the HI masses of optical galaxy samples via the cross-correlation shot
+noise. 

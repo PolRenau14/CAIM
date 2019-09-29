@@ -1,0 +1,16 @@
+We derive analytic expressions for the critical temperatures of the superconducting (SC) and pseudogap
+(PG) transitions of the high-Tc cuprates as a function of doping. These are in excellent agreement
+with the experimental data both for single-layered materials such as LSCO, Bi2201 and Hg1201 and
+multi-layered ones, such as Bi2212, Bi2223, Hg1212 and Hg1223. Optimal doping occurs when the chemical
+potential vanishes, thus leading to an universal expression for the optimal SC transition temperatures.
+This allows for the obtainment of a quantitative description of the growth of such temperatures
+with the number of layers, N, which accurately applies to the $Bi$, $Hg$ and $Tl$ families of cuprates.
+We study the pressure dependence of the SC transition temperatures, obtaining excellent agreement
+with the experimental data for different materials and dopings. These results are obtained from
+an effective Hamiltonian for the itinerant oxygen holes, which includes both the electric repulsion
+between them and their magnetic interactions with the localized copper ions. We show that the former
+interaction is responsible for the SC and the latter, for the PG phases, the phase diagram of cuprates
+resulting from the competition of both. The Hamiltonian is defined on a bipartite oxygen lattice,
+which results from the fact that only the $p_x$ and $p_y$ oxygen orbitals alternatively hybridize
+with the $3d$ copper orbitals. From this, we can provide an unified explanation for the $d_{x^2-y^2}$
+symmetry of both the SC and PG order parameters and obtain the Fermi pockets observed in ARPES experiments.

@@ -1,0 +1,16 @@
+An important index widely used to analyze social and information networks is betweenness centrality.
+In this paper, first given a directed network $G$ and a vertex $r\in V(G)$, we present a novel adaptive
+algorithm for estimating betweenness score of $r$. Our algorithm first computes two subsets of
+the vertex set of $G$, called $\mathcal{RF}(r)$ and $\mathcal{RT}(r)$, that define the sample
+spaces of the start-points and the end-points of the samples. Then, it adaptively samples from $\mathcal{RF}(r)$
+and $\mathcal{RT}(r)$ and stops as soon as some condition is satisfied. The stopping condition
+depends on the samples met so far, $|\mathcal{RF}(r)|$ and $|\mathcal{RT}(r)|$. We show that compared
+to the well-known existing methods, our algorithm gives a more efficient $(\lambda,\delta)$-approximation.
+Then, we propose a novel algorithm for estimating $k$-path centrality of $r$. Our algorithm is based
+on computing two sets $\mathcal{RF}(r)$ and $\mathcal{D}(r)$. While $\mathcal{RF}(r)$ defines
+the sample space of the source vertices of the sampled paths, $\mathcal{D}(r)$ defines the sample
+space of the other vertices of the paths. We show that in order to give a $(\lambda,\delta)$-approximation
+of the $k$-path score of $r$, our algorithm requires considerably less samples. Moreover, it processes
+each sample faster and with less memory. Finally, we empirically evaluate our proposed algorithms
+and show their superior performance. Also, we show that they can be used to efficiently compute centrality
+scores of a set of vertices. 

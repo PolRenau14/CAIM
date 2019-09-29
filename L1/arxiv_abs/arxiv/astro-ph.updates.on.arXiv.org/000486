@@ -1,0 +1,16 @@
+Using NASA IRTF SpeX data from 0.8 to 4.5 $\mu$m, we determine self-consistently the stellar properties
+and excess emission above the photosphere for a sample of classical T Tauri stars (CTTS) in the Taurus
+molecular cloud with varying degrees of accretion. This process uses a combination of techniques
+from the recent literature as well as observations of weak-line T Tauri stars (WTTS) to account for
+the differences in surface gravity and chromospheric activity between the TTS and dwarfs, which
+are typically used as photospheric templates for CTTS. Our improved veiling and extinction estimates
+for our targets allow us to extract flux-calibrated spectra of the excess in the near-infrared.
+We find that we are able to produce an acceptable parametric fit to the near-infrared excesses using
+a combination of up to three blackbodies. In half of our sample, two blackbodies at temperatures
+of 8000 K and 1600 K suffice. These temperatures and the corresponding solid angles are consistent
+with emission from the accretion shock on the stellar surface and the inner dust sublimation rim
+of the disk, respectively. In contrast, the other half requires three blackbodies at 8000, 1800,
+and 800 K, to describe the excess. We interpret the combined two cooler blackbodies as the dust sublimation
+wall with either a contribution from the disk surface beyond the wall or curvature of the wall itself,
+neither of which should have single-temperature blackbody emission. In these fits, we find no evidence
+of a contribution from optically thick gas inside the inner dust rim. 

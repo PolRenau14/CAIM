@@ -1,0 +1,16 @@
+The Galaxy And Mass Assembly (GAMA) survey furnishes a deep redshift catalog that, when combined
+with the Wide-field Infrared Explorer ($WISE$), allows us to explore for the first time the mid-infrared
+properties of $> 110, 000$ galaxies over 120 deg$^2$ to $z\simeq 0.5$. In this paper we detail
+the procedure for producing the matched GAMA-$WISE$ catalog for the G12 and G15 fields, in particular
+characterising and measuring resolved sources; the complete catalogs for all three GAMA equatorial
+fields will be made available through the GAMA public releases. The wealth of multiwavelength photometry
+and optical spectroscopy allows us to explore empirical relations between optically determined
+stellar mass (derived from synthetic stellar population models) and 3.4micron and 4.6micron WISE
+measurements. Similarly dust-corrected Halpha-derived star formation rates can be compared
+to 12micron and 22micron luminosities to quantify correlations that can be applied to large samples
+to $z<0.5$. To illustrate the applications of these relations, we use the 12micron star formation
+prescription to investigate the behavior of specific star formation within the GAMA-WISE sample
+and underscore the ability of WISE to detect star-forming systems at $z\sim0.5$. Within galaxy
+groups (determined by a sophisticated friends-of-friends scheme), results suggest that galaxies
+with a neighbor within 100$\,h^{-1} $kpc have, on average, lower specific star formation rates
+than typical GAMA galaxies with the same stellar mass. 

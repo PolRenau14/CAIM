@@ -1,0 +1,17 @@
+Intelligent mobile platforms such as smart vehicles and drones have recently become the focus of
+attention for onboard deployment of machine learning mechanisms to enable low latency decisions
+with low risk of privacy breach. However, most such machine learning algorithms are both computation-and-memory
+intensive, which makes it highly difficult to implement the requisite computations on a single
+device of limited computation, memory, and energy resources. Wireless distributed computing
+presents new opportunities by pooling the computation and storage resources among devices. For
+low-latency applications, the key bottleneck lies in the exchange of intermediate results among
+mobile devices for data shuffling. To improve communication efficiency, we propose a co-channel
+communication model and design transceivers by exploiting the locally computed intermediate
+values as side information. A low-rank optimization model is proposed to maximize the achieved
+degrees-of-freedom (DoF) by establishing the interference alignment condition for data shuffling.
+Unfortunately, existing approaches to approximate the rank function fail to yield satisfactory
+performance due to the poor structure in the formulated low-rank optimization problem. In this
+paper, we develop an efficient DC algorithm to solve the presented low-rank optimization problem
+by proposing a novel DC representation for the rank function. Numerical experiments demonstrate
+that the proposed DC approach can significantly improve the communication efficiency whereas
+the achievable DoF almost remains unchanged when the number of mobile devices grows. 

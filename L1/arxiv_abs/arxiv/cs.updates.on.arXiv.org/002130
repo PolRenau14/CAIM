@@ -1,0 +1,17 @@
+How can we capture the hidden properties from a tensor and a matrix data simultaneously? Coupled
+matrix-tensor factorization (CMTF) is an effective method to solve this problem because it extracts
+latent factors from a tensor and matrices at once. Designing an efficient CMTF has become more crucial
+as the size and dimension of real-world data are growing explosively. However, existing methods
+for CMTF suffer from two problems: 1) methods for dense data are not applicable to sparse real-world
+data, and 2) methods based on CANDECOMP/PARAFAC (CP) decomposition suffer from high test error
+because they do not capture correlations between all factors. In this paper, we propose S3CMTF,
+a fast, accurate, and scalable CMTF method. S3CMTF achieves high speed by exploiting the sparsity
+of real-world tensors, and high accuracy by capturing inter-relations between factors. Also,
+S3CMTF accomplishes additional speed-up by lock-free parallel SGD update for multi-core shared
+memory systems. We present two methods, S3CMTF-naive and S3CMTF-opt. S3CMTF-naive is a basic version
+of S3CMTF, and S3CMTF-opt improves its speed by exploiting intermediate data. We theoretically
+and empirically show that S3CMTF is the fastest outperforming existing methods. Experimental
+results show that S3CMTF is 11~43x faster, and 2.1~4.1x more accurate than existing methods. S3CMTF
+shows linear scalability on the number of data entries and the number of cores. In addition, we apply
+S3CMTF to Yelp dataset with a 3-mode tensor coupled with 3 additional matrices to discover interesting
+properties. 

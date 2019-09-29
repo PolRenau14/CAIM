@@ -1,0 +1,16 @@
+Hierarchical embedding constraints define a set of allowed cyclic orders for the edges incident
+to the vertices of a graph. These constraints are expressed in terms of FPQ-trees. FPQ-trees are
+a variant of PQ-trees that includes F-nodes in addition to P- and to Q-nodes. An F-node represents
+a permutation that is fixed, i.e., it cannot be reversed. Let $G$ be a graph such that every vertex
+of $G$ is equipped with a set of FPQ-trees encoding hierarchical embedding constraints for its incident
+edges. We study the problem of testing whether $G$ admits a planar embedding such that, for each vertex
+$v$ of $G$, the cyclic order of the edges incident to $v$ is described by at least one of the FPQ-trees
+associated with $v$. We prove that the problem is NP-complete even when the number of FPQ-trees associated
+with each vertex is bounded by a constant. If however the branchwidth of $G$ is bounded, the problem
+can be solved in polynomial time. Besides being interesting on its own right, the study of planarity
+testing with hierarchical embedding constraints can be used to address other planarity testing
+problems which can be modeled by associating a set of FPQ-trees to the vertices of the input graph.
+As a proof of concept, we apply our techniques to the study of NodeTrix planarity testing of clustered
+graphs. We show that NodeTrix planarity testing with fixed sides is fixed-parameter tractable
+when parameterized by the size of the clusters and by the tree-width of the multi-graph obtained
+by collapsing the clusters to single vertices. 

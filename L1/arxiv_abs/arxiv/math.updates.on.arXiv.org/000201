@@ -1,0 +1,17 @@
+By proving the log-convexity of the Riemann zeta function $\zeta(x)$, we show that the sequence
+$\{|B_{2n}|/(2n)!\}_{n\geq 1}$ is log-convex, where $B_n$ is the $n$-th Bernoulli number. We
+introduce the function $\theta(x)=(2\zeta(x)\Gamma(x+1))^{\frac{1}{x}}$, where $\Gamma(x)$
+is the Gamma function, and we show that $\log \theta(x)$ is strictly increasing for $x\geq 6$. This
+confirms a conjecture of Sun stating that the sequence of $\{\sqrt[n] {|B_{2n}}|\}_{n\geq 1}$
+is strictly increasing, which has been independently proved by Luca and St\u{a}nic\u{a}. Amdeberhan,
+Moll and Vignat defined the numbers $a_n(\mu)=2^{2n+1}(n+1)!(\mu+1)_n\zeta_{\mu}(2n)$ and
+conjectured that the sequences $\{a_n(\mu)\}_{n\geq 1}$ are log-convex for $\mu=0$ and 1. By proving
+the log-convexity of the Bessel zeta function $\zeta_{\mu}(x)$ for $x>1$ and $\mu>-1$,
+we show that the sequence $\{a_n(\mu)\}_{n\geq 1}$ are log-convex for any $\mu>-1$. We also
+introduce the function $\theta_{\mu}(x)$ involving $\zeta_{\mu}(x)$ and $\Gamma(x)$. We prove
+that $\log \theta_{\mu}(x)$ is strictly increasing for $x>8e(\mu+2)^2$. This implies that
+$\sqrt[n]{a_n(\mu)}<\sqrt[n+1]{a_{n+1}(\mu)}$ for $n> 4e(\mu+2)^2$. Furthermore,
+based on Dobinski's formula, we obtain that $\sqrt[n]{B_n}<\sqrt[n+1]{B_{n+1}}$ for $n\geq
+1$, where $B_n$ is the $n$-th Bell number. This confirms another conjecture of Sun. We also establish
+a connection between the increasing property of $\{\sqrt[n]{B_n}\}_{n\geq 1}$ and H\"{o}lder's
+inequality in probability theory. 

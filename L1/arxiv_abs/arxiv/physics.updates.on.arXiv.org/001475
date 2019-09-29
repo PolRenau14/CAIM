@@ -1,0 +1,17 @@
+We extend the impulse theory for unsteady aerodynamics, from its classic global form to finite-domain
+formulation then to minimum-domain form, and from incompressible to compressible flows. For incompressible
+flow, the minimum-domain impulse theory raises the finding of Li and Lu (J. Fluid Mech., 712: 598-613,
+2012) to a theorem: The entire force with discrete wake is completely determined by only the time
+rate of impulse of those vortical structures still connecting to the body, along with the Lamb-vector
+integral thereof that captures the contribution of all the rest disconnected vortical structures.
+For compressible flow, we find that the global form in terms of the curl of momentum, obtained by Huang
+(Unsteady Vortical Aerodynamics. Shanghai Jiaotong Univ. Press, 1994), can be generalized to
+having arbitrary finite domain, but the formula is cumbersome and in general the curl of momentum
+no longer has discrete structure and hence no minimum-domain theory exists. Nevertheless, as the
+measure of transverse process only, the unsteady field of vorticity may still have discrete wake.
+This leads to a minimum-domain compressible vorticity-moment theory in terms of density-weighted
+vorticity (but it is beyond the classic concept of impulse). These new findings and applications
+have been confirmed by our numerical experiments. The results not only open an avenue to combine
+the theory with computation-experiment in wide applications, but also reveals a physical truth
+that it is no longer necessary to account for all wake vortical structures in computing the force
+and moment. 

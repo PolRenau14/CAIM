@@ -1,0 +1,17 @@
+Image slicing is a powerful technique in astronomy. It allows the instrument designer to reduce
+the slit width of the spectrograph, increasing spectral resolving power whilst retaining throughput.
+Conventionally this is done using bulk optics, such as mirrors and prisms, however more recently
+astrophotonic components known as photonic lanterns (PLs) and photonic reformatters have also
+been used. These devices reformat the multi-mode (MM) input light from a telescope into single-mode
+(SM) outputs, which can then be re-arranged to suit the spectrograph. The photonic dicer (PD) is
+one such device, designed to reduce the dependence of spectrograph size on telescope aperture and
+eliminate modal noise. We simulate the PD, by optimising the throughput and geometrical design
+using Soapy and BeamProp. The simulated device shows a transmission between 8 and 20 %, depending
+upon the type of adaptive optics (AO) correction applied, matching the experimental results well.
+We also investigate our idealised model of the PD and show that the barycentre of the slit varies only
+slightly with time, meaning that the modal noise contribution is very low when compared to conventional
+fibre systems. We further optimise our model device for both higher throughput and reduced modal
+noise. This device improves throughput by 6.4 % and reduces the movement of the slit output by 50%,
+further improving stability. This shows the importance of properly simulating such devices, including
+atmospheric effects. Our work complements recent work in the field and is essential for optimising
+future photonic reformatters. 

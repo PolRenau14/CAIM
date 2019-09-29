@@ -1,0 +1,16 @@
+Given an undirected graph, are there $k$ matchings whose union covers all of its nodes, that is, a
+matching-$k$-cover? A first, easy polynomial solution from matroid union is possible, as already
+observed by Wang, Song and Yuan (Mathematical Programming, 2014). However, it was not satisfactory
+neither from the algorithmic viewpoint nor for proving graphic theorems, since the corresponding
+matroid ignores the edges of the graph. We prove here, simply and algorithmically: all nodes of a
+graph can be covered with $k\ge 2$ matchings if and only if for every stable set $S$ we have $|S|\le
+k\cdot|N(S)|$. When $k=1$, an exception occurs: this condition is not enough to guarantee the existence
+of a matching-$1$-cover, that is, the existence of a perfect matching, in this case Tutte's famous
+matching theorem (J. London Math. Soc., 1947) provides the right `good' characterization. The
+condition above then guarantees only that a perfect $2$-matching exists, as known from another
+theorem of Tutte (Proc. Amer. Math. Soc., 1953). Some results are then deduced as consequences with
+surprisingly simple proofs, using only the level of difficulty of bipartite matchings. We give
+some generalizations, as well as a solution for minimization if the edge-weights are non-negative,
+while the edge-cardinality maximization of matching-$2$-covers turns out to be already NP-hard.
+We have arrived at this problem as the line graph special case of a model arising for manufacturing
+integrated circuits with the technology called `Directed Self Assembly'. 

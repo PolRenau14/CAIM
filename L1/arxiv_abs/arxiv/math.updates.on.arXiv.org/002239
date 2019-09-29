@@ -1,0 +1,16 @@
+On a compact Riemannian manifold with boundary, we prove a spectral inequality for the bi-Laplace
+operator in the case of so-called "clamped" boundary conditions , that is, homogeneous Dirichlet
+and Neumann conditions simultaneously. We also prove a resolvent estimate for the generator of
+the damped plate semigroup associated with these boundary conditions. The spectral inequality
+allows one to observe finite sums of eigenfunctions for this fourth-order elliptic operator, from
+an arbitrary open subset of the manifold. Moreover, the constant that appears in the inequality
+grows as exp(C$\mu$ 1/4) where $\mu$ is the largest eigenvalue associated with the eigenfunctions
+appearing in the sum. This type of inequality is known for the Laplace operator. As an application,
+we obtain a null-controllability result for a higher-order parabolic equation. The resolvent
+estimate provides the spectral behavior of the plate semigroup generator on the imaginary axis.
+This type of estimate is known in the case of the damped wave semigroup. As an application , we deduce
+a stabilization result for the damped plate equation, with a log-type decay. The proofs of both the
+spectral inequality and the resolvent estimate are based on the derivation of different types of
+Carleman estimates for an elliptic operator related to the bi-Laplace operator: in the interior
+and at some boundaries. One of these estimates exhibits a loss of one full derivative. Its proof requires
+the introduction of an appropriate semi-classical calculus and a delicate microlocal argument.

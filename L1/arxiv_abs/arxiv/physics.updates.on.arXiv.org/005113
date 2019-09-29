@@ -1,0 +1,16 @@
+WavePacket is an open-source program package for numerical simulations in quantum dynamics. Building
+on the previous Part I [Comp. Phys. Comm. 213, 223-234 (2017)] and Part II [Comp. Phys. Comm. 228,
+229-244 (2018)] which dealt with quantum dynamics of closed and open systems, respectively, the
+present Part III adds fully classical and mixed quantum-classical propagations to WavePacket.
+In those simulations classical phase-space densities are sampled by trajectories which follow
+(diabatic or adiabatic) potential energy surfaces. In the vicinity of (genuine or avoided) intersections
+of those surfaces trajectories may switch between surfaces. To model these transitions, two classes
+of stochastic algorithms have been implemented: (1) J. C. Tully's fewest switches surface hopping
+and (2) Landau-Zener based single switch surface hopping. The latter one offers the advantage of
+being based on adiabatic energy gaps only, thus not requiring non-adiabatic coupling information
+any more. The present work describes the MATLAB version of WavePacket 6.0.2 which is essentially
+an object-oriented rewrite of previous versions, allowing to perform fully classical, quantum-classical
+and quantum-mechanical simulations on an equal footing, i.e., for the same physical system described
+by the same WavePacket input. The software package is hosted and further developed at the Sourceforge
+platform, where also extensive Wiki-documentation as well as numerous worked-out demonstration
+examples with animated graphics are available. 

@@ -1,0 +1,16 @@
+We investigate the relativistic properties under boost transformations of the $\kappa$-Poincar\'e
+model with multiple causally connected interactions, both at the level of its formulation in momentum
+space only and when it is endowed with a full phase space construction, provided by the relative locality
+framework. Previous studies focussing on the momentum space picture showed that in presence of
+just one interaction vertex the model is relativistic, provided that the boost parameter acting
+on each given particle receives a "backreaction" from the momenta of the other particles that participate
+in the interaction. Here we show that in presence of multiple causally-connected vertices the model
+is relativistic if the boost parameter acting on each given particle receives a backreaction from
+the total momentum of all the particles that are causally connected, even those that do not directly
+enter the vertex. The relative locality framework constructs spacetime by defining a set of dual
+coordinates to the momentum of each particle and interaction coordinates as Lagrange multipliers
+that enforce momentum conservation at interaction events. We show that the picture is Lorentz invariant
+if one uses an appropriate "total boost" to act on the particles' worldlines and on the interaction
+coordinates. The picture we develop also allows for a reinterpretation of the backreaction as the
+manifestation of the "total boost" action. Our findings provide the basis to consistently define
+distant relatively boosted observers in the relative locality framework. 

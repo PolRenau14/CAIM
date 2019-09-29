@@ -1,0 +1,16 @@
+We give a new and representation theoretic construction of $p$-adic interpolation series for central
+values of self-dual Rankin-Selberg $L$-functions for $\operatorname{GL}_2$ in dihedral towers
+of CM fields, using expressions of these central values as automorphic periods. The main novelty
+of this construction, apart from the level of generality in which it works, is that it is completely
+local. We give the construction here for a cuspidal automorphic representation of $\operatorname{GL}_2$
+over a totally real field corresponding to a $\mathfrak{p}$-ordinary Hilbert modular forms of
+parallel weight two and trivial character, although a similar approach can be taken in any setting
+where the underlying $\operatorname{GL}_2$-representation can be chosen to take values in a discrete
+valuation ring. A certain choice of vectors allows us to establish a precise interpolation formula
+thanks to theorems of Martin-Whitehouse and File-Martin-Pitale. Such interpolation formulae
+had been conjectured by Bertolini-Darmon in antecedent works. Our construction also gives a conceptual
+framework for the nonvanishing theorems of Cornut-Vatsal in that it describes the underlying theta
+elements. To highlight this latter point, we describe how the construction extends in the parallel
+weight two setting to give a $p$-adic interpolation series for central derivative values when the
+root number is generically equal to $-1$, in which case the formula of Yuan-Zhang-Zhang can be used
+to give an interpolation formula in terms of heights of CM points on quaternionic Shimura curves.

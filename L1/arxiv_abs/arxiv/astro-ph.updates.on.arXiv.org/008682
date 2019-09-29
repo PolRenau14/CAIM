@@ -1,0 +1,16 @@
+Electric dipole emission from rapidly spinning polycyclic aromatic hydrocarbons (PAHs) is widely
+believed as an origin of anomalous microwave emission (AME), but recently it encounters a setback
+due to the non-correlation of AME with PAH abundance seen in a full-sky analysis. Microwave observations
+for specific regions with well-constrained PAH features would be crucial to test the spinning dust
+hypothesis. In this paper, we present physical modeling of microwave emission from spinning PAHs
+from protoplanetary disks (PPDs) around Herbig Ae/Be stars and T-Tauri stars where PAH features
+are well observed. Guided by the presence of 10 $\mu$m silicate features in some PPDs, we also model
+microwave emission from spinning nanosilicates. Thermal emission from big dust grains is computed
+using the Monte Carlo radiative transfer code (\textsc{radmc-3d}; \citealt{2012ascl.soft02015D}).
+Our numerical results demonstrate that microwave emission from either spinning PAHs or spinning
+nanosilicates dominates over thermal dust at frequencies $\nu< 60$ GHz, even in the presence of
+significant grain growth. Finally, we attempt to fit mm-cm observational data with both thermal
+dust and spinning dust for several disks around Herbig Ae/Be stars that exhibit PAH features and
+find that spinning dust can successfully reproduce the observed excess microwave emission (EME).
+Future radio observations with ngVLA, SKA and ALMA Band 1 would be valuable for elucidating the origin
+of EME and potentially open a new window for probing nanoparticles in circumstellar disks. 

@@ -1,0 +1,16 @@
+Malle proposed a conjecture for counting the number of $G$-extensions $L/K$ with discriminant
+bounded above by $X$, denoted $N(K,G;X)$, where $G$ is a fixed transitive subgroup $G\subset S_n$
+and $X$ tends towards infinity. We introduce a refinement of Malle's conjecture, if $G$ is a group
+with a nontrivial Galois action then we consider the set of 1-coclasses in $H^1(K,G)$ with bounded
+discriminant. This has a natural interpretation given by counting $G$-extensions $E/L$ for some
+fixed $L$ and prescribed extension class $E/L/K$. If $T$ is an abelian group with any Galois action,
+we compute the asymptotic main term of this refined counting function for $H^1(K,T)$ and show that
+it is a natural generalization of Malle's conjecture. The proof technique is in essence an application
+of a theorem of Wiles on generalized Selmer groups, and additionally gives the asymptotic main term
+when restricted to certain local behaviors. As a consequence, whenever the inverse Galois problem
+is solved for $G\subset S_n$ over $K$ and $G$ has an abelian normal subgroup $T\trianglelefteq G$
+we prove a nontrivial lower bound for $N(K,G;X)$ given by a nonzero power of $X$ times a power of $\log
+X$. For many groups, including many solvable groups, these are the first known nontrivial lower
+bounds. These bounds prove Malle's predicted lower bounds for a large family of groups, and for an
+infinite subfamily they generalize Kl\"uners' counter example to Malle's conjecture and verify
+the corrected lower bounds predicted by Turkelli. 

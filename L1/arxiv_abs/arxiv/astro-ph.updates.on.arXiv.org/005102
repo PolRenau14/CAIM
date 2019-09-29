@@ -1,0 +1,17 @@
+We introduce xCOLD GASS, a legacy survey providing a census of molecular gas in the local Universe.
+Building upon the original COLD GASS survey, we present here the full sample of 532 galaxies with
+CO(1-0) measurements from the IRAM-30m telescope. The sample is mass-selected in the redshift
+interval $0.01<z<0.05$ from SDSS, and therefore representative of the local galaxy population
+with M$_{\ast}>10^9$M$_{\odot}$. The CO(1-0) flux measurements are complemented by observations
+of the CO(2-1) line with both the IRAM-30m and APEX telescopes, HI observations from Arecibo, and
+photometry from SDSS, WISE and GALEX. Combining the IRAM and APEX data, we find that the CO(2-1) to
+CO(1-0) luminosity ratio for integrated measurements is $r_{21}=0.79\pm0.03$, with no systematic
+variations across the sample. The CO(1-0) luminosity function is constructed and best fit with
+a Schechter function with parameters {$L_{\mathrm{CO}}^* = (7.77\pm2.11) \times 10^9\,\mathrm{K\,km\,s^{-1}\,
+pc^{2}}$, $\phi^{*} = (9.84\pm5.41) \times 10^{-4} \, \mathrm{Mpc^{-3}}$ and $\alpha = -1.19\pm0.05$}.
+With the sample now complete down to stellar masses of $10^9$M$_{\odot}$, we are able to extend our
+study of gas scaling relations and confirm that both molecular gas fraction and depletion timescale
+vary with specific star formation rate (or offset from the star-formation main sequence) much more
+strongly than they depend on stellar mass. Comparing the xCOLD GASS results with outputs from hydrodynamic
+and semi-analytic models, we highlight the constraining power of cold gas scaling relations on
+models of galaxy formation. 

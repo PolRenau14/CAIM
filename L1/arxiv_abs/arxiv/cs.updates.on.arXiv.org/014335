@@ -1,0 +1,16 @@
+Simulating and predicting planetary-scale techno-social systems poses heavy computational
+and modeling challenges. The DARPA SocialSim program set the challenge to model the evolution of
+GitHub, a large collaborative software-development ecosystem, using massive multi-agent simulations.
+We describe our best performing models and our agent-based simulation framework, which we are currently
+extending to allow simulating other planetary-scale techno-social systems. The challenge problem
+measured participant's ability, given 30 months of meta-data on user activity on GitHub, to predict
+the next months' activity as measured by a broad range of metrics applied to ground truth, using agent-based
+simulation. The challenge required scaling to a simulation of roughly 3 million agents producing
+a combined 30 million actions, acting on 6 million repositories with commodity hardware. It was
+also important to use the data optimally to predict the agent's next moves. We describe the agent
+framework and the data analysis employed by one of the winning teams in the challenge. Six different
+agent models were tested based on a variety of machine learning and statistical methods. While no
+single method proved the most accurate on every metric, the broadly most successful sampled from
+a stationary probability distribution of actions and repositories for each agent. Two reasons
+for the success of these agents were their use of a distinct characterization of each agent, and that
+GitHub users change their behavior relatively slowly. 

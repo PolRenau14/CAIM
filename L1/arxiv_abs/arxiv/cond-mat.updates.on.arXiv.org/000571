@@ -1,0 +1,16 @@
+The precession of electron spins in a perpendicular magnetic field, the so called Hanle effect,
+provides an unique insight into spin properties of a non-magnetic material. In practice, the spin
+signal is fitted to the analytic solution of the spin Bloch equation, which accounts for diffusion,
+relaxation and precession effects on spin. The analytic formula, however, is derived for an infinite
+length of the 1D spin channel. This is usually not satisfied in the real devices. The finite size of
+the channel length $l_{\text{dev}}$ leads to confinement of spins and increase of spin accumulation.
+Moreover, reflection of spins from the channel ends leads to spin interference, altering the characteristic
+precession lineshape. In this work we study the influence of finite $l_{\text{dev}}$ on the Hanle
+lineshape and show when it can lead to a two-fold discrepancy in the extracted spin coefficients.
+We propose the extension of the Hanle analytic formula to include the geometrical aspects of the
+real device and get an excellent agreement with a finite-element model of spin precession, where
+this geometry is explicitly set. We also demonstrate that in the limit of a channel length shorter
+than the spin relaxation length $\lambda_{s}$, the spin diffusion is negligible and a 0D spin transport
+description, with Lorentzian precession dependence applies. We provide a universal criterion
+for which transport description, 0D or 1D, to apply depending on the ratio $l_{\text{dev}}/\lambda_{s}$
+and the corresponding accuracy of such a choice. 

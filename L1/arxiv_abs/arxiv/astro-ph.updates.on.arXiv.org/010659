@@ -1,0 +1,16 @@
+We present radiation hydrodynamic simulations in which binary planets form by close encounters
+in a system of several super-Earth embryos. The embryos are embedded in a protoplanetary disk consisting
+of gas and pebbles and evolve in a region where the disk structure supports convergent migration
+due to Type I torques. As the embryos accrete pebbles, they become heated and thus affected by the
+thermal torque (Ben\'{i}tez-Llambay et al. 2015) and the hot-trail effect (Chrenko et al. 2017)
+which excites orbital eccentricities. Motivated by findings of Eklund & Masset (2017), we assume
+the hot-trail effect operates also vertically and reduces the efficiency of inclination damping.
+Non-zero inclinations allow the embryos to become closely packed and also vertically stirred within
+the convergence zone. Subsequently, close encounters of two embryos assisted by the disk gravity
+can form transient binary planets which quickly dissolve. Binary planets with a longer lifetime
+$\sim$$10^{4}$ yr form in 3-body interactions of a transient pair with one of the remaining embryos.
+The separation of binary components generally decreases in subsequent encounters and due to pebble
+accretion until the binary merges, forming a giant planet core. We provide an order-of-magnitude
+estimate of the expected occurrence rate of binary planets, yielding one binary planet per $\simeq$$2$--$5\times10^{4}$
+planetary systems. Therefore, although rare, the binary planets may exist in exoplanetary systems
+and they should be systematically searched for. 

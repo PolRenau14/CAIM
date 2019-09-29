@@ -1,0 +1,16 @@
+The aim of these notes is to describe how to construct canonical bundles of moving frames and differential
+invariants for parametrized curves in Lagrangian Grassmannians, at least in the monotonic case.
+Such curves appear as Jacobi curves of sub-Riemannian extremals [1,2] . Originally this construction
+was done in [6,7], where it uses the specifics of Lagrangian Grassmannian. In later works [3,4] a
+much more general theory for construction of canonical bundles of moving frames for parametrized
+or unparametrized curves in the so-called generalized flag varieties was developed, so that the
+problem which is discussed here can be considered as a particular case of this general theory. Although
+this was briefly discussed at the very end of [3], the application of the theory of [3,4] to obtain
+the results of [6,7] were never written in detail and this is our goal here. We believe that this exposition
+gives a more conceptual point of view on the original results of [6,7] and especially clarifies the
+origin of the normalization conditions of the canonical bundles of moving frames there, which in
+fact boil down to a choice of a complement to a certain subspace of the symplectic Lie algebra. The
+notes in almost the same form are included under my authorship as the Appendix in the book "A Comprehensive
+Introduction to sub-Riemannian Geometry from Hamiltonian view point" by A. Agrachev D. Barilari,
+U. Boscain. Following the style of this book, some not difficult statements are given as exercises
+for pedagogical purposes. 

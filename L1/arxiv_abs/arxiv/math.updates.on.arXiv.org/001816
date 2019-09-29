@@ -1,0 +1,16 @@
+A 1-ended finitely presented group has semistable fundamental group at $\infty$ if it acts geometrically
+on some (equivalently any) simply connected and locally finite complex $X$ with the property that
+any two proper rays in $X$ are properly homotopic. If $G$ has semistable fundamental group at $\infty$
+then one can unambiguously define the fundamental group at $\infty$ for $G$. The problem, asking
+if all finitely presented groups have semistable fundamental group at $\infty$ has been studied
+for over 40 years. If $G$ is an ascending HNN extension of a finitely presented group then indeed,
+$G$ has semistable fundamental group at $\infty$, but since the early 1980's it has been suggested
+that the finitely presented groups that are ascending HNN extensions of {\it finitely generated}
+groups may include a group with non-semistable fundamental group at $\infty$. Ascending HNN extensions
+naturally break into two classes, those with bounded depth and those with unbounded depth. Our main
+theorem shows that bounded depth finitely presented ascending HNN extensions of finitely generated
+groups have semistable fundamental group at $\infty$. Semistability is equivalent to two weaker
+asymptotic conditions on the group holding simultaneously. We show one of these conditions holds
+for all ascending HNN extensions, regardless of depth. We give a technique for constructing ascending
+HNN extensions with unbounded depth. This work focuses attention on a class of groups that may contain
+a group with non-semistable fundamental group at $\infty$. 

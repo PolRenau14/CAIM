@@ -1,0 +1,16 @@
+Light detection and ranging (LIDAR) is critical to many fields in science and industry. Over the
+last decade, optical frequency combs were shown to offer unique advantages in optical ranging,
+in particular when it comes to fast distance acquisition with high accuracy. However, current comb-based
+concepts are not suited for emerging high-volume applications such as drone navigation or autonomous
+driving. These applications critically rely on LIDAR systems that are not only accurate and fast,
+but also compact, robust, and amenable to cost-efficient mass-production. Here we show that integrated
+dissipative Kerr-soliton (DKS) comb sources provide a route to chip-scale LIDAR systems that combine
+sub-wavelength accuracy and unprecedented acquisition speed with the opportunity to exploit
+advanced photonic integration concepts for wafer-scale mass production. In our experiments,
+we use a pair of free-running DKS combs, each providing more than 100 carriers for massively parallel
+synthetic-wavelength interferometry. We demonstrate dual-comb distance measurements with
+record-low Allan deviations down to 12 nm at averaging times of 14 $\mu$s as well as ultrafast ranging
+at unprecedented measurement rates of up to 100 MHz. We prove the viability of our technique by sampling
+the naturally scattering surface of air-gun projectiles flying at 150 m/s (Mach 0.47). Combining
+integrated dual-comb LIDAR engines with chip-scale nanophotonic phased arrays, the approach
+could allow widespread use of compact ultrafast ranging systems in emerging mass applications.

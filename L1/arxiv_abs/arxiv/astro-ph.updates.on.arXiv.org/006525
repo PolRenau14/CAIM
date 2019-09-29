@@ -1,0 +1,17 @@
+The balloon-borne HiCal radio-frequency (RF) transmitter, in concert with the ANITA radio-frequency
+receiver array, is designed to measure the Antarctic surface reflectivity in the RF wavelength
+regime. The amplitude of surface-reflected transmissions from HiCal, registered as triggered
+events by ANITA, can be compared with the direct transmissions preceding them by O(10) microseconds,
+to infer the surface power reflection coefficient $\cal{R}$. The first HiCal mission (HiCal-1,
+Jan. 2015) yielded a sample of 100 such pairs, resulting in estimates of $\cal{R}$ at highly-glancing
+angles (i.e., zenith angles approaching $90^\circ$), with measured reflectivity for those events
+which exceeded extant calculations. The HiCal-2 experiment, flying from Dec., 2016-Jan., 2017,
+provided an improvement by nearly two orders of magnitude in our event statistics, allowing a considerably
+more precise mapping of the reflectivity over a wider range of incidence angles. We find general
+agreement between the HiCal-2 reflectivity results and those obtained with the earlier HiCal-1
+mission, as well as estimates from Solar reflections in the radio-frequency regime. In parallel,
+our calculations of expected reflectivity have matured; herein, we use a plane-wave expansion
+to estimate the reflectivity R from both a flat, smooth surface (and, in so doing, recover the Fresnel
+reflectivity equations) and also a curved surface. Multiplying our flat-smooth reflectivity
+by improved Earth curvature and surface roughness corrections now provides significantly better
+agreement between theory and the HiCal 2a/2b measurements. 

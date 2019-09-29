@@ -1,0 +1,16 @@
+We consider the classical setting of private information retrieval (PIR) of a single message (file)
+out of $M$ messages from $N$ distributed databases under the new constraint of \emph{asymmetric
+traffic} from databases. In this problem, the \emph{ratios between the traffic} from the databases
+are constrained, i.e., the ratio of the length of the answer string that the user (retriever) receives
+from the $n$th database to the total length of all answer strings from all databases is constrained
+to be $\tau_n$. This may happen if the user's access to the databases is restricted due database availability,
+channel quality to the databases, and other factors. For this problem, for fixed $M$, $N$, we develop
+a general upper bound $\bar{C}(\boldsymbol{\tau})$, which generalizes the converse proof of
+Sun-Jafar, where database symmetry was inherently used. Our converse bound is a piece-wise affine
+function in the traffic ratio vector $\boldsymbol{\tau}=(\tau_1, \cdots, \tau_N)$. For the lower
+bound, we explicitly show the achievability of $\binom{M+N-1}{M}$ corner points. For the remaining
+traffic ratio vectors, we perform time-sharing between these corner points. The recursive structure
+of our achievability scheme is captured via a system of difference equations. The upper and lower
+bounds exactly match for $M=2$ and $M=3$ for any $N$ and any $\boldsymbol{\tau}$. The results show
+strict loss of PIR capacity due to the asymmetric traffic constraints compared with the symmetric
+case of Sun-Jafar which implicitly uses $\tau_n=\frac{1}{N}$ for all $n$. 

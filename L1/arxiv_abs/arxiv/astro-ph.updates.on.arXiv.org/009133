@@ -1,0 +1,17 @@
+The Gemini Infrared Multi-Object Spectrograph (GIRMOS) is a powerful new instrument being built
+to facility-class standards for the Gemini telescope. It takes advantage of the latest developments
+in adaptive optics and integral field spectrographs. GIRMOS will carry out simultaneous high-angular-resolution,
+spatially-resolved infrared ($1-2.4$ $\mu$m) spectroscopy of four objects within a two-arcminute
+field-of-regard by taking advantage of multi-object adaptive optics. This capability does not
+currently exist anywhere in the world and therefore offers significant scientific gains over a
+very broad range of topics in astronomical research. For example, current programs for high redshift
+galaxies are pushing the limits of what is possible with infrared spectroscopy at $8-10$-meter
+class facilities by requiring up to several nights of observing time per target. Therefore, the
+observation of multiple objects simultaneously with adaptive optics is absolutely necessary
+to make effective use of telescope time and obtain statistically significant samples for high redshift
+science. With an expected commissioning date of 2023, GIRMOS's capabilities will also make it a
+key followup instrument for the James Webb Space Telescope when it is launched in 2021, as well as
+a true scientific and technical pathfinder for future Thirty Meter Telescope (TMT) multi-object
+spectroscopic instrumentation. In this paper, we will present an overview of this instrument's
+capabilities and overall architecture. We also highlight how this instrument lays the ground work
+for a future TMT early-light instrument. 

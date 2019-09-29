@@ -1,0 +1,16 @@
+Pure type systems arise as a generalisation of simply typed lambda calculus, which was motivated
+by several questions related to the foundations of mathematics. The contemporary development
+of mathematics has renewed the interest in type theories, and they are not just the object of mere
+historical research, but have an active role in the development of computing science and core mathematics.
+Martin-Lof's intuitionistic type theory is one of the most promising logic systems in recent decades.
+It can be studied as an alternative to set theory but also as an abstract model of functional programming
+languages. Although created in the 70s, its distant origins can be traced to the birth of type theories
+after the discovery of naive set theory's paradoxes. These theories propose a hierarchy of types
+in a way that avoids the problems of self-referential sets. Church's simply-typed lambda calculus
+will serve as a basis for more complex type theories that add features to it such as polymorphism,
+dependency, type constructors and subtyping. Among these systems, it is worth exploring some of
+them in depth, particularly Martin-L\"of intuitionistic type theory and Coquand's construction
+calculus. One of the most important paradoxes in type theory, Girard's paradox, states that type
+theory cannot quantify over all propositions and identify types and propositions at the same time.
+Therefore, one of these two points has to be left aside in order to maintain the validity of the other
+one. We will draw a comparison between intuitionistic type theory and construction calculus. 

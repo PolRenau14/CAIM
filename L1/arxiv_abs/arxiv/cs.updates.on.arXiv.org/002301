@@ -1,0 +1,16 @@
+Surgical debridement is the process of removing dead or damaged tissue to allow the remaining parts
+to heal. Automating this procedure could reduce surgical fatigue and facilitate teleoperation,
+but doing so is challenging for Robotic Surgical Assistants (RSAs) such as the da Vinci Research
+Kit (dVRK) due to inherent non-linearities in cable-driven systems. Consequently, we propose
+and evaluate a two-phase calibration process. In Phase I, the robot performs a set of open-loop trajectories
+to obtain abundant, cheap but coarse data of camera pixels and internal robot joint values, and learns
+a nonlinear transformation. In Phase II, the robot uses Phase I to move systematically to target
+points in a printed array. Each time, a human operator manually adjusts the end-effector position
+by direct contact (not through teleoperation), resulting in a small, high-quality dataset. Experiments
+suggest that without calibration, position errors are 4.55mm. Phase I alone can reduce average
+error to 2.14mm, but the combination of Phase I and Phase II reduces average error to 1.08mm. We apply
+this combination to an approximation of debridement with randomly oriented raisins and pumpkin
+seeds. Using an endoscopic stereo camera with standard edge detection, experiments with 120 trials
+achieved success rates of 91.7% to 99.2%, slightly exceeding prior results (89.4%) and more than
+2.1x faster, decreasing the time per fragment from 15.8 seconds to 7.3 seconds. Source code, data,
+and videos are available at https://sites.google.com/view/calib-icra/. 

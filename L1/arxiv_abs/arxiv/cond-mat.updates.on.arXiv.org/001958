@@ -1,0 +1,16 @@
+We theoretically study an ultra-cold gas of spin-1 polar bosons in one spatial dimension which are
+subject to a quadratic Zeeman field and a Raman induced spin-orbit coupling. Concentrating on the
+regime in which the background fields can be treated perturbatively we analytically solve the model
+in its low-energy sector, i.e. we characterize the relevant phases and the quantum phase transitions
+between them. Depending on the sign of the effective quadratic Zeeman field {\epsilon}, two superfluid
+phases with distinct nematic order appear. In addition, we uncover a spin-disordered superfluid
+phase at strong coupling. We employ a combination of renormalization group calculations and duality
+transformations to access the nature of the phase transitions. At ${\epsilon} =0$, a line of spin-charge
+separated pairs of Luttinger liquids divides the two nematic phases and the transition to the spin
+disordered state at strong coupling is of the Berezinskii-Kosterlitz-Thouless type. In contrast,
+at ${\epsilon} \neq 0$, the quantum critical theory separating nematic and strong coupling spin
+disordered phases contains a Luttinger liquid in the charge sector that is coupled to a Majorana
+fermion in the spin sector (i.e. the critical theory at finite {\epsilon} maps to a quantum critical
+Ising model that is coupled to the charge Luttinger liquid). Due to an emergent Lorentz symmetry,
+both have the same, logarithmically diverging velocity. We discuss the experimental signatures
+of our findings that are relevant to ongoing experiments in ultra-cold atomic gases of $^{23}$Na.

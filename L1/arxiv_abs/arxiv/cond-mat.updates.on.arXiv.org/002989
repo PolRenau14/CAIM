@@ -1,0 +1,17 @@
+The emerging diffusive dynamics in many complex systems shows a characteristic crossover behaviour
+from anomalous to normal diffusion which is otherwise fitted by two independent power-laws. A prominent
+example for a subdiffusive-diffusive crossover are viscoelastic systems such as lipid bilayer
+membranes, while superdiffusive-diffusive crossovers occur in systems of actively moving biological
+cells. We here consider the general dynamics of a stochastic particle driven by so-called tempered
+fractional Gaussian noise, that is noise with Gaussian amplitude and power-law correlations,
+which are cut off at some mesoscopic time scale. Concretely we consider such noise with built-in
+exponential or power-law tempering, driving an overdamped Langevin equation (fractional Brownian
+motion) and fractional Langevin equation motion. We derive explicit expressions for the mean squared
+displacement and correlation functions, including different shapes of the crossover behaviour
+depending on the concrete tempering, and discuss the physical meaning of the tempering. In the case
+of power-law tempering we also find a crossover behaviour from faster to slower superdiffusion
+and slower to faster subdiffusion. As a direct application of our model we demonstrate that the obtained
+dynamics quantitatively described the subdiffusion-diffusion and subdiffusion-subdiffusion
+crossover in lipid bilayer systems. We also show that a model of tempered fractional Brownian motion
+recently proposed by Sabzikar and Meerschaert leads to physically very different behaviour with
+a seemingly paradoxical ballistic long time scaling. 

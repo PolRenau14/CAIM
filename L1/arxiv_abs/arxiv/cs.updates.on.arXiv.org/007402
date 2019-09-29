@@ -1,0 +1,16 @@
+We present a virtual reality (VR) experience that creates a research-grade benchmark in assessing
+patients with active upper-limb tremor, while simultaneously offering the opportunity for patients
+to engage with VR experiences without their pathologic tremor. Accurate and precise use of handheld
+motion controllers in VR gaming applications may be limited for patients with upper limb tremor.
+In parallel, objective tools measuring tremor are not in widespread, routine clinical use. We used
+a commercially available VR system and designed a challenging virtual-balloon-popping test mimicking
+a common nose-to-target pointing task used by medical practitioners to subjectively evaluate
+tremor in the exam room. Within our VR experience, we offer a software mode which uses a low-pass filter
+to adjust hand position and pointing orientation over a series of past data points. This digital
+filter creates a smoothing function for hand movement which effectively removes the patient's
+tremor in the VR representation. While the patient completes trials of the reaching task, quantitative
+data on the pathologic tremor is digitally recorded. With speed, accuracy, and the tremor components
+computed across three axes of movement, patients can be evaluated for their tremor amplitudes in
+a quantitative, replicable, and enjoyable manner. Removal of tremor in digital space may allow
+patients having significant upper limb tremor to have both an objective clinical measurement of
+symptoms while providing patients positive feedback and interaction. 

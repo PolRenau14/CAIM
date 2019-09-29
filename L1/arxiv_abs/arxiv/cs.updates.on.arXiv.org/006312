@@ -1,0 +1,16 @@
+Disturbance noises are always bounded in a practical system, while fusion estimation is to best
+utilize multiple sensor data containing noises for the purpose of estimating a quantity--a parameter
+or process. However, few results are focused on the information fusion estimation problem under
+bounded noises. In this paper, we study the distributed fusion estimation problem for linear time-varying
+systems and nonlinear systems with bounded noises, where the addressed noises do not provide any
+statistical information, and is unknown but bounded. When considering linear time-varying fusion
+systems with bounded noises, a new local Kalman-like estimator is designed such that the square
+error of the estimator is bounded as time goes to $\infty$. A novel constructive method is proposed
+to find an upper bound of fusion estimation error, then a convex optimization problem on the design
+of an optimal weighting fusion criterion is established in terms of linear matrix inequalities,
+which can be solved by standard software packages. Furthermore, according to the design method
+of linear time-varying fusion systems, each local nonlinear estimator is derived for nonlinear
+systems with bounded noises by using Taylor series expansion, and a corresponding distributed
+fusion criterion is obtained by solving a convex optimization problem. Moreover, a stability condition
+is also derived for the designed nonlinear estimator. Finally, target tracking system and localization
+of a mobile robot are given to show the advantages and effectiveness of the proposed methods. 

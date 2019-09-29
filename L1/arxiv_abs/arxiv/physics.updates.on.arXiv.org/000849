@@ -1,0 +1,16 @@
+The formation of a collectively moving group benefits individuals within a population in a variety
+of ways such as ultra-sensitivity to perturbation, collective modes of feeding, and protection
+from environmental stress. While some collective groups use a single organizing principle, others
+can dynamically shift the behavior of the group by modifying the interaction rules at the individual
+level. The surface-dwelling bacterium Myxococcus xanthus forms dynamic collective groups both
+to feed on prey and to aggregate during times of starvation. The latter behavior, termed fruiting-body
+formation, involves a complex, coordinated series of density changes that ultimately lead to three-dimensional
+aggregates comprising hundreds of thousands of cells and spores. This multi-step developmental
+process most likely involves several different single-celled behaviors as the population condenses
+from a loose, two-dimensional sheet to a three-dimensional mound. Here, we use high-resolution
+microscopy and computer vision software to spatiotemporally track the motion of thousands of individuals
+during the initial stages of fruiting body formation. We find that a combination of cell-contact-mediated
+alignment and internal timing mechanisms drive a phase transition from exploratory flocking,
+in which cell groups move rapidly and coherently over long distances, to a reversal-mediated localization
+into streams, which act as slow-spreading, quasi-one-dimensional nematic fluids. These observations
+lead us to an active liquid crystal description of the myxobacterial development cycle. 

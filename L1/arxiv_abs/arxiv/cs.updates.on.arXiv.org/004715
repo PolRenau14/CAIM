@@ -1,0 +1,16 @@
+Deep neural networks are often trained in the over-parametrized regime (i.e. with far more parameters
+than training examples), and understanding why the training converges to solutions that generalize
+remains an open problem. Several studies have highlighted the fact that the training procedure,
+i.e. mini-batch Stochastic Gradient Descent (SGD) leads to solutions that have specific properties
+in the loss landscape. However, even with plain Gradient Descent (GD) the solutions found in the
+over-parametrized regime are pretty good and this phenomenon is poorly understood. We propose
+an analysis of this behavior for feedforward networks with a ReLU activation function under the
+assumption of small initialization and learning rate and uncover a quantization effect: The weight
+vectors tend to concentrate at a small number of directions determined by the input data. As a consequence,
+we show that for given input data there are only finitely many, "simple" functions that can be obtained,
+independent of the network size. This puts these functions in analogy to linear interpolations
+(for given input data there are finitely many triangulations, which each determine a function by
+linear interpolation). We ask whether this analogy extends to the generalization properties -
+while the usual distribution-independent generalization property does not hold, it could be that
+for e.g. smooth functions with bounded second derivative an approximation property holds which
+could "explain" generalization of networks (of unbounded size) to unseen inputs. 

@@ -1,0 +1,17 @@
+Most solar flares originate in sunspot groups, where magnetic field changes lead to energy build-up
+and release. However, few flare-forecasting methods use information of sunspot-group evolution,
+instead focusing on static point-in-time observations. Here, a new forecast method is presented
+based upon the 24-hr evolution in McIntosh classification of sunspot groups. Evolution-dependent
+$\geqslant$C1.0 and $\geqslant$M1.0 flaring rates are found from NOAA-numbered sunspot groups
+over December 1988 to June 1996 (Solar Cycle 22; SC22) before converting to probabilities assuming
+Poisson statistics. These flaring probabilities are used to generate operational forecasts for
+sunspot groups over July 1996 to December 2008 (SC23), with performance studied by verification
+metrics. Major findings are: i) considering Brier skill score (BSS) for $\geqslant$C1.0 flares,
+the evolution-dependent McIntosh-Poisson method ($\text{BSS}_{\text{evolution}}=0.09$)
+performs better than the static McIntosh-Poisson method ($\text{BSS}_{\text{static}} = -0.09$);
+ii) low BSS values arise partly from both methods over-forecasting SC23 flares from the SC22 rates,
+symptomatic of $\geqslant$C1.0 rates in SC23 being on average $\approx$80% of those in SC22 (with
+$\geqslant$M1.0 being $\approx$50%); iii) applying a bias-correction factor to reduce the SC22
+rates used in forecasting SC23 flares yields modest improvement in skill relative to climatology
+for both methods ($\mathrm{BSS}^{\mathrm{corr}}_{\mathrm{static}} = 0.09$ and $\mathrm{BSS}^{\mathrm{corr}}_{\mathrm{evolution}}
+= 0.20$) and improved forecast reliability diagrams. 

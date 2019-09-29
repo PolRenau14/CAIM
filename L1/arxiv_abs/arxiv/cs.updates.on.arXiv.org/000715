@@ -1,0 +1,16 @@
+Previous papers have described a computational approach to System of Systems (SoS) development
+using an Agent-Based Model (ABM). This paper describes the Fuzzy Decision Analysis used in the negotiation
+between the SoS agent and a System agent in the ABM of an Acknowledged SoS development. An Acknowledged
+SoS has by definition a limited influence on the development of the individual Systems. The individual
+Systems have their own priorities, pressures, and agenda which may or may not align with the goals
+of the SoS. The SoS has some funding and deadlines which can be used to negotiate with the individual
+System in order to illicit the required capability from that System. The Fuzzy Decision Analysis
+determines how the SoS agent will adjust the funding and deadlines for each of the Systems in order
+to achieve the desired SoS architecture quality. The Fuzzy Decision Analysis has inputs of performance,
+funding, and deadlines as well as weights for each capability. The performance, funding, and deadlines
+are crisp values which are fuzzified. The fuzzified values are then used with a Fuzzy Inference Engine
+to get the fuzzy outputs of funding adjustment and deadline adjustment which must then be defuzzified
+before being passed to the System agent. The first contribution of this paper is the fuzzy decision
+analysis that represents the negotiation between the SoS agent and the System agent. A second contribution
+of this paper is the method of implementing the fuzzy decision analysis which provides a generalized
+fuzzy decision analysis. 

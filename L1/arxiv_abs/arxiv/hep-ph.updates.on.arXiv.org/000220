@@ -1,0 +1,16 @@
+We develop a general and consistent model of neutrino oscillation based on the quantum field theoretical
+description of the neutrino production and detection processes. Emphasis is placed on the locality
+of the interactions of these processes, where on top of the usual application of the four fermion
+local Hamiltonian, we assume that weak interactions switched on only when the wave functions of
+the particles involved are overlapping and switched off upon their separation. A key assumption
+in our treatment is that the wave packet sizes of the particles, in particular, the neutrino producing
+source particles and the neutrino absorbing detector particles, are taken to be negligible compared
+with their mean free path in their respective medium. With this assumption, and taking into considerations
+of the finite time of neutrino production, neutrino wave packets with well-defined edges are generated.
+This fact, together with the locality of weak interactions, enable us to relate the propagation
+time to the propagation distance, thus doing away with the ad hoc time averaging procedure normally
+employing in derivations of neutrino oscillation formula. No assumptions on the particular forms
+of particle wave functions; for example, Gaussians, need to be made. A good feature of our approach
+is that the neutrino oscillation formula is automatically normalised if the in-going states of
+the production and detection processes are normalised. We also show that causality and unitarity
+cannot both be satisfied in virtual neutrino models. 

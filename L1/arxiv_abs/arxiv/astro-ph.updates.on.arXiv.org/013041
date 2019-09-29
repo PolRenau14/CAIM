@@ -1,0 +1,16 @@
+We present radial-velocity (RV) measurements for the K giant $\nu$ Oph (= HIP88048, HD163917, HR6698),
+which reveal two brown dwarf companions with a period ratio close to 6:1. For our orbital analysis
+we use 150 precise RV measurements taken at Lick Observatory between 2000 and 2011, and we combine
+them with RV data for this star available in the literature. Using a stellar mass of $M = 2.7\,M_\odot$
+for $\nu$ Oph and applying a self-consistent N-body model we estimate the minimum dynamical companion
+masses to be $m_1\sin i \approx 22.2\,M_{\mathrm{Jup}}$ and $m_2\sin i \approx 24.7\,M_{\mathrm{Jup}}$,
+with orbital periods $P_1 \approx 530$ d and $P_2 \approx 3185$ d. We study a large set of potential
+orbital configurations for this system, employing a bootstrap analysis and a systematic $\chi_{\nu}^2$
+grid-search coupled with our dynamical fitting model, and we examine their long-term stability.
+We find that the system is indeed locked in a 6:1 mean motion resonance (MMR), with $\Delta \omega$
+and all six resonance angles $\theta_{1}, \ldots, \theta_{6}$ librating around 0$^\circ$. We
+also test a large set of coplanar inclined configurations, and we find that the system will remain
+in a stable resonance for most of these configurations. The $\nu$ Oph system is important for probing
+planetary formation and evolution scenarios. It seems very likely that the two brown dwarf companions
+of $\nu$ Oph formed like planets in a circumstellar disk around the star and have been trapped in a
+MMR by smooth migration capture. 

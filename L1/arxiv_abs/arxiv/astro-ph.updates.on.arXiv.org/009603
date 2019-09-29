@@ -1,0 +1,17 @@
+Synthesis imaging of the black hole in the center of the Milky Way, Sgr A*, with the Event Horizon Telescope
+(EHT) rests on the assumption of a stationary image. We explore the limitations of this assumption
+using high-cadence GRMHD simulations of Sgr A*. We employ analytic models that capture the basic
+characteristics of the images to understand the origin of the variability in the simulated visibility
+amplitudes. We find that, in all simulations, the visibility amplitudes for baselines oriented
+perpendicular to the spin axis of the black hole typically decrease smoothly over baseline lengths
+that are comparable to those of the EHT. On the other hand, the visibility amplitudes for baselines
+oriented parallel to the spin axis show significant structure with one or more minima. This suggests
+that fitting EHT observations with geometric models will lead to reasonably accurate determination
+of the orientation of the black-hole on the plane of the sky. However, in the disk-dominated models,
+the locations and depths of the minima in the visibility amplitudes depend primarily on the width
+and asymmetry of the crescent-like images and are highly variable. In the jet-dominated models,
+the locations of the minima are determined by the separation of the two image components but their
+depths depend primarily on the relative brightness of the two components and are also variable.
+This suggests that using time-independent models to infer additional black-hole parameters,
+such as the shadow size or the spin magnitude, will be severely affected by the variability of the
+accretion flow. 

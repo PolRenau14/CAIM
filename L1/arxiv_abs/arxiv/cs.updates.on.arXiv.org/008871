@@ -1,0 +1,16 @@
+The ever-increasing growth in the number of connected smart devices and various Internet of Things
+(IoT) verticals is leading to a crucial challenge of handling massive amount of raw data generated
+from distributed IoT systems and providing real-time feedback to the end-users. Although existing
+cloud-computing paradigm has an enormous amount of virtual computing power and storage capacity,
+it is not suitable for latency-sensitive applications and distributed systems due to the involved
+latency and its centralized mode of operation. To this end, edge/fog computing has recently emerged
+as the next generation of computing systems for extending cloud-computing functions to the edges
+of the network. Despite several benefits of edge computing such as geo-distribution, mobility
+support and location awareness, various communication and computing related challenges need
+to be addressed in realizing edge computing technologies for future IoT systems. In this regard,
+this paper provides a holistic view on the current issues and effective solutions by classifying
+the emerging technologies in regard to the joint coordination of radio and computing resources,
+system optimization and intelligent resource management. Furthermore, an optimization framework
+for edge-IoT systems is proposed to enhance various performance metrics such as throughput, delay,
+resource utilization and energy consumption. Finally, a Machine Learning (ML) based case study
+is presented along with some numerical results to illustrate the significance of edge computing.

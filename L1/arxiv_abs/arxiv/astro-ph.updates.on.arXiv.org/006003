@@ -1,0 +1,16 @@
+In contemporary sub-stellar model atmospheres, dust growth occurs through neutral gas-phase
+surface chemistry. Recently, there has been a growing body of theoretical and observational evidence
+suggesting that ionisation processes can also occur. As a result, atmospheres are populated by
+regions composed of plasma, gas and dust, and the consequent influence of plasma processes on dust
+evolution is enhanced. This paper aims to introduce a new model of dust growth and destruction in
+sub-stellar atmospheres via plasma deposition and plasma sputtering. Using example sub-stellar
+atmospheres from Drift-Phoenix, we have compared plasma deposition and sputtering timescales
+to those from neutral gas-phase surface chemistry to ascertain their regimes of influence. We calculated
+the plasma sputtering yield and discuss the circumstances where plasma sputtering dominates over
+deposition. Within the highest dust density cloud regions, plasma deposition and sputtering dominates
+over neutral gas-phase surface chemistry if the degree of ionisation is $\gtrsim10^{-4}$. Loosely
+bound grains with surface binding energies of the order of $0.1-1$ eV are susceptible to destruction
+through plasma sputtering for feasible degrees of ionisation and electron temperatures; whereas,
+strong crystalline grains with binding energies of the order $10$ eV are resistant to sputtering.
+The mathematical framework outlined sets the foundation for the inclusion of plasma deposition
+and plasma sputtering in global dust cloud formation models of sub-stellar atmospheres. 

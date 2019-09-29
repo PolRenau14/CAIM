@@ -1,0 +1,16 @@
+Crop yield is a highly complex trait determined by multiple factors such as genotype, environment,
+and their interactions. Accurate yield prediction requires fundamental understanding of the
+functional relationship between yield and these interactive factors, and to reveal such relationship
+requires both comprehensive datasets and powerful algorithms. In the 2018 Syngenta Crop Challenge,
+Syngenta released several large datasets that recorded the genotype and yield performances of
+2,267 maize hybrids planted in 2,247 locations between 2008 and 2016 and asked participants to predict
+the yield performance in 2017. As one of the winning teams, we designed a deep neural network (DNN)
+approach that took advantage of state-of-the-art modeling and solution techniques. Our model
+was found to have a superior prediction accuracy, with a root-mean-square-error (RMSE) being 12%
+of the average yield and 50% of the standard deviation for the validation dataset using predicted
+weather data. With perfect weather data, the RMSE would be reduced to 11% of the average yield and
+46% of the standard deviation. We also performed feature selection based on the trained DNN model,
+which successfully decreased the dimension of the input space without significant drop in the prediction
+accuracy. Our computational results suggested that this model significantly outperformed other
+popular methods such as Lasso, shallow neural networks (SNN), and regression tree (RT). The results
+also revealed that environmental factors had a greater effect on the crop yield than genotype. 

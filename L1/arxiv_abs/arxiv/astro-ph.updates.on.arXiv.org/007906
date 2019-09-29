@@ -1,0 +1,16 @@
+Non-relativistic shocks accelerate ions to highly relativistic energies provided that the orientation
+of the magnetic field is closely aligned with the shock normal (quasi-parallel shock configuration).
+In contrast, quasi-perpendicular shocks do not efficiently accelerate ions. We model this obliquity-dependent
+acceleration process in a spherically expanding blast wave setup with the moving-mesh code {\sc
+arepo} for different magnetic field morphologies, ranging from homogeneous to turbulent configurations.
+A Sedov-Taylor explosion in a homogeneous magnetic field generates an oblate ellipsoidal shock
+surface due to the slower propagating blast wave in the direction of the magnetic field. This is because
+of the efficient cosmic ray (CR) production in the quasi-parallel polar cap regions, which softens
+the equation of state and increases the compressibility of the post-shock gas. We find that the solution
+remains self-similar because the ellipticity of the propagating blast wave stays constant in time.
+This enables us to derive an effective ratio of specific heats for a composite of thermal gas and CRs
+as a function of the maximum acceleration efficiency. We finally discuss the behavior of supernova
+remnants expanding into a turbulent magnetic field with varying coherence lengths. For a maximum
+CR acceleration efficiency of about 15 per cent at quasi-parallel shocks (as suggested by kinetic
+plasma simulations), we find an average efficiency of about 5 per cent, independent of the assumed
+magnetic coherence length. 

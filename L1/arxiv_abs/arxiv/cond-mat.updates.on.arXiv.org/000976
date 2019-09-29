@@ -1,0 +1,16 @@
+We present a mode-coupling theory (MCT) for the high-density dynamics of two-dimensional spherical
+active Brownian particles (ABP). The theory is based on the integration-through-transients (ITT)
+formalism and hence provides a starting point for the calculation of non-equilibrium averages
+in active-Brownian particle systems. The ABP are characterized by a self-propulsion velocity
+$v_0$, and by their translational and rotational diffusion coefficients, $D_t$ and $D_r$. The
+theory treats both the translational and the orientational degrees of freedom of ABP explicitly.
+This allows to study the effect of self-propulsion of both weak and strong persistence of the swimming
+direction, also at high densities where the persistence length $\ell_p=v_0/D_r$ is large compared
+to the typical interaction length scale. While the low-density dynamics of ABP is characterized
+by a single P\'eclet number, $Pe=v_0^2/D_rD_t$, close to the glass transition the dynamics is found
+to depend on $Pe$ and $\ell_p$ separately. At fixed density, increasing the self-propulsion velocity
+causes structural relaxatino to speed up, while decreasing the persistence length slows down the
+relaxation. The theory predicts a non-trivial idealized-glass-transition diagram in the three-dimensional
+parameter space of density, self-propulsion velocity and rotational diffusivity. The active-MCT
+glass is a nonergodic state where correlations of initial density fluctuations never fully decay,
+but also an infinite memory of initial orientational fluctuations is retained in the positions.

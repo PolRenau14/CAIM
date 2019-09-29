@@ -1,0 +1,16 @@
+Face multi-attribute prediction benefits substantially from multi-task learning (MTL), which
+learns multiple face attributes simultaneously to achieve shared or mutually related representations
+of different attributes. The most widely used MTL convolutional neural network is heuristically
+or empirically designed by sharing all of the convolutional layers and splitting at the fully connected
+layers for task-specific losses. However, it is improper to view all low and mid-level features
+for different attributes as being the same, especially when these attributes are only loosely related.
+In this paper, we propose a novel multi-attribute tensor correlation neural network (MTCN) for
+face attribute prediction. The structure shares the information in low-level features (e.g.,
+the first two convolutional layers) but splits that in high-level features (e.g., from the third
+convolutional layer to the fully connected layer). At the same time, during high-level feature
+extraction, each subnetwork (e.g., Age-Net, Gender-Net, ..., and Smile-Net) excavates closely
+related features from other networks to enhance its features. Then, we project the features of the
+C9 layers of the fine-tuned subnetworks into a highly correlated space by using a novel tensor correlation
+analysis algorithm (NTCCA). The final face attribute prediction is made based on the correlation
+matrix. Experimental results on benchmarks with multiple face attributes (CelebA and LFWA) show
+that the proposed approach has superior performance compared to state-of-the-art methods. 

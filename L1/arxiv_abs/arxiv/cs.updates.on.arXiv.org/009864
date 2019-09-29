@@ -1,0 +1,17 @@
+We present three methods for distributed memory parallel inverse factorization of block-sparse
+Hermitian positive definite matrices. The three methods are a recursive variant of the AINV inverse
+Cholesky algorithm, iterative refinement, and localized inverse factorization, respectively.
+All three methods are implemented using the Chunks and Tasks programming model, building on the
+distributed sparse quad-tree matrix representation and parallel matrix-matrix multiplication
+in the publicly available Chunks and Tasks Matrix Library (CHTML). Although the algorithms are
+generally applicable, this work was mainly motivated by the need for efficient and scalable inverse
+factorization of the basis set overlap matrix in large scale electronic structure calculations.
+We perform various computational tests on overlap matrices for quasi-linear Glutamic Acid-Alanine
+molecules and three-dimensional water clusters discretized using the standard Gaussian basis
+set STO-3G with up to more than 10 million basis functions. We show that for such matrices the computational
+cost increases only linearly with system size for all the three methods. We show both theoretically
+and in numerical experiments that the methods based on iterative refinement and localized inverse
+factorization outperform previous parallel implementations in weak scaling tests where the system
+size is increased in direct proportion to the number of processes. We show also that compared to the
+method based on pure iterative refinement the localized inverse factorization requires much less
+communication. 

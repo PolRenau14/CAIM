@@ -1,0 +1,16 @@
+For a future 5G Ethernet-based fronthaul architecture, 100G trunk lines of a transmission distance
+up to 10 km standard single mode fiber (SSMF) in combination with cheap grey optics to daisy chain
+cell site network interfaces are a promising cost- and power-efficient solution. For such a scenario,
+different intensity modulation and direct detect (IMDD) Formats at a data rate of 112 Gb/s, namely
+Nyquist four-level pulse amplitude modulation (PAM4), discrete multi-tone Transmission (DMT)
+and partial-response (PR) PAM4 are experimentally investigated, using a low-cost electro-absorption
+modulated laser (EML), a 25G driver and current state-of-the-art high Speed 84 GS/s CMOS digital-to-analog
+converter (DAC) and analog-to-digital converter (ADC) test chips. Each modulation Format is optimized
+independently for the desired scenario and their digital signal processing (DSP) requirements
+are investigated. The performance of Nyquist PAM4 and PR PAM4 depend very much on the efficiency
+of pre- and post-equalization. We show the necessity for at least 11 FFE-taps for pre-emphasis and
+up to 41 FFE coefficients at the receiver side. In addition, PR PAM4 requires an MLSE with four states
+to decode the signal back to a PAM4 signal. On the contrary, bit- and power-loading (BL, PL) is crucial
+for DMT and an FFT length of at least 512 is necessary. With optimized parameters, all Modulation
+formats result in a very similar performances, demonstrating a transmission distance of up to 10
+km over SSMF with bit error rates (BERs) below a FEC threshold of 4.4E-3, allowing error free transmission.

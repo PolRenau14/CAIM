@@ -1,0 +1,17 @@
+We built a grid of photoionization models and compiled already available observational emission
+line intensities ($\rm 1000 \: < \: \lambda(\AA) \: < \: 2000$) of confirmed star formation regions
+and Active Galactic Nucleus (AGNs) in order to classify five Ly$\alpha$ emitter (LAE) objects at
+high redshift $(5.7 \: < \: z \: < \:7.2)$. We selected objects for which at least one metal emission-line
+was measured. The resulting sample is composed by the objects RXCJ2248.7-4431-ID3, HSCJ233408+004403,
+COSY, A1703-zd6, and CR7 (clump C). The photoionization models were built assuming a Power Law (associated
+with the presence of an AGN), a Direct Collapse Black Hole (DCBH), and Population II stars for the
+ionizing source. The resulting models were then compared with observational emission-line ratios
+in six diagnostic diagrams to produce a spectral classification of the sample. We found that CR7
+(clump C), HSCJ233408+004403 and COSY probably have a non thermal ionizing source (AGN or DCBH)
+while the RXC J2248.7-4431-ID3 and A1703-zd6 seem to host a stellar cluster. Detailed photoionization
+models were constructed to reproduce observational emission line ratios of the sample of LAEs,
+and to derive chemical abundances and number of ionizing photons $Q(\rm H)$ of these objects. From
+these models, we found metallicities in the range $(Z/Z_{\odot})=0.1-0.5$ and $\log Q(\rm H) \:
+> \: 53$. Values for C/O abundance ratio derived for the LAEs seem to be consistent with those derived
+for local star forming objects with similar metallicities, while an overabundance of N/O was found
+for most of the LAEs. 

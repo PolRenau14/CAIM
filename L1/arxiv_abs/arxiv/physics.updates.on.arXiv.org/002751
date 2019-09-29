@@ -1,0 +1,17 @@
+We review techniques for simulating fully quantum nonadiabatic dynamics using the frozen-width
+moving Gaussian basis functions to represent the nuclear wavefunction. A choice of these basis
+functions is primarily motivated by the idea of the on-the-fly dynamics that will involve electronic
+structure calculations done locally in the vicinity of each Gaussian center and thus avoiding the
+"curse of dimensionality" appearing in large systems. For quantum dynamics involving multiple
+electronic states there are several aspects that need to be addressed. First, the choice of the electronic
+state representation is one of most defining in terms of formulation of resulting equations of motion.
+We will discuss pros and cons of the standard adiabatic and diabatic representations as well as the
+relatively new moving crude adiabatic representation. Second, if the number of electronic states
+can be fixed throughout the dynamics, the situation is different for the number of Gaussians needed
+for an accurate expansion of the total wavefunction. The latter increases its complexity along
+the course of the dynamics and a protocol extending the number of Gaussians is needed. We will consider
+two common approaches for the extension: 1) spawning and 2) cloning. Third, equations of motion
+for individual Gaussians can be chosen in different ways, implications for the energy conservation
+related to these ways will be discussed. Finally, to extend the success of moving basis approaches
+to quantum dynamics of open systems we will consider the Non-stochastic Open System Schr\"odinger
+Equation (NOSSE). 

@@ -1,0 +1,15 @@
+The problem of unicity and reidentifiability of records in large-scale databases has been studied
+in different contexts and approaches, with focus on preserving privacy or matching records from
+different data sources. With an increasing number of service providers nowadays routinely collecting
+location traces of their users on unprecedented scales, there is a pronounced interest in the possibility
+of matching records and datasets based on spatial trajectories. Extending previous work on reidentifiability
+of spatial data and trajectory matching, we now present the first large-scale analysis of user matchability
+in real mobility datasets on realistic scales, i.e. among two datasets that consist of several million
+people's mobility traces for a one week interval each. We extract the relevant statistical properties
+which influence the matching process and provide an estimate on a performance of matching and thus
+the matchability of users. We derive that for individuals with typical activity in the transportation
+system (those making 3-4 trips per day on average), a matching algorithm based on the co-occurrence
+of their activities is expected to achieve a 16.8\% success rate based only on a one-week long observation
+of their mobility traces. Extrapolating for longer time intervals, we expect a success rate of over
+55\% after four week long observations. We further evaluate different scenarios of data collection
+frequency, giving estimates of matchability over time in several realastic cases of mobility datasets.

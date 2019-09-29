@@ -1,0 +1,16 @@
+The complex optical properties of a single crystal of hexagonal FeCrAs ($T_N \simeq 125$ K) have
+been determined above and below $T_N$ over a wide frequency range in the planes (along the $b$ axis),
+and along the perpendicular ($c$ axis) direction. At room temperature, the optical conductivity
+$\sigma_1(\omega)$ has an anisotropic metallic character. The electronic band structure reveals
+two bands crossing the Fermi level, allowing the optical properties to be described by two free-carrier
+(Drude) contributions consisting of a strong, broad component and a weak, narrow term that describes
+the increase in $\sigma_1(\omega)$ below $\simeq 15$ meV. The dc-resistivity of FeCrAs is ``non-metallic'',
+meaning that it rises in power-law fashion with decreasing temperature, without any signature
+of a transport gap. In the analysis of the optical conductivity, the scattering rates for both Drude
+contributions track the dc-resistivity quite well, leading us to conclude that the non-metallic
+resistivity of FeCrAs is primarily due to a scattering rate that increases with decreasing temperature,
+rather than the loss of free carriers. The power law $\sigma_1(\omega) \propto \omega^{-0.6}$
+is observed in the near-infrared region and as $T\rightarrow T_N$ spectral weight is transferred
+from low to high energy ($\gtrsim 0.6$ eV); these effects may be explained by either the two-Drude
+model or Hund's coupling. We also find that a low-frequency in-plane phonon mode decreases in frequency
+for $T < T_N$, suggesting the possibility of spin-phonon coupling. 

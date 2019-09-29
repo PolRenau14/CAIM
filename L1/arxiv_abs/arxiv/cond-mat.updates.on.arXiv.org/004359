@@ -1,0 +1,17 @@
+Active Ornstein-Uhlenbeck particles (AOUPs) are overdamped particles in an interaction potential
+subject to external Ornstein-Uhlenbeck noises. They can be transformed into a system of underdamped
+particles under additional velocity dependent forces and subject to white noise forces. There
+has been some discussion in the literature on whether AOUPs can be in equilibrium for particular
+interaction potentials and how far from equilibrium they are in the limit of small persistence time.
+By using a theorem on the time reversed form of the AOUP Langevin-Ito equations, I prove that they
+have an equilibrium probability density invariant under time reversal if and only if their smooth
+interaction potential has zero third derivatives. In the limit of small persistence Ornstein-Uhlenbeck
+time $\tau$, a Chapman-Enskog expansion of the Fokker-Planck equation shows that the probability
+density has a local equilibrium solution in the particle momenta modulated by a reduced probability
+density that varies slowly with the position. The reduced probability density satisfies a continuity
+equation in which the probability current has an asymptotic expansion in powers of $\tau$. Keeping
+up to $O(\tau)$ terms, this equation is a diffusion equation, which has an equilibrium stationary
+solution with zero current. However, $O(\tau^2)$ terms contain fifth and sixth order spatial derivatives
+and the continuity equation no longer has a zero current stationary solution. The expansion of the
+overall stationary solution now contains odd terms in the momenta, which clearly shows that it is
+not an equilibrium. 

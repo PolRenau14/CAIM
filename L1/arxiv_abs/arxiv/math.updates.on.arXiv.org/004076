@@ -1,0 +1,16 @@
+This paper develops a Cambrian extension of the work of C. Ceballos, A. Padrol and C. Sarmiento on
+$\nu$-Tamari lattices and their tropical realizations. For any signature $\varepsilon \in \{\pm\}^n$,
+we consider a family of $\varepsilon$-trees in bijection with the triangulations of the $\varepsilon$-polygon.
+These $\varepsilon$-trees define a flag regular triangulation $\mathcal{T}^\varepsilon$ of
+the subpolytope $\operatorname{conv} \{(\mathbf{e}_{i_\bullet}, \mathbf{e}_{j_\circ})
+\, | \, 0 \le i_\bullet < j_\circ \le n+1 \}$ of the product of simplices $\triangle_{\{0_\bullet,
+\dots, n_\bullet\}} \times \triangle_{\{1_\circ, \dots, (n+1)_\circ\}}$. The oriented dual
+graph of the triangulation $\mathcal{T}^\varepsilon$ is the Hasse diagram of the (type $A$) $\varepsilon$-Cambrian
+lattice of N. Reading. For any $I_\bullet \subseteq \{0_\bullet, \dots, n_\bullet\}$ and $J_\circ
+\subseteq \{1_\circ, \dots, (n+1)_\circ\}$, we consider the restriction $\mathcal{T}^\varepsilon_{I_\bullet,
+J_\circ}$ of the triangulation $\mathcal{T}^\varepsilon$ to the face $\triangle_{I_\bullet}
+\times \triangle_{J_\circ}$. Its dual graph is naturally interpreted as the increasing flip graph
+on certain $(\varepsilon, I_\bullet, J_\circ)$-trees, which is shown to be a lattice generalizing
+in particular the $\nu$-Tamari lattices in the Cambrian setting. Finally, we present an alternative
+geometric realization of $\mathcal{T}^\varepsilon_{I_\bullet, J_\circ}$ as a polyhedral complex
+induced by a tropical hyperplane arrangement. 

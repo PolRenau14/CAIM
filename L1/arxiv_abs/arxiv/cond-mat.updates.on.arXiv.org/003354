@@ -1,0 +1,16 @@
+We derive an effective Hamiltonian system describing the low energy dynamics of circular magnetic
+skyrmions and antiskyrmions. Using scaling and symmetry arguments we model (anti-)skyrmion dynamics
+through a finite set of coupled, canonically conjugated, collective coordinates. The resulting
+theoretical description is independent of both micromagnetic details as well as any specificity
+in the ansatz of the skyrmion profile. Based on the Hamiltonian structure we derive a general description
+for breathing dynamics of (anti-)skyrmions in the limit of radius much larger than the domain wall
+width. The effective energy landscape reveals two qualitatively different types of breathing
+behavior. For small energy perturbations we reproduce the well-known small breathing mode excitations,
+where the magnetic moments of the skyrmion oscillate around their equilibrium solution. At higher
+energies we find a breathing behavior where the in-plane angle of the skyrmion continuously precesses,
+transforming N\'eel to Bloch skyrmions and vice versa. For a damped system we observe the transition
+from the continuously rotating and breathing skyrmion into the oscillatory one. We analyze the
+characteristic frequencies of both breathing types, as well as their amplitudes and distinct energy
+dissipation rates. For rotational (oscillatory) breathing modes we predict on average a linear
+(exponential) decay in energy. We argue that this stark difference in dissipative behavior should
+be observable in the frequency spectrum of excited (anti-)skyrmions. 

@@ -1,0 +1,16 @@
+We present a systematic study of the effects of structural disorder on LN photonic crystal slab cavities
+employing a three-dimensional Bloch mode expansion technique. We compute the optical density
+of states (DOS), quality factors and effective mode volumes of the cavity modes and compare with
+the modes of a corresponding disordered photonic crystal waveguide. We find that new resonances
+induced by disorder do not appear in the spectral region of the LN cavity resonances and indeed the
+disordered DOS enhancement is largest for the disordered waveguide system with the same length.
+We also show that the cavity quality factors and effective mode volumes saturate at a specific cavity
+length and become bounded by the corresponding values of the Anderson modes appearing in the disordered
+waveguide. Finally, we show that the field confinement in the LN cavities is mainly determined by
+Anderson localization as long as the confinement region is far enough from the cavity mirrors and
+if the effective mode localization length is much smaller than the cavity length. Consequently,
+we point out the clear failure of using models based on the cavity boundaries and a single slow-light
+Bloch modes to describe cavity modes with large N, as is common practise for effective Fabry-P\'erot
+resonators. These results are fundamentally interesting for applications in slow-light photonic
+crystal lasers and cavity-QED, and provide new insights into the role of the boundary condition
+(e.g., open versus mirrors) on a finite-size slow-light waveguide. 

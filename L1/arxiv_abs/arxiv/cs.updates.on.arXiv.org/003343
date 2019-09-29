@@ -1,0 +1,16 @@
+The rate-distortion saddle-point problem considered by Lapidoth (1997) consists in finding the
+minimum rate to compress an arbitrary ergodic source when one is constrained to use a random Gaussian
+codebook and minimum (Euclidean) distance encoding is employed. We extend Lapidoth's analysis
+in several directions in this paper. Firstly, we consider refined asymptotics. In particular,
+when the source is stationary and memoryless, we establish the second-order, moderate, and large
+deviation asymptotics of the problem. Secondly, by "random Gaussian codebook", Lapidoth refers
+to a collection of random codewords, each of which is drawn independently and uniformly from the
+surface of an $n$-dimensional sphere. To be more precise, we term this as a spherical Gaussian codebook.
+We also consider i.i.d.\ Gaussian codebooks in which each random codeword is drawn independently
+from a product Gaussian distribution. We derive the second-order, moderate, and large deviation
+asymptotics when i.i.d.\ Gaussian codebooks are employed. Interestingly, in contrast to the recent
+work on the channel coding counterpart by Scarlett, Tan and Durisi (2017), the dispersions for spherical
+and i.i.d.\ Gaussian codebooks are identical. The optimal excess-distortion exponents for both
+spherical and i.i.d. Gaussian codebooks are established for all rates. Furthermore, we prove that
+the i.i.d. Gaussian codebook has a strictly larger excess-distortion exponent than the spherical
+counterpart for any rate larger the first order coding rate. 

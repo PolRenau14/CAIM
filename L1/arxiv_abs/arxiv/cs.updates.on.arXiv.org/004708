@@ -1,0 +1,16 @@
+The growing popularity of virtual and augmented reality communications and 360{\deg} video streaming
+is moving video communication systems into much more dynamic and resource-limited operating settings.
+The enormous data volume of 360{\deg} videos requires an efficient use of network bandwidth to maintain
+the desired quality of experience for the end user. To this end, we propose a framework for viewport-driven
+rate-distortion optimized 360{\deg} video streaming that integrates the user view navigation
+pattern and the spatiotemporal rate-distortion characteristics of the 360{\deg} video content
+to maximize the delivered user quality of experience for the given network/system resources. The
+framework comprises a methodology for constructing dynamic heat maps that capture the likelihood
+of navigating different spatial segments of a 360{\deg} video over time by the user, an analysis
+and characterization of its spatiotemporal rate-distortion characteristics that leverage preprocessed
+spatial tilling of the 360{\deg} view sphere, and an optimization problem formulation that characterizes
+the delivered user quality of experience given the user navigation patterns, 360{\deg} video encoding
+decisions, and the available system/network resources. Our experimental results demonstrate
+the advantages of our framework over the conventional approach of streaming a monolithic uniformly
+encoded 360{\deg} video and a state-of-the-art reference method. Considerable video quality
+gains of 4 - 5 dB are demonstrated in the case of two popular 4K 360{\deg} videos. 

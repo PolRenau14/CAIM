@@ -1,0 +1,16 @@
+I present a large set of high resolution simulations, called CosmicGrowth Simulations, which were
+generated with either 8.6 billion or 29 billion particles. As the nominal cosmological model that
+can match nearly all observations on cosmological scales, I have adopted a flat Cold Dark Matter
+(CDM) model with a cosmological constant $\Lambda$ (${\Lambda}$CDM). The model parameters have
+been taken either from the latest result of the WMAP satellite (WMAP ${\Lambda}$CDM) or from the
+first year's result of the Planck satellite (Planck ${\Lambda}$CDM). Six simulations are produced
+in the ${\Lambda}$CDM models with two in the Planck model and the others in the WMAP model. In order
+for studying the nonlinear evolution of the clustering, four simulations were also produced with
+$8.6$ billion particles for the scale-free models of an initial power spectrum $P(k)\propto k^n$
+with $n=0$,$-1$,$-1.5$ or $-2.0$. Furthermore, two radical CDM models (XCDM) are simulated with
+8.6 billion particles each. Since the XCDM have some of the model parameters distinct from those
+of the ${\Lambda}$CDM models, they must be unable to match the observations, but are very useful
+for studying how the clustering properties depend on the model parameters. The Friends-of-Friends
+(FoF) halos were identified for each snapshot and subhalos were produced by the Hierarchical Branch
+Tracing (HBT) algorithm. These simulations form a powerful database to study the growth and evolution
+of the cosmic structures both in theories and in observations. 

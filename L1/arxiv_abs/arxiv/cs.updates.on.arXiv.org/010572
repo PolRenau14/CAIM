@@ -1,0 +1,17 @@
+Adjusting to amputation can often time be difficult for the body. Post-surgery, amputees have to
+wait for up to several months before receiving a properly fitted prosthesis. In recent years, there
+has been a trend toward quantitative outcome measures. In this paper, we developed the augmented
+reality (AR) version of one such measure, the Prosthetic Hand Assessment Measure (PHAM). The AR
+version of the PHAM - HoloPHAM, offers amputees the advantage to train with pattern recognition,
+at their own time and convenience, pre- and post-prosthesis fitting. We provide a rigorous analysis
+of our system, focusing on its ability to simulate reach, grasp, and touch in AR. Similarity of motion
+joint dynamics for reach in physical and AR space were compared, with experiments conducted to illustrate
+how depth in AR is perceived. To show the effectiveness and validity of our system for prosthesis
+training, we conducted a 10-day study with able-bodied subjects (N = 3) to see the effect that training
+on the HoloPHAM had on other established functional outcome measures. A washout phase of 5 days was
+incorporated to observe the effect without training. Comparisons were made with standardized
+outcome metrics, along with the progression of kinematic variability over time. Statistically
+significant (p<0.05) improvements were observed between pre- and post-training stages. Our results
+show that AR can be an effective tool for prosthesis training with pattern recognition systems,
+fostering motor learning for reaching movement tasks, and paving the possibility of replacing
+physical training. 

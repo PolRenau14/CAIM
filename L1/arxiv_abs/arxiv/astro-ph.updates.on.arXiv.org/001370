@@ -1,0 +1,16 @@
+Observational limits on $y$- and $\mu$-type distortions can constrain properties of magnetic
+fields in the early universe. For a Gaussian, random, and non-helical field, $\mu$ and $y$ are calculated
+a function of the present-day strength of the field, $B_0$, smoothed over a certain Gaussian width,
+$k_c^{-1}$, and spectral index, $n_B$, defined by $P_B(k)\propto k^{n_B}$. For $n_B=-2.9$ and
+$k_c^{-1}=1 {\rm Mpc}$, the COBE/FIRAS limit on $\mu$ yields $B_0<40$ nG, whereas the projected
+PIXIE limit on $\mu$ would yield $B_0<0.8$ nG. For non-scale-invariant spectra, constraints
+can be stronger. For $B_0=1$ nG with $k_c^{-1}=1 {\rm Mpc}$, the COBE/FIRAS limit on $\mu$ excludes
+a wide range of spectral indices given by $n_B>-2.6$. After decoupling, energy dissipation
+is due to ambipolar diffusion and decaying MHD turbulence, creating a $y$-type distortion. The
+distortion is completely dominated by decaying MHD turbulence, and is of order $y\approx 10^{-7}$
+for a few nG field smoothed over the damping scale at the decoupling epoch, $k_{d,dec}\approx 290
+(B_0/1 {\rm nG})^{-1} {\rm Mpc}^{-1}$. This contribution is as large as those of the known contributions
+such as reionization and virialized objects at lower redshifts. The projected PIXIE limit on $y$
+would exclude $B_0>1.0$ and 0.6 nG for $n_B=-2.9$ and -2.3, respectively, and $B_0>0.6$
+nG for $n_B\geq 2$. The current limits on the optical depth to Thomson scattering restrict the predicted
+$y$-type distortion to be $y\lesssim 10^{-8}$. (Abridged) 

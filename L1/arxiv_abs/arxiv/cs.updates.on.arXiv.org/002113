@@ -1,0 +1,17 @@
+Distributed cloud networking enables the deployment of a wide range of services in the form of interconnected
+software functions instantiated over general purpose hardware at multiple cloud locations distributed
+throughout the network. We consider the problem of optimal service delivery over a distributed
+cloud network, in which nodes are equipped with both communication and computation resources.
+We address the design of distributed online solutions that drive flow processing and routing decisions,
+along with the associated allocation of cloud and network resources. For a given set of services,
+each described by a chain of service functions, we characterize the cloud network capacity region
+and design a family of dynamic cloud network control (DCNC) algorithms that stabilize the underlying
+queuing system, while achieving arbitrarily close to minimum cost with a tradeoff in network delay.
+The proposed DCNC algorithms make local decisions based on the online minimization of linear and
+quadratic metrics obtained from an upper bound on the Lyapunov drift-plus-penalty of the cloud
+network queuing system. Minimizing a quadratic vs. a linear metric is shown to improve the cost-delay
+tradeoff at the expense of increased computational complexity. Our algorithms are further enhanced
+with a shortest transmission-plus-processing distance bias that improves delay performance
+without compromising throughput or overall cloud network cost. We provide throughput and cost
+optimality guarantees, convergence time analysis, and extensive simulations in representative
+cloud network scenarios. 

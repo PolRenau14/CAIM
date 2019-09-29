@@ -1,0 +1,16 @@
+As the number of digital documents requiring investigation increases, it has become more important
+to identify relevant documents to a given case. There have been continual demands for finding relevant
+files in order to overcome this kind of issues. Regarding finding similar files, there can be a situation
+where there is no available metadata such as timestamp, file size, title, subject, template, author,
+etc. In this situation, investigators will focus on searching document files having specific keywords
+related to a given case. Although the traditional keyword search with elaborate regular expressions
+is useful for digital forensics, there is a possibility that closely related documents are missing
+because they have totally different body contents. In this paper, we introduce a recent actual case
+on handling large amounts of document files. This case suggests that similar layout search will
+be useful for more efficient digital investigations if it can be utilized appropriately for supplementing
+results of the traditional keyword search. Until now, research involving electronic-document
+similarity has mainly focused on byte streams, format structures and body contents. However, there
+has been little research on the similarity of visual layouts from the viewpoint of digital forensics.
+In order to narrow this gap, this study demonstrates a novel framework for retrieving electronic
+document files having similar layouts, and implements a tool for finding similar Microsoft OOXML
+files using user-controlled layout queries based on the framework. 

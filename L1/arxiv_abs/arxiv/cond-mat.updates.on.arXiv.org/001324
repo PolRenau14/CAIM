@@ -1,0 +1,16 @@
+Density Functional Theory (DFT) calculations have been widely used to identify active catalysts
+by constructing free energy diagrams incorporating the electrochemically stable surface structure.
+Surface Pourbaix diagrams are required to determine the state of the surface under reaction conditions.
+The adsorption energetics of reaction intermediates are determined self-consistently based
+on the state of the surface at the reaction conditions. The close energetics of oxygen intermediates
+determine the rich surface phase diagram on transition metal surfaces at oxidizing conditions.
+In this work, we utilize error-estimation capabilities within the BEEF-vdW exchange correlation
+functional to propagate the uncertainty associated with the energetics for the construction of
+Pourbaix diagrams. As a result, within this approach, the surface-transition phase boundaries
+are no longer sharp and have a finite width. We determine the surface phase diagram for several transition
+metals under reaction conditions and electrode potentials relevant for oxygen reduction reaction.
+We compare against linear sweep voltammetry experiments and observe the most predominant species
+are in good agreement with our predictions for Pt(111), Pt(100), Pd(111), and Ir(111) when compared
+to previous cyclic voltammetry experiments and DFT-based predictions. We argue that the probabilistic
+approach enables a more accurate determination of the surface structure, and can readily be incorporated
+in computational studies for better understanding the catalyst surface under operating conditions.

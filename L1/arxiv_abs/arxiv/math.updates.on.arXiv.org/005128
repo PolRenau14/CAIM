@@ -1,0 +1,16 @@
+Let $q>r\ge1$ be coprime integers. Let ${\mathbb P}_c$ be an increasing sequence of primes $p$ satisfying
+two conditions: (i) $p\equiv r$ (mod $q$) and (ii) $p$ starts a prime $k$-tuple of a particular type.
+Let $\pi_c(x)$ be the number of primes in ${\mathbb P}_c$ not exceeding $x$. We heuristically derive
+formulas predicting the growth trend of the maximal gap $G_c(x)=p'-p$ between consecutive primes
+$p,p'\in{\mathbb P}_c$ below $x$. Computations show that a simple trend formula $$G_c(x) \sim
+{x\over\pi_c(x)}\cdot(\log \pi_c(x) + O_k(1))$$ works well for maximal gaps between initial
+primes of $k$-tuples with $k\ge2$ (e.g., twin primes, prime triplets, etc.) in residue class $r$
+(mod $q$). For $k=1$, however, a more sophisticated formula $$G_c(x) \sim {x\over\pi_c(x)}\cdot\big(\log{\pi_c^2(x)\over
+x}+O(\log q)\big)$$ gives a better prediction of maximal gap sizes. The latter includes the important
+special case of maximal gaps between primes ($k=1$, $q=2$). In all of the above cases, the distribution
+of appropriately rescaled maximal gaps $G_c(x)$ near their respective trend is close to the Gumbel
+extreme value distribution. Almost all maximal gaps turn out to satisfy the inequality $G_c(x)
+\lesssim C_k^{-1}\varphi_k(q)\log^{k+1}x$ (an analog of Cramer's conjecture), where $C_k$
+is the corresponding Hardy-Littlewood constant, and $\varphi_k(q)$ is an appropriate generalization
+of Euler's totient function. We conjecture that the number of maximal gaps between primes in ${\mathbb
+P}_c$ below $x$ is $O_k(\log x)$. 

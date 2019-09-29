@@ -1,0 +1,16 @@
+For a nondegenerate analytic system with a conserved quantity, a classic result by Lyapunov guarantees
+the existence of an analytic manifold of periodic orbits tangent to any two-dimensional, elliptic
+eigenspace of a fixed point satisfying nonresonance conditions. These two dimensional manifolds
+are referred as Lyapunov Subcenter Manifolds (LSM). Numerical and experimental observations
+in the nonlinear vibrations literature suggest that LSM's often persist under autonomous, dissipative
+perturbations. These perturbed manifolds are useful since they provide information of the asymptotics
+of the convergence to equilibrium. In this paper, we formulate and prove precise mathematical results
+on the persistence of LSM under dissipation. We show that, under mild non-degeneracy conditions
+on the perturbation, for small enough dissipation, there are analytic invariant manifolds of the
+perturbed system that approximate (in the analytic sense) the LSM in a fixed neighborhood. We also
+provide examples that show that some non-degeneracy conditions on the perturbations are needed
+for the results to hold true. We also study the dependence of the manifolds on the dissipation parameter.
+If $\varepsilon$ is the dissipation parameter, we show that the manifolds are real analytic in $(-\varepsilon_0,
+\varepsilon_0) \setminus \{0\} $ and $C^\infty $ in $(-\varepsilon_0, \varepsilon_0)$. We construct
+explicit asymptotic expansions in powers of $\varepsilon$ (which presumably do not converge).
+Finally, we present applications of our results to several mechanical systems. 

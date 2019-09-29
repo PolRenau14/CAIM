@@ -1,0 +1,16 @@
+We consider a recent proposal for a physical realization of the Sachdev-Ye-Kitaev (SYK) model in
+the zeroth-Landau-level sector of an irregularly-shaped graphene flake. We study in detail charge
+transport signatures of the unique non-Fermi liquid state of such a quantum dot coupled to non-interacting
+leads. The properties of this setup depend essentially on the ratio $p$ between the number of transverse
+modes in the lead $M$ and the number of the fermion degrees of freedom $N$ on the SYK dot. This ratio
+can be tuned via the magnetic field applied to the dot. Our proposed setup gives access to the non-trivial
+conformal-invariant regime associated with the SYK model as well as a more conventional Fermi-liquid
+regime via tuning the field. The dimensionless linear response conductance acquires distinct
+$\sqrt{p}$ and $1/\sqrt{p}$ dependencies for the two phases respectively in the low-temperature
+limit, with a universal jump at the transition. We find that corrections scale linearly and quadratically
+in either temperature or frequency on the two sides of the transition. In the weak tunneling regime
+we find differential conductance proportional to the inverse square root of the applied voltage
+bias $U$. This dependence is replaced by a conventional Ohmic behavior with constant conductance
+proportional to $1/\sqrt{T}$ for bias energy $eU$ smaller than temperature scale $k_BT$. We also
+describe the out-of-equilibrium current-bias characteristics and discuss various crossovers
+between the limiting behaviors mentioned above. 

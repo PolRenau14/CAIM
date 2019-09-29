@@ -1,0 +1,17 @@
+In this work, we propose bag of adversarial features (BAF) for identifying mild traumatic brain
+injury (MTBI) patients from their diffusion magnetic resonance images (MRI) (obtained within
+one month of injury) by incorporating unsupervised feature learning techniques. MTBI is a growing
+public health problem with an estimated incidence of over 1.7 million people annually in US. Diagnosis
+is based on clinical history and symptoms, and accurate, concrete measures of injury are lacking.
+Unlike most of previous works, which use hand-crafted features extracted from different parts
+of brain for MTBI classification, we employ feature learning algorithms to learn more discriminative
+representation for this task. A major challenge in this field thus far is the relatively small number
+of subjects available for training. This makes it difficult to use an end-to-end convolutional
+neural network to directly classify a subject from MR images. To overcome this challenge, we first
+apply an adversarial auto-encoder (with convolutional structure) to learn patch-level features,
+from overlapping image patches extracted from different brain regions. We then aggregate these
+features through a bag-of-word approach. We perform an extensive experimental study on a dataset
+of 227 subjects (including 109 MTBI patients, and 118 age and sex matched healthy controls), and
+compare the bag-of-deep-features with several previous approaches. Our experimental results
+show that the BAF significantly outperforms earlier works relying on the mean values of MR metrics
+in selected brain regions. 

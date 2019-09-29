@@ -1,0 +1,16 @@
+In this paper, we develop a numerical multiscale method to solve elliptic boundary value problems
+with heterogeneous diffusion coefficients and with singular source terms. When the diffusion
+coefficient is heterogeneous, this adds to the computational costs, and this difficulty is compounded
+by a singular source term. For singular source terms, the solution does not belong to the Sobolev
+space $H^1$, but to the space $W^{1,p}$ for some $p<2$. Hence, the problem may be reformulated in
+a distance-weighted Sobolev space. Using this formulation, we develop a method to upscale the multiscale
+coefficient near the singular sources by incorporating corrections into the coarse-grid. Using
+a sub-grid correction method, we correct the basis functions in a distance-weighted Sobolev space
+and show that these corrections can be truncated to design a computationally efficient scheme with
+optimal convergence rates. Due to the nature of the formulation in weighted spaces, the variational
+form must be posed on the cross product of complementary spaces. Thus, two such sub-grid corrections
+must be computed, one for each multiscale space of the cross product. A key ingredient of this method
+is the use of quasi-interpolation operators to construct the fine scale spaces. Therefore, we develop
+a weighted projective quasi-interpolation that can be used for a general class of Muckenhoupt weight
+functions. We verify the optimal convergence of the method in some numerical examples with singular
+point sources and line fractures, and with oscillatory and heterogeneous diffusion coefficients.

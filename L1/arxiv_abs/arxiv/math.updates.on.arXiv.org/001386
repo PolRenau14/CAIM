@@ -1,0 +1,15 @@
+We prove that a minimal $t$-fold blocking set in a finite projective plane of order $n$ has cardinality
+at most \[\frac{1}{2} n\sqrt{4tn - (3t + 1)(t - 1)} + \frac{1}{2} (t - 1)n + t.\] This is the first general
+upper bound on the size of minimal $t$-fold blocking sets in finite projective planes and it generalizes
+the classical result of Bruen and Thas on minimal blocking sets. From the proof it directly follows
+that if equality occurs in this bound then every line intersects the blocking set $S$ in either $t$
+points or $\frac{1}{2}(\sqrt{4tn - (3t + 1)(t - 1)} + t - 1) + 1$ points. We use this to show that for $n$
+a prime power, equality can occur in our bound in exactly one of the following three cases: (a) $t =
+1$, $n$ is a square and $S$ is a unital; (b) $t = n - \sqrt{n}$, $n$ is a square and $S$ is the complement
+of a Baer subplane; (c) $t = n$ and $S$ is equal to the set of all points except one. For a square prime
+power $q$ and $t \leq \sqrt{q} + 1$, we give a construction of a minimal $t$-fold blocking set $S$ in
+$\mathrm{PG}(2,q)$ with $|S| = q\sqrt{q} + 1 + (t - 1)(q - \sqrt{q} + 1)$. Furthermore, we obtain an
+upper bound on the size of minimal blocking sets in symmetric $2$-designs and use it to give new proofs
+of other known results regarding tangency sets in higher dimensional finite projective spaces.
+We also discuss further generalizations of our bound. In our proofs we use an incidence bound on combinatorial
+designs which follows from applying the expander mixing lemma to the incidence graph of these designs.

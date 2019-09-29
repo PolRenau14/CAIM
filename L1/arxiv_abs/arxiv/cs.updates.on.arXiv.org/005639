@@ -1,0 +1,16 @@
+In this paper, we consider the generalized phase retrieval from affine measurements. This problem
+aims to recover signals ${\mathbf x} \in {\mathbb F}^d$ from the affine measurements $y_j=\norm{M_j^*\vx
++{\mathbb b}_j}^2,\; j=1,\ldots,m,$ where $M_j \in {\mathbb F}^{d\times r}, {\mathbf b}_j\in
+{\mathbb F}^{r}, {\mathbb F}\in \{{\mathbb R},{\mathbb C}\}$ and we call it as {\em generalized
+affine phase retrieval}. We develop a framework for generalized affine phase retrieval with presenting
+necessary and sufficient conditions for $\{(M_j,{\mathbf b}_j)\}_{j=1}^m$ having generalized
+affine phase retrieval property. We also establish results on minimal measurement number for generalized
+affine phase retrieval. Particularly, we show if $\{(M_j,{\mathbf b}_j)\}_{j=1}^m \subset {\mathbb
+F}^{d\times r}\times {\mathbb F}^{r}$ has generalized affine phase retrieval property, then
+$m\geq d+\floor{d/r}$ for ${\mathbb F}={\mathbb R}$ ($m\geq 2d+\floor{d/r}$ for ${\mathbb F}={\mathbb
+C}$ ). We also show that the bound is tight provided $r\mid d$. These results imply that one can reduce
+the measurement number by raising $r$, i.e. the rank of $M_j$. This highlights a notable difference
+between generalized affine phase retrieval and generalized phase retrieval. Furthermore, using
+tools of algebraic geometry, we show that $m\geq 2d$ (resp. $m\geq 4d-1$) generic measurements
+${\mathcal A}=\{(M_j,b_j)\}_{j=1}^m$ have the generalized phase retrieval property for ${\mathbb
+F}={\mathbb R}$ (resp. ${\mathbb F}={\mathbb C}$). 

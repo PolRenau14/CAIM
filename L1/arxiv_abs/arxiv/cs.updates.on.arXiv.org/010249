@@ -1,0 +1,16 @@
+Circuit obfuscation is a recently proposed defense mechanism to protect digital integrated circuits
+(ICs) from reverse engineering by using camouflaged gates i.e., logic gates whose functionality
+cannot be precisely determined by the attacker. There have been effective schemes such as satisfiability-checking
+(SAT)-based attacks that can potentially decrypt obfuscated circuits, called deobfuscation.
+Deobfuscation runtime could have a large span ranging from few milliseconds to thousands of years
+or more, depending on the number and layouts of the ICs and camouflaged gates. And hence accurately
+pre-estimating the deobfuscation runtime is highly crucial for the defenders to maximize it and
+optimize their defense. However, estimating the deobfuscation runtime is a challenging task due
+to 1) the complexity and heterogeneity of graph-structured circuit, 2) the unknown and sophisticated
+mechanisms of the attackers for deobfuscation. To address the above mentioned challenges, this
+work proposes the first machine-learning framework that predicts the deobfuscation runtime based
+on graph deep learning techniques. Specifically, we design a new model, ICNet with new input and
+convolution layers to characterize and extract graph frequencies from ICs, which are then integrated
+by heterogeneous deep fully-connected layers to obtain final output. ICNet is an end-to-end framework
+which can automatically extract the determinant features for deobfuscation runtime. Extensive
+experiments demonstrate its effectiveness and efficiency. 

@@ -1,0 +1,16 @@
+The nature of structure formation around the particle free streaming scale is still far from understood.
+Many attempts to simulate hot, warm, and cold dark matter cosmologies with a free streaming cutoff
+have been performed with cosmological particle-based simulations, but they all suffer from spurious
+structure formation at scales below their respective free streaming scales -- i.e. where the physics
+of halo formation is most affected by free streaming. We perform a series of high resolution numerical
+simulations of different WDM models, and develop an approximate method to subtract artificial
+structures in the measured halo mass function. The corrected measurements are then used to construct
+and calibrate an extended Press-Schechter (EPS) model with sharp-$k$ window function and adequate
+mass assignment. The EPS model gives accurate predictions for the low redshift halo mass function
+of CDM and WDM models, but it significantly under-predicts the halo abundance at high redshifts.
+By taking into account the ellipticity of the initial patches and connecting the characteristic
+filter scale to the smallest ellipsoidal axis, we are able to eliminate this inconsistency and obtain
+an accurate mass function over all redshifts and all dark matter particle masses covered by the simulations.
+As an additional application we use our model to predict the microhalo abundance of the standard
+neutralino-CDM scenario and we give the first quantitative prediction of the mass function over
+the full range of scales of CDM structure formation. 

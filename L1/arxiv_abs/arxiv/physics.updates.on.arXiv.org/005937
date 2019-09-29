@@ -1,0 +1,16 @@
+The current work presents a tensor formulation of the Lumley Decomposition (LD), introduced in
+its original form by Lumley (1967b), allowing decompositions of turbulent flow fields in curvilinear
+coordinates. The LD in his form is shown to enable semi-analytical decompositions of self-similar
+turbulent flows in general coordinate systems. The decomposition is applied to the far-field region
+of the fully developed turbulent axi-symmetric jet, which is expressed in stretched spherical
+coordinates in order to exploit the self-similar nature of the flow while ensuring the self-adjointness
+of the LD integral. From the LD integral it is deduced that the optimal eigenfunctions in the streamwise
+direction are stretched amplitude-decaying Fourier modes (SADFM). The SADFM are obtained from
+the LD integral upon the introduction of a streamwise-decaying weight function in the vector space
+definition. The wavelength of the Fourier modes is linearly increasing in the streamwise direction
+with an amplitude which decays with the -3/2 power of distance from the virtual origin. The streamwise
+evolution of the SADFM re-sembles reversed wave shoaling known from surface waves. The energy-
+and cross-spectra obtained from these SADFM exhibit a -5/3- and a -7/3-slope region, respectively,
+as would be expected for regular Fourier modes in homogeneous and constant shear flows. The approach
+introduced in this work can be extended to other flows which admit to equilibrium similarity, such
+that a Fourier-based decomposition along inhomogeneous flow directions can be performed. 

@@ -1,0 +1,16 @@
+Distributed Software Defined Networking (SDN) controllers aim to solve the issue of single-point-of-failure
+and improve the scalability of the control plane. Byzantine and faulty controllers, however, may
+enforce incorrect configurations and thus endanger the control plane correctness. Multiple Byzantine
+Fault Tolerance (BFT) approaches relying on Replicated State Machine (RSM) execution have been
+proposed in the past to cater for this issue. The scalability of such solutions is, however, limited.
+Additionally, the interplay between progressing the state of the distributed controllers and
+the consistency of the external reconfigurations of the forwarding devices has not been thoroughly
+investigated. In this work, we propose an agreement-and-execution group-based approach to increase
+the overall throughput of a BFT-enabled distributed SDN control plane. We adapt a proven sequencing-based
+BFT protocol, and introduce two optimized BFT protocols that preserve the uniform agreement, causality
+and liveness properties. A state-hashing approach which ensures causally ordered switch reconfigurations
+is proposed, that enables an opportunistic RSM execution without relying on strict sequencing.
+The proposed designs are implemented and validated for two realistic topologies, a path computation
+application and a set of KPIs: switch reconfiguration (response) time, signaling overhead, and
+acceptance rates. We show a clear decrease in the system response time and communication overhead
+with the proposed models, compared to a state-of-the-art approach. 

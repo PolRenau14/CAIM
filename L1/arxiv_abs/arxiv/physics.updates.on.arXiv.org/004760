@@ -1,0 +1,16 @@
+We explore the dynamics of inclined temporal gravity currents using direct numerical simulation,
+and find that the current creates an environment in which the flux Richardson number $Ri_f$, gradient
+Richardson number $Ri_g$, and turbulent flux coefficient $\Gamma$ are constant across a large
+portion of the depth. Changing the slope angle $\alpha$ modifies these mixing parameters, and the
+flow approaches a maximum Richardson number $Ri_\textrm{max}\approx 0.15$ as $\alpha \rightarrow
+0$ at which the entrainment coefficient $E \rightarrow 0$. The turbulent Prandtl number remains
+$O(1)$ for all slope angles, demonstrating that $E\rightarrow 0$ is not caused by a switch-off of
+the turbulent buoyancy flux as conjectured by Ellison (1957). Instead, $E \rightarrow 0$ occurs
+as the result of the turbulence intensity going to zero as $\alpha\rightarrow 0$, due to the flow
+requiring larger and larger shear to maintain the same level of turbulence. We develop an approximate
+model valid for small $\alpha$ which is able to predict accurately $Ri_f$, $Ri_g$ and $\Gamma$ as
+a function of $\alpha$ and their maximum attainable values. The model predicts an entrainment law
+of the form $E=0.31(Ri_\textrm{max}-Ri)$, which is in good agreement with the simulation data.
+The simulations and model presented here contribute to a growing body of evidence that an approach
+to a marginally or critically stable, relatively weakly stratified equilibrium for stratified
+shear flows may well be a generic property of turbulent stratified flows. 

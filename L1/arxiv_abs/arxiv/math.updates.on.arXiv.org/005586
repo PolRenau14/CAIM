@@ -1,0 +1,16 @@
+In this work, we present a class of new efficient models for water flow in shallow unconfined aquifers,
+giving an alternative to the classical but less tractable 3D-Richards model. Its derivation is
+guided by two ambitions: any new model should be low cost in computational time and should still give
+relevant results at every time scale. We thus keep track of two types of flow occurring in such a context
+and which are dominant when the ratio thickness over longitudinal length is small: the first one
+is dominant in a small time scale and is described by a vertical 1D-Richards problem; the second one
+corresponds to a large time scale, when the evolution of the hydraulic head turns to become independent
+of the vertical variable. These two types of flow are appropriately modelled by, respectively,
+a one-dimensional and a two-dimensional system of PDEs boundary value problems. They are coupled
+along an artificial level below which the Dupuit hypothesis holds true (i.e. the vertical flow is
+instantaneous) in a way ensuring that the global model is mass conservative. Tuning the artificial
+level, which even can depend on an unknown of the problem, we browse the new class of models. We prove
+using asymptotic expansions that the 3D-Richards problem and each model of the class behaves the
+same at every considered time scale (short, intermediate and large) in thin aquifers. The results
+are illustrated by numerical simulations, showing especially that the new models results fit well
+with the ones obtained with the original 3d-Richards problem even in non-thin aquifers. 

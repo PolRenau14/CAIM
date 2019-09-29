@@ -1,0 +1,16 @@
+Where does quantum advantage spring from? Such an investigation necessitates invoking an ontology
+on which non-classical features of quantum theory are explored. One such non-classical ontic-feature
+is preparation contextuality (PC) and advantage in oblivious communication tasks is its operational
+signature. In this letter, we deal with quantum advantage in communication which has two prominent
+manifestations, advantage in communication complexity (CC) and device independent information
+processing based on violation of Bell inequalities. First, we demonstrate that quantum advantage
+in one-way CC operationally reveals PC. Specifically, we construct oblivious communication tasks
+tailored to one-way CC problems. The bound on classical success probability in the oblivious communication
+tasks forms our preparation non-contextual inequalities. We use the same states along with their
+orthogonal mixtures and measurements responsible for advantage in one-way CC problems to orchestrate
+an advantageous protocol for the oblivious communication tasks and the violation of the associated
+inequalities. Further, we find a criterion for unbounded violation of these inequalities and demonstrate
+the same for two widely studied CC problems. Second, we prove that (spatial and temporal) Bell-inequality
+violation implies an advantage in oblivious communication tasks, thereby revealing PC. Along
+with the implications of this work, we discuss other known indications towards our assertion that
+PC is the fundamental non-classical feature underlying quantum advantage. 

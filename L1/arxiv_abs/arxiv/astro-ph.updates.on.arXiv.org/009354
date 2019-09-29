@@ -1,0 +1,16 @@
+We study the formation and evolution of ring galaxies in the Evolution and Assembly of GaLaxies and
+their Environments (EAGLE) simulations. We use the largest reference model Ref-L100N1504, a cubic
+cosmological volume of 100 comoving megaparsecs on a side, to identify and characterise these systems
+through cosmic time. The number density of ring galaxies in EAGLE is in broad agreement with the observations.
+The vast majority of ring galaxies identified in EAGLE (83 per cent) have an interaction origin,
+i.e., form when one or more companion galaxies drop-through a disk galaxy. The remainder (17 per
+cent) have very long-lived ring morphologies (> 2 Gyr) and host strong bars. Ring galaxies are HI
+rich galaxies, yet display inefficient star formation activity and tend to reside in the green valley
+particularly at z > 0.5. This inefficiency is mainly due to the low pressure and metallicity of their
+interstellar medium (ISM) compared with the ISM of similar star-forming galaxies. We find that
+the interaction(s) is responsible for decreasing the ISM pressure by causing the ISM gas to flow
+from the inner regions to the outer disk, where the ring feature forms. At a fixed radius, the star
+formation efficiency of ring galaxies is indistinguishable from their star-forming counterparts,
+and thus the main reason for their integrated lower efficiency is the different gas surface density
+profiles. Since galaxy morphologies are not used to tune the parameters in hydrodynamical simulations,
+the experiment performed here demonstrates the success of the current numerical models in EAGLE.

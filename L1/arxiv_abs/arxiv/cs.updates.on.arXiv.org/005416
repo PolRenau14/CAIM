@@ -1,0 +1,16 @@
+This work presents algorithms for the efficient implementation of discontinuous Galerkin methods
+with explicit time stepping for acoustic wave propagation on unstructured meshes of quadrilaterals
+or hexahedra. A crucial step towards efficiency is to evaluate operators in a matrix-free way with
+sum-factorization kernels. The method allows for general curved geometries and variable coefficients.
+Temporal discretization is carried out by low-storage explicit Runge-Kutta schemes and the arbitrary
+derivative (ADER) method. For ADER, we propose a flexible basis change approach that combines cheap
+face integrals with cell evaluation using collocated nodes and quadrature points. Additionally,
+a degree reduction for the optimized cell evaluation is presented to decrease the computational
+cost when evaluating higher order spatial derivatives as required in ADER time stepping. We analyze
+and compare the performance of state-of-the-art Runge-Kutta schemes and ADER time stepping with
+the proposed optimizations. ADER involves fewer operations and additionally reaches higher throughput
+by higher arithmetic intensities and hence decreases the required computational time significantly.
+Comparison of Runge-Kutta and ADER at their respective CFL stability limit renders ADER especially
+beneficial for higher orders when the Butcher barrier implies an overproportional amount of stages.
+Moreover, vector updates in explicit Runge--Kutta schemes are shown to take a substantial amount
+of the computational time due to their memory intensity. 

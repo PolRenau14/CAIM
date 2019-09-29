@@ -1,0 +1,16 @@
+One possible explanation of the cavity in debris discs is the gravitational perturbation of an embedded
+giant planet. Planetesimals passing close to a massive body are dynamically stirred resulting
+in a cleared region known as the chaotic zone. Theory of overlapping mean-motion resonances predicts
+the width of this cavity. To test whether this cavity is identical to the chaotic zone, we investigate
+the formation of cavities by means of collisionless N-body simulations assuming a 1.25-10 Jupiter
+mass planet with eccentricities of 0-0.9. Synthetic images at millimetre wavelengths are calculated
+to determine the cavity properties by fitting an ellipse to 14 percent contour level. Depending
+on the planetary eccentricity, e_pl, the elliptic cavity wall rotates as the planet orbits with
+the same (e_pl<0.2) or half (e_pl>0.2) period that of the planet. The cavity centre is offset from
+the star along the semi-major axis of the planet with a distance of d=0.1q^-0.17e_pl^0.5 in units
+of cavity size towards the planet's orbital apocentre, where q is the planet-to-star mass ratio.
+Pericentre (apocentre) glow develops for e_pl<0.05 (e_pl>0.1), while both are present for 0.05<=e_pl<=0.1.
+Empirical formulae are derived for the sizes of the cavities: da_cav=2.35q^0.36 and da_cav=7.87q^0.37e_pl^0.38
+for e_pl<=0.05 and e_pl>0.05, respectively. The cavity eccentricity, e_cav, equals to that of
+the planet only for 0.3<=e_pl<=0.6. A new method based on ALMA observations for estimating the orbital
+parameters and mass of the planet carving the cavity is also given. 

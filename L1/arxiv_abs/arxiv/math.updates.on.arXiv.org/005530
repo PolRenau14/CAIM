@@ -1,0 +1,16 @@
+We consider the moduli space $\mathcal{M}(G)$ of $G$-Higgs bundles over a compact Riemann surface
+$X$, where $G$ is a complex semisimple Lie group. This is a hyperk\"ahler manifold homeomorphic
+to the moduli space $\mathcal{R}(G)$ of representations of the fundamental group of $X$ in $G$.
+In this paper we study finite order automorphisms of $\mathcal{M}(G)$ obtained by combining the
+action of an element of order $n$ in $H^1(X,Z)\rtimes \mbox{Out}(G)$, where $Z$ is the centre of
+$G$ and $\mbox{Out}(G)$ is the group of outer automorphisms of $G$, with the multiplication of the
+Higgs field by an $n$th-root of unity, and describe the subvarieties of fixed points. We give special
+attention to the case of involutions, defined by the action of an element of order $2$ in $H^1(X,Z)\rtimes\mbox{Out}(G)$
+combined with the multiplication of the Higgs field by $\pm 1$. In this situation, the subvarieties
+of fixed points are hyperk\"ahler submanifolds of $\mathcal{M}(G)$ in the (+1)-case, corresponding
+to the moduli space of representations of the fundamental group in certain reductive complex subgroups
+of $G$ defined by holomorphic involutions of $G$; while in the (-1)-case they are Lagrangian subvarieties
+corresponding to the moduli space of representations of the fundamental group of $X$ in real forms
+of $G$ and certain extensions of these. We illustrate the general theory with the description of
+involutions for $G=\mbox{SL}(n,\mathbb{C})$ and involutions and order three automorphism defined
+by triality for $G=\mbox{Spin}(8,\mathbb{C})$. 

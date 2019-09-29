@@ -1,0 +1,17 @@
+With the advent of optical clocks featuring fractional frequency uncertainties on the order of
+$10^{-17}$ and below, new applications such as chronometric levelling with few-cm height resolution
+emerge. We are developing a transportable optical clock based on a single trapped aluminium ion,
+which is interrogated via quantum logic spectroscopy. We employ singly-charged calcium as the
+logic ion for sympathetic cooling, state preparation and readout. Here we present a simple and compact
+physics and laser package for manipulation of $^{40}\mathrm{Ca}^+$. Important features are a
+segmented multi-layer trap with separate loading and probing zones, a compact titanium vacuum
+chamber, a near-diffraction-limited imaging system with high numerical aperture based on a single
+biaspheric lens, and an all-in-fiber \ca repump laser system. We present preliminary estimates
+of the trap-induced frequency shifts on $^{27}\mathrm{Al}^+$, derived from measurements with
+a single calcium ion. The micromotion-induced second-order Doppler shift for $^{27}\mathrm{Al}^+$
+has been determined to be $\frac{\delta\nu_\mathrm{EMM}}{\nu}=\left({-0.4}^{+{0.4}}_{-{0.3}}\right)\times10^{-18}$
+and the black-body radiation shift is $\delta\nu_\mathrm{BBR}/\nu=(-4.0\pm0.4)\times10^{-18}$.
+Moreover, heating rates of less than 10 quanta per second have been measured for all three motional
+modes at trap frequencies of $\omega_\mathrm{rad,Ca+} \approx2\pi\times2.5\,\mathrm{MHz}$
+($\omega_\mathrm{ax,Ca+} \approx2\pi\times1.5\,\mathrm{MHz}$) in radial (axial) direction,
+enabling interrogation times of 100s of milliseconds. 

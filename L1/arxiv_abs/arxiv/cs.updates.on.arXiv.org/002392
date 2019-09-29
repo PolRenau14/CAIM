@@ -1,0 +1,16 @@
+The central aim of most fields of data analysis and experimental scientific investigation is to
+draw valid conclusions from a given data set. But when past inferences guide future inquiries into
+the same dataset, reaching valid inferences becomes significantly more difficult. In addition
+to avoiding the overfitting that can result from adaptive analysis, a data analyst often wants to
+use as little time and data as possible. A recent line of work in the theory community has established
+mechanisms that provide low generalization error on adaptive queries, yet there remain large gaps
+between established theoretical results and how data analysis is done in practice. Many practitioners,
+for instance, successfully employ bootstrapping and related sampling approaches in order to maintain
+validity and speed up analysis, but prior to this work, no theoretical analysis existed to justify
+employing such techniques in this adaptive setting. In this paper, we show how these techniques
+can be used to provably guarantee validity while speeding up analysis. Through this investigation,
+we initiate the study of sub-linear time mechanisms to answer adaptive queries into datasets. Perhaps
+surprisingly, we describe mechanisms that provide an exponential speed-up per query over previous
+mechanisms, without needing to increase the total amount of data needed for low generalization
+error. We also provide a method for achieving statistically-meaningful responses even when the
+mechanism is only allowed to see a constant number of samples from the data per query. 

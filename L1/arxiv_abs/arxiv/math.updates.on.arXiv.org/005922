@@ -1,0 +1,16 @@
+We present a monolithic parallel Newton-multigrid solver for nonlinear three dimensional fluid-structure
+interactions in Arbitrary Lagrangian Eulerian formulation. We start with a finite element discretization
+of the coupled problem, based on a remapping of the Navier-Stokes equation onto a fixed reference
+framework. The strongly coupled fluid-structure interaction problem is discretized with finite
+elements in time and finite differences in time. The resulting nonlinear and linear systems of equations
+are large and show a very high condition number. We present a novel Newton approach that is based on
+two essential ideas: First, a static condensation of solid deformation by exploiting the velocity-deformation
+relation $d_t u = v$. Second, the Jacobian of the fluid-structure interaction system is simplified
+by neglecting all derivatives with respect to the ALE deformation, an approximation that has shown
+to have little impact. The resulting system of equation decouples into a joint momentum equation
+and into two separated equations for the deformation fields in solid and fluid. Besides a reduction
+of the problem sizes, the approximation has a positive effect on the conditioning of the systems
+such that multigrid solvers with simple smoothers like a parallel Vanka-iteration can be applied.
+We demonstrate the efficiency of the resulting solver infrastructure on a well-studied 2d test-case
+and we also introduce a challenging 3d problem. For 3d problems we achieve a substantial acceleration
+as compared to established approaches found in literature. 

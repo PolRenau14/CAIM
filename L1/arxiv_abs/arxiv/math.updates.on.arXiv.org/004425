@@ -1,0 +1,16 @@
+In this paper, we present a distributionally robust optimization (DRO) approach for the transmission
+expansion planning (TEP) problem, considering both long- and short-term uncertainties on the
+system load and renewable generation. Long-term uncertainty is represented on two interrelated
+levels. At the first level, as is customary in industry applications, the deep uncertainty faced
+in economic, political, environmental, and technological development is addressed based on plausible
+visions of long-term future scenarios (trends), traced by current experts beliefs. Subsequently,
+uncertainty-related parameters defining the probability distributions of the uncertain factors
+are partially refined for each long-term scenario, thereby inducing an ambiguity set. Finally,
+for each long-term scenario and induced ambiguity set, the inherent risk model for the short-term
+uncertainty is described by means of conditional probability distributions. The mathematical
+problem is formulated as a distributionally robust optimization model with numerous long-term
+scenarios. The resulting infinite-dimension problem is recast as an exact, although very large,
+finite-deterministic mixed-integer linear programming problem. To circumvent scalability
+issues, a new column-and-constraint decomposition approach is proposed with an additional Dantzig--Wolfe
+step for solving the reformulated problem with tighter bounds. Two numerical experiments based
+on the benchmark IEEE 118-bus system are reported to corroborate the effectiveness of the method.

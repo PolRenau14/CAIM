@@ -1,0 +1,16 @@
+We present simulations modeling closed regions of the solar corona threaded by a strong magnetic
+field where localized photospheric vortical motions twist the coronal field lines. The linear
+and nonlinear dynamics are investigated in the reduced magnetohydrodynamic regime in Cartesian
+geometry. Initially the magnetic field lines get twisted and the system becomes unstable to the
+internal kink mode, confirming and extending previous results. As typical in this kind of investigations,
+where initial conditions implement smooth fields and flux-tubes, we have neglected fluctuations
+and the fields are laminar until the instability sets in. But previous investigations indicate
+that fluctuations, excited by photospheric motions and coronal dynamics, are naturally present
+at all scales in the coronal fields. Thus, in order to understand the effect of a photospheric vortex
+on a more realistic corona, we continue the simulations after kink instability sets in, when turbulent
+fluctuations have already developed in the corona. In the nonlinear stage the system never returns
+to the simple initial state with ordered twisted field lines, and kink instability does not occur
+again. Nevertheless field lines get twisted, but in a disordered way, and energy accumulates at
+large scales through an inverse cascade. This energy can subsequently be released in micro-flares
+or larger flares, when interaction with neighboring structures occurs or via other mechanisms.
+The impact on coronal dynamics and CMEs initiation is discussed. 

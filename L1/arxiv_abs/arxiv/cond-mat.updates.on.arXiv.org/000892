@@ -1,0 +1,17 @@
+We study the charge transfer dynamics following the formation of a phase or voltage biased su- perconducting
+nano-junction using a full counting statistics analysis. We demonstrate that the evolution of
+the zeros of the generating function allows one to identify the population of different many body
+states much in the same way as the accumulation of Yang-Lee zeros of the partition function in equilibrium
+statistical mechanics is connected to phase transitions. We give an exact expression connecting
+the dynamical zeros to the charge transfer cumulants and discuss when an approximation based on
+"dominant" zeros is valid. We show that, for generic values of the parameters, the system gets trapped
+into a metastable state characterized by a non-equilibrium population of the many body states which
+is dependent on the initial conditions. We study in particular the effect of the switching rates
+in the dynamics showing that, in contrast to intuition, the deviation from thermal equilibrium
+increases for the slower rates. In the voltage biased case the steady state is reached independently
+of the initial conditions. Our method allows us to obtain accurate results for the steady state current
+and noise in quantitative agreement with steady state methods developed to describe the multiple
+Andreev reflections regime. Finally, we discuss the system dynamics after a sudden voltage drop
+showing the possibility of tuning the many body states population by an appropriate choice of the
+initial voltage, providing a feasible experimental way to access the quench dynamics and control
+the state of the system. 

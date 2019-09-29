@@ -1,0 +1,16 @@
+Determining the radial positions of galaxies up to a high accuracy depends on the correct identification
+of salient features in their spectra. Classical techniques for spectroscopic redshift estimation
+make use of template matching with cross-correlation. These templates are usually constructed
+from empirical spectra or simulations based on the modeling of local galaxies. We propose two new
+spectroscopic redshift estimation schemes based on new learning techniques for galaxy spectra
+representation, using either a dictionary learning technique for sparse representation or denoising
+autoencoders. We investigate how these representations impact redshift estimation. These methods
+have been tested on realistic simulated galaxy spectra, with photometry modelled after the Large
+Synoptic Survey Telescope (LSST) and spectroscopy reproducing properties of the Sloan Digital
+Sky Survey (SDSS). They were compared to Darth Fader, a robust technique extracting line features
+and estimating redshift through eigentemplates cross-correlations. We show that both dictionary
+learning and denoising autoencoders provide improved accuracy and reliability across all signal-to-noise
+regimes and galaxy types. The representation learning framework for spectroscopic redshift analysis
+introduced in this work offers high performance in feature extraction and redshift estimation,
+improving on a classical eigentemplates approach. This is a necessity for next-generation galaxy
+surveys, and we demonstrate a successful application in realistic simulated survey data. 

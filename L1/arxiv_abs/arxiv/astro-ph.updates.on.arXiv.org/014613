@@ -1,0 +1,17 @@
+$N$-body simulations of non-resonant tightly-packed planetary systems have found that their
+survival time (i.e. time to first close encounter) grows exponentially with their interplanetary
+spacing and planetary masses. Although this result has important consequences for the assembly
+of planetary systems by giants collisions and their long-term evolution, this underlying exponential
+dependence is not understood from first principles, and previous attempts based on orbital diffusion
+have only yielded power-law scalings. We propose a different picture, where the deviations of the
+system from its initial conditions is not limited by orbital diffusion, but by the lifetime of a series
+of confining barriers in phase-space---invariant KAM tori---that are slowly destroyed with time.
+Thus, we show that survival time of the system $T$ can be estimated using the Nekhoroshev's stability
+limit and obtain a heuristic formula for systems away from overlapping two-body mean-motion resonances
+as: $T/P=c_1 \frac{a}{\Delta a} \exp \left(c_2 \frac{\Delta a}{a} /\mu^{1/4}\right)$, where
+$P$ is the average Keplerian period, $a$ is the average semi major axis, $\Delta a\ll a$ is the difference
+between the semi major axes of neighbouring planets, $\mu$ is the planet to star mass ratio, and $c_1$
+and $c_2$ are dimensionless constants. We show that this formula is in good agreement with numerical
+N-body experiments for $c_1=5 \cdot 10^{-4}$ and $c_2=8$, supporting our proposal that the lifetime
+of non-resonant planetary is primarily determined by the lifetime of KAM tori, which are likely
+destroyed by three-body resonances. 

@@ -1,0 +1,16 @@
+Let $\tilde f\colon(S^2,\tilde A)\to(S^2,\tilde A)$ be a Thurston map and let $M(\tilde f)$ be
+its mapping class biset: isotopy classes rel $\tilde A$ of maps obtained by pre- and post-composing
+$\tilde f$ by the mapping class group of $(S^2,\tilde A)$. Let $A\subseteq\tilde A$ be an $\tilde
+f$-invariant subset, and let $f\colon(S^2,A)\to(S^2,A)$ be the induced map. We give an analogue
+of the Birman short exact sequence: just as the mapping class group $\mathrm{Mod}(S^2,\tilde A)$
+is an iterated extension of $\mathrm{Mod}(S^2,A)$ by fundamental groups of punctured spheres,
+$M(\tilde f)$ is an iterated extension of $M(f)$ by the dynamical biset of $f$. Thurston equivalence
+of Thurston maps classically reduces to a conjugacy problem in mapping class bisets. Our short exact
+sequence of mapping class bisets allows us to reduce in polynomial time the conjugacy problem in
+$M(\tilde f)$ to that in $M(f)$. In case $\tilde f$ is geometric (either expanding or doubly covered
+by a hyperbolic torus endomorphism) we show that the dynamical biset $B(f)$ together with a "portrait
+of bisets" induced by $\tilde A$ is a complete conjugacy invariant of $\tilde f$. Along the way, we
+give a complete description of bisets of $(2,2,2,2)$-maps as a crossed product of bisets of torus
+endomorphisms by the cyclic group of order $2$, and we show that non-cyclic orbisphere bisets have
+no automorphism. We finally give explicit, efficient algorithms that solve the conjugacy and centralizer
+problems for bisets of expanding or torus maps. 

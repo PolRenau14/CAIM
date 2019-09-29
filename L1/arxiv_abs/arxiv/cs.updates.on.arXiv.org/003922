@@ -1,0 +1,17 @@
+Cross-institutional healthcare predictive modeling can accelerate research and facilitate
+quality improvement initiatives, and thus is important for national healthcare delivery priorities.
+For example, a model that predicts risk of re-admission for a particular set of patients will be more
+generalizable if developed with data from multiple institutions. While privacy-protecting methods
+to build predictive models exist, most are based on a centralized architecture, which presents
+security and robustness vulnerabilities such as single-point-of-failure (and single-point-of-breach)
+and accidental or malicious modification of records. In this article, we describe a new framework,
+ModelChain, to adapt Blockchain technology for privacy-preserving machine learning. Each participating
+site contributes to model parameter estimation without revealing any patient health information
+(i.e., only model data, no observation-level data, are exchanged across institutions). We integrate
+privacy-preserving online machine learning with a private Blockchain network, apply transaction
+metadata to disseminate partial models, and design a new proof-of-information algorithm to determine
+the order of the online learning process. We also discuss the benefits and potential issues of applying
+Blockchain technology to solve the privacy-preserving healthcare predictive modeling task and
+to increase interoperability between institutions, to support the Nationwide Interoperability
+Roadmap and national healthcare delivery priorities such as Patient-Centered Outcomes Research
+(PCOR). 

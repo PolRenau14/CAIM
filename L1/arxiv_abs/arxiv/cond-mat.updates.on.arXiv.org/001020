@@ -1,0 +1,16 @@
+We study inequivalence of canonical and microcanonical ensembles in the mean-field Blume-Emery-Griffiths
+model. This generalizes previous results obtained for the Blume-Capel model. The phase diagram
+strongly depends on the value of the biquadratic exchange interaction K, the additional feature
+present in the Blume-Emery-Griffiths model. At small values of K, as for the Blume-Capel model,
+lines of first and second order phase transitions between a ferromagnetic and a paramagnetic phase
+are present, separated by a tricritical point whose location is different in the two ensembles.
+At higher values of K the phase diagram changes substantially, with the appearance of a triple point
+in the canonical ensemble which does not find any correspondence in the microcanonical ensemble.
+Moreover, one of the first order lines that starts from the triple point ends in a critical point,
+whose position in the phase diagram is different in the two ensembles. This line separates two paramagnetic
+phases characterized by a different value of the quadrupole moment. These features were not previously
+studied for other models and substantially enrich the landscape of ensemble inequivalence, identifying
+new aspects that had been discussed in a classification of phase transitions based on singularity
+theory. Finally, we discuss ergodicity breaking, which is highlighted by the presence of gaps in
+the accessible values of magnetization at low energies: it also displays new interesting patterns
+that are not present in the Blume-Capel model. 

@@ -1,0 +1,17 @@
+With recent progress in large-scale map maintenance and long-term map learning, the task of change
+detection on a large-scale map from a visual image captured by a mobile robot has become a problem
+of increasing criticality. Previous approaches for change detection are typically based on image
+differencing and require the memorization of a prohibitively large number of mapped images in the
+above context. In contrast, this study follows the recent, efficient paradigm of change-classifier-learning
+and specifically employs a collection of place-specific change classifiers. Our change-classifier-learning
+algorithm is based on zero-shot learning (ZSL) and represents a place-specific change classifier
+by its training examples mined from an external knowledge base (EKB). The proposed algorithm exhibits
+several advantages. First, we are required to memorize only training examples (rather than the
+classifier itself), which can be further compressed in the form of bag-of-words (BoW). Secondly,
+we can incorporate the most recent map into the classifiers by straightforwardly adding or deleting
+a few training examples that correspond to these classifiers. Thirdly, we can share the BoW vocabulary
+with other related task scenarios (e.g., BoW-based self-localization), wherein the vocabulary
+is generally designed as a rich, continuously growing, and domain-adaptive knowledge base. In
+our contribution, the proposed algorithm is applied and evaluated on a practical long-term cross-season
+change detection system that consists of a large number of place-specific object-level change
+classifiers. 

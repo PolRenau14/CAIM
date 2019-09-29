@@ -1,0 +1,17 @@
+Software engineering involves the consideration of both human and technical aspects, and although
+its origins come from the sub-disciplines of computer science and engineering, today the importance
+of the social and human aspects of software development are widely accepted by practitioners and
+researchers alike. Researchers have at their disposal many research methods they can choose from,
+but does software engineering research, at a community level, use methods that adequately capture
+the social and human aspects of the socio-technical endeavour that is software development? To
+answer this question, we conducted a categorization study of 253 ICSE papers and found a bigger emphasis
+on computational studies that rely on trace data of developer activity, with fewer studies controlling
+for human and social aspects. To understand tradeoffs that researchers make among their choice
+of research methods, we conducted a follow-up survey with the authors of the mapping study papers
+and found they generally prioritize generalizability and realism over control of human behaviours
+in their studies, sometimes for reasons of convenience or to appease reviewers of their papers.
+Furthermore, our findings surprisingly suggest a gap in knowledge about triangulation that could
+help address this gap within our community. We suggest our community, as a whole, diversify its use
+of research methods, to increase the use of methods that involve more control of the human and social
+aspects of software development practice while balancing our understanding of innovations on
+the technical side. 

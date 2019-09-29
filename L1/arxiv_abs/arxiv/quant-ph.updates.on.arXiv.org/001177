@@ -1,0 +1,17 @@
+Lov{\'a}sz Local Lemma (LLL) is a very powerful tool in combinatorics and probability theory to
+show the possibility of avoiding all "bad" events under some "weakly dependent" condition. Over
+the last decades, the algorithmic aspect of LLL has also attracted lots of attention in theoretical
+computer science. A tight criterion under which the \emph{abstract} version LLL (ALLL) holds was
+given by Shearer. It turns out that Shearer's bound is generally not tight for \emph{variable} version
+LLL (VLLL). Recently, Ambainis et al. introduced a quantum version LLL (QLLL), which was then shown
+to be powerful for quantum satisfiability problem. In this paper, we prove that Shearer's bound
+is tight for QLLL, i.e., the relative dimension of the smallest satisfying subspace is completely
+characterized by the independent set polynomial, affirming a conjecture proposed by Sattath et
+al.. Our result also shows the tightness of Gily{\'e}n and Sattath's algorithm, and implies that
+the lattice gas partition function fully characterizes quantum satisfiability for almost all
+Hamiltonians with large enough qudits. Commuting LLL (CLLL), LLL for commuting local Hamiltonians
+which are widely studied in the literature, is also investigated here. We prove that the tight regions
+of CLLL and QLLL are different in general. Thus, the efficient region of algorithms for CLLL can go
+beyond Shearer's bound. In applications of LLLs, the symmetric cases are most common, i.e., the
+events are with the same probability and the Hamiltonians are with the same relative dimension.
+[See pdf file for full abstract] 

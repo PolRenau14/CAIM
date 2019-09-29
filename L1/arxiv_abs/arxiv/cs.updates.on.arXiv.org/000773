@@ -1,0 +1,16 @@
+Over the past few years, the Internet has become a powerful means for the masses to interact, coordinate
+activities, and gather and disseminate information. As such, it is increasingly relevant for many
+governments worldwide to surveil and censor it, and many censorship programs have been put in place
+in the last years. Due to lack of publicly available information, as well as the inherent risks of
+performing active measurements, the research community is often limited in the analysis and understanding
+of censorship practices. The October 2011 leak by the Telecomix hacktivist group of 600GB worth
+of logs from 7 Blue Coat SG-9000 proxies (deployed by the Syrian authorities to monitor and filter
+traffic of Syrian users) represents a unique opportunity to provide a snapshot of a real-world censorship
+ecosystem and to understand the underlying technology. This paper presents the methodology and
+the results of a measurement-based analysis of these logs. Our study uncovers a relatively stealthy
+yet quite targeted filtering, compared to, e.g., that of China and Iran. We show that the proxies
+filter traffic, relying on IP addresses to block access to entire subnets, on domains to block specific
+websites, and on keywords and categories to target specific content. Instant messaging is heavily
+censored, while filtering of social media is limited to specific pages. Finally, we show that Syrian
+users try to evade censorship by using web/socks proxies, Tor, VPNs, and BitTorrent. To the best
+of our knowledge, our work provides the first look into Internet filtering in Syria. 

@@ -1,0 +1,16 @@
+Applications that simulate complex physical processes can be composed of millions of lines of code.
+For such complex model codes, finding the source of a bug or discrepancy in output (e.g., from a previous
+version, alternative hardware or supporting software stack) is non-trivial at best. Although
+there are many tools for program comprehension through debugging or slicing, few (if any) scale
+to a complicated model such as the Community Earth System Model (CESM$^{TM}$). Therefore, to enable
+developers to trace a problem detected in the model output to its source, we devise a series of techniques
+to reduce the search space to a tractable size. The first step determines which CESM output variables
+are most affected by a given bug. To find where these output variables are computed in the code, we
+construct a directed graph of internal variable relationships. We introduce a form of hybrid program
+slicing which integrates static, backward slicing with code coverage information to extract a
+subgraph consisting of relevant variable relationships. Finally, we partition the subgraph into
+communities, and identify nodes in each community that are central to information flow. After reducing
+the search space and ranking nodes by centrality, runtime variable sampling becomes feasible.
+We use examples of simulation output from CESM to illustrate how sampling can be performed as part
+of an efficient iterative refinement procedure to locate error sources. This process is also effective
+in complex scenarios such as sensitivity to CPU instructions. 

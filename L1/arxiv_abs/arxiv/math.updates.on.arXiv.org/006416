@@ -1,0 +1,16 @@
+Given a locally injective real function g on the vertex set V of a finite simple graph G=(V,E), we prove
+the Poincare-Hopf formula f_G(t) = 1+t sum_{x in V} f_{S_g(x)}(t), where S_g(x) = { y in S(x), g(y)
+less than g(x) } and f_G(t)=1+f_0 t + ... + f_{d} t^{d+1} is the f-function encoding the f-vector of
+a graph G, where f_k counts the number of k-dimensional cliques, complete sub-graphs, in G. The corresponding
+computation of f reduces the problem recursively to n tasks of graphs of half the size. For t=-1, the
+parametric Poincare-Hopf formula reduces to the classical Poincare-Hopf result X(G)=sum_x i_g(x),
+with integer indices i_g(x)=1-X(S_g(x)) and Euler characteristic X. In the new Poincare-Hopf
+formula, the indices are integer polynomials and the curvatures K_x(t) expressed as index expectations
+K_x(t) = E[i_x(t)] are polynomials with rational coefficients. Integrating the Poincare-Hopf
+formula over probability spaces of functions g gives Gauss-Bonnet formulas like f_G(t) = 1+sum_{x}
+F_{S(x)}(t), where F_G is the anti-derivative of f_G. A similar computation is done for the generating
+function f_{G,H}(t,s) = sum_{k,l} f_{k,l}(G,H) s^k t^l of the f-intersection matrix f_{k,l}(G,H)
+counting the number of intersections of k-simplices in G with l-simplices in H. Also here, the computation
+is reduced to 4 n^2 computations for graphs of half the size: f_{G,H}(t,s) = sum_{v,w} f_{B_g(v),B_g(w)}(t,s)
+- f_{B_g(v),S_g(w)}(t,s) - f_{S_g(v),B_g(w)}(t,s) + f_{S_g(v),S_g(w)}(t,s), where B_g(v)=
+S_g(v)+{v} is the unit ball of v. 

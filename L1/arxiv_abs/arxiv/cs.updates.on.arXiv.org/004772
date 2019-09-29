@@ -1,0 +1,17 @@
+Data in mobile cloud environment are mainly transmitted via wireless noisy channels, which may
+result in transmission errors with a high probability due to its unreliable connectivity. For video
+transmission, unreliable connectivity may cause significant degradation of the content. Improving
+or keeping video quality over lossy channel is therefore a very important research topic. Error
+concealment with data hiding (ECDH) is an effective way to conceal the errors introduced by channels.
+It can reduce error propagation between neighbor blocks/frames comparing with the methods exploiting
+temporal/spatial correlations. The existing video ECDH methods often embed the motion vectors
+(MVs) into the specific locations. Nevertheless, specific embedding locations cannot resist
+against random errors. To compensate the unreliable connectivity in mobile cloud environment,
+in this paper, we present a video ECDH scheme using 3D reversible data hiding (RDH), in which each
+MV is repeated multiple times, and the repeated MVs are embedded into different macroblocks (MBs)
+randomly. Though the multiple embedding requires more embedding space, satisfactory trade-off
+between the introduced distortion and the reconstructed video quality can be achieved by tuning
+the repeating times of the MVs. For random embedding, the lost probability of the MVs decreases rapidly,
+resulting in better error concealment performance. Experimental results show that the PSNR values
+gain about 5dB at least comparing with the existing ECDH methods. Meanwhile, the proposed method
+improves the video quality significantly. 

@@ -1,0 +1,17 @@
+We study actions of countable discrete groups which are amenable in the sense that there exists a
+mean on X which is invariant under the action of G. Assuming that G is nonamenable, we obtain structural
+results for the stabilizer subgroups of amenable actions which allow us to relate the first l2-Betti
+number of G with that of the stabilizer subgroups. An analogous relationship is also shown to hold
+for cost. This relationship becomes even more pronounced for transitive amenable actions, leading
+to a simple criterion for vanishing of the first l2-Betti number and triviality of cost. Moreover,
+for any marked finitely generated nonamenable group G we establish a uniform isoperimetric threshold
+for Schreier graphs G/H of G, beyond which the group H is necessarily weakly normal in G. Even more
+can be said in the particular case of an atomless mean for the conjugation action -- that is, when G
+is inner amenable. We show that inner amenable groups have cost 1 and moreover they have fixed price.
+We establish U_{fin}-cocycle superrigidity for the Bernoulli shift of any nonamenable inner amenable
+group. In addition, we provide a concrete structure theorem for inner amenable linear groups over
+an arbitrary field. We also completely characterize linear groups which are stable in the sense
+of Jones and Schmidt. Our analysis of stability leads to many new examples of stable groups; notably,
+all nontrivial countable subgroups of the group H(R), recently studied by Monod, are stable. This
+includes nonamenable groups constructed by Monod and by Lodha and Moore, as well as Thompson's group
+F. 

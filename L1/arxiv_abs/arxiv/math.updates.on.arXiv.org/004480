@@ -1,0 +1,17 @@
+Mirror symmetry relates Gromov-Witten invariants of an elliptic curve with certain integrals
+over Feynman graphs. We prove a tropical generalization of mirror symmetry for elliptic curves,
+i.e., a statement relating certain labeled Gromov-Witten invariants of a tropical elliptic curve
+to more refined Feynman integrals. This result easily implies the tropical analogue of the mirror
+symmetry statement mentioned above and, using the necessary Correspondence Theorem, also the
+mirror symmetry statement itself. In this way, our tropical generalization leads to an alternative
+proof of mirror symmetry for elliptic curves. We believe that our approach via tropical mirror symmetry
+naturally carries the potential of being generalized to more adventurous situations of mirror
+symmetry. Moreover, our tropical approach has the advantage that all involved invariants are easy
+to compute. Furthermore, we can use the techniques for computing Feynman integrals to prove that
+they are quasimodular forms. Also, as a side product, we can give a combinatorial characterization
+of Feynman graphs for which the corresponding integrals are zero. More generally, the tropical
+mirror symmetry theorem gives a natural interpretation of the A-model side (i.e., the generating
+function of Gromov-Witten invariants) in terms of a sum over Feynman graphs. Hence our quasimodularity
+result becomes meaningful on the A-model side as well. Our theoretical results are complemented
+by a Singular package including several procedures that can be used to compute Hurwitz numbers of
+the elliptic curve as integrals over Feynman graphs. 

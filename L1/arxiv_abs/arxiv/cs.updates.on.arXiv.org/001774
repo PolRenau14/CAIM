@@ -1,0 +1,16 @@
+Airborne discrete return light detection and ranging (LiDAR) point clouds covering forested areas
+can be processed to segment individual trees and retrieve their morphological attributes. Segmenting
+individual trees in natural deciduous forests however remained a challenge because of the complex
+and multi-layered canopy. In this chapter, we present (i) a robust segmentation method that avoids
+a priori assumptions about the canopy structure, (ii) a vertical canopy stratification procedure
+that improves segmentation of understory trees, (iii) an occlusion model for estimating the point
+density of each canopy stratum, and (iv) a distributed computing approach for efficient processing
+at the forest level. When applied to the University of Kentucky Robinson Forest, the segmentation
+method detected about 90% of overstory and 47% of understory trees with over-segmentation rates
+of 14% and 2%. Stratifying the canopy improved the detection rate of understory trees to 68% at the
+cost of increasing their over-segmentations to 16%. According to our occlusion model, a point density
+of ~170 pt/m-sqr is needed to segment understory trees as accurately as overstory trees. Lastly,
+using the distributed approach, we segmented about two million trees in the 7,440-ha forest in 2.5
+hours using 192 processors, which is 167 times faster than using a single processor. Keywords: individual
+tree segmentation, multi-layered stand, vertical canopy stratification, segmentation evaluation,
+point density, canopy occlusion effect, big data, distributed computing. 

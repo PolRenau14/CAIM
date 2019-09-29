@@ -1,0 +1,16 @@
+The young energetic pulsar J1747-2958 ($\tau=26$ kyr, $\dot{E}=2.5\times 10^{36}$ erg s$^{-1}$)
+powers the Mouse pulsar wind nebula (PWN), famous for its spectacular tail spanning 45$"$ in X-rays
+and 12$'$ in radio ($d\sim5$ kpc). We present the results of Chandra observations of the PWN and the
+analysis of archival lower-frequency data. The Chandra HRC image reveals a point-like source at
+the pulsar position, $\approx$1$'$ behind the bow shock apex of the PWN. The flattened appearance
+of the compact nebula is consistent with an equatorial outflow deformed by the ram pressure, implying
+that the angle between the pulsar's spin axis and line of sight is $\sim70^\circ$ (in agreement with
+the radio and $\gamma$-ray pulse profiles). The spatially-resolved spectroscopy with Chandra
+ACIS shows that the power-law (PL) spectrum steepens from $\Gamma=1.65\pm0.02$ to $3.0\pm0.1$
+over the 45$'$ extent of the X-ray tail. However, the tail's X-ray spectrum integrated over its 45$"$
+length fits a single absorbed PL with $\Gamma=2.09\pm0.03$. We also found the Mouse PWN in 150 MHz
+GMRT data, and a possible counterpart in 24 ${\rm \mu}$m Spitzer data. The multiwavelength data
+suggest that, at low frequencies, the spectrum of the X-ray-emitting tail region can be described
+by a broken PL with at least one turnover between radio and X-rays. This is consistent with synchrotron
+cooling of electrons injected at the termination shock (with an SED slope of 2.2) in an equipartition
+magnetic field $B\sim200$ ${\rm \mu G}$ and a bulk flow speed $v\sim4000$ km s$^{-1}$. 

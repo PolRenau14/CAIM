@@ -1,0 +1,16 @@
+X-ray reflection is a very powerful method to assess the spin of supermassive black holes (SMBHs)
+in active galactic nuclei (AGN), yet not universally accepted. Indeed, complex reprocessing (absorption,
+scattering) of the intrinsic spectra along the line of sight can mimic the relativistic effects
+on which the spin measure is based. In this work, we test how reliable the SMBH spin measurements that
+can be be currently achieved are, through the simulations of high-quality XMM-Newton and NuSTAR
+spectra. Each member of our group simulated 10 spectra with multiple components that are typically
+seen in AGN, such as warm and (partial-covering) neutral absorbers, relativistic and distant reflection,
+and thermal emission. The resulting spectra were blindly analysed by the other two members. Out
+of the 60 fits, 42 turned out to be physically accurate when compared to the input model. The SMBH spin
+was retrieved with success in 31 cases, some of which (9) are even found among formally inaccurate
+fits (although with looser constraints). We show that, at the high signal-to-noise ratio assumed
+in our simulations, neither the complexity of the multi-layer, partial-covering absorber nor
+the input value of the spin are the major drivers of our results. The height of the X-ray source (in
+a lamp-post geometry) plays instead a crucial role in recovering the spin. In particular, a success
+rate of 16/16 is found among the accurate fits for a dimensionless spin parameter larger than 0.8
+and a lamp-post height lower than 5 gravitational radii. 

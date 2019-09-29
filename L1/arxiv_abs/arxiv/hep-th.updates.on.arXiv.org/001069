@@ -1,0 +1,16 @@
+It has been suggested by A. Sen that the entropy of two-charge supersymmetric bound states in string
+theory should be accounted for by adding the entropy of source-free horizonless supergravity solutions
+to the entropy associated with the horizons of small black holes. This would imply that the entropy
+arises differently depending on the duality frame: in the D1-D5 frame one would count source-free
+horizonless solutions, while in the NS1-P frame one would compute the area of a horizon. This might
+lead to the belief that the microstates are described by fuzzball solutions in the D1-D5 duality
+frame but by a black hole with a horizon in the latter. We argue that this is not the case, and that the
+microstates are fuzzballs in all duality frames. We observe that the scaling argument used by Sen
+fails to account for the entropy in the D1-P and other duality frames. We also note that the traditional
+extremal black hole solution is not a complete string background, since finite-action paths connect
+the exterior near-horizon extremal throat to the region inside the horizon, including the singularity.
+The singularity of the traditional black hole solution does not give a valid boundary condition
+for a fundamental string; correcting this condition by resolving the singularity modifies the
+black hole to a fuzzball with no horizon. We argue that for questions of counting states, the traditional
+black hole solution should be understood through its Euclidean continuation as a saddle point,
+and that the Lorentzian states being counted are fuzzballs in all duality frames. 

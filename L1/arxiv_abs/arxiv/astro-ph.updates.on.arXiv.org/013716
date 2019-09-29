@@ -1,0 +1,16 @@
+We have computed a grid of hydrostatic spherical COMARCS models for C stars covering metallicities
+from [Z/H]=0 to -2 and values of the carbon excess [C-O] from 6.41 to 9.15, plus some temperature sequences,
+where the amount of oxygen and nitrogen is increased relative to a scaled solar element mixture.
+Such abundance variations may appear during the late stages of stellar evolution. Our study covers
+changes of [O/Z] and [N/Z] going up to +0.5. Based on the atmospheric structures we have calculated
+synthetic spectra and photometry for all of the models in a consistent way. The sequences with changed
+[O/Z] and [N/Z] can be used to derive correction terms, which are applied to the colours predicted
+for a certain combination of effective temperature, surface gravity, metallicity and carbon excess.
+If one neglects these shifts in case of a variable oxygen amount, taking [C-O] instead of C/O gives
+much better results, since the first quantity dominates the formation of many important molecular
+species. For the warmer C giants with weaker pulsation it is in principle possible to determine [C-O],
+[O/Z] or [N/Z] from high resolution spectra, when the opacities in the radiative transfer calculations
+for the models and observable properties are treated consistently. The corresponding changes
+due to the abundances often become significantly larger than the deviations caused by uncertainties
+of the stellar parameters or by a optically thin dust shell. Photometric data and low or medium resolution
+spectra are not sufficient to derive the mentioned quantities. 

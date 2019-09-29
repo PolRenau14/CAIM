@@ -1,0 +1,15 @@
+We present the results of a search for galaxy substructures in a sample of 11 gravitational lens galaxies
+from the Sloan Lens ACS Survey. We find no significant detection of mass clumps, except for a luminous
+satellite in the system SDSS J0956+5110. We use these non-detections, in combination with a previous
+detection in the system SDSS J0946+1006, to derive constraints on the substructure mass function
+in massive early-type host galaxies with an average redshift z ~ 0.2 and an average velocity dispersion
+of 270 km/s. We perform a Bayesian inference on the substructure mass function, within a median region
+of about 32 kpc squared around the Einstein radius (~4.2 kpc). We infer a mean projected substructure
+mass fraction $f = 0.0076^{+0.0208}_{-0.0052}$ at the 68 percent confidence level and a substructure
+mass function slope $\alpha$ < 2.93 at the 95 percent confidence level for a uniform prior probability
+density on alpha. For a Gaussian prior based on Cold Dark Matter (CDM) simulations, we infer $f = 0
+.0064^{+0.0080}_{-0.0042}$ and a slope of $\alpha$ = 1.90$^{+0.098}_{-0.098}$ at the 68 percent
+confidence level. Since only one substructure was detected in the full sample, we have little information
+on the mass function slope, which is therefore poorly constrained (i.e. the Bayes factor shows no
+positive preference for any of the two models).The inferred fraction is consistent with the expectations
+from CDM simulations and with inference from flux ratio anomalies at the 68 percent confidence level.

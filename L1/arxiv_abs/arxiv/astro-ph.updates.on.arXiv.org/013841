@@ -1,0 +1,17 @@
+Citizen science has helped astronomers comb through large data sets to identify patterns and objects
+that are not easily found through automated processes. The Milky Way Project (MWP), a citizen science
+initiative on the Zooniverse platform, presents internet users with infrared (IR) images from
+Spitzer Space Telescope Galactic plane surveys. MWP volunteers make classification drawings
+on the images to identify targeted classes of astronomical objects. We present the MWP second data
+release (DR2) and an updated data reduction pipeline written in Python. We aggregate ${\sim}3$
+million classifications made by MWP volunteers during the years 2012-2017 to produce the DR2 catalogue,
+which contains 2600 IR bubbles and 599 candidate bow-shock driving stars. The reliability of bubble
+identifications, as assessed by comparison to visual identifications by trained experts and scoring
+by a machine-learning algorithm, is found to be a significant improvement over DR1. We assess the
+reliability of IR bow shocks via comparison to expert identifications and the colours of candidate
+bow-shock driving stars in the 2MASS point-source catalogue. We hence identify highly-reliable
+subsets of 1394 DR2 bubbles and 453 bow-shock driving stars. Uncertainties on object coordinates
+and bubble size/shape parameters are included in the DR2 catalog. Compared with DR1, the DR2 bubbles
+catalogue provides more accurate shapes and sizes. The DR2 catalogue identifies 311 new bow shock
+driving star candidates, including three associated with the giant HII regions NGC 3603 and RCW
+49. 

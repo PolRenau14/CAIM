@@ -1,0 +1,17 @@
+A sensitive high resolution spectrometer for trace gas detection of species whose transitions
+have severe spectral overlap with abundant concomitant species by sub-Doppler (sD) noise-immune
+cavity-enhanced optical heterodyne molecular spectrometry (NICE-OHMS) is presented. The setup
+is based on a NICE-OHMS instrumentation utilizing balanced detection that provides shot-noise
+limited Doppler-broadened (Db) detection. An additional layer of modulation is added to reduce
+the influence of narrow etalons and improve the sensitivity for sD detection. By dithering synchronously
+the positions of the two cavity mirrors, the effect of residual etalons between one of the cavity
+mirrors and another surface in the system could be reduced without affecting the frequencies of
+the cavity mode. This reduced the drifts in the system, allowing for an Allan deviation of the absorption
+coefficient of $2.2 \times 10^{-13}$ $\text{cm}^{-1}$ for an integration time of 60 s, which, for
+the targeted $\text{C}_{2}\text{H}_{2}$ transition at 6518.4858 $\text{cm}^{-1}$, corresponds
+to a $3\sigma$ detection sensitivity of 130 ppt. Sub-Doppler trace gas detection is demonstrated
+by measuring ppb levels of $\text{C}_{2}\text{H}_{2}$ in the exhaled breath of smokers. A procedure
+was worked out for simultaneous detection of $\text{CO}_{2}$, based on the Db response. It is shown
+that despite significant spectral interference from $\text{CO}_{2}$, which precludes Db detection
+of $\text{C}_{2}\text{H}_{2}$ in breath, acetylene could be detected in breath from smokers with
+good spectral resolution by the use of sD NICE-OHMS. 

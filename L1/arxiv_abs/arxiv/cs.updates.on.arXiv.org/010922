@@ -1,0 +1,17 @@
+A re-calibration is proposed for "numerical analysis" as it arises specifically within the broader,
+embracing field of modern computer science (CS). This would facilitate research into theoretical
+and practicable models of real-number computation at the foundations of CS, and it would also advance
+the instructional objectives of the CS field. Our approach is premised on the key observation that
+the great "watershed" in numerical computation is much more between finite- and infinite-dimensional
+numerical problems than it is between discrete and continuous numerical problems. A revitalized
+discipline for numerical computation within modern CS can more accurately be defined as "numerical
+algorithmic science & engineering (NAS&E), or more compactly, as "numerical algorithmics," its
+focus being the algorithmic solution of numerical problems that are either discrete, or continuous
+over a space of finite dimension, or a combination of the two. It is the counterpart within modern
+CS of the numerical analysis discipline, whose primary focus is the algorithmic solution of continuous,
+infinite-dimensional numerical problems and their finite-dimensional approximates, and whose
+specialists today have largely been repatriated to departments of mathematics. Our detailed overview
+of NAS&E from the viewpoints of rationale, foundations, and organization is preceded by a recounting
+of the role played by numerical analysts in the evolution of academic departments of computer science,
+in order to provide background for NAS&E and place the newly-emerging discipline within its larger
+historical context. 

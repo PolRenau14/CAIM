@@ -1,0 +1,17 @@
+High-energy gamma rays of interstellar origin are produced by the interaction of cosmic-ray (CR)
+particles with the diffuse gas and radiation fields in the Galaxy. The main features of this emission
+are well understood and are reproduced by existing CR propagation models employing 2D Galactocentric
+cylindrically symmetrical geometry. However, the high-quality data from instruments like the
+Fermi Large Area Telescope reveal significant deviations from the model predictions on few to tens
+of degree scales indicating the need to include the details of the Galactic spiral structure and
+thus require 3D spatial modelling. In this paper the high-energy interstellar emissions from the
+Galaxy are calculated using the new release of the GALPROP code employing 3D spatial models for the
+CR source and interstellar radiation field (ISRF) densities. Three models for the spatial distribution
+of CR sources are used that are differentiated by their relative proportion of input luminosity
+attributed to the smooth disc or spiral arms. Two ISRF models are developed based on stellar and dust
+spatial density distributions taken from the literature that reproduce local near- to far-infrared
+observations. The interstellar emission models that include arms and bulges for the CR source and
+ISRF densities provide plausible physical interpretations for features found in the residual
+maps from high-energy gamma-ray data analysis. The 3D models for CR and ISRF densities provide a
+more realistic basis that can be used for the interpretation of the non-thermal interstellar emissions
+from the Galaxy. 

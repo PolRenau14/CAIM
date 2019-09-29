@@ -1,0 +1,16 @@
+The exchange-driven growth model describes the mean field kinetics of a population of composite
+particles (clusters) subject to pairwise exchange interactions. Exchange in this context means
+that upon interaction of two clusters, one loses a constituent unit (monomer) and the other gains
+this unit. Two variants of the exchange-driven growth model appear in applications. They differ
+in whether clusters of zero size are considered active or passive. In the active case, clusters of
+size zero can acquire a monomer from clusters of positive size. In the passive case they cannot, meaning
+that clusters reaching size zero are effectively removed from the system. While this distinction
+may seem minor, the large time behaviour is radically different for the two variants of the model.
+We first consider an isolated system. In the passive case, the cluster size distribution tends towards
+a self-similar evolution and the typical cluster size grows as a power of time. In the active case,
+the cluster size distribution tends towards a time-independent equilibrium in which the typical
+cluster size is finite. We next consider a non-isolated system in which monomers are input at a constant
+rate. In the passive case, the cluster size distribution again attains a self-similar profile in
+which the typical cluster size grows as a power of time. In the active case, a surprising new behavior
+is found: the cluster size distribution asymptotes to the same equilibrium profile found in the
+isolated case but with an amplitude that grows linearly in time. 

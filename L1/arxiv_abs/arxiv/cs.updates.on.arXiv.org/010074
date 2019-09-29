@@ -1,0 +1,17 @@
+Generalization error (also known as the out-of-sample error) measures how well the hypothesis
+obtained from the training data can generalize to previously unseen data. Obtaining tight generalization
+error bounds is central to statistical learning theory. In this paper, we study the generalization
+error bound in learning general non-convex objectives, which has attracted significant attention
+in recent years. In particular, we study the (algorithm-dependent) generalization bounds of various
+iterative gradient based methods. (1) We present a very simple and elementary proof of a recent result
+for stochastic gradient Langevin dynamics (SGLD), due to Mou et al. (2018). Our proof can be easily
+extended to obtain similar generalization bounds for several other variants of SGLD (e.g., with
+postprocessing, momentum, mini-batch, acceleration, and more general noises), and improves
+upon the recent results in Pensia et al. (2018). (2) By incorporating ideas from the PAC-Bayesian
+theory into the stability framework, we obtain tighter distribution-dependent (or data-dependent)
+generalization bounds. Our bounds provide an intuitive explanation for the phenomenon reported
+in Zhang et al. (2017a). (3) We also study the setting where the total loss is the sum of a bounded loss
+and an additional `l2 regularization term. We obtain new generalization bounds for the continuous
+Langevin dynamic in this setting by leveraging the tool of Log-Sobolev inequality. Our new bounds
+are more desirable when the noisy level of the process is not small, and do not grow when T approaches
+to infinity. 

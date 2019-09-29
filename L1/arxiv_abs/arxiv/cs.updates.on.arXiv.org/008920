@@ -1,0 +1,16 @@
+Sequential effect systems are a class of effect system that exploits information about program
+order, rather than discarding it as traditional commutative effect systems do. This extra expressive
+power allows effect systems to reason about behavior over time, capturing properties such as atomicity,
+unstructured lock ownership, or even general safety properties. While we now understand the essential
+denotational (categorical) models fairly well, application of these ideas to real software is
+hampered by the sheer variety of source level control flow constructs in real languages. Denotational
+approaches are general enough to accommodate any particular control flow construct, but provide
+no guidance on the details, let alone applications. We address this new problem by appeal to a classic
+idea: macro-expression of commonly-used programming constructs in terms of control operators.
+We give an effect system for a subset of Racket's tagged delimited control operators, as a lifting
+of an effect system for a language without direct control operators. This gives the first account
+of sequential effects in the presence of general control operators. Using this system, we also re-derive
+the sequential effect system rules for control flow constructs previously shown sound directly,
+and derive sequential effect rules for new constructs not previously studied in the context of source-level
+sequential effect systems. This offers a way to directly extend source-level support for sequential
+effect systems to real programming languages. 

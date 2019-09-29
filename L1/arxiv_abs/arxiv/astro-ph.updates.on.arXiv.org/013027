@@ -1,0 +1,16 @@
+We use high resolution 3D hydrodynamical simulations to quantify the amount of mass accreted onto
+the secondary star of the binary system Eta Carinae, exploring two sets of stellar masses that had
+been proposed for the system, the conventional mass model ($M_1=120 M_{\odot}$ and $M_2=30 M_{\odot}$)
+and the high mass model ($M_1=170 M_{\odot}$ and $M_2=80 M_{\odot}$). The system consists of two
+very massive stars in a highly eccentric orbit. Every cycle close to periastron passage the system
+experiences a spectroscopic event during which many lines change their appearance, accompanied
+by a decline in x-ray emission associated with the destruction wind collision structure and accretion
+of the primary wind onto the secondary. We take four different numerical approaches to simulate
+the response of the secondary wind to accretion. Each affects the mass loss rate of the secondary
+differently, and in turn determines the amount of accreted mass. The high mass model gives for most
+approaches much more accreted gas and a longer accretion phase. We find that the effective temperature
+of the secondary can be significantly reduced due to accretion. We also test different eccentricity
+values and a higher primary mass loss rate and find their effect on the duration of the spectroscopic
+event. We conclude that the high mass model is better compatible with the amount of accreted mass,
+$\approx 3 \times 10^{-6} M_{\odot}$, required for explaining the reduction in secondary ionization
+photons during the spectroscopic event and compatible with its observed duration. 

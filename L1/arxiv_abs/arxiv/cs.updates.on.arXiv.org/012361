@@ -1,0 +1,16 @@
+Deep learning has been applied to various tasks in the field of machine learning and has shown superiority
+to other common procedures such as kernel methods. To provide a better theoretical understanding
+of the reasons for its success, we discuss the performance of deep learning and other methods on a
+nonparametric regression problem with a Gaussian noise. Whereas existing theoretical studies
+of deep learning have been based mainly on mathematical theories of well-known function classes
+such as H\"{o}lder and Besov classes, we focus on function classes with discontinuity and sparsity,
+which are those naturally assumed in practice. To highlight the effectiveness of deep learning,
+we compare deep learning with a class of linear estimators representative of a class of shallow estimators.
+It is shown that the minimax risk of a linear estimator on the convex hull of a target function class
+does not differ from that of the original target function class. This results in the suboptimality
+of linear methods over a simple but non-convex function class, on which deep learning can attain
+nearly the minimax-optimal rate. In addition to this extreme case, we consider function classes
+with sparse wavelet coefficients. On these function classes, deep learning also attains the minimax
+rate up to log factors of the sample size, and linear methods are still suboptimal if the assumed sparsity
+is strong. We also point out that the parameter sharing of deep neural networks can remarkably reduce
+the complexity of the model in our setting. 

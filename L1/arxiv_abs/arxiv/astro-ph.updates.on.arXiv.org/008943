@@ -1,0 +1,16 @@
+We present an analytical model to investigate the production of pebbles and their radial transport
+through a protoplanetary disk (PPD) with magnetically driven winds. While most of the previous
+analytical studies in this context assume that the radial turbulent coefficient is equal to the
+vertical dust diffusion coefficient, in the light of the results of recent numerical simulations,
+we relax this assumption by adopting effective parametrisations of the turbulent coefficients
+involved in terms of the strength of the magnetic fields driving the wind. Theoretical studies have
+already pointed out that even in the absence of winds, these coefficients are not necessarily equal,
+though its consequences regarding pebble production have not been explored. In this paper, we investigate
+the evolution of the pebble production line, the radial mass flux of the pebbles and their corresponding
+surface density as a function of the plasma parameter at the disk midplane. Our analysis explicitly
+demonstrates that the presence of magnetically-driven winds in a PPD leads to considerable reduction
+of the rate and duration of the pebble delivery. We show that when the wind is strong, the core growth
+in mass due to the pebble accretion is so slow that it is unlikely that a core could reach a pebble isolation
+mass during a PPD lifetime. When the mass of a core reaches this critical value, pebble accretion
+is halted due to core-driven perturbations in the gas. With decreasing wind strength, however,
+pebble accretion may, in a shorter time, increase the mass of a core to the pebble isolation mass.

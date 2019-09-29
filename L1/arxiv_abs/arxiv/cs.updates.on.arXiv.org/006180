@@ -1,0 +1,16 @@
+We introduce polyhedra circuits. Each polyhedra circuit characterizes a geometric region in $\mathbb{R}^d$.
+They can be applied to represent a rich class of geometric objects, which include all polyhedra and
+the union of a finite number of polyhedra. They can be used to approximate a large class of $d$-dimensional
+manifolds in $\mathbb{R}^d$. Barvinok developed polynomial time algorithms to compute the volume
+of a rational polyhedra, and to count the number of lattice points in a rational polyhedra in a fixed
+dimensional space $\mathbb{R}^d$ with a fix $d$. Define $T_V(d,\, n)$ be the polynomial time in
+$n$ to compute the volume of one rational polyhedra, $T_L(d,\, n)$ be the polynomial time in $n$ to
+count the number of lattice points in one rational polyhedra with $d$ be a fixed dimensional number,
+$T_I(d,\, n)$ be the polynomial time in $n$ to solve integer linear programming time with $d$ be the
+fixed dimensional number, where $n$ is the total number of linear inequalities from input polyhedra.
+We develop algorithms to count the number of lattice points in the geometric region determined by
+a polyhedra circuit in $O\left(nd\cdot r_d(n)\cdot T_V(d,\, n)\right)$ time and to compute the
+volume of the geometric region determined by a polyhedra circuit in $O\left(n\cdot r_d(n)\cdot
+T_I(d,\, n)+r_d(n)T_L(d,\, n)\right)$ time, where $n$ is the number of input linear inequalities,
+$d$ is number of variables and $r_d(n)$ be the maximal number of regions that $n$ linear inequalities
+with $d$ variables partition $\mathbb{R}^d$. 

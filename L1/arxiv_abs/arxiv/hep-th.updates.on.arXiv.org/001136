@@ -1,0 +1,17 @@
+The existence of an observer independent minimum length scale can lead to the modification of the
+Heisenberg uncertainty principle to the generalized uncertainty principle. This in turn would
+be responsible for the modification of the Hamiltonian describing a non-relativistic particle
+moving in the presence of an arbitrary potential. In this work we carry out a path integral formulation
+to compute the transition amplitude for this particle. The formalism yields the action of such a
+particle in an arbitrary potential. Interestingly, the action indicates that there is an upper
+bound to the velocity that a particle can have which depends on the generalized uncertainty principle
+parameter. We then compute explicitly the propagator of a free particle and particle moving in a
+harmonic oscilltor potential using the path integral representation of the transition amplitude.
+We observe that there exists a curious connection between the transition amplitude of the free particle
+in the generalized uncertainty priciple framework with the corresponding result in noncommutative
+space found from the path integral formulation in \cite{sgprl}. From the harmonic oscillator result
+for the transition amplitude, we calculate the ground state energy of the harmonic oscillator.
+The result shows that the ground state energy of the harmonic oscillator in the framework of the Heisenberg
+uncertainty principle gets augmented by the presence of the generalized uncertainty principle
+and also depends on the mass of the particle. We also demonstrate that the result agrees with that
+obatined using the operatorial approach. 

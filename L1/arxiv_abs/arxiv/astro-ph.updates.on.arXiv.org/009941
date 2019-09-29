@@ -1,0 +1,17 @@
+The current paper is addressing the possibility of the Dark Energy scalar field potential reconstruction
+from the SNe Ia data and the problems arising during the process. We describe the method and test its
+limits, stability of the reconstruction with respect to the $\Omega_m$ and $H_0$ parameters, as
+well as several issues connected to the errors propagation, with use of synthetic data. After that,
+we test the method with real Union2.1 and JLA, as well as recent PANTHEON SNe Ia datasets. It worths
+mentioning that in our approach we assume no {\it Ans\"atzen} on the dynamical variables (e.g.,
+$H(z)$), which makes our method free of any degeneracies and biases which arise if one assume one
+or another way to parameterize $H(z)$, or the equation of state, or some other variable. On the other
+hand, the price we pay for this freedom is immense -- although the scheme demonstrates perfect reconstruction
+in the case of synthetic data, the reconstruction from the real data seems almost impossible, at
+least on the current data precision level. The errors of the resulting potential and of the kinetic
+term are huge; for the Hubble parameter they are smaller but still severalfold larger than those
+obtained with parameterization. Finally, we test the method with non-SNe $H(z)$ datasets, and
+the results are also disappointing -- similar to the SNe case, the reconstruction is not possible
+as the reconstructed kinetic term enters the negative values. This could be treated as a manifestation
+of the insufficient data precision, or as the overestimation of $(H_0, \Omega_m)$ values -- we discuss
+both possibilities. 

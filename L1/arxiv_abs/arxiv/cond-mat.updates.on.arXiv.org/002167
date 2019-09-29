@@ -1,0 +1,16 @@
+We study quantum phase transitions (QPTs) associated with splitting nodal Fermi points, motivated
+by topological phase transitions between Dirac and Weyl semi-metals. A Dirac point in Dirac semi-metals
+may be split into two Weyl points by breaking a lattice symmetry or time reversal symmetry, and the
+Lifshitz transition is commonly used to describe the phase transitions. Here, we show that the Lifshitz
+description is fundamentally incorrect in QPTs with splitting nodal Fermi points. We argue that
+correlations between fermions, order parameter, and the long range Coulomb interaction { must}
+be incorporated from the beginning. One of the most striking correlation effects we find is {\it
+infinite anisotropy} of physical quantities, which cannot appear in a Lifshitz transition. By
+using the standard renormalization group (RG) method, two types of infinitely anisotropic quantum
+criticalities are found in three spatial dimensions varying with the number of the Dirac points
+($N_f$). For $N_f = 1$, the ratio of the fermion velocity to the velocity of order parameter excitations
+becomes universal ($\sqrt{2}-1$) along the Dirac point splitting direction . For $N_f >1$, we find
+that fermions are parametrically faster than order parameter excitations in all directions. Our
+RG analysis is fully controlled by the fact that order parameter and fermion fluctuations are at
+the upper critical dimension, and thus our stable fixed points demonstrate the presence of weakly
+coupled quantum criticalities with infinite anisotropy. 

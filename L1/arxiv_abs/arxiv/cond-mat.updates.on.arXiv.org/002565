@@ -1,0 +1,16 @@
+We calculate the drag coefficient of a circular liquid domain, which is put in a flat fluid membrane
+composed of a binary fluid mixture lying in the homogeneous phase near the demixing critical point.
+Assuming a sufficiently small correlation length, we regard the domain dynamics as independent
+of the critical fluctuation and use the Gaussian free-energy functional for the mixture. Because
+of the near-criticality, the preferential attraction between the domain component and one of the
+mixture components generates the composition gradient outside the domain significantly and can
+affect the drag coefficient. We first consider a domain having the same membrane viscosity as the
+domain exterior. The drag coefficient is expanded with respect to a dimensionless strength of the
+preferential attraction. It is numerically shown that the magnitude of the expansion coefficient
+decreases much as the order of the strength increases and that the first-order term of the series
+usually gives a good approximation for practical material constants. The effect of the preferential
+attraction is shown to be able to become significantly large in practice. We second consider cases
+where the membrane viscosities of the domain interior and exterior are different. The first-order
+term of the expansion series decreases to approach zero as the domain viscosity increases to infinity.
+This agrees with previous numerical results showing that the hydrodynamics makes the effect of
+the preferential attraction negligibly small for a rigid disk. 

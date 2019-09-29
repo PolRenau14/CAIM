@@ -1,0 +1,16 @@
+The INTEGRAL/SPI, X-gamma-ray spectrometer (20 keV - 8 MeV) is an instrument for which recovering
+source intensity variations is not straightforward and can constitute a difficulty for data analysis.
+In most cases, determining the source intensity changes between exposures is largely based on a
+priori information. We propose techniques that help to overcome the difficulty related to source
+intensity variations, which make this step more rational. In addition, the constructed "synthetic"
+light curves should permit us to obtain a sky model that describes the data better and optimizes the
+source signal-to-noise ratios. For this purpose, the time intensity variation of each source was
+modeled as a combination of piecewise segments of time during which a given source exhibits a constant
+intensity. To optimize the signal-to-noise ratios, the number of segments was minimized. We present
+a first method that takes advantage of previous time series that can be obtained from another instrument
+on-board the INTEGRAL observatory. A data segmentation algorithm was then used to synthesize the
+time series into segments. The second method no longer needs external light curves, but solely SPI
+raw data. For this, we developed a specific algorithm that involves the SPI transfer function. The
+time segmentation algorithms that were developed solve a difficulty inherent to the SPI instrument,
+which is the intensity variations of sources between exposures, and it allows us to obtain more information
+about the sources' behavior. 

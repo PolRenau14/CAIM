@@ -1,0 +1,16 @@
+Lame equation arises from deriving Laplace equation in ellipsoidal coordinates; in other words,
+it's called ellipsoidal harmonic equation. Lame functions are applicable to diverse areas such
+as boundary value problems in ellipsoidal geometry, chaotic Hamiltonian systems, the theory of
+Bose-Einstein condensates, etc. In this paper I will apply three term recurrence formula [ arXiv:1303.0806
+] to the power series expansion in closed forms of Lame function in the algebraic form(infinite series
+and polynomial) and its integral forms including all higher terms of A_n's. I will show how to transform
+power series expansion of Lame function to an integral formalism mathematically for cases of infinite
+series and polynomial. One interesting observation resulting from the calculations is the fact
+that a Gauss Hypergeometric function recurs in each of sub-integral forms: the first sub-integral
+form contains zero term of A_n's, the second one contains one term of A_n's, the third one contains
+two terms of A_n's, etc. Section 6 contains additional examples of application in Lame function.
+This paper is 6th out of 10 in series "Special functions and three term recurrence formula (3TRF)".
+See section 7 for all the papers in the series. Previous paper in series deals with the power series
+expansion of Mathieu function and its integral formalism [ arXiv:1303.0820 ]. The next paper in
+the series describes the power series and integral forms of Lame equation in the Weierstrass's form
+and its asymptotic behaviors [ arXiv:1303.0878 ]. 

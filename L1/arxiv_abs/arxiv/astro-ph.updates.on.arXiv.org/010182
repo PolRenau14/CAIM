@@ -1,0 +1,16 @@
+Previous axisymmetric investigations in two dimensions (2D) have shown that rings and gaps develop
+naturally in non-ideal magnetohydrodynamic (MHD) disk-wind systems, especially in the presence
+of ambipolar diffusion (AD). Here we extend these 2D simulations to three dimensions (3D) and find
+that rings and gaps are still formed in the presence of a moderately strong ambipolar diffusion.
+The rings and gaps form from the same basic mechanism that was identified in the 2D simulations, namely,
+the redistribution of the poloidal magnetic flux relative to the disk material as a result of the
+reconnection of a sharply pinched poloidal magnetic field lines. Thus, the less dense gaps are more
+strongly magnetized with a large poloidal magnetic field compared to the less magnetized (dense)
+rings. The rings and gaps start out rather smoothly in 3D simulations that have axisymmetric initial
+conditions. Non-axisymmetric variations arise spontaneously at later times, but they do not grow
+to such an extent as to disrupt the rings and gaps. These disk substructures persist to the end of the
+simulations, lasting up to 3000 orbital periods at the inner edge of the simulated disk. The longevity
+of the perturbed yet still coherent rings make them attractive sites for trapping large grains that
+would otherwise be lost to rapid radial migration due to gas drag. As the ambipolar diffusivity decreases,
+both the disk and the wind become increasingly turbulent, driven by the magnetorotational instability,
+with tightly-wound spiral arms becoming more prominent in the disk. 

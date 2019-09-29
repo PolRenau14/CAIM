@@ -1,0 +1,16 @@
+By comparing the dynamical and lensing masses of early-type lens galaxies, one can constrain both
+the cosmological parameters and the density profiles of galaxies. We explore the constraining
+power on cosmological parameters and the effect of the lens mass model in this method with 161 galaxy-scale
+strong lensing systems, which is currently the largest sample with both high resolution imaging
+and stellar dynamical data. We assume a power-law mass model for the lenses, and consider three different
+parameterizations for $\gamma$ (i.e., the slope of the total mass density profile) to include the
+effect of the dependence of $\gamma$ on redshift and surface mass density. When treating $\delta$
+(i.e., the slope of the luminosity density profile) as a universal parameter for all lens galaxies,
+we find the limits on the cosmological parameter $\Omega_m$ are quite weak and biased, and also heavily
+dependent on the lens mass model in the scenarios of parameterizing $\gamma$ with three different
+forms. When treating $\delta$ as an observable for each lens, the unbiased estimate of $\Omega_m$
+can be obtained only in the scenario of including the dependence of $\gamma$ on both the redshift
+and the surface mass density, that is $\Omega_m = 0.381^{+0.185}_{-0.154}$ at 68\% confidence
+level in the framework of a flat $\Lambda$CDM model. We conclude that the significant dependencies
+of $\gamma$ on both the redshift and the surface mass density, as well as the intrinsic scatter of
+$\delta$ among the lenses, need to be properly taken into account in this method. 

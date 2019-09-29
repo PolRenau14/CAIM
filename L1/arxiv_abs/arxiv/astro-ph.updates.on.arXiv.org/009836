@@ -1,0 +1,16 @@
+The All-Sky Automated Survey for Supernovae (ASAS-SN) is the only project in existence to scan the
+entire sky in optical light every $\sim$day, reaching a depth of $g\sim18$ mag. Over the course of
+its first four years of transient alerts (2013-2016), ASAS-SN observed 53 events classified as
+likely M dwarf flares. We present follow-up photometry and spectroscopy of all 53 candidates, confirming
+flare events on 47 M dwarfs, one K dwarf, and one L dwarf. The remaining four objects include a previously
+identified TT Tauri star, a young star with outbursts, and two objects too faint to confirm. A detailed
+examination of the 49 flare star light curves revealed an additional six flares on five stars, resulting
+in a total of 55 flares on 49 objects ranging in $V$-band contrast from $\Delta V = -1$ to $-10.2$ mags.
+Using an empirical flare model to estimate the unobserved portions of the flare light curve, we obtain
+lower limits on the $V$-band energy emitted during each flare, spanning $\log(E_V/{\rm ergs})=32$
+to $35$, which are among the most energetic flares detected on M dwarfs. The ASAS-SN M-dwarf flare
+stars show a higher fraction of H$\alpha$ emission as well as stronger H$\alpha$ emission compared
+to M dwarfs selected without reference to activity, consistent with belonging to a population of
+more magnetically active stars. We also examined the distribution of tangential velocities, finding
+that the ASAS-SN flaring M dwarfs are likely to be members of the thin disk and are neither particularly
+young nor old. 

@@ -1,0 +1,16 @@
+We present an improved and expanded simply parameterized phenomenological model of the broad line
+region (BLR) in active galactic nuclei (AGN) for modeling reverberation mapping data. By modeling
+reverberation mapping data directly, we can constrain the geometry and dynamics of the BLR and measure
+the black hole mass without relying on the normalization factor needed in the traditional analysis.
+For realistic simulated reverberation mapping datasets of high-quality, we can recover the black
+hole mass to 0.05-0.25 dex uncertainty and distinguish between dynamics dominated by elliptical
+orbits and inflowing gas. While direct modeling of the integrated emission line light curve allows
+for measurement of the mean time lag, other details of the geometry of the BLR are better constrained
+by the full spectroscopic dataset of emission line profiles. We use this improved model of the BLR
+to explore possible sources of uncertainty in measurements of the time lag using cross-correlation
+function (CCF) analysis and in measurements of the black hole mass using the virial product. Sampling
+the range of geometries and dynamics in our model of the BLR suggests that the theoretical uncertainty
+in black hole masses measured using the virial product is on the order of 0.25 dex. These results support
+the use of the CCF to measure time lags and the virial product to measure black hole masses when direct
+modeling techniques cannot be applied, provided the uncertainties associated with the interpretation
+of the results are taken into account. 

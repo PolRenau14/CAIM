@@ -1,0 +1,17 @@
+The defining equation $(\ast):\ \dot \omega\_t=-F'(\omega\_t),$ of a gradient flow is kinetic
+in essence. This article explores some dynamical (rather than kinetic) features of gradient flows
+(i) by embedding equation $(\ast)$ into the family of slowed down gradient flow equations: $\dot
+\omega ^{ \varepsilon}\_t=- \varepsilon F'( \omega ^{ \varepsilon}\_t),$ where $\varepsilon>0$,
+and (ii) by considering the \emph{accelerations} $\ddot \omega ^{ \varepsilon}\_t$. We shall
+focus on Wasserstein gradient flows. Our approach is mainly heuristic. It relies on Otto calculus.A
+special formulation of the Schr{\"o}dinger problem consists in minimizing some action on the Wasserstein
+space of probability measures on a Riemannian manifold subject to fixed initial and final data.
+We extend this action minimization problem by replacing the usual entropy, underlying Schr{\"o}dinger
+problem, with a general function of the Wasserstein space. The corresponding minimal cost approaches
+the squared Wasserstein distance when some fluctuation parameter tends to zero. We show heuristically
+that the solutions satisfy a Newton equation, extending a recent result of Conforti. The connection
+with Wasserstein gradient flows is established and various inequalities, including evolutional
+variational inequalities and contraction inequality under curvature-dimension condition,
+are derived with a heuristic point of view. As a rigorous result we prove a new and general contraction
+inequality for the Schr{\"o}dinger problem under a Ricci lower bound on a smooth and compact Riemannian
+manifold. 

@@ -1,0 +1,17 @@
+The formation and chemical evolution of the Milky Way Galaxy is numerically simulated by developing
+a Monte Carlo approach to predict the elemental abundance gradients and other galactic features
+using the revised solar abundance. The galaxy is accreted gradually by using either a two-infall
+or a three-infall accretion scenario. The galaxy is chemically enriched by the nucleosynthetic
+contributions from an evolving ensemble of generations of stars. We analyse the role of star formation
+efficiency. The influence of the radial gas inflow as well as radial gas mixing on the evolution of
+galaxy is also studied. The SN Ia delay time distribution (DTD) is incorporated by synthesizing
+SN Ia populations using random numbers based on a distribution function. The elemental abundance
+evolutionary trends corroborate fractional contributions of ~0.1 from prompt ( < 100 Myr) SN Ia
+population. The models predict steep gradients in the inner regions and less steep gradients in
+the outer regions which agrees with the observations. The gradients indicate an average radial
+gas mixing velocity of < 1 km/s. The models with radial gas inflows reproduce the observed inversion
+in the elemental abundance gradients around 2 billion years. The three-infall accretion scenario
+performs better than the two-infall accretion model in terms of explaining the elemental abundance
+distributions of the galactic halo, thick and thin discs. The accuracy of all the models has been
+monitored as a cumulative error of < 0.15 M in the mass balance calculations during the entire evolution
+of the galaxy. 

@@ -1,0 +1,16 @@
+Understanding human fetal neurodevelopment is of great clinical importance as abnormal development
+is linked to adverse neuropsychiatric outcomes after birth. Recent advances in functional Magnetic
+Resonance Imaging (fMRI) have provided new insight into development of the human brain before birth,
+but these studies have predominately focused on brain functional connectivity (i.e. Fisher z-score),
+which requires manual processing steps for feature extraction from fMRI images. Deep learning
+approaches (i.e., Convolutional Neural Networks) have achieved remarkable success on learning
+directly from image data, yet have not been applied on fetal fMRI for understanding fetal neurodevelopment.
+Here, we bridge this gap by applying a novel application of deep 3D CNN to fetal blood oxygen-level
+dependence (BOLD) resting-state fMRI data. Specifically, we test a supervised CNN framework as
+a data-driven approach to isolate variation in fMRI signals that relate to younger v.s. older fetal
+age groups. Based on the learned CNN, we further perform sensitivity analysis to identify brain
+regions in which changes in BOLD signal are strongly associated with fetal brain age. The findings
+demonstrate that deep CNNs are a promising approach for identifying spontaneous functional patterns
+in fetal brain activity that discriminate age groups. Further, we discovered that regions that
+most strongly differentiate groups are largely bilateral, share similar distribution in older
+and younger age groups, and are areas of heightened metabolic activity in early human development.

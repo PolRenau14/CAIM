@@ -1,0 +1,16 @@
+We present a statistical study of the redshift evolution of the cluster galaxy population over a
+wide redshift range from 0.1 to 1.1, using $\sim 1900$ optically-selected CAMIRA clusters from
+$\sim 232$~deg$^2$ of the Hyper Suprime-Cam (HSC) Wide S16A data. Our stacking technique with a
+statistical background subtraction reveals color-magnitude diagrams of red-sequence and blue
+cluster galaxies down to faint magnitudes of $m_z\sim 24$. We find that the linear relation of red-sequence
+galaxies in the color-magnitude diagram extends down to the faintest magnitudes we explore with
+a small intrinsic scatter $\sigma_{\rm int}(g-r)<0.1$. The scatter does not evolve significantly
+with redshift. The stacked color-magnitude diagrams are used to define red and blue galaxies in
+clusters for studying their radial number density profiles without resorting to photometric redshifts
+of individual galaxies. We find that red galaxies are significantly more concentrated toward cluster
+centers and blue galaxies dominate the outskirt of clusters. We explore the fraction of red galaxies
+in clusters as a function of redshift, and find that the red fraction decreases with increasing distances
+from cluster centers. The red fraction exhibits a moderate decrease with increasing redshift.
+The radial number density profiles of cluster member galaxies are also used to infer the location
+of the steepest slope in the three dimensional galaxy density profiles. For a fixed threshold in
+richness, we find little redshift evolution in this location. 

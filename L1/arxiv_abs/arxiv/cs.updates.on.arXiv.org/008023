@@ -1,0 +1,16 @@
+Air traffic control increasingly depends on information and communication technology (ICT) to
+manage traffic flow through highly congested and increasingly interdependent airspace regions.
+While these systems are critical to ensuring the efficiency and safety of our airspace, they are
+also increasingly vulnerable to cyber threats that could potentially lead to reduction in capacity
+and/or reorganization of traffic flows. In this paper, we model various cyber threats to air traffic
+control systems, and analyze how these attacks could impact the flow of aircraft through the airspace.
+To perform this analysis, we consider a model for wide-area air traffic based on a dynamic queuing
+network model. Then we introduce three different attacks (Route Denial of Service, Route Selection
+Tampering, and Sector Denial of Service) to the air traffic control system, and explore how these
+attacks manipulate the sector flows by evaluating the queue backlogs for each sector's outflows.
+Furthermore, we then explore graph-level vulnerability metrics to identify the sectors that are
+most vulnerable to various flow manipulations, and compare them to case-study simulations of the
+various attacks. The results suggest that Route Denial of Service attacks have a significant impact
+on the target sector and lead to the largest degradation to the overall air traffic flows. Furthermore,
+the impact of Sector Denial of Service attack impacts are primarily confined to the target sector,
+while the Route Selection Tampering impacts are mostly confined to certain aircraft. 

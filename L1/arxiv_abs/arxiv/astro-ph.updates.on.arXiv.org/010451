@@ -1,0 +1,16 @@
+Machine learning (ML) techniques, in particular supervised regression algorithms, are a promising
+new way to use multiple observables to predict a cluster's mass or other key features. To investigate
+this approach we use the \textsc{MACSIS} sample of simulated hydrodynamical galaxy clusters to
+train a variety of ML models, mimicking different datasets. We find that compared to predicting
+the cluster mass from the $\sigma -M$ relation, the scatter in the predicted-to-true mass ratio
+is reduced by a factor of 4, from $0.130\pm0.004$ dex (${\simeq} 35$ per cent) to $0.031 \pm 0.001$
+dex (${\simeq} 7$ per cent) when using the same, interloper contaminated, spectroscopic galaxy
+sample. Interestingly, omitting line-of-sight galaxy velocities from the training set has no
+effect on the scatter when the galaxies are taken from within $r_{200c}$. We also train ML models
+to reproduce estimated masses derived from mock X-ray and weak lensing analyses. While the weak
+lensing masses can be recovered with a similar scatter to that when training on the true mass, the
+hydrostatic mass suffers from significantly higher scatter of ${\simeq} 0.13$ dex (${\simeq}
+35$ per cent). Training models using dark matter only simulations does not significantly increase
+the scatter in predicted cluster mass compared to training on simulated clusters with hydrodynamics.
+In summary, we find ML techniques to offer a powerful method to predict masses for large samples of
+clusters, a vital requirement for cosmological analysis with future surveys. 

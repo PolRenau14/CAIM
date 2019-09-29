@@ -1,0 +1,16 @@
+We present results for the complete NNLL+NLO (~ \alpha_s) 1-jettiness (\tau_1) event shape distribution
+for single jet (J) production in electron-nucleus (N_A) collisions e^- + N_A \to e^- + J + X, in the
+deep inelastic scattering (DIS) region where the hard scale is set by the jet transverse momentum
+P_{J_T}. These results cover the entire \tau_1-spectrum including the resummation (\tau_1<<P_{J_T})
+and fixed-order (\tau_1~ P_{J_T}) perturbative QCD regions. They incorporate non-perturbative
+soft radiation effects, the anti-k_T jet algorithm in the fixed-order calculation, and a smooth
+matching between the resummation and fixed-order perturbative QCD regions. The matching smoothly
+connects the spectrum in the resummation region, which can be computed without reference to an external
+jet algorithm, and the fixed-order region where an explicit jet algorithm must be specified. Our
+code, used for generating the numerical results, is flexible enough to incorporate different jet
+algorithms for the fixed-order calculation. We also perform a jet shape analysis, defined within
+the 1-jettiness framework, which allows one to control the amount of radiation included in the definition
+of the final state jet. This formalism can allow for detailed studies of jet energy-loss mechanisms
+and nuclear medium effects. The analysis presented here can be used for precision studies of QCD
+and as a probe of nuclear dynamics using data collected at HERA and in proposed future electron-ion
+colliders such as the EIC and the LHeC. 

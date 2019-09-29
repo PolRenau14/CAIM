@@ -1,0 +1,16 @@
+Accurate specification of a likelihood function is becoming increasingly difficult in many inference
+problems in astronomy. As sample sizes resulting from astronomical surveys continue to grow, deficiencies
+in the likelihood function lead to larger biases in key parameter estimates. These deficiencies
+result from the oversimplification of the physical processes that generated the data, and from
+the failure to account for observational limitations. Unfortunately, realistic models often
+do not yield an analytical form for the likelihood. The estimation of a stellar initial mass function
+(IMF) is an important example. The stellar IMF is the mass distribution of stars initially formed
+in a given cluster of stars, a population which is not directly observable due to stellar evolution
+and other disruptions and observational limitations of the cluster. There are several difficulties
+with specifying a likelihood in this setting since the physical processes and observational challenges
+result in measurable masses that cannot legitimately be considered independent draws from an IMF.
+This work improves inference of the IMF by using an approximate Bayesian computation approach that
+both accounts for observational and astrophysical effects and incorporates a physically-motivated
+model for star cluster formation. The methodology is illustrated via a simulation study, demonstrating
+that the proposed approach can recover the true posterior in realistic situations, and applied
+to observations from astrophysical simulation data. 

@@ -1,0 +1,16 @@
+We present a novel pilot search for gravitational lenses in the mJIVE-20 survey, which observed
+$24\,903$ radio sources selected from FIRST with the VLBA at an angular resolution of 5 mas. We have
+taken the visibility data for an initial $3\,640$ sources that were detected by the mJIVE-20 observations
+and re-mapped them to make wide-field images, selecting fourteen sources that had multiple components
+separated by $\geq100$ mas, with a flux-ratio of $\leq15$:$1$ and a surface brightness consistent
+with gravitational lensing. Two of these candidates are re-discoveries of gravitational lenses
+found as part of CLASS. The remaining twelve candidates were then re-observed at 1.4 GHz and then
+simultaneously at 4.1 and 7.1 GHz with the VLBA to measure the spectral index and surface brightness
+of the individual components as a function of frequency. Ten were rejected as core-jet or core-hotspot(s)
+systems, with surface brightness distributions and/or spectral indices inconsistent with gravitational
+lensing, and one was rejected after lens modelling demonstrated that the candidate lensed images
+failed the parity test. The final lens candidate has an image configuration that is consistent with
+a simple lens mass model, although further observations are required to confirm the lensing nature.
+Given the two confirmed gravitational lenses in the mJIVE-20 sample, we find a robust lensing-rate
+of $1$:($318\pm225$) for a statistical sample of 635 radio sources detected on mas-scales, which
+is consistent with that found for CLASS. 

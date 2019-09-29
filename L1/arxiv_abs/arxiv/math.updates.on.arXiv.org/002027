@@ -1,0 +1,16 @@
+Persistent homology is a way of determining the topological properties of a data set. It is well known
+that each persistence module admits the structure of a representation of a finite totally ordered
+set. In previous work, the authors proved an analogue of the isometry theorem of Bauer and Lesnick
+for representations of a certain class of finite posets. The isometry was between the interleaving
+metric of Bubenik, de Silva and Scott and a bottleneck metric which incorporated algebraic information.
+The key step in both isometry theorems was proving a matching theorem, that an interleaving gives
+rise to a matching of the same height. In this paper we continue this work, restricting to those posets
+which arise from data while making more general the choice of metrics. We first show that while an
+interleaving always produces a matching, for an arbitrary choice of weights it will not produce
+one of the same height. We then show that although the matching theorem fails in this sense, one obtains
+a "shifted" matching (of the correct height) from an interleaving by enlarging the category. We
+then prove an isometry theorem on this extended category. As an application, we make precise the
+way in which representations of finite partially ordered sets approximate persistence modules.
+Specifically, given two finite point clouds of data, we associate a generalized sequence (net)
+of algebras over which the persistence modules for both data sets can be compared. We recover the
+classical interleaving distance uniformly by taking limits. 

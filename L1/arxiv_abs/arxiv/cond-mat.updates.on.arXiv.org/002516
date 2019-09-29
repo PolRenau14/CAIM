@@ -1,0 +1,16 @@
+Amorphous insulators have localized wave functions that decay with the distance $r$ following
+exp($-r/\zeta$). Since nanoscale conduction is not excluded at $r<\zeta$, one may use amorphous
+insulators and take advantage of their size effect for nanoelectronic applications. Voltage-regulated
+nanoscale conductivity is already utilized in metal-insulator-metal devices known as memristors.
+But typically their tunable conductivity does not come from electrons but from migrating ions within
+a stoichastically formed filament, and as such their combined resistor-memory performance suffers.
+Here we demonstrate amorphous-silicon-based memristors can have coherent electron wave functions
+extending to the full device thickness, exceeding 15 nm. Remarkably, despite the large aspect ratio
+and very thin thickness of the device, its electrons still follow an isotropic, three-dimensional
+pathway, thus providing uniform conductivity at the nanometer scale. Such pathways in amorphous
+insulators are derived from overlapping gap states and regulated by trapped charge, which is stabilized
+by electron-lattice interaction; this makes the memristor exhibit pressure-triggered insulator$\rightarrow$metal
+transitions. Fast, uniform, durable, low-power and purely electronic memristors with none of
+the shortcomings of ion-migrating memristors have been fabricated from a variety of amorphous
+silicon compositions and can be readily integrated into silicon technology. Therefore, amorphous
+silicon may provide the ideal platform for building proximal memories, transistors and beyond.

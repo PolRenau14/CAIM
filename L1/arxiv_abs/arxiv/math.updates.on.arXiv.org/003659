@@ -1,0 +1,17 @@
+Successive divisions of compact metric spaces appear in many different areas of mathematics such
+as the construction of self-similar sets, Markov partitions associated with hyperbolic dynamical
+systems, dyadic cubes associated with a doubling metric space. The common feature in these is to
+divide a space into a finite number of subsets, then divide each subset into finite pieces and repeat
+this process again and again. In this paper we generalize such successive divisions and call them
+partitions. Given a partition, we consider the notion of a weight function assigning a "size" to
+each piece of the partition. Intuitively we believe that a partition and a weight function should
+provide a "geometry" and an "analysis" on the space of our interest. We are going to pursue this idea
+in three parts. In the first part, the metrizability of a weight function, i.e. the existence of a
+metric "adapted to" a given weight function, is shown to be equivalent to the Gromov hyperbolicity
+of the graph associated with the weight function. In the second part, the notions like bi-Lipschitz
+equivalence, Ahlfors regularity, the volume doubling property and quasisymmetry will be shown
+to be equivalent to certain properties of weight functions. In particular, we find that quasisymmetry
+and the volume doubling property are the same notion in the world of weight functions. In the third
+part, a characterization of the Ahlfors regular conformal dimension of a compact metric space is
+given as the critical index p of p-energies associated with the partition and the weight function
+corresponding to the metric. 

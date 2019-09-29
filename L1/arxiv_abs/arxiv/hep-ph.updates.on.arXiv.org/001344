@@ -1,0 +1,16 @@
+A key question for machine learning approaches in particle physics is how to best represent and learn
+from collider events. As an event is intrinsically a variable-length unordered set of particles,
+we build upon recent machine learning efforts to learn directly from sets of features or "point clouds".
+Adapting and specializing the "Deep Sets" framework to particle physics, we introduce Energy Flow
+Networks, which respect infrared and collinear safety by construction. We also develop Particle
+Flow Networks, which allow for general energy dependence and the inclusion of additional particle-level
+information such as charge and flavor. These networks feature a per-particle internal (latent)
+representation, and summing over all particles yields an overall event-level latent representation.
+We show how this latent space decomposition unifies existing event representations based on detector
+images and radiation moments. To demonstrate the power and simplicity of this set-based approach,
+we apply these networks to the collider task of discriminating quark jets from gluon jets, finding
+similar or improved performance compared to existing methods. We also show how the learned event
+representation can be directly visualized, providing insight into the inner workings of the model.
+These architectures lend themselves to efficiently processing and analyzing events for a wide
+variety of tasks at the Large Hadron Collider. Implementations and examples of our architectures
+are available online in our EnergyFlow package. 

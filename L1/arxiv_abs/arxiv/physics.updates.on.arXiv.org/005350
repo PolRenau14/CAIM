@@ -1,0 +1,16 @@
+Human contact networks are constituted by a multitude of individuals and pairwise contacts among
+them. However, the dynamic nature, which generates the evolution of human contact networks, of
+contact patterns is not known yet. Here, we analyse three empirical datasets and identify two crucial
+mechanisms of the evolution of temporal human contact networks, i.e. the activity state transition
+laws for an individual to be socially active, and the contact establishment mechanism that active
+individuals adopt. We consider both of the two mechanisms to propose a temporal network model, named
+the memory driven (MD) model, of human contact networks. Then we study the susceptible-infected
+(SI) spreading processes on empirical human contact networks and four corresponding temporal
+network models, and compare the full prevalence time of SI processes with various infection rates
+on the networks. The full prevalence time of SI processes in the MD model is the same as that in real-world
+human contact networks. Moreover, we find that the individual activity state transition promotes
+the spreading process, while, the contact establishment of active individuals suppress the prevalence.
+Apart from this, we observe that even a small percentage of individuals to explore new social ties
+is able to induce an explosive spreading on networks. The proposed temporal network framework could
+help the further study of dynamic processes in temporal human contact networks, and offer new insights
+to predict and control the diffusion processes on networks. 

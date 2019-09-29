@@ -1,0 +1,16 @@
+We discuss the observation of primary crack patterns on the surface of heated medium density fiberboard
+(MDF) round samples in inert atmosphere. A constant heat flux irradiates the wood surface, and the
+primary cracks seem to appear instantaneously at a temperature below the pyrolysis point, \textit{before}
+any actual charring. Such fissures were originally believed to form mainly by the action of physicochemical
+processes; on the contrary, we show here that below the pyrolysis temperatures this occurs by means
+of thermomechanical surface instability. The crack patterns can indeed be explained qualitatively
+by the simultaneous thermal expansion and softening of the hot surface layer, which is restrained
+by the colder wood beneath. This generates membrane compressive stresses leading to surface instability.
+Physically, this is a consequence of the thermomechanical properties of wood, which is a natural
+thermoplastic. In this paper, the macro-crack topology is reproduced by a full 3D thermomechanical
+instability model. We obtain the patterns by solving the according eigenvalue problem numerically,
+by Finite Element Method (FEM). We also formulate the model in 2D, assuming a circular soft thin plate
+bonded to an elastic foundation, and solve it both analytically and numerically. Finally, we compare
+our results with analogous crack patterns appearing on the surface of square samples, which we discussed
+in a previous study. We conclude that very different pattern symmetries (orthotropic, isotropic
+and circular) might be explained by the same model of thermomechanical surface instability. 

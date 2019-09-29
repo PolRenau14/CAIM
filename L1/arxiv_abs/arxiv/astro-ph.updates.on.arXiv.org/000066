@@ -1,0 +1,16 @@
+We investigate the gravitational lensing properties of lines of sight containing multiple cluster-scale
+halos, motivated by their ability to lens very high-redshift (z ~ 10) sources into detectability.
+We control for the total mass along the line of sight, isolating the effects of distributing the mass
+among multiple halos and of varying the physical properties of the halos. Our results show that multiple-halo
+lines of sight can increase the magnified source-plane region compared to the single cluster lenses
+typically targeted for lensing studies, and thus are generally better fields for detecting very
+high-redshift sources. The configurations that result in optimal lensing cross sections benefit
+from interactions between the lens potentials of the halos when they overlap somewhat on the sky,
+creating regions of high magnification in the source plane not present when the halos are considered
+individually. The effect of these interactions on the lensing cross section can even be comparable
+to changing the total mass of the lens from 10^15 M_sun to 3x10^15 M_sun. The gain in lensing cross
+section increases as the mass is split into more halos, provided that the lens potentials are projected
+close enough to interact with each other. A nonzero projected halo angular separation, equal halo
+mass ratio, and high projected halo concentration are the best mass configurations, whereas projected
+halo ellipticity, halo triaxiality, and the relative orientations of the halos are less important.
+Such high mass, multiple-halo lines of sight exist in the SDSS. 

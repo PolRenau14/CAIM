@@ -1,0 +1,16 @@
+In this paper we show how the cross-disciplinary transfer of techniques from Dynamical Systems
+Theory to Number Theory can be a fruitful avenue for research. We illustrate this idea by exploring
+from a nonlinear and symbolic dynamics viewpoint certain patterns emerging in some residue sequences
+generated from the prime number sequence. We show that the sequence formed by the residues of the
+primes modulo $k$ are maximally chaotic and, while lacking forbidden patterns, display a non-trivial
+spectrum of Renyi entropies which suggest that every block of size $m>1$, while admissible, occurs
+with different probability. This non-uniform distribution of blocks for $m>1$ contrasts Dirichlet's
+theorem that guarantees equiprobability for $m=1$. We then explore in a similar fashion the sequence
+of prime gap residues. This sequence is again chaotic (positivity of Kolmogorov-Sinai entropy),
+however chaos is weaker as we find forbidden patterns for every block of size $m>1$. We relate the
+onset of these forbidden patterns with the divisibility properties of integers, and estimate the
+densities of gap block residues via Hardy-Littlewood $k$-tuple conjecture. We use this estimation
+to argue that the amount of admissible blocks is non-uniformly distributed, what supports the fact
+that the spectrum of Renyi entropies is again non-trivial in this case. We complete our analysis
+by applying the Chaos Game to these symbolic sequences, and comparing the IFS attractors found for
+the experimental sequences with appropriate null models. 

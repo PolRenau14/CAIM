@@ -1,0 +1,16 @@
+The recently introduced General Data Protection Regulation (GDPR) requires that when obtaining
+information online that could be used to identify individuals, their consents must be obtained.
+Among other things, this affects many common forms of cookies, and users in the EU have been presented
+with notices asking their approvals for data collection. This paper examines the prevalence of
+third party cookies before and after GDPR by using two datasets: accesses to top 500 websites according
+to Alexa.com, and weekly data of cookies placed in users' browsers by websites accessed by 16 UK and
+China users across one year. We find that on average the number of third parties dropped by more than
+10% after GDPR, but when we examine real users' browsing histories over a year, we find that there
+is no material reduction in long-term numbers of third party cookies, suggesting that users are
+not making use of the choices offered by GDPR for increased privacy. Also, among websites which offer
+users a choice in whether and how they are tracked, accepting the default choices typically ends
+up storing more cookies on average than on websites which provide a notice of cookies stored but without
+giving users a choice of which cookies, or those that do not provide a cookie notice at all. We also
+find that top non-EU websites have fewer cookie notices, suggesting higher levels of tracking when
+visiting international sites. Our findings have deep implications both for understanding compliance
+with GDPR as well as understanding the evolution of tracking on the web. 

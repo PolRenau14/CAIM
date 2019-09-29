@@ -1,0 +1,16 @@
+We employ quantum Monte Carlo to obtain chemically accurate vertical and adiabatic excitation
+energies, and equilibrium excited-state structures for the small, yet challenging, formaldehyde
+and thioformaldehyde molecules. A key ingredient is a robust protocol to obtain balanced ground-
+and excited-state Jastrow-Slater wave functions at a given geometry, and to maintain such a balanced
+description as we relax the structure in the excited state. We use determinantal components generated
+via a selected configuration interaction scheme which targets the same second-order perturbation
+energy correction for all states of interest at different geometries, and we fully optimize all
+variational parameters in the resultant Jastrow-Slater wave functions. Importantly, the excitation
+energies as well as the structural parameters in the ground and excited states are converged with
+very compact wave functions comprising few thousand determinants in a minimally augmented double-$\zeta$
+basis set. These results are obtained already at the variational Monte Carlo level, the more accurate
+diffusion Monte Carlo method yielding only a small improvement in the adiabatic excitation energies.
+We find that matching Jastrow-Slater wave functions with similar variances can yield excitations
+compatible with our best estimates; however, the variance-matching procedure requires somewhat
+larger determinantal expansions to achieve the same accuracy, and it is less straightforward to
+adapt during structural optimization in the excited state. 

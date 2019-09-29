@@ -1,0 +1,16 @@
+Comets are thought to have information about the formation process of our solar system. Recently,
+detailed information about comet 67P/Churyumov-Gerasimenko has been found by a spacecraft mission
+Rosetta. It is remarkable that its tensile strength was estimated. In this paper, we measure and
+formulate the tensile strength of porous dust aggregates using numerical simulations, motivated
+by porous dust aggregation model of planetesimal formation. We perform three-dimensional numerical
+simulations using a monomer interaction model with periodic boundary condition. We stretch out
+a dust aggregate with a various initial volume filling factor between $10^{-2}$ and 0.5. We find
+that the tensile stress takes the maximum value at the time when the volume filling factor decreases
+to about a half of the initial value. The maximum stress is defined to be the tensile strength. We take
+an average of the results with 10 different initial shapes to smooth out the effects of initial shapes
+of aggregates. Finally, we numerically obtain the relation between the tensile strength and the
+initial volume filling factor of dust aggregates. We also use a simple semi-analytical model and
+successfully reproduce the numerical results, which enables us to apply to a wide parameter range
+and different materials. The obtained relation is consistent with previous experiments and numerical
+simulations about silicate dust aggregates. We estimate that the monomer radius of comet 67P has
+to be about 3.3--220 $\mathrm{\mu m}$ to reproduce its tensile strength using our model. 

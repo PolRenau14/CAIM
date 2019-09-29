@@ -1,0 +1,17 @@
+Consider the following problem: A multi-antenna base station (BS) sends multiple symbol streams
+to multiple single-antenna users via precoding. However, unlike conventional multiuser precoding,
+the transmitted signals are subjected to binary, unit-modulus, or even discrete unit-modulus
+constraints. Such constraints arise in the one-bit and constant-envelope (CE) massive MIMO scenarios,
+wherein high-resolution digital-to-analog converters (DACs) are replaced by one-bit DACs and
+phase shifters, respectively, for cutting down hardware cost and energy consumption. Multiuser
+precoding under one-bit and CE restrictions poses significant design difficulty. In this paper
+we establish a framework for designing multiuser precoding under the one-bit, continuous CE and
+discrete CE scenarios---all within one theme. We first formulate a precoding design that focuses
+on minimizations of symbol-error probabilities (SEPs), assuming quadrature amplitude modulation
+(QAM) constellations. We then devise an algorithm for our SEP-based design. The algorithm combines
+i) a novel penalty method for handling binary, unit-modulus and discrete unit-modulus constraints;
+and ii) a first-order non-convex optimization recipe custom-built for the design. Specifically,
+the latter is an inexact majorization-minimization method via accelerated projected gradient,
+which, as shown by simulations, runs very fast and can handle a large number of decision variables.
+Simulation results indicate that the proposed design offers significantly better bit-error rate
+performance than the existing designs. 

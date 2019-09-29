@@ -1,0 +1,16 @@
+In a multi-server system, how can one get better performance than random assignment of jobs to servers
+if queue-states cannot be queried by the dispatcher? A replication strategy has recently been proposed
+where $d$ copies of each arriving job are sent to servers chosen at random. The job's completion time
+is the first time that the service of any of its copies is complete. On completion, redundant copies
+of the job are removed from other queues so as not to overburden the system. For digital jobs, where
+the objects to be served can be algebraically manipulated, and for servers whose ouput is a linear
+function of their input, here we consider an alternate strategy: Maximum Distance Separable (MDS)
+codes. For every batch of $n$ digital jobs that arrive, $n+m$ linear combinations are created over
+the reals or a large finite field, and each coded job is sent to a random server. The batch completion
+time is the first time that any $n$ of the $n+m$ coded jobs are served, as the evaluation of $n$ original
+jobs can be recovered by Gaussian elimination. If redundant jobs can be removed from queues on batch
+completion, we establish that in order to get the improved response-time performance of sending
+$d$ copies of each of $n$ jobs via the replication strategy, with the MDS methodology it suffices
+to send $n+d$ jobs. That is, while replication is multiplicative, MDS is linear. If redunant jobs
+cannot be removed from queues on batch completion, the stability regions of the two strategies are
+distinct and the performance with MDS codes is better still. 

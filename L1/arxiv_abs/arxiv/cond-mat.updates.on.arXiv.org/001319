@@ -1,0 +1,16 @@
+As an exotic quantum condensed matter, the topological insulator (TI) is a bulk-insulating material
+with a Dirac-type conducting surface state. Such dissipationless transport of topological surface
+states (TSSs) is protected by the time-reversal symmetry, which leads to the potential applications
+in spintronics and quantum computations. Understanding the topological symplectic transport
+of the Dirac fermions is a key issue to study and design the TI-based devices. In this review, we introduce
+the progress on the universal conductance fluctuation (UCF) of TSSs. Firstly, we report the two
+dimensional UCF phenomenon in TIs, and its topological nature is demonstrated based on the investigations
+of UCF by angle-varying, in-plane field tuning and scaling analysis. Secondly, we discuss the statistical
+symmetry of UCF in TIs. For a single TSS, the applied magnetic field will drive the system from a Gaussian
+symplectic ensemble into a Gaussian unitary ensemble. It results a 2^0.5 fold increase of the UCF
+amplitude. However, the experiment reveals a decreasing of the UCF amplitude of 2^0.5 times. This
+is contradictory to the theoretical prediction. Actually, there are two TSSs and they are coherently
+coupled to each other in TIs since the sample's thickness is shorter than its bulk dephasing length.
+This leads to a Gaussian orthogonal ensemble of the interface coupling system without an external
+field. In such situation, the UCF amplitude will decrease by 2^0.5 times with the field increasing.
+It is consistent with the experimental results. Finally, the other progress on UCFs is also discussed.

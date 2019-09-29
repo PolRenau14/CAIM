@@ -1,0 +1,16 @@
+Data protection constraints frequently require distributed analysis of data, i.e. individual-level
+data remains at many different sites, but analysis nevertheless has to be performed jointly. The
+data exchange is often handled manually, requiring explicit permission before transfer, i.e.
+the number of data calls and the amount of data should be limited. Thus, only simple summary statistics
+are typically transferred and aggregated with just a single call, but this does not allow for complex
+statistical techniques, e.g., automatic variable selection for prognostic signature development.
+We propose a multivariable regression approach for building a prognostic signature by automatic
+variable selection that is based on aggregated data from different locations in iterative calls.
+To minimize the amount of transferred data and the number of calls, we also provide a heuristic variant
+of the approach. To further strengthen data protection, the approach can also be combined with a
+trusted third party architecture. We evaluate our proposed method in a simulation study comparing
+our results to the results obtained with the pooled individual data. The proposed method is seen
+to be able to detect covariates with true effect to a comparable extent as a method based on individual
+data, although the performance is moderately decreased if the number of sites is large. In a typical
+scenario, the heuristic decreases the number of data calls from more than 10 to 3. To make our approach
+widely available for application, we provide an implementation on top of the DataSHIELD framework.

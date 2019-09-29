@@ -1,0 +1,17 @@
+A remarkable feature of quantum theory is that particles with identical intrinsic properties must
+be treated as indistinguishable if the theory is to give valid predictions. In the quantum formalism,
+indistinguishability is expressed via the symmetrization postulate, which restricts a system
+of identical particles to the set of symmetric states (`bosons') or the set of antisymmetric states
+(`fermions'). However, the physical basis and range of validity of the symmetrization postulate
+has not been established. A well-known topological derivation of the postulate implies that its
+validity depends on the dimensionality of the space in which the particles move. However, this derivation
+relies on the labeling of indistinguishable particles, a notion that cannot be justified on an informational
+basis. Here we show that the symmetrization postulate can be derived by strictly adhering to the
+informational requirement that particles which cannot be experimentally distinguished from
+one another are not labeled. Our key novel postulate is the operational indistinguishability postulate,
+which posits that the amplitude of a process involving several indistinguishable particles is
+determined by the amplitudes of all possible transitions of these particles when treated as distinguishable.
+The symmetrization postulate follows by requiring consistency with the rest of the quantum formalism.
+The derivation implies that the symmetrization postulate admits no natural variants. In particular,
+the possibility that identical particles generically exhibit anyonic behavior in two dimensions
+is excluded. 

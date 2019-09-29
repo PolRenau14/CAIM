@@ -1,0 +1,16 @@
+Prior to the detection of black holes (BHs) via the gravitational waves (GWs) they generate at merger,
+the presence of BHs was inferred in X-ray binaries, mostly via dynamical measurements, with measured
+masses in the range between $\sim 5-20~M_\odot$. The LIGO discovery of the first BHs via GWs was surprising
+in that the two BHs that merged had masses of 35.6 and 28.6 $M_\odot$, which are both above the range
+inferred from X-ray binaries. With 10 binary BH detections to date, it has become apparent that,
+while the two distributions are not disjoint, they are most certainly distinct. In this Letter,
+we suggest that the reason for the apparent dichotomy is due to a predominance of different formation
+channels: isolated binary evolution for X-ray binaries, and dynamical exchanges in dense star
+clusters for the LIGO BHs. We show, via timescale arguments, that BHs in high-masss X-ray binaries
+are preferentially seen when they have lower mass accretors. We then perform high-resolution N-body
+simulations of a cluster of isolated BHs with a range of initial mass spectra, and show that BH binaries
+are preferentially formed by the most massive BHs, and additionally that these tend to be the tightest
+binaries (hence with shorter merger timescales). We also perform a simulation with neutron stars
+(NSs) in addition to BHs, more abundant by a factor of 5, and show that the formation of NS-BH binaries
+is $< 1\%$ that of BH-BH binaries, hence making the dynamical formation of NS-BH systems much less
+likely than that of binary BHs. 

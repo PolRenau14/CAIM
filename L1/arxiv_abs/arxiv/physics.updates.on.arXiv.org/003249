@@ -1,0 +1,16 @@
+We investigate a fermionic susceptible-infected-susceptible model with mobility of infected
+individuals on uncorrelated scale-free networks with a power-law degree distribution $P (k) \sim
+k^{-\gamma}$ of exponent $2<\gamma<3$. Two diffusive processes with diffusion rate $D$ of an infected
+vertex are considered. In the \textit{standard diffusion}, one of the nearest-neighbors is chosen
+with equal chance while in the \textit{biased diffusion} this choice happens with probability
+proportional to the neighbor's degree. A non-monotonic dependence of the epidemic threshold on
+$D$ with an optimum diffusion rate $D_\ast$, for which the epidemic spreading is more efficient,
+is found for standard diffusion while monotonic decays are observed in the biased case. The epidemic
+thresholds go to zero as the network size is increased and the form that this happens depends on the
+diffusion rule and degree exponent. Analyses on star and max $k$-core subgraphs explain several
+features of the diffusive epidemic process. We analytically investigated the dynamics using quenched
+and heterogeneous mean-field theories. The former present, in general, a better performance for
+standard and the latter for biased diffusion models, indicating different activation mechanisms
+of the epidemic phases that are rationalized in terms of hubs or max $k$-core subgraphs. The transition
+to the absorbing state is smeared for networks with $\gamma>2.5$ in the case of biased diffusion
+while a regular critical transition with diverging fluctuations is found for standard diffusion.

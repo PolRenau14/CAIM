@@ -1,0 +1,16 @@
+A famous conjecture (usually called Ryser's conjecture) that appeared in the Ph.D thesis of his
+student, J.~R.~Henderson [15], states that for an $r$-uniform $r$-partite hypergraph $\mathcal{H}$,
+the inequality $\tau(\mathcal{H})\le(r-1)\cdot \nu(\mathcal{H})$ always holds. This conjecture
+is widely open, except in the case of $r=2$, when it is equivalent to K\H onig's theorem [18], and in
+the case of $r=3$, which was proved by Aharoni in 2001 [3]. Here we study some special cases of Ryser's
+conjecture. First of all the most studied special case is when $\mathcal{H}$ is intersecting. Even
+for this special case, not too much is known: this conjecture is proved only for $r\le 5$ in [10,21].
+For $r>5$ it is also widely open. Generalizing the conjecture for intersecting hypergraphs, we
+conjecture the following. If an $r$-uniform $r$-partite hypergraph $\mathcal{H}$ is $t$-intersecting
+(i.e., every two hyperedges meet in at least $t<r$ vertices), then $\tau(\mathcal{H})\le r-t$.
+We prove this conjecture for the case $t> r/4$. Gy\'arf\'as [10] showed that Ryser's conjecture
+for intersecting hypergraphs is equivalent to saying that the vertices of an $r$-edge-colored
+complete graph can be covered by $r-1$ monochromatic components. Motivated by this formulation,
+we examine what fraction of the vertices can be covered by $r-1$ monochromatic components of \emph{different}
+colors in an $r$-edge-colored complete graph. We prove a sharp bound for this problem. Finally we
+prove Ryser's conjecture for the very special case when the maximum degree of the hypergraph is two.

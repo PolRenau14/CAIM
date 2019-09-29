@@ -1,0 +1,17 @@
+In this paper we investigate the problem of order batching for picker routing. Our approach is applicable
+to warehouses (storage areas) arranged in the standard rectangular grid layout, so with parallel
+aisles and two or more cross-aisles. The motivation underlying our work is online grocery shopping
+in which orders may be composed of dozens of items. The approach presented directly addresses order
+batching, but uses a distance approximation to influence the batching of orders without directly
+addressing the routing problem. We present a basic formulation based on deciding the orders to be
+batched together so as to optimise an objective that approximates the picker routing distance travelled
+(both the distance travelled within aisles and the distance travelled within cross-aisles). We
+extend our formulation by improving the cross-aisle distance approximation for cases where we
+have more than one block in the warehouse. We also extend the aisle distance approximation and present
+constraints to remove symmetry in order to lessen the computational effort required. Once order
+batching has been decided we optimally route each individual picker using a previous approach presented
+in the literature. Publicly available test problems involving up to 30 orders are solved using our
+distance approximation formulation to proven optimality. We consider both single and multiple
+block warehouse configurations. Our results indicate that our distance approximation approach
+yields very good estimates of the underlying routing distance, and hence very good assignments
+of orders to batches. 

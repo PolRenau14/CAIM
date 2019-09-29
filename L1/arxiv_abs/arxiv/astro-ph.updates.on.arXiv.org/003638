@@ -1,0 +1,16 @@
+We investigate cloud-cloud collisions, and GMC evolution, in hydrodynamic simulations of isolated
+galaxies. The simulations include heating and cooling of the ISM, self--gravity and stellar feedback.
+Over timescales $<5$ Myr most clouds undergo no change, and mergers and splits are found to be
+typically two body processes, but evolution over longer timescales is more complex and involves
+a greater fraction of intercloud material. We find that mergers, or collisions, occur every 8-10
+Myr (1/15th of an orbit) in a simulation with spiral arms, and once every 28 Myr (1/5th of an orbit)
+with no imposed spiral arms. Both figures are higher than expected from analytic estimates, as clouds
+are not uniformly distributed in the galaxy. Thus clouds can be expected to undergo between zero
+and a few collisions over their lifetime. We present specific examples of cloud--cloud interactions
+in our results, including synthetic CO maps. We would expect cloud--cloud interactions to be observable,
+but find they appear to have little or no impact on the ISM. Due to a combination of the clouds' typical
+geometries, and moderate velocity dispersions, cloud--cloud interactions often better resemble
+a smaller cloud nudging a larger cloud. Our findings are consistent with the view that spiral arms
+make little difference to overall star formation rates in galaxies, and we see no evidence that collisions
+likely produce massive clusters. However, to confirm the outcome of such massive cloud collisions
+we ideally need higher resolution simulations. 

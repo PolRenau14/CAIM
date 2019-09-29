@@ -1,0 +1,17 @@
+As a power and bandwidth efficient modulation scheme, the optical spatial modulation (SM) technique
+has recently drawn increased attention in the field of visible light communications (VLC). To guarantee
+the number of bits mapped by the transmitter's index at each timeslot is an integer, the number of
+transmitters (i.e., light-emitting diodes) in the SM based VLC system is often set be a power of two.
+To break the limitation on the required number of transmitters and provide more design flexibility,
+this paper investigates the SM based VLC with an arbitrary number of transmitters. Initially, a
+channel adaptive bit mapping (CABM) scheme is proposed, which includes three steps: bit mapping
+in space domain, bit mapping in signal domain, and the channel adaptive mapping. The proposed CABM
+scheme allows operation with an arbitrary number of transmitters, and is verified to be an efficient
+scheme through numerical results. Based on the CABM scheme, the information-theoretical aspects
+of the SM based VLC are analyzed. The theoretical expression of the mutual information is first analyzed.
+However, it is very hard to evaluate system performance. To obtain more insights, a lower bound of
+the mutual information is derived, which is in closedform. Both theoretical analysis and numerical
+results show that the gap between the mutual information and its lower bound is small. Finally, to
+further improve the system performance, the precoding scheme is proposed for the SM based VLC. Numerical
+results show that the system performance improves dramatically when using the proposed precoding
+scheme. 

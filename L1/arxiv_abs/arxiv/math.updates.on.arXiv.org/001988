@@ -1,0 +1,16 @@
+We consider the ramp metering problem for a freeway stretch modeled by the Cell Transmission Model.
+Assuming perfect model knowledge and perfect traffic demand prediction, the ramp metering problem
+can be cast as a finite horizon optimal control problem with the objective of minimizing the Total
+Time Spent, i.e., the sum of the travel times of all drivers. For this reason, the application of Model
+Predictive Control (MPC) to the ramp metering problem has been proposed. However, practical tests
+on freeways show that MPC may not outperform simple, distributed feedback policies. Until now,
+a theoretical justification for this empirical observation was lacking. This work compares the
+performance of distributed, non-predictive policies to the optimal solution in an idealised setting,
+specifically, for monotonic traffic dynamics and assuming perfect model knowledge. To do so, we
+suggest a distributed, non-predictive policy and derive sufficient optimality conditions for
+the minimization of the Total Time Spent via monotonicity arguments. In a case study based on real-world
+traffic data, we demonstrate that these optimality conditions are only rarely violated. Moreover,
+we observe that the suboptimality resulting from such infrequent violations appears to be negligible.
+We complement this analysis with simulations in non-ideal settings, in particular allowing for
+model mismatch, and argue that Alinea, a successful, distributed ramp metering policy, comes close
+to the ideal controller both in terms of control behavior and in performance. 

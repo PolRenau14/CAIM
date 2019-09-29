@@ -1,0 +1,16 @@
+Wi-Fi channel state information (CSI) has emerged as a plausible modality for sensing different
+human activities as a function of modulations in the wireless signal that travels between wireless
+devices. Until now, most research has taken a statistical approach and/or purpose-built inference
+pipeline. Although interesting, these approaches struggle to sustain sensing performances beyond
+experimental conditions. As such, the full potential of CSI as a general-purpose sensing modality
+is yet to be realised. We argue a universal approach with well-grounded formalisation is necessary
+to characterise the relationship between wireless channel modulations (spatial and temporal)
+and human movement. To this end, we present a formalism for quantifying the changing part of the wireless
+signal modulated by human motion. Grounded in this formal- isation, we then present a new subspace
+tracking technique to describe the channel statistics in an interpretable way, which succinctly
+contains the human modulated part of the channel. We characterise the signal and noise subspaces
+for the case of uncontrolled human movement. Our results demonstrate that proposed channel statistics
+alone can robustly reproduce state of the art application-specific feature engineering baseline,
+however, across multiple usage scenarios. We expect, our universal channel statistics will yield
+an effective general- purpose featurisation of wireless channel measurements and will uncover
+opportunities for applying CSI for a variety of human sensing applications in a robust way. 

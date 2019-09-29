@@ -1,0 +1,16 @@
+The paradigmatic spin-boson model considers a spin degree of freedom interacting with an environment
+typically constituted by a continuum of bosonic modes. This ubiquitous model is of relevance in
+a number of physical systems where, in general, one has neither control over the bosonic modes, nor
+the ability to tune distinct interaction mechanisms. Despite this apparent lack of control, we
+present a suitable transformation that approximately maps the spin-boson dynamics into that of
+a tunable multiphoton Jaynes-Cummings model undergoing dissipation. Interestingly, the latter
+model describes the coherent interaction between a spin and a single bosonic mode via the simultaneous
+exchange of n bosons per spin excitation. Resorting to the so-called reaction coordinate method,
+we identify a relevant collective bosonic mode in the environment which is then used to generate
+multiphoton interactions following the proposed theoretical framework. Moreover, we show that
+spin-boson models featuring structured environments can lead into non-Markovian multiphoton
+Jaynes-Cummings dynamics. We discuss the validity of the proposed method depending on the parameters
+and analyze its performance, which is supported by numerical simulations. In this manner, the spin-boson
+model serves as a good analog quantum simulator for the inspection and realization of multiphoton
+Jaynes-Cummings models as well as the interplay of non-Markovian effects, and thus, as a simulator
+of light-matter systems with tunable interaction mechanisms. 

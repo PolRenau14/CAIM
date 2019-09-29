@@ -1,0 +1,16 @@
+The notions of bounded expansion and nowhere denseness have been applied very successfully in algorithmic
+graph theory. We study the corresponding notions of directed bounded expansion and nowhere crownfulness
+on directed graphs. We show that red many of the algorithmic tools that were developed for undirected
+bounded expansion classes can, with some care, also be applied in their directed counterparts,
+and thereby we highlight a rich algorithmic structure theory of directed bounded expansion classes.
+More specifically, we show that the directed Steiner tree problem is fixed-parameter tractable
+on any class of directed bounded expansion parameterized by the number $k$ of non-terminals plus
+the maximal diameter $s$ of a strongly connected component in the subgraph induced by the terminals.
+Our result strongly generalizes a result of Jones et al., who proved that the problem is fixed parameter
+tractable on digraphs of bounded degeneracy if the set of terminals is required to be acyclic. We
+furthermore prove that for every integer $r\geq 1$, the distance-$r$ dominating set problem can
+be approximated up to a factor $O(\log k)$ and the connected distance-$r$ dominating set problem
+can be approximated up to a factor $O(k\cdot \log k)$ on any class of directed bounded expansion,
+where $k$ denotes the size of an optimal solution. If furthermore, the class is nowhere crownful,
+we are able to compute a polynomial kernel for distance-$r$ dominating sets. Polynomial kernels
+for this problem were not known to exist on any other existing digraph measure for sparse classes.

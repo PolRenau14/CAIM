@@ -1,0 +1,16 @@
+We used data from the QUEST-La Silla Active Galactic Nuclei (AGN) variability survey to construct
+light curves for 208,583 sources over $\sim 70$ deg$^2$, with a a limiting magnitude $r \sim 21$.
+Each light curve has at least 40 epochs and a length of $\geq 200$ days. We implemented a Random Forest
+algorithm to classify our objects as either AGN or non-AGN according to their variability features
+and optical colors, excluding morphology cuts. We tested three classifiers, one that only includes
+variability features (RF1), one that includes variability features and also $r-i$ and $i-z$ colors
+(RF2), and one that includes variability features and also $g-r$, $r-i$, and $i-z$ colors (RF3).
+We obtained a sample of high probability candidates (hp-AGN) for each classifier, with 5,941 candidates
+for RF1, 5,252 candidates for RF2, and 4,482 candidates for RF3. We divided each sample according
+to their $g-r$ colors, defining blue ($g-r\leq 0.6$) and red sub-samples ($g-r>0.6$). We find that
+most of the candidates known from the literature belong to the blue sub-samples, which is not necessarily
+surprising given that, unlike for many literature studies, we do not cut our sample to point-like
+objects. This means that we can select AGN that have a significant contribution from redshifted
+starlight in their host galaxies. In order to test the efficiency of our technique we performed spectroscopic
+follow-up, confirming the AGN nature of 44 among 54 observed sources (81.5\% of efficiency). From
+the campaign we concluded that RF2 provides the purest sample of AGN candidates. 

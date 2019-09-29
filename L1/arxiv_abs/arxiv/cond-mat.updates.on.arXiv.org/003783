@@ -1,0 +1,16 @@
+To formulate the universal constraints of quantum statistics data of generic long-range entangled
+quantum systems, we introduce the geometric-topology surgery theory on spacetime manifolds where
+quantum systems reside, cutting and gluing the associated quantum amplitudes, specifically in
+2+1 and 3+1 spacetime dimensions. First, we introduce the fusion data for worldline and worldsheet
+operators capable of creating anyonic excitations of particles and strings, well-defined in gapped
+states of matter with intrinsic topological orders. Second, we introduce the braiding statistics
+data of particles and strings, such as the geometric Berry matrices for particle-string Aharonov-Bohm,
+3-string, 4-string, or multi-string adiabatic loop braiding process, encoded by submanifold
+linkings, in the closed spacetime 3-manifolds and 4-manifolds. Third, we derive new `quantum surgery'
+formulas and constraints, analogous to Verlinde formula associating fusion and braiding statistics
+data via spacetime surgery, essential for defining the theory of topological orders, 3d and 4d TQFTs
+and potentially correlated to bootstrap boundary physics such as gapless modes, extended defects,
+2d and 3d conformal field theories or quantum anomalies. This article is meant to be an extended and
+further detailed elaboration of our previous work [arXiv:1602.05951] and Chapter 6 of [arXiv:1602.05569].
+Our theory applies to general quantum theories and quantum mechanical systems, also applicable
+to, but not necessarily requiring the quantum field theory description. 

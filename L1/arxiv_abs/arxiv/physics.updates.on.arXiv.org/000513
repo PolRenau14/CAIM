@@ -1,0 +1,17 @@
+As a direct consequence of the no-cloning theorem, the deterministic amplification as in classical
+communication is impossible for quantum states. This calls for more advanced techniques in a future
+global quantum network, e.g. for cloud quantum computing. A unique solution is the teleportation
+of an entangled state, i.e. entanglement swapping, representing the central resource to relay
+entanglement between distant nodes. Together with entanglement purification and a quantum memory
+it constitutes a so-called quantum repeater. Since the afore mentioned building blocks have been
+individually demonstrated in laboratory setups only, the applicability of the required technology
+in real-world scenarios remained to be proven. Here we present a free-space entanglement-swapping
+experiment between the Canary Islands of La Palma and Tenerife, verifying the presence of quantum
+entanglement between two previously independent photons separated by 143 km. We obtained an expectation
+value for the entanglement-witness operator, more than 6 standard deviations beyond the classical
+limit. By consecutive generation of the two required photon pairs and space-like separation of
+the relevant measurement events, we also showed the feasibility of the swapping protocol in a long-distance
+scenario, where the independence of the nodes is highly demanded. Since our results already allow
+for efficient implementation of entanglement purification, we anticipate our assay to lay the
+ground for a fully-fledged quantum repeater over a realistic high-loss and even turbulent quantum
+channel. 

@@ -1,0 +1,16 @@
+This paper studies the problem of allocating bandwidth and computation resources to data analytics
+tasks in Internet of Things (IoT) networks. IoT nodes are powered by batteries, can process (some
+of) the data locally, and the quality grade or performance of how data analytics tasks are carried
+out depends on where these are executed. The goal is to design a resource allocation algorithm that
+jointly maximizes the network lifetime and the performance of the data analytics tasks subject
+to energy constraints. This joint maximization problem is challenging with coupled resource constraints
+that induce non-convexity. We first show that the problem can be mapped to an equivalent convex problem,
+and then propose an online algorithm that provably solves the problem and does not require any a priori
+knowledge of the time-varying wireless link capacities and data analytics arrival process statistics.
+The algorithm's optimality properties are derived using an analysis which, to the best of our knowledge,
+proves for the first time the convergence of the dual subgradient method with time-varying sets.
+Our simulations seeded by real IoT device energy measurements, show that the network connectivity
+plays a crucial role in network lifetime maximization, that the algorithm can obtain both maximum
+network lifetime and maximum data analytics performance in addition to maximizing the joint objective,
+and that the algorithm increases the network lifetime by approximately 50% compared to an algorithm
+that minimizes the total energy consumption. 

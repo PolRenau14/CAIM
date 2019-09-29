@@ -1,0 +1,16 @@
+Load balancing at transport layer is an important function in data centers, content delivery networks,
+and mobile networks. This function has unique requirements and greatly impacts the end users' experience.
+Recent studies in the field have identified per-connection consistency (PCC) as the main requirement
+to produce efficient L4 load balancing and have proposed various solutions to achieve that goal.
+This paper identifies load imbalance among service instances as the main cause of additional processing
+times. Furthermore, existing load balancers rely on one of two methods: host-level traffic redirection,
+which may add as much as 8.5% additional traffic to underlying networks, or connection tracking,
+which consumes a considerable amount of memory in load balancers and is prone to denial of service
+attacks. Both of these methods result in inefficient usage of networking resources. We propose
+the In-Network Congestion-Aware load Balancer (INCAB) to achieve even load distribution and optimize
+network resources used for load balancing in addition to meeting the PCC requirement. We show that
+our congestion-aware solution capable of identifying and monitoring each instance's most-utilized
+resource improves the load distribution among all service instances. Our solution utilizes a Bloom
+filter and an ultra-compact connection table for in-network flow distribution and does not rely
+on end hosts for traffic redirection. Our flow level simulations show that INCAB improves flows'
+average completion time by 9.5%. 

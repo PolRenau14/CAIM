@@ -1,0 +1,17 @@
+In mammals, female germ cells are sheltered within somatic structures called ovarian follicles,
+which remain in a quiescent state until they get activated, all along reproductive life. We investigate
+the sequence of somatic cell events occurring just after follicle activation. We introduce a nonlinear
+stochastic model accounting for the joint dynamics of two cell types, either precursor or proliferative
+cells. The initial precursor cell population transitions progressively to a proliferative cell
+population, by both spontaneous and self-amplified processes. In the mean time, the proliferative
+cell population may start either a linear or exponential growing phase. A key issue is to determine
+whether cell proliferation is concomitant or posterior to cell transition, and to assess both the
+time needed for all precursor cells to complete transition and the corresponding increase in the
+cell number with respect to the initial cell number. Using the probabilistic theory of first passage
+times, we design a numerical scheme based on a rigorous Finite State Projection and coupling techniques
+to assess the mean extinction time and the cell number at extinction time. We also obtain analytical
+formulas for an approximating branching process. We calibrate the model parameters using an exact
+likelihood approach using both experimental and in-silico datasets. We carry out a comprehensive
+comparison between the initial model and a series of submodels, which help to select the critical
+cell events taking place during activation. We finally interpret these results from a biological
+viewpoint. 

@@ -1,0 +1,17 @@
+The predominantly ancient stellar populations observed in the lowest-mass galaxies (i.e. ultra-faint
+dwarfs) suggest that their star formation was suppressed by reionization. Most of the well-studied
+ultra-faint dwarfs, however, are within the central half of the Milky Way dark matter halo, such
+that they are consistent with a population that was accreted at early times and thus potentially
+quenched via environmental processes. To study the potential role of environment in suppressing
+star formation on the smallest scales, we utilize the Exploring the Local Volume in Simulations
+(ELVIS) suite of $N$-body simulations to constrain the distribution of infall times for low-mass
+subhalos likely to host the ultra-faint population. For the ultra-faint satellites of the Milky
+Way with star-formation histories inferred from $Hubble~Space~Telescope$ imaging, we find that
+environment is highly unlikely to play a dominant role in quenching their star formation. Even when
+including the potential effects of pre-processing, there is a $\lesssim 0.1\%$ probability that
+environmental processes quenched all of the known ultra-faint dwarfs early enough to explain their
+observed star-formation histories. Instead, we argue for a mass floor in the effectiveness of satellite
+quenching at roughly $M_{\star} \sim 10^{5}~M_{\odot}$, below which star formation in surviving
+galaxies is globally suppressed by reionization. We predict a large population of quenched ultra-faint
+dwarfs in the Local Field ($1 < R/R_{\rm{vir}} < 2$), with as many as $\sim250$ to be discovered by
+future wide-field imaging surveys. 

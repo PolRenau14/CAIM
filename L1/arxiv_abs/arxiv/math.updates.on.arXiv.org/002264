@@ -1,0 +1,16 @@
+Modern graph clustering applications require the analysis of large graphs and this can be computationally
+expensive. In this regard, local spectral graph clustering methods aim to identify well-connected
+clusters around a given "seed set" of reference nodes without accessing the entire graph. The celebrated
+Approximate Personalized PageRank (APPR) algorithm in the seminal paper by Andersen et al. is one
+such method. APPR was introduced and motivated purely from an algorithmic perspective. In other
+words, there is no a priori notion of objective function/optimality conditions that characterizes
+the steps taken by APPR. Here, we derive a novel variational formulation which makes explicit the
+actual optimization problem solved by APPR. In doing so, we draw connections between the local spectral
+algorithm of and an iterative shrinkage-thresholding algorithm (ISTA). In particular, we show
+that, appropriately initialized ISTA applied to our variational formulation can recover the sought-after
+local cluster in a time that only depends on the number of non-zeros of the optimal solution instead
+of the entire graph. In the process, we show that an optimization algorithm which apparently requires
+accessing the entire graph, can be made to behave in a completely local manner by accessing only a
+small number of nodes. This viewpoint builds a bridge across two seemingly disjoint fields of graph
+processing and numerical optimization, and it allows one to leverage well-studied, numerically
+robust, and efficient optimization algorithms for processing today's large graphs. 

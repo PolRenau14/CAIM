@@ -1,0 +1,16 @@
+The segmentation of a gaze trace into its constituent eye movements has been actively researched
+since the early days of eye tracking. As we move towards more naturalistic viewing conditions, the
+segmentation becomes even more challenging and convoluted as more complex patterns emerge. The
+definitions and the well-established methods that were developed for monitor-based eye tracking
+experiments are often not directly applicable to unrestrained set-ups such as eye tracking in wearable
+contexts or with head-mounted displays. The main contributions of this work to the eye movement
+research for 360-degree content are threefold: First, we collect, partially annotate, and make
+publicly available a new eye tracking data set, which consists of 13 participants viewing 15 video
+clips that are recorded in 360-degree. Second, we propose a new two-stage pipeline for ground truth
+annotation of the traditional fixations, saccades, smooth pursuits, as well as (optokinetic)
+nystagmus, vestibulo-ocular reflex, and pursuit of moving objects performed exclusively via
+the movement of the head. A flexible user interface for this pipeline is implemented and made freely
+accessible for use or modification. Lastly, we develop and test a simple proof-of-concept algorithm
+for automatic classification of all the eye movement types in our data set based on their operational
+definitions that were used for manual annotation. The data set and the source code for both the annotation
+tool and the algorithm are publicly available at https://web.gin.g-node.org/ioannis.agtzidis/360_em_dataset.

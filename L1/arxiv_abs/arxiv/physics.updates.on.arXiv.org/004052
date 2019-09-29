@@ -1,0 +1,16 @@
+During the initial phase of microwave (MW) power launch inside a MW discharge ion source (MDIS),
+plasma and the electric fields are evolved with time together in the plasma volume. The spatio-temporal
+evolution pattern in the cavity of a MDIS is reported here, highlighting the role of these electric
+fields on power coupling processes. Evolution of electric field and so power coupling processes
+are calculated using Finite Element Method (FEM). Unlike PIC/MCC or hybrid fluid, here FEM model
+uses time dependent Poisson solver through drift-diffusion approach. In presence of plasma gradient
+in the volume ambipolar electric field is generated which interacts with the MW electric field to
+form resultant total electric field which continuously vary during this evolution period. It is
+observed that main power coupling mechanism is electron cyclotron resonance (ECR) method, however
+with the evolution of plasma, the mode shifts from ECR to off-ECR type heating with time. Off-ECR
+heating in the form of upper-hybrid resonance (UHR) method, electro-static (ES) ion acoustic wave
+heating method are important heating mechanisms during the over-dense plasma condition, when
+density is above critical density for launched MW frequency, 2.45 GHz. An indirect verification
+of simulated temporal evolution of hot electron temperature and plasma density with the experiment,
+is done under similar configuration and operating environment. The experimental results are found
+to be agreed reasonably well with the simulation in the low power range. 

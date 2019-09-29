@@ -1,0 +1,16 @@
+In underlay cognitive radio networks (CRNs), the connectivity of secondary users (SUs) is difficult
+to be guaranteed due to the existence of primary users (PUs). Most prior studies only consider cognitive
+radio networks equipped with omni-directional antennas causing high interference at SUs. We name
+such CRNs with omni-directional antennas as Omn-CRNs. Compared with an omni-directional antenna,
+a directional antenna can concentrate the transmitting/receiving capability at a certain direction,
+consequently resulting in the less interference. In this paper, we investigate the connectivity
+of SUs in CRNs with directional antennas (named as Dir-CRNs). In particular, we derive closed-form
+expressions of the connectivity of SUs of both Dir-CRNs and Omn-CRNs, thus enabling tractability.
+We show that the connectivity of SUs is mainly affected by two constraints: the spectrum availability
+of SUs and the topological connectivity of SUs. Extensive simulations validate the accuracy of
+our proposed models. Meanwhile, we also show that Dir-CRNs can have higher connectivity than Omn-CRNs
+mainly due to the lower interference, the higher spectrum availability and the higher topological
+connectivity brought by directional antennas. Moreover, we also extend our analysis with consideration
+transmission power efficiency. The simulation results show that Dir-CRNs require less transmission
+power to establish links than Omn-CRNs. We further investigate the throughput capacity of SUs,
+which is shown to heavily depend on the connectivity of SUs. 

@@ -1,0 +1,17 @@
+Spatially resolved observations of protoplanetary discs are revealing that their inner regions
+can be warped or broken from the outer disc. A few mechanisms are known to lead to such 3D structures;
+among them, the interaction with a stellar companion. We perform a 3D SPH simulation of a circumbinary
+disc misaligned by $60^\circ$ with respect to the binary orbital plane. The inner disc breaks from
+the outer regions, precessing as a rigid body, and leading to a complex evolution. As the inner disc
+precesses, the misalignment angle between the inner and outer discs varies by more than $100^\circ$.
+Different snapshots of the evolution are post-processed with a radiative transfer code, in order
+to produce observational diagnostics of the process. Even though the simulation was produced for
+the specific case of a circumbinary disc, most of the observational predictions hold for any disc
+hosting a precessing inner rim. Synthetic scattered light observations show strong azimuthal
+asymmetries, where the pattern depends strongly on the misalignment angle between inner and outer
+disc. The asymmetric illumination of the outer disc leads to azimuthal variations of the temperature
+structure, in particular in the upper layers, where the cooling time is short. These variations
+are reflected in asymmetric surface brightness maps of optically thick lines, as CO $J$=3-2. The
+kinematical information obtained from the gas lines is unique in determining the disc structure.
+The combination of scattered light images and (sub-)mm lines can distinguish between radial inflow
+and misaligned inner disc scenarios. 

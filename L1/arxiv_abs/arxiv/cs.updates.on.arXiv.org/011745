@@ -1,0 +1,17 @@
+This paper proposes a fully homomorphic encryption encapsulated difference expansion (FHEE-DE)
+scheme for reversible data hiding in encrypted domain (RDH-ED). In the proposed scheme, we use key-switching
+and bootstrapping techniques to control the ciphertext extension and decryption failure. To realize
+the data extraction directly from the encrypted domain without the private key, a key-switching
+based least-significant-bit (KS-LSB) data hiding method has been designed. In application, the
+user first encrypts the plaintext and uploads ciphertext to the server. Then the server performs
+data hiding by FHEE-DE and KS-LSB to obtain the marked ciphertext. Additional data can be extracted
+directly from the marked ciphertext by the server without the private key. The user can decrypt the
+marked ciphertext to obtain the marked plaintext. Then additional data or plaintext can be obtained
+from the marked plaintext by using the standard DE extraction or recovery. A fidelity constraint
+of DE is introduced to reduce the distortion of the marked plaintext. FHEE-DE enables the server
+to implement FHEE-DE recovery or extraction on the marked ciphertext, which returns the ciphertext
+of original plaintext or additional data to the user. In addition, we simplified the homomorphic
+operations of the proposed universal FHEE-DE to obtain an efficient version. The Experimental
+results demonstrate that the embedding capacity, fidelity, and reversibility of the proposed
+scheme are superior to existing RDH-ED methods, and fully separability is achieved without reducing
+the security of encryption. 

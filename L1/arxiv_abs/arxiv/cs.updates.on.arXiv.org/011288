@@ -1,0 +1,17 @@
+Convolutional Neural Networks (CNNs) have gained a remarkable success on many real-world problems
+in recent years. However, the performance of CNNs is highly relied on their architectures. For some
+state-of-the-art CNNs, their architectures are hand-crafted with expertise in both CNNs and the
+investigated problems. To this end, it is difficult for researchers, who have no extended expertise
+in CNNs, to explore CNNs for their own problems of interest. In this paper, we propose an automatic
+architecture design method for CNNs by using genetic algorithms, which is capable of discovering
+a promising architecture of a CNN on handling image classification tasks. The proposed algorithm
+does not need any pre-processing before it works, nor any post-processing on the discovered CNN,
+which means it is completely automatic. The proposed algorithm is validated on widely used benchmark
+datasets, by comparing to the state-of-the-art peer competitors covering eight manually designed
+CNNs, four semi-automatically designed CNNs and additional four automatically designed CNNs.
+The experimental results indicate that the proposed algorithm achieves the best classification
+accuracy consistently among manually and automatically designed CNNs. Furthermore, the proposed
+algorithm also shows the competitive classification accuracy to the semi-automatic peer competitors,
+while reducing 10 times of the parameters. In addition, on the average the proposed algorithm takes
+only one percentage of computational resource compared to that of all the other architecture discovering
+algorithms. 

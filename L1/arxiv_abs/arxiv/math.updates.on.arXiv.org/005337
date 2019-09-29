@@ -1,0 +1,17 @@
+This paper presents a formulation of the reactive dynamic user equilibrium problem in continuum
+form using a network-level Macroscopic Fundamental Diagram (MFD). Compared to existing continuum
+models for cities -- all based in Hughes' pedestrian model in 2002 -- the proposed formulation (i)
+is consistent with reservoir-type models of the MFD literature, shedding some light into the connection
+between these two modeling approaches, (ii) can have destinations continuously distributed on
+the region, and (iii) can incorporate multi-commodity flows without additional numerical error.
+The proposed multi-reservoir numerical solution method treats the multi-commodity component
+of the model in Lagrangian coordinates, which is the natural representation to propagate origin-destination
+information (and any vehicle-specific characteristic) through the traffic stream. Fluxes between
+reservoir boundaries are computed in the Eulerian representation, and are used to calculate the
+speed of vehicles crossing the boundary. Simple examples are included that show the convergence
+of the model and its agreements with the available analytical solutions. We find that (i) when origins
+and destinations are uniformly distributed in a region, the distribution of the travel times can
+be approximated analytically, (ii) the magnitude of the detours from the optimal free-flow route
+due to congestion increase linearly with the inflow and decreases with the square of the speed, and
+(iii) the total delay of vehicles in the network converges to the analytical approximation when
+the size of reservoirs tends to zero. 

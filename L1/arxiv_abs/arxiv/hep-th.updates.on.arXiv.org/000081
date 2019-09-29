@@ -1,0 +1,17 @@
+These lectures aim at giving graduate students an introduction to and a working knowledge of path
+integral methods in a wide variety of fields in physics. Consequently, the lecture notes are organized
+in three main parts dealing with non-relativistic quantum mechanics, many-body physics and field
+theory. In the first part the basic concepts of path integrals are developed in the usual heuristic,
+non-mathematical way followed by standard examples and special applications including numerical
+evaluation of (euclidean) path integrals by Monte-Carlo methods with a program for the anharmonic
+oscillator. The second part deals with the application of path integrals in statistical mechanics
+and many-body problems treating the polaron problem, dissipative quantum systems, path integrals
+over ordinary and Grassmannian coherent states and perturbation theory for both bosons and fermions.
+Again a simple Fortran program is included for illustrating the use of strong-coupling methods.
+Finally, in the third part path integrals in relativistic quantum field theory are discussed. Standard
+topics like the generating functional for Green functions, perturbative expansions, effective
+actions and quantization of gauge theories are treated as well as special applications (the worldline
+formalism, spin in relativistic path integrals and the derivation of anomalies by path integral
+methods). The last section tries to give a simple introduction into lattice (gauge) field theory
+including a numerical example which can be run on a PC. The set of problems which accompanied the lectures
+is also included in the present notes. 

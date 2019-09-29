@@ -1,0 +1,16 @@
+We prove an approximate version of Carath\'{e}odory's theorem and present its algorithmic applications.
+In particular, given a set of vectors $X$ in $\mathbb{R}^d$, we show that for every vector in the convex
+hull of $X$ there exists a nearby (under the $p$-norm distance, for $2\leq p < \infty$) vector
+that can be expressed as a convex combination of at most $b$ vectors of $X$, where the bound $b$ is independent
+of the dimension $d$. Using this theorem we establish that in a bimatrix game with $ n \times n$ payoff
+matrices $A, B$, if the number of non-zero entries in any column of $A+B$ is at most $s$ then an approximate
+Nash equilibrium of the game can be computed in time $n^t$, where $t$ has a logarithmic dependence
+on $s$. Hence, our algorithm provides a novel understanding of the time required to compute an approximate
+Nash equilibrium in terms of the column sparsity $s$ of $A+B$. This, in particular, gives us a polynomial-time
+approximation scheme for Nash equilibrium in games with fixed column sparsity $s$. Moreover, for
+arbitrary bimatrix games---since $s$ can be at most $n$---the running time of our algorithm matches
+the best-known upper bound, which is obtained in [Lipton, Markakis, and Mehta 2003]. The theorem
+also leads to an additive approximation algorithm for the densest $k$-bipartite subgraph problem.
+Given a graph with $n$ vertices and maximum degree $d$, the developed algorithm determines a $k \times
+k$ bipartite subgraph with near (in the additive sense) optimal density in time $n^t$, where $t$
+has a logarithmic dependence on the degree $d$. 

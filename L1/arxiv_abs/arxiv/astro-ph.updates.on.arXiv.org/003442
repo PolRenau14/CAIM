@@ -1,0 +1,17 @@
+Very-high energy gamma-rays from extragalactic sources pair-produce off of the extragalactic
+background light, yielding an electron-positron pair beam. This pair beam is unstable to various
+plasma instabilities, especially the "oblique" instability, which can be the dominant cooling
+mechanism for the beam. However, recently, it has been claimed that nonlinear Landau damping renders
+it physically irrelevant by reducing the effective damping rate to a low level. Here, we show with
+numerical calculations that the effective damping rate is $8\times 10^{-4}$ of the growth rate
+of the linear instability, which is sufficient for the "oblique" instability to be the dominant
+cooling mechanism of these pair beams. In particular, we show that previous estimates of this rate
+ignored the exponential cutoff in the scattering amplitude at large wavenumber and assumed that
+the damping of scattered waves entirely depends on collisions, ignoring collisionless processes.
+We find that the total wave energy eventually grows to approximate equipartition with the beam by
+increasingly depositing energy into long wavelength modes. As we have not included the effect of
+nonlinear wave-wave interactions on these long wavelength modes, this scenario represents the
+"worst-case" scenario for the oblique instability. As it continues to drain energy from the beam
+at a faster rate than other processes, we conclude that the "oblique" instability is sufficiently
+strong to make it the physically dominant cooling mechanism for high-energy pair beams in the intergalactic
+medium. 

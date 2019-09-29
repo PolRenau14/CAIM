@@ -1,0 +1,17 @@
+Quantitative extensions of parity games have recently attracted significant interest. These
+extensions include parity games with energy and payoff conditions as well as finitary parity games
+and their generalization to parity games with costs. Finitary parity games enjoy a special status
+among these extensions, as they offer a native combination of the qualitative and quantitative
+aspects in infinite games: The quantitative aspect of finitary parity games is a quality measure
+for the qualitative aspect, as it measures the limit superior of the time it takes to answer an odd
+color by a larger even one. Finitary parity games have been extended to parity games with costs, where
+each transition is labeled with a nonnegative weight that reflects the costs incurred by taking
+it. We lift this restriction and consider parity games with costs with arbitrary integer weights.
+We show that solving such games is in NP $\cap$ coNP, the signature complexity for games of this type.
+We also show that the protagonist has finite-state winning strategies, and provide tight pseudo-polynomial
+bounds for the memory he needs to win the game. Naturally, the antagonist may need infinite memory
+to win. Moreover, we present tight bounds on the quality of winning strategies for the protagonist.
+Furthermore, we investigate the problem of determining, for a given threshold $b$, whether the
+protagonist has a strategy of quality at most $b$ and show this problem to be EXPTIME-complete. The
+protagonist inherits the necessity of exponential memory for implementing such strategies from
+the special case of finitary parity games. 

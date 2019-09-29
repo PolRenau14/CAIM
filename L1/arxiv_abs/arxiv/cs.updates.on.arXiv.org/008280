@@ -1,0 +1,16 @@
+The efficacy of drug treatments depends on how tightly small molecules bind to their target proteins.
+The rapid and accurate quantification of the strength of these interactions (as measured by binding
+affinity) is a grand challenge of computational chemistry, surmounting which could revolutionize
+drug design and provide the platform for patient-specific medicine. Recent evidence suggests
+that molecular dynamics (MD) can achieve useful predictive accuracy (< 1 kcal/mol). For this predictive
+accuracy to impact clinical decision making, binding free energy computational campaigns must
+provide results rapidly and without loss of accuracy. This demands advances in algorithms, scalable
+software systems, and efficient utilization of supercomputing resources. We introduce a framework
+called HTBAC, designed to support accurate and scalable drug binding affinity calculations, while
+marshaling large simulation campaigns. We show that HTBAC supports the specification and execution
+of free-energy protocols at scale. This paper makes three main contributions: (1) shows the importance
+of adaptive execution for ensemble-based free energy protocols to improve binding affinity accuracy;
+(2) presents and characterizes HTBAC -- a software system that enables the scalable and adaptive
+execution of binding affinity protocols at scale; and (3) for a widely used free-energy protocol
+(TIES), shows improvements in the accuracy of simulations for a fixed amount of resource, or reduced
+resource consumption for a fixed accuracy as a consequence of adaptive execution. 

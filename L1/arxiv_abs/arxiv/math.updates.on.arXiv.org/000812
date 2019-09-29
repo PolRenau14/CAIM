@@ -1,0 +1,16 @@
+In order to obtain the best-known guarantees, algorithms are traditionally tailored to the particular
+problem we want to solve. Two recent developments, the Unique Games Conjecture (UGC) and the Sum-of-Squares
+(SOS) method, surprisingly suggest that this tailoring is not necessary and that a single efficient
+algorithm could achieve best possible guarantees for a wide range of different problems. The Unique
+Games Conjecture (UGC) is a tantalizing conjecture in computational complexity, which, if true,
+will shed light on the complexity of a great many problems. In particular this conjecture predicts
+that a single concrete algorithm provides optimal guarantees among all efficient algorithms for
+a large class of computational problems. The Sum-of-Squares (SOS) method is a general approach
+for solving systems of polynomial constraints. This approach is studied in several scientific
+disciplines, including real algebraic geometry, proof complexity, control theory, and mathematical
+programming, and has found applications in fields as diverse as quantum information theory, formal
+verification, game theory and many others. We survey some connections that were recently uncovered
+between the Unique Games Conjecture and the Sum-of-Squares method. In particular, we discuss new
+tools to rigorously bound the running time of the SOS method for obtaining approximate solutions
+to hard optimization problems, and how these tools give the potential for the sum-of-squares method
+to provide new guarantees for many problems of interest, and possibly to even refute the UGC. 

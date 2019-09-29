@@ -1,0 +1,16 @@
+Gamma ray bursts with blackbody spectra are only a few and in most cases this spectral component is
+accompanied by a dominating non-thermal one. Only four bursts detected by Batse have a pure blackbody
+spectrum throughout their duration. We present the new case of GRB 100507 detected by the Gamma Burst
+Monitor on board the Fermi satellite. GRB 100507 has a blackbody spectrum for the entire duration
+(~30 s) of the prompt emission. The blackbody temperature varies between 25 and 40 keV. The flux varies
+between 1e-7 and 4e-7 erg/cm2 s. There is no clear evidence of a correlation between the temperature
+and the blackbody flux. If the thermal emission in GRB 100507 is due to the fireballs becoming transparent,
+we can estimate the radius R_T and bulk Lorentz factor Gamma_T corresponding to this transition
+and the radius R_0 where the fireballs are created. We compare these parameters with those derived
+for the other four bursts with a pure blackbody spectrum. In all but one burst, for fiducial assumptions
+on the radiative efficiency and distance of the sources, R_0~1e9-1e10 cm, i.e. much larger than
+the gravitational radius of a few solar mass black hole. Possible solutions of this apparent inconsistency
+are tentatively discussed considering the dependence of R_0 on the unknown parameters. Alternatively,
+such a large R_0 could be where the fireball, still opaque, converts most of its kinetic energy into
+internal energy (due to the impact with some material left over by the progenitor star) and starts
+to re-accelerate. 

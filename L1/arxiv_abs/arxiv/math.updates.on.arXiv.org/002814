@@ -1,0 +1,17 @@
+Providing secure communications over the physical layer has been receiving growing attention
+within the past decade. The vast majority of the existing studies in the area of physical layer security
+focus exclusively on the scenarios where the channel inputs are Gaussian distributed. However,
+in practice, the signals employed for transmission are drawn from discrete signal constellations
+such as phase shift keying and quadrature amplitude modulation. Hence, understanding the impact
+of the finite-alphabet input constraints and designing secure transmission schemes under this
+assumption is a mandatory step towards a practical implementation of physical layer security.
+With this motivation, this article reviews recent developments on physical layer security with
+finite-alphabet inputs. We explore transmit signal design algorithms for single-antenna as well
+as multi-antenna wiretap channels under different assumptions on the channel state information
+at the transmitter. Moreover, we present a review of the recent results on secure transmission with
+discrete signaling for various scenarios including multi-carrier transmission systems, broadcast
+channels with confidential messages, cognitive multiple access and relay networks. Throughout
+the article, we stress the important behavioral differences of discrete and Gaussian inputs in
+the context of the physical layer security. We also present an overview of the practical code construction
+over Gaussian and fading wiretap channels, and we discuss some open problems and directions for
+future research. 

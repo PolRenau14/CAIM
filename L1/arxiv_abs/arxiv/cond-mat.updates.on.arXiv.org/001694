@@ -1,0 +1,16 @@
+Topological orders and associated topological protected excitations satisfying Abelian or non-Abelian
+statistics have been widely explored in various platforms. In recent years, the Majorana zero modes
+with these features have been realized in experiments based on semiconductor and superconducting
+hybrid structures, opening an exciting avenue for realization of fault-tolerant topological
+quantum computations. The $\mathbb{Z}_3$ parafermions are regarded as the most natural generation
+of the Majorana fermions for realizing of more intriguing topological orders. In this work, we investigate
+the topological phase and emergent fermions in an extended parafermion chain using exact numerical
+methods. This model exhibits rich variety of phases, including threefold degenerate topological
+ferromagnetic phase, trivial paramagnetic phase, XX phase, dimer phase, chiral phase and commensurate
+phase. We present a smooth connection between this model and the extended spin-${1\over 2}$ XX model,
+by which we can generalize their measurements, such as the order parameters and long-range spin-spin
+correlations {\it etc}, to fully characterize the properties of these phases and map out their corresponding
+phase diagram. Strikingly, we find that all the phase boundaries finally merge to a single supercritical
+point, determined by the extended three-state Potts model. This approach opens a wide range of intriguing
+applications in investigating the phases and emergent phenomena in other $\mathbb{Z}_k$ parafermion
+models, and may be also illuminating for their experimental realizations. 

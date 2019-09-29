@@ -1,0 +1,16 @@
+We propose a novel concept of $(k,m)$-connectivity in mobile clustered wireless networks, in which
+there are $n$ mobile cluster members and $n^d$ static cluster heads, where $k,m,d$ are all positive
+constants and $k\leq m$. $(k,m)$-connectivity signifies that in a time period consisting of $m$
+time slots, there exist at least $k$ time slots for each cluster member and in any one of these $k$ time
+slots the cluster member can directly communicate with at least one cluster head. We investigate
+the critical transmission range of asymptotic $(k,m)$-connectivity when cluster members move
+according to random walk or i.i.d. mobility model. Under random walk mobility, we propose two general
+heterogeneous velocity models in which cluster members may move with different velocities. Under
+both mobility models, we also define weak and strong parameters conditions, resulting in different
+accuracies of evaluations on the probability that the network is asymptotically $(k,m)$-connected,
+denoted as $P(\mathcal {C})$ below for simplicity. For both mobilities, under weak parameters
+condition, we provide bounds on $P(\mathcal {C})$ and derive the critical transmission range for
+$(k,m)$-connectivity. For random walk mobility with one kind of velocity model and i.i.d. mobility,
+under strong parameters condition, we present a precise asymptotic probability distribution
+of $P(\mathcal {C})$ in terms of the transmission radius. Our results offer fundamental insights
+and theoretical guidelines on design of large-scale wireless networks. 

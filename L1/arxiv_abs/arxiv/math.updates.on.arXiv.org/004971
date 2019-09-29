@@ -1,0 +1,16 @@
+We prove a new result in the area of qualitative recurrence. Currently, there is a lot of papers showing
+that the recurrence in dynamical systems is often faster than the Birkhoff's Ergodic Theorem and
+Kac's Lemma would suggest. We provide an opposite counterpart to these results by proving that the
+hitting times into shrinking balls are also often much larger then these theorems would suggest,
+by showing that for many dynamical systems $$ \displaystyle \limsup_{r\to 0} \tau_{B(y,r)}(x)\mu(B(y,r))=+\infty,
+$$ for an appropriately large, at least of full measure, set of points $y$ and $x$. We first do this
+for all transitive open distance expanding maps and Gibbs/equilibrium states of H\"older continuous
+potentials; in particular for all irreducible subshifts of finite type with a finite alphabet.
+Then we prove such result for all finitely irreducible subshifts of finite type with a countable
+alphabet and Gibbs/equilibrium states for H\"older continuous summable potentials. Next, we
+show that the \emph{limsup} result holds for all graph directed Markov systems (far going natural
+generalizations of iterated function systems) and projections of aforementioned Gibbs states
+on their limit sets. By utilizing the first return map techniques, we then prove the \emph{limsup}
+result for all tame topological Collect--Eckmann multimodal maps of an interval, all tame topological
+Collect--Eckmann rational functions of the Riemann sphere, and all dynamically semi--regular
+transcendental meromorphic functions from $\mathbb{C}$ to $\widehat{\mathbb C}$. 

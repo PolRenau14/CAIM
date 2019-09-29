@@ -1,0 +1,17 @@
+We present a deep learning model, DE-LSTM, for the simulation of a stochastic process with an underlying
+nonlinear dynamics. The deep learning model aims to approximate the probability density function
+of a stochastic process via numerical discretization and the underlying nonlinear dynamics is
+modeled by the Long Short-Term Memory (LSTM) network. It is shown that, when the numerical discretization
+is used, the function estimation problem can be solved by a multi-label classification problem.
+A penalized maximum log likelihood method is proposed to impose a smoothness condition in the prediction
+of the probability distribution. We show that the time evolution of the probability distribution
+can be computed by a high-dimensional integration of the transition probability of the LSTM internal
+states. A Monte Carlo algorithm to approximate the high-dimensional integration is outlined.
+The behavior of DE-LSTM is thoroughly investigated by using the Ornstein-Uhlenbeck process and
+noisy observations of nonlinear dynamical systems; Mackey-Glass time series and forced Van der
+Pol oscillator. It is shown that DE-LSTM makes a good prediction of the probability distribution
+without assuming any distributional properties of the stochastic process. For a multiple-step
+forecast of the Mackey-Glass time series, the prediction uncertainty, denoted by the 95\% confidence
+interval, first grows, then dynamically adjusts following the evolution of the system, while in
+the simulation of the forced Van der Pol oscillator, the prediction uncertainty does not grow in
+time even for a 3,000-step forecast. 

@@ -1,0 +1,17 @@
+We investigate the abundance, small-scale clustering and galaxy-galaxy lensing signal of galaxies
+in the Baryon Oscillation Spectroscopic Survey (BOSS). To this end, we present new measurements
+of the redshift and stellar mass dependence of the lensing properties of the galaxy sample. We analyse
+to what extent models assuming the Planck18 cosmology fit to the number density and clustering can
+accurately predict the small-scale lensing signal. In qualitative agreement with previous BOSS
+studies at redshift $z \sim 0.5$ and with results from the Sloan Digital Sky Survey, we find that the
+expected signal at small scales ($0.1 < r_{\rm p} < 3 \, h^{-1} \mathrm{Mpc}$) is higher by $\sim 25\%$
+than what is measured. Here, we show that this result is persistent over the redshift range $0.1 <
+z < 0.7$ and for galaxies of different stellar masses. If interpreted as evidence for cosmological
+parameters different from the Planck CMB findings, our results imply $S_8 = \sigma_8 \sqrt{\Omega_{\rm
+m} / 0.3} = 0.744 \pm 0.015$, whereas $S_8 = 0.832 \pm 0.013$ for Planck18. However, in addition to
+being in tension with CMB results, such a change in cosmology alone does not accurately predict the
+lensing amplitude at larger scales. Instead, other often neglected systematics like baryonic
+feedback or assembly bias are likely contributing to the small-scale lensing discrepancy. We show
+that either effect alone, though, is unlikely to completely resolve the tension. Ultimately, a
+combination of the two effects in combination with a moderate change in cosmological parameters
+might be needed. 

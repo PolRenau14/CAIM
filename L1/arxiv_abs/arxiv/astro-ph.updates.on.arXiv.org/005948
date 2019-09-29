@@ -1,0 +1,16 @@
+The wealth of asteroseismic data for red-giant stars and the precision with which these data have
+been observed over the last decade calls for investigations to further understand the internal
+structures of these stars. The aim of this work is to validate a method to measure the underlying period
+spacing, coupling term and mode offset of pure gravity modes that are present in the deep interiors
+of red-giant stars. We subsequently investigate the physical conditions of the evanescent zone
+between the gravity mode cavity and the pressure mode cavity. We implement an alternative mathematical
+description to analyse observational data and to extract the underlying physical parameters that
+determine the frequencies of mixed modes. This description takes the radial order of the modes explicitly
+into account, which reduces its sensitivity to aliases. Additionally, and for the first time, this
+method allows us to constrain the gravity mode offset for red-giant stars. We determine the period
+spacing and the coupling term for the dipole modes within a few percent of literature values. Additionally,
+we find that the gravity mode offset varies on a star by star basis and should not be kept fixed in the
+analysis. Furthermore, we find that the coupling factor is logarithmically related to the physical
+width of the evanescent region normalised by the radius at which the evanescent zone is located.
+Finally, the local density contrast at the edge of the core of red giant branch models shows a tentative
+correlation with the offset. (abstract abriged) 

@@ -1,0 +1,16 @@
+We report a benchmark theoretical investigation of both adiabatic and vertical electron affinities
+of five DNA and RNA nucleobases: adenine, guanine, cytosine, thymine and uracil using state-of-the-art
+equation of motion coupled cluster (EOMCC) method. We have calculated the vertical electron affinity
+values of first five electron attached states of the DNA and RNA nucleobases and only the first electron
+attached state is found to be energetically accessible in gas phase. An analysis of the natural orbitals
+shows that the first electron attached states of uracil and thymine are valence-bound type and undergo
+significant structural changes on attachment of excess electron, which is reflected in the deviation
+of the adiabatic electron affinity from the vertical one. On the other hand, the first electron attached
+state of cytosine, adenine and guanine are dipole-bound type and their structure remain unaffected
+on attachment of an extra electron, which results in small deviation of adiabatic electron affinity
+from that of the vertical one. Vertical and adiabatic electron affinity values of all the DNA and
+RNA nucleobases are negative implying that the first electron attached state are not stable, but
+rather resonance states. Previously, reported theoretical studies had shown scattered results
+for electron affinities of DNA and RNA bases, with large deviations from experimental values. Our
+EOMCC computed values are in very good agreement with experimental values and can be used as a reliable
+benchmark for calibrating new theoretical methods. 

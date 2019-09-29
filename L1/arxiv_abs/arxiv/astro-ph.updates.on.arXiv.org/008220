@@ -1,0 +1,16 @@
+Pebble accretion is a promising process for decreasing growth timescales of planetary cores, allowing
+gas giants to form at wide orbital separations. However, nebular turbulence can reduce the efficiency
+of this gas-assisted growth. We present an order of magnitude model of pebble accretion, which calculates
+the impact of turbulence on the average velocity of small bodies, the radius for binary capture,
+and the sizes of the small bodies that can be accreted. We also include the effect of turbulence on
+the particle scale height, which has been studied in previous works. We find that turbulence does
+not prevent rapid growth in the high-mass regime: the last doubling time to the critical mass to trigger
+runaway gas accretion ($M \sim 10 \, M_\oplus$) is well within the disk lifetime even for strong ($\alpha
+\gtrsim 10^{-2}$) turbulence. We find that while the growth timescale is quite sensitive to the
+local properties of the protoplanetary disk, over large regimes of parameter space large cores
+grow in less than the disk lifetime if appropriately-sized small bodies are present. Instead, the
+effects of turbulence are most pronounced for low planetary masses. For strong turbulence the growth
+timescale is longer than the gas disk lifetime until the core reaches masses $\gtrsim 10^{-2}-10^{-1}
+M_\oplus$. A "Flow Isolation Mass", at which binary capture ceases, emerges naturally from our
+model framework. We comment that the dependence of this mass on orbital separation is similar to
+the semi-major axis distribution of solar-system cores. 

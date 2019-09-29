@@ -1,0 +1,16 @@
+In order to solve the unsupervised domain adaptation problem, some methods based on adversarial
+learning are proposed recently. These methods greatly attract people's eyes because of the better
+ability to learn the common representation space so that the feature distributions among many domains
+are ambiguous and non-discriminative. Although there are many discussions and results, the success
+of the methods implicitly funds on the assumption that the information of domains are fully transferrable.
+If the assumption is not satisfied, the influence of negative transfer may degrade domain adaptation.
+In this paper, we proposed to relieve the negative effects by not only adversarial learning but also
+disentangled representation learning, and style transfer. In detail, our architecture disentangles
+the learned features into common parts and specific parts. The common parts represent the transferrable
+feature space, whereas the specific parts characterize the unique style of each individual domain.
+Moreover, we proposed to exchange specific feature parts across domains for image style transfer.
+These designs allow us to introduce five types of training objectives to enhance domain adaptation
+and realize style transfer. In our experiments, we evaluated domain adaptation on three standard
+digit datasets. The results show that our architecture can be adaptive well to full transfer learning
+and partial transfer learning. As a side product, the trained network also demonstrates high potential
+to generate style-transferred images. 

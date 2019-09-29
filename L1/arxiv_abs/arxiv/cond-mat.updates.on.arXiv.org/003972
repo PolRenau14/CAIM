@@ -1,0 +1,17 @@
+Extended defects with one dimensionality smaller than that of the host, such as 2D grain boundaries
+in 3D materials or 1D grain boundaries in 2D materials, can be particularly damaging since they directly
+impede the transport of charge, spin or heat, and can introduce a metallic character into otherwise
+semiconducting systems. Unfortunately, a technique to rapidly and non-destructively image 1D
+defects in 2D materials is lacking. Scanning transmission electron microscopy (STEM), Raman,
+photoluminescence and nonlinear optical spectroscopies, are all extremely valuable, but current
+implementations suffer from low throughput and a destructive nature (STEM) or limitations in their
+unambiguous sensitivity at the nanoscale. Here we demonstrate that dark-field second harmonic
+generation (SHG) microscopy can rapidly, efficiently, and non-destructively probe grain boundaries
+and edges in monolayer dichalcogenides (i.e. MoSe2, MoS2 and WS2). Dark-field SHG efficiently
+separates the spatial components of the emitted light and exploits interference effects from crystal
+domains of different orientations to localize grain boundaries and edges as very bright 1D patterns
+through a Cerenkov-type SHG emission. The frequency dependence of this emission in MoSe2 monolayers
+is explained in terms of plasmon-enhanced SHG related to the defects metallic character. This new
+technique for nanometer-scale imaging of the grain structure, domain orientation and localized
+1D plasmons in 2D different semiconductors, thus enables more rapid progress towards both applications
+and fundamental materials discoveries. 

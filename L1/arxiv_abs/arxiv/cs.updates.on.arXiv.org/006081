@@ -1,0 +1,16 @@
+The idea of dynamic move chains has been described in a preceding paper [13]. Re-using an earlier
+piece of search allows the tree to be forward-pruned, which is known to be dangerous, because that
+can remove new information which would only be realised through a more exhaustive search process.
+This paper has added to the forward-pruning technique by using 'Move Tables' that can act in the same
+way as Transposition Tables, but for moves not positions. They use an efficient memory structure
+and has put the design into the context of short and long-term memories. The long-term memory uses
+a play path with weight reinforcement, while the short-term memory can be immediately added or removed.
+Therefore, 'long branches' can play a short path, before returning to a full search at the resulting
+leaf nodes. Automatic feature analysis is now central to the search algorithm, where key squares
+and related squares can be generated automatically and used to guide the search process. Also using
+the analysis, if a search result is inferior, it can re-insert un-played moves that cover these key
+squares, thereby correcting those tactical errors. In particular, a type of move that the forward-pruning
+will fail on is recognised and a solution to that problem is suggested. This process reduces some
+gains made by forward-pruning but has created an intelligent framework that could make it more reliable.
+This has completed the theory of an earlier paper and resulted in a more human-like approach to searching
+for a chess move. 

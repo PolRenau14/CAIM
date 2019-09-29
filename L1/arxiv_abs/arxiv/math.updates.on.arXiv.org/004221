@@ -1,0 +1,17 @@
+We consider a binary hypothesis testing problem using Wireless Sensor Networks (WSNs). The decision
+is made by a fusion center and is based on received data from the sensors. We focus on a spectrum and
+energy efficient transmission scheme used to reduce the spectrum usage and energy consumption
+during the detection task. We propose a Spectrum and Energy Efficient Multiple Access (SEEMA) transmission
+protocol that performs a censoring-type transmission based on the density of observations using
+multiple access channels (MAC). Specifically, in SEEMA, only sensors with highly informative
+observations transmit their data in each data collection. The sensors transmit a common shaping
+waveform and the fusion center receives a superposition of the analog transmitted signals. SEEMA
+has important advantages for detection tasks in WSNs. First, it is highly energy and bandwidth efficient
+due to transmission savings and narrowband transmission over MAC. Second, it can be implemented
+by simple dumb sensors (oblivious to observation statistics, and local data processing is not required)
+which simplifies the implementation as compared to existing MAC transmission schemes for detection
+in WSNs. We establish a finite sample analysis and an asymptotic analysis of the error probability
+with respect to the network size and provide system design conditions to obtain the exponential
+decay of the error. Specific performance analysis is developed for common non-i.i.d. observation
+scenarios, including local i.i.d. observations, and Markovian correlated observations. Numerical
+examples demonstrate SEEMA performance. 

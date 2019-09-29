@@ -1,0 +1,16 @@
+The Circinus galaxy is one of the nearest obscured AGN, making it an ideal target for detailed study.
+Combining archival Chandra and XMM-Newton data with new NuSTAR observations, we model the 2-79
+keV spectrum to constrain the primary AGN continuum and to derive physical parameters for the obscuring
+material. Chandra's high angular resolution allows a separation of nuclear and off-nuclear galactic
+emission. In the off-nuclear diffuse emission we find signatures of strong cold reflection, including
+high equivalent-width neutral Fe lines. This Compton-scattered off-nuclear emission amounts
+to 18% of the nuclear flux in the Fe line region, but becomes comparable to the nuclear emission above
+30 keV. The new analysis no longer supports a prominent transmitted AGN component in the observed
+band. We find that the nuclear spectrum is consistent with Compton-scattering by an optically-thick
+torus, where the intrinsic spectrum is a powerlaw of photon index $\Gamma = 2.2-2.4$, the torus has
+an equatorial column density of $N_{\rm H} = (6-10)\times10^{24}$cm$^{-2}$ and the intrinsic
+AGN $2-10$ keV luminosity is $(2.3-5.1)\times 10^{42}$ erg/s. These values place Circinus along
+the same relations as unobscured AGN in accretion rate-vs-$\Gamma$ and $L_X$-vs-$L_{IR}$ phase
+space. NuSTAR's high sensitivity and low background allow us to study the short time-scale variability
+of Circinus at X-ray energies above 10 keV for the first time. The lack of detected variability favors
+a Compton-thick absorber, in line with the the spectral fitting results. 

@@ -1,0 +1,16 @@
+We introduce Pixie, a novel, camera based two factor authentication solution for mobile and wearable
+devices. A quick and familiar user action of snapping a photo is sufficient for Pixie to simultaneously
+perform a graphical password authentication and a physical token based authentication, yet it
+does not require any expensive, uncommon hardware. Pixie establishes trust based on both the knowledge
+and possession of an arbitrary physical object readily accessible to the user, called trinket.
+Users choose their trinkets similar to setting a password, and authenticate by presenting the same
+trinket to the camera. The fact that the object is the trinket, is secret to the user. Pixie extracts
+robust, novel features from trinket images, and leverages a supervised learning classifier to
+effectively address inconsistencies between images of the same trinket captured in different
+circumstances. Pixie achieved a false accept rate below 0.09% in a brute force attack with 14.3 million
+authentication attempts, generated with 40,000 trinket images that we captured and collected
+from public datasets. We identify master images, that match multiple trinkets, and study techniques
+to reduce their impact. In a user study with 42 participants over 8 days in 3 sessions we found that
+Pixie outperforms text based passwords on memorability, speed, and user preference. Furthermore,
+Pixie was easily discoverable by new users and accurate under field use. Users were able to remember
+their trinkets 2 and 7 days after registering them, without any practice between the 3 test dates.

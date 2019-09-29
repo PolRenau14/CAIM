@@ -1,0 +1,17 @@
+We theoretically consider a quantum magnetic impurity weakly coupled to a superconductor and obtain
+the spectrum of subgap Yu-Shiba-Rusinov (YSR) states taking into account the effect of quantum
+fluctuations, anisotropy and thermal excitations. We consider the experimentally relevant case
+of a quantum impurity with easy- or hard-axis uniaxial anisotropy term $H_\text{anis}=-D\left(S^z\right)^2$,
+which typically arise in magnetic atoms deposited on the surface of clean metals due to the presence
+of strong spin-orbit coupling and lack of inversion symmetry. Quantum fluctuations are taken into
+account at second-order in the coupling $J_K$ in the impurity Green's functions self-energy, and
+considerably modify the subgap spectrum compared to the classical-spin approximation. For an
+impurity with easy-axis anisotropy (parameter $D>0$), when either the spin $S\rightarrow \infty$
+or the anisotropy parameter $D\rightarrow \infty$, the classical results are recovered very slowly
+(i.e., as $1/S$ or $1/D$, respectively), implying that this limit is very hard to reach experimentally.
+On the other hand, when $D<0$ (hard-axis anisotropy) the impurity never reaches the classical limit,
+and the position of the YSR states differ considerably from the usual formulas. Importantly, at
+finite temperature a thermally-excited quasiparticle continuum induced by the anisotropy arises
+inside the $T=0$ gap, and cannot be reproduced within the classical approximation. Our results
+point towards the importance of taking into account quantum fluctuations for the correct interpretation
+of STM experiments. 

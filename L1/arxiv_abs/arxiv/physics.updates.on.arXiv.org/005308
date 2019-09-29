@@ -1,0 +1,16 @@
+This paper addresses a reflection-type dual-band 2-bit coding metasurface (CM) design to achieve
+the dual-band functionalities in two different operating bands, independently. We are particularly
+interested to control linearly-polarized incident waves by encoding the propagation / dynamic
+phase in order to realize and fully control the orbital angular momentum (OAM) vortex beam (VB) for
+dual-band, independently. In this regard, we perform digital addition operations to combine the
+coding sequences of traditional OAM and phase-gradient to construct the proposed CM. The proposed
+CM generates and steers the OAM-VB with different topological charges in both lower and higher bands,
+independently. Similarly, the proposed CM is further extended for OAM-VB shaping by combining
+the coding sequences of traditional OAM and splitting phase unit-cells, and, we discuss two different
+scenarios. Firstly, OAM-VB splitting is performed to achieve different topological charges in
+both lower and higher bands, independently. Secondly, quad-beam shaping is realized to verify
+the proposed concept of this paper. Finally yet importantly, we also examine that the reflected
+beam directions can be further independently controlled to achieve anomalous, negative and retro-reflection
+at two different operating bands. The proposed concept will open up possibilities of multi-functional
+meta-devices and will be useful in many applications such as optical spanners, quantum optics,
+spatial mode multiplexing for telecommunications, and astronomy etc. 

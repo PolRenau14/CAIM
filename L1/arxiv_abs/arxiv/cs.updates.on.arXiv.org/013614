@@ -1,0 +1,16 @@
+We propose a method to solve online mixed-integer optimization (MIO) problems at very high speed
+using machine learning. By exploiting the repetitive nature of online optimization, we are able
+to greatly speedup the solution time. Our approach encodes the optimal solution into a small amount
+of information denoted as strategy using the Voice of Optimization framework proposed in [BS18].
+In this way the core part of the optimization algorithm becomes a multiclass classification problem
+which can be solved very quickly. In this work we extend that framework to real-time and high-speed
+applications focusing on parametric mixed-integer quadratic optimization (MIQO). We propose
+an extremely fast online optimization algorithm consisting of a feedforward neural network (NN)
+evaluation and a linear system solution where the matrix has already been factorized. Therefore,
+this online approach does not require any solver nor iterative algorithm. We show the speed of the
+proposed method both in terms of total computations required and measured execution time. We estimate
+the number of floating point operations (flops) required to completely recover the optimal solution
+as a function of the problem dimensions. Compared to state-of-the-art MIO routines, the online
+running time of our method is very predictable and can be lower than a single matrix factorization
+time. We benchmark our method against the state-of-the-art solver Gurobi obtaining from two to
+three orders of magnitude speedups on benchmarks with real-world data. 

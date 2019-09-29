@@ -1,0 +1,17 @@
+Using the Atacama Large Millimeter/submillimeter Array (ALMA), we have conducted a blind redshift
+survey in the 3 mm atmospheric transmission window for 26 strongly lensd dusty star-forming galaxies
+(DSFGs) selected with the South Pole Telescope (SPT). The sources were selected to have S_1.4mm>20
+mJy and a dust-like spectrum and, to remove low-z sources, not have bright radio (S_843MHz<6mJy)
+or far-infrared counterparts (S_100um<1 Jy, S_60um<200mJy). We robustly detect 44 line
+features in our survey, which we identify as redshifted emission lines of 12CO, 13CO, [CI], H2O,
+and H2O+. We find one or more spectral features in 23 sources yielding a ~90% detection rate for this
+survey; in 12 of these sources we detect multiple lines, while in 11 sources we detect only a single
+line. For the sources with only one detected line, we break the redshift degeneracy with additional
+spectroscopic observations if available, or infer the most likely line identification based on
+photometric data. This yields secure redshifts for ~70% of the sample. The three sources with no
+lines detected are tentatively placed in the redshift desert between 1.7<z<2.0. The resulting
+mean redshift of our sample is <z>=3.5. This finding is in contrast to the redshift distribution
+of radio-identified DSFGs, which have a significantly lower mean redshift of <z>=2.3 and
+for which only 10-15% of the population is expected to be at z>3. We discuss the effect of gravitational
+lensing on the redshift distribution and compare our measured redshift distribution to that of
+models in the literature. 

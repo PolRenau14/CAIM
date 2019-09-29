@@ -1,0 +1,16 @@
+Due to the complexity of cancer, clustering algorithms have been used to disentangle the observed
+heterogeneity and identify cancer subtypes that can be treated specifically. While kernel based
+clustering approaches allow the use of more than one input matrix, which is an important factor when
+considering a multidimensional disease like cancer, the clustering results remain hard to evaluate
+and, in many cases, it is unclear which piece of information had which impact on the final result.
+In this paper, we propose an extension of multiple kernel learning clustering that enables the characterization
+of each identified patient cluster based on the features that had the highest impact on the result.
+To this end, we combine feature clustering with multiple kernel dimensionality reduction and introduce
+FIPPA, a score which measures the feature cluster impact on a patient cluster. Results: We applied
+the approach to different cancer types described by four different data types with the aim of identifying
+integrative patient subtypes and understanding which features were most important for their identification.
+Our results show that our method does not only have state-of-the-art performance according to standard
+measures (e.g., survival analysis), but, based on the high impact features, it also produces meaningful
+explanations for the molecular bases of the subtypes. This could provide an important step in the
+validation of potential cancer subtypes and enable the formulation of new hypotheses concerning
+individual patient groups. Similar analysis are possible for other disease phenotypes. 

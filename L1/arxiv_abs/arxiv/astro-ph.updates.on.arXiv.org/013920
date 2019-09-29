@@ -1,0 +1,16 @@
+Upcoming weak lensing surveys require a detailed theoretical understanding of the matter power
+spectrum in order to derive accurate and precise cosmological parameter values. While galaxy formation
+is known to play an important role, its precise effects are currently unknown. We present a set of
+92 matter power spectra from the OWLS, cosmo-OWLS and BAHAMAS simulation suites, including different
+$\Lambda$CDM cosmologies, neutrino masses, subgrid prescriptions and AGN feedback strengths.
+We conduct a detailed investigation of the dependence of the relative difference between the total
+matter power spectra in hydrodynamical and collisionless simulations on the effectiveness of
+stellar and AGN feedback, cosmology and redshift. The strength of AGN feedback can greatly affect
+the power on a range of scales, while a lack of stellar feedback can greatly increase the effectiveness
+of AGN feedback on large scales. We also examine differences in the initial conditions of hydrodynamic
+and N-body simulations that can lead to a ~1% discrepancy in the large-scale power, and furthermore
+show our results to be insensitive to cosmic variance. We present an empirical model capable of predicting
+the effect of galaxy formation on the matter power spectrum at z=0 to within 1% for k<1 h/Mpc, given
+only the mean baryon fraction in galaxy groups. Differences in group baryon fractions can also explain
+the quantitative disagreement between predictions from the literature. All total and dark matter
+only power spectra in this library will be made publicly available at powerlib.strw.leidenuniv.nl.

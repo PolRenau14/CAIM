@@ -1,0 +1,16 @@
+Imbalanced data with a skewed class distribution are common in many real-world applications. Deep
+Belief Network (DBN) is a machine learning technique that is effective in classification tasks.
+However, conventional DBN does not work well for imbalanced data classification because it assumes
+equal costs for each class. To deal with this problem, cost-sensitive approaches assign different
+misclassification costs for different classes without disrupting the true data sample distributions.
+However, due to lack of prior knowledge, the misclassification costs are usually unknown and hard
+to choose in practice. Moreover, it has not been well studied as to how cost-sensitive learning could
+improve DBN performance on imbalanced data problems. This paper proposes an evolutionary cost-sensitive
+deep belief network (ECS-DBN) for imbalanced classification. ECS-DBN uses adaptive differential
+evolution to optimize the misclassification costs based on training data, that presents an effective
+approach to incorporating the evaluation measure (i.e. G-mean) into the objective function. We
+first optimize the misclassification costs, then apply them to deep belief network. Adaptive differential
+evolution optimization is implemented as the optimization algorithm that automatically updates
+its corresponding parameters without the need of prior domain knowledge. The experiments have
+shown that the proposed approach consistently outperforms the state-of-the-art on both benchmark
+datasets and real-world dataset for fault diagnosis in tool condition monitoring. 

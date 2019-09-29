@@ -1,0 +1,17 @@
+For sensitive infrared interferometry, it is crucial to control the differential piston evolution
+between the used telescopes. This is classically done by the use of a fringe tracker. In this work,
+we develop a new method to reconstruct the temporal piston variation from the atmosphere, by using
+real-time data from adaptive optics wavefront sensing: the Piston Reconstruction Experiment
+(P-REx). In order to understand the principle performance of the system in a realistic multilayer
+atmosphere it is first extensively tested in simulations. The gained insights are then used to apply
+P-REx to real data, in order to demonstrate the benefit of using P-REx as an auxiliary system in a real
+interferometer. All tests show positive results, which encourages further research and eventually
+a real implementation. Especially the tests on on-sky data showed that the atmosphere is, under
+decent observing conditions, sufficiently well structured and stable, in order to apply P-REx.
+It was possible to conveniently reconstruct the piston evolution in two-thirds of the datasets
+from good observing conditions (r$_0$ $\sim$ 30 cm). The main conclusion is that applying the piston
+reconstruction in a real system would reduce the piston variation from around 10 $\mu$m down to 1-2
+$\mu$m over timescales of up to two seconds. This suggests an application for mid-infrared interferometry,
+for example for MATISSE at the VLTI or the LBTI. P-REx therefore provides the possibility to improve
+interferometric measurements without the need for more complex AO systems than already in regular
+use at 8m-class telescopes. 

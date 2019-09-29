@@ -1,0 +1,17 @@
+Recent progress in learning theory has led to the emergence of provable algorithms for training
+certain families of neural networks. Under the assumption that the training data is sampled from
+a suitable generative model, the weights of the trained networks obtained by these algorithms recover
+(either exactly or approximately) the generative model parameters. However, the large majority
+of these results are only applicable to supervised learning architectures. In this paper, we complement
+this line of work by providing a series of results for unsupervised learning with neural networks.
+Specifically, we study the familiar setting of shallow autoencoder architectures with shared
+weights. We focus on three generative models for the data: (i) the mixture-of-gaussians model,
+(ii) the sparse coding model, and (iii) the non-negative sparsity model. All three models are widely
+studied in the machine learning literature. For each of these models, we rigorously prove that under
+suitable choices of hyperparameters, architectures, and initialization, the autoencoder weights
+learned by gradient descent % -based training can successfully recover the parameters of the corresponding
+model. To our knowledge, this is the first result that rigorously studies the dynamics of gradient
+descent for weight-sharing autoencoders. Our analysis can be viewed as theoretical evidence that
+shallow autoencoder modules indeed can be used as unsupervised feature training mechanisms for
+a wide range of datasets, and may shed insight on how to train larger stacked architectures with autoencoders
+as basic building blocks. 

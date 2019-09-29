@@ -1,0 +1,16 @@
+Certain sequences of peptoid polymers (synthetic analogs of peptides) assemble into bilayer nanosheets
+via a nonequilibrium assembly pathway of adsorption, compression, and collapse at an air-water
+interface. As with other large-scale dynamic processes in biology and materials science, understanding
+the details of this supramolecular assembly process requires a modeling approach that captures
+behavior on a wide range of length and time scales, from those on which individual sidechains fluctuate
+to those on which assemblies of polymers evolve. Here we demonstrate that a new coarse-grained modeling
+approach is accurate and computationally efficient enough to do so. Our approach uses only a minimal
+number of coarse-grained sites, but retains independently fluctuating orientational degrees
+of freedom for each site. These orientational degrees of freedom allow us to accurately parameterize
+both bonded and nonbonded interactions, and to generate all-atom configurations with sufficient
+accuracy to perform atomic scattering calculations and to interface with all-atom simulations.
+We have used this approach to reproduce all available experimental X-ray scattering spectra (for
+stacked nanosheets, and for peptoids adsorbed at air-water interfaces and in solution), in order
+to resolve the microscopic, real-space structures responsible for these Fourier-space features.
+By interfacing with all-atom simulations, we have also laid the foundations for future multiscale
+simulations of sequence-specific polymers that communicate in both directions across scales.

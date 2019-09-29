@@ -1,0 +1,16 @@
+We study the meniscus on the outside of a small spherical particle with radius $R$ at a liquid-vapor
+interface. The liquid is confined in a cylindrical container with a finite radius $L$ and has a contact
+angle $\pi/2$ at the container surface. The center of the particle is placed at various heights along
+the central axis of the container. By varying $L$, we are able to systematically study the crossover
+of the meniscus from nanometer to macroscopic scales. The meniscus rise or depression on the particle
+is found to grow as $\ln (2L/R)$ when $R\ll L\ll \kappa^{-1}$ with $\kappa^{-1}$ being the capillary
+length and saturate to a value predicted by the Derjaguin-James formula when $R \ll \kappa^{-1}
+\ll L$. The capillary force on the particle exhibits a linear dependence on the particle's displacement
+from its equilibrium position at the interface when the displacement is small. The associated spring
+constant is found to be $2\pi\gamma\ln^{-1} (2L/R)$ for $L\ll \kappa^{-1}$ and saturates to $2\pi\gamma\ln^{-1}
+(3.7\kappa^{-1}/R)$ for $L\gg \kappa^{-1}$. At nanometer scales, we perform molecular dynamics
+simulations of the described geometry and the results agree well with the predictions of the macroscopic
+theory of capillarity. At micrometer to macroscopic scales, comparison to experiments by Anachkov
+\textit{et al.} [Soft Matter {\bf 12}, 7632 (2016)] shows that the finite span of a liquid-vapor
+or liquid-liquid interface needs to be considered to interpret experimental data collected with
+$L \sim \kappa^{-1}$. 

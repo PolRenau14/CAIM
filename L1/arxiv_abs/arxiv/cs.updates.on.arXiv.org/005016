@@ -1,0 +1,16 @@
+Contextualisation has proven to be effective in tailoring \linebreak search results towards the
+users' information need. While this is true for a basic query search, the usage of contextual session
+information during exploratory search especially on the level of browsing has so far been underexposed
+in research. In this paper, we present two approaches that contextualise browsing on the level of
+structured metadata in a Digital Library (DL), (1) one variant bases on document similarity and
+(2) one variant utilises implicit session information, such as queries and different document
+metadata encountered during the session of a users. We evaluate our approaches in a living lab environment
+using a DL in the social sciences and compare our contextualisation approaches against a non-contextualised
+approach. For a period of more than three months we analysed 47,444 unique retrieval sessions that
+contain search activities on the level of browsing. Our results show that a contextualisation of
+browsing significantly outperforms our baseline in terms of the position of the first clicked item
+in the result set. The mean rank of the first clicked document (measured as mean first relevant - MFR)
+was 4.52 using a non-contextualised ranking compared to 3.04 when re-ranking the result lists based
+on similarity to the previously viewed document. Furthermore, we observed that both contextual
+approaches show a noticeably higher click-through rate. A contextualisation based on document
+similarity leads to almost twice as many document views compared to the non-contextualised ranking.

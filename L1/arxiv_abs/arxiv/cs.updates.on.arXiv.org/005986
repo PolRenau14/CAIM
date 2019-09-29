@@ -1,0 +1,16 @@
+This paper considers one-hop device-to-device (D2D)-assisted wireless caching networks that
+cache video files of varying quality levels, with the assumption that the base station can control
+the video quality but cache-enabled devices cannot. Two problems arise in such a caching network:
+file placement problem and node association problem. This paper suggests a method to cache videos
+of different qualities, and thus of varying file sizes, by maximizing the sum of video quality measures
+that users can enjoy. There exists an interesting trade-off between video quality and video diversity,
+i.e., the ability to provision diverse video files. By caching high-quality files, the cache-enabled
+devices can provide high-quality video, but cannot cache a variety of files. Conversely, when the
+device caches various files, it cannot provide a good quality for file-requesting users. In addition,
+when multiple devices cache the same file but their qualities are different, advanced node association
+is required for file delivery. This paper proposes a node association algorithm that maximizes
+time-averaged video quality for multiple users under a playback delay constraint. In this algorithm,
+we also consider request collision, the situation where several users request files from the same
+device at the same time, and we propose two ways to cope with the collision: scheduling of one user
+and non-orthogonal multiple access. Simulation results verify that the proposed caching method
+and the node association algorithm work reliably. 

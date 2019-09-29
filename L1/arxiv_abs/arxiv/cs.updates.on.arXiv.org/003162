@@ -1,0 +1,16 @@
+Fine-grained object recognition that aims to identify the type of an object among a large number
+of subcategories is an emerging application with the increasing resolution that exposes new details
+in image data. Traditional fully supervised algorithms fail to handle this problem where there
+is low between-class variance and high within-class variance for the classes of interest with small
+sample sizes. We study an even more extreme scenario named zero-shot learning (ZSL) in which no training
+example exists for some of the classes. ZSL aims to build a recognition model for new unseen categories
+by relating them to seen classes that were previously learned. We establish this relation by learning
+a compatibility function between image features extracted via a convolutional neural network
+and auxiliary information that describes the semantics of the classes of interest by using training
+samples from the seen classes. Then, we show how knowledge transfer can be performed for the unseen
+classes by maximizing this function during inference. We introduce a new data set that contains
+40 different types of street trees in 1-ft spatial resolution aerial data, and evaluate the performance
+of this model with manually annotated attributes, a natural language model, and a scientific taxonomy
+as auxiliary information. The experiments show that the proposed model achieves 14.3% recognition
+accuracy for the classes with no training examples, which is significantly better than a random
+guess accuracy of 6.3% for 16 test classes, and three other ZSL algorithms. 

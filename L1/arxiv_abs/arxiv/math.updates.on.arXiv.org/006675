@@ -1,0 +1,17 @@
+The upcoming 5G networks demand high-speed and high spectral-efficiency communications to keep
+up with the proliferating traffic demands. To this end, Massive multiple-input multiple-output
+(MIMO) techniques have gained significant traction owing to its ability to achieve these without
+increasing bandwidth or density of base stations. The preexisting space-time block code (STBC)
+designs cannot achieve a rate of more than 1 for more than two transmit antennas while preserving
+the orthogonality and full diversity conditions. In this paper, we present Jagannath codes - a novel
+complex modulation STBC, that achieves a very high rate of 2 for three and four transmit antennas.
+The presented designs achieve full diversity and overcome the previously achieved rates with the
+three and four antenna MIMO systems. We present a detailed account of the code construction of the
+proposed designs, orthogonality and full diversity analysis, transceiver model and conditional
+maximum likelihood (ML) decoding. In an effort to showcase the improvement achieved with the presented
+designs, we compare the rates and delays of some of the known STBCs with the proposed designs. The
+effective spectral efficiency and coding gain of the presented designs are compared to the Asymmetric
+Coordinate Interleaved design (ACIOD) and Jafarkhani code. We presented an effective spectral
+efficiency improvement by a factor of 2 with the proposed Jagannath codes. Owing to the full diversity
+of the presented designs, we demonstrate significant coding gains (6 dB and 12 dB) with the proposed
+designs. 

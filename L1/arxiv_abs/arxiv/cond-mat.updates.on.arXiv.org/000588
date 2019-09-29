@@ -1,0 +1,17 @@
+We demonstrate that the dynamic nuclear polarization (DNP) of phosphorus donors in silicon can
+be very effective in a magnetic field of 4.6 T and at temperatures below 1 K. The DNP occurs due to the
+Overhauser effect following a cross relaxation via the forbidden flip-flop or flip-flip transitions.
+Nuclear polarization values $P>0.98$ were reached after 20 min of pumping with 0.4 $\mu$W of
+microwave power. We evaluated that the ratio of hyperfine state populations increased by three
+orders of magnitude after 2 hours of pumping, and an extremely pure nuclear spin system containing
+$<10^{-11}$ of the other spin state can be created. An inverted DNP has been obtained by pumping
+the low field ESR line of P followed by the flip-flip cross relaxation. This transition has much smaller
+relaxation rate and required substantially longer pumping times. We found that the nuclear polarization
+dynamics deviates substantially from a simple exponential function. The evolution of the polarization
+is characterized by two time constants $T^{'}_{ac}\approx$15 s in the beginning, and $T^{"}_{ac}\approx$1100
+s for long pumping time. Temperature dependence of the nuclear relaxation rate of $^{31}$P was studied
+down to 0.75 K, below which the relaxation time became too long to be measured. The nuclear polarization
+followed a bi-exponential time dependence during relaxation. We suggest that the non-exponential
+behavior of DNP dynamics and the subsequent relaxation is mediated by the nuclei of $^{29}$Si surrounding
+$^{31}$P donors, which affect the transition probabilities of the forbidden cross-relaxation
+processes. 

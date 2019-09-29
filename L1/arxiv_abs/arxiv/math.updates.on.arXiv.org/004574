@@ -1,0 +1,17 @@
+Mustafin varieties are flat degenerations of projective spaces, induced by a choice of an $n-$tuple
+of lattices in a vector space over a non-archimedean field. They were introduced by Mustafin in the
+70s in order to generalise Mumford's groundbreaking work on the unformisation of curves to higher
+dimension. These varieties have a rich combinatorial structure as can be seen in pioneering work
+of Cartwright, H\"abich, Sturmfels and Werner. In this paper, we introduce a new approach to Mustafin
+varieties in terms of images of rational maps, which were studied by Li. Applying tropical intersection
+theory and tropical convex hull computations, we use this method to give a new combinatorial description
+of the irreducible components of the special fibers of Mustafin varieties. This enables connections
+to various topics. In particular, we see that any multiview variety appears as an irreducible component
+of the special fiber of some Mustafin variety. Furthermore, we use an interpretation of Mustafin
+varieties as a moduli functor introduced by Faltings to relate them to certain moduli functors,
+called linked Grassmannians. These objects are featured in limit linear series theory. The focal
+point of study regarding linked Grassmannians are so-called \textit{simple points}. As a direct
+consequence of the new combinatorial description of Mustafin varieties, we prove that the simple
+points of linked Grassmannians are dense in every fiber. Finally, we use the connection to linked
+Grassmannians, to relate the special fibers of Mustafin varieties to certain local models of unitary
+Shimura varieties. 

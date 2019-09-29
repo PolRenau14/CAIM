@@ -1,0 +1,16 @@
+Photoacoustic computed tomography (PACT) is an emerging computed imaging modality that exploits
+optical contrast and ultrasonic detection principles to form images of the absorbed optical energy
+density within tissue. If the object possesses spatially variant acoustic properties that are
+unaccounted for by the reconstruction method, the estimated image can contain distortions. While
+reconstruction methods have recently been developed to compensate for this effect, they generally
+require the object's acoustic properties to be known a priori. To circumvent the need for detailed
+information regarding an object's acoustic properties, we previously proposed a half-time reconstruction
+method for PACT. A half-time reconstruction method estimates the PACT image from a data set that
+has been temporally truncated to exclude the data components that have been strongly aberrated.
+However, this method can be improved upon when the approximate sizes and locations of isolated heterogeneous
+structures, such as bones or gas pockets, are known. To address this, we investigate PACT reconstruction
+methods that are based on a variable data truncation (VDT) approach. The VDT approach represents
+a generalization of the half-time approach, in which the degree of temporal truncation for each
+measurement is determined by the distance between the corresponding ultrasonic transducer location
+and the nearest known bone or gas void location. Computer-simulated and experimental data are employed
+to demonstrate the effectiveness of the approach in mitigating artifacts due to acoustic heterogeneities.

@@ -1,0 +1,17 @@
+We carry out magnetohydrodynamic (MHD) simulations of the quasi-static evolution and eruption
+of a twisted coronal flux rope under a coronal streamer built up by an imposed flux emergence at the
+lower boundary. The MHD model incorporates a simple empirical coronal heating, optically thin
+radiative cooling, and field aligned thermal conduction, and thus allows the formation of prominence
+condensations. We find that during the quasi-static evolution, prominence/filament condensations
+of an elongated, sigmoid morphology form in the dips of the significantly twisted field lines of
+the emerged flux rope due to run-away radiative cooling. A prominence cavity also forms surrounding
+the prominence, which is best observed above the limb with the line-of-sight nearly along the length
+of the flux rope, as shown by synthetic SDO/AIA EUV images. The magnetic field supporting the prominence
+is significantly non-force-free despite the low plasma-beta. By comparing with a simulation that
+suppresses prominence formation, we find that the prominence weight is dynamically important
+and can suppress the onset of the kink instability and hold the flux rope in equilibrium for a significantly
+long time, until draining of the prominence plasma develops and lightens the prominence weight.
+The flux rope eventually develops the kink instability and erupts, producing a prominence eruption.
+The synthetic AIA 304 angstrom images show that the prominence is lifted up into an erupting loop,
+exhibiting helical features along the loop and substantial draining along the loop legs, as often
+seen in observations. 

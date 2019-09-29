@@ -1,0 +1,16 @@
+In modern distributed computing systems, unpredictable and unreliable infrastructures result
+in high variability of computing resources. Meanwhile, there is significantly increasing demand
+for timely and event-driven services with deadline constraints. Motivated by measurements over
+Amazon EC2 clusters, we consider a two-state Markov model for variability of computing speed in
+cloud networks. In this model, each worker can be either in a good state or a bad state in terms of the
+computation speed, and the transition between these states is modeled as a Markov chain which is
+unknown to the scheduler. We then consider a Coded Computing framework, in which the data is possibly
+encoded and stored at the worker nodes in order to provide robustness against nodes that may be in
+a bad state. With timely computation requests submitted to the system with computation deadlines,
+our goal is to design the optimal computation-load allocation scheme and the optimal data encoding
+scheme that maximize the timely computation throughput (i.e, the average number of computation
+tasks that are accomplished before their deadline). Our main result is the development of a dynamic
+computation strategy called Lagrange Estimate-and Allocate (LEA) strategy, which achieves the
+optimal timely computation throughput. It is shown that compared to the static allocation strategy,
+LEA increases the timely computation throughput by 1.4X - 17.5X in various scenarios via simulations
+and by 1.27X - 6.5X in experiments over Amazon EC2 clusters 

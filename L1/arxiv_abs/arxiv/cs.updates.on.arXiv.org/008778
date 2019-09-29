@@ -1,0 +1,16 @@
+Conventional Convolutional neural networks (CNN) are trained on large domain datasets and are
+hence typically over-represented and inefficient in limited class applications. An efficient
+way to convert such large many-class pre-trained networks into small few-class networks is through
+a hierarchical decomposition of its feature maps. To alleviate this issue, we propose an automated
+framework for such decomposition in Hierarchically Self Decomposing CNN (HSD-CNN), in four steps.
+HSD-CNN is derived automatically using a class-specific filter sensitivity analysis that quantifies
+the impact of specific features on a class prediction. The decomposed hierarchical network can
+be utilized and deployed directly to obtain sub-networks for a subset of classes, and it is shown
+to perform better without the requirement of retraining these sub-networks. Experimental results
+show that HSD-CNN generally does not degrade accuracy if the full set of classes are used. Interestingly,
+when operating on known subsets of classes, HSD-CNN has an improvement in accuracy with a much smaller
+model size, requiring much fewer operations. HSD-CNN flow is verified on the CIFAR10, CIFAR100
+and CALTECH101 data sets. We report accuracies up to $85.6\%$ ( $94.75\%$ ) on scenarios with 13 (
+4 ) classes of CIFAR100, using a pre-trained VGG-16 network on the full data set. In this case, the
+proposed HSD-CNN requires $3.97 \times$ fewer parameters and has $71.22\%$ savings in operations,
+in comparison to baseline VGG-16 containing features for all 100 classes. 

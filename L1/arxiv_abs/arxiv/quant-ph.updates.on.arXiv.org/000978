@@ -1,0 +1,16 @@
+The control and manipulation of quantum systems without excitation is challenging, due to the complexities
+in fully modeling such systems accurately and the difficulties in controlling these inherently
+fragile systems experimentally. For example, while protocols to decompress Bose-Einstein condensates
+(BEC) faster than the adiabatic timescale (without excitation or loss) have been well developed
+theoretically, experimental implementations of these protocols have yet to reach speeds faster
+than the adiabatic timescale. In this work, we experimentally demonstrate an alternative approach
+based on a machine learning algorithm which makes progress towards this goal. The algorithm is given
+control of the coupled decompression and transport of a metastable helium condensate, with its
+performance determined after each experimental iteration by measuring the excitations of the
+resultant BEC. After each iteration the algorithm adjusts its internal model of the system to create
+an improved control output for the next iteration. Given sufficient control over the decompression,
+the algorithm converges to a novel solution that sets the current speed record in relation to the
+adiabatic timescale, beating out other experimental realizations based on theoretical approaches.
+This method presents a feasible approach for implementing fast state preparations or transformations
+in other quantum systems, without requiring a solution to a theoretical model of the system. Implications
+for fundamental physics and cooling are discussed. 

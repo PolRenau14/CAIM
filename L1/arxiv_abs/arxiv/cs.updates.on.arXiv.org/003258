@@ -1,0 +1,17 @@
+Conventional electromagnetic transient (EMT) and phasor-domain hybrid simulation approaches
+presently exist for trans-mission system level studies. Their simulation efficiency is generally
+constrained by the EMT simulation. With an increasing number of distributed energy resources and
+non-conventional loads being installed in distribution systems, it is imperative to extend the
+hybrid simulation application to include distribution systems and integrated transmission and
+distribution systems. Meanwhile, it is equally important to improve the simulation efficiency
+as the modeling scope and complexity of the detailed system in the EMT simulation increases. To meet
+both requirements, this paper introduces an advanced EMT and phasor-domain hybrid simulation
+approach. This approach has two main features: 1) a comprehensive phasor-domain modeling framework
+which supports positive-sequence, three-sequence, three-phase and mixed three-sequence/three-phase
+representations and 2) a robust and flexible simulation mode switching scheme. The developed scheme
+enables simulation switching from hybrid simulation mode back to pure phasor-domain dynamic simulation
+mode to achieve significantly improved simulation efficiency. The proposed method has been tested
+on integrated transmission and distribution systems. The results show that with the developed
+simulation switching feature, the total computational time is significantly reduced compared
+to running the hybrid simulation for the whole simulation period, while maintaining good simulation
+accuracy. 

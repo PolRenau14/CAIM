@@ -1,0 +1,16 @@
+Software rejuvenation protects cyber-physical systems (CSPs) against cyber attacks on the run-time
+code by periodically refreshing the system with an uncorrupted software image. The system is vulnerable
+to attacks when it is communicating with other agents. Security is guaranteed during the software
+refresh and re-initialization by turning off all communication. Although the effectiveness of
+software rejuvenation has been demonstrated for some simple systems, many problems need to be addressed
+to make it viable for real applications. This paper expands the scope of CPS applications for which
+software rejuvenation can be implemented by introducing architectural and algorithmic features
+to support trajectory tracking. Following each software refresh, while communication is still
+off, a safety controller is executed to assure the system state is within a sufficiently small neighborhood
+of the current point on the reference trajectory. Communication is then re-established and the
+reference trajectory tracking control is resumed. A protected, verified hypervisor manages the
+software rejuvenation sequence and delivers trusted reference trajectory points, which may be
+received from untrusted communication, but are verified using an authentication process. We present
+the approach to designing the tracking and safety controllers and timing parameters and demonstrate
+the secure tracking control for a 6 DOF quadrotor using the PX4 jMAVSim quadrotor simulator. The
+concluding section discusses directions for further research. 

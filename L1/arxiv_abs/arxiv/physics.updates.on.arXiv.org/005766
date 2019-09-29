@@ -1,0 +1,16 @@
+We perform quantitative sub-surface Earth-imaging by setting up the Full Reciprocity-gap Waveform
+Inversion (FRgWI ) method. The reconstruction relies on iterative minimization of a misfit functional
+which is specifically designed for data obtained from dual-sensors devices. In addition to the
+pressure field, the dual-sensors devices are able to measure the normal velocity of the waves and
+have been deployed in exploration geophysics. The use of reciprocity-based misfit functional
+provides additional features compared to the more traditional least-squares approaches with,
+in particular, that the observational and computational acquisitions can be different. Therefore,
+the source positions and wavelets that generate the measurements are not needed for the reconstruction
+procedure and, in fact, the numerical acquisition (for the simulations) can be arbitrarily chosen.
+We illustrate our method with three-dimensional experiments, where we first show that the reciprocity-gap
+inversion behaves better than the Full Waveform Inversion (FWI) in the same context. Next, we investigate
+arbitrary numerical acquisitions in two ways: firstly, when few measurements are given, we use
+a dense numerical acquisition (compared to the observational one). On the other hand, with a dense
+observational acquisition, we employ a sparse computational acquisition, with multiple-point
+sources, to reduce the numerical cost. We highlight that the reciprocity-gap functional is very
+efficient in both situations and is much more robust with respect to cross-talk than shot-stacking.

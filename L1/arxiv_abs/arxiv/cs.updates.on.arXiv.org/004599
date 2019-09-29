@@ -1,0 +1,17 @@
+Scene parsing aims to assign a class (semantic) label for each pixel in an image. It is a comprehensive
+analysis of an image. Given the rise of autonomous driving, pixel-accurate environmental perception
+is expected to be a key enabling technical piece. However, providing a large scale dataset for the
+design and evaluation of scene parsing algorithms, in particular for outdoor scenes, has been difficult.
+The per-pixel labelling process is prohibitively expensive, limiting the scale of existing ones.
+In this paper, we present a large-scale open dataset, ApolloScape, that consists of RGB videos and
+corresponding dense 3D point clouds. Comparing with existing datasets, our dataset has the following
+unique properties. The first is its scale, our initial release contains over 140K images - each with
+its per-pixel semantic mask, up to 1M is scheduled. The second is its complexity. Captured in various
+traffic conditions, the number of moving objects averages from tens to over one hundred. And the
+third is the 3D attribute, each image is tagged with high-accuracy pose information at cm accuracy
+and the static background point cloud has mm relative accuracy. We are able to label these many images
+by an interactive and efficient labelling pipeline that utilizes the high-quality 3D point cloud.
+Moreover, our dataset also contains different lane markings based on the lane colors and styles.
+We expect our new dataset can deeply benefit various autonomous driving related applications that
+include but not limited to 2D/3D scene understanding, localization, transfer learning, and driving
+simulation. 

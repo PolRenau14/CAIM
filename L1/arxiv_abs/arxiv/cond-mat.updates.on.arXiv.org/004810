@@ -1,0 +1,17 @@
+It is shown that dimers is Yang-Baxter integrable as a six-vertex model at the free-fermion point
+with crossing parameter $\lambda=\tfrac{\pi}{2}$. A one-to-many mapping of vertex onto dimer
+configurations allows the free-fermion solutions to be applied to the anisotropic dimer model
+on a square lattice where the dimers are rotated by 45 degrees compared to their usual orientation.
+This dimer model is exactly solvable in geometries of arbitrary finite size. In this paper, we establish
+and solve inversion identities for dimers with periodic boundary conditions on the cylinder. In
+the particle representation, the local face tile operators give a representation of the fermion
+algebra and the fermion particle trajectories play the role of nonlocal (logarithmic) degrees
+of freedom. In a suitable gauge, the dimer model is described by the Temperley-Lieb algebra with
+loop fugacity $\beta=2\cos\lambda=0$. At the isotropic point, the exact solution allows for the
+explicit counting of 45 degrees rotated dimer configurations on a periodic $M\times N$ rectangular
+lattice. We show that the modular invariant partition function on the torus is the same as symplectic
+fermions and critical dense polymers. We also show that nontrivial Jordan cells appear for the dimer
+Hamiltonian on the strip with vacuum boundary conditions. We therefore argue that, in the continuum
+scaling limit, the dimer model gives rise to a {\em logarithmic} conformal field theory with central
+charge c=-2, minimal conformal weight $\Delta_{\text{min}}=-1/8$ and effective central charge
+$c_{\text{eff}}=1$. 

@@ -1,0 +1,16 @@
+We present a class of reduced basis (RB) methods for the iterative solution of parametrized symmetric
+positive-definite (SPD) linear systems. The essential ingredients are a Galerkin projection
+of the underlying parametrized system onto a reduced basis space to obtain a reduced system; an adaptive
+greedy algorithm to efficiently determine sampling parameters and associated basis vectors;
+an offline-online computational procedure and a multi-fidelity approach to decouple the construction
+and application phases of the reduced basis method; and solution procedures to employ the reduced
+basis approximation as a {\em stand-alone iterative solver} or as a {\em preconditioner} in the
+conjugate gradient method. We present numerical examples to demonstrate the performance of the
+proposed methods in comparison with multigrid methods. Numerical results show that, when applied
+to solve linear systems resulting from discretizing the Poisson's equations, the speed of convergence
+of our methods matches or surpasses that of the multigrid-preconditioned conjugate gradient method,
+while their computational cost per iteration is significantly smaller providing a feasible alternative
+when the multigrid approach is out of reach due to timing or memory constraints for large systems.
+Moreover, numerical results verify that this new class of reduced basis methods, when applied as
+a stand-alone solver or as a preconditioner, is capable of achieving the accuracy at the level of
+the {\em truth approximation} which is far beyond the RB level. 

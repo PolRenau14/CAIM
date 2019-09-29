@@ -1,0 +1,16 @@
+The making and breaking of H-bonds on highly anharmonic potential energy surfaces (PES) in proton
+and hydrogen transfer reactions require a full-dimensional quantum mechanical treatment of not
+only electrons, but also of nuclei. Here we demonstrate that dealing with this complexity is necessary
+for achieving predictive simulations that can solve puzzling properties of these reactions by
+addressing the intramolecular double hydrogen transfer (DHT) in porphycene. We combine high level
+density-functional theory calculations and full-dimensional path-integral ring polymer methods.
+Our quantum dynamics simulations show that although below 100 K the concerted tunneling pathway
+dominates, between 100 K and 300 K there is a competition between concerted and stepwise pathways
+when nuclear quantum effects are included. We obtain reaction rates in excellent agreement with
+experiment, thus confirming our determination of the tunneling pathways and of the anharmonic
+mode couplings that play a role in this reaction. We also reproduce the puzzling and controversial
+N-H stretching band of porphycene with remarkable accuracy. We relate the red-shifted position
+and large width of this peak with the strengthening of the hydrogen bonds due to the delocalization
+of the hydrogens within the cage, highlighting the role of NQEs in vibrational fingerprints. These
+results verify the appropriateness of our general theoretical approach and provide a framework
+for a deeper physical understanding of hydrogen transfer dynamics in complex systems. 

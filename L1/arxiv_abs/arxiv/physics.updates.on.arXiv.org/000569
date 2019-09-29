@@ -1,0 +1,17 @@
+Social media allow for an unprecedented amount of interaction between people online. A fundamental
+aspect of human social behavior, however, is the tendency of people to associate themselves with
+like-minded individuals, forming homogeneous social circles both online and offline. In this
+work, we apply a new model that allows us to distinguish between social ties of varying strength,
+and to observe evidence of homophily with regards to politics, music, health, residential sector
+& year in college, within the online and offline social network of 74 college students. We present
+a multiplex network approach to social tie strength, here applied to mobile communication data
+- calls, text messages, and co-location, allowing us to dimensionally identify relationships
+by considering the number of communication channels utilized between students. We find that strong
+social ties are characterized by maximal use of communication channels, while weak ties by minimal
+use. We are able to identify 75% of close friendships, 90% of weaker ties, and 90% of Facebook friendships
+as compared to reported ground truth. We then show that stronger ties exhibit greater profile similarity
+than weaker ones. Apart from high homogeneity in social circles with respect to political and health
+aspects, we observe strong homophily driven by music, residential sector and year in college. Despite
+Facebook friendship being highly dependent on residence and year, exposure to less homogeneous
+content can be found in the online rather than the offline social circles of students, most notably
+in political and music aspects. 

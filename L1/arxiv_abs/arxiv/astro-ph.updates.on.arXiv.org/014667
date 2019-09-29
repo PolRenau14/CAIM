@@ -1,0 +1,16 @@
+Gaia DR2 provides unprecedented precision in measurements of the distance and kinematics of stars
+in the solar neighborhood. Through applying unsupervised machine learning on DR2's 5-dimensional
+dataset (3d position + 2d velocity), we identify a number of clusters, associations, and co-moving
+groups within 1 kpc and $|b|<30^\circ$ (many of which have not been previously known). We estimate
+their ages with the precision of $\sim$0.15 dex. Many of these groups appear to be filamentary or
+string-like, oriented in parallel to the Galactic plane, and some span hundreds of pc in length.
+Most of these string lack a central cluster, indicating that their filamentary structure is primordial,
+rather than the result of tidal stripping or dynamical processing. The youngest strings ($<$100
+Myr) are orthogonal to the Local Arm. The older ones appear to be remnants of several other arm-like
+structures that cannot be presently traced by dust and gas. The velocity dispersion measured from
+the ensemble of groups and strings increase with age, suggesting a timescale for dynamical heating
+of $\sim$300 Myr. This timescale is also consistent with the age at which the population of strings
+begins to decline, while the population in more compact groups continues to increase, suggesting
+that dynamical processes are disrupting the weakly bound string populations, leaving only individual
+clusters to be identified at the oldest ages. These data shed a new light on the local galactic structure
+and a large scale cloud collapse. \end{abstract} 

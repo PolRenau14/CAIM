@@ -1,0 +1,16 @@
+The chromatic polynomial of a graph $G$, denoted $P(G,m)$, is equal to the number of proper $m$-colorings
+of $G$. The list color function of graph $G$, denoted $P_{\ell}(G,m)$, is a list analogue of the chromatic
+polynomial that has been studied since 1992, primarily through comparisons with the corresponding
+chromatic polynomial. DP-coloring (also called correspondence coloring) is a generalization
+of list coloring recently introduced by Dvo\v{r}\'{a}k and Postle. In this paper, we introduce
+a DP-coloring analogue of the chromatic polynomial called the DP color function denoted $P_{DP}(G,m)$.
+Motivated by known results related to the list color function, we show that while the DP color function
+behaves similar to the list color function for some graphs, there are also some surprising differences.
+For example, Wang, Qian, and Yan recently showed that if $G$ is a connected graph with $l$ edges, then
+$P_{\ell}(G,m)=P(G,m)$ whenever $m > \frac{l-1}{\ln(1+ \sqrt{2})}$, but we will show that for
+any $g \geq 3$ there exists a graph, $G$, with girth $g$ such that $P_{DP}(G,m) < P(G,m)$ when $m$ is
+sufficiently large. We also study the asymptotics of $P(G,m) - P_{DP}(G,m)$ for a fixed graph $G$.
+We develop techniques to compute $P_{DP}(G,m)$ exactly and apply them to certain classes of graphs
+such as chordal graphs, unicyclic graphs, and cycles with a chord. Finally, we make progress towards
+showing that for any graph $G$, there is a $p$ such that $P_{DP}(G \vee K_p, m) = P(G \vee K_p , m)$ for
+large enough $m$. 

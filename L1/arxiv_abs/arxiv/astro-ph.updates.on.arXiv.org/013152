@@ -1,0 +1,16 @@
+We present image-based evolution of galaxy mergers from the Illustris cosmological simulation
+at 12 time-steps over 0.5 < z < 5. To do so, we created approximately one million synthetic deep Hubble
+Space Telescope and James Webb Space Telescope images and measured common morphological indicators.
+Using the merger tree, we assess methods to observationally select mergers with stellar mass ratios
+as low as 10:1 completing within +/- 250 Myr of the mock observation. We confirm that common one- or
+two-dimensional statistics select mergers so defined with low purity and completeness, leading
+to high statistical errors. As an alternative, we train redshift-dependent random forests (RFs)
+based on 5-10 inputs. Cross-validation shows the RFs yield superior, yet still imperfect, measurements
+of the late-stage merger fraction, and they select more mergers in bulge-dominated galaxies. When
+applied to CANDELS morphology catalogs, the RFs estimate a merger rate increasing to at least z =
+3, albeit two times higher than expected by theory. This suggests possible mismatches in the feedback-determined
+morphologies, but affirms the basic understanding of galaxy merger evolution. The RFs achieve
+completeness of roughly 70% at 0.5 < z < 3, and purity increasing from 10% at z = 0.5 to 60% at z = 3. At earlier
+times, the training sets are insufficient, motivating larger simulations and smaller time sampling.
+By blending large surveys and large simulations, such machine learning techniques offer a promising
+opportunity to teach us the strengths and weaknesses of inferences about galaxy evolution. 

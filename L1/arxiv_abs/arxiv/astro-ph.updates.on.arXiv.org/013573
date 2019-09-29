@@ -1,0 +1,17 @@
+We present an analysis of the spectral shape and pulse profile of the accretion-powered pulsar 4U
+1626-67 observed with Suzaku and NuSTAR during a spin-up state. The pulsar, which experienced a
+torque reversal to spin-up in 2008, has a spin period of 7.7 s. Comparing the phase-averaged spectra
+obtained with Suzaku in 2010 and with NuSTAR in 2015, we find that the spectral shape changed between
+the two observations: the 3-10 keV flux increased by 5% while the 30-60 keV flux decreased significantly
+by 35%. Phase-averaged and phase-resolved spectral analysis shows that the continuum spectrum
+observed by NuSTAR is well described by an empirical NPEX continuum with an added broad Gaussian
+emission component around the spectral peak at 20 keV. Taken together with the observed Pdot value
+obtained from Fermi/GBM, we conclude that the spectral change between the Suzaku and NuSTAR observations
+was likely caused by an increase of the accretion rate. We also report the possible detection of asymmetry
+in the profile of the fundamental cyclotron line. Furthermore, we present a study of the energy-resolved
+pulse profiles using a new relativistic ray tracing code, where we perform a simultaneous fit to
+the pulse profiles assuming a two-column geometry with a mixed pencil- and fan-beam emission pattern.
+The resulting pulse profile decompositions enable us to obtain geometrical parameters of accretion
+columns (inclination, azimuthal and polar angles) and a fiducial set of beam patterns. This information
+is important to validate the theoretical predictions from radiation transfer in a strong magnetic
+field. 

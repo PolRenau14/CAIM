@@ -1,0 +1,16 @@
+There are two modes by which clusters of aggregating particles can coalesce: The clusters can merge
+either (i) by the Ostwald ripening process in which particles diffuse from one cluster to the other
+whilst the cluster centres remain stationary, or (ii) by means of a cluster translation mode, in
+which the clusters move towards each other and join. To understand in detail the interplay between
+these different modes, we study a model system of hard particles with an additional attraction between
+them. The particles diffuse along narrow channels with smooth or periodically corrugated walls,
+so that the system may be treated as one-dimensional. When the attraction between the particles
+is strong enough, they aggregate to form clusters. The channel potential influences whether clusters
+can move easily or not through the system and can prevent cluster motion. We use Dynamical Density
+Functional theory to study the dynamics of the aggregation process, focusing in particular on the
+coalescence of two equal size clusters. As long as the particle hard-core diameter is non-zero,
+we find that the coalescence process can be halted by a sufficiently strong corrugation potential.
+The period of the potential determines the size of the final stable clusters. For the case of smooth
+channel walls, we demonstrate that there is a cross-over in the dominance of the two different coarsening
+modes, that depends on the strength of the attraction between particles, the cluster sizes and the
+separation distance between clusters. 

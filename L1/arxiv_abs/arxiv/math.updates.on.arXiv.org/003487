@@ -1,0 +1,17 @@
+In 1975, the pioneering work of J. E. Mazo showed the potential faster-than-Nyquist (FTN) gain of
+single-carrier binary signal. If the inter-symbol interference is eliminated by an optimal detector,
+the FTN single-carrier binary signal can transmit 24.7% more bits than the Nyquist signal without
+any loss of bit error rate performance, which is known as the Mazo limit. In this paper, we apply sphere
+decoder (SD) with box optimization (BO) to reduce inter-carrier interference (ICI) in FTN non-orthogonal
+frequency division multiplexing (FTN-NOFDM) system. Compared with the conventional SD, SD with
+BO can achieve the same performance to reduce ICI, but its average number of expanded nodes in search
+process is significantly decreased especially for high-order modulation format, which can reduce
+the complexity of the receiver. When the bandwidth compression factor $\alpha$ is set to 0.802,
+the transmission rate of QPSK-modulated FTN-NOFDM is 24.7% faster than the Nyquist rate, and it
+has almost the same performance as orthogonal frequency division multiplexing (OFDM), which agrees
+well with the Mazo limit. The QPSK-modulated FTN-NOFDM with $\alpha$ equal to 0.5 (the spectral
+efficiency is 4 bit/s/Hz) outperforms 16QAM-modulated OFDM by about 1.5 dB. The 16QAM-modulated
+FTN-NOFDM with $\alpha$ equal to 0.67 and 0.5 (the spectral efficiency is 6 bit/s/Hz and 8 bit/s/Hz,
+respectively) outperforms 64QAM-modulated and 256QAM-modulated OFDM by about 1.5 dB and 2 dB,
+respectively. Therefore, FTN-NOFDM will be a promising modulation scheme for the future bandwidth-limited
+wireless communications. 

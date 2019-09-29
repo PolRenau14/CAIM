@@ -1,0 +1,16 @@
+Quantification is the task of estimating, given a set $\sigma$ of unlabelled items and a set of classes
+$\mathcal{C}=\{c_{1}, \ldots, c_{|\mathcal{C}|}\}$, the prevalence (or `relative frequency')
+in $\sigma$ of each class $c_{i}\in \mathcal{C}$. While quantification may in principle be solved
+by classifying each item in $\sigma$ and counting how many such items have been labelled with $c_{i}$,
+it has long been shown that this `classify and count' (CC) method yields suboptimal quantification
+accuracy. As a result, quantification is no longer considered a mere byproduct of classification,
+and has evolved as a task of its own. While the scientific community has devoted a lot of attention
+to devising more accurate quantification methods, it has not devoted much to discussing what properties
+an \emph{evaluation measure for quantification} (EMQ) should enjoy, and which EMQs should be adopted
+as a result. This paper lies down a number of interesting properties that an EMQ may or may not enjoy,
+discusses if (and when) each of these properties is desirable, surveys the EMQs that have been used
+so far, and discusses whether they enjoy or not the above properties. As a result of this investigation,
+some of the EMQs that have been used in the literature turn out to be severely unfit, while others emerge
+as closer to what the quantification community actually needs. However, a significant result is
+that no existing EMQ satisfies all the properties identified as desirable, thus indicating that
+more research is needed in order to identify (or synthesize) a truly adequate EMQ. 

@@ -1,0 +1,17 @@
+Partial model checking was proposed by Andersen in 1995 to verify a temporal logic formula compositionally
+on a composition of processes. It consists in incrementally incorporating into the formula the
+behavioural information taken from one process - an operation called quotienting - to obtain a new
+formula that can be verified on a smaller composition from which the incorporated process has been
+removed. Simplifications of the formula must be applied at each step, so as to maintain the formula
+at a tractable size. In this paper, we revisit partial model checking. First, we extend quotienting
+to the network of labelled transition systems model, which subsumes most parallel composition
+operators, including m-among-n synchronisation and parallel composition using synchronisation
+interfaces, available in the ELOTOS standard. Second, we reformulate quotienting in terms of a
+simple synchronous product between a graph representation of the formula (called formula graph)
+and a process, thus enabling quotienting to be implemented efficiently and easily, by reusing existing
+tools dedicated to graph compositions. Third, we propose simplifications of the formula as a combination
+of bisimulations and reductions using Boolean equation systems applied directly to the formula
+graph, thus enabling formula simplifications also to be implemented efficiently. Finally, we
+describe an implementation in the CADP (Construction and Analysis of Distributed Processes) toolbox
+and present some experimental results in which partial model checking uses hundreds of times less
+memory than on-the-fly model checking. 

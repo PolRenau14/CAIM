@@ -1,0 +1,16 @@
+Monitoring of Sagittarius A* from X-ray to radio wavelengths has revealed structured variability
+--- including X-ray flares --- but it is challenging to establish correlations between them. Most
+studies have focused on variability in the X-ray and infrared, where variations are often simultaneous,
+and because long time series at sub-millimeter and radio wavelengths are limited. Previous work
+on sub-mm and radio variability hints at a lag between X-ray flares and their candidate sub-millimeter
+or radio counterparts, with the long wavelength data lagging the X-ray. However, there is only one
+published time lag between an X-ray flare and a possible radio counterpart. Here we report 9 contemporaneous
+X-ray and radio observations of Sgr A*. We detect significant radio variability peaking $\gtrsim$176
+minutes after the brightest X-ray flare ever detected from Sgr A*. We also report other potentially
+associated X-ray and radio variability, with the radio peaks appearing $\lesssim$80 minutes after
+these weaker X-ray flares. Taken at face value, these results suggest that stronger X-ray flares
+lead to longer time lags in the radio. However, we also test the possibility that the variability
+at X-ray and radio wavelengths is not temporally correlated. We cross-correlate data from mismatched
+X-ray and radio epochs and obtain comparable correlations to the matched data. Hence, we find no
+overall statistical evidence that X-ray flares and radio variability are correlated, underscoring
+a need for more simultaneous, long duration X-ray--radio monitoring of Sgr A*. 

@@ -1,0 +1,16 @@
+Achieving an increase in the spectral efficiency (SE) has always been a major driver in the design
+of communication systems. The use of MIMO techniques in mobile communications has achieved significant
+benefits in improving the system throughput. The basic underlying concept of MIMO is to exploit
+the signal and channel characteristics to eliminate interference between multiple transmissions.
+Departing from the work carried out under the industrial projects \cite{NGW,Henarejos}, we extend
+the results provided in their respective reports. The goal is to increase the SE without an increment
+of radiated energy without any Channel State Information at Transmitter (CSIT) and feedback at
+the transmitter and maintaining a very low computational complexity at the receiver. Although
+a priori additional power is required to increase the SE, we demonstrate that the proposed Polarized
+Modulation (PMod) scheme exploits the polarization diversity reducing the required EbN0 and adding
+an extra bit. We also introduce two receivers to demodulate this scheme of different computational
+complexities. We describe a Near Optimal Detector (NOD) which achieves almost the same performance
+as the optimal detector based on the Maximum Likelihood Detection (MLD), but with lower computational
+complexity. Finally, the results demonstrate that the PMod requires less EbN0 compared with the
+single polarization case, guarantees the robustness in the presence of the cross-polarization
+and validates that PMod can multiplex two streams of different Quality of Service (QoS). 

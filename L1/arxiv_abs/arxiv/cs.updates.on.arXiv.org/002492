@@ -1,0 +1,16 @@
+Cities across the United States are undergoing great transformation and urban growth. Data and
+data analysis has become an essential element of urban planning as cities use data to plan land use
+and development. One great challenge is to use the tools of data science to promote equity along with
+growth. The city of Atlanta is an example site of large-scale urban renewal that aims to engage in
+development without displacement. On the Westside of downtown Atlanta, the construction of the
+new Mercedes-Benz Stadium and the conversion of an underutilized rail-line into a multi-use trail
+may result in increased property values. In response to community residents' concerns and a commitment
+to development without displacement, the city and philanthropic partners announced an Anti-Displacement
+Tax Fund to subsidize future property tax increases of owner occupants for the next twenty years.
+To achieve greater transparency, accountability, and impact, residents expressed a desire for
+a tool that would help them determine eligibility and quantify this commitment. In support of this
+goal, we use machine learning techniques to analyze historical tax assessment and predict future
+tax assessments. We then apply eligibility estimates to our predictions to estimate the total cost
+for the first seven years of the program. These forecasts are also incorporated into an interactive
+tool for community residents to determine their eligibility for the fund and the expected increase
+in their home value over the next seven years. 

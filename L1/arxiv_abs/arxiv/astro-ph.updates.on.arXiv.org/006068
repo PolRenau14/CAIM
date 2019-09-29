@@ -1,0 +1,16 @@
+We have identified 105 galaxy pairs at z ~ 0.04 with the MaNGA integral-field spectroscopic data.
+The pairs have projected separations between 1 kpc and 30 kpc, and are selected to have radial velocity
+offsets less than 600 km/s and stellar mass ratio between 0.1 and 1. The pair fraction increases with
+both the physical size of the integral-field unit and the stellar mass, consistent with theoretical
+expectations. We provide the best-fit analytical function of the pair fraction and find that ~3%
+of M* galaxies are in close pairs. For both isolated galaxies and paired galaxies, active galactic
+nuclei (AGN) are selected using emission-line ratios and H_alpha equivalent widths measured inside
+apertures at a fixed physical size. We find AGNs in ~24% of the paired galaxies and binary AGNs in ~13%
+of the pairs. To account for the selection biases in both the pair sample and the MaNGA sample, we compare
+the AGN comoving volume densities with those expected from the mass- and redshift-dependent AGN
+fractions. We find a strong (~5x) excess of binary AGNs over random pairing and a mild (~20%) deficit
+of single AGNs. The binary AGN excess increases from ~2x to ~6x as the projected separation decreases
+from 10-30 kpc to 1-10 kpc. Our results indicate that pairing of galaxies preserves the AGN duty cycle
+in individual galaxies but increases the population of binary AGNs through correlated activities.
+We suggest tidally-induced galactic-scale shocks and AGN cross-ionization as two plausible channels
+to produce low-luminosity narrow-line-selected binary AGNs. 

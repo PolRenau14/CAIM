@@ -1,0 +1,16 @@
+Always, some individuals in images are more important/attractive than others in some events such
+as presentation, basketball game or speech. However, it is challenging to find important people
+among all individuals in images directly based on their spatial or appearance information due to
+the existence of diverse variations of pose, action, appearance of persons and various changes
+of occasions. We overcome this difficulty by constructing a multiple Hyper-Interaction Graph
+to treat each individual in an image as a node and inferring the most active node referring to interactions
+estimated by various types of clews. We model pairwise interactions between persons as the edge
+message communicated between nodes, resulting in a bidirectional pairwise-interaction graph.
+To enrich the personperson interaction estimation, we further introduce a unidirectional hyper-interaction
+graph that models the consensus of interaction between a focal person and any person in a local region
+around. Finally, we modify the PageRank algorithm to infer the activeness of persons on the multiple
+Hybrid-Interaction Graph (HIG), the union of the pairwise-interaction and hyperinteraction
+graphs, and we call our algorithm the PersonRank. In order to provide publicable datasets for evaluation,
+we have contributed a new dataset called Multi-scene Important People Image Dataset and gathered
+a NCAA Basketball Image Dataset from sports game sequences. We have demonstrated that the proposed
+PersonRank outperforms related methods clearly and substantially. 

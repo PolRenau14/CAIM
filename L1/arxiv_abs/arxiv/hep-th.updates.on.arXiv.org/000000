@@ -1,0 +1,17 @@
+We first review the spontaneous Lorentz symmetry breaking in the presence of massless gauge fields
+and infraparticles. This result was obtained long time ago in the context of rigorious quantum field
+theory by Frohlich et. al. and reformulated by Balachandran and Vaidya using the notion of superselection
+sectors and direction-dependent test functions at spatial infinity for the non-local observables.
+Inspired by these developments and under the assumption that the spectrum of the electric charge
+is quantized, (in units of a fundamental charge e) we construct a family of vertex operators which
+create winding number k, electrically charged Abelian vortices from the vacuum (zero winding number
+sector) and/or shift the winding number by k units. In particular, we find that for rotating vortices
+the vertex operator at level k shifts the angular momentum of the vortex by k \frac{{\tilde q}}{q},
+where \tilde q is the electric charge of the quantum state of the vortex and q is the charge of the vortex
+scalar field under the U(1) gauge field. We also show that, for charged-particle-vortex composites
+angular momentum eigenvalues shift by k \frac{{\tilde q}}{q}, {\tilde q} being the electric charge
+of the charged-particle-vortex composite. This leads to the result that for \frac{{\tilde q}}{q}
+half-odd integral and for odd k our vertex operators flip the statistics of charged-particle-vortex
+composites from bosons to fermions and vice versa. For fractional values of \frac{{\tilde q}}{q},
+application of vertex operator on charged-particle-vortex composite leads in general to composites
+with anyonic statistics. 

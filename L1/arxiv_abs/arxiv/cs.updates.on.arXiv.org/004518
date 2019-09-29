@@ -1,0 +1,16 @@
+This paper focuses on analysis and design of time-varying complex networks having fractional order
+dynamics. These systems are key in modeling the complex dynamical processes arising in several
+natural and man made systems. Notably, examples include neurophysiological signals such as electroencephalogram
+(EEG) that captures the variation in potential fields, and blood oxygenation level dependent (BOLD)
+signal, which serves as a proxy for neuronal activity. Notwithstanding, the complex networks originated
+by locally measuring EEG and BOLD are often treated as isolated networks and do not capture the dependency
+from external stimuli, e.g., originated in subcortical structures such as the thalamus and the
+brain stem. Therefore, we propose a paradigm-shift towards the analysis of such complex networks
+under unknown unknowns (i.e., excitations). Consequently, the main contributions of the present
+paper are threefold: (i) we present an alternating scheme that enables to determine the best estimate
+of the model parameters and unknown stimuli; (ii) we provide necessary and sufficient conditions
+to ensure that it is possible to retrieve the state and unknown stimuli; and (iii) upon these conditions
+we determine a small subset of variables that need to be measured to ensure that both state and input
+can be recovered, while establishing sub-optimality guarantees with respect to the smallest possible
+subset. Finally, we present several pedagogical examples of the main results using real data collected
+from an EEG wearable device. 

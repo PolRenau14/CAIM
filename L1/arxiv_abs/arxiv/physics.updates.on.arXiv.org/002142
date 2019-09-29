@@ -1,0 +1,16 @@
+In most of the cases the magnetooptic Kerr effect (MOKE) techniques rely solely on the effects linear
+in magnetization ($\bm{M}$). Nevertheless, a higher-order term being proportional to $\bm{M}$$^2$
+and called quadratic MOKE (QMOKE) can additionally contribute to experimental data. Handling
+and understanding the underlying origin of QMOKE could be the key to utilize this effect for investigation
+of antiferromagnetic materials in the future due to their vanishing first order MOKE contribution.
+Also, better understanding of QMOKE and hence better understanding of magnetooptic (MO) effects
+in general is very valuable, as the MO effect is very much employed in research of ferro- and ferrimagnetic
+materials. Therefore, we present our QMOKE and longitudinal MOKE spectroscopy setup with a spectral
+range of 0.8--5.5\,eV. The setup is based on light modulation through a photoelastic modulator
+and detection of second-harmonic intensity by a lock-in amplifier. To measure the Kerr ellipticity
+an achromatic compensator is used within the setup, whereas without it Kerr rotation is measured.
+The separation of QMOKE spectra directly from the measured data is based on measurements with multiple
+magnetization directions. So far the QMOKE separation algorithm is developed and tested for but
+not limited to cubic (001) oriented samples. The QMOKE spectra yielded by our setup arise from two
+quadratic MO parameters $G_s$ and $2G_{44}$, being elements of quadratic MO tensor $\bm{G}$, which
+describe perturbation of the permittivity tensor in the second order in $\bm{M}$. 

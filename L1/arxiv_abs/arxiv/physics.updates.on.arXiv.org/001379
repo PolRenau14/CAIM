@@ -1,0 +1,17 @@
+Microwave phased array antennas (PAAs) are very attractive to defense applications and high-speed
+wireless communications for their abilities of fast beam scanning and complex beam pattern control.
+However, traditional PAAs based on phase shifters suffer from the beam-squint problem and have
+limited bandwidths. True-time-delay (TTD) beamforming based on low-loss photonic delay lines
+can solve this problem. But it is still quite challenging to build large-scale photonic TTD beamformers
+due to their high hardware complexity. In this paper, we demonstrate a photonic TTD beamforming
+network based on a miniature microresonator frequency comb (microcomb) source and dispersive
+time delay. We show that microcombs can be promising candidate for TTD beamforming due to their compact
+volume and wide spectra. The experimentally demonstrated TTD beamforming network can support
+a PAA with 21 elements. The microwave frequency range is 8~20 GHz; and the beam scanning range is +/-
+60.2 degree. Limited by the available components in our laboratory, a real antenna array was not
+constructed; however, detailed measurements of the microwave amplitudes and phases were performed
+that allow us to simulate the beamforming performance that could be obtained with a real array. The
+scheme can potentially support larger PAAs with hundreds of elements by increasing the number of
+comb lines with broadband microcomb generation. Arbitrary beam pattern control is also possible
+by incorporating optical spectral shaping. Gaussian, rectangular beamforming, and beam notch
+control are evaluated. 

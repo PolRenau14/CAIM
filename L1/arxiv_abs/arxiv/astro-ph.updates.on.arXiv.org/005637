@@ -1,0 +1,16 @@
+We explore the effect of using different kinematic tracers (HI and H$\alpha$) on reconstructing
+the encounter parameters of the Mice major galaxy merger (NGC 4676A/B). We observed the Mice using
+the SparsePak Integral Field Unit (IFU) on the WIYN telescope, and compared the H$\alpha$ velocity
+map with VLA HI observations. The relatively high spectral resolution of our data (R $\approx$ 5000)
+allows us to resolve more than one kinematic component in the emission lines of some fibers. We separate
+the H$\alpha$-[N II] emission of the star-forming regions from shocks using their [N II]/H$\alpha$
+line ratio and velocity dispersion. We show that the velocity of star-forming regions agree with
+that of the cold gas (HI), particularly, in the tidal tails of the system. We reconstruct the morphology
+and kinematics of these tidal tails utilizing an automated modeling method based on the Identikit
+software package. We quantify the goodness of fit and the uncertainties of the derived encounter
+parameters. Most of the initial conditions reconstructed using H$\alpha$ and HI are consistent
+with each other, and qualitatively agree with the results of previous works. For example, we find
+210$\pm^{50}_{40}$ Myrs, and 180$\pm^{50}_{40}$ Myrs for the time since pericenter, when modeling
+H$\alpha$ and HI kinematics, respectively. This confirms that in some cases, H$\alpha$ kinematics
+can be used instead of HI kinematics for reconstructing the initial conditions of galaxy mergers,
+and our automated modeling method is applicable to some merging systems. 

@@ -1,0 +1,16 @@
+In this study, a new Galactic novae catalogue is introduced collecting important parameters of
+these sources such as their light curve parameters, classifications, full width half maximum (FWHM)
+of H$_\alpha$ line, distances and interstellar reddening estimates. The catalogue is also published
+on a website with a search option via a SQL query and an online tool to re-calculate the distance/reddening
+of a nova from the derived reddening-distance relations. Using the novae in the catalogue, the existence
+of a maximum magnitude-rate of decline (MMRD) relation in the Galaxy is investigated. Although
+an MMRD relation was obtained, a significant scattering in the resulting MMRD distribution still
+exists. We suggest that the MMRD relation likely depends on other parameters in addition to the decline
+time, as FWHM H$_\alpha$, the light curve shapes. Using two different samples depending on the distances
+in the catalogue and from the derived MMRD relation, the spatial distributions of Galactic novae
+as a function of their spectral and speed classes were studied. The investigation on the Galactic
+model parameters implies that best estimates for the local outburst density are 3.6 and 4.2 $\times
+10^{-10}$ pc$^{-3}$ yr$^{-1}$ with a scale height of 148 and 175 pc, while the space density changes
+in the range of $0.4 - 16 \ \times 10^{-6}$ pc$^{-3}$. The local outburst density and scale height
+obtained in this study infer that the disk nova rate in the Galaxy is in the range of $\sim20$ to $\sim100$
+yr$^{-1}$ with an average estimate $67^{+21}_{-17}$ yr$^{-1}$. 

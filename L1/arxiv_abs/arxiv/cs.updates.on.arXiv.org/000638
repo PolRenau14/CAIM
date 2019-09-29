@@ -1,0 +1,16 @@
+As mobile IP-access is becoming the dominant technology for providing wireless services, the demand
+for more spectrum for this type of access is increasing rapidly. Since IP-access can be used for all
+types of services, instead of a plethora of dedicated, single-service systems, there is a significant
+potential to make spectrum use more efficient. In this paper, the feasibility and potential benefit
+of replacing the current terrestrial UHF TV broadcasting system with a mobile, cellular data (IP-)
+network is analyzed. In the cellular network, TV content would be provided as {one} of the services,
+here referred to as CellTV. In the investigation we consider typical Swedish rural and urban environments.
+We use different models for TV viewing patterns and cellular technologies as expected in the year
+2020. Results of the quantitative analysis indicate that CellTV distribution can be beneficial
+if the TV consumption trend goes towards more specialized programming, more local contents, and
+more on-demand requests. Mobile cellular systems, with their flexible unicast capabilities,
+will be an ideal platform to provide these services. However, the results also demonstrate that
+CellTV is not a spectrum-efficient replacement for terrestrial TV broadcasting with current viewing
+patterns (i.e. a moderate number of channels with each a high numbers of viewers). In this case, it
+is doubtful whether the expected spectrum savings can motivate the necessary investments in upgrading
+cellular sites and developing advanced TV receiver required for the success of CellTV distribution.

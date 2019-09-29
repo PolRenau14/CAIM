@@ -1,0 +1,17 @@
+Two-level domain decomposition methods are very powerful techniques for the efficient numerical
+solution of partial differential equations (PDEs). A two-level domain decomposition method requires
+two main components: a one-level preconditioner (or its corresponding smoothing iterative method),
+which is based on domain decomposition techniques, and a coarse correction step, which relies on
+a coarse space. The coarse space must properly represent the error components that the chosen one-level
+method is not capable to deal with. In the literature most of the works introduced efficient coarse
+spaces obtained as the span of functions defined on the entire space domain of the considered PDE.
+Therefore, the corresponding two-level preconditioners and iterative methods are defined in
+volume. In this paper, a new class of substructured two-level methods is introduced, for which both
+domain decomposition smoothers and coarse correction steps are defined on the interfaces. This
+approach has several advantages. On the one hand, the required computational effort is cheaper
+than the one required by classical volumetric two-level methods. On the other hand, it allows one
+to use some of the well-known efficient coarse spaces proposed in the literature. Moreover, our
+new substructured framework can be efficiently extended to a multi-level framework, which is always
+desirable when the high dimension or the scarce quality of the coarse space prevent the efficient
+numerical solution. Numerical experiments demonstrate the effectiveness of the proposed new
+numerical framework. 

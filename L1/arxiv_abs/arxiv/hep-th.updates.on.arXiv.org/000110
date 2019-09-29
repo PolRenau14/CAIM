@@ -1,0 +1,16 @@
+F-theory on singular elliptically fibered Calabi-Yau four-folds provides a setting to geometrically
+study four-dimensional N=1 supersymmetric gauge theories, including matter and Yukawa couplings.
+The gauge degrees of freedom arise from the codimension 1 singular loci, the matter and Yukawa couplings
+are generated at enhanced singularities in higher codimension. We construct the resolution of
+the singular Tate form for an elliptic Calabi-Yau four-fold with an ADE type singularity in codimension
+1 and study the structure of the fibers in codimension 2 and 3. We determine the fibers in higher codimension
+which in general are of Kodaira type along minimal singular loci, and are thus consistent with the
+low energy gauge-theoretic intuition. Furthermore, we provide a complementary description of
+the fibers in higher codimension, which will also be applicable to non-minimal singularities.
+The irreducible components in the fiber in codimension 2 correspond to weights of representations
+of the ADE gauge group. These can split further in codimension 3 in a way that is consistent with the
+generation of Yukawa couplings. Applying this reasoning, we then venture out to study non-minimal
+singularities, which occur for A type along codimension 3, and for D and E also in codimension 2. The
+fibers in this case are non-Kodaira, however some insight into these singularities can be gained
+by considering the splitting of fiber components along higher codimension, which are shown to be
+consistent with matter and Yukawa couplings for the corresponding gauge groups. 

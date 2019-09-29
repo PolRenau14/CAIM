@@ -1,0 +1,17 @@
+Understanding community structure of social media is critical due to its broad applications such
+as friend recommendations, user modeling and content personalizations. Existing research uses
+structural metrics such as modularity and conductance and functional metrics such as ground truth
+to measure the qualify of the communities discovered by various community detection algorithms,
+while overlooking a natural and important dimension, community size. Recently, anthropologist
+Dunbar suggests that the size of stable community in social media should be limited to 150, referred
+to as Dunbar's number. In this study, we propose a systematic way of algorithm comparison by orthogonally
+integrating community size as a new dimension into existing structural metrics for consistently
+and holistically evaluating the community quality in social media context. we design a heuristic
+clique based algorithm which controls the size and overlap of communities with adjustable parameters
+and evaluate it along with five state-of-the-art community detection algorithms on both Twitter
+network and DBLP network. Specifically, we divide the discovered communities based on their size
+into four classes called close friend, casual friend, acquaintance, and just a face, and then calculate
+the coverage, modularity, triangle participation ratio, conductance, transitivity, and the
+internal density of communities in each class. We discover that communities in different classes
+exhibit diverse structural qualities and many existing community detection algorithms tend to
+output extremely large communities. 

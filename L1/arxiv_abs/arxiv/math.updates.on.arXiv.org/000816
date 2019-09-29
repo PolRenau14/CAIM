@@ -1,0 +1,17 @@
+This paper extends Yosida's mean ergodic theorem in order to compute projections onto non-unitary
+eigenspaces for spectral operators of scalar-type on locally convex linear topological spaces.
+For spectral operators with dominating point spectrum, the projections take the form of Laplace
+averages, which are a generalization of the Fourier averages used when the spectrum is unitary.
+Inverse iteration and Laplace averages project onto eigenspaces of spectral operators with minimal
+point spectrum. Two classes of dynamical systems --- attracting fixed points in $\mathbb{C}^{d}$
+and attracting limit cycles in $\mathbb{R}^{2}$ --- and their respective spaces of observables
+are given for which the associated composition operator is spectral. It is shown that the natural
+spaces of observables are completions with an $\ell^{2}$ polynomial norm of a space of polynomials
+over a normed unital commutative ring. These spaces are generalizations of the Hardy spaces $H^{2}(\mathbb{D})$
+and $H^{2}(\mathbb{D}^{d})$. Elements of the ring are observables defined on the attractor ---
+the fixed point or the limit cycle, in our examples. Furthermore, we are able to provide a (semi)global
+spectral theorem for the composition operators associated with a large class of dissipative nonlinear
+dynamical systems; any sufficiently smooth dynamical system topologically conjugate to either
+of the two cases above admits an observable space on which the associated Koopman operator is spectral.
+It is conjectured that this is generically true for systems where the basin of attraction can be properly
+"coordinatized". 

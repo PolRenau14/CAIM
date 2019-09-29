@@ -1,0 +1,16 @@
+Excitation of surface-plasmon resonances of closely spaced nanometallic structures is a key technique
+used in nanoplasmonics to control light on subwavelength scales and generate highly confined electric-field
+hotspots. In this paper we develop asymptotic approximations in the near-contact limit for the
+entire set of surface-plasmon modes associated with the prototypical sphere dimer geometry. Starting
+from the quasi-static plasmonic eigenvalue problem, we employ the method of matched asymptotic
+expansions between a gap region, where the boundaries are approximately paraboloidal, pole regions
+within the spheres and close to the gap, and a particle-scale region where the spheres appear to touch
+at leading order. For those modes that are strongly localised to the gap, relating the gap and pole
+regions gives a set of effective eigenvalue problems formulated over a half space representing
+one of the poles. We solve these problems using integral transforms, finding asymptotic approximations,
+singular in the dimensionless gap width, for the eigenvalues and eigenfunctions. In the special
+case of modes that are both axisymmetric and odd about the plane bisecting the gap, where matching
+with the outer region introduces a logarithmic dependence upon the dimensionless gap width, our
+analysis follows [O. Schnitzer, \textit{Physical Review B}, \textbf{92} 235428 2015]. We also
+analyse the so-called anomalous family of even modes, characterised by field distributions excluded
+from the gap. We demonstrate excellent agreement between our asymptotic formulae and exact calculations.

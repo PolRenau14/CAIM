@@ -1,0 +1,16 @@
+We impose various oracle mechanisms on nondeterministic pushdown automata, which naturally induce
+nondeterministic reducibilities among formal languages in a theory of context-free languages.
+In particular, we examine a notion of nondeterministic many-one CFL reducibility and conduct a
+ground work to formulate a coherent framework for further expositions. Two more powerful reducibilities-bounded
+truth-table and Turing CFL-reducibilities--are also discussed in comparison. The Turing CFL-reducibility,
+in particular, makes it possible to induce a useful hierarchy built over the family CFL of context-free
+languages. Basic structural properties are proven for each level of this CFL hierarchy. The first
+and second levels of the hierarchy are proven to be different. The rest of the hierarchy (more strongly,
+the Boolean hierarchy built over each level of the CFL hierarchy) is also infinite unless the polynomial
+hierarchy over NP collapses. This follows from a characterization of the Boolean hierarchy over
+the k-th level of the polynomial hierarchy in terms of the Boolean hierarchy over the k+1-st level
+of the CFL hierarchy. Similarly, the complexity class Theta(p,k) is related to the k-th level of
+the CFL hierarchy. We argue that the CFL hierarchy coincides with a hierarchy over CFL built by application
+of many-one CFL-reductions. We show that BPCFL-a bounded-error probabilistic version of CFL-is
+not included in CFL even in the presence of advice. Moreover, we exhibit a relativized world where
+BPCFL is not located within the second level of the CFL hierarchy. 

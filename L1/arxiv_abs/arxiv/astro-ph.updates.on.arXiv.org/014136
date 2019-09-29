@@ -1,0 +1,17 @@
+We conduct a thorough study into the feasibility of measuring large-scale correlated proper motions
+of galaxies with astrometric surveys. We introduce a harmonic formalism for analysing proper motions
+and their correlation functions on the sphere based on spin-weighted spherical harmonics, and
+study the statistics of the transverse velocity field induced by large-scale structure. We use
+a likelihood formalism to derive optimal estimators for the secular parallax due to the Solar System's
+motion relative to distant objects, and compute the variance and bias due to peculiar velocities
+and relativistic aberration. We use a simulated catalogue of galaxy proper motions with radial
+distributions and noise properties similar to those expected from Gaia to forecast the detectability
+of the proper motion dipole, whose amplitude may be considered a proxy for the Hubble constant. We
+find cosmic variance to be the limiting source of noise for this measurement, forecasting a detectability
+of $1$-$2\sigma$ on a single component of the local velocity, increasing to $2$-$4\sigma$ (equivalent
+to a 25%-50% measurement of the Hubble constant) if the CMB dipole is included as prior information.
+We conduct a thorough study into the radial dependence of the signal-to-noise, finding that most
+of the information comes from galaxies closer than a few hundred Mpc. We forecast that the amplitude
+of peculiar transverse velocities can potentially be measured with 10$\sigma$ significance;
+such a measurement would offer a unique probe of cosmic flows and a valuable test of the cosmological
+model. 

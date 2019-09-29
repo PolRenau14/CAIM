@@ -1,0 +1,17 @@
+A method is given to rapidly compute quasisymmetric stellarator magnetic fields for plasma confinement,
+without the need to call a three-dimensional magnetohydrodynamic equilibrium code inside an optimization
+iteration. The method is based on direct solution of the equations of magnetohydrodynamic equilibrium
+and quasisymmetry using Garren and Boozer's expansion about the magnetic axis (Phys Fluids B 3,
+2805 (1991)), and it is several orders of magnitude faster than the conventional optimization approach.
+The work here extends the method of Landreman, Sengupta and Plunk (J Plasma Phys 85, 905850103 (2019)),
+which was limited to flux surfaces with elliptical cross-section, to higher order in the aspect
+ratio expansion. As a result, configurations can be generated with strong shaping that achieve
+quasisymmetry to high accuracy. Using this construction, we give the first numerical demonstrations
+of Garren and Boozer's ideal scaling of quasisymmetry-breaking with the cube of inverse aspect
+ratio. We also demonstrate a strongly nonaxisymmetric configuration (vacuum $\iota > 0.4$) in
+which symmetry-breaking mode amplitudes throughout a finite volume are $< 2\times 10^{-7}$, the
+smallest ever reported. To generate boundary shapes of finite-minor-radius configurations,
+a careful analysis is given of the effect of substituting a finite minor radius into the near-axis
+expansion. The approach here can provide analytic insight into the space of possible quasisymmetric
+stellarator configurations, and it can be used to generate good initial conditions for conventional
+stellarator optimization. 

@@ -1,0 +1,16 @@
+Chiral spin liquids (CSLs) are time-reversal symmetry breaking ground states of frustrated quantum
+magnets that show no long-range magnetic ordering, but instead exhibit topological order and fractional
+excitations. Their realization in simple and tractable microscopic models has, however, remained
+an open challenge for almost two decades until it was realized that Kitaev models on lattices with
+odd-length loops are natural hosts for such states, even in the absence of a time-reversal symmetry
+breaking magnetic field. Here we report on the formation of CSLs in a three-dimensional Kitaev model,
+which differ from their widely studied two-dimensional counterparts, namely, they exhibit a crystalline
+ordering of the $\mathbb{Z}_2$ gauge fluxes and thereby break some of the underlying lattice symmetries.
+We study the formation of these unconventional CSLs via extensive quantum Monte Carlo simulations
+and demonstrate that they are separated from the featureless paramagnet at high temperatures by
+a single first-order transition at which both time-reversal and lattice symmetries are simultaneously
+broken. Using variational approaches for the ground state, we explore the effect of varying the
+Kitaev couplings and find at least five distinct CSL phases, all of which possess crystalline ordering
+of the $\mathbb{Z}_2$ gauge fluxes. For some of these phases, the complementary itinerant Majorana
+fermions exhibit gapless band structures with topological features such as Weyl nodes or nodal
+lines in the bulk and Fermi arc or drumhead surface states. 

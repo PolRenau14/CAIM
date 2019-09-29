@@ -1,0 +1,16 @@
+This paper is devoted to the study of convergence of Fourier series for non-abelian groups and quantum
+groups. It is well-known that a number of approximation properties of groups can be interpreted
+as some summation methods and mean convergence of associated noncommutative Fourier series. Based
+on this framework, this work studies the refined counterpart of pointwise convergence of these
+Fourier series. We establish a general criterion of maximal inequalities for approximative identities
+of noncommutative Fourier multipliers. As a result we prove that for any countable discrete amenable
+group, there exists a sequence of finitely supported positive definite functions tending to $1$
+pointwise, so that the associated Fourier multipliers on noncommutative $L_p$-spaces satisfy
+the pointwise convergence for all $1<p<\infty$. In a similar fashion, we also obtain results for
+a large subclass of groups (as well as discrete quantum groups) with the Haagerup property and weak
+amenability. We also consider the analogues of Fej\'{e}r means and Bochner-Riesz means in the noncommutative
+setting. Our results in particular apply to the almost everywhere convergence of Fourier series
+of $L_p$-functions on non-abelian compact groups. On the other hand, we obtain as a byproduct the
+dimension free bounds of noncommutative Hardy-Littlewood maximal inequalities associated with
+convex bodies. As an ingredient, our proof also provides a refined version of Junge-Le Merdy-Xu's
+square function estimates $H_p (\mathcal M) \simeq L_p^\circ (\mathcal M )$ when $p\to 1$. 

@@ -1,0 +1,17 @@
+This paper describes Switch 2.0, an open-source modeling platform for planning transitions to
+low-emission electric power grids, designed to satisfy 21st century grid planning requirements.
+Switch is capable of long-, medium- and short-term planning of investments and operations with
+conventional or smart grids, integrating large shares of renewable power, storage and/or demand
+response. Applications include integrated resource planning, investment planning, economic
+and policy analyses as well as basic research. Potential users include researchers, educators,
+industry and regulators. Switch formulates generation and transmission capacity planning as
+a mixed integer linear program where investment and operation are co-optimized across sampled
+time series during multiple investment periods. High-resolution production cost modeling is
+supported by freezing investment decisions and including longer time series and more operational
+details. Modeling features include unit commitment, part-load efficiency, planning and operating
+reserves, fuel supply curves, storage, hydroelectric networks, policy constraints and demand
+response. Switch has a modular architecture that allows users to flexibly compose models by choosing
+built-in modules 'a la carte' or writing custom modules. This paper describes the software architecture
+and model formulation of Switch 2.0 and provides a case study in which the model was used to identify
+the best options for obtaining load-shifting and reserve services from batteries and demand response
+in a 100% renewable power system. 

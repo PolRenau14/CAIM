@@ -1,0 +1,16 @@
+We consider the Hegselmann-Krause bounded confidence dynamics for n equally spaced opinions on
+the real line, with gaps equal to the confidence bound r, which we take to be 1. We prove rigorous results
+on the evolution of this configuration, which confirm hypotheses previously made based on simulations
+for small values of n. Namely, for every n, the system evolves as follows: after every 5 time steps,
+a group of 3 agents become disconnected at either end and collapse to a cluster at the subsequent step.
+This continues until there are fewer than 6 agents left in the middle, and these finally collapse
+to a cluster, if n is not a multiple of 6. In particular, the final configuration consists of 2*[n/6]
+clusters of size 3, plus one cluster in the middle of size n (mod 6), if n is not a multiple of 6, and the
+number of time steps before freezing is 5n/6 + O(1). We also consider the dynamics for arbitrary,
+but constant, inter-agent spacings d \in [0, 1] and present three main findings. Firstly we prove
+that the evolution is periodic also at some other, but not all, values of d, and present numerical
+evidence that for all d something "close" to periodicity nevertheless holds. Secondly, we exhibit
+a value of d at which the behaviour is periodic and the time to freezing is n + O(1), hence slower than
+that for d = 1. Thirdly, we present numerical evidence that, as d --> 0, the time to freezing may
+be closer, in order of magnitude, to the diameter d(n-1) of the configuration rather than the number
+of agents n. 

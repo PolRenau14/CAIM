@@ -1,0 +1,17 @@
+In this paper, we propose an analytical framework to quantify the amount of data samples needed to
+obtain accurate state estimation in a power system, a problem known as sample complexity analysis
+in computer science. Motivated by the increasing adoption of distributed energy resources into
+the distribution-level grids, it becomes imperative to estimate the state of distribution grids
+in order to ensure stable operation. Traditional power system state estimation techniques mainly
+focus on the transmission network which involve solving an overdetermined system and eliminating
+bad data. However, distribution networks are typically underdetermined due to the large number
+of connection points and high cost of pervasive installation of measurement devices. In this paper,
+we consider the recently proposed state-estimation method for underdetermined systems that is
+based on matrix completion. In particular, a constrained matrix completion algorithm was proposed,
+wherein the standard matrix completion problem is augmented with additional equality constraints
+representing the physics (namely power-flow constraints). We analyze the sample complexity of
+this general method by proving an upper bound on the sample complexity that depends directly on the
+properties of these constraints that can lower number of needed samples as compared to the unconstrained
+problem. To demonstrate the improvement that the constraints add to distribution state estimation,
+we test the method on a 141-bus distribution network case study and compare it to the traditional
+least squares minimization state estimation method. 

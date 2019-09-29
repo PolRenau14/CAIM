@@ -1,0 +1,16 @@
+In the context of deep learning, the costliest phase from a computational point of view is the full
+training of the learning algorithm. However, this process is to be used a significant number of times
+during the design of a new artificial neural network, leading therefore to extremely expensive
+operations. Here, we propose a low-cost strategy to predict the accuracy of the algorithm, based
+only on its initial behaviour. To do so, we train the network of interest up to convergence several
+times, modifying its characteristics at each training. The initial and final accuracies observed
+during this beforehand process are stored in a database. We then make use of both curve fitting and
+Support Vector Machines techniques, the latter being trained on the created database, to predict
+the accuracy of the network, given its accuracy on the primary iterations of its learning. This approach
+can be of particular interest when the space of the characteristics of the network is notably large
+or when its full training is highly time-consuming. The results we obtained are promising and encouraged
+us to apply this strategy to a topical issue: hyper-parameter optimisation (HO). In particular,
+we focused on the HO of a convolutional neural network for the classification of the databases MNIST
+and CIFAR-10. By using our method of prediction, and an algorithm implemented by us for a probabilistic
+exploration of the hyper-parameter space, we were able to find the hyper-parameter settings corresponding
+to the optimal accuracies already known in literature, at a quite low-cost. 

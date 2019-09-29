@@ -1,0 +1,17 @@
+In this note, we introduce the new tool reSolve, a Monte Carlo differential cross-section and parton-level
+event generator whose main purpose is to add transverse momentum resummation to a general class
+of inclusive processes at hadron colliders, namely all those which do not involve hadrons or jets
+in the measured final state. This documentation refers to our beta version release, which is still
+very much a work in progress and only has a partial implementation of the features we ultimately plan
+to include in the final release. Whilst highlighting key aspects of the resummation formalism applied,
+this article acts as a manual for the program; describing in detail its use, structure and validation.
+A main concept behind the development of the tool is that it is meant to be a hands-on white box for the
+user: a lot of effort was made into giving the program a modular structure, making the various parts
+which comprise it as much as possible independent of each other, transparently documented, customizable
+and, in principle, completely replaceable with something that may serve better the user's needs.
+reSolve is a new C++ program, based on an evolution of the private Fortran code 2gres, previously
+used for the calculations in refs. [1] and [2]. This initial version calculates the low transverse
+momentum contribution to the fully differential cross-section for the inclusive production of
+two photons, including resummation up Next-to-Next- to-Leading Logarithm (NNLL). We aim to extend
+the program to several more processes in the near future. The program is made publicly available
+on Github. 

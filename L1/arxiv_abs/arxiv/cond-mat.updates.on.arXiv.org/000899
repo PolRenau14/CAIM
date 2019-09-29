@@ -1,0 +1,16 @@
+We present a systematic density functional theory (DFT) plus Hubbard $U$ study of structural trends
+and the stability of different magnetically ordered states across the rare-earth nickelate series,
+$R$NiO$_3$, with $R$ from Lu to La. In particular, we investigate how the magnetic order, the change
+of the rare-earth ion, and the Hubbard interaction $U$ are affecting the bond-length disproportionation
+between the nickel sites. Our results show that structural parameters can be obtained that are in
+very good agreement with present experimental data, and that DFT+$U$ is in principle able to capture
+the most important structural trends across the nickelate series. However, the amplitude of the
+bond-length disproportionation depends very strongly on the specific value used for the Hubbard
+$U$ parameter and also on the type of magnetic order imposed in the calculation. Regarding the relative
+stability of different magnetic orderings, a realistic antiferromagnetic order, consistent
+with the experimental observations, is favored for small $U$ values, and becomes more and more favorable
+compared to the ferromagnetic state towards the end of the series (i.e., towards $R$=Pr). Nevertheless,
+it seems that the stability of the ferromagnetic state is generally overestimated within the DFT+$U$
+calculations. Our work provides a profound starting point for more detailed experimental investigations,
+and also for future studies using more advanced computational techniques such as, e.g., DFT combined
+with dynamical mean-field theory. 

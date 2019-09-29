@@ -1,0 +1,16 @@
+We consider the problem of estimating the mean of a symmetric log-concave distribution under the
+following constraint: only a single bit per sample from this distribution is available to the estimator.
+We study the mean squared error (MSE) risk in this estimation as a function of the number of samples,
+and hence the number of bits, from this distribution. Under an adaptive setting in which each bit
+is a function of the current sample and the previously observed bits, we show that the optimal relative
+efficiency compared to the sample mean is the efficiency of the median. For example, in estimating
+the mean of a normal distribution, a constraint of one bit per sample incurs a penalty of $\pi/2$ in
+sample size compared to the unconstrained case. We also consider a distributed setting where each
+one-bit message is only a function of a single sample. We derive lower bounds on the MSE in this setting,
+and show that the optimal efficiency can only be attained at a finite number of points in the parameter
+space. Finally, we analyze a distributed setting where the bits are obtained by comparing each sample
+against a prescribed threshold. Consequently, we consider the threshold density that minimizes
+the maximal MSE. Our results indicate that estimating the mean from one-bit measurements is equivalent
+to estimating the sample median from these measurements. In the adaptive case, this estimate can
+be done with vanishing error for any point in the parameter space. In the distributed case, this estimate
+can be done with vanishing error only for a finite number of possible values for the unknown mean.

@@ -1,0 +1,16 @@
+Consider a set of agents who play a network game repeatedly. Agents may not know the network. They
+may even be unaware that they are interacting with other agents in a network. Possibly, they just
+understand that their payoffs depend on an unknown state that in reality is an aggregate of the actions
+of their neighbors. Each time, every agent chooses an action that maximizes her subjective expected
+payoff and then updates her beliefs according to what she observes. In particular, we assume that
+each agent only observes her realized payoff. A steady state of such dynamic is a selfconfirming
+equilibrium given the assumed feedback. We characterize the structure of the set of selfconfirming
+equilibria in network games and we relate selfconfirming and Nash equilibria. Thus, we provide
+conditions on the network under which the Nash equilibrium concept has a learning foundation, despite
+the fact that agents may have incomplete information. In particular, we show that the choice of being
+active or inactive in a network is crucial to determine whether agents can make correct inferences
+about the payoff state and hence play the best reply to the truth in a selfconfirming equilibrium.
+We also study learning dynamics and show how agents can get stuck in non--Nash selfconfirming equilibria.
+In such dynamics, the set of inactive agents can only increase in time, because once an agent finds
+it optimal to be inactive, she gets no feedback about the payoff state, hence she does not change her
+beliefs and remains inactive. 

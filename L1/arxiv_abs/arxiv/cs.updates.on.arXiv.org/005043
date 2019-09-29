@@ -1,0 +1,16 @@
+We introduce a novel framework to model limited lookahead in congestion games. Intuitively, the
+players enter the game sequentially and choose an optimal action under the assumption that the $k-1$
+subsequent players play subgame-perfectly. Our model naturally interpolates between outcomes
+of greedy best-response ($k=1$) and subgame-perfect outcomes ($k=n$, the number of players).
+We study the impact of limited lookahead (parameterized by $k$) on the stability and inefficiency
+of the resulting outcomes. As our results reveal, increased lookahead does not necessarily lead
+to better outcomes; in fact, its effect crucially depends on the existence of ties and the type of
+game under consideration. More specifically, already for very simple network congestion games
+we show that subgame-perfect outcomes (full lookahead) can be unstable, whereas greedy best-response
+outcomes (no lookahead) are known to be stable. We show that this instability is due to player indifferences
+(ties). If the game is generic (no ties exist) then all outcomes are stable, independent of the lookahead
+$k$. In particular, this implies that the price of anarchy of $k$-lookahead outcomes (for arbitrary
+$k$) equals the standard price of anarchy. For special cases of cost-sharing games and consensus
+games we show that no lookahead leads to stable outcomes. Again this can be resolved by removing ties,
+though for cost-sharing games only full lookahead provides stable outcomes. We also identify a
+class of generic cost-sharing games for which the inefficiency decreases as the lookahead $k$ increases.

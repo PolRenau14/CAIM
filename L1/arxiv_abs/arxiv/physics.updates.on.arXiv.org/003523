@@ -1,0 +1,16 @@
+Complex mixing and magnetic field generation occurs within stellar interiors particularly where
+there is a strong shear flow. To obtain a comprehensive understanding of these processes, it is necessary
+to study the complex dynamics of shear regions. Due to current observational limitations, it is
+necessary to investigate the inevitable small-scale dynamics via numerical calculations. Here,
+we examine direct numerical calculations of a local model of unstable shear flows in a compressible
+polytropic fluid primarily in a two-dimensional domain, where we focus on determining how key parameters
+affect the global properties and characteristics of the resulting saturated turbulent phase.
+We consider the effect of varying both the viscosity and the thermal diffusivity on the non-linear
+evolution. Moreover, our main focus is to understand the global properties of the saturated phase,
+in particular estimating for the first time the spread of the shear region from an initially hyperbolic
+tangent velocity profile. We find that the vertical extent of the mixing region in the saturated
+regime is generally determined by the initial Richardson number of the system. Further, the characteristic
+quantities of the turbulence, i.e. typical length-scale and the root-mean-square velocity are
+found to depend on both the Richardson number, and the thermal diffusivity. Finally, we present
+our findings of our investigation into saturated flows of a `secular' shear instability in the low
+P\'eclet number regime with large Richardson numbers. 

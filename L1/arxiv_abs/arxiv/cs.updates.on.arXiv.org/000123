@@ -1,0 +1,16 @@
+This paper resolves a common complexity issue in the Bethe approximation of statistical physics
+and the Belief Propagation (BP) algorithm of artificial intelligence. The Bethe approximation
+and the BP algorithm are heuristic methods for estimating the partition function and marginal probabilities
+in graphical models, respectively. The computational complexity of the Bethe approximation is
+decided by the number of operations required to solve a set of non-linear equations, the so-called
+Bethe equation. Although the BP algorithm was inspired and developed independently, Yedidia,
+Freeman and Weiss (2004) showed that the BP algorithm solves the Bethe equation if it converges (however,
+it often does not). This naturally motivates the following question to understand limitations
+and empirical successes of the Bethe and BP methods: is the Bethe equation computationally easy
+to solve? We present a message-passing algorithm solving the Bethe equation in a polynomial number
+of operations for general binary graphical models of n variables where the maximum degree in the
+underlying graph is O(log n). Our algorithm can be used as an alternative to BP fixing its convergence
+issue and is the first fully polynomial-time approximation scheme for the BP fixed-point computation
+in such a large class of graphical models, while the approximate fixed-point computation is known
+to be (PPAD-)hard in general. We believe that our technique is of broader interest to understand
+the computational complexity of the cavity method in statistical physics. 

@@ -1,0 +1,16 @@
+We consider the problem of merging two sorted sequences on a comparator network that is used repeatedly,
+that is, if the output is not sorted, the network is applied again using the output as input. The challenging
+task is to construct such networks of small depth (called a period in this context). In our previous
+paper entitled Faster 3-Periodic Merging Network we reduced twice the time of merging on $3$-periodic
+networks, i.e. from $12\log N$ to $6\log N$, compared to the first construction given by Kuty{\l}owski,
+Lory\'s and Oesterdikhoff. Note that merging on $2$-periodic networks require linear time. In
+this paper we extend our construction, which is based on Canfield and Williamson $(\log N)$-periodic
+sorter, and the analysis from that paper to any period $p \ge 4$. For $p\ge 4$ our $p$-periodic network
+merges two sorted sequences of length $N/2$ in at most $\frac{2p}{p-2}\log N + p\frac{p-8}{p-2}$
+rounds. The previous bound given by Kuty{\l}owski at al. was $\frac{2.25p}{p-2.42}\log N$. That
+means, for example, that our $4$-periodic merging networks work in time upper-bounded by $4\log
+N$ and our $6$-periodic ones in time upper-bounded by $3\log N$ compared to the corresponding $5.67\log
+N$ and $3.8\log N$ previous bounds. Our construction is regular and follows the same periodification
+schema, whereas some additional techniques were used previously to tune the construction for $p
+\ge 4$. Moreover, our networks are also periodic sorters and tests on random permutations show that
+average sorting time is closed to $\log^2 N$. 

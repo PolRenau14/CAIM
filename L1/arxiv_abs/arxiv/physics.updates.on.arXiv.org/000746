@@ -1,0 +1,16 @@
+We introduce an extensible multi-fluid moment model in the context of collisionless magnetic reconnection.
+This model evolves full Maxwell equations, and simultaneously moments of the Vlasov-Maxwell equation
+for each species in the plasma. Effects like electron inertia and pressure gradient are self-consistently
+embedded in the resulting multi-fluid moment equations, without the need to explicitly solving
+a generalized Ohms's law. Two limits of the multi-fluid moment model are discussed, namely, the
+five-moment limit that evolves a scalar pressures for each species, and the ten-moment limit that
+evolves the full anisotropic, non-gyrotropic pressure tensor for each species. We first demonstrate,
+analytically and numerically, that the five-moment model reduces to the widely used Hall Magnetohydrodynamics
+(Hall MHD) model under the assumptions of vanishing electron inertia, infinite speed of light,
+and quasi-neutrality. Then, we compare ten-moment and fully kinetic Particle-In-Cell (PIC) simulations
+of a large scale Harris sheet reconnection problem, where the ten-moment equations are closed with
+a local linear collisionless approximation for the heat flux. The ten-moment simulation gives
+reasonable agreement with the PIC results regarding the structures and magnitudes of the electron
+flows, the polarities and magnitudes of elements of the electron pressure tensor, and the decomposition
+of the generalized Ohm's law. Possible ways to improve the simple local closure towards a nonlocal
+fully three-dimensional closure are also discussed. 

@@ -1,0 +1,16 @@
+This study considers the periodic orbital period of an n-body system from the perspective of dimension
+analysis. According to characteristics of the n-body system with point masses $(m_1,m_2,...,m_n)$,
+the gravitational field parameter, $\alpha \sim Gm_im_j$, the n-body system reduction mass $M_n$,
+and the area, $A_n$, of the periodic orbit are selected as the basic parameters, while the period,
+$T_n$, and the system energy, $|E_n|$, are expressed as the three basic parameters. Using the Buckingham
+$\pi$ theorem, We obtained an epic result, by working with a reduced gravitation parameter $\alpha_n$,
+then predicting a dimensionless relation $T_n|E_n|^{3/2}=\text{const} \times \alpha_n \sqrt{\mu_n}$
+($\mu_n$ is reduced mass). The const$=\frac{\pi}{\sqrt{2}}$ is derived by matching with the 2-body
+Kepler's third law, and then a surprisingly simple relation for Kepler's third law of an n-body system
+is derived by invoking a symmetry constraint inspired from Newton's gravitational law: $T_n|E_n|^{3/2}=\frac{\pi}{\sqrt{2}}
+G\left(\frac{\sum_{i=1}^n\sum_{j=i+1}^n(m_im_j)^3}{\sum_{k=1}^n m_k}\right)^{1/2}$.
+This formulae is, of course, consistent with the Kepler's third law of 2-body system, but yields
+a non-trivial prediction of the Kepler's third law of 3-body: $T_3|E_3|^{3/2}= \frac{\pi}{\sqrt{2}}
+G \left[\frac{(m_1m_2)^3+(m_1m_3)^3+(m_2m_3)^3}{m_1+m_2+m_3}\right]^{1/2}$. A numerical
+validation and comparison study was conducted. This study provides a shortcut in search of the periodic
+solutions of three-body and n-body problems and has valuable application prospects in space exploration.

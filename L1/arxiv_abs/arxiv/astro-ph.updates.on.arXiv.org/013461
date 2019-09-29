@@ -1,0 +1,16 @@
+We study the polarization properties of 22 known rotating radio transients (RRATs) with the 64-m
+Parkes radio telescope and present the Faraday rotation measures (RMs) for the 17 with linearly
+polarized flux exceeding the off-pulse noise by 3$\sigma$. Each RM was estimated using a brute-force
+search over trial RMs that spanned the maximum measurable range $\pm1.18 \times 10^5 \, \mathrm{rad
+\, m^2}$ (in steps of 1 $\mathrm{rad \, m^2}$), followed by an iterative refinement algorithm. The
+measured RRAT RMs are in the range |RM| $\sim 1$ to $\sim 950$ rad m$^{-2}$ with an average linear polarization
+fraction of $\sim 40$ per cent. Individual single pulses are observed to be up to 100 per cent linearly
+polarized. The RMs of the RRATs and the corresponding inferred average magnetic fields (parallel
+to the line-of-sight and weighted by the free electron density) are observed to be consistent with
+the Galactic plane pulsar population. Faraday rotation analyses are typically performed on accumulated
+pulsar data, for which hundreds to thousands of pulses have been integrated, rather than on individual
+pulses. Therefore, we verified the iterative refinement algorithm by performing Monte Carlo simulations
+of artificial single pulses over a wide range of S/N and RM. At and above a S/N of 17 in linearly polarized
+flux, the iterative refinement recovers the simulated RM value 100 per cent of the time with a typical
+mean uncertainty of $\sim5$ rad m$^{-2}$. The method described and validated here has also been
+successfully used to determine reliable RMs of several fast radio bursts (FRBs) discovered at Parkes.

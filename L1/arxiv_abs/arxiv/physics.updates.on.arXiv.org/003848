@@ -1,0 +1,16 @@
+In this study, the gravitational octree code originally optimized for the Fermi, Kepler, and Maxwell
+GPU architectures is adapted to the Volta architecture. The Volta architecture introduces independent
+thread scheduling requiring either the insertion of the explicit synchronizations at appropriate
+locations or the enforcement of the same implicit synchronizations as do the Pascal or earlier architectures
+by specifying \texttt{-gencode arch=compute\_60,code=sm\_70}. The performance measurements
+on Tesla V100, the current flagship GPU by NVIDIA, revealed that the $N$-body simulations of the
+Andromeda galaxy model with $2^{23} = 8388608$ particles took $3.8 \times 10^{-2}$~s or $3.3 \times
+10^{-2}$~s per step for each case. Tesla V100 achieves a 1.4 to 2.2-fold acceleration in comparison
+with Tesla P100, the flagship GPU in the previous generation. The observed speed-up of 2.2 is greater
+than 1.5, which is the ratio of the theoretical peak performance of the two GPUs. The independence
+of the units for integer operations from those for floating-point number operations enables the
+overlapped execution of integer and floating-point number operations. It hides the execution
+time of the integer operations leading to the speed-up rate above the theoretical peak performance
+ratio. Tesla V100 can execute $N$-body simulation with up to $25 \times 2^{20} = 26214400$ particles,
+and it took $2.0 \times 10^{-1}$~s per step. It corresponds to $3.5$~TFlop/s, which is 22\% of the
+single-precision theoretical peak performance. 

@@ -1,0 +1,17 @@
+How to define a proper relativistic spin operator, as a long-standing problem, has by now become
+a central task for providing proper concepts and applications of spin in relativistic and non-relativistic
+quantum mechanics as well as solving emergent inconsistencies in rapidly developing research
+areas. We rigorously {\it derive} a relativistic spin operator for an arbitrary spin massive particle
+on the two requirements that a proper spin operator should satisfy (i) the $\mathfrak{su}(2)$ algebra
+and (ii) the Lorentz-transformation properties as a second-rank spin tensor. These requirements
+lead to two spin operators, properly giving the second Casimir invariant operator in the Poincar\'e
+(inhomogeneous Lorentz) group, that provide the two inequivalent representations of Poincar\'e
+group. We find that the two inequivalent representations are the left-handed and the right-handed
+representations. Each of the two spin operators generates a Wigner little group whose representation
+space is composed of spin-$s$ spin states. In the case that the Poincar\'e group is extended by parity,
+only nonchiral $(s,s)$ representations and direct-sum $(s,s') \oplus (s',s)$ representations
+are allowed. In the $(1/2,0)\oplus (0,1/2)$ representation, we redrive the covariant Dirac equation
+by using the covariant parity operator defined by the two spin operators. This derivation deepens
+our understanding how the Dirac equation describes the spin-$1/2$ massive relativistic particle
+successfully. We have also discussed some important properties of our relativistic spin operators
+with arbitrary spin. 

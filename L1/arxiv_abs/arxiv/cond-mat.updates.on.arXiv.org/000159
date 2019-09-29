@@ -1,0 +1,16 @@
+The recent discovery of iron pnictide superconductors has resulted in a rapidly growing interest
+in multiband models with more than two bands. In this work we specifically focus on the properties
+of three-band Ginzburg-Landau models which do not have direct counterparts in more studied two-band
+models. First we derive normal modes and characteristic length scales in the conventional U(1)
+three-band Ginzburg-Landau model as well as in its time reversal symmetry broken counterpart with
+$U(1)\times Z_2$ symmetry. We show that in the latter case, the normal modes are mixed phase/density
+collective excitations. A possibility of the appearance of a massless phase-difference mode associated
+with fluctuations of the phase difference is also discussed. Next we show that gradients of densities
+and phase differences can be inextricably intertwined in vortex excitations in three-band models.
+This can lead to very long-range attractive intervortex interactions and appearance of type-1.5
+regimes even when the intercomponent Josephson coupling is large. In some cases it also results
+in the formation of a domain-like structures in the form of a ring of suppressed density around a vortex
+across which one of the phases shifts by $\pi$. We also show that field-induced vortices can lead
+to a change of broken symmetry from U(1) to $U(1)\times Z_2$ in the system. In the type-1.5 regime,
+it results in a semi-Meissner state where the system has a macroscopic phase separation in domains
+with broken U(1) and $U(1)\times Z_2$ symmetries. 

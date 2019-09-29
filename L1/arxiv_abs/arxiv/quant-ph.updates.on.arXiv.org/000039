@@ -1,0 +1,16 @@
+Multipartite entanglement on very large scales is a crucial requirement for quantum information
+processing (QIP), but no discrete variable proposals have been put forth for resonators. In this
+theoretical work, we present a highly scalable black box scheme that accepts as input any microwave
+resonator state with negligible occupation of number states $|0>$ and $|1>$, and nonlocally
+superposes it across an arbitrarily large array of resonators. The resulting large-scale entanglement
+is of the W-type, which is well-known for its robustness. The scheme employs a (quasi-)quantum phase
+transition of the attractive Bose-Hubbard model to generate the multipartite entanglement in
+parallel, and is therefore deterministic and permits an increase in resonator number with no increase
+in resources; the number of resonators is limited instead by system characteristics such as uniformity
+of resonator frequencies and inter-resonator coupling strength. Only one local and two global
+controls are required for the scheme. The scheme is made viable due to recent advances in superconducting
+circuit technology. We numerically demonstrate the scheme using realistic system parameters,
+and estimate that current capabilities can realize the scheme with greater than 100 resonators
+on a timescale of about 100 nanoseconds. Because superconducting microwave resonators are capable
+of exchanging quanta with qubits, mechanical resonators, and (potentially) optical fields, this
+proposal provides a route toward large-scale W-type entanglement in those modes as well. 

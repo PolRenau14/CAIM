@@ -1,0 +1,16 @@
+While brown dwarfs show similarities with stars in their early life, their spin evolution is much
+more akin to that of planets. We have used lightcurves from the K2 mission to measure new rotation
+periods for 18 young brown dwarfs in the Taurus star-forming region. Our sample spans masses from
+0.02 to 0.08 Msol and has been characterised extensively in the past. To search for periods, we utilize
+three different methods (autocorrelation, periodogram, Gaussian Processes). The median period
+for brown dwarfs with disks is twice as long as for those without (3.1 vs. 1.6 d), a signature of rotational
+braking by the disk, albeit with small numbers. With an overall median period of 1.9 d, brown dwarfs
+in Taurus rotate slower than their counterparts in somewhat older (3-10 Myr) star-forming regions,
+consistent with spin-up of the latter due to contraction and angular momentum conservation, a clear
+sign that disk braking overall is inefficient and/or temporary in this mass domain. We confirm the
+presence of a linear increase of the typical rotation period as a function of mass in the sub-stellar
+regime. The rotational velocities, when calculated forward to the age of the solar system assuming
+angular momentum conservation, fit the known spin-mass relation for solar system planets and extra-solar
+planetary-mass objects. This spin-mass trend holds over six orders of magnitude in mass, including
+objects from several different formation paths. Our result implies that brown dwarfs by and large
+retain their primordial angular momentum through the first few Myr of their evolution. 

@@ -1,0 +1,16 @@
+Malicious email attachments are a growing delivery vector for malware. While machine learning
+has been successfully applied to portable executable (PE) malware detection, we ask, can we extend
+similar approaches to detect malware across heterogeneous file types commonly found in email attachments?
+In this paper, we explore the feasibility of applying machine learning as a static countermeasure
+to detect several types of malicious email attachments including Microsoft Office documents and
+Zip archives. To this end, we collected a dataset of over 5 million malicious/benign Microsoft Office
+documents from VirusTotal for evaluation as well as a dataset of benign Microsoft Office documents
+from the Common Crawl corpus, which we use to provide more realistic estimates of thresholds for
+false positive rates on in-the-wild data. We also collected a dataset of approximately 500k malicious/benign
+Zip archives, which we scraped using the VirusTotal service, on which we performed a separate evaluation.
+We analyze predictive performance of several classifiers on each of the VirusTotal datasets using
+a 70/30 train/test split on first seen time, evaluating feature and classifier types that have been
+applied successfully in commercial antimalware products and R&D contexts. Using deep neural networks
+and gradient boosted decision trees, we are able to obtain ROC curves with > 0.99 AUC on both Microsoft
+Office document and Zip archive datasets. Discussion of deployment viability in various antimalware
+contexts is provided. 

@@ -1,0 +1,17 @@
+An explorative data analysis system should be aware of what the user already knows and what the user
+wants to know of the data: otherwise the system cannot provide the user with the most informative
+and useful views of the data. We propose a principled way to do explorative data analysis, where the
+user's background knowledge is modeled by a distribution parametrised by subsets of rows and columns
+in the data, called tiles. The user can also use tiles to describe his or her interests concerning
+relations in the data. We provide a computationally efficient implementation of this concept based
+on constrained randomisation. This is used to model both the background knowledge and the user's
+information request and is a necessary prerequisite for any interactive system. Furthermore,
+we describe a novel linear projection pursuit method to find and show the views most informative
+to the user, which at the limit of no background knowledge and with generic objective reduces to PCA.
+We show that our method is robust under noise and fast enough for interactive use. We also show that
+the method gives understandable and useful results when analysing real-world data sets. We will
+release, under an open source license, a software library implementing the idea, including the
+experiments presented in this paper. We show that our method can outperform standard projection
+pursuit visualisation methods in exploration tasks. Our framework makes it possible to construct
+human-guided data exploration systems which are fast, powerful, and give results that are easy
+to comprehend. 

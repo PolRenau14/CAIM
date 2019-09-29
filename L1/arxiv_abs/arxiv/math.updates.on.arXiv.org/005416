@@ -1,0 +1,17 @@
+We consider a steady-state heat conduction problem in a multidimensional bounded domain Omega
+for the Poisson equation with constant internal energy g and mixed boundary conditions given by
+a constant temperature b in the portion Gamma1 of the boundary and a constant heat flux q in the remaining
+portion Gamma2 of the boundary. Moreover, we consider a family of steady-state heat conduction
+problems with a convective condition on the boundary Gamma1 with heat transfer coefficient alpha
+and external temperature $b$. We obtain explicitly, for a rectangular domain in R^2, an annulus
+in R^2 and a spherical shell in R^3, the optimal controls, the system states and adjoint states for
+the following optimal control problems: a distributed control problem on the internal energy g,
+a boundary optimal control problem on the heat flux q, a boundary optimal control problem on the external
+temperature b and a distributed-boundary simultaneous optimal control problem on the source g
+and the flux q. These explicit solutions can be used for testing new numerical methods as a benchmark
+test. In agreement with theory, it is proved that the system state, adjoint state, optimal controls
+and optimal values corresponding to the problem with a convective condition on Gamma1 converge,
+when alpha goes to infty, to the corresponding system state, adjoint state, optimal controls and
+optimal values that arise from the problem with a temperature condition on Gamma1. Also, we analyze
+the order of convergence in each case, which turns out to be alpha being new for these kind of elliptic
+optimal control problems. 

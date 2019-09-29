@@ -1,0 +1,16 @@
+This paper proposes energy-efficient coordinated beamforming strategies for multi-cell multi-user
+multiple-input single-output system. We consider a practical power consumption model, where
+part of the consumed power depends on the base station or user specific data rates due to coding, decoding
+and backhaul. This is different from the existing approaches where the base station power consumption
+has been assumed to be a convex or linear function of the transmit powers. Two optimization criteria
+are considered, namely network energy efficiency maximization and weighted sum energy efficiency
+maximization. We develop successive convex approximation based algorithms to tackle these difficult
+nonconvex problems. We further propose decentralized implementations for the considered problems,
+in which base stations perform parallel and distributed computation based on local channel state
+information and limited backhaul information exchange. The decentralized approaches admit closed-form
+solutions and can be implemented without invoking a generic external convex solver. We also show
+an example of the pilot contamination effect on the energy efficiency using a heuristic pilot allocation
+strategy. The numerical results are provided to demonstrate that the rate dependent power consumption
+has a large impact on the system energy efficiency, and, thus, has to be taken into account when devising
+energy-efficient transmission strategies. The significant gains of the proposed algorithms
+over the conventional low-complexity beamforming algorithms are also illustrated. 

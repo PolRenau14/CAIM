@@ -1,0 +1,16 @@
+In order to best improve constraints on cosmological parameters and on models of modified gravity
+using current and future galaxy surveys it is necessary maximally exploit the available data. As
+redshift-space distortions mean statistical translation invariance is broken for galaxy observations,
+this will require measurement of the monopole, quadrupole and hexadecapole of not just the galaxy
+power spectrum, but also the galaxy bispectrum. A recent (2015) paper by Scoccimarro demonstrated
+how the standard bispectrum estimator may be expressed in terms of Fast Fourier Transforms (FFTs)
+to afford an extremely efficient algorithm, allowing the bispectrum multipoles on all scales and
+triangle shapes to be measured in comparable time to those of the power spectrum. In this paper we
+present a suite of alternative proxies to measure the three-point correlation multipoles. In particular,
+we describe a modal (or plane wave) decomposition to capture the information in each multipole in
+a series of basis coefficients, and also describe three compressed estimators formed using the
+skew-spectrum, the line correlation function and the integrated bispectrum, respectively. As
+well as each of the estimators offering a different measurement channel, and thereby a robustness
+check, it is expected that some (especially the modal estimator) will offer a vast data compression,
+and so a much reduced covariance matrix. This compression may be vital to reduce the computational
+load involved in extracting the available three-point information. 

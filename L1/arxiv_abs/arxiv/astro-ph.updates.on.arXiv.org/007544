@@ -1,0 +1,17 @@
+We examine the internal properties of the most massive ultracompact dwarf galaxy (UCD), M59-UCD3,
+by combining adaptive optics assisted near-IR integral field spectroscopy from Gemini/NIFS,
+and Hubble Space Telescope (HST) imaging. We use the multi-band HST imaging to create a mass model
+that suggests and accounts for the presence of multiple stellar populations and structural components.
+We combine these mass models with kinematics measurements from Gemini/NIFS to find a best-fit stellar
+mass-to-light ratio ($M/L$) and black hole (BH) mass using Jeans Anisotropic Models (JAM), axisymmetric
+Schwarzschild models, and triaxial Schwarzschild models. The best fit parameters in the JAM and
+axisymmetric Schwarzschild models have black holes between 2.5 and 5.9 million solar masses. The
+triaxial Schwarzschild models point toward a similar BH mass, but show a minimum $\chi^2$ at a BH
+mass of $\sim 0$. Models with a BH in all three techniques provide better fits to the central $V_{rms}$
+profiles, and thus we estimate the BH mass to be $4.2^{+2.1}_{-1.7} \times 10^{6}$ M$_\odot$ (estimated
+1$\sigma$ uncertainties). We also present deep radio imaging of M59-UCD3 and two other UCDs in Virgo
+with dynamical BH mass measurements, and compare these to X-ray measurements to check for consistency
+with the fundamental plane of BH accretion. We detect faint radio emission in M59cO, but find only
+upper limits for M60-UCD1 and M59-UCD3 despite X-ray detections in both these sources. The BH mass
+and nuclear light profile of M59-UCD3 suggests it is the tidally stripped remnant of a $\sim$10$^{9-10}$
+M$_\odot$ galaxy. 

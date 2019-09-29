@@ -1,0 +1,16 @@
+Single-user multiple-input / multiple-output (SU-MIMO) communication systems have been successfully
+used over the years and have provided a significant increase on a wireless link's capacity by enabling
+the transmission of multiple data streams. Assuming channel knowledge at the transmitter, the
+maximization of the mutual information of a MIMO link is achieved by finding the optimal power allocation
+under a given sum-power constraint, which is in turn obtained by the water-filling (WF) algorithm.
+However, in spectrum sharing setups, such as Licensed Shared Access (LSA), where a primary link
+(PL) and a secondary link (SL) coexist, the power transmitted by the SL transmitter may induce harmful
+interference to the PL receiver. While such co-existing links have been considered extensively
+in various spectrum sharing setups, the mutual information of the SL under a constraint on the interference
+it may cause to the PL receiver has, quite astonishingly, not been evaluated so far. In this paper,
+we solve this problem, find its unique optimal solution and provide the power allocation policy
+and corresponding precoding solution that achieves the optimal capacity under the imposed constraint.
+The performance of the optimal solution and the penalty due to the interference constraint are evaluated
+over some indicative Rayleigh fading channel conditions and interference thresholds. We believe
+that the obtained results are of general nature and that they may apply, beyond spectrum sharing,
+to a variety of applications that admit a similar setup. 

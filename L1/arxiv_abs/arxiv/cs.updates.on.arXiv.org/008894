@@ -1,0 +1,16 @@
+Until recently, transcriptomics was limited to bulk RNA sequencing, obscuring the underlying
+expression patterns of individual cells in favor of a global average. Thanks to technological advances,
+we can now profile gene expression across thousands or millions of individual cells in parallel.
+This new type of data has led to the intriguing discovery that individual cell profiles can reflect
+the imprint of time or dynamic processes. However, synthesizing this information to reconstruct
+dynamic biological phenomena from data that are noisy, heterogenous, and sparse---and from processes
+that may unfold asynchronously---poses a complex computational and statistical challenge. Here,
+we develop a full generative model for probabilistically reconstructing trees of cellular differentiation
+from single-cell RNA-seq data. Specifically, we extend the framework of the classical Dirichlet
+diffusion tree to simultaneously infer branch topology and latent cell states along continuous
+trajectories over the full tree. In tandem, we construct a novel Markov chain Monte Carlo sampler
+that interleaves Metropolis-Hastings and message passing to leverage model structure for efficient
+inference. Finally, we demonstrate that these techniques can recover latent trajectories from
+simulated single-cell transcriptomes. While this work is motivated by cellular differentiation,
+we derive a tractable model that provides flexible densities for any data (coupled with an appropriate
+noise model) that arise from continuous evolution along a latent nonparametric tree. 

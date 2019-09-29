@@ -1,0 +1,17 @@
+Most stars form and spend their early life in regions of enhanced stellar density. Therefore the
+evolution of protoplanetary discs (PPDs) hosted by such stars are subject to the influence of other
+members of the cluster. Physically, PPDs might be truncated either by photoevaporation due to ultraviolet
+flux from massive stars, or tidal truncation due to close stellar encounters. Here we aim to compare
+the two effects in real cluster environments. In this vein we first review the properties of well
+studied stellar clusters with a focus on stellar number density, which largely dictates the degree
+of tidal truncation, and far ultraviolet (FUV) flux, which is indicative of the rate of external
+photoevaporation. We then review the theoretical PPD truncation radius due to an arbitrary encounter,
+additionally taking into account the role of eccentric encounters that play a role in hot clusters
+with a 1D velocity dispersion $\sigma_v > 2$ km/s. Our treatment is then applied statistically to
+varying local environments to establish a canonical threshold for the local stellar density ($n_{c}
+> 10^4$ pc$^{-3}$) for which encounters can play a significant role in shaping the distribution
+of PPD radii over a timescale $\sim 3$ Myr. By combining theoretical mass loss rates due to FUV flux
+with viscous spreading in a PPD we establish a similar threshold for which a massive disc is completely
+destroyed by external photoevaporation. Comparing these thresholds in local clusters we find
+that if either mechanism has a significant impact on the PPD population then photoevaporation is
+always the dominating influence. 

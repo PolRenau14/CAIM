@@ -1,0 +1,17 @@
+Compared with the start-of-art energy integration detectors (EIDs), photon-counting detectors
+(PCDs) with energy discrimination capabilities have demonstrated great potentials in various
+applications of medical x-ray radiography and computed tomography (CT). However, the advantages
+of PCDs may be compromised by various hardware-related degradation factors. For example, at high
+count rate, quasi-coincident photons may be piled up and result in not only lost counts but also distorted
+spectrums, which is called the pulse pileup effects. Considering the relative slow detection speed
+of current PCDs and high x-ray flux for clinical imaging, it is vital to develop an effective approach
+to compensate or correct for the pileup effect. The aim of this paper was to develop a model-free,
+end-to-end, and data-driven approach in the neural network framework. We first introduce the trigger
+threshold concept to regularize the correction process. Then, we design a fully-connected cascade
+artificial neural network and train it with measurements and true counts. After training, the network
+is used to recover raw photon-counting data for higher fidelity. To evaluate the proposed approach,
+Monte Carlo simulations are conducted. We simulate four types of PCDs combining the unipolar or
+bipolar pulse shape with the nonparalyzable or paralyzable detection mode. The simulation results
+demonstrate that the trained neural network decreases the relative error of count averages of raw
+data by an order of magnitude while maintaining a reasonable variance over a wide range of attenuation
+paths. 

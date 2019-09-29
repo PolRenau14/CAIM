@@ -1,0 +1,16 @@
+We attempt to provide a quantitative theoretical explanation for the observations that Ca II H/K
+emission and X-ray emission from solar-like stars increase with decreasing Rossby number (i.e.,
+with faster rotation). Assuming that these emissions are caused by magnetic cycles similar to the
+sunspot cycle, we construct flux transport dynamo models of $1M_{\odot}$ stars rotating with different
+rotation periods. We first compute the differential rotation and the meridional circulation inside
+these stars from a mean-field hydrodynamics model. Then these are substituted in our dynamo code
+to produce periodic solutions. We find that the dimensionless amplitude $f_m$ of the toroidal flux
+through the star increases with decreasing rotation period. The observational data can be matched
+if we assume the emissions to go as the power 3-4 of $f_m$. Assuming that the Babcock-Leighton mechanism
+saturates with increasing rotation, we can provide an explanation for the observed saturation
+of emission at low Rossby numbers. The main failure of our model is that it predicts an increase of
+magnetic cycle period with increasing rotation rate, which is the opposite of what is found observationally.
+Much of our calculations are based on the assumption that the magnetic buoyancy makes the magnetic
+flux tubes to rise radially from the bottom of the convection zone. On taking account of the fact that
+the Coriolis force diverts the magnetic flux tubes to rise parallel to the rotation axis in rapidly
+rotating stars, the results do not change qualitatively. 

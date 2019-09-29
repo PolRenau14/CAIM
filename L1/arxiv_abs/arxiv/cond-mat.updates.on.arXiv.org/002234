@@ -1,0 +1,17 @@
+A spin-fermion model that captures the charge-transfer properties of Cu-based high critical temperature
+superconductors is introduced and studied via Monte Carlo simulations. The strong Coulomb repulsion
+among $d$-electrons in the Cu orbitals is phenomenologically replaced by an exchange coupling
+between the spins of the itinerant electrons and localized spins at the Cu sites, formally similar
+to double-exchange models for manganites. This interaction induces a charge-transfer insulator
+gap in the undoped case (five electrons per unit cell). Adding a small antiferromagnetic Heisenberg
+coupling between localized spins reinforces the global tendency towards antiferromagnetic order.
+To perform numerical calculations the localized spins are considered classical, as in previous
+related efforts. In this first study, undoped and doped $8\times 8$ clusters are analyzed in a wide
+range of temperatures. The numerical results reproduce experimental features in the one-particle
+spectral function and the density-of-states such as $(i)$ the formation of a Zhang-Rice-like band
+with a dispersion of order $\sim 0.5$ eV and with rotational symmetry about wavevector $(\pi/2,\pi/2)$
+at the top of the band, and $(ii)$ the opening of a pseudogap at the chemical potential upon doping.
+We also observed incipient tendencies towards spin incommensurability. This simple model offers
+a formalism intermediate between standard mean-field approximations, that fail at finite temperatures
+in regimes with short-range order, and sophisticated many-body techniques such as Quantum Monte
+Carlo, that suffer sign problems. 

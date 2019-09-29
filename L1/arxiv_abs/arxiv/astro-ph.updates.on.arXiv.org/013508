@@ -1,0 +1,17 @@
+With a selected sample of neutron star (NS) equation-of-states (EOSs) that are consistent with
+the current observations and have a range of maximum masses, we investigate the relations between
+NS gravitational mass $M_g$ and baryonic mass $M_b$, and the relations between the maximum NS mass
+supported through uniform rotation ($M_{\rm max}$) and that of nonrotating NSs ($M_{\rm TOV}$).
+We find that if one intends to apply an EOS-independent quadratic, universal transformation formula
+($M_b=M_g+A\times M_{g}^2$) to all EOSs, the best fit $A$ value is 0.080 for non-rotating NSs only
+and 0.073 when different spin periods are considered. The residual error of the transformation
+is as large as $\sim0.1M_{\odot}$. For different EOSs, we find that the parameter $A$ for non-rotating
+NSs is proportional to $R_{1.4}^{-1}$ (where $R_{1.4}$ is NS radius for 1.4$M_\odot$ in unit of
+km). For a particular EOS, if one adopts the best-fit parameters for different spin periods, the
+residual error of the transformation is smaller, which is of the order of 0.01$M_\odot$ for the quadratic
+form and less than 0.01$M_\odot$ for the cubic form ($M_b=M_g+A_1\times M_{g}^2+A_2\times M_{g}^3$).
+We also find a very tight and general correlation between the normalized mass gain due to spin $\Delta
+m\equiv(M_{\rm max}-M_{\rm TOV})/M_{\rm TOV}$ and the spin period normalized to the Keplerian
+period ${\cal P}$, i.e. ${\rm log_{10}}\Delta m = (-2.74\pm0.05){\rm log_{10}}{\cal P}+{\rm
+log_{10}}(0.20\pm 0.01)$, which is independent of EOS models. Applications of our results to GW170817
+is discussed. 

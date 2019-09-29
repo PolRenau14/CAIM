@@ -1,0 +1,16 @@
+HD149404 is an evolved non-eclipsing O-star binary that has previously undergone a Roche lobe overflow
+interaction. Understanding some key properties of the system requires a determination of the orbital
+inclination and of the dimensions of the components. The BRITE-Heweliusz satellite was used to
+collect photometric data of HD149404. Additional photometry was retrieved from the SMEI archive.
+These data were analysed using a suite of period search tools. The orbital part of the lightcurve
+was modelled with the nightfall binary star code. The Gaia-DR2 parallax of HD149404 was used to provide
+additional constraints. The periodograms reveal a clear orbital modulation of the lightcurve
+with a peak-to-peak amplitude near 0.04 mag. The remaining non-orbital part of the variability
+is consistent with red noise. The lightcurve folded with the orbital period reveals ellipsoidal
+variations, but no eclipses. The minimum when the secondary star is in inferior conjunction is deeper
+than the other minimum due to mutual reflection effects between the stars. Combined with the Gaia-DR2
+parallaxes, the photometric data indicate an orbital inclination in the range of 23{\deg} to 31{\deg}
+and a Roche lobe filling factor of the secondary larger than or equal to 0.96. The luminosity of the
+primary star is consistent with its present-day mass, whereas the more evolved secondary appears
+overluminous for its mass. We confirm that the primary's rotation period is about half the orbital
+period. Both features most probably stem from the past Roche lobe overflow episode. 

@@ -1,0 +1,16 @@
+A non-local dynamic homogenization technique for the analysis of a viscoelastic heterogeneous
+material which displays a periodic microstructure is herein proposed. The asymptotic expansion
+of the micro-displacement field in the transformed Laplace domain allows obtaining, from the expression
+of the micro-scale field equations, a set of recursive differential problems defined over the periodic
+unit cell. Consequently, the cell problems are derived in terms of perturbation functions depending
+on the geometrical and physical-mechanical properties of the material and its microstructural
+heterogeneities. A down-scaling relation is formulated in a consistent form, which correlates
+the microscopic to the macroscopic transformed displacement field and its gradients through the
+perturbation functions. Average field equations of infinite order are determined by substituting
+the down-scale relation into the micro-field equation. Based on a variational approach, the macroscopic
+field equations of a non-local continuum is delivered and the local and non-local overall constitutive
+and inertial tensors of the homogenized continuum are determined. The problem of wave propagation
+in case of a bi-phase layered material with orthotropic phases and axis of orthotropy parallel to
+the direction of layers is investigated as an example. In such a case, the local and non-local overall
+constitutive and inertial tensors are determined analytically and the dispersion curves obtained
+from the non-local homogenized model are analysed. 

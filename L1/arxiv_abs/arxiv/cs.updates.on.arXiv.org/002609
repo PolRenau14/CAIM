@@ -1,0 +1,16 @@
+In modern taxi networks, large amounts of taxi occupancy status and location data are collected
+from networked in-vehicle sensors in real-time. They provide knowledge of system models on passenger
+demand and mobility patterns for efficient taxi dispatch and coordination strategies. Such approaches
+face new challenges: how to deal with uncertainties of predicted customer demand while fulfilling
+the system's performance requirements, including minimizing taxis' total idle mileage and maintaining
+service fairness across the whole city; how to formulate a computationally tractable problem.
+To address this problem, we develop a data-driven robust taxi dispatch framework to consider spatial-temporally
+correlated demand uncertainties. The robust vehicle dispatch problem we formulate is concave
+in the uncertain demand and convex in the decision variables. Uncertainty sets of random demand
+vectors are constructed from data based on theories in hypothesis testing, and provide a desired
+probabilistic guarantee level for the performance of robust taxi dispatch solutions. We prove
+equivalent computationally tractable forms of the robust dispatch problem using the minimax theorem
+and strong duality. Evaluations on four years of taxi trip data for New York City show that by selecting
+a probabilistic guarantee level at 75%, the average demand-supply ratio error is reduced by 31.7%,
+and the average total idle driving distance is reduced by 10.13% or about 20 million miles annually,
+compared with non-robust dispatch solutions. 

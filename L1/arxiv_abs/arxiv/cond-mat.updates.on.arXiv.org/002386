@@ -1,0 +1,16 @@
+The effect of disorder in the intensity of the driving laser on a coupled array of cavities described
+by a Bose-Hubbard Hamiltonian for dark-state polaritons is investigated. A canonically-transformed
+Gutzwiller wave function is used to investigate the phase diagram and dynamics of a one-dimensional
+system with uniformly distributed disorder in the Rabi frequency. In the phase diagram, we find
+the emergence of a Bose glass phase that increases in extent as the strength of the disorder increases.
+We study the dynamics of the system when subject to a ramp in the Rabi frequency which, starting from
+the superfluid phase, is decreased linearly and then increased to its initial value. We investigate
+the dependence of the density of excitations, the relaxation of the superfluid order parameter
+and the excess energy pumped into the system on the inverse ramp rate, $\tau$. We find that, in the
+absence of disorder, the defect density oscillates with a constant envelope, while the relaxation
+of the order parameter and excess energy oscillate with $\tau^{-1.5}$ and $\tau^{-2}$ envelopes
+respectively. In the presence of disorder in the Rabi frequency, the defect density oscillates
+with a decaying envelope, the relaxation of the order parameter no longer decreases as $\tau$ increases
+while the residual energy decreases as $\tau$ increases. The rate at which the envelope of the defect
+density decays increases with increasing disorder strength, while the excess energy falls off
+more slowly with increasing disorder strength. 

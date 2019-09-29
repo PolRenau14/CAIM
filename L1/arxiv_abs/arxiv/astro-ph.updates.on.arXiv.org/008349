@@ -1,0 +1,16 @@
+This work looks at some definitive signatures of magnetars, in particular of period closures accompanied
+by a decline of X-ray radiation in two models. We review some of the previous works which are based
+on the well known dynamo model in which the star is born with a period of a few milliseconds at high temperatures.
+In such a convection regime the dynamo mechanism can amplify the the magnetic fields to the magnetar
+value. This is in contrast to a screened core model which posits that a high density phase transition
+occurs in the inner core of magnetars that dynamically aligns all the neutron magnetic moments producing
+a large magnetic field in the core. The accompanying change of flux gives rise to shielding or screening
+currents in the surrounding high conductivity plasma that do not permit the field to exit to the surface.
+Ambipolar diffusion then transports the field to the crust dissipating energy in neutrinos and
+X-rays. The up-welling field cleaves the crust resulting in flares and X-ray radiation from ohmic
+dissipation in the crust till the screening currents are spent and the surface polar field attains
+its final value. In the dynamo model the polar magnetic field decreases with time whereas in our screened
+model it increases to its final value. One consequence of this is that in the latter model, as a function
+of time and period, the ratio of the dipole radiation loss, $\dot E$ to the X-ray luminosity, $ L_X$,
+is a 'U' curve, indicating that it is the exponential decline in $L_X$, that brings closure to the
+periods that are observed for magnetars. 

@@ -1,0 +1,16 @@
+Given a finite collection $\mathbf{V}:=(V_1,\dots,V_N)$ of closed linear subspaces of a real
+Hilbert space $H$, let $P_i$ denote the orthogonal projection operator onto $V_i$ and $P_{i,\lambda}:=
+(1-\lambda)I + \lambda P_i$ denote its relaxation with parameter $\lambda \in [0,2]$, $i=1,\dots,N$.
+Under a mild regularity assumption on $\mathbf{V}$ known as `innate regularity' (which, for example,
+is always satisfied if each $V_i$ has finite dimension or codimension), we show that all trajectories
+$(x_n)_{0}^\infty$ resulting from the iteration $x_{n+1} := P_{i_n,\lambda_n}(x_n)$, where
+the $i_n$ and the $\lambda_n$ are unrestricted other than the assumption that $\{\lambda_n : n \in
+\mathbb{N}\} \subset [\eta,2{-}\eta]$ for some $\eta \in (0,1]$, possess uniformly bounded displacement
+moments of arbitrarily small orders. In particular, we show that $$ \sum_{n=0}^\infty \|x_{n+1}
+- x_n \|^\gamma \leq C \|x_0\|^\gamma ~\mbox{ for all }~ \gamma > 0,$$ where $C:=C(\mathbf{V},\eta,\gamma)<\infty$.
+This result strengthens prior results on norm convergence of these trajectories, known to hold
+under the same regularity assumption. For example, with $\gamma=1$, it follows that the displacements
+series $\sum (x_{n+1}-x_n)$ converges absolutely in $H$. Quantifying the constant $C(\mathbf{V},\eta,\gamma)$,
+we also derive an effective bound on the distribution function of the norms of the displacements
+(normalized by the norm of the initial condition) which yields a root-exponential type decay bound
+on their decreasing rearrangement, again uniformly for all trajectories. 

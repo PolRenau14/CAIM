@@ -1,0 +1,16 @@
+Balance is the fundamental skill behind human locomotion, and its impairment is the principal indicator
+of self-perceived disability. Despite significant improvements in balance assessment, there
+is still large incidence of fall related injuries among elderlies. The Base of Support (BoS) is a
+popular method for bipedal stability assessment, but its accuracy depends on the accuracy the BoS
+geometry measurement. This work presents a method to ease the BoS tracking by the identification
+of a reference frame that allows to define postural models of the BoS geometry. Although we also propose
+a geometry based on the geometry determined from centre of pressure range of motion within the foot
+obtained from literature, this methodology can be used with other models (i.e., the feasible base
+of support). The model has been tested with 12 healthy subjects, which have been asked to explore
+their stability in six different postures. The results show that the model can accurate deform the
+geometry of the BoS to adapt its shape to the different postures, which can remove the necessity of
+force/torque sensors in some application. Potentially the proposed method can be also applied
+to describe any posture dependent attribute (e.g., gravitational forces), and it can be also applied
+to bipedal robots. Therefore, it constitutes a novel mathematical tool that can be deployed to develop
+both better sensors and models for bipeds. For example, it can be used with the Extrapolated CoM model
+to evaluate dynamic stability from the body kinematics. 

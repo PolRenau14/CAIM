@@ -1,0 +1,16 @@
+Context. Classical novae are thermonuclear explosions hosted by accreting white dwarfs in stellar
+binary systems. Material piles up on top of the white dwarf star under mildly degenerate conditions,
+driving a thermonuclear runaway. The energy released by the suite of nuclear processes operating
+at the envelope (mostly proton-capture reactions and beta-decays) heats the material up to peak
+temperatures ranging from 100 to 400 MK. In these events, about 10-3 - 10-7 Msun, enriched in CNO and,
+sometimes, other intermediate-mass elements (e.g., Ne, Na, Mg, Al), are ejected into the interstellar
+medium. Aims. To date, most of the efforts undertaken in the modeling of classical nova outbursts
+have focused on the early stages of the explosion and ejection, ignoring the interaction of the ejecta,
+first with the accretion disk orbiting the white dwarf, and ultimately with the secondary star.
+Methods. A suite of three-dimensional, SPH simulations of the interaction between the nova ejecta,
+the accretion disk, and the stellar companion have been performed to fill this gap, aimed at testing
+the influence of the different parameters (i.e., mass and velocity of the ejecta, mass and geometry
+of the accretion disk) on the dynamical and chemical properties of the system. Results. We discuss
+the conditions that lead to the disruption of the accretion disk and to mass loss from the binary system.
+In addition, we discuss the likelihood of chemical contamination of the stellar secondary induced
+by the impact with the nova ejecta and its potential effect on the next nova cycle. 

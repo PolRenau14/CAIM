@@ -1,0 +1,16 @@
+We consider the spherical DG category $Sph_G$ attached to an affine algebraic group $G$. By definition,
+$Sph_G := IndCoh(LS_G(S^2))$ consists of ind-coherent sheaves of the stack of $G$-local systems
+on the $2$-sphere $S^2$. The $3$-dimensional version of the pair of pants endows $Sph_G$ with an
+$E_3$-monoidal structure. More generally, for an algebraic stack $Y$ (satisfying some mild conditions)
+and $n \geq -1$, we can look at the $E_{n+1}$-monoidal DG category $Sph(Y,n) := IndCoh_0((Y^{S^n})^\wedge_Y)$,
+where $IndCoh_0$ is the sheaf theory introduced in [AG2] and [centerH]. % The case of $Sph_G$ is recovered
+by setting $Y =BG$ and $n=2$. The cobordism hypothesis associates to $Sph(Y,n)$ an $(n+1)$-dimensional
+TQFT, whose value of a manifold $M^d$ of dimension $d \leq n+1$ (possibly with boundary) is given
+by the {topological chiral homology} $\int_{M^d} Sph(Y,n)$. % In this paper, we compute such homology
+(in virtually all cases): we have the Stokes style formula $$ \int_{M^d} Sph(Y,n) \simeq IndCoh_0
+( (Y^{\partial(M^d \times D^{n+1-d})})^\wedge_{Y^M} ) , $$ where the formal completion is constructed
+using the obvious projection $\partial(M^d \times D^{n+1-d}) \to M^d$. The most interesting instance
+of this formula is for $Sph_G \simeq Sph(BG,2)$, the original spherical category, and $X$ a Riemann
+surface. In this case, we obtain a monoidal equivalence $\int_X Sph_G \simeq H(LS_G^{Betti}(X))$,
+where $LS_G^{Betti}(X)$ is the stack of $G$-local systems on the topological space underlying
+$X$ and $H$ is the sheaf theory introduced in [centerH]. 

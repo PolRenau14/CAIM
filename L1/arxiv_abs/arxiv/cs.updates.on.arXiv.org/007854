@@ -1,0 +1,16 @@
+Beamforming has great potential for joint communication and sensing (JCAS), which is becoming
+a demanding feature on many emerging platforms such as unmanned aerial vehicles and smart cars.
+Although beamforming has been extensively studied for communication and radar sensing respectively,
+its application in the joint system is not straightforward due to different beamforming requirements
+by communication and sensing. In this paper, we propose a novel multibeam framework using steerable
+analog antenna arrays, which allows seamless integration of communication and sensing. Different
+to conventional JCAS schemes that support JCAS using a single beam, our framework is based on the
+key innovation of multibeam technology: providing fixed subbeam for communication and packet-varying
+scanning subbeam for sensing, simultaneously from a single transmitting array. We provide a system
+architecture and protocols for the proposed framework, complying well with modern packet communication
+systems with multicarrier modulation. We also propose low-complexity and effective multibeam
+design and generation methods, which offer great flexibility in meeting different communication
+and sensing requirements. We further develop sensing parameter estimation algorithms using conventional
+digital Fourier transform and 1D compressive sensing techniques, matching well with the multibeam
+framework. Simulation results are provided and validate the effectiveness of our proposed framework,
+beamforming design methods and the sensing algorithms. 

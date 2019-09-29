@@ -1,0 +1,16 @@
+We test the performance of the semi-analytic self-consistent Just-Jahrei{\ss} disc model (JJ
+model) with the astrometric data from the Tycho-Gaia Astrometric Solution (TGAS) sub-catalogue
+of the first Gaia data release (Gaia DR1), as well as the radial velocities from the fifth data release
+of the Radial Velocity Experiment survey (RAVE DR5). We use a sample of 19,746 thin disc stars from
+the TGAS$\times$RAVE cross-match selected in the local solar cylinder of 300 pc radius and 1 kpc
+height below the Galactic plane and simulate this sample via the forward modelling technique. First,
+we convert the predicted vertical density laws of the thin disc populations into a mock sample. Then
+the obtained mock populations are reddened with a 3D dust map and are subjected to the selection criteria
+corresponding to the RAVE and TGAS observational limitations as well as to additional cuts applied
+to the data sample. We calculate the quantities of interest separately at different heights above
+the Galactic plane taking into account the distance error effects separately in horizontal and
+vertical directions. We investigate the simulated sample in terms of the vertical number density
+profiles, Hess diagrams and velocity distribution functions. Basing on a good agreement of our
+simulations with the data, we conclude that our fiducial disc model confidently reproduces the
+vertical trends in the thin disc stellar population properties. Thus, it can serve as a starting
+point for the future extension of the JJ model to other Galactocentric distances. 

@@ -1,0 +1,16 @@
+In a self-organizing particle system, an abstraction of programmable matter, simple computational
+elements called particles with limited memory and communication self-organize to solve system-wide
+problems of movement, coordination, and configuration. In this paper, we consider stochastic,
+distributed, local, asynchronous algorithms for "shortcut bridging", in which particles self-assemble
+bridges over gaps that simultaneously balance minimizing the length and cost of the bridge. Army
+ants of the genus Eciton have been observed exhibiting a similar behavior in their foraging trails,
+dynamically adjusting their bridges to satisfy an efficiency tradeoff using local interactions.
+Using techniques from Markov chain analysis, we rigorously analyze our algorithm, show it achieves
+a near-optimal balance between the competing factors of path length and bridge cost, and prove that
+it exhibits a dependence on the angle of the gap being "shortcut" similar to that of the ant bridges.
+We also present simulation results that qualitatively compare our algorithm with the army ant bridging
+behavior. Our work presents a plausible explanation of how convergence to globally optimal configurations
+can be achieved via local interactions by simple organisms (e.g., ants) with some limited computational
+power and access to random bits. The proposed algorithm demonstrates the robustness of the stochastic
+approach to algorithms for programmable matter, as it is a surprisingly simple extension of a stochastic
+algorithm for compression. 

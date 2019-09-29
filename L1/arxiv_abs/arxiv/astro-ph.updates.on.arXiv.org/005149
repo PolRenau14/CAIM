@@ -1,0 +1,16 @@
+We investigate the relationship between the black hole accretion rate (BHAR) and star-formation
+rate (SFR) for Milky Way (MW) and Andromeda (M31)-mass progenitors from z = 0.2 - 2.5. We source galaxies
+from the Ks-band selected ZFOURGE survey, which includes multi-wavelenth data spanning 0.3 - 160um.
+We use decomposition software to split the observed SEDs of our galaxies into their active galactic
+nuclei (AGN) and star-forming components, which allows us to estimate BHARs and SFRs from the infrared
+(IR). We perform tests to check the robustness of these estimates, including a comparison to BHARs
+and SFRs derived from X-ray stacking and far-IR analysis, respectively. We find as the progenit-
+ors evolve, their relative black hole-galaxy growth (i.e. their BHAR/SFR ratio) increases from
+low to high redshift. The MW-mass progenitors exhibit a log-log slope of 0.64 +/- 0.11, while the
+M31-mass progenitors are 0.39 +/- 0.08. This result contrasts with previous studies that find an
+almost flat slope when adopting X-ray/AGN-selected or mass-limited samples and is likely due to
+their use of a broad mixture of galaxies with different evolutionary histories. Our use of progenitor-matched
+samples highlights the potential importance of carefully selecting progenitors when searching
+for evolutionary relationships between BHAR/SFRs. Additionally, our finding that BHAR/SFR ratios
+do not track the rate at which progenitors quench casts doubts over the idea that the suppression
+of star-formation is predominantly driven by luminous AGN feedback (i.e. high BHARs). 

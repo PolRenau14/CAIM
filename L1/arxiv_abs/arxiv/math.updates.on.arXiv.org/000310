@@ -1,0 +1,16 @@
+Consider a population where individuals give birth at constant rate during their lifetimes to i.i.d.
+copies of themselves. Individuals bear clonally inherited types, but (neutral) mutations may
+happen at the birth events. The smallest subtree containing the genealogy of all the extant individuals
+at a fixed time \tau, is called the coalescent point process. We enrich this process with the history
+of the mutations that appeared over time, and call it the marked coalescent point process. With the
+help of limit theorems for L\'evy processes with marked jumps established in a previous work ( arXiv:1305.6245
+), we prove the convergence of the marked coalescent point process with large population size and
+two possible regimes for the mutations - one of them being a classical rare mutation regime, towards
+a multivariate Poisson point process. This Poisson point process can be described as the coalescent
+point process of the limiting population at \tau, with mutations arising as inhomogeneous regenerative
+sets along the lineages. Its intensity measure is further characterized thanks to the excursion
+theory for spectrally positive L\'evy processes. In the rare mutations asymptotic, mutations
+arise as the image of a Poisson process by the ladder height process of a L\'evy process with infinite
+variation, and in the particular case of the critical branching process with exponential lifetimes,
+the limiting object is the Poisson point process of the depths of excursions of the Brownian motion,
+with Poissonian mutations on the lineages. 

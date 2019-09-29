@@ -1,0 +1,16 @@
+Let $H^{\infty}(E)$ be a non commutative Hardy algebra, associated with a $W^*$-correspondence
+$E$. These algebras were introduced in 2004, ~\cite{MuS3}, by P. Muhly and B. Solel, and generalize
+the classical Hardy algebra of the unit disc $H^{\infty}(\mathbb{D})$. As a special case one obtains
+also the algebra $\mathcal{F}^{\infty}$ of Popescu, which is $H^{\infty}(\mathbb{C}^n)$ in
+our setting. In this paper we view the algebra $H^\infty(E)$ as acting on a Hilbert space via an induced
+representation $\rho(H^{\infty}(E))$, and we study the reflexivity of $\rho(H^{\infty}(E))$.
+This question was studied by A. Arias and G. Popescu in the context of the algebra $\mathcal{F}^{\infty}$,
+and by other authors in several other special cases. As it will be clear from our work, the extension
+to the case of a general $W^*$-correspondence $E$ over a general $W^*$-algebra $M$ requires new
+techniques and approach. We obtain some partial results in the general case and we turn to the case
+of a correspondence over factor. Under some additional assumptions on the representation $\pi:M\rightarrow
+B(H)$ we show that $\rho_\pi(H^{\infty}(E))$ is reflexive. Then we apply these results to analytic
+crossed products $\rho(H^{\infty}(\ _{\alpha}M))$ and obtain their reflexivity for any automorphism
+$\alpha\in Aut(M)$ whenever $M$ is a factor. Finally, we show also the reflexivity of the compression
+of the Hardy algebra to a suitable coinvariant subspace $\mathfrak{M}$, which may be thought of
+as a generalized symmetric Fock space. 

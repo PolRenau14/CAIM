@@ -1,0 +1,16 @@
+We present the first high order one-step ADER-WENO finite volume scheme with Adaptive Mesh Refinement
+(AMR) in multiple space dimensions. High order spatial accuracy is obtained through a WENO reconstruction,
+while a high order one-step time discretization is achieved using a local space-time discontinuous
+Galerkin predictor method. Due to the one-step nature of the underlying scheme, the resulting algorithm
+is particularly well suited for an AMR strategy on space-time adaptive meshes, i.e.with time-accurate
+local time stepping. The AMR property has been implemented 'cell-by-cell', with a standard tree-type
+algorithm, while the scheme has been parallelized via the Message Passing Interface (MPI) paradigm.
+The new scheme has been tested over a wide range of examples for nonlinear systems of hyperbolic conservation
+laws, including the classical Euler equations of compressible gas dynamics and the equations of
+magnetohydrodynamics (MHD). High order in space and time have been confirmed via a numerical convergence
+study and a detailed analysis of the computational speed-up with respect to highly refined uniform
+meshes is also presented. We also show test problems where the presented high order AMR scheme behaves
+clearly better than traditional second order AMR methods. The proposed scheme that combines for
+the first time high order ADER methods with space--time adaptive grids in two and three space dimensions
+is likely to become a useful tool in several fields of computational physics, applied mathematics
+and mechanics. 

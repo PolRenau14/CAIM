@@ -1,0 +1,17 @@
+We present the performance of a superconducting nanowire that can be operated in two detection modes:
+i) as a kinetic inductance detector (KID) or ii) as a single-photon detector (SPD). Two superconducting
+nanowires developed for use as single-photon detectors (SNSPDs) are embedded as the inductive
+(L) component in resonant inductor/capacitor (LC) circuits coupled to a microwave transmission
+line. The capacitors are low loss commercial chip capacitors and limit the internal quality factor
+of the resonators to approximately $Q_i = 170$. The resonator quality factor, $Q_r \simeq 23$, is
+dominated by the coupling to the feedline and limits the detection bandwidth to on the order of 1MHz.
+When operated in KID mode, the detectors are AC biased with tones at their resonant frequencies of
+45.85 and 91.81MHz. In the low-bias, standard KID mode, a single photon produces a hot spot that does
+not turn an entire section of the line normal but only increases the kinetic inductance. In the high-bias,
+critical KID mode, a photon event turns a section of the line normal and the resonance is destroyed
+until the normal region is dissipated. When operated as an SPD in Geiger mode, the resonators are
+DC biased through cryogenic bias tees and each photon produces a sharp voltage step followed by a
+ringdown signal at the resonant frequency of the detector which is converted to a standard pulse
+with an envelop detector. We show that AC biasing in the critical KID mode is inferior to the sensitivity
+achieved in DC-biased SPD mode due to the small fraction of time spent near the critical current with
+an AC bias. 

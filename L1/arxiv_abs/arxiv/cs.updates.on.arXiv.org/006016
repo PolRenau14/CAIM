@@ -1,0 +1,16 @@
+Human professionals are often required to make decisions based on complex multivariate time series
+measurements in an online setting, e.g. in health care. Since human cognition is not optimized to
+work well in high-dimensional spaces, these decisions benefit from interpretable low-dimensional
+representations. However, many representation learning algorithms for time series data are difficult
+to interpret. This is due to non-intuitive mappings from data features to salient properties of
+the representation and non-smoothness over time. To address this problem, we propose to couple
+a variational autoencoder to a discrete latent space and introduce a topological structure through
+the use of self-organizing maps. This allows us to learn discrete representations of time series,
+which give rise to smooth and interpretable embeddings with superior clustering performance.
+Furthermore, to allow for a probabilistic interpretation of our method, we integrate a Markov model
+in the latent space. This model uncovers the temporal transition structure, improves clustering
+performance even further and provides additional explanatory insights as well as a natural representation
+of uncertainty. We evaluate our model on static (Fashion-)MNIST data, a time series of linearly
+interpolated (Fashion-)MNIST images, a chaotic Lorenz attractor system with two macro states,
+as well as on a challenging real world medical time series application. In the latter experiment,
+our representation uncovers meaningful structure in the acute physiological state of a patient.

@@ -1,0 +1,16 @@
+Community detection is considered for a stochastic block model graph of n vertices, with K vertices
+in the planted community, edge probability p for pairs of vertices both in the community, and edge
+probability q for other pairs of vertices. The main focus of the paper is on weak recovery of the community
+based on the graph G, with o(K) misclassified vertices on average, in the sublinear regime $n^{1-o(1)}
+\leq K \leq o(n).$ A critical parameter is the effective signal-to-noise ratio $\lambda=K^2(p-q)^2/((n-K)q)$,
+with $\lambda=1$ corresponding to the Kesten-Stigum threshold. We show that a belief propagation
+algorithm achieves weak recovery if $\lambda>1/e$, beyond the Kesten-Stigum threshold by a factor
+of $1/e.$ The belief propagation algorithm only needs to run for $\log^\ast n+O(1) $ iterations,
+with the total time complexity $O(|E| \log^*n)$, where $\log^*n$ is the iterated logarithm of $n.$
+Conversely, if $\lambda \leq 1/e$, no local algorithm can asymptotically outperform trivial random
+guessing. Furthermore, a linear message-passing algorithm that corresponds to applying power
+iteration to the non-backtracking matrix of the graph is shown to attain weak recovery if and only
+if $\lambda>1$. In addition, the belief propagation algorithm can be combined with a linear-time
+voting procedure to achieve the information limit of exact recovery (correctly classify all vertices
+with high probability) for all $K \ge \frac{n}{\log n} \left( \rho_{\rm BP} +o(1) \right),$ where
+$\rho_{\rm BP}$ is a function of $p/q$. 

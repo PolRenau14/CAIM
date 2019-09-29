@@ -1,0 +1,16 @@
+In this paper we consider non-smooth convex optimization problems with (possibly) infinite intersection
+of constraints. In contrast to the classical approach, where the constraints are usually represented
+as intersection of simple sets, which are easy to project onto, in this paper we consider that each
+constraint set is given as the level set of a convex but not necessarily differentiable function.
+For these settings we propose subgradient iterative algorithms with random minibatch feasibility
+updates. At each iteration, our algorithms take a step aimed at only minimizing the objective function
+and then a subsequent step minimizing the feasibility violation of the observed minibatch of constraints.
+The feasibility updates are performed based on either parallel or sequential random observations
+of several constraint components. We analyze the convergence behavior of the proposed algorithms
+for the case when the objective function is restricted strongly convex and with bounded subgradients,
+while the functional constraints are endowed with a bounded first-order black-box oracle. For
+a diminishing stepsize, we prove sublinear convergence rates for the expected distances of the
+weighted averages of the iterates from the constraint set, as well as for the expected suboptimality
+of the function values along the weighted averages. Our convergence rates are known to be optimal
+for subgradient methods on this class of problems. Moreover, the rates depend explicitly on the
+minibatch size and show when minibatching helps a subgradient scheme with random feasibility updates.

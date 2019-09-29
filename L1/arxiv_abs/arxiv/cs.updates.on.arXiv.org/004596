@@ -1,0 +1,16 @@
+As applications continue to generate multi-dimensional data at exponentially increasing rates,
+fast analytics to extract meaningful results is becoming extremely important. The database community
+has developed array databases that alleviate this problem through a series of techniques. In-situ
+mechanisms provide direct access to raw data in the original format---without loading and partitioning.
+Parallel processing scales to the largest datasets. In-memory caching reduces latency when the
+same data are accessed across a workload of queries. However, we are not aware of any work on distributed
+caching of multi-dimensional raw arrays. In this paper, we introduce a distributed framework for
+cost-based caching of multi-dimensional arrays in native format. Given a set of files that contain
+portions of an array and an online query workload, the framework computes an effective caching plan
+in two stages. First, the plan identifies the cells to be cached locally from each of the input files
+by continuously refining an evolving R-tree index. In the second stage, an optimal assignment of
+cells to nodes that collocates dependent cells in order to minimize the overall data transfer is
+determined. We design cache eviction and placement heuristic algorithms that consider the historical
+query workload. A thorough experimental evaluation over two real datasets in three file formats
+confirms the superiority -- by as much as two orders of magnitude -- of the proposed framework over
+existing techniques in terms of cache overhead and workload execution time. 

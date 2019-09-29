@@ -1,0 +1,16 @@
+We study the $q\bar{q}$ potential in strongly coupled non-conformal field theories with a non-trivial
+renormalization group flow via holography. We focus on the properties of this potential at an inter-quark
+separation $L$ large compared to the characteristic scale of the field theory. These are determined
+by the leading order IR physics plus a series of corrections, sensitive to the properties of the RG-flow.
+To determine those corrections, we propose a general method applying holographic Wilsonian renormalization
+to a dual string. We apply this method to examine in detail two sets of examples, $3+1$-dimensional
+theories with an RG flow from an IR fixed point driven by an irrelevant deformation; and theories
+that are confining in the IR, in particular, the Witten QCD and Klebanov-Strassler models. In both
+cases, we find corrections with a universal dependence on the inter-quark separation. When there
+is an IR fixed point, that correction decays as a power $\sim 1/L^4$. We explain that dependence in
+terms of a double-trace deformation in a one-dimensional defect theory. For a confining theory,
+the decay is exponential $\sim e^{-ML}$, with $M$ a scale of the order of the glueball mass. We interpret
+this correction using an effective flux tube description as produced by a background internal mode
+excitation induced by sources localized at the endpoints of the flux tube. We discuss how these results
+could be confronted with lattice QCD data to test whether the description of confinement via the
+gauge/gravity is qualitatively correct. 

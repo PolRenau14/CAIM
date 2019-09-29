@@ -1,0 +1,16 @@
+Encouraged by recent studies on the performance of tidal turbine arrays, we extend the classical
+momentum actuator disc theory to include the free surface effects and allow the vertical arrangement
+of turbines. Most existing literatures concern one dimensional arrays with single turbine in the
+vertical direction, while the arrays in this work are two dimensional (with turbines in both the
+vertical and lateral directions) and also partially block the channel which width is far larger
+than height. The vertical mixing of array scale flow is assumed to take place much faster than lateral
+one. This assumption has been verified by numerical simulations. Fixing the total turbine area
+and utilized width, the comparison between two-dimensional and traditional one-dimensional
+arrays is investigated. The results suggest that the two dimensional arrangements of smaller turbines
+are preferred to one dimensional arrays from both the power coefficient and efficiency perspectives.
+When channel dynamics are considered, the power increase would be partly offset according to the
+parameters of the channel but the optimal arrangement is unchangeable. Furthermore, we consider
+how to arrange finite number of turbines in a channel. It is shown that an optimal distribution of
+turbines in two directions is found. Finally, the scenario of arranging turbines in infinite flow,
+which is the limiting condition of small blockages, is analysed. A new maximum power coefficient
+0.869 occurs when $Fr=0.2$, greatly increasing the peak power compared with existing results.

@@ -1,0 +1,17 @@
+Despite the fact that the mean matter density of the universe has been measured to an accuracy of a
+few percent within the standard $\Lambda$CDM paradigm, its median density is not known even to order
+of magnitude. Typical points lie in low-density regions and are not part of a collapsed structure
+of any scale. Locally, the dark matter distribution is then simply a stretched version of that in
+the early universe. In this single-stream regime, the distribution of unsmoothed density is sensitive
+to the initial power spectrum on all scales, in particular on very small scales, and hence to the nature
+of the dark matter. It cannot be estimated reliably using conventional cosmological simulations
+because of the enormous dynamic range involved, but a suitable excursion set procedure can be used
+instead. For the Planck cosmological parameters, a 100 GeV WIMP, corresponding to a free-streaming
+mass $\sim 10^{-6}M_\odot$, results in a median density of $\sim 4\times 10^{-3}$ in units of the
+mean density, whereas a 10 $\mu$eV axion with free-streaming mass $\sim 10^{-12}M_\odot$ gives
+$\sim 3\times 10^{-3}$, and Warm Dark Matter with a (thermal relic) mass of 1 keV gives $\sim 8\times
+10^{-2}$. In CDM (but not in WDM) universes, single-stream regions are predicted to be topologically
+isolated by the excursion set formalism. A test by direct N-Body simulations seems to confirm this
+prediction, although it is still subject to finite size and resolution effects. Unfortunately,
+it is unlikely that any of these properties is observable and so suitable for constraining the properties
+of dark matter. 

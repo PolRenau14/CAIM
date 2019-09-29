@@ -1,0 +1,17 @@
+Cross-identifying complex radio sources with optical or infra red (IR) counterparts in surveys
+such as the Australia Telescope Large Area Survey (ATLAS) has traditionally been performed manually.
+However, with new surveys from the Australian Square Kilometre Array Pathfinder (ASKAP) detecting
+many tens of million of radio sources such an approach is no longer feasible. This paper presents
+new software (LRPY - Likelihood Ratio in PYthon) to automate the process of cross-identifying radio
+sources with catalogues at other wavelengths. LRPY implements the Likelihood Ratio (LR) technique
+with a modification to account for two galaxies contributing to a sole measured radio component.
+We demonstrate LRPY by applying it to ATLAS DR3 and a {\it Spitzer}-based multi-wavelength fusion
+catalogue, identifying 3,848 matched sources via our LR-based selection criteria. A subset of
+1987 sources have flux density values for all IRAC bands which allow us to use criteria to distinguish
+between active galactic nuclei (AGN) and star-forming galaxies (SFG). We find that 936 radio sources
+($\approx47\,\%$) meet both of the Lacy and Stern AGN selection criteria. Of the matched sources,
+295 have spectroscopic redshifts and we examine the radio to IR flux ratio vs redshift, proposing
+an AGN selection criterion below the Elvis radio-loud (RL) AGN limit for this dataset. Taking the
+union of all three AGN selection criteria we identify 956 as AGN ($\approx48\,\%$). From this dataset,
+we find a decreasing fraction of AGN with lower radio flux densities consistent with other results
+in the literature. 

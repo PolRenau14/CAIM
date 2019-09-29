@@ -1,0 +1,16 @@
+Belinschi and Nica introduced a composition semigroup on the set of probability measures. Using
+this semigroup, they introduced a free divisibility indicator, from which one can know whether
+a probability measure is freely infinitely divisible or not. In this paper we further investigate
+this indicator, introduce a multiplicative version of it and are able to show many properties. Specifically,
+on the first half of the paper, we calculate how the indicator changes with respect to free and Boolean
+powers; we prove that free and Boolean 1/2-stable laws have free divisibility indicators equal
+to infinity; we derive an upper bound of the indicator in terms of Jacobi parameters. This upper bound
+is achieved only by free Meixner distributions. We also prove Bozejko's conjecture which says the
+Boolean power of a probability measure mu by 0 < t < 1 is freely infinitely divisible if mu is
+so. In the other half of this paper, we introduce an analogous composition semigroup for multiplicative
+convolutions and define free divisibility indicators for these convolutions. Moreover, we prove
+that a probability measure on the unit circle is freely infinitely divisible concerning the multiplicative
+free convolution if and only if the indicator is not less than one. We also prove how the multiplicative
+divisibility indicator changes under free and Boolean powers and then the multiplicative analogue
+of Bozejko's conjecture. We include an appendix, where the Cauchy distributions and point measures
+are shown to be the only fixed points of the Boolean-to-free Bercovici-Pata bijection. 

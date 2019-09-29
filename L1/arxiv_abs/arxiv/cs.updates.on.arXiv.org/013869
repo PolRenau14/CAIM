@@ -1,0 +1,17 @@
+High-order finite element methods (HO-FEM) are gaining popularity in the simulation community
+due to their success in solving complex flow dynamics. There is an increasing need to analyze the
+data produced as output by these simulations. Simultaneously, topological analysis tools are
+emerging as powerful methods for investigating simulation data. However, most of the current approaches
+to topological analysis have had limited application to HO-FEM simulation data for two reasons.
+First, the current topological tools are designed for linear data (polynomial degree one), but
+the polynomial degree of the data output by these simulations is typically higher (routinely up
+to polynomial degree six). Second, the simulation data and derived quantities of the simulation
+data have discontinuities at element boundaries, and these discontinuities do not match the input
+requirements for the topological tools. One solution to both issues is to transform the high-order
+data to achieve low-order, continuous inputs for topological analysis. Nevertheless, there has
+been little work evaluating the possible transformation choices and their downstream effect on
+the topological analysis. We perform an empirical study to evaluate two commonly used data transformation
+methodologies along with the recently introduced L-SIAC filter for processing high-order simulation
+data. Our results show diverse behaviors are possible. We offer some guidance about how best to consider
+a pipeline of topological analysis of HO-FEM simulations with the currently available implementations
+of topological analysis. 

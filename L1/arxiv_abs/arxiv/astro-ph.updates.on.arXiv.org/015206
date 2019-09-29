@@ -1,0 +1,16 @@
+We study the optical morphology of galaxies in a large-scale hydrodynamic cosmological simulation,
+the EAGLE simulation. Galaxy morphologies were characterized using non-parametric statistics
+(Gini, $M_{20}$, Concentration and Asymmetry) derived from mock images computed using a 3D radiative
+transfer technique and post-processed to approximate observational surveys. The resulting morphologies
+were contrasted to observational results from a sample of $\log_{10}(M_{*}/M_\odot) > 10$ galaxies
+at $z \sim 0.05$ in the GAMA survey. We find that the morphologies of EAGLE galaxies reproduce observations,
+except for asymmetry values which are larger. Additionally, we study the effect of spatial resolution
+in the computation of non-parametric morphologies, finding that Gini and Asymmetry values are
+systematically reduced with decreasing spatial resolution. Gini values for lower mass galaxies
+are especially affected. Comparing against other large scale simulations, the non-parametric
+statistics of EAGLE galaxies largely agree with those found in IllustrisTNG. Additionally, EAGLE
+galaxies mostly reproduce observed trends between morphology and star formation rate and galaxy
+size. Finally, We also find a significant correlation between optical and kinematic estimators
+of morphologies, although galaxy classification based on an optical or a kinematic criteria results
+in different galaxy subsets. The correlation between optical and kinematic morphologies is stronger
+in central galaxies than in satellites, indicating differences in morphological evolution. 

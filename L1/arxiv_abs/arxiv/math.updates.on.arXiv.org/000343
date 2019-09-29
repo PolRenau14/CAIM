@@ -1,0 +1,16 @@
+A Boolean power S of a commutative ring R has the structure of a commutative R-algebra, and with respect
+to this structure, each element of S can be written uniquely as an R-linear combination of orthogonal
+idempotents so that the sum of the idempotents is 1 and their coefficients are distinct. In order
+to formalize this decomposition property, we introduce the concept of a Specker R-algebra, and
+we prove that the Boolean powers of R are up to isomorphism precisely the Specker R-algebras. We also
+show that these algebras are characterized in terms of a functorial construction having roots in
+the work of Bergman and Rota. When R is indecomposable, we prove that S is a Specker R-algebra iff S
+is a projective R-module, thus strengthening a theorem of Bergman, and when R is a domain, we show
+that S is a Specker R-algebra iff S is a torsion-free R-module. For an indecomposable R, we prove that
+the category of Specker R-algebras is equivalent to the category of Boolean algebras, and hence
+is dually equivalent to the category of Stone spaces. In addition, when R is a domain, we show that
+the category of Baer Specker R-algebras is equivalent to the category of complete Boolean algebras,
+and hence is dually equivalent to the category of extremally disconnected compact Hausdorff spaces.
+For a totally ordered R, we prove that there is a unique partial order on a Specker R-algebra S for which
+it is an f-algebra over R, and show that S is equivalent to the R-algebra of piecewise constant continuous
+functions from a Stone space X to R equipped with the interval topology. 

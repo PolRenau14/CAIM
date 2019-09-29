@@ -1,0 +1,16 @@
+This paper is concerned with acoustic scattering from a sound-soft trapezoidal surface in two dimensions.
+The trapezoidal surface is supposed to consist of two horizontal half-lines pointing oppositely,
+and a single finite vertical line segment connecting their endpoints, which can be regarded as a
+non-local perturbation of a straight line. For incident plane waves, we enforce that the scattered
+wave, post-subtracting reflected plane waves by the two half lines of the scattering surface in
+certain two regions respectively, satisfies an integral form of Sommerfeld radiation condition
+at infinity. With this new radiation condition, we prove uniqueness and existence of weak solutions
+by a coupling scheme between finite element and integral equation methods. This consequently indicates
+that our new radiation condition is sharper than the Angular Spectrum Representation, and has generalized
+the radiation condition for scattering problems in a locally perturbed half-plane. Furthermore,
+we develop a numerical mode matching method based on this new radiation condition. A perfectly matched
+layer is setup to absorb outgoing waves at infinity. Since the medium composes of two horizontally
+uniform regions, we expand, in either uniform region, the scattered wave in terms of eigenmodes
+and match the mode expansions on the common interface between the two uniform regions, which in turn
+gives rise to numerical solutions to our problem. Numerical experiments are carried out to validate
+the new radiation condition and to show the performance of our numerical method. 

@@ -1,0 +1,16 @@
+Controlling the contamination of silicon materials by iron, especially dissolved interstitial
+iron (Fe$_{\mathrm{i}}$), is a longstanding problem with recent developments and several open
+issues. Among these we have the question whether hydrogen can assist iron diffusion, or if significant
+amounts of substitutional iron (Fe$_{\mathrm{s}}$) can be created. Using density functional
+calculations we explore the structure, formation energies, binding energies, migration, and
+electronic levels of several FeH complexes in Si. We find that a weakly bound Fe$_{\mathrm{i}}$H
+pair has a migration barrier close to that of isolated Fe$_{\mathrm{i}}$ and a donor level at $E_{\mathrm{v}}+0.5$~eV.
+Conversely, Fe$_{\mathrm{i}}$H$_{2}(0/+)$ is estimated at $E_{\mathrm{v}}+0.33$~eV. These
+findings suggest that the hole trap at $E_{\mathrm{v}}+0.32$~eV measured by capacitance measurements
+should be assigned to Fe$_{\mathrm{i}}$H$_{2}$ . Fe$_{\mathrm{s}}$H-related complexes show
+only deep acceptor activity and are expected to have little effect on minority carrier life-time
+in $p$-type Si. The opposite conclusion can be drawn for $n$-type Si. We find that while in H-free
+material Fe$_{\mathrm{i}}$ defects have lower formation energy than Fe$_{\mathrm{s}}$, in hydrogenated
+samples Fe$_{\mathrm{s}}$-related defects become considerably more stable. This would explain
+the observation of an EPR signal attributed to a Fe$_{\mathrm{s}}$H-related complex in hydrogenated
+Si, which was quenched from above 1000$^{\circ}$C to iced-water temperature. 

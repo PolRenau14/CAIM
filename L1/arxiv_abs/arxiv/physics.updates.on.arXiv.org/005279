@@ -1,0 +1,16 @@
+Free-electron lasers (FELs) have been built ranging in wavelength from long-wavelength oscillators
+using partial wave guiding through ultraviolet through hard x-ray FELs that are either seeded or
+start from noise (SASE). Operation in the x-ray spectrum has relied on single-pass SASE due either
+to the lack of seed lasers or difficulties in the design of x-ray mirrors. However, recent developments
+in the production of diamond crystal Bragg reflectors point the way to the design of regenerative
+amplifiers (RAFELs) which are, essentially, low-Q x-ray free-electron laser oscillators (XFELOs)
+that out-couple a large fraction of the optical power on each pass. A RAFEL using a six-mirror resonator
+providing out-coupling of 90% or more through a pinhole in the first downstream mirror is proposed
+and analyzed using the MINERVA simulation code for the undulator interaction and the Optics Propagation
+Code (OPC) for the resonator. MINERVA/OPC has been used in the past to simulate infrared FEL oscillators.
+For the present purpose, OPC has been modified to treat Bragg reflection from diamond crystal mirrors.
+The six-mirror resonator design has been analyzed within the context of the LCLS-II beamline under
+construction at the Stanford Linear Accelerator Center and using the HXR undulator which is also
+to be installed on the LCLS-II beamline. Simulations have been run to optimize and characterize
+the properties of the RAFEL, and indicate that substantial powers are possible at the fundamental
+(3.05 keV) and third harmonic (9.15 keV). 

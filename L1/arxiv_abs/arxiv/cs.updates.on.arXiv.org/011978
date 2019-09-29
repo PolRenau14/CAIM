@@ -1,0 +1,16 @@
+We present an algorithm for approximating a function defined over a $d$-dimensional manifold utilizing
+only noisy function values at locations sampled from the manifold with noise. To produce the approximation
+we do not require any knowledge regarding the manifold other than its dimension $d$. We use the Manifold
+Moving Least-Squares approach of (Sober and Levin 2016) to reconstruct the atlas of charts and the
+approximation is built on-top of those charts. The resulting approximant is shown to be a function
+defined over a neighborhood of a manifold, approximating the originally sampled manifold. In other
+words, given a new point, located near the manifold, the approximation can be evaluated directly
+on that point. We prove that our construction yields a smooth function, and in case of noiseless samples
+the approximation order is $\mathcal{O}(h^{m+1})$, where $h$ is a local density of sample parameter
+(i.e., the fill distance) and $m$ is the degree of a local polynomial approximation, used in our algorithm.
+In addition, the proposed algorithm has linear time complexity with respect to the ambient-space's
+dimension. Thus, we are able to avoid the computational complexity, commonly encountered in high
+dimensional approximations, without having to perform non-linear dimension reduction, which
+inevitably introduces distortions to the geometry of the data. Additionaly, we show numerical
+experiments that the proposed approach compares favorably to statistical approaches for regression
+over manifolds and show its potential. 

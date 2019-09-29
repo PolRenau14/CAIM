@@ -1,0 +1,16 @@
+The purpose of the present paper is to study the influence of wall-echo on pressure fluctuations
+$p'$, and on statistical correlations containing $p'$, {\em viz} redistribution $\phi_{ij}$,
+pressure diffusion $d_{ij}^{(p)}$, and velocity/pressure-gradient $\Pi_{ij}$. We extend the
+usual analysis of turbulent correlations containing pressure fluctuations in wall-bounded \tsc{dns}
+computations [Kim J.: {\em J. Fluid Mech.} {\bf 205} (1989) 421--451], separating $p'$ not only
+into rapid $p_{(\mathrm{r})}'$ and slow $p_{(\mathrm{s})}'$ parts [Chou P.Y.: {\em Quart. Appl.
+Math.} {\bf 3} (1945) 38--54], but further into volume ($p'_{(\mathrm{r};\mathfrak{V})}$ and
+$p'_{(\mathrm{s};\mathfrak{V})}$) and surface (wall-echo; $p'_{(\mathrm{r};w)}$ and $p'_{(\mathrm{s};w)}$)
+terms. An algorithm, based on a Green's function approach, is developed to compute the above splittings
+for various correlations containing pressure fluctuations (redistribution, pressure diffusion,
+velocity/pressure-gradient), in fully developed turbulent plane channel flow. This exact analysis
+confirms previous results based on a method-of-images approximation [Manceau R., Wang M., Laurence
+D.: {\em J. Fluid Mech.} {\bf 438} (2001) 307--338] showing that, at the wall, $p'_{(\mathfrak{V})}$
+and $p'_{(w)}$ are usually of the same sign and approximately equal. The above results are then used
+to study the contribution of each mechanism on the pressure correlations in low Reynolds-number
+plane channel flow, and to discuss standard second-moment-closure modelling practices. 

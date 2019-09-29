@@ -1,0 +1,17 @@
+This thesis presents fuzzy-L1 adaptive controller and Model Reference Adaptive Control (MRAC)
+with Prescribed Performance Function (PPF) as two adaptive approaches for high nonlinear systems
+as two original contribution to the literature. L1 adaptive controller has a structure that allows
+decoupling between robustness and adaption owing to the use of a low pass filter with adjustable
+gain in the feedback loop. A practical new fuzzy based approach for the tuning of the feedback filter
+of L1 adaptive controller is proposed. The fuzzy controller is optimally tuned using Particle Swarm
+Optimization (PSO) to minimize the tracking error and the control signal range. An adaptive control
+of multi-input multi-output uncertain high-order nonlinear system capable of guaranteeing a
+predetermined prescribed performance is presented as MRAC with PPF. Keywords: Review, L1 adaptive
+controller, MRAC, twin rotor, UAV, unmanned aerial vehicle, quadrotor, desired, actual, overshoot,
+neighbourhood, origin, time variant, invariant, simulation, submarine, unmanned underwater
+vehicle, mobile robot, MARES, stochastic, noise, random, trade off, two degree of freedom planner
+robot, multi input multi output, single input single output, fuzzy logic controller, fuzzy filter,
+tuning, optimization, membership function, PSO, MOPSO, multi objective, particle swarm optimization,
+steady state error, transient performance, asymptotic, assigned, stability, robustness, robust,
+stable, adaptive control, nonlinear control, uncertain, unknown, prescribed performance function,
+nonlinear L1 adaptive observer, model. 

@@ -1,0 +1,16 @@
+In this paper, we study the theory of linearized gravity and prove the linear stability of Schwarzschild
+black holes as solutions of the vacuum Einstein equations. In particular, we prove that solutions
+to the linearized vacuum Einstein equations centered at a Schwarzschild metric, with suitably
+regular initial data, remain uniformly bounded and decay to a linearized Kerr metric on the exterior
+region. We employ Hodge decomposition to split the solution into closed and co-closed portions,
+respectively identified with even-parity and odd-parity solutions in the physics literature.
+For the co-closed portion, we extend previous results by the first two authors, deriving Regge-Wheeler
+type equations for two gauge-invariant master quantities without the earlier paper's need of axisymmetry.
+For the closed portion, we build upon earlier work of Zerilli and Moncrief, wherein the authors derive
+an equation for a gauge-invariant master quantity in a spherical harmonic decomposition. We work
+with gauge-invariant quantities at the level of perturbed connection coefficients, with the initial
+value problem formulated on Cauchy data sets. With the choice of an appropriate gauge in each of the
+two portions, decay estimates on these decoupled quantities are used to establish decay of the metric
+coefficients of the solution, completing the proof of linear stability. Our result differs from
+that of Dafermos-Holzegel-Rodnianski, both in our choice of gauge and in our identification and
+utilization of lower-level gauge-invariant master quantities. 

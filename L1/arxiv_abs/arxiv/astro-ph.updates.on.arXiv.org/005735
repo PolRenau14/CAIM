@@ -1,0 +1,16 @@
+The search for extra dimensions is a challenging endeavor to probe physics beyond the Standard Model.
+The joint detection of gravity waves (GW) and electromagnetic (EM) signals from the merging of a
+binary system of compact objects like neutron stars (NS), can help constrain the geometry of extra
+dimensions. In particular, if our observable Universe is a 3+1 hypersurface, or brane, embedded
+in a higher 4+1 Anti-de Sitter (AdS$_5$) spacetime, in which gravity is the only field that propagates
+through the infinite bulk space, while other fields are confined to the brane, then GW and EM signals
+between two points on the brane would, in general, travel different paths. This would result in a
+time-lag between the detection of GW and EM signals emitted simultaneously from the same source.
+Assuming the standard $\Lambda$-Cold Dark Matter ($\Lambda$CDM) scenario and performing a conservative
+analysis in which we assume that the time-lag between the event GW170817 by the LIGO/VIRGO collaborations
+and the GRB170817A signal detected by the Fermi Gamma-ray Burst Monitor collaboration is entirely
+due to astrophysical processes associated with the NS-NS merger, we set a bound on the AdS$_5$ radius
+of curvature $\ell \lesssim 46\,$kpc at $68\%$ confidence level. Although the bound is not competitive
+with current Solar System constraints, it is the first time that data from a multi-messenger GW-EM
+measurement can be used to constrain the physics of extra dimensions. Thus, our work provides a proof-of-principle
+of the possibility of using multi-messenger astronomy for probing the geometry of our space-time.

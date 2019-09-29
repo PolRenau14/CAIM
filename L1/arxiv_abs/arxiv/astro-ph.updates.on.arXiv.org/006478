@@ -1,0 +1,17 @@
+There has been speculation of a class of relativistic explosions with an initial Lorentz factor
+smaller than that of classical Gamma-Ray Bursts (GRBs). These "dirty fireballs" would lack prompt
+GRB emission but could be pursued via their optical afterglow, appearing as transients that fade
+overnight. Here we report a search for such transients (transients that fade by 5-$\sigma$ in magnitude
+overnight) in four years of archival photometric data from the intermediate Palomar Transient
+Factory (iPTF). Our search criteria yielded 45 candidates. Of these, two were afterglows to GRBs
+that had been found in dedicated follow-up observations to triggers from the Fermi GRB Monitor (GBM).
+Another (iPTF14yb; Cenko et al. 2015) was a GRB afterglow discovered serendipitously. Two were
+spurious artifacts of reference image subtraction and one was an asteroid. The remaining 37 candidates
+have red stellar counterparts in external catalogs. The photometric and spectroscopic properties
+of the counterparts identify these transients as strong flares from M dwarfs of spectral type M3-M7
+at distances of d ~ 0.15-2.1 kpc; two counterparts were already spectroscopically classified as
+late-type M stars. With iPTF14yb as the only confirmed relativistic outflow discovered independently
+of a high-energy trigger, we constrain the all-sky rate of transients that peak at m = 18 and fade by
+$\Delta$2 mag in $\Delta$3 hr to be 680 per year with a 68% confidence interval of 119-2236 per year.
+This implies that the rate of visible dirty fireballs is at most comparable to that of the known population
+of long-duration GRBs. 

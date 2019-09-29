@@ -1,0 +1,16 @@
+Deep neural networks (DNNs) have shown vulnerability to adversarial attacks, i.e., carefully
+perturbed inputs designed to mislead the network at inference time. Recently introduced localized
+attacks, LaVAN and Adversarial patch, posed a new challenge to deep learning security by adding
+adversarial noise only within a specific region without affecting the salient objects in an image.
+Driven by the observation that such attacks introduce concentrated high-frequency changes at
+a particular image location, we have developed an effective method to estimate noise location in
+gradient domain and transform those high activation regions caused by adversarial noise in image
+domain while having minimal effect on the salient object that is important for correct classification.
+Our proposed Local Gradients Smoothing (LGS) scheme achieves this by regularizing gradients in
+the estimated noisy region before feeding the image to DNN for inference. We have shown the effectiveness
+of our method in comparison to other defense methods including JPEG compression, Total Variance
+Minimization (TVM) and Feature squeezing on ImageNet dataset. In addition, we systematically
+study the robustness of the proposed defense mechanism against Back Pass Differentiable Approximation
+(BPDA), a state of the art attack recently developed to break defenses that transform an input sample
+to minimize the adversarial effect. Compared to other defense mechanisms, LGS is by far the most
+resistant to BPDA in localized adversarial attack setting. 

@@ -1,0 +1,17 @@
+Coronal mass ejections (CMEs) and eruptive flares (EFs) are the most energetic explosions in the
+solar system. Their underlying origin is the free energy that builds up slowly in the sheared magnetic
+field of a filament channel. We report the first end-to-end numerical simulation of a CME/EF, from
+zero-free-energy initial state through filament-channel formation to violent eruption, driven
+solely by the magnetic-helicity condensation process. Helicity is the topological measure of
+linkages between magnetic flux systems, and is conserved in the corona, building up inexorably
+until it is ejected into interplanetary space. Numerous investigations have demonstrated that
+helicity injected by small-scale vortical motions, such as those observed in the photosphere,
+undergoes an inverse cascade from small scales to large, `condensing' at magnetic-polarity boundaries.
+Our new results verify that this process forms a filament channel within a compact bipolar region
+embedded in a background dipole field, and show for the first time that a fast CME eventually occurs
+via the magnetic-breakout mechanism. We further show that the trigger for explosive eruption is
+reconnection onset in the flare current sheet that develops above the polarity inversion line:
+this reconnection forms flare loops below the sheet and a CME flux rope above, and initiates high-speed
+outward flow of the CME. Our findings have important implications for magnetic self-organization
+and explosive behavior in solar and other astrophysical plasmas, and for understanding and predicting
+explosive solar activity. 

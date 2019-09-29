@@ -1,0 +1,17 @@
+We have reconstructed longitude-latitude maps of column dust optical depth (CDOD) for Martian
+year (MY) 34 (May 5, 2017 --- March 23, 2019) using observations by the Mars Climate Sounder (MCS)
+aboard NASA's Mars Reconnaissance Orbiter spacecraft. Our methodology works by gridding standard
+and newly available estimates of CDOD from MCS limb observations, using the "iterative weighted
+binning" methodology. In this work, we reconstruct four gridded CDOD maps per sol, at different
+Mars Universal Times. Together with the seasonal and day-to-day variability, the use of several
+maps per sol allows to explore also the daily variability of CDOD in the MCS dataset, which is shown
+to be particularly strong during the MY 34 equinoctial Global Dust Event (GDE). Regular maps of CDOD
+are then produced by daily averaging and spatially interpolating the irregularly gridded maps
+using a standard "kriging" interpolator, and can be used as "dust scenario" for numerical model
+simulations. In order to understand whether the daily variability of CDOD has a physical explanation,
+we have carried out numerical simulations with the "Laboratoire de M\'et\'eorologie Dynamique"
+Mars Global Climate Model. Using a "free dust" run initiated at $L_s \sim 210^\circ$ with the corresponding
+kriged map, but subsequently free of further CDOD forcing, we show that the model is able to account
+for some of the observed daily variability in CDOD. The model serves also to confirm that the use of
+the MY 34 daily-averaged dust scenario in a GCM produces results consistent with those obtained
+for the MY 25 GDE. 

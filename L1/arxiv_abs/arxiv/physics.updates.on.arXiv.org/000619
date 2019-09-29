@@ -1,0 +1,16 @@
+Holmboe (1962) postulated that resonant interaction between two or more progressive, linear interfacial
+waves produces exponentially growing instabilities in idealized (broken-line profiles), homogeneous
+or density stratified, inviscid shear layers. In this paper, we generalize Holmboe's mechanistic
+picture of linear shear instabilities by (i) not initially specifying the type of the waves, and
+(ii) by providing the option for non-normal growth. We demonstrate the mechanism behind linear
+shear instabilities by proposing a purely kinematic model consisting of two linear, Doppler-shifted,
+progressive interfacial waves moving in opposite directions. Starting from arbitrary initial
+conditions, the two waves eventually lock in phase and resonate (grow exponentially), provided
+a certain condition is satisfied. This condition is shown to be the necessary and sufficient (N&S)
+condition for exponentially growing instabilities in idealized shear flows. The instability
+mechanism occurring prior to reaching steady state is non-modal, favouring rapid transient growth.
+The theoretical underpinnings of our wave interaction model is analogous to that of synchronization
+between two coupled harmonic oscillators. Our proposed model is used to study three well known types
+of shear instabilities - Rayleigh/Kelvin-Helmholtz, Holmboe and Taylor-Caulfield. We show that
+the N&S condition provides a range of unstable wavenumbers for each instability type, and this
+range matches the predictions of the canonical normal-mode based linear stability theory. 

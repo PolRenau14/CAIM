@@ -1,0 +1,16 @@
+Community detection plays an important role in social networks, since it can help to naturally divide
+the network into smaller parts so as to simplify network analysis. However, on the other hand, it
+arises the concern that individual information may be over-mined, and the concept community deception
+thus is proposed to protect individual privacy on social networks. Here, we introduce and formalize
+the problem of community detection attack and develop efficient strategies to attack community
+detection algorithms by rewiring a small number of connections, leading to individual privacy
+protection. In particular, we first give two heuristic attack strategies, i.e., Community Detection
+Attack (CDA) and Degree Based Attack (DBA), as baselines, utilizing the information of detected
+community structure and node degree, respectively. And then we propose a Genetic Algorithm (GA)
+based Q-Attack, where the modularity Q is used to design the fitness function. We launch community
+detection attack based on the above three strategies against three modularity based community
+detection algorithms on two social networks. By comparison, our Q-Attack method achieves much
+better attack effects than CDA and DBA, in terms of the larger reduction of both modularity Q and Normalized
+Mutual Information (NMI). Besides, we find that the adversarial networks obtained by Q-Attack
+on a specific community detection algorithm can be still effective on others, no matter whether
+they are modularity based or not, indicating its strong transferability. 

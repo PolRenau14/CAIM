@@ -1,0 +1,17 @@
+The open cluster M67 offers the unique opportunity to measure rotation periods for solar-age stars
+across a range of masses, potentially filling a critical gap in the understanding of angular momentum
+loss in older main sequence stars. The observation of M67 by NASA K2 Campaign 5 provided light curves
+with high enough precision to make this task possible, albeit challenging, as the pointing instability,
+75d observation window, crowded field, and typically low-amplitude signals mean determining
+accurate rotation periods on the order of 25 - 30d is inherently difficult. Lingering, non-astrophysical
+signals with power at >25d found in a set of Campaign 5 A and F stars compounds the problem. To achieve
+a quantitative understanding of the best-case scenario limits for reliable period detection imposed
+by these inconveniences, we embarked on a comprehensive set of injection tests, injecting 120,000
+sinusoidal signals with periods ranging from 5 to 35d and amplitudes from 0.05% to 3.0% into real
+Campaign 5 M67 light curves processed using two different pipelines. We attempted to recover the
+signals using a normalized version of the Lomb-Scargle periodogram and setting a detection threshold.
+We find that while the reliability of detected periods is high, the completeness (sensitivity)
+drops rapidly with increasing period and decreasing amplitude, maxing at 15% recovery rate for
+the solar case (i.e. 25d period, 0.1% amplitude). This study highlights the need for caution in determining
+M67 rotation periods from Campaign 5 data, but this can be extended to other clusters observed by
+K2 and, soon, TESS. 

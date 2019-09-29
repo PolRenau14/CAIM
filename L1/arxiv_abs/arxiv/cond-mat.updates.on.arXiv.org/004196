@@ -1,0 +1,16 @@
+The surprising insulating and superconducting states of narrow-band graphene twisted bilayers
+have been mostly discussed so far in terms of strong electron correlation, with little or no attention
+to phonons and electron-phonon effects. We found that, among the 33492 phonons of a fully relaxed
+$\theta=1.08^\circ$ twisted bilayer, there are few special, hard and nearly dispersionless modes
+that resemble global vibrations of the moir\'e supercell, as if it were a single, ultralarge molecule.
+One of them, doubly degenerate at $\Gamma$ with symmetry $A_1+B_1$, couples strongly with the valley
+degrees of freedom, also doubly degenerate, realising a so-called $\text{E}\otimes\text{e}$
+Jahn-Teller (JT) coupling. The JT coupling lifts very efficiently all degeneracies which arise
+from the valley symmetry, and may lead, for an average atomic displacement as small as $0.5~\text{m}$\AA,
+to an insulating state at charge neutrality. This insulator possesses a non-trivial topology testified
+by the odd winding of the Wilson loop. In addition, freezing the same phonon at a zone boundary point
+brings about insulating states at most integer occupancies of the four ultra-flat electronic bands.
+Following that line, we further study the properties of the superconducting state that might be
+stabilised by these modes. Since the JT coupling modulates the hopping between AB and BA stacked
+regions, pairing occurs in the spin-singlet Cooper channel at the inter-(AB-BA) scale, which may
+condense a superconducting order parameter in the extended $s$-wave and/or $d\pm id$-wave symmetry.

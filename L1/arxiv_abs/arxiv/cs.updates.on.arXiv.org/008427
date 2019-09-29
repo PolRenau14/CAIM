@@ -1,0 +1,16 @@
+A problem deeply investigated by multimedia forensics researchers is the one of detecting which
+device has been used to capture a video. This enables to trace down the owner of a video sequence, which
+proves extremely helpful to solve copyright infringement cases as well as to fight distribution
+of illicit material (e.g., underage clips, terroristic threats, etc.). Currently, the most promising
+methods to tackle this task exploit unique noise traces left by camera sensors on acquired images.
+However, given the recent advancements in motion stabilization of video content, robustness of
+sensor pattern noise-based techniques are strongly hindered. Indeed, video stabilization introduces
+geometric transformations between video frames, thus making camera fingerprint estimation problematic
+with classical approaches. In this paper, we deal with the challenging problem of attributing stabilized
+videos to their recording device. Specifically, we propose: (i) a strategy to extract the characteristic
+fingerprint of a device, starting from either a set of images or stabilized video sequences; (ii)
+a strategy to match a stabilized video sequence with a given fingerprint in order to solve the device
+attribution problem. The proposed methodology is tested on videos coming from a set of different
+smartphones, taken from the modern publicly available Vision Dataset. The conducted experiments
+also provide an interesting insight on the effect of modern smartphones video stabilization algorithms
+on specific video frames. 

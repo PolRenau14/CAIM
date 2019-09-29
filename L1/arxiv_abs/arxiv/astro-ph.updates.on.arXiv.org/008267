@@ -1,0 +1,16 @@
+We present a spectral and timing analysis of the newly reported Galactic X-ray transient Swift J1658.2-4242
+by NuSTAR and Swift. The broad-band X-ray continuum is typical of a black hole binary in the bright
+hard state, with a photon-index $\Gamma=1.63\pm0.02$ and a low coronal temperature of $kT_{\rm
+e}=22\pm1$ keV, corresponding to a low spectral cutoff well constrained by NuSTAR. Spectral modeling
+of the relativistic disk reflection features, consisting of a broad Fe K$\alpha$ line and the Compton
+reflection hump, reveals the black hole is rapidly spinning with the spin parameter of $a_{*}>0.96$,
+and the inner accretion disk is viewed at a high inclination angle of $i=64^{+2}_{-3}{^\circ}$.
+The high inclination is independently confirmed by dips in the light curves, which can be explained
+by obscuring material located near the disk plane temporarily obscuring the central region. In
+addition, we detect an absorption line in the NuSTAR spectra centered at $7.03^{+0.04}_{-0.03}$
+keV. If associated with ionized Fe K absorption lines, this provides evidence for the presence of
+outflowing material in the hard state of a black hole binary candidate. A timing analysis shows the
+presence of a type-C QPO in the power spectrum, with frequency increasing from $\sim0.14$ Hz to $\sim0.21$
+Hz during the single NuSTAR exposure. Our analysis reveals that Swift J1658.2-4242 displays characteristics
+typical for a black hole binary that is viewed close to edge-on, making it a good system for studying
+the accretion geometry in black hole binaries. 

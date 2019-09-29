@@ -1,0 +1,16 @@
+Recently, cache-enabled heterogeneous cellular networks (C-HetNets) have been emerged as a promising
+solution for next-generation wireless networks to cope with exponentially increasing demands
+for high data rate and low latency multimedia services. In this paper, we design both the cache placement
+and delivery strategies in the downlink of an orthogonal frequency division multiple access (OFDMA)-based
+C-HetNet which operates in two separated phases: caching phase (CP) and delivery phase (DP) where
+CP deals with placing contents in the network storages and DP deals with serving the content requests
+to users. Since most of the current research efforts in cache-assisted wireless networks have neglected
+the fair treatment of mobile users (MUs), in this work, we first propose two delay-based fairness
+schemes called proportional fairness (PF) and min-max fairness (MMF). In PF, we minimize the total
+weighted latency of MUs while in MMF, we aim to minimize the maximal latency among MUs. In the CP, we
+propose novel fairness and transmission-aware cache placement strategies (CPSs) exploiting
+the benefits of flexible physical-layer transmission opportunities for access and backhaul links,
+simultaneously. Specifically, we jointly perform the allocation of physical resources as storage
+and radio, and user assignment to improve the flexibility of the CPSs. Numerical assessments show
+up to $27\%$ improvement in terms of total latency of MUs is achieved by our proposed CPSs compared
+to the conventional baseline popular CPSs. 

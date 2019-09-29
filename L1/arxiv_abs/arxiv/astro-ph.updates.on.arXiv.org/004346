@@ -1,0 +1,16 @@
+Astrophysical sources such as radio halos and relics in galaxy clusters, supernova remnants and
+radio galaxies have angular sizes from a few to several $10$s of arcminutes. In radio interferometric
+imaging of such sources, the largest angular size of the source that can be imaged is limited by the
+shortest projected baseline towards the source. It is essential to determine the limitations of
+the recovery of the extended features on various angular scales in order to interpret the radio image.
+We simulated observations of a model extended source of Gaussian shape with the Giant Metrewave
+Radio Telescope (GMRT) using Common Astronomy Software Applications (CASA). The recovery in flux
+density and in morphology of the model source was quantified in a variety of observing cases with
+changing source properties and the uv-coverage. If $\theta_{lar}$ is the largest angular scale
+sampled in an observation with the GMRT, then $>80\%$ recovery of a source of size $0.3\times\theta_{lar}$
+is possible. The upgraded GMRT (U-GMRT) providing 200 MHz instantaneous bandwidth between 300
+- 500 MHz will allow a factor of two better recovery of a source of size $\theta_{lar}$ as compared
+to the GMRT at 300 MHz with 33 MHz bandwidth. We provide quantitative estimates for the improvement
+in extended source recovery in observations at low elevations and long durations. The presented
+simulations can be carried out for future radio telescopes such as the Square Kilometre Array (SKA)
+for optimisation of observing strategies to image extended radio sources. 

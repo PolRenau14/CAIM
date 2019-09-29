@@ -1,0 +1,16 @@
+Spectrum pooling allows multiple operators, or tenants, to share the same frequency bands. This
+work studies the optimization of spectrum pooling for the downlink of a multi-tenant Cloud Radio
+Access Network (C-RAN) system in the presence of inter-tenant privacy constraints. The spectrum
+available for downlink transmission is partitioned into private and shared subbands, and the participating
+operators cooperate to serve the user equipments (UEs) on the shared subband. The network of each
+operator consists of a cloud processor (CP) that is connected to proprietary radio units (RUs) by
+means of finite-capacity fronthaul links. In order to enable interoperator cooperation, the CPs
+of the participating operators are also connected by finite-capacity backhaul links. Inter-operator
+cooperation may hence result in loss of privacy. Fronthaul and backhaul links are used to transfer
+quantized baseband signals. Standard quantization is considered first. Then, a novel approach
+based on the idea of correlating quantization noise signals across RUs of different operators is
+proposed to control the trade-off between distortion at UEs and inter-operator privacy. The problem
+of optimizing the bandwidth allocation, precoding, and fronthaul/backhaul compression strategies
+is tackled under constraints on backhaul and fronthaul capacity, as well as on per-RU transmit power
+and inter-operator privacy. For both cases, the optimization problems are tackled using the concave
+convex procedure (CCCP), and extensive numerical results are provided. 

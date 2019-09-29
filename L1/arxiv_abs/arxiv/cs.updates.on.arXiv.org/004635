@@ -1,0 +1,16 @@
+Led by the success of neural style transfer on visual arts, there has been a rising trend very recently
+in the effort of music style transfer. However, "music style" is not yet a well-defined concept from
+a scientific point of view. The difficulty lies in the intrinsic multi-level and multi-modal character
+of music representation (which is very different from image representation). As a result, depending
+on their interpretation of "music style", current studies under the category of "music style transfer",
+are actually solving completely different problems that belong to a variety of sub-fields of Computer
+Music. Also, a vanilla end-to-end approach, which aims at dealing with all levels of music representation
+at once by directly adopting the method of image style transfer, leads to poor results. Thus, we see
+a vital necessity to re-define music style transfer more precisely and scientifically based on
+the uniqueness of music representation, as well as to connect different aspects of music style transfer
+with existing well-established sub-fields of computer music studies. Otherwise, an accumulated
+upcoming literature (all named after music style transfer) will lead to a great confusion of the
+underlying problems as well as negligence of the treasures in computer music before the age of deep
+learning. In addition, we discuss the current limitations of music style modeling and its future
+directions by drawing spirit from some deep generative models, especially the ones using unsupervised
+learning and disentanglement techniques. 

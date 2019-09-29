@@ -1,0 +1,16 @@
+The entanglement properties of the time periodic Kitaev chain with nearest neighbor and next nearest
+neighbor hopping, is studied. The cases of the exact eigenstate of the time periodic Hamiltonian,
+referred to as the Floquet ground state (FGS), as well as a physical state obtained from time-evolving
+an initial state unitarily under the influence of the time periodic drive are explored. Topological
+phases are characterized by different numbers of Majorana zero ($\mathbb{Z}_0$) and $\pi$ ($\mathbb{Z}_{\pi}$)
+modes, where the zero modes are present even in the absence of the drive, while the $\pi$ modes arise
+due to resonant driving. The entanglement spectrum (ES) of the FGS as well as the physical state show
+topological Majorana modes whose number is different from that of the quasi-energy spectrum. The
+number of Majorana edge modes in the ES of the FGS vary in time from $|\mathbb{Z}_0-\mathbb{Z}_{\pi}|$
+to $\mathbb{Z}_0+\mathbb{Z}_{\pi}$ within one drive cycle, with the maximal $\mathbb{Z}_0+\mathbb{Z}_{\pi}$
+modes appearing at a special time-reversal symmetric point of the cycle. For the physical state
+on the other hand, only the modes inherited from the initial wavefunction, namely the $\mathbb{Z}_0$
+modes, appear in the ES. The $\mathbb{Z}_{\pi}$ modes are absent in the physical state as they merge
+with the bulk excitations that are simultaneously created due to resonant driving. The topological
+properties of the Majorana zero and $\pi$ modes in the ES are also explained by mapping the parent
+wavefunction to a Bloch sphere. 

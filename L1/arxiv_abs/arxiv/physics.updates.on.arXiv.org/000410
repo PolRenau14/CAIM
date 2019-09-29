@@ -1,0 +1,16 @@
+Random walks on networks is the standard tool for modelling spreading processes in social and biological
+systems. However, this conventional first-order Markov approach ignores a potentially important
+feature of the dynamics: where flow moves to may depend on where it comes from. Here we analyse multi-step
+pathways from different systems and show that ignoring the effects of second-order Markov dynamics
+has important consequences for community detection and ranking, but only marginal consequences
+for disease spreading through air travel. When people travelling by plane can transmit infections
+to random other people in cities, the memory effects from their travel patterns are lost. Therefore,
+accurately modelling air travel patterns has a negligible effect on disease spread. However, when
+focusing on the travel patterns themselves, or on systems with limited mixing, we observed that
+random flow on networks understates the effect of communities and exaggerates the effect of highly
+connected nodes. For example, capturing dynamics with a second-order Markov model allows us to
+differentiate airport hubs from popular destinations and reveal actual travel patterns in air
+traffic, and to uncover multidisciplinary journals and ranking that favour specialized journals
+in scientific communication. These findings were achieved only by using more available data and
+making no additional assumptions, and therefore suggest that accounting for higher-order memory
+in network flows can help us better understand how real systems are organized and function. 

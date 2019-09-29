@@ -1,0 +1,16 @@
+This memoir is a summary of recent work, including collaborations with Erik van Erp, Christian Voigt
+and Marco Matassa, compiled for the "Habilitation \`a diriger des recherches". We present various
+different approaches to constructing algebras of pseudodifferential operators adapted to filtered
+and multifiltered manifolds and some quantum analogues. A general goal is the study of index problems
+in situations where standard elliptic theory is insufficient. We also present some applications
+of these constructions. We begin by presenting a characterization of pseudodifferential operators
+on filtered manifolds in terms of distributions on the tangent groupoid which are essentially homogeneous
+with respect to the natural $\mathbb{R}^\times_+$-action. Next, we describe a rudimentary multifiltered
+pseudodifferential theory on the full flag manifold $\mathcal{X}$ of a complex semisimple Lie
+group $G$ which allows us to simultaneously treat longitudinal pseudodifferential operators
+along every one of the canonical fibrations of $\mathcal{X}$ over smaller flag manifolds. The motivating
+application is the construction of a $G$-equivariant $K$-homology class from the Bernstein-Gelfand-Gelfand
+complex of a semisimple group. Finally, we discuss pseudodifferential operators on two classes
+of quantum flag manifolds: quantum projective spaces and the full flag manifolds of $SU_q(n)$.
+In particular, on the full flag variety of $SU_q(3)$ we obtain an equivariant fundamental class
+from the Bernstein-Gelfand-Gelfand complex. 

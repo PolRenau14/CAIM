@@ -1,0 +1,16 @@
+We improve the accuracy of photometric redshifts by including low-resolution spectral data from
+the G102 grism on the Hubble Space Telescope, which assists in redshift determination by further
+constraining the shape of the broadband Spectral Energy Disribution (SED) and identifying spectral
+features. The photometry used in the redshift fits includes near-IR photometry from FIGS+CANDELS,
+as well as optical data from ground-based surveys and HST ACS, and mid-IR data from Spitzer. We calculated
+the redshifts through the comparison of measured photometry with template galaxy models, using
+the EAZY photometric redshift code. For objects with F105W $< 26.5$ AB mag with a redshift range of
+$0 < z < 6$, we find a typical error of $\Delta z = 0.03 * (1+z)$ for the purely photometric redshifts;
+with the addition of FIGS spectra, these become $\Delta z = 0.02 * (1+z)$, an improvement of 50\%.
+Addition of grism data also reduces the outlier rate from 8\% to 7\% across all fields. With the more-accurate
+spectrophotometric redshifts (SPZs), we searched the FIGS fields for galaxy overdensities. We
+identified 24 overdensities across the 4 fields. The strongest overdensity, matching a spectroscopically
+identified cluster at $z=0.85$, has 28 potential member galaxies, of which 8 have previous spectroscopic
+confirmation, and features a corresponding X-ray signal. Another corresponding to a cluster at
+$z=1.84$ has 22 members, 18 of which are spectroscopically confirmed. Additionally, we find 4 overdensities
+that are detected at an equal or higher significance in at least one metric to the two confirmed clusters.

@@ -1,0 +1,16 @@
+Recent measurements of the Windows code-signing certificate ecosystem have highlighted various
+forms of abuse that allow malware authors to produce malicious code carrying valid digital signatures.
+However, the underground trade that allows miscreants to acquire such certificates is not well
+understood. In this paper, we illuminate two aspects of this trade. First, we investigate 4 leading
+vendors of Authenticode certificates, we document how they conduct business, and we estimate their
+market share. Second, we collect a data set of recently signed malware and we use it to study the relationships
+among malware developers, malware families and the certificates. We also use information from
+the black market to fingerprint the certificates traded and to identify when the are likely used
+to sign malware in the wild. Using these methods, we document a shift in the methods that malware authors
+employ to obtain valid digital signatures. While prior studies have reported the use of code-signing
+certificates that had been compromised or obtained directly from legitimate Certification Authorities,
+we observe that, in 2017, these methods have become secondary to purchasing certificates from underground
+vendors. We also find that the need to bypass platform protections such as Microsoft Defender SmartScreen
+plays a growing role in driving the demand for Authenticode certificates. Together, these findings
+suggest that the trade in certificates issued for abuse represents an emerging segment of the underground
+economy. 

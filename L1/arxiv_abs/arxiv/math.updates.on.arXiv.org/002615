@@ -1,0 +1,16 @@
+The closure $\textrm{cl}(R)$ of a consistent set $R$ of triples (rooted binary trees on three leaves)
+provides essential information about tree-like relations that are shown by any supertree that
+displays all triples in $R$. In this contribution, we are concerned with representative triple
+sets, that is, subsets $R'$ of $R$ with $\textrm{cl}(R') = \textrm{cl}(R)$. In this case, $R'$ still
+contains all information on the tree structure implied by $R$, although $R'$ might be significantly
+smaller. We show that representative triple sets that are minimal w.r.t.\ inclusion form the basis
+of a matroid. This in turn implies that minimal representative triple sets also have minimum cardinality.
+In particular, the matroid structure can be used to show that minimum representative triple sets
+can be computed in polynomial time with a simple greedy approach. For a given triple set $R$ that "identifies"
+a tree, we provide an exact value for the cardinality of its minimum representative triple sets.
+In addition, we utilize the latter results to provide a novel and efficient method to compute the
+closure $\textrm{cl}(R)$ of a consistent triple set $R$ that improves the time complexity $\mathcal{O}(|R||L_R|^4)$
+of the currently fastest known method proposed by Bryant and Steel (1995). In particular, if a minimum
+representative triple set for $R$ is given, it can be shown that the time complexity to compute $\textrm{cl}(R)$
+can be improved by a factor up to $|R||L_R|$. As it turns out, collections of quartets (unrooted binary
+trees on four leaves) do not provide a matroid structure, in general. 

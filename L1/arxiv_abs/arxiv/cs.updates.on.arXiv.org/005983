@@ -1,0 +1,16 @@
+Deep Neural Networks(DNN) have excessively advanced the field of computer vision by achieving
+state of the art performance in various vision tasks. These results are not limited to the field of
+vision but can also be seen in speech recognition and machine translation tasks. Recently, DNNs
+are found to poorly fail when tested with samples that are crafted by making imperceptible changes
+to the original input images. This causes a gap between the validation and adversarial performance
+of a DNN. An effective and generalizable robustness metric for evaluating the performance of DNN
+on these adversarial inputs is still missing from the literature. In this paper, we propose Noise
+Sensitivity Score (NSS), a metric that quantifies the performance of a DNN on a specific input under
+different forms of fix-directional attacks. An insightful mathematical explanation is provided
+for deeply understanding the proposed metric. By leveraging the NSS, we also proposed a skewness
+based dataset robustness metric for evaluating a DNN's adversarial performance on a given dataset.
+Extensive experiments using widely used state of the art architectures along with popular classification
+datasets, such as MNIST, CIFAR-10, CIFAR-100, and ImageNet, are used to validate the effectiveness
+and generalization of our proposed metrics. Instead of simply measuring a DNN's adversarial robustness
+in the input domain, as previous works, the proposed NSS is built on top of insightful mathematical
+understanding of the adversarial attack and gives a more explicit explanation of the robustness.

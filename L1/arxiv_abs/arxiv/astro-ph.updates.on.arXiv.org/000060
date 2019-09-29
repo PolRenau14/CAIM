@@ -1,0 +1,16 @@
+The Solar Diameter Imager and Surface Mapper (SODISM) on board the PICARD space mission provides
+wide-field images of the photosphere and chromosphere of the Sun in five narrow pass bands (centered
+at 215.0, 393.37, 535.7, 607.1, and 782.2 nm). PICARD is a space mission, which was successfully
+launched on 15 June 2010 into a Sun synchronous dawn-dusk orbit. It represents a European asset aiming
+at collecting solar observations that can serve to estimate some of the inputs to Earth climate models.
+The scientific payload consists of the SODISM imager and of two radiometers, SOVAP (SOlar VAriability
+PICARD) and PREMOS (PREcision MOnitor Sensor), which carry out measurements that allow estimating
+the Total Solar Irradiance (TSI) and the Solar Spectral Irradiance (SSI) from the middle ultraviolet
+to the red. The SODISM telescope monitors solar activity continuously. It thus produces images
+that can also feed SSI reconstruction models. Further, the objectives of SODISM encompass the probing
+of the interior of the Sun via helioseismic analysis of observations in intensity (on the solar disc
+and at the limb), and via astrometric investigations at the limb. The latter addresses especially
+the spectral dependence of the radial limb shape, and the temporal evolution of the solar diameter
+and asphericity. After a brief review of its original science objectives, this paper presents the
+detailed design of the SODISM instrument, its expected performance, and the scheme of its flight
+operations. Some observations with SODISM are presented and discussed. 

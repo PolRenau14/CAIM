@@ -1,0 +1,16 @@
+The computational complexity of leveraging deep neural networks for extracting deep feature representations
+is a significant barrier to its widespread adoption, particularly for use in embedded devices.
+One particularly promising strategy to addressing the complexity issue is the notion of evolutionary
+synthesis of deep neural networks, which was demonstrated to successfully produce highly efficient
+deep neural networks while retaining modeling performance. Here, we further extend upon the evolutionary
+synthesis strategy for achieving efficient feature extraction via the introduction of a stress-induced
+evolutionary synthesis framework, where stress signals are imposed upon the synapses of a deep
+neural network during training to induce stress and steer the synthesis process towards the production
+of more efficient deep neural networks over successive generations and improved model fidelity
+at a greater efficiency. The proposed stress-induced evolutionary synthesis approach is evaluated
+on a variety of different deep neural network architectures (LeNet5, AlexNet, and YOLOv2) on different
+tasks (object classification and object detection) to synthesize efficient StressedNets over
+multiple generations. Experimental results demonstrate the efficacy of the proposed framework
+to synthesize StressedNets with significant improvement in network architecture efficiency
+(e.g., 40x for AlexNet and 33x for YOLOv2) and speed improvements (e.g., 5.5x inference speed-up
+for YOLOv2 on an Nvidia Tegra X1 mobile processor). 

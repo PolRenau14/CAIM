@@ -1,0 +1,16 @@
+By distinguishing the main arc Fraternite from the minor arcs Egalite (2,1), Liberte, Courage,
+the restricted three-body system is extended to a non-conservative restricted four-body system
+with the central body Neptune S, the primary body Galatea X, a minor body Fraternite F, and a test body
+s. Through the equations of motion, it is shown that the locations where the force is null along the
+orbit of s correspond to the locations of Egalite (2,1), Liberte, and Courage. Even if all the arcs
+were captured by CER sites initially, the orbits over the CERs would be unstable for the minor arcs
+due to the disturbing force of Fraternite, allowing them to be relocated to the null points. On the
+other hand, the minor arcs do not have the mass to destabilize Fraternite from its CER site, which
+is enlarged from 8.37 degrees to 9.7 degrees thus accounting for the Fraternite's span. In this restricted
+four-body system, s is under the effects of the potentials of X and F. The potential of X drives a long
+period harmonic pendulum oscillation of $(n+1)\theta_{s}$ of the test body s with respect to $n\theta_{x}$
+of X centered over a local CER site with period $T=1,000\,d$, while the potential of F drives an even
+longer period singular pendulum oscillation centered over Fraternite with period $T_{f}=40,000\,d$.
+It is shown that the null points are the turning points of the harmonic CER oscillation, and the non-conservative
+nature of this system could account for the time varying intensity, configuration, and disappearance
+of the minor arcs. 

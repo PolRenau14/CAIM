@@ -1,0 +1,16 @@
+Online trolling has raised serious concerns about manipulating public opinion and exacerbating
+political divides among social media users. In this work, we analyse the role and behaviour of Russian
+trolls on Twitter through the lens of the social theory inspired by Tarde's ancient theory of monadology
+and its further development in Actor-Network Theory. Based on what the theory suggests, the social
+role or identity of individuals should be defined based on the traces they leave behind, which we
+define as a succession of timestamped items (e.g. tweet texts). To operationalise this, we develop
+a novel variant of text distance metric, time-sensitive semantic edit distance, accounting for
+temporal context across multiple traces. The novel metric allows us to classify roles of trolls
+based on their traces, in this case tweets, against a reference set. Through experiments aiming
+to identify the role of trolls into one of left-leaning, right-leaning, and news feed categories,
+we show the effectiveness of the proposed metric to measure differences between tweets in a temporal
+context. Through the qualitative analysis of tweet visualisation using the semantic edit distance,
+we find: (1) cooperation between different types of trolls despite having different and distinguishable
+roles; (2) complex and orchestrated interplay between left- and right-leaning trolls; (3) multiple
+agendas of news feed trolls to promote social disturbance and make Western democracy more fractious;
+and (4) a distinct shift of trolling strategy from before to after the 2016 US election. 

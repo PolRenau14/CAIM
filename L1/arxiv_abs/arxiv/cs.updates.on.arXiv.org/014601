@@ -1,0 +1,17 @@
+Advanced measurement techniques and high performance computing have made large data sets available
+for a wide range of turbulent flows that arise in engineering applications. Drawing on this abundance
+of data, dynamical models can be constructed to reproduce structural and statistical features
+of turbulent flows, opening the way to the design of effective model-based flow control strategies.
+This review describes a framework for completing second-order statistics of turbulent flows by
+models that are based on the Navier-Stokes equations linearized around the turbulent mean velocity.
+Systems theory and convex optimization are combined to address the inherent uncertainty in the
+dynamics and the statistics of the flow by seeking a suitable parsimonious correction to the prior
+linearized model. Specifically, dynamical couplings between states of the linearized model dictate
+structural constraints on the statistics of flow fluctuations. Thence, colored-in-time stochastic
+forcing that drives the linearized model is sought to account for and reconcile dynamics with available
+data (i.e., partially known second order statistics). The number of dynamical degrees of freedom
+that are directly affected by stochastic excitation is minimized as a measure of model parsimony.
+The spectral content of the resulting colored-in-time stochastic contribution can alternatively
+be seen to arise from a low-rank structural perturbation of the linearized dynamical generator,
+pointing to suitable dynamical corrections that may account for the absence of the nonlinear interactions
+in the linearized model. 

@@ -1,0 +1,16 @@
+At low temperatures, elementary excitations of a one-dimensional quantum liquid form a gas that
+can move as a whole with respect to the center of mass of the system. This internal motion attenuates
+at exponentially long time scales. As a result, in a broad range of frequencies the liquid is described
+by two-fluid hydrodynamics, and the system supports two sound modes. The physical nature of the
+two sounds depends on whether the particles forming the quantum liquid have a spin degree of freedom.
+For particles with spin, the modes are analogous to the first and second sound modes in superfluid
+$^4$He, which are the waves of density and entropy, respectively. When dissipative processes are
+taken into account, we find that at low frequencies the second sound is transformed into heat diffusion,
+while the first sound mode remains weakly damped and becomes the ordinary sound. In a spinless liquid
+the entropy and density oscillations are strongly coupled, and the resulting sound modes are hybrids
+of the first and second sound. As the frequency is lowered and dissipation processes become important,
+the crossover to single-fluid regime occurs in two steps. First the hybrid modes transform into
+predominantly density and entropy waves, similar to the first and second sound, and then the density
+wave transforms to the ordinary sound and the entropy wave becomes a heat diffusion mode. Finally,
+we account for the dissipation due to viscosity and intrinsic thermal conductivity of the gas of
+excitations, which controls attenuation of the sound modes at high frequencies. 

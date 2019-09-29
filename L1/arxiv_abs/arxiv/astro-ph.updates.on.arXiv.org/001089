@@ -1,0 +1,16 @@
+Lower bounds are derived on the amplitude B of intergalactic magnetic fields (IGMFs) in the region
+between Galaxy and the blazar Mrk 421, from constraints on the delayed GeV pair-echo flux that are
+emitted by secondary e^-e^+ produced in \gamma\gamma interactions between primary TeV gamma-rays
+and the cosmic infrared background. The distribution of galaxies mapped by the Sloan Digital Sky
+Survey shows that this region is dominated by a large intergalactic void. We utilize data from long-term,
+simultaneous GeV-TeV observations by the Fermi Large Area Telescope and the ARGO-YBJ experiment
+extending over 850 days. For an assumed value of B, we evaluate the daily GeV pair-echo flux expected
+from the TeV data, select the dates where this exceeds the Fermi 2-\sigma sensitivity, compute the
+probability that this flux is excluded by the Fermi data for each date, and then combine the probabilities
+using the inverse normal method. Consequently, we exclude B < 10^{-20.5} G for a field coherence
+length of 1 kpc at 4- \sigma level, as long as plasma instabilities are unimportant for cooling of
+the pair beam. This is much more significant than the 2-\sigma bounds we obtained previously from
+observations of Mrk 501, by virtue of more extensive data from the ARGO-YBJ, as well as improved statistical
+analysis. Compared with most other studies of IGMF bounds, the evidence we present here for a non-zero
+IGMF is more robust as it does not rely on unproven assumptions on the primary TeV emission during
+unobserved periods. 

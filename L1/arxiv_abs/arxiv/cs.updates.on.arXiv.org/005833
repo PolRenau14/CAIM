@@ -1,0 +1,16 @@
+Low-light is an inescapable element of our daily surroundings that greatly affects the efficiency
+of our vision. Research works on low-light has seen a steady growth, particularly in the field of
+image enhancement, but there is still a lack of a go-to database as benchmark. Besides, research
+fields that may assist us in low-light environments, such as object detection, has glossed over
+this aspect even though breakthroughs-after-breakthroughs had been achieved in recent years,
+most noticeably from the lack of low-light data (less than 2% of the total images) in successful public
+benchmark dataset such as PASCAL VOC, ImageNet, and Microsoft COCO. Thus, we propose the Exclusively
+Dark dataset to elevate this data drought, consisting exclusively of ten different types of low-light
+images (i.e. low, ambient, object, single, weak, strong, screen, window, shadow and twilight)
+captured in visible light only with image and object level annotations. Moreover, we share insightful
+findings in regards to the effects of low-light on the object detection task by analyzing visualizations
+of both hand-crafted and learned features. Most importantly, we found that the effects of low-light
+reaches far deeper into the features than can be solved by simple "illumination invariance'". It
+is our hope that this analysis and the Exclusively Dark dataset can encourage the growth in low-light
+domain researches on different fields. The Exclusively Dark dataset with its annotation is available
+at https://github.com/cs-chan/Exclusively-Dark-Image-Dataset 

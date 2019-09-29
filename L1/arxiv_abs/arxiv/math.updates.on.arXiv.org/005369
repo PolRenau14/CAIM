@@ -1,0 +1,16 @@
+The aim of this paper is to present a comprehensive survey of cubic Fibonacci identities, trying
+to uncover as many as possible. From the outset, our rationale for a very careful search on an apparently
+obscure problem was not only a matter of mathematical curiosity, but also motivated by a quest for
+3D Fibonacci spirals. As we were not able to find any survey on the particular topic of cubic Fibonacci
+identities we decided to try to fill this void. We started by surveying many Fibonacci identities
+and recording cubic ones. Obviously, tracing all Fibonacci identities (for identifying a handful)
+is a daunting task. Checking several hundred we have realized that it is not always clear who the author
+is. The reason is that in many cases an identity was stated in one article (sometimes without a proof,
+e.g., as an open problem, or a conjecture) while later being proven in another article, or effectively
+rediscovered independently by other authors. However, we have done our best to present the identities
+chronologically. We have supplied our own proof for one identity, having tried, but failed, to find
+a published proof. For all the other identities, we either proved them on a computer, or else verified
+by hand their original published proofs. Somehow unexpectedly, our investigations have revealed
+only a rather small number of cubic Fibonacci identities, representing a tiny fraction of all published
+Fibonacci identities (most of which are linear or quadratic). Finally, out of these, only a handful
+of cubic Fibonacci identities are homogeneous. 

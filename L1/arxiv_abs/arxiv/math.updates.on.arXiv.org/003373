@@ -1,0 +1,16 @@
+In this paper, we present new stochastic methods for solving two important classes of nonconvex
+optimization problems. We first introduce a randomized accelerated proximal gradient (RapGrad)
+method for solving a class of nonconvex optimization problems consisting of the sum of $m$ component
+functions, and show that it can significantly reduce the number of gradient computations especially
+when the condition number $L/\mu$ (i.e., the ratio between the Lipschitz constant and negative
+curvature) is large. More specifically, RapGrad can save up to ${\cal O}(\sqrt{m})$ gradient computations
+than existing deterministic nonconvex accelerated gradient methods. Moreover, the number of
+gradient computations required by RapGrad can be ${\cal O}(m^\frac{1}{6} L^\frac{1}{2} / \mu^\frac{1}{2})$
+(at least ${\cal O}(m^\frac{2}{3})$) times smaller than the best-known randomized nonconvex
+gradient methods when $L/\mu \ge m$. Inspired by RapGrad, we also develop a new randomized accelerated
+proximal dual (RapDual) method for solving a class of multi-block nonconvex optimization problems
+coupled with linear constraints. We demonstrate that RapDual can also save up to a factor of ${\cal
+O}(\sqrt{m})$ projection subproblems than its deterministic counterpart, where $m$ denotes
+the number of blocks. To the best of our knowledge, all these complexity results associated with
+RapGrad and RapDual seem to be new in the literature. We also illustrate potential advantages of
+these algorithms through our preliminary numerical experiments. 

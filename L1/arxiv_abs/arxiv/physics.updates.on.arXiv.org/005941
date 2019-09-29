@@ -1,0 +1,17 @@
+We propose a microscopic model to describe how individual opinions shared between interacting
+agents initiate excessive collective expectations about a new idea or an innovation, followed
+by a swift collapse towards a dramatic collective disillusionment. The basic assumption which
+underlies the dynamics is that the information gathering process is not instantaneous but requires
+maturation. Agents steadily refine and update their personal opinion via a recurrent consultation
+of a public pool which stores information tokens (ITs). The expectation for the innovative idea
+is monitored in real-time by counting the number of stored ITs. The flow dynamics of ITs is assimilated
+to a single node queuing system (QS) with feedback loop. It incorporates the information pool (the
+waiting room), an IT inflow, and a service outflow that stylizes the information gathering process.
+Contrary to basic queuing theory, here the ITs roaming the QS are endowed with time-dependent internal
+variables. This additional dynamic information is used to construct the information maturation
+process. Such a maturation of the information introduces response delays into the dynamics, which
+ultimately generates the collective disillusionment trough. We illustrate the introduced generic
+modeling framework by considering in details the hype cycle dynamics, a key managerial topic when
+dealing with diffusion of innovation. In a second part of the paper, we introduce a stylized framework
+to detect, as soon as possible, the onset of the collective disillusionment phase, while minimizing
+the frequency of false alarms. 

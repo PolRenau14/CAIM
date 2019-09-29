@@ -1,0 +1,17 @@
+A line of recent work has characterized the behavior of the EM algorithm in favorable settings in
+which the population likelihood is locally strongly concave around its maximizing argument. Examples
+include suitably separated Gaussian mixture models and mixtures of linear regressions. We consider
+instead over-fitted settings in which the likelihood need not be strongly concave, or, equivalently,
+when the Fisher information matrix might be singular. In such settings, it is known that a global
+maximum of the MLE based on $n$ samples can have a non-standard $n^{-1/4}$ rate of convergence. How
+does the EM algorithm behave in such settings? Focusing on the simple setting of a two-component
+mixture fit to a multivariate Gaussian distribution, we study the behavior of the EM algorithm both
+when the mixture weights are different (unbalanced case), and are equal (balanced case). Our analysis
+reveals a sharp distinction between these cases: in the former, the EM algorithm converges geometrically
+to a point at Euclidean distance $O((d/n)^{1/2})$ from the true parameter, whereas in the latter
+case, the convergence rate is exponentially slower, and the fixed point has a much lower $O((d/n)^{1/4})$
+accuracy. The slower convergence in the balanced over-fitted case arises from the singularity
+of the Fisher information matrix. Analysis of this singular case requires the introduction of some
+novel analysis techniques, in particular we make use of a careful form of localization in the associated
+empirical process, and develop a recursive argument to progressively sharpen the statistical
+rate. 

@@ -1,0 +1,16 @@
+One of the peculiarities of power and gas markets is the delivery mechanism of forward contracts.
+The seller of a futures contract commits to deliver, say, power, over a certain period, while the
+classical forward is a financial agreement settled on a maturity date. Our purpose is to design a
+Heath-Jarrow-Morton framework for an additive, mean-reverting, multicommodity market consisting
+of forward contracts of any delivery period. The main assumption is that forward prices can be represented
+as affine functions of a universal source of randomness. This allows us to completely characterize
+the models which prevent arbitrage opportunities: this boils down to finding a density between
+a risk-neutral measure $\mathbb{Q}$, such that the prices of traded assets like forward contracts
+are true $\mathbb{Q}$-martingales, and the real world probability measure $\mathbb{P}$, under
+which forward prices are mean-reverting. The Girsanov kernel for such a transformation turns out
+to be stochastic and unbounded in the diffusion part, while in the jump part the Girsanov kernel must
+be deterministic and bounded: thus, in this respect, we prove two results on the martingale property
+of stochastic exponentials. The first allows to validate measure changes made of two components:
+an Esscher-type density and a Girsanov transform with stochastic and unbounded kernel. The second
+uses a different approach and works for the case of continuous density. We apply this framework to
+two models: a generalized Lucia-Schwartz model and a cross-commodity cointegrated market. 

@@ -1,0 +1,16 @@
+This study presents a detailed examination of the lattice distortions introduced by glancing incidence
+Focussed Ion Beam (FIB) milling. Using non-destructive multi-reflection Bragg coherent X-ray
+diffraction we probe damage formation in an initially pristine gold micro-crystal following several
+stages of FIB milling. These experiments allow access to the full lattice strain tensor in the micro-crystal
+with ~25 nm 3D spatial resolution, enabling a nano-scale analysis of residual lattice strains and
+defects formed. Our results show that 30 keV glancing incidence milling produces fewer large defects
+than normal incidence milling at the same energy. However the resulting residual lattice strains
+have similar magnitude and extend up to ~50 nm into the sample. At the edges of the milled surface,
+where the ion-beam tails impact the sample at near-normal incidence, large dislocation loops with
+a range of burgers vectors are formed. Further glancing incidence FIB polishing with 5 keV ion energy
+removes these dislocation loops and reduces the lattice strains caused by higher energy FIB milling.
+However, even at the lower ion energy, damage-induced lattice strains are present within a ~20 nm
+thick surface layer. These results highlight the need for careful consideration and management
+of FIB damage. They also show that low-energy FIB-milling is an effective tool for removing FIB-milling
+induced lattice strains. This is important for the preparation of micro-mechanical test specimens
+and strain microscopy samples. 

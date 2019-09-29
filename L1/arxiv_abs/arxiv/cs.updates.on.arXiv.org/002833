@@ -1,0 +1,16 @@
+Hilbert's two-dimensional space-filling curve is appreciated for its good locality-preserving
+properties and easy implementation for many applications. However, Hilbert did not describe how
+to generalize his construction to higher dimensions. In fact, the number of ways in which this may
+be done ranges from zero to infinite, depending on what properties of the Hilbert curve one considers
+to be essential. In this work we take the point of view that a Hilbert curve should at least be self-similar
+and traverse cubes octant by octant. We organize and explore the space of possible three-dimensional
+Hilbert curves and the potentially useful properties which they may have. We discuss a notation
+system that allows us to distinguish the curves from one another and enumerate them. This system
+has been implemented in a software prototype, available from the author's website. Several examples
+of possible three-dimensional Hilbert curves are presented, including a curve that visits the
+points on most sides of the unit cube in the order of the two-dimensional Hilbert curve; curves of
+which not only the eight octants are similar to each other, but also the four quarters; a curve with
+excellent locality-preserving properties and endpoints that are not vertices of the cube; a curve
+in which all but two octants are each other's images with respect to reflections in axis-parallel
+planes; and curves that can be sketched on a grid without using vertical line segments. In addition,
+we discuss several four-dimensional Hilbert curves. 

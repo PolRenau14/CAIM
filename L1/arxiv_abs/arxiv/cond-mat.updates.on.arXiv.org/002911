@@ -1,0 +1,16 @@
+Antireflection or impedance matching is a topic that has been extensively researched by the optical
+and microwave communities over the past century and until today. However, due to the diverging wave
+impedances of TE (s) and TM (p) polarizations with increasing incident angle, it is impossible to
+achieve perfect matching simultaneously for both polarizations at an oblique incident angle with
+a single conventional matching layer. In this paper, we show that simultaneous perfecting matching
+of an arbitrary substrate at an arbitrary incident angle from air is possible with a single uniaxial
+metamaterial matching layer (UMML) that possesses specific permittivity and permeability tensors.
+We demonstrate this concept by synthesizing a physical UMML to match a high-index ({\epsilon}r=
+10.2) substrate at 45{\deg}. The required permittivity and permittivity tensors of the UMML are
+achieved through the judicious control of the tangential and longitudinal electric and magnetic
+responses. Around -30 dB reflections are observed for both polarizations at the design angle. Building
+on the UMML concept, we design a novel radome in microwave regime with a near omni-directional matching
+performance. For incident angles from 0{\deg}-85{\deg}, reflections remain below -14 dB for both
+polarizations. To our best knowledge, this is the widest angular range that has been achieved while
+maintaining less than 5% power reflection for both polarizations. The proposed UMML concept offers
+a new paradigm for designing high-performance microwave, terahertz, and optical devices. 

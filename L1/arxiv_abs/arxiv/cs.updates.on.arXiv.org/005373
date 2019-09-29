@@ -1,0 +1,16 @@
+While tree methods have been popular in practice, researchers and practitioners are also looking
+for simple algorithms which can reach similar accuracy of trees. In 2010, (Ping Li UAI'10) developed
+the method of "abc-robust-logitboost" and compared it with other supervised learning methods
+on datasets used by the deep learning literature. In this study, we propose a series of "tunable GMM
+kernels" which are simple and perform largely comparably to tree methods on the same datasets. Note
+that "abc-robust-logitboost" substantially improved the original "GDBT" in that (a) it developed
+a tree-split formula based on second-order information of the derivatives of the loss function;
+(b) it developed a new set of derivatives for multi-class classification formulation. In the prior
+study in 2017, the "generalized min-max" (GMM) kernel was shown to have good performance compared
+to the "radial-basis function" (RBF) kernel. However, as demonstrated in this paper, the original
+GMM kernel is often not as competitive as tree methods on the datasets used in the deep learning literature.
+Since the original GMM kernel has no parameters, we propose tunable GMM kernels by adding tuning
+parameters in various ways. Three basic (i.e., with only one parameter) GMM kernels are the "$e$GMM
+kernel", "$p$GMM kernel", and "$\gamma$GMM kernel", respectively. Extensive experiments show
+that they are able to produce good results for a large number of classification tasks. Furthermore,
+the basic kernels can be combined to boost the performance. 

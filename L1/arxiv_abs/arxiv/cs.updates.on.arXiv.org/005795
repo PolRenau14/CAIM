@@ -1,0 +1,16 @@
+Tasks such as search and recommendation have become increas- ingly important for E-commerce to
+deal with the information over- load problem. To meet the diverse needs of di erent users, person-
+alization plays an important role. In many large portals such as Taobao and Amazon, there are a bunch
+of di erent types of search and recommendation tasks operating simultaneously for person- alization.
+However, most of current techniques address each task separately. This is suboptimal as no information
+about users shared across di erent tasks. In this work, we propose to learn universal user representations
+across multiple tasks for more e ective personalization. In partic- ular, user behavior sequences
+(e.g., click, bookmark or purchase of products) are modeled by LSTM and attention mechanism by integrating
+all the corresponding content, behavior and temporal information. User representations are shared
+and learned in an end-to-end setting across multiple tasks. Bene ting from better information utilization
+of multiple tasks, the user representations are more e ective to re ect their interests and are more
+general to be transferred to new tasks. We refer this work as Deep User Perception Network (DUPN)
+and conduct an extensive set of o ine and online experiments. Across all tested ve di erent tasks,
+our DUPN consistently achieves better results by giving more e ective user representations. Moreover,
+we deploy DUPN in large scale operational tasks in Taobao. Detailed implementations, e.g., incre-
+mental model updating, are also provided to address the practical issues for the real world applications.

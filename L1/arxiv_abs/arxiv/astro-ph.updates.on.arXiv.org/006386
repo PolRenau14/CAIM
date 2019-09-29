@@ -1,0 +1,16 @@
+The architecture of exoplanetary systems is relatively well known inward to 1 AU thanks to indirect
+techniques, which have allowed characterization of thousands of exoplanet orbits, masses and
+sometimes radii. The next step is the characterization of exoplanet atmospheres at long period,
+which requires direct imaging capability. While the characterization of a handful of young giant
+planets is feasible with dedicated instruments like SPHERE/VLT, GPI/Gemini, SCExAO/Subaru and
+soon with the coronagraphic capabilities aboard JWST, the spectroscopic study of mature giant
+planets and lower mass planets (Neptune-like, Super Earths) requires the achievement of better
+coronagraphic performance. While space-based coronagraph on WFIRST-AFTA might start this study
+at low spectroscopic resolution, dedicated projects on large space telescope and on the ELT will
+be required for a more complete spectroscopic study of these faint planets. To prepare these future
+instruments, we developed a high contrast imaging bench called THD, then THD2 for the upgraded version
+using multi-DM configuration. The THD2 bench is designed to test and compare coronagraphs as well
+as focal plane wavefront sensors and wavefront control techniques. It can simulate the beam provided
+by a space telescope and soon the first stage of adaptive optics behind a ground-based telescope.
+In this article, we describe in details the THD2 bench and give the results of a recent comparison
+study of the chromatic behavior for several coronagraph on the THD2. 

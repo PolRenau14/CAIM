@@ -1,0 +1,16 @@
+This paper studies the sensor placement problem in a networked control system for improving its
+security against cyber-physical attacks. The problem is formulated as a zero-sum game between
+an attacker and a detector. The attacker's decision is to select $f$ nodes of the network to attack
+whereas the detector's decision is to place $f$ sensors to detect the presence of the attack signals.
+In our formulation, the attacker minimizes its visibility, defined as the system $L_2$ gain from
+the attack signals to the deployed sensors' outputs, and the detector maximizes the visibility
+of the attack signals. The equilibrium strategy of the game determines the optimal locations of
+the sensors. The existence of Nash equilibrium for the attacker-detector game is studied when the
+underlying connectivity graph is a directed or an undirected tree. When the game does not admit a
+Nash equilibrium, it is shown that the Stackelberg equilibrium of the game, with the detector as
+the game leader, can be computed efficiently. Finally, the attacker-detector game is studied in
+a cooperative adaptive cruise control algorithm for vehicle platooning problem. The existence
+of Nash equilibrium is investigated for both directed and undirected platoons and the effect of
+the position of the reference vehicle on the game value is studied. Our results show that, under the
+optimal sensor placement strategy, an undirected topology provides a higher security level for
+a networked control system compared with its corresponding directed topology. 

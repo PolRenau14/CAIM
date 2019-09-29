@@ -1,0 +1,16 @@
+Winds arising from galaxies, star clusters, and active galactic nuclei are crucial players in star
+and galaxy formation, but it has proven remarkably difficult to use observations of them to determine
+physical properties of interest, particularly mass fluxes. Much of the difficulty stems from a
+lack of a theory that links a physically-realistic model for winds' density, velocity, and covering
+factors to calculations of light emission and absorption. In this paper we provide such a model.
+We consider a wind launched from a turbulent region with a range of column densities, derive the differential
+acceleration of gas as a function of column density, and use this result to compute winds' absorption
+profiles, emission profiles, and emission intensity maps in both optically thin and optically
+thick species. The model is sufficiently simple that all required computations can be done analytically
+up to straightforward numerical integrals, rendering it suitable for the problem of deriving physical
+parameters by fitting models to observed data. We show that our model produces realistic absorption
+and emission profiles for some example cases, and argue that the most promising methods of deducing
+mass fluxes are based on combinations of absorption lines of different optical depths, or on combining
+absorption with measurements of molecular line emission. In the second paper in this series, we
+expand on these ideas by introducing a set of observational diagnostics that are significantly
+more robust that those commonly in use, and that can be used to obtain improved estimates of wind properties.

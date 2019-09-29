@@ -1,0 +1,17 @@
+Recovery of multispecies oral biofilms is investigated following treatment by chlorhexidine
+gluconate (CHX), iodine-potassium iodide (IPI) and Sodium hypochlorite (NaOCl) both experimentally
+and theoretically. Experimentally, biofilms taken from two donors were exposed to the three antibacterial
+solutions (irrigants) for 10 minutes, respectively. We observe that (a) live bacterial cell ratios
+decline for a week after the exposure and the trend reverses beyond a week; after fifteen weeks, live
+bacterial cell ratios in biofilms fully return to their pretreatment levels; (b) NaOCl is shown
+as the strongest antibacterial agent for the oral biofilms; (c) multispecies oral biofilms from
+different donors showed no difference in their susceptibility to all the bacterial solutions.
+Guided by the experiment, a mathematical model for biofilm dynamics is developed, accounting for
+multiple bacterial phenotypes, quorum sensing, and growth factor proteins, to describe the nonlinear
+time evolutionary behavior of the biofilms. The model captures time evolutionary dynamics of biofilms
+before and after antibacterial treatment very well. It reveals the crucial role played by quorum
+sensing molecules and growth factors in biofilm recovery and verifies that the source of biofilms
+has a minimal to their recovery. The model is also applied to describe the state of biofilms of various
+ages treated by CHX, IPI and NaOCl, taken from different donors. Good agreement with experimental
+data predicted by the model is obtained as well, confirming its applicability to modeling biofilm
+dynamics in general. 

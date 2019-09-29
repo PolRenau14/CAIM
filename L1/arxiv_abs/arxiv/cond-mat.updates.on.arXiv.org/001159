@@ -1,0 +1,16 @@
+We report investigations on the magnetotransport in LaSb, which exhibits extremely large magnetoresistance
+(XMR). Foremost, we demonstrate that the resistivity plateau can be explained without invoking
+topological protection. We then determine the Fermi surface from Shubnikov - de Haas (SdH) quantum
+oscillation measurements and find good agreement with the bulk Fermi pockets derived from first
+principle calculations. Using a semiclassical theory and the experimentally determined Fermi
+pocket anisotropies, we quantitatively describe the orbital magnetoresistance, including its
+angle dependence. We show that the origin of XMR in LaSb lies in its high mobility with diminishing
+Hall effect, where the high mobility leads to a strong magnetic field dependence of the longitudinal
+magnetoconductance. Unlike a one-band material, when a system has two or more bands (Fermi pockets)
+with electron and hole carriers, the added conductance arising from the Hall effect is reduced,
+hence revealing the latent XMR enabled by the longitudinal magnetoconductance. With diminishing
+Hall effect, the magnetoresistivity is simply the inverse of the longitudinal magnetoconductivity,
+enabling the differentiation of the electron and hole contributions to the XMR, which varies with
+the strength and orientation of the magnetic field. This work demonstrates a convenient way to separate
+the dynamics of the charge carriers and to uncover the origin of XMR in multi-band materials with
+anisotropic Fermi surfaces. Our approach can be readily applied to other XMR materials. 

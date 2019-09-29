@@ -1,0 +1,17 @@
+We applly a simple axisymmetric disc model to 174 Galactic Cepheids, to measure the local circular
+velocity, its radial gradient and the other Galactic parameters, such as the Sun's proper motion
+in the Galactic rest frame, the solar radius and the velocity dispersion of the tracer populations.
+Accurate measurements of the distance and velocities for the Cepheids are obtained by cross-matching
+the existing Cepheids catalogue with the Tycho-Gaia astrometric solution (TGAS) catalogue. Our
+axisymmetric disc model fit to the kinematic data of the Cepheids determines the local circular
+velocity at the Sun's location, $V_\mathrm{circ}(R_0)=236\pm 3$ km s$^{-1}$ and the Sun's azimuthal
+and radial proper motions of $V_\mathrm{\odot}=12.5\pm0.8$ km s$^{-1}$ and $U_\mathrm{ \odot}=7.7\pm1.0$
+km s$^{-1}$, respectively, with strong priors of the solar radius, $R_0=8.2\pm0.1$ kpc, and angular
+rotation velocity of the Sun, $\Omega_\mathrm{\odot}=30.24\pm0.12$ km s$^{-1}$ kpc$^{-1}$.
+To understand what these measurements from the local stellar tracers mean in terms of the local and
+global Galactic parameters, we also applied the axisymmetric model to the N-body/hydrodynamic
+simulation data of a Milky Way-like galaxy with a bar and spiral arms by sampling the young and old
+disc star particles within the distance of 3 kpc from the observer placed at $R=8$ kpc, but at different
+azimuthal angles. Our axisymmetric model fitting to the young stars recovers the local circular
+velocity, defined with the radial gravitational force, reasonably well, even in the face of significant
+non-axisymmetry in the forces. 

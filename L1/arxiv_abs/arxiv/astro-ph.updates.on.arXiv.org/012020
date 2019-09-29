@@ -1,0 +1,17 @@
+In the current era of radio astronomy, continuum surveys observe a multitude of objects with complex
+morphologies and sizes, and are not limited to observing point sources. Typical radio source extraction
+software generates catalogues by using Gaussian components to form a model of the emission. This
+may not be well suited to complicated jet structures and extended emission, particularly in the
+era of interferometers with a high density of short baselines, that are sensitive to extended emission.
+In this paper, we investigate how the optically-motivated source detection package ProFound (Robotham
+et al. 2018) may be used to model radio emission of both complicated and point-like radio sources.
+We use a combination of observations and simulations to investigate how ProFound compares to other
+source extractor packages used for radio surveys. We find that ProFound can accurately recover
+both the flux densities of simulated Gaussian sources as well as extended radio galaxies. ProFound
+can create models that trace the complicated nature of these extended galaxies, which we show is
+not necessarily the case with other source extraction software. Our work suggests that our knowledge
+of the emission from extended radio objects may be both over or under-estimated using traditional
+software. We suggest that ProFound offers a useful alternative to the fitting of Gaussian components
+for generating catalogues from current and future radio surveys. Furthermore, ProFound's multi-wavelength
+capabilities will be useful in investigating radio sources in combination with multi-wavelength
+data. 

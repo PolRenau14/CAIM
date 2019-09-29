@@ -1,0 +1,17 @@
+The current paper studies the synthesis of control strategies that realize reach-and-stay objectives
+for nonlinear systems without stability assumptions. Under moderate conditions, we propose a
+control synthesis algorithm that is finitely terminating and guaranteed to return a control strategy
+provided that the specification is robustly realizable. Such a feature is desirable as the commonly
+used abstraction-based methods are sound but not complete for systems that are not incrementally
+stable. Fundamental to the proposed method is a fixed-point algorithm characterizing the winning
+set of a given specification, i.e., the initial states that can be controlled to satisfy the specification,
+over a continuous state space. Interval arithmetic and an adaptive partitioning scheme are used
+so that the given precision of the approximation of the winning set is guaranteed. By recording valid
+control values throughout the fixed-point iterations, partition-based control strategies can
+be extracted immediately after the algorithm terminates. Compared with abstraction-based methods,
+the adaptive partitioning scheme reduces the size of the finite partition by utilizing the information
+of both the dynamics and the given specification. The proposed algorithm is capable of handling
+nonlinear dynamics and non-convex constraints, which makes it applicable to general discrete-time
+nonlinear systems and sampled-data systems. The effectiveness of our method is illustrated by
+the applications to automatic parallel parking and estimation of the regions of attraction for
+continuous-time nonlinear systems. 

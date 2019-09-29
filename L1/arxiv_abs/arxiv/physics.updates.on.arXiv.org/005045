@@ -1,0 +1,16 @@
+Non-Abelian and non-adiabatic variants of Berry's geometric phase have been pivotal in the recent
+advances in fault tolerant quantum computation gates, while Berry's phase itself is at the heart
+of the study of topological phases of matter. The geometrical and topological properties of the
+phase space of spin$-1$ quantum states is richer than that of spin$-1/2$ quantum states and is relatively
+unexplored. For instance, the spin vector of a spin-1 system, unlike that of a spin$-1/2$ system,
+can lie anywhere on or inside the Bloch sphere representing the phase space. Recently, a generalization
+of Berry's phase that encapsulates the topology of spin-1 quantum states has been formulated in
+J. Math. Phys., 59(6), 062105. This geometric phase includes loops that go inside the Bloch sphere
+and is carried by the tensor of spin fluctuations, unlike Berry's phase which is carried by the global
+phase of the quantum state. Furthermore, due to a mathematical singularity at the center of the Bloch
+sphere, the class of loops that pass through the center are called singular loops and are significant
+because their geometric phase is non-Abelian. In contrast with Berry's phase for spin$-1/2$ systems,
+whose properties come from the topology of a sphere, the properties of singular loop geometric phases
+come from the topology of the real projective plane $\mathbb{RP}^2$, which is more non-trivial.
+Here we use coherent control of ultracold $^{87}$Rb atoms in an optical trap to experimentally explore
+this geometric phase for singular loops in a spin-1 quantum system. 

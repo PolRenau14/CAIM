@@ -1,0 +1,17 @@
+Constraints have played an important role in the construction of GUIs, where they are mainly used
+to define the layout of the widgets. Resizing behavior is very important in GUIs because areas have
+domain specific parameters such as form the resizing of windows. If linear objective function is
+used and window is resized then error is not distributed equally. To distribute the error equally,
+a quadratic objective function is introduced. Different algorithms are widely used for solving
+linear constraints and quadratic problems in a variety of different scientific areas. The linear
+relxation, Kaczmarz, direct and linear programming methods are common methods for solving linear
+constraints for GUI layout. The interior point and active set methods are most commonly used techniques
+to solve quadratic programming problems. Current constraint solvers designed for GUI layout do
+not use interior point methods for solving a quadratic objective function subject to linear equality
+and inequality constraints. In this paper, performance aspects and the convergence speed of interior
+point and active set methods are compared along with one most commonly used linear programming method
+when they are implemented for graphical user interface layout. The performance and convergence
+of the proposed algorithms are evaluated empirically using randomly generated UI layout specifications
+of various sizes. The results show that the interior point algorithms perform significantly better
+than the Simplex method and QOCA-solver, which uses the active set method implementation for solving
+quadratic optimization. 

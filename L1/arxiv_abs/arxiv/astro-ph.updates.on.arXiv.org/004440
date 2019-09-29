@@ -1,0 +1,16 @@
+We present new evidence for a variable stellar initial mass function (IMF) in massive early-type
+galaxies, using high-resolution, near-infrared spectroscopy from the Folded-port InfraRed
+Echellette spectrograph (FIRE) on the Magellan Baade Telescope at Las Campanas Observatory. In
+this pilot study, we observe several gravity-sensitive metal lines between 1.1 $\mu$m and 1.3 $\mu$m
+in eight highly-luminous ($L \sim 10 L_*$) nearby galaxies. Thanks to the broad wavelength coverage
+of FIRE, we are also able to observe the Ca II triplet feature, which helps with our analysis. After
+measuring the equivalent widths (EWs) of these lines, we notice mild to moderate trends between
+EW and central velocity dispersion ($\sigma$), with some species (K I, Na I, Mn I) showing a positive
+EW-$\sigma$ correlation and others (Mg I, Ca II, Fe I) a negative one. To minimize the effects of metallicity,
+we measure the ratio $R$ = [EW(K I) / EW(Mg I)], finding a significant systematic increase in this
+ratio with respect to $\sigma$. We then probe for variations in the IMF by comparing the measured
+line ratios to the values expected in several IMF models. Overall, we find that low-mass galaxies
+($\sigma \sim 100$ km s$^{-1}$) favor a Chabrier IMF, while high-mass galaxies ($\sigma \sim 350$
+km s$^{-1}$) are better described with a steeper (dwarf-rich) IMF slope. While we note that our galaxy
+sample is small and may suffer from selection effects, these initial results are still promising.
+A larger sample of galaxies will therefore provide an even clearer picture of IMF trends in this regime.

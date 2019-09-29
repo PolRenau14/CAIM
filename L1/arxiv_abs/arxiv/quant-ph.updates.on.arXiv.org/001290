@@ -1,0 +1,16 @@
+A variational upper bound on the ground state energy $E_{\rm gs}$ of a quantum system, $E_{\rm gs}
+\leqslant \langle \Psi|H| \Psi \rangle$, is well-known (here $H$ is the Hamiltonian of the system
+and $\Psi$ is an arbitrary wave function). Much less known are variational {\it lower} bounds on
+the ground state. We consider one such bound which is valid for a many-body translation-invariant
+lattice system. Such a lattice can be divided into clusters which are identical up to translations.
+The Hamiltonian of such a system can be written as $H=\sum_{i=1}^M H_i$, where a term $H_i$ is supported
+on the $i$'th cluster. The bound reads $E_{\rm gs}\geqslant M \inf\limits_{\rho_{cl} \in {\mathbb
+S_{cl}^G}} {\rm tr}_{cl}\rho_{cl} \, H_{cl} $, where ${\mathbb S_{cl}^G}$ is some wisely chosen
+set of reduced density matrices of a single cluster. The implementation of this latter variational
+principle can be hampered by the difficulty of parameterizing the set $\mathbb M$, which is a necessary
+prerequisite for a variational procedure. The root cause of this difficulty is the nonlinear positivity
+constraint $\rho>0$ which is to be satisfied by a density matrix. The squaring parametrization
+of the density matrix, $\rho=\tau^2/{\rm tr}\,\tau^2$, where $\tau$ is an arbitrary (not necessarily
+positive) Hermitian operator, accounts for positivity automatically. We discuss how the squaring
+parametrization can be utilized to find variational lower bounds on ground states of translation-invariant
+many-body systems. As an example, we consider a one-dimensional Heisenberg antiferromagnet.

@@ -1,0 +1,16 @@
+Using a Karl G. Jansky Very Large Array (VLA) L-band (1-2 GHz) survey covering $\sim100$\,deg$^2$
+of the Stripe 82 field, we have obtained a catalogue of 2716 radio AGN. For these AGN, we investigate
+the impact of galaxy density on 1.4 GHz radio luminosity ($L_{1.4}$). We determine their close environment
+densities using the surface density parameter, $\Sigma_N,$ for $N=2$ and $N=5,$ which we bin by
+redshift to obtain a pseudo-3D galaxy density measure. Matching the radio AGN to sources without
+radio detections in terms of redshift, $K-$band magnitude and ($g-K$)-colour index, we obtain
+samples of control galaxies and determine whether radio AGN environments differ from this general
+population. Our results indicate that the environmental density of radio AGN and their radio luminosity
+are not correlated up to $z$ $\sim0.8$, over the luminosity range $10^{23} < (L_{1.4} / $W~Hz$^{-1})
+< 10^{26}$. We also find that, when using a control sample matched in terms of redshift, $K-$band
+magnitude and colour, environments of radio AGN are similar to those of the control sample but with
+an excess of overdense regions in which radio AGN are more prevalent. Our results suggest that the
+$<1$ Mpc-scale galaxy environment plays some role in determining whether a galaxy produces a radio
+AGN. The jet power, however, does not correlate with environment. From this, we infer that secular
+processes e.g. accretion flows of cold gas to the central black-hole are more critical in fuelling
+radio AGN activity than radio jet power. 

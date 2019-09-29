@@ -1,0 +1,16 @@
+We analyze the prompt emission of GRB 100724B and GRB 160509A, two of the brightest Gamma-Ray Bursts
+(GRBs) observed by Fermi at $\lesssim{\rm MeV}$ energies but surprisingly faint at $\gtrsim100\;$MeV
+energies. Time-resolved spectroscopy reveals a sharp high-energy cutoff at energies $E_c\sim20-60\;$MeV
+for GRB~100724B and $E_c\sim80-150\;$MeV for GRB~160509A. We first characterize phenomenologically
+the cutoff and its time evolution. We then fit the data to two models where the high-energy cutoff
+arises from intrinsic opacity to pair production within the source ($\tau_{\gamma\gamma}$):
+(i) a Band spectrum with $\tau_{\gamma\gamma}$ from the internal-shocks motivated model of Granot
+et al. (2008), and (ii) the photospheric model of Gill & Thompson (2014). Alternative explanations
+for the cutoff, such as an intrinsic cutoff in the emitting electron energy distribution, appear
+to be less natural. Both models provide a good fit to the data with very reasonable physical parameters,
+providing a direct estimate of bulk Lorentz factors in the range $\Gamma\sim 100-400$, on the lower
+end of what is generally observed in Fermi GRBs. Surprisingly, their lower cutoff energies $E_c$
+compared to other Fermi-LAT GRBs arise not predominantly from the lower Lorentz factors, but also
+at a comparable level from differences in variability time, luminosity, and high-energy photon
+index. Finally, particularly low $E_c$ values may prevent detection by Fermi-LAT, thus introducing
+a bias in the Fermi-LAT GRB sample against GRBs with low Lorentz factors or variability times. 

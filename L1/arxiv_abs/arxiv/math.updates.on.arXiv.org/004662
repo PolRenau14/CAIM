@@ -1,0 +1,16 @@
+Wildfires are natural disasters capable of damaging economies and communities. When wildfires
+become uncontrollable, Incident Manager Teams (IMT's) dispatch response vehicles to key assets
+to undertake protective tasks and so mitigate the risk to these assets. In developing a deployment
+plan under severe time pressure, IMT's need to consider the special requirements of each asset,
+the resources (vehicles and their teams), as well as uncertainties associated with the wildfire.
+A common situation that arises in southern Australian wildfires is a wind change. There is a reliable
+forecast of a wind change, but some uncertainty around the timing of that change. To assist IMT's
+to deal with this situation we develop a two-stage stochastic model to integrate such an uncertainty
+with the complexities of asset protection operations. This is the first time a mathematical model
+is proposed which considers uncertainty in the timing of a scenario change. The model is implemented
+for a case study that uses the context of the 2009 Black Saturday bushfires in Victoria. A new set of
+benchmark instances is generated using realistic wildfire attributes to test the computational
+tractability of our model and the results compared to a dynamic rerouting approach. The computations
+reveal that, compared with dynamic rerouting, the new model can generate better deployment plans.
+The model can achieve solutions in operational time for realistic-sized problems, although for
+larger problems the sub-optimal rerouting algorithm would still need to be deployed. 

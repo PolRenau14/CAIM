@@ -1,0 +1,16 @@
+We address the problem of data-driven image manipulation detection in the presence of an attacker
+with limited knowledge about the detector. Specifically, we assume that the attacker knows the
+architecture of the detector, the training data and the class of features V the detector can rely
+on. In order to get an advantage in his race of arms with the attacker, the analyst designs the detector
+by relying on a subset of features chosen at random in V. Given its ignorance about the exact feature
+set, the adversary must attack a version of the detector based on the entire feature set. In this way,
+the effectiveness of the attack diminishes since there is no guarantee that attacking a detector
+working in the full feature space will result in a successful attack against the reduced-feature
+detector. We prove both theoretically and experimentally - by applying the proposed procedure
+to the detection of two specific kinds of image manipulations - that, thanks to random feature selection,
+the security of the detector increases significantly at the expense of a negligible loss of performance
+in the absence of attacks. We theoretically prove that, under some simplifying assumptions, the
+security of the detector increases significantly thanks to random feature selection. We also provide
+an experimental validation of the proposed procedure by focusing on the detection of two specific
+kinds of image manipulations. The experiments confirm the gain in security at the expense of a negligible
+loss of performance in the absence of attacks. 

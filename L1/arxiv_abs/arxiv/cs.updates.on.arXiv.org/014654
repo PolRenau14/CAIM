@@ -1,0 +1,16 @@
+The main focus of the present work is the inclusion of spatial adaptivity for the snapshot computation
+in the offline phase of model order reduction utilizing Proper Orthogonal Decomposition (POD-MOR)
+for nonlinear parabolic evolution problems. We consider snapshots which live in different finite
+element spaces, which means in a fully discrete setting that the snapshots are vectors of different
+length. From a numerical point of view, this leads to the problem that the usual POD procedure which
+utilizes a singular value decomposition of the snapshot matrix, cannot be carried out. In order
+to overcome this problem, we here construct the POD model / basis using the eigensystem of the correlation
+matrix (snapshot gramian), which is motivated from a continuous perspective and is set up explicitly
+e.g. without the necessity of interpolating snapshots into a common finite element space. It is
+an advantage of this approach that the assembling of the matrix only requires the evaluation of inner
+products of snapshots in a common Hilbert space. This allows a great flexibility concerning the
+spatial discretization of the snapshots. The analysis for the error between the resulting POD solution
+and the true solution reveals that the accuracy of the reduced order solution can be estimated by
+the spatial and temporal discretization error as well as the POD error. Finally, to illustrate the
+feasibility our approach, we present a test case of the Cahn-Hilliard system utilizing h-adapted
+hierarchical meshes and two settings of a linear heat equation using nested and non-nested grids.

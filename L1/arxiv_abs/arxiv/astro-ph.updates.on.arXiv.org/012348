@@ -1,0 +1,16 @@
+We address a simple model where the Kennicutt-Schmidt (KS) relation between the macroscopic densities
+of star-formation rate (SFR, $\rho_{\rm sfr}$) and gas ($n$) in galactic discs emerges from self-regulation
+of the SFR via supernova feedback. It arises from the physics of supernova bubbles, insensitive
+to the microscopic SFR recipe and not explicitly dependent on gravity. The key is that the filling
+factor of SFR-suppressed supernova bubbles self-regulates to a constant, $f\sim 0.5$. Expressing
+the bubble fading radius and time in terms of $n$, the filling factor is $f \propto S\,n^{-s}$ with
+$s\sim 1.5$, where $S$ is the supernova rate density. A constant $f$ thus refers to $\rho_{\rm sfr}
+\propto n^{1.5}$, with a density-independent SFR efficiency per free-fall time $\sim 0.01$. The
+self-regulation to $f \sim 0.5$ and the convergence to a KS relation independent of the local SFR
+recipe are demonstrated in cosmological and isolated-galaxy simulations using different codes
+and recipes. In parallel, the spherical analysis of bubble evolution is generalized to clustered
+supernovae, analytically and via simulations, yielding $s \simeq 1.5 \pm 0.5$. An analysis of photo-ionized
+bubbles about pre-supernova stars yields a range of KS slopes but the KS relation is dominated by
+the supernova bubbles. Superbubble blowouts may lead to an alternative self-regulation by outflows
+and recycling. While the model is over-simplified, its simplicity and validity in the simulations
+may argue that it captures the origin of the KS relation. 

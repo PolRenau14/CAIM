@@ -1,0 +1,15 @@
+On the Sierpinski gasket $\mathcal{SG}$, we consider Sobolev spaces $L^2_\sigma(\mathcal{SG})$
+associated with the standard Laplacian $\Delta$ with order $\sigma\geq 0$. When $\sigma\in\mathbb{Z}^+$,
+$L^2_\sigma(\mathcal{SG})$ consists of functions equipped with $L^2$ norms of the function itself
+and its Laplacians up to $\sigma$ order; when $\sigma\notin \mathbb{Z}^+$, we fill up the gaps between
+integer orders by using complex interpolation. Let $L^2_{\sigma, D}(\mathcal{SG})=(I-\Delta_D)^{-\sigma}L^2(\mathcal{SG})$
+where $\Delta_D$ is the Dirichlet Laplacian associated with $\Delta$. Let $\{p_n\}_{n\geq 0}$
+be a collection of countably many points located along one of the symmetrical axes of $\mathcal{SG}$.
+We make a full characterization of the trace spaces of $L^2_\sigma(\mathcal{SG})$ and $L^2_{\sigma,D}(\mathcal{SG})$
+to $\{p_n\}_{n\geq 0}$. Using this, we get a full description of the relationship between $L^2_\sigma(\mathcal{SG})$
+and $L^2_{\sigma,D}(\mathcal{SG})$ for $\sigma\geq 0$. The result indicates that when $\sigma-\frac{\log
+3}{2\log5}\in \mathbb{Z}^+$, $L^2_{\sigma, D}(\mathcal{SG})$ is not closed in $L^2_{\sigma}(\mathcal{SG})$
+and has an infinite codimension. Otherwise, $L^2_{\sigma, D}(\mathcal{SG})$ is closed in $L^2_{\sigma}(\mathcal{SG})$
+with a finite codimension. Similar result holds for the Neumann case. Another consequence of the
+trace result is that the Sobolev spaces $L^2_\sigma(\mathcal{SG})$ are stable under complex interpolation
+for $\sigma\geq 0$ although they are defined by piecewise interpolation between integer orders.

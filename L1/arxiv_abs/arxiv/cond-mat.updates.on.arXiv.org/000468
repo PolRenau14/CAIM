@@ -1,0 +1,16 @@
+Animal swarms displaying a variety of typical flocking patterns would not exist without underlying
+safe, optimal and stable dynamics of the individuals. The emergence of these universal patterns
+can be efficiently reconstructed with agent-based models. If we want to reproduce these patterns
+with artificial systems, such as autonomous aerial robots, agent-based models can also be used
+in the control algorithm of the robots. However, finding the proper algorithms and thus understanding
+the essential characteristics of the emergent collective behaviour of robots requires the thorough
+and realistic modeling of the robot and the environment as well. In this paper, first, we present
+an abstract mathematical model of an autonomous flying robot. The model takes into account several
+realistic features, such as time delay and locality of the communication, inaccuracy of the on-board
+sensors and inertial effects. We present two decentralized control algorithms. One is based on
+a simple self-propelled flocking model of animal collective motion, the other is a collective target
+tracking algorithm. Both algorithms contain a viscous friction-like term, which aligns the velocities
+of neighbouring agents parallel to each other. We show that this term can be essential for reducing
+the inherent instabilities of such a noisy and delayed realistic system. We discuss simulation
+results about the stability of the control algorithms, and perform real experiments to show the
+applicability of the algorithms on a group of autonomous quadcopters. 

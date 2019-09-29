@@ -1,0 +1,17 @@
+Massive MIMO is widely considered as a key enabler of the next generation 5G networks. With a large
+number of antennas at the Base Station, both spectral and energy efficiencies can be enhanced. Unfortunately,
+the downlink channel estimation overhead scales linearly with the number of antennas. This burden
+is easily mitigated in TDD systems by the use of the channel reciprocity property. However, this
+is unfeasible for FDD systems and the method of two-stage beamforming was therefore developed to
+reduce the amount of channel state information (CSI) feedback. The performance of this scheme being
+highly dependent on the users grouping and groups scheduling mechanims, we introduce in this paper
+a new similarity measure coupled with a novel clustering procedure to achieve the appropriate users
+grouping. A study of the possible precoders design is presented which leads to an interesting conclusion
+that in realistic scenarios, inter-group interference is better to be dealt with solely on the MAC
+layer. We also proceed to formulate the optimal groups scheduling policy in JSDM and prove that it
+is NP-hard. This result is of paramount importance since it suggests that, unless P=NP, there are
+no polynomial time algorithms that solve the general scheduling problem to global optimality and
+the use of sub-optimal scheduling strategies is more realistic in practice. We therefore use graph
+theory to develop a sub-optimal groups scheduling scheme that runs in polynomial time and outperforms
+the scheduling schemes previously introduced in the literature for JSDM in both sum-rate and throughput
+fairness. 

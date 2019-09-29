@@ -1,0 +1,16 @@
+We explore the cosmological implications of the clustering wedges, xi_perp(s) and xi_para(s),
+of the CMASS Data Release 9 (DR9) sample of the Baryon Oscillation Spectroscopic Survey (BOSS).
+These clustering wedges are defined by averaging the full two-dimensional correlation function,
+xi(mu,s), over the ranges 0<mu<0.5 and 0.5<mu<1, respectively. These measurements
+allow us to constrain the parameter combinations D_A(z)/r_s(z_d)=9.03 +- 0.21 and cz/(r_s(z_d)H(z))
+= 12.14 +- 0.43 at the mean redsfhit of the sample, z=0.57. We combine the information from the clustering
+wedges with recent measurements of CMB, BAO and type Ia supernovae to obtain constraints on the cosmological
+parameters of the standard LCDM model and a number of potential extensions. The information encoded
+in the clustering wedges is most useful when the dark energy equation of state is allowed to deviate
+from its standard LCDM value. The combination of all datasets shows no evidence of a deviation from
+a constant dark energy equation of state, in which case we find w_DE = -1.013 +- 0.064, in complete
+agreement with a cosmological constant. We explore potential deviations from general relativity
+by constraining the growth rate f(z)=d ln D(a)/ d ln a, in which case the combination of the CMASS clustering
+wedges with CMB data implies f(z=0.57)=0.719 +- 0.094, in accordance with the predictions of GR.
+Our results clearly illustrate the additional constraining power of anisotropic clustering measurements
+with respect to that of angle-averaged quantities. 

@@ -1,0 +1,17 @@
+Understanding the effects of dust extinction is important to properly interpret observations.
+The optical total-to-selective extinction ratio, Rv = Av/E(B-V), is widely used to describe extinction
+variations in ultraviolet and optical bands. Since the Rv=3.1 extinction curve adequately represents
+the average extinction law of diffuse regions in the Milky Way, it is commonly used to correct observational
+measurements along sightlines toward diffuse regions in the interstellar medium. However, the
+Rv value may vary even along different diffuse interstellar medium sightlines. In this paper, we
+investigate the optical--mid-infrared (mid-IR) extinction law toward a very diffuse region at
+l = 165 in the Galactic plane, which was selected based on a CO emission map. Adopting red clump stars
+as extinction tracers, we determine the optical-to-mid-IR extinction law for our diffuse region
+in the two APASS bands (B, V), the three XSTPS-GAC bands (g, r, i), the three 2MASS bands (J, H, Ks, and
+the two WISE bands (W1, W2). Specifically, 18 red clump stars were selected from the APOGEE--RC catalog
+based on spectroscopic data in order to explore the diversity of the extinction law. We find that
+the optical extinction curves exhibit appreciable diversity. The corresponding Rv ranges from
+1.7 to 3.8, while the mean Rv value of 2.8 is consistent with the widely adopted average value of 3.1
+for Galactic diffuse clouds. There is no apparent correlation between Rv value and color excess
+E(B-V) in the range of interest, from 0.2 to 0.6 mag, or with specific visual extinction per kiloparsec,
+AV/d. 

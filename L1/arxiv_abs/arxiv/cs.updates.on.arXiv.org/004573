@@ -1,0 +1,17 @@
+The presence of (partially) automated vehicles on the roads presents an opportunity to compensate
+the unstable behaviour of conventional vehicles. Vehicles subject to perturbations should (i)
+recover their equilibrium speed, (ii) react not to propagate but absorb perturbations. In this
+work, we start with considering vehicle systems consisting of heterogeneous vehicles updating
+their dynamics according to realistic behavioural car-following models. Definitions of all types
+of stability that are of interest in the vehicle system, namely input-output stability, scalability,
+weak and strict string stability, are introduced based on recent studies. Then, frequency domain
+linear stability analyses are conducted after linearisation of the modelled system of vehicles,
+leading to conditions for input-output stability, strict and weak string stability over the behavioural
+parameters of the system, for finite and infinite systems of homogeneous and heterogeneous vehicles.
+This provides a solid basis that was missing for car-following model-based control design in mixed
+traffic systems where only a proportion of vehicles can be controlled. After visualisation of the
+theoretical results in simulation, we formulate an optimisation strategy with LMI constraints
+to tune the behavioural parameters of the automated vehicles in order to maximise the L1 string stability
+of the mixed traffic flow while considering the comfort of automated driving. The optimisation
+strategy systematically leads to increased traffic flow stability. We show that very few automated
+vehicles are required to prevent the 

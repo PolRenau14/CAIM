@@ -1,0 +1,16 @@
+Distributed asynchronous offline training has received widespread attention in recent years
+because of its high performance on large-scale data and complex models. As data are distributed
+from cloud-centric to edge nodes, a big challenge for distributed machine learning systems is how
+to handle native and natural non-independent and identically distributed (non-IID) data for training.
+Previous asynchronous training methods do not have a satisfying performance on non-IID data because
+it would result in that the training process fluctuates greatly which leads to an abnormal convergence.
+We propose a gradient scheduling algorithm with partly averaged gradients and global momentum
+(GSGM) for non-IID data distributed asynchronous training. Our key idea is to apply global momentum
+and local average to the biased gradient after scheduling, in order to make the training process
+steady. Experimental results show that for non-IID data training under the same experimental conditions,
+GSGM on popular optimization algorithms can achieve a 20% increase in training stability with a
+slight improvement in accuracy on Fashion-Mnist and CIFAR-10 datasets. Meanwhile, when expanding
+distributed scale on CIFAR-100 dataset that results in sparse data distribution, GSGM can perform
+a 37% improvement on training stability. Moreover, only GSGM can converge well when the number of
+computing nodes grows to 30, compared to the state-of-the-art distributed asynchronous algorithms.
+At the same time, GSGM is robust to different degrees of non-IID data. 

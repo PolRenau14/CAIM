@@ -1,0 +1,16 @@
+The so-called "minimum uncertainty" or mu-wavelet approach has been shown to be very effective.
+Prior work has shown that using special algorithms based on a mu-wavelet decomposition of a seismic
+signal allows for arrival detection of various waves on a single-component seismogram with good
+precision. However, the question of interpretation of the type of wave arriving has not been addressed.
+The problem lies in the fact that the algorithm detects more than two arrivals even on seismograms
+with little noise, the peaks corresponding to P and S wave arrivals on the indicator function are
+not always the strongest, and the peak corresponding to the P wave arrival is not always the first
+peak detected. We propose to use a signal/noise relationship function in a running window as a weight
+coefficient of the indicator function obtained using the mu-wavelet transformation, which allows
+to isolate specifically those arrivals which correspond to significant changes in the signal amplitude.
+To interpret wave arrivals on linear registration systems (well observation systems for monitoring
+hydrolic fracturing, ultrasound investigations on models and samples of geological material),
+an algorithm was also developed to isolate arrivals that best correspond to arrivals on all registration
+points that have observation systems. As a result, we propose an algorithm that allows to automatically
+isolate arrivals of S and P waves on "frac" event recordings of a well observation system, and provides
+agreement with manual detection that doesn't exceed four discretes. 

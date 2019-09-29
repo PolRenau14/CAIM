@@ -1,0 +1,16 @@
+Causal inference in observational settings typically rests on a pair of identifying assumptions:
+(1) unconfoundedness and (2) covariate overlap, also known as positivity or common support. Investigators
+often argue that unconfoundedness is more plausible when many covariates are included in the analysis.
+Less discussed is the fact that covariate overlap is more difficult to satisfy in this setting. In
+this paper, we explore the implications of overlap in high-dimensional observational studies,
+arguing that this assumption is stronger than investigators likely realize. Our main innovation
+is to frame (strict) overlap in terms of bounds on a likelihood ratio, which allows us to leverage
+and expand on existing results from information theory. In particular, we show that strict overlap
+bounds discriminating information (e.g., Kullback-Leibler divergence) between the covariate
+distributions in the treated and control populations. We use these results to derive explicit bounds
+on the average imbalance in covariate means under strict overlap and a range of assumptions on the
+covariate distributions. Importantly, these bounds grow tighter as the dimension grows large,
+and converge to zero in some cases. We examine how restrictions on the treatment assignment and outcome
+processes can weaken the implications of certain overlap assumptions, but at the cost of stronger
+requirements for unconfoundedness. Taken together, our results suggest that adjusting for high-dimensional
+covariates does not necessarily make causal identification more plausible. 

@@ -1,0 +1,16 @@
+There is a resurgence of interest in the electronic structure of perylene for its applications in
+molecular devices such as organic photovoltaics and organic light emitting diodes. In this study,
+we have obtained the low-lying singlet states of perylene by exactly solving the Parisar-Parr-Pople
+model Hamiltonian of this system with 20 sites and 20 electrons, in the VB basis where dimensionality
+is $\sim$ 5.92 billion. The triplet states of perylene are obtained using a DMRG scheme with symmetry
+adaptation. The one and two photon states are very close in energy $\sim$ 3.2 eV while the lowest triplet
+state is slightly below 1.6 eV indicating that perylene is a good candidate for singlet fission.
+To explore the tunability of the electronic states, we have studied donor-acceptor substituted
+perylenes. The two donors and two acceptors are substituted symmetrically either at the four bay
+sites or four peri sites. In all the bay substitution and one peri substitution at moderate D/A strength,
+the optical gap is lowered to about 2.8 eV. These molecules can be used as blue emitters. We have also
+reported bond orders in all the cases and perylene as well as substituted perylenes can be viewed
+as two weakly coupled naphthalene in the singlet states but in triplets these bonds tend to be comparable
+to other bonds in strength. The charge densities in substituted perylenes are mostly localized
+around the substitution sites in the ground state. The positive spin densities in triplets are concentrated
+around the peri and bay sites with the remaining sites having small spin densities of either sign.

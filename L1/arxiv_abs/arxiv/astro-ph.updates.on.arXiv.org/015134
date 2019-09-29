@@ -1,0 +1,16 @@
+The unique and highly unusual drift feature reported for PSR J0815+0939, wherein one component's
+subpulses drift in the direction opposite of the general trend, is a veritable challenge to pulsar
+theory. In this paper, we observationally quantify the drift direction throughout its profile,
+and find that the second component is the only one that exhibits "bi-drifting", meaning that only
+second component moves in the direction opposite of the others. We here present a model that shows
+that the observed bi-drifting phenomenon follows from the insight that the discharging regions,
+i.e. sparks, do not rotate around the magnetic axis per se, but rather around the point of electric
+potential extremum at the polar cap: minimum in the pulsar case ($\mathbf{\Omega} \cdot \mathbf{B}
+< 0$) and maximum in the antipulsar case ($\mathbf{\Omega} \cdot \mathbf{B} > 0$). We show that a
+purely dipolar surface magnetic field cannot exhibit bi-drifting behaviour, though certain non-dipolar
+configurations can. We can distinguish two types of solutions, with relatively low ($\sim 10^{12}
+\,{\rm G}$) and high ($\sim 10^{14} \,{\rm G}$) surface magnetic fields. Depending on the strength
+of the surface magnetic field, the radius of the curvature of magnetic field lines ranges from $10^{5}
+\,{\rm cm}$ to $10^{7}\,{\rm cm}$. Pulsar \J~allows us to gain an understanding of the polar-cap
+conditions essential for plasma generation processes in the inner acceleration region, by linking
+the observed subpulse shift to the underlying spark motion. 

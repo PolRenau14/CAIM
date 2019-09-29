@@ -1,0 +1,16 @@
+Background: Requirement engineering is often considered a critical activity in system development
+projects. The increasing complexity of software, as well as number and heterogeneity of stakeholders,
+motivate the development of methods and tools for improving large-scale requirement engineering.
+Aims: The empirical study presented in this paper aims to identify and understand the characteristics
+and challenges of a platform, as desired by experts, to support requirement engineering for individual
+stakeholders, based on the current pain-points of their organizations when dealing with a large
+number requirements. Method: We conducted a multiple case study with three companies in different
+domains. We collected data through ten semi-structured interviews with experts from these companies.
+Results: The main pain-point for stakeholders is handling the vast amount of data from different
+sources. The foreseen platform should leverage such data to manage changes in requirements according
+to customers' and users' preferences. It should also offer stakeholders an estimation of how long
+a requirements engineering task will take to complete, along with an easier requirements dependency
+identification and requirements reuse strategy. Conclusions: The findings provide empirical
+evidence about how practitioners wish to improve their requirement engineering processes and
+tools. The insights are a starting point for in-depth investigations into the problems and solutions
+presented. Practitioners can use the results to improve existing or design new practices and tools.

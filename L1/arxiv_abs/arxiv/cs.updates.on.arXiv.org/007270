@@ -1,0 +1,16 @@
+Depth estimation is of critical interest for scene understanding and accurate 3D reconstruction.
+Most recent approaches in depth estimation with deep learning exploit geometrical structures
+of standard sharp images to predict corresponding depth maps. However, cameras can also produce
+images with defocus blur depending on the depth of the objects and camera settings. Hence, these
+features may represent an important hint for learning to predict depth. In this paper, we propose
+a full system for single-image depth prediction in the wild using depth-from-defocus and neural
+networks. We carry out thorough experiments to test deep convolutional networks on real and simulated
+defocused images using a realistic model of blur variation with respect to depth. We also investigate
+the influence of blur on depth prediction observing model uncertainty with a Bayesian neural network
+approach. From these studies, we show that out-of-focus blur greatly improves the depth-prediction
+network performances. Furthermore, we transfer the ability learned on a synthetic, indoor dataset
+to real, indoor and outdoor images. For this purpose, we present a new dataset containing real all-focus
+and defocused images from a Digital Single-Lens Reflex (DSLR) camera, paired with ground truth
+depth maps obtained with an active 3D sensor for indoor scenes. The proposed approach is successfully
+validated on both this new dataset and standard ones as NYUv2 or Depth-in-the-Wild. Code and new
+datasets are available at https://github.com/marcelampc/d3net_depth_estimation 

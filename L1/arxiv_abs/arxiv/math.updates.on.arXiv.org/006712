@@ -1,0 +1,16 @@
+We study the long time asymptotic behaviour of the solution $q(x,t) $, to the modified Korteweg de
+Vries equation (MKDV) $q_t+6q^2q_x+q_{xxx}=0$ with step-like initial datum q(x,t=0)->c_- for
+x->-infinity and q(x,t=0)->c_+ for x-> +infinity. For the exact shock initial data q(x,t=0)=c_-
+for x<0 and q(x,t=0)=c_+ for x>0 the solution develops an oscillatory regions called dispersive
+shock wave that connects the two constant regions c_+ and c_-. We show that the dispersive shock wave
+is described by a modulated periodic travelling wave solution of the MKDV equation where the modulation
+parameters evolve according to the Whitham modulation equation. The oscillatory region is expanding
+within a cone in the $(x,t) plane defined as -6c_{-}^2+12c_{+}^2<x/t<4c_{-}^2+2c_{+}^2, with
+t\gg 1. For step like initial data we show that the solution decomposes for long times in three main
+regions: - a region where solitons and breathers travel with positive velocities on a constant background
+c_+; - an expanding oscillatory region (that can contain solitons and breathers); - a region of breathers
+travelling with negative velocities on the constant background c_-. When the oscillatory region
+does not contain solitons or breathers, it coincides up to a phase shift with the dispersive shock
+wave solution obtained for the exact step initial data. The phase shift depends on the solitons,
+breathers and the radiation of the initial data. This shows that the dispersive shock wave is a coherent
+structure that interacts in an elastic way with solitons, breathers and radiation. 

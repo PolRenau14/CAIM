@@ -1,0 +1,17 @@
+We study the force generation by a set of parallel actin filaments growing against an elastic membrane.
+The elastic membrane tries to stay flat and any deformation from this flat state, either caused by
+thermal fluctuations or due to protrusive polymerization force exerted by the filaments, costs
+energy. We study two lattice models to describe the membrane dynamics. In one case, the energy cost
+is assumed to be proportional to the absolute magnitude of the height gradient (gradient model)
+and in the other case it is proportional to the square of the height gradient (Gaussian model). For
+the gradient model we find that the membrane velocity is a non-monotonic function of the elastic
+constant $\mu$, and reaches a peak at $\mu=\mu^\ast$. For $\mu < \mu^\ast$ the system fails to reach
+a steady state and the membrane energy keeps increasing with time. For the Gaussian model, the system
+always reaches a steady state and the membrane velocity decreases monotonically with the elastic
+constant $\nu$ for all nonzero values of $\nu$. Multiple filaments give rise to protrusions at different
+regions of the membrane and the elasticity of the membrane induces an effective attraction between
+the two protrusions in the Gaussian model which causes the protrusions to merge and a single wide
+protrusion is present in the system. In both the models, the relative time-scale between the membrane
+and filament dynamics plays an important role in deciding whether the shape of elasticity-velocity
+curve is concave or convex. Our numerical simulations agree reasonably well with our analytical
+calculations. 

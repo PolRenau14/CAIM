@@ -1,0 +1,17 @@
+The emergence of second-generation high temperature superconducting tapes has favored the development
+of large-scale superconductor systems. The mathematical models capable of estimating electromagnetic
+quantities in superconductors have evolved from simple analytical models to complex numerical
+models. The available analytical models are limited to the analysis of single wires or infinite
+arrays that, in general, do not represent real devices in real applications. The numerical models
+based on finite element method using the H formulation of the Maxwells equations are useful for the
+analysis of medium-size systems, but their application in large-scale systems is problematic
+due to the excessive computational cost in terms of memory and computation time. Then it is necessary
+to devise new strategies to make the computation more efficient. The homogenization and the multi-scale
+methods have successfully simplified the description of the systems allowing the study of large-scale
+systems. Also, efficient calculations have been achieved using the T-A formulation. In the present
+work, we propose a series of adaptations to the multi-scale and homogenization methods so that they
+can be efficiently used in conjunction with the T-A formulation to compute the distribution of current
+density and hysteresis losses in the superconducting layer of superconducting tapes. The computation
+time and the amount of memory are substantially reduced up to a point that it is possible to achieve
+real-time simulations of HTS large-scale systems under slow ramping cycles of practical importance
+on personal computers. 

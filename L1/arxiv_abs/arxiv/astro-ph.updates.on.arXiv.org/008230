@@ -1,0 +1,16 @@
+The potential habitability of an exoplanet is traditionally assessed by determining if its orbit
+falls within the circumstellar `habitable zone' of its star, defined as the distance at which water
+could be liquid on the surface of a planet (Kopparapu et al., 2013). Traditionally, these limits
+are determined by radiative-convective climate models, which are used to predict surface temperatures
+at user-specified levels of greenhouse gases. This approach ignores the vital question of the (bio)geochemical
+plausibility of the proposed chemical abundances. Carbon dioxide is the most important greenhouse
+gas in Earth's atmosphere in terms of regulating planetary temperature, with the long term concentration
+controlled by the balance between volcanic outgassing and the sequestration of CO2 via chemical
+weathering and sedimentation, as modulated by ocean chemistry, circulation and biological (microbial)
+productivity. We develop a model incorporating key aspects of Earth's short and long-term biogeochemical
+carbon cycle to explore the potential changes in the CO2 greenhouse due to variance in planet size
+and stellar insolation. We find that proposed changes in global topography, tectonics, and the
+hydrological cycle on larger planets results in proportionally greater surface temperatures
+for a given incident flux. For planets between 0.5 to 2 R_earth the effect of these changes results
+in average global surface temperature deviations of up to 20 K, which suggests that these relationships
+must be considered in future studies of planetary habitability. 

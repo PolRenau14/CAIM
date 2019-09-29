@@ -1,0 +1,16 @@
+Scintillation arcs have become a powerful tool for exploring scattering in the ionized interstellar
+medium. There is accumulating evidence that the scattering from many pulsars is extremely anisotropic
+resulting in highly elongated, linear brightness functions. We present a three-frequency (327~MHz,
+432~MHz, 1450~MHz) Arecibo study of scintillation arcs from one nearby, bright, high-velocity
+pulsar, PSR~B1133+16. We show that a one-dimensional (1D), linear brightness function is in good
+agreement with the data at all three observing frequencies. We use two methods to explore the broadening
+of the 1D brightness function $B(\theta)$ as a function of frequency: 1) crosscuts of the forward
+arc at constant delay and 2) a 1D modeling of $B(\theta)$ using a comparison between model and observed
+secondary spectrum as a goodness-of-fit metric. Both methods show that the half-power width of
+$B(\theta)$ deviates from the expected dependence $\propto \nu^{-a}$, where $\nu$ is the observing
+frequency . Our estimates of $a$ have moderately large uncertainties but imply $a \lesssim1.8$,
+and so are inconsistent with the expected $a = 2.0$ for plasma refraction or $a = 2.2$ for Kolmogorov
+turbulence. In addition the shape of $B(\theta)$ cuts off more steeply than predicted for Kolmogorov
+turbulence. Ultimately, we conclude that the underlying physics of the broadening mechanism remains
+unexplained. Our results place the scattering screen at a distance that is broadly consistent with
+an origin at the boundary of the Local Bubble. 

@@ -1,0 +1,15 @@
+We consider the well-known method of least squares on an equidistant grid with $N+1$ nodes on the
+interval $[-1,1]$ with the goal to approximate a function $f\in\mathcal{C}\left[-1,1\right]$
+by a polynomial of degree $n$. We investigate the following problem: For which ratio $N/n$ and which
+functions do we have uniform convergence of the least square operator ${LS}_n^N:\mathcal{C}\left[-1,1\right]\rightarrow\mathcal{P}_n$?
+We investigate this problem with a discrete weighting of the Jacobi-type. Thereby we describe the
+least square operator ${LS}_n^N$ by the expansion of a function by Hahn polynomials $Q_k\left(\cdot;\alpha,\beta,N\right)$.
+Without additional assumptions to functions $f\in\mathcal{C}\left[-1,1\right]$ it can not
+be guaranteed uniform convergence. But with $\alpha=\beta$ and additional assumptions to $f$
+and $\left(N_n\right)_{n\in\mathbb{N}}$ we obtain convergence and prove the following results:
+For an $\alpha\geq0$ let $f\in\left\{g\in\mathcal{C}^\infty\left[-1,1\right]:\ \lim\limits_{n\to\infty}{\sup\limits_{x\in[-1,1]}{\left\lvert
+g^{(n)}(x)\right\rvert}\frac{n^{\alpha+1/2}}{2^nn!}}=0\right\}$ and let $(N_n)_{n}$ be
+a sequence of natural numbers with $N_n\geq2n(n+1)$. Then the method of least squares ${LS}_n^{N_n}[f]$
+converges uniform on $[-1,1]$. Before we determine the maximum error ("worst case") with respect
+to the sup norm on the classes $\mathcal{K}_{n+1}:=\left\{f\in\mathcal{C}^{n+1}\left[-1,1\right]:\
+\sup\limits_{x\in[-1,1]}{\left\lvert f^{(n+1)}(x)\right\rvert\leq1}\right\}$. 

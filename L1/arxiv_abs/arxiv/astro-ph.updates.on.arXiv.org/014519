@@ -1,0 +1,16 @@
+The connections among galaxies, the dark matter halos where they form and the properties of the large-scale
+Cosmic Web still need to be completely disentangled. We use the cosmological hydrodynamical simulation
+TNG100 of the IllustrisTNG suite to quantify the effects played by the large-scale density field
+and the Cosmic Web morphology on the relation between halo mass and galaxy stellar mass. We select
+objects with total dynamical mass in the range $\geq 6.3\times 10^{10} h ^{-1}\, M_{\odot}$ up to
+a few $10^{14} h^{-1} \, M_{\odot}$ between redshift $z=4$ and redshift $z=0$. A Cosmic Web class
+(knot, filament, sheet, void) is assigned to each region of the volume using a density field deformation
+tensor-based method. We find that galaxy stellar mass strongly correlates with total dynamical
+mass and formation time, and more weakly with large-scale overdensity and Cosmic Web class. The
+latter two quantities correlate with each other, but are not entirely degenerate. Furthermore,
+we find that at fixed halo mass, galaxies with stellar mass lower than the median value are more likely
+to be found in voids and sheets, whereas galaxies with stellar mass higher than the median are more
+likely to be found in filaments and knots. The effect is stronger at redshift $z\leq 1$, but it decreases
+at higher redshift. We predict that this effect should already be measurable from available galaxy
+surveys. Finally, we find that the dependence on environment is stronger for satellites than for
+centrals, and discuss the physical implications of these results. 

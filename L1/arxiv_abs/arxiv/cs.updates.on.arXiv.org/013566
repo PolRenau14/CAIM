@@ -1,0 +1,16 @@
+Fiber reinforced materials (FRMs) can be modeled as bi-phasic materials, where different constitutive
+behaviors are associated with different phases. The numerical study of FRMs through a full geometrical
+resolution of the two phases is often computationally infeasible, and therefore most works on the
+subject resort to homogenization theory, and exploit strong regularity assumptions on the fibers
+distribution. Both approaches fall short in intermediate regimes where lack of regularity does
+not justify a homogenized approach, and when the fiber geometry or their numerosity render the fully
+resolved problem numerically intractable. In this paper, we propose a distributed Lagrange multiplier
+approach, where the effect of the fibers is superimposed on a background isotropic material through
+an independent description of the fibers. The two phases are coupled through a constraint condition,
+opening the way for intricate fiber-bulk couplings as well as allowing complex geometries with
+no alignment requirements between the discretisation of the background elastic matrix and the
+fibers. We analyze both a full order coupling, where the elastic matrix is coupled with fibers that
+have a finite thickness, as well as a reduced order model, where the position of their centerline
+uniquely determines the fibers. Well posedness, existence, and uniquess of solutions are shown
+both for the continuous models, and for the finite element discretizations. We validate our approach
+against the models derived by the rule of mixtures, and by the Halpin-Tsai formulation. 

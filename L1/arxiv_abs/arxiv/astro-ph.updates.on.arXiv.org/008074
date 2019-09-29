@@ -1,0 +1,17 @@
+The Galactic halo contains a complex ecosystem of multiphase intermediate-velocity and high-velocity
+gas clouds whose origin has defied clear explanation. They are generally believed to be involved
+in a Galaxy-wide recycling process, either through an accretion flow or a large-scale fountain
+flow, or both. Here we examine the evolution of these clouds in light of recent claims that they may
+trigger condensation of gas from the Galactic corona as they move through it. Specifically, we measure
+gas condensation along a cloud's wake, with and without the presence of an ambient magnetic field,
+using two- and three-dimensional, high-resolution Adaptive Mesh Refinement (AMR) simulations.
+We find that three-dimensional simulations are essential to capture the condensation even when
+no magnetic field is included. Magnetic fields significantly inhibit condensation in the wake
+of clouds at $t \gtrsim 25$ Myr, preventing the sharp upturn in cold gas mass seen in previous non-magnetic
+studies. The magnetic field suppresses the onset of the Kelvin-Helmholtz instability which is
+responsible for the ablation and consequent mixing of cloud and halo gas that drives the condensation.
+This effect is universal across different properties of the cloud (density, metallicity, and velocity)
+and of the magnetic field (strength and orientation), with exception of weak fields parallel to
+the cloud's motion. Our results show that an ambient magnetic field drastically lowers the efficiency
+of fountain-driven accretion and the efficiency of recycling and accretion from condensation
+around high-velocity clouds. 

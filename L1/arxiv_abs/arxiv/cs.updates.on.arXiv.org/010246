@@ -1,0 +1,17 @@
+In mainstream programming languages such as Java, a common way to enable concurrency is to manually
+introduce explicit concurrency constructs such as multi-threading. Given the intricacies in
+creating these constructs, it is very likely for a programmer to omit important dependencies (constraints)
+or to create wrong or misspelled specifications that may lead to problems such as race conditions
+and deadlocks. With these considerations in mind, access permission-based dependencies have
+been investigated as an alternative approach to formally verify the correctness of multi-threaded
+programs and to exploit the implicit concurrency present in sequential programs. Access permissions
+are abstract capabilities that model read and write effects of a reference on a referenced object
+in the presence or absence of aliases. However, significant annotation overhead can arise from
+manually adding permission-based specifications in a source program, diminishing the effectiveness
+of existing permission-based approaches. In this paper, we present a framework, Sip4J to automatically
+extract implicit dependencies from sequential Java programs in the form of access permissions,
+by performing inter-procedural static analysis of the source code. We have integrated an existing
+tool Pulse to automatically verify correctness of the inferred specifications and to reason about
+their concurrent behaviors. Our evaluation on some widely-used benchmarks gives strong evidence
+of the correctness of the inferred annotations and their effectiveness in enabling concurrency
+in sequential programs. 

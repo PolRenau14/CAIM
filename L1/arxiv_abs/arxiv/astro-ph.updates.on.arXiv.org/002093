@@ -1,0 +1,17 @@
+Using the \texttt{lalinference} Markov-chain Monte Carlo parameter estimation code, we examine
+two distinct nonprecessing black hole-neutron star (BH-NS) binaries with and without higher-order
+harmonics. Our simulations suggest that higher harmonics provide a minimal amount of additional
+information, principally about source geometry. Higher harmonics do provide disproportionately
+more information than expected from the signal power. Our results compare favorably to the "effective
+Fisher matrix" approach. Extrapolating using analytic scalings, we expect higher harmonics will
+provide little new information about nonprecessing BH-NS binaries at the signal amplitudes expected
+for the first few detections. Any study of subdominant degrees of freedom in gravitational wave
+astronomy can adopt the tools presented here ($V/V_{\rm prior}$ and $D_{KL}$) to assess whether
+new physics is accessible (e.g., modifications of gravity; spin-orbit misalignment) and if so
+precisely what information those new parameters provide. For astrophysicists, we provide a concrete
+illustration of how well parameters of a BH-NS binary can be measured, relevant to the astrophysical
+interpretation of coincident EM and GW events (e.g., short GRBs). For our fiducial initial-detector
+example, the individual masses can be determined to lie between $7.11-11.48 M_\odot$ and $1.77-1.276M_\odot$
+at greater than 99% confidence, accounting for unknown BH spin. Assuming comparable control over
+waveform systematics, future measurements of BH-NS binaries can constrain the BH and perhaps NS
+mass distributions. 

@@ -1,0 +1,17 @@
+The Galileon model is a tensor-scalar theory of gravity which explains the late acceleration of
+the Universe expansion with no instabilities and recovers General Relativity in the strong field
+limit. Most constraints obtained so far on Galileon model parameters from cosmological data were
+derived for the limited subset of tracker solutions and reported tensions between the model and
+data. This paper presents the first exploration of the general solution of the Galileon model, which
+is confronted against recent cosmological data for both background observables and linear perturbations,
+using Monte-Carlo Markov chains. As representative scenarios of the Galileon models, we study
+the full Galileon model with disformal coupling to matter and the uncoupled cubic Galileon model.
+We find that the general solution of the full Galileon model provides a good fit to CMB spectra, while
+the cubic Galileon model does not. When extending the comparison to BAO and SNIa data, even the general
+solution of the full Galileon model fails at providing a good fit to all datasets simultaneously.
+Tensions remain if the models are extended with an additional free parameter, such as the sum of active
+neutrino masses or the normalization of the CMB lensing spectrum. Finally, the multi-messenger
+observation of GW170817 is also discussed in the framework of the scenarios considered. The time
+delay between the gravitational signal and its electromagnetic counterpart was computed \textit{a
+posteriori} in every scenario of the full Galileon model cosmological fit chains and found to be
+ruled out by this observation. 

@@ -1,0 +1,16 @@
+We investigate the relation between the radio (F_r) and optical (F_o) flux densities of a variety
+of classes of radio transients and variables, with the aim of analysing whether this information
+can be used, in the future, to classify such events. Using flux density values between 1-10 GHz and
+the optical bands V and R, we build a sample with a total of 12,441 F_r and F_o measurements. The sample
+contains both Galactic objects, such as stellar sources and X-ray binaries, and extragalactic
+objects, such as gamma-ray bursts and quasars. By directly comparing the two parameters, it is already
+possible to distinguish between the Galactic and extragalactic populations. Although individual
+classes are harder to separate from the F_r-F_o parameter space to a high accuracy, and can only provide
+approximations, the basic approach provides an already useful foundation to develop a more accurate
+classification technique. In addition, we illustrate how example objects from different classes
+move in the parameter space as they evolve over time, offering a feature that could be used to reduce
+the confusion between classes. A small, blind test of the classification performance is also undertaken
+using a catalogue of FIRST transient and variable sources, to demonstrate the advantages and current
+limitations of the approach. With more multi-wavelength data becoming available in the future,
+we discuss other classification techniques which the F_r-F_o method could be combined with and
+potentially become an important part of an automatic radio transient classification system. 

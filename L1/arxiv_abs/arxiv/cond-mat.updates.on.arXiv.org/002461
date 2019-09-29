@@ -1,0 +1,17 @@
+Secondary electron emission (SEE) from inner linings of plasma chambers in electric thrusters
+for space propulsion can have a disruptive effect on device performance and efficiency. SEE is typically
+calculated using elastic and inelastic electron scattering theory by way of Monte Carlo simulations
+of independent electron trajectories. However, in practice the method can only be applied for ideally
+smooth surfaces and thin films, not representative of real material surfaces. Recently, micro-architected
+surfaces with nanometric features have been proposed to mitigate SEE and ion-induced erosion in
+plasma-exposed thruster linings. In this paper, we propose an approach for calculating secondary
+electron yields from surfaces with arbitrarily-complex geometries using an extension of the \emph{ray
+tracing} Monte Carlo (RTMC) technique. We study nanofoam structures with varying porosities as
+representative micro-architected surfaces, and use RTMC to generate primary electron trajectories
+and track secondary electrons until their escape from the outer surface. Actual surfaces are represented
+as a discrete finite element meshes obtained from X-ray tomography images of tungsten nanofoams.
+At the local level, primary rays impinging into surface elements produce daughter rays of secondary
+electrons whose number, energies and angular characteristics are set by pre-calculated tables
+of SEE yields and energies from ideally-flat surfaces. We find that these micro-architected geometries
+can reduce SEE by up to 50\% with respect to flat surfaces depending on porosity and primary electron
+energy. 

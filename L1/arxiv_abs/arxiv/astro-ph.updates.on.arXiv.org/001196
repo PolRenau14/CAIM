@@ -1,0 +1,16 @@
+We construct new equations of state for baryons at sub-nuclear densities for the use in core-collapse
+simulations of massive stars. The abundance of various nuclei is obtained together with thermodynamic
+quantities. A model free energy is constructed, based on the relativistic mean field theory for
+nucleons and the mass formula for nuclei with the proton number up to ~ 1000. The formulation is an
+extension of the previous model, in which we adopted the liquid drop model to all nuclei under the
+nuclear statistical equilibrium. We reformulate the new liquid drop model so that the temperature
+dependences of bulk energies could be taken into account. Furthermore, we extend the region in the
+nuclear chart, in which shell affects are included, by using theoretical mass data in addition to
+experimental ones. We also adopt a quantum theoretical mass evaluation of light nuclei, which incorporates
+the Pauli- and self-energy shifts that are not included in the ordinary liquid drop model. The pasta
+phases for heavy nuclei are taken into account in the same way as in the previous model. We find that
+the abundances of heavy nuclei are modified by the shell effects of nuclei and temperature dependence
+of bulk energies. These changes may have an important effect on the rates of electron captures and
+coherent neutrino scatterings on nuclei in supernova cores. The abundances of light nuclei are
+also modified by the new mass evaluation, which may affect the heating and cooling rates of supernova
+cores and shocked envelopes. 

@@ -1,0 +1,17 @@
+The goal of this study is to determine a set of diffractive parton distribution function (diffractive
+PDFs) from a QCD analysis of all available and up-to-date diffractive deep inelastic scattering
+(diffractive DIS) data sets from HERA $ep$ collider, including the most recent H1 and ZUES combined
+inclusive diffractive cross section measurements. This extraction of diffractive PDFs, referred
+to as {\tt HK19-DPDF}, is performed at next-to-leading (NLO) and next-to-next-to-leading (NNLO)
+in perturbative QCD. This new determination of diffractive PDFs is based on the fracture functions
+methodology, a QCD framework designed to provide a statistically sound representation of diffractive
+DIS processes. Heavy quark contributions to the diffractive DIS are considered within the framework
+of the FONLL general mass variable flavor number scheme (GM-VFNS) and the "Hessian approach" is
+used to determine the uncertainties of diffractive PDFs. We discuss the novel aspects of the approach
+used in the present analysis, namely an optimized and flexible parametrization of the diffractive
+PDFs as well as a strategy based on the fully factorization theorem for diffractive hard processes.
+We then present the diffractive PDFs, and discuss the fit quality and the stability upon variations
+of the kinematic cuts and the fitted data sets. We find that the systematic inclusion of higher-order
+QCD corrections could improves the description of the data. We compare the extracted sets of diffractive
+PDFs based on the fracture functions approach to other recent sets of diffractive PDFs, finding
+in general very good agreements. 

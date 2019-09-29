@@ -1,0 +1,17 @@
+Photoacoustic computed tomography (PACT), also known as optoacoustic tomography, is an emerging
+imaging technique that holds great promise for biomedical imaging. PACT is a hybrid imaging method
+that can exploit the strong endogenous contrast of optical methods along with the high spatial resolution
+of ultrasound methods. In its canonical form that is addressed in this article, PACT seeks to estimate
+the photoacoustically-induced initial pressure distribution within the object. Image reconstruction
+methods are employed to solve the acoustic inverse problem associated with the image formation
+process. When an idealized imaging scenario is considered, analytic solutions to the PACT inverse
+problem are available; however, in practice, numerous challenges exist that are more readily addressed
+within an optimization-based, or iterative, image reconstruction framework. In this article,
+the PACT image reconstruction problem is reviewed within the context of modern optimization-based
+image reconstruction methodologies. Imaging models that relate the measured photoacoustic wavefields
+to the sought-after object function are described in their continuous and discrete forms. The basic
+principles of optimization-based image reconstruction from discrete PACT measurement data are
+presented, which includes a review of methods for modeling the PACT measurement system response
+and other important physical factors. Non-conventional formulations of the PACT image reconstruction
+problem, in which acoustic parameters of the medium are concurrently estimated along with the PACT
+image, are also introduced and reviewed. 

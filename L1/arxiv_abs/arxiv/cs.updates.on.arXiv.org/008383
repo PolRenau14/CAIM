@@ -1,0 +1,17 @@
+Modern websites include various types of third-party content such as JavaScript, images, stylesheets,
+and Flash objects in order to create interactive user interfaces. In addition to explicit inclusion
+of third-party content by website publishers, ISPs and browser extensions are hijacking web browsing
+sessions with increasing frequency to inject third-party content (e.g., ads). However, third-party
+content can also introduce security risks to users of these websites, unbeknownst to both website
+operators and users. Because of the often highly dynamic nature of these inclusions as well as the
+use of advanced cloaking techniques in contemporary malware, it is exceedingly difficult to preemptively
+recognize and block inclusions of malicious third-party content before it has the chance to attack
+the user's system. In this paper, we propose a novel approach to achieving the goal of preemptive
+blocking of malicious third-party content inclusion through an analysis of inclusion sequences
+on the Web. We implemented our approach, called Excision, as a set of modifications to the Chromium
+browser that protects users from malicious inclusions while web pages load. Our analysis suggests
+that by adopting our in-browser approach, users can avoid a significant portion of malicious third-party
+content on the Web. Our evaluation shows that Excision effectively identifies malicious content
+while introducing a low false positive rate. Our experiments also demonstrate that our approach
+does not negatively impact a user's browsing experience when browsing popular websites drawn from
+the Alexa Top 500. 

@@ -1,0 +1,17 @@
+We explore the association of non-neutralized currents with solar flare occurrence in a sizable
+sample of observations, aiming to show the potential of such currents in solar flare prediction.
+We use the regularly produced high quality vector magnetograms by the Helioseismic Magnetic Imager
+and more specifically the Space weather HMI Active Region Patches (SHARP). Through a newly established
+method, that incorporates detailed error analysis, we calculate the non-neutralized currents
+contained in active regions (AR). Two predictors are produced, namely the total and the maximum
+unsigned non-neutralized current. Both are tested in AR time-series and a representative sample
+of point-in-time observations during the interval 2012-2016. The average values of non-neutralized
+currents in flaring active regions are by more than an order of magnitude higher than in non-flaring
+regions and correlate very well with the corresponding flare index. The temporal evolution of these
+parameters appears to be connected to physical processes, such as flux emergence and/or magnetic
+polarity inversion line formation that are associated with increased solar flare activity. Using
+Bayesian inference of flaring probabilities, it is shown that the total unsigned non-neutralized
+current outperforms significantly the total unsigned magnetic flux and other well established
+current-related predictors. Thus, it shows good prospects for inclusion in an operational flare
+forecasting service. We plan to use the new predictor in the framework of the FLARECAST project along
+with other highly performing predictors. 

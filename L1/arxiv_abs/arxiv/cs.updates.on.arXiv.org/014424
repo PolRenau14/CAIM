@@ -1,0 +1,16 @@
+In the first and so far only mathematical runtime analysis of an estimation-of-distribution algorithm
+(EDA) on a multimodal problem, Hasen\"ohrl and Sutton (GECCO 2018) showed for any $k = o(n)$ that
+the compact genetic algorithm (cGA) with any hypothetical population size $\mu = \Omega(ne^{4k}
++ n^{3.5+\varepsilon})$ with high probability finds the optimum of the $n$-dimensional jump function
+with jump size $k$ in time $O(\mu n^{1.5} \log n)$. We significantly improve this result for small
+jump sizes $k \le \frac 1 {20} \ln n -1$. In this case, already for $\mu = \Omega(\sqrt n \log n) \cap
+\text{poly}(n)$ the runtime of the cGA with high probability is only $O(\mu \sqrt n)$. For the smallest
+admissible values of $\mu$, our result gives a runtime of $O(n \log n)$, whereas the previous one
+only shows $O(n^{5+\varepsilon})$. Since it is known that the cGA with high probability needs at
+least $\Omega(\mu \sqrt n)$ iterations to optimize the unimodal OneMx function, our result shows
+that the cGA in contrast to most classic evolutionary algorithms here is able to cross moderate-sized
+valleys of low fitness at no extra cost. For large $k$, we show that the exponential (in $k$) runtime
+guarantee of Hasen\"ohrl and Sutton is tight and cannot be improved, also not by using a smaller hypothetical
+population size. We prove that any choice of the hypothetical population size leads to a runtime
+that, with high probability, is at least exponential in the jump size $k$. This result might be the
+first non-trivial exponential lower bound for EDAs that holds for arbitrary parameter settings.

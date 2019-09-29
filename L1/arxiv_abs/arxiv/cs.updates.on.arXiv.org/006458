@@ -1,0 +1,16 @@
+A central problem of random matrix theory is to understand the eigenvalues of spiked random matrix
+models, introduced by Johnstone, in which a prominent eigenvector (or "spike") is planted into
+a random matrix. These distributions form natural statistical models for principal component
+analysis (PCA) problems throughout the sciences. Baik, Ben Arous and Peche showed that the spiked
+Wishart ensemble exhibits a sharp phase transition asymptotically: when the spike strength is
+above a critical threshold, it is possible to detect the presence of a spike based on the top eigenvalue,
+and below the threshold the top eigenvalue provides no information. Such results form the basis
+of our understanding of when PCA can detect a low-rank signal in the presence of noise. However, under
+structural assumptions on the spike, not all information is necessarily contained in the spectrum.
+We study the statistical limits of tests for the presence of a spike, including non-spectral tests.
+Our results leverage Le Cam's notion of contiguity, and include: i) For the Gaussian Wigner ensemble,
+we show that PCA achieves the optimal detection threshold for certain natural priors for the spike.
+ii) For any non-Gaussian Wigner ensemble, PCA is sub-optimal for detection. However, an efficient
+variant of PCA achieves the optimal threshold (for natural priors) by pre-transforming the matrix
+entries. iii) For the Gaussian Wishart ensemble, the PCA threshold is optimal for positive spikes
+(for natural priors) but this is not always the case for negative spikes. 

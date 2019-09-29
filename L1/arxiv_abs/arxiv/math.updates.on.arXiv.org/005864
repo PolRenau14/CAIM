@@ -1,0 +1,17 @@
+Recently developed general constraint polynomial approach is shown to replace a set of algebraic
+equations of the functional Bethe Ansatz method by a single polynomial constraint. As the proof
+of principle, the usefulness of the method is demonstrated for a number of quasi-exactly solvable
+(QES) potentials of the Schr\"odinger equation, such as two different sets of modified Manning
+potentials with three parameters, an electron in Coulomb and magnetic fields and relative motion
+of two electrons in an external oscillator potential, the hyperbolic Razavy potential, and a (perturbed)
+double sinh-Gordon system. The approach enables one to straightforwardly determine eigenvalues
+and wave functions. Odd parity solutions for the modified Manning potentials are also determined.
+For the QES examples considered here, constraint polynomials terminate a finite chain of orthogonal
+polynomials in an independent variable that need not to be necessarily energy. In the majority of
+cases the finite chain of orthogonal polynomials is characterized by a positive-definite moment
+functional ${\cal L}$, implying that a corresponding constraint polynomial has only real and simple
+zeros. Constraint polynomials are shown to be different from the weak orthogonal Bender-Dunne
+polynomials. At the same time the QES examples considered elucidate essential difference with
+various generalizations of the Rabi model. Whereas in the former case there are $n+1$ polynomial
+solutions at each point of a $n$th baseline, in the latter case there are at most $n+1$ polynomial
+solutions on entire $n$th baseline. 

@@ -1,0 +1,17 @@
+At its core a $t$-design is a method for sampling from a set of unitaries in a way which mimics sampling
+randomly from the Haar measure on the unitary group, with applications across quantum information
+processing and physics. We construct new families of quantum circuits on $n$-qubits giving rise
+to $\varepsilon$-approximate unitary $t$-designs efficiently in $O(n^3t^2)$ depth. These quantum
+circuits are based on a relaxation of technical requirements in previous constructions. In particular,
+the construction of circuits which give efficient approximate $t$-designs by Brandao, Harrow,
+and Horodecki (F.G.S.L Brandao, A.W Harrow, and M. Horodecki, Commun. Math. Phys. (2016).) required
+choosing gates from ensembles which contained inverses for all elements, and that the entries of
+the unitaries are algebraic. We reduce these requirements, to sets that contain elements without
+inverses in the set, and non-algebraic entries, which we dub partially invertible universal sets.
+We then adapt this circuit construction to the framework of measurement based quantum computation(MBQC)
+and give new explicit examples of $n$-qubit graph states with fixed assignments of measurements
+(graph gadgets) giving rise to unitary $t$-designs based on partially invertible universal sets,
+in a natural way. We further show that these graph gadgets demonstrate a quantum speedup, up to standard
+complexity theoretic conjectures. We provide numerical and analytical evidence that almost any
+assignment of fixed measurement angles on an $n$-qubit cluster state give efficient $t$-designs
+and demonstrate a quantum speedup. 

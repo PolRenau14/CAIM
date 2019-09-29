@@ -1,0 +1,16 @@
+Materials exhibiting a substitutional disorder such as multicomponent alloys and mixed metal
+oxides/oxyfluorides are of great importance in many scientific and technological sectors. Disordered
+materials constitute an overwhelmingly large configurational space, which makes it practically
+impossible to be explored manually using first-principles calculations such as density functional
+theory (DFT) due to the high computational costs. Consequently, the use of methods such as cluster
+expansion (CE) is vital in enhancing our understanding of the disordered materials. CE dramatically
+reduces the computational cost by mapping the first-principles calculation results on to a Hamiltonian
+which is much faster to evaluate. In this work, we present our implementation of the CE method, which
+is integrated as a part of the Atomic Simulation Environment (ASE) open-source package. The versatile
+and user-friendly code automates the complex set up and construction procedure of CE while giving
+the users the flexibility to tweak the settings and to import their own structures and previous calculation
+results. Recent advancements such as regularization techniques from machine learning are implemented
+in the developed code. The code allows the users to construct CE on any bulk lattice structure, which
+makes it useful for a wide range of applications involving complex materials. We demonstrate the
+capabilities of our implementation by analyzing the two example materials with varying complexities:
+a binary metal alloy and a disordered lithium chromium oxyfluoride. 

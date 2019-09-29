@@ -1,0 +1,16 @@
+The 2-receiver broadcast channel is studied: a network with three parties where the transmitter
+and one of the receivers are the primarily involved parties and the other receiver considered as
+third party. The messages that are determined to be communicated are classified into public, private
+and confidential based on the information they convey. The public message contains information
+intended for both parties and is required to be decoded correctly by both of them, the private message
+is intended for the primary party only, however, there is no secrecy requirement imposed upon it
+meaning that it can possibly be exposed to the third party and finally the confidential message containing
+information intended exclusively for the primary party such that this information must be kept
+completely secret from the other receiver. A trade-off arises between the rates of the three messages,
+when one of the rates is high, the other rates may need to be reduced to guarantee the reliable transmission
+of all three messages. The encoder performs the necessary equivocation by virtue of dummy random
+numbers whose rate is assumed to be limited and should be considered in the trade-off as well. We study
+this trade-off in the one-shot regime of a quantum broadcast channel by providing achievability
+and (weak) converse regions. In the achievability, we prove and use a conditional version of the
+convex-split lemma as well as position-based decoding. By studying the asymptotic behaviour of
+our bounds, we will recover several well-known asymptotic results in the literature. 

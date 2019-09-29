@@ -1,0 +1,16 @@
+Non-intrusive load monitoring (NILM) is a modern and still expanding technique, helping to understand
+fundamental energy consumption patterns and appliance characteristics. Appliance event detection
+is an elementary step in the NILM pipeline. Unfortunately, several types of appliances (e.g., switching
+mode power supply (SMPS) or multi-state) are known to challenge state-of-the-art event detection
+systems due to their noisy consumption profiles. Classical rule-based event detection system
+become infeasible and complex for these appliances. By stepping away from distinct event definitions,
+we can learn from a consumer-configured event model to differentiate between relevant and irrelevant
+event transients. We introduce a boosting oriented adaptive training, that uses false positives
+from the initial training area to reduce the number of false positives on the test area substantially.
+The results show a false positive decrease by more than a factor of eight on a dataset that has a strong
+focus on SMPS-driven appliances. To obtain a stable event detection system, we applied several
+experiments on different parameters to measure its performance. These experiments include the
+evaluation of six event features from the spectral and time domain, different types of feature space
+normalization to eliminate undesired feature weighting, the conventional and adaptive training,
+and two common classifiers with its optimal parameter settings. The evaluations are performed
+on two publicly available energy datasets with high sampling rates: BLUED and BLOND-50. 

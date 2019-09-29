@@ -1,0 +1,17 @@
+To examine the previously claimed fast cooling of the Central Compact Object (CCO) in the Cas A supernova
+remnant (SNR), we analyzed two Chandra observations of this CCO, taken in a setup minimizing instrumental
+spectral distortions. We fit the two CCO X-ray spectra from 2006 and 2012 with hydrogen and carbon
+neutron star atmosphere models. The temperature and flux changes in the 5.5 years between the two
+epochs depend on the adopted constraints on the fitting parameters and the uncertainties of the
+effective area calibrations. If we allow a change of the equivalent emitting region size, R_Em,
+the effective temperature remains essentially the same. If R_Em is held constant, the best-fit
+temperature change is negative, but its statistical significance ranges from 0.8sigma to 2.5sigma,
+depending on the model. If we assume that the optical depth of the ACIS filter contaminant in 2012
+was +/-10% different from its default calibration value, the significance of the temperature drop
+becomes 0.8sigma to 3.1sigma, for the carbon atmospheres with constant R_Em. Thus, we do not see
+a statistically significant temperature drop in our data, but the involved uncertainties are too
+large to firmly exclude the previously reported fast cooling. Our analysis indicate a decrease
+of 4%-6% (1.9-2.9sigma significance) for the absorbed flux in the energy range 0.6-6keV between
+2006 and 2012, most prominent in the 1.4-1.8 keV energy range. It could be caused by unaccounted changes
+of the detector response or contributions from unresolved SNR material along the line of sight to
+the CCO. 

@@ -1,0 +1,17 @@
+To obtain effective pedestrian detection results in surveillance video, there have been many methods
+proposed to handle the problems from severe occlusion, pose variation, clutter background, \emph{etc}.
+Besides detection accuracy, a robust surveillance video system should be stable to video quality
+degradation by network transmission, environment variation, etc. In this study, we conduct the
+research on the robustness of pedestrian detection algorithms to video quality degradation. The
+main contribution of this work includes the following three aspects. First, a large-scale Distorted
+Surveillance Video Data Set (DSurVD) is constructed from high-quality video sequences and their
+corresponding distorted versions. Second, we design a method to evaluate detection stability
+and a robustness measure called Robustness Quadrangle, which can be adopted to visualize detection
+accuracy of pedestrian detection algorithms on high-quality video sequences and stability with
+video quality degradation. Third, the robustness of seven existing pedestrian detection algorithms
+is evaluated by the built DSurVD. Experimental results show that the robustness can be further improved
+for existing pedestrian detection algorithms. Additionally, we provide much in-depth discussion
+on how different distortion types influence the performance of pedestrian detection algorithms,
+which is important to design effective pedestrian detection algorithms for surveillance. The
+DSurVD data set can be download from BaiduYunDisk, https://pan.baidu.com/s/1I9Kqj8rmubOYu7bkBfkUpA,
+Password: lqmc 

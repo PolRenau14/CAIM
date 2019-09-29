@@ -1,0 +1,17 @@
+Most aspects of stellar evolution proceed far too slowly to be directly observable in a single star
+on human timescales. The thermally pulsing asymptotic giant branch is one exception. The combination
+of state-of-the-art modelling techniques with data assimilated from observations collected
+by amateur astronomers over many decades provide, for the first time, the opportunity to identify
+a star occupying precisely this evolutionary stage. In this study, we show that the rapid pulsation
+period change and associated reduction in radius in the bright, northern variable star T Ursae Minoris
+are caused by the recent onset of a thermal pulse. We demonstrate that T UMi transitioned into a double-mode
+pulsation state, and we exploit its asteroseismic features to constrain its fundamental stellar
+parameters. We use evolutionary models from MESA and linear pulsation models from GYRE to track
+simultaneously the structural and oscillatory evolution of models with varying mass. We apply
+a sophisticated iterative sampling scheme to achieve time resolution $\le10$ years at the onset
+of the relevant thermal pulses. We report initial mass of $2.0\pm0.15\, \mathrm{M}_\odot$ and
+an age of $1.17 \pm 0.21$ Gyr for T UMi. This is the most precise mass and age determination for a single
+asymptotic giant branch star ever obtained. The ultimate test of our models will be the continued
+observation of its evolution in real time: we predict that the pulsation periods in T UMi will continue
+shortening for a few decades before they rebound and begin to lengthen again, as the star expands
+in radius. 

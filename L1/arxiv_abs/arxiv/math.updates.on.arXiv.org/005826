@@ -1,0 +1,17 @@
+Cell discovery is the procedure in which an user equipment (UE) in a cellular network finds a suitable
+base station (BS) and its physical layer cell identity, in order to establish a link-layer connection.
+When beamforming with antenna arrays is done at both transmitter and receiver, cell discovery in
+mm wave systems also involves finding the correct angle of arrival (AoA) - angle of departure (AoD)
+alignment between the UE and the detected BS. In this paper, we consider various existing and new
+schemes for cell discovery, present analytical studies on their detection probability and compare
+them in a common framework. In the first part, we study the conventional beam sweep technique and
+its variations, and present their physical layer training phase in detail. While the traditional
+beam sweep can not directly find the identity of the detected BS, we provide modifications in its
+training phase to enable the cell identity detection. In the second part of the paper, exploiting
+the sparseness of the mm wave channels and using an equivalent compressive sensing measurement
+model, we develop new cell discovery schemes with lesser overheads. One such design involves mutually
+unbiased bases (MUB) from quantum information theory. For the MUB based training scheme, we characterize
+the mutual coherence parameter of the resulting sensing matrix and establish its connection to
+the detection probability. We also present detailed simulation studies using experimentally
+driven mm wave channel simulators and show that our MUB based scheme gives superior performance
+compared to all the other schemes. 

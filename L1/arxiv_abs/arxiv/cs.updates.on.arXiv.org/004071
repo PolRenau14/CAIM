@@ -1,0 +1,16 @@
+Chemotherapeutic response of cancer cells to a given compound is one of the most fundamental information
+one requires to design anti-cancer drugs. Recent advances in producing large drug screens against
+cancer cell lines provided an opportunity to apply machine learning methods for this purpose. In
+addition to cytotoxicity databases, considerable amount of drug-induced gene expression data
+has also become publicly available. Following this, several methods that exploit omics data were
+proposed to predict drug activity on cancer cells. However, due to the complexity of cancer drug
+mechanisms, none of the existing methods are perfect. One possible direction, therefore, is to
+combine the strengths of both the methods and the databases for improved performance. We demonstrate
+that integrating a large number of predictions by the proposed method improves the performance
+for this task. The predictors in the ensemble differ in several aspects such as the method itself,
+the number of tasks method considers (multi-task vs. single-task) and the subset of data considered
+(sub-sampling). We show that all these different aspects contribute to the success of the final
+ensemble. In addition, we attempt to use the drug screen data together with two novel signatures
+produced from the drug-induced gene expression profiles of cancer cell lines. Finally, we evaluate
+the method predictions by in vitro experiments in addition to the tests on data sets.The predictions
+of the methods, the signatures and the software are available from this http URL 

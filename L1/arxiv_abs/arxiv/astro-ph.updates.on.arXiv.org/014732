@@ -1,0 +1,16 @@
+In a universe with quintessence isocurvature, or perturbations in dark energy that are independent
+from the usual curvature perturbations, structure formation is changed qualitatively. The existence
+of two independent fields, curvature and isocurvature, causes the growth rate of matter perturbations
+to depend on their initial conditions. The quintessence perturbations cause their growth to depend
+on scale. We perform the first separate universe simulations for this cosmology. We demonstrate
+that the power spectrum response and the halo bias depend on scale and initial conditions and that
+the presence of the isocurvature mode changes the mapping from these quantities to the halo auto-
+and cross-power spectra, and the squeezed-limit bispectrum. We compare the bias to several models,
+finding reasonable agreement with both a power-spectrum-response model with one free parameter
+and a model that fits two independent bias parameters for curvature and isocurvature sourced fluctuations.
+We also verify that simulation responses to pure isocurvature and pure curvature modes can be linearly
+combined to reproduce responses with different ratios of isocurvature and curvature. This allows
+our results to be used to predict the halo power spectrum and stochasticity with arbitrary large-scale
+curvature and isocurvature power spectra. In an appendix, we study the generation of quintessence
+isocurvature during inflation and show that a modified kinetic term is typically required to produce
+observable isocurvature modes in a field with $w_Q\approx -1$. 

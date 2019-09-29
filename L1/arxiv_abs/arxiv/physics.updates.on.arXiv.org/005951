@@ -1,0 +1,17 @@
+Fueled by their excellent stiffness-to-weight ratio and the availability of mature manufacturing
+technologies, filament wound carbon fiber reinforced polymers represent ideal materials for
+thin-walled laminate structures. However, their strong anisotropy reduces structural resistance
+to wall instabilities under shear and buckling. Increasing laminate thickness degrades weight
+and structural efficiencies and the application of a dense internal core is often uneconomical
+and labor-intensive. In this contribution, we introduce a convex linear semidefinite programming
+formulation for truss topology optimization to design an efficient non-uniform lattice-like
+internal structure. The internal structure not only reduces the effect of wall instabilities,
+mirrored in the increase of the fundamental free-vibration eigenfrequency, but also keeps weight
+low, secures manufacturability using conventional three-dimensional printers, and withstands
+the loads induced during the production process. We showcase a fully-automatic procedure in detail
+for the design, prototype manufacturing, and verification of a simply-supported composite machine
+tool component, including validation with roving hammer tests. The results confirm that the 3D-printed
+optimized internal structure almost doubles the fundamental free-vibration eigenfrequency,
+allowing to increase working frequency of the machine tool, even though the ratio between elastic
+properties of the carbon composite and the ABS polymer used for 3D printing exceeds two orders of
+magnitude. 

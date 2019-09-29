@@ -1,0 +1,16 @@
+Chinta and Gunnells introduced a rather intricate multi-parameter Weyl group action on rational
+functions on a torus, which, when the parameters are specialized to certain Gauss sums, describes
+the functional equations of Weyl group multiple Dirichlet series associated to metaplectic (n-fold)
+covers of algebraic groups. In subsequent joint work with Puskas, they extended this action to a
+"metaplectic" representation of the equal parameter affine Hecke algebra, which allowed them
+to obtain explicit formulas for the p-parts of these Dirichlet series. They have also verified by
+a computer check the remarkable fact that their formulas continue to define a group action for general
+(unspecialized) parameters. In the first part of paper we give a conceptual explanation of this
+fact, by giving a uniform and elementary construction of the "metaplectic" representation for
+generic Hecke algebras as a suitable quotient of a parabolically induced affine Hecke algebra module,
+from which the associated Chinta-Gunnells Weyl group action follows through localization. In
+the second part of the paper we extend the metaplectic representation to the double affine Hecke
+algebra, which provides a generalization of Cherednik's basic representation. This allows us
+to introduce a new family of "metaplectic" polynomials, which generalize nonsymmetric Macdonald
+polynomials. In this paper, we provide the details of the construction of metaplectic polynomials
+in type A; the general case will be handled in the sequel to this paper. 

@@ -1,0 +1,17 @@
+In most lattice models, the closing of a band gap typically occurs at high-symmetry points in the
+Brillouin zone. Differently, in the Creutz model $-$ describing a system of spinless fermions hopping
+on a two-leg ladder pierced by a magnetic field $-$ the gap closing at the quantum phase transition
+between the two topologically nontrivial phases of the model can be moved by tuning the hopping amplitudes.
+We take advantage of this property to examine the nonequilibrium dynamics of the model after a sudden
+quench of the magnetic flux through the plaquettes of the ladder. For a quench to one of the equilibrium
+quantum critical points we find that the revival period of the Loschmidt echo $-$ measuring the overlap
+between initial and time-evolved states $-$ is controlled by the gap closing zero-energy modes.
+In particular, and contrary to expectations, the revival period of the Loschmidt echo for a finite
+ladder does not scale linearly with size but exhibits jumps determined by the presence or absence
+of zero-energy modes. We further investigate the conditions for the appearance of dynamical quantum
+phase transitions in the model and find that, for a quench {\em to} an equilibrium critical point,
+such transitions occur only for ladders of sizes which host zero-energy modes. Exploiting concepts
+from quantum thermodynamics, we show that the average work and the irreversible work per lattice
+site exhibit a weak dependence on the size of the system after a quench {\em across} an equilibrium
+critical point, suggesting that quenching into a different phase induces effective correlations
+among the particles. 

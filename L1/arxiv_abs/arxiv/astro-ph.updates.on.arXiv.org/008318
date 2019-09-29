@@ -1,0 +1,16 @@
+We present the asteroseismic study of the early red-giant star KIC 4448777, complementing and integrating
+a previous work (Di Mauro et al. 2016), aimed at characterizing the dynamics of its interior by analyzing
+the overall set of data collected by the {\it Kepler} satellite during the four years of its first
+nominal mission. We adopted the Bayesian inference code DIAMOND (Corsaro \& De Ridder 2014) for
+the peak bagging analysis and asteroseismic splitting inversion methods to derive the internal
+rotational profile of the star. The detection of new splittings of mixed modes, more concentrated
+in the very inner part of the helium core, allowed us to reconstruct the angular velocity profile
+deeper into the interior of the star and to disentangle the details better than in Paper I: the helium
+core rotates almost rigidly about 6 times faster than the convective envelope, while part of the
+hydrogen shell seems to rotate at a constant velocity about 1.15 times lower than the He core. In particular,
+we studied the internal shear layer between the fast-rotating radiative interior and the slow convective
+zone and we found that it lies partially inside the hydrogen shell above $r \simeq 0.05R$ and extends
+across the core-envelope boundary. Finally, we theoretically explored the possibility for the
+future to sound the convective envelope in the red-giant stars and we concluded that the inversion
+of a set of splittings with only low-harmonic degree $l\leq 3$, even supposing a very large number
+of modes, will not allow to resolve the rotational profile of this region in detail. 

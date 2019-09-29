@@ -1,0 +1,16 @@
+Instead of formulating the state space of a quantum field theory over one big Hilbert space, it has
+been proposed by Kijowski to describe quantum states as projective families of density matrices
+over a collection of smaller, simpler Hilbert spaces. Beside the physical motivations for this
+approach, it could help designing a quantum state space holding the states we need. In [Oko{\l}\'ow
+2013, arXiv:1304.6330 ] the description of a theory of Abelian connections within this framework
+was developed, an important insight being to use building blocks labeled by combinations of edges
+and surfaces. The present work generalizes this construction to an arbitrary gauge group G (in particular,
+G is neither assumed to be Abelian nor compact). This involves refining the definition of the label
+set, as well as deriving explicit formulas to relate the Hilbert spaces attached to different labels.
+If the gauge group happens to be compact, we also have at our disposal the well-established Ashtekar-Lewandowski
+Hilbert space, which is defined as an inductive limit using building blocks labeled by edges only.
+We then show that the quantum state space presented here can be thought as a natural extension of the
+space of density matrices over this Hilbert space. In addition, it is manifest from the classical
+counterparts of both formalisms that the projective approach allows for a more balanced treatment
+of the holonomy and flux variables, so it might pave the way for the development of more satisfactory
+coherent states. 

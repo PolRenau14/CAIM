@@ -1,0 +1,16 @@
+Space-based direct imaging missions (HabEx, LUVOIR) would observe reflected light from exoplanets
+in the habitable zones of Sun-like stars. The ultimate---but not sole---goal of these concept missions
+is to characterize such planets. Knowing an exoplanet's orbit would help two-fold: (i) its semi-major
+axis informs whether the planet might harbour surface liquid water, making it a priority target;
+and (ii) predicting the planet's future location would tell us where and when to look. The science
+yields of HabEx and LUVOIR depend on the number, cadence, and precision of observations required
+to establish a planet's orbit. We produce mock observations using realistic distributions for
+the six Keplerian orbital parameters, experimenting with both Beta and uniform eccentricity distributions,
+and accounting for imperfect astrometry ($\sigma$ = 3.5 mas) and obscuration due to the inner working
+angle of a high-contrast imaging system (IWA = 31 mas). Using Markov chain Monte Carlo methods, we
+fit the orbital parameters, and retrieve their average precisions and accuracies as functions
+of cadence, number of epochs, and distance to target. Given the time at which it was acquired, each
+image provides two data: the $x$ and $y$ position of the planet with respect to its star. Parameter
+retrieval based on one or two images is formally under-constrained; yet the semi-major axis posterior
+can be obtained semi-analytically. For a planet at 1 AU around a star at a distance of 10 pc, three epochs
+constrain the semi-major axis to within $\lesssim$5\%, if each image is taken at least 90 days apart.

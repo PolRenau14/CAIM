@@ -1,0 +1,16 @@
+Device-to-device (D2D) communications is a promising technique for improving the efficiency
+of 5G networks. Employing channel adaptive resource allocation can yield to a large enhancement
+in almost any performance metric of D2D communications (e.g. Energy Efficiency). In this paper,
+we show that minimizing the users transmission power while maintaining predefined throughput
+constraint can be performed by simply adapting existing LTE CSI feedback. Thus, we propose a centralized
+scheduling that requires the knowledge of D2D links' Channel State Information (CSI) at the base
+station level. However, this CSI reporting suffers from the limited number of resources available
+for feedback transmission. Alternately, we propose a distributed algorithm for resource allocation
+that benefits from the users' knowledge of their local CSI in order to minimize the users' transmission
+power while maintaining predefined throughput constraints. The key idea is that users compute
+their local performance metrics (e.g. energy efficiency) and then use a new signaling mechanism
+to share these values between each other. Under some condition, the performance of this distributed
+algorithm achieves that of the \textit{ideal} scheduling (i.e. with a global CSI knowledge of all
+the D2D links). We describe how these algorithms can be simply integrated to existing cellular networks.
+Furthermore, numerical results are presented to corroborate our claims and demonstrate the gain
+that the proposed scheduling algorithms bring to cellular networks. 

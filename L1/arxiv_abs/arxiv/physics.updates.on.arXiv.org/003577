@@ -1,0 +1,16 @@
+In real-world systems, phase transitions often materialize abruptly, making it difficult to design
+appropriate controls that help uncover underlying processes. Some agent-based computational
+models display transformations similar to phase transitions. For such cases, it is possible to
+elicit detailed underlying processes that can be subsequently tested for applicability in real-world
+systems. In a genetic algorithm, we investigate how a modest difference in the concentration of
+correct and incorrect knowledge leads to radically different outcomes obtained through learning
+efforts by a group of agents. We show that a difference in concentration of correct and incorrect
+knowledge triggers virtuous and vicious cycles that impact the emergent outcome. When virtuous
+cycles are in operation, delaying the onset of equilibrium attains superior outcomes. For the vicious
+cycles, reaching equilibrium quickly attains superior outcomes. Our approach helps uncover simple
+mechanisms by which Nature works, jettisoning the yoke of unrealistic assumptions endemic in mathematics-based
+approaches. Our explanatory model helps direct research to investigate concentrations of inputs
+that obtains outcomes on the favourable side of phase transitions. For example, by tracking change
+in concentration of relevant parameters, scientists may look for reasons why cells cease to reproduce
+fit cells in organs. This can help design rejuvenation of organs. Further, in the world of physics,
+our model may inform in situations where the dominant Ising model falls short. 

@@ -1,0 +1,16 @@
+The asymmetric responses of the system between the external force of right and left directions are
+called "nonreciprocal". There are many examples of nonreciprocal responses such as the rectification
+by p-n junction. However, the quantum mechanical wave does not distinguish between the right and
+left directions as long as the time-reversal symmetry is intact, and it is a highly nontrivial issue
+how the nonreciprocal nature originates in quantum systems. Here we demonstrate by the quantum
+ratchet model, i.e., a quantum particle in an asymmetric periodic potential, that the dissipation
+characterized by a dimensionless coupling constant $\alpha$ plays an essential role for nonlinear
+nonreciprocal response. The temperature ($T$) dependence of the second order nonlinear mobility
+$\mu_2$ is found to be $\mu_2 \sim T^{6/\alpha -4 }$ for $\alpha<1$, and $\mu_2 \sim T^{2(\alpha
+-1)}$ for $\alpha>1$, respectively, where $\alpha_c=1$ is the critical point of the localization-delocalization
+transition, i.e., Schmid transition. On the other hand, $\mu_2$ shows the behavior $\mu_2 \sim
+T^{-11/4}$ in the high temperature limit. Therefore, $\mu_2$ shows the nonmonotonous temperature
+dependence corresponding to the classical-quantum crossover. The generic scaling form of the
+velocity $v$ as a function of the external field $F$ and temperature $T$ is also discussed. These
+findings are relevant to the heavy atoms in metals, resistive superconductors with vortices and
+Josephson junction system, and will pave a way to control the nonreciprocal responses. 

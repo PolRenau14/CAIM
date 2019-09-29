@@ -1,0 +1,16 @@
+Um CRDT \'e um tipo de dados que pode ser replicado e modificado concorrentemente sem coordena\c{c}\~ao,
+garantindo-se a converg\^encia das r\'eplicas atrav\'es da resolu\c{c}\~ao autom\'atica de
+conflitos. Cada CRDT implementa uma pol\'itica espec\'ifica para resolver conflitos. Por exemplo,
+um conjunto CRDT add-wins d\'a prioridade ao "add" aquando da execu\c{c}\~ao concorrente de um
+"add" e "rem" do mesmo elemento. Em algumas aplica\c{c}\~oes pode ser necess\'ario usar diferentes
+pol\'iticas para diferentes execu\c{c}\~oes de uma opera\c{c}\~ao -- por exemplo, uma aplica\c{c}\~ao
+que utilize um conjunto CRDT add-wins pode querer que alguns "removes" ganhem sobre "adds" concorrentes.
+Neste artigo \'e apresentado e avaliado o desenho dum conjunto CRDT que implementa as sem\^anticas
+referidas. --- Conflict-Free Replicated Data Types (CRDTs) allow objects to be replicated and
+concurrently modified without coordination. CRDTs solve conflicts automatically and provide
+eventual consistency. Typically each CRDT uses a specific policy for solving conflicts. For example,
+in an add-wins set CRDT, when an element is concurrently add and removed in different replicas, priority
+is given to add, i.e., the element stays in the set. Unfortunately, this may be inadequate for some
+applications - it may be desired to overrule the default policy for some operation executions. For
+example, an application using an add-wins set may want some removes to win over concurrent adds.
+This paper present the design of a set CRDT that implements such semantics. 

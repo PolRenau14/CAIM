@@ -1,0 +1,16 @@
+We revisit the estimation of the combined mass of the Milky Way and Andromeda (M31), which dominate
+the mass of the Local Group. We make use of an ensemble of 30,190 halo pairs from the Small MultiDark
+simulation, assuming a $\Lambda$CDM (Cosmological Constant with Cold Dark Matter) cosmology,
+to investigate the relationship between the bound mass and parameters characterising the orbit
+of the binary and their local environment with the aid of machine learning methods (artificial neural
+networks, ANN). Results from the ANN are most successful when information about the velocity shear
+is provided, which demonstrates the flexibility of machine learning to model physical phenomena
+and readily incorporate new information as it becomes available. The resulting estimate for the
+Local Group mass, when shear information is included, is $4.9 \times 10^{12} M_\odot$, with an error
+of $\pm0.8 \times 10^{12} M_\odot$ from the 68% uncertainty in observables, and a 68% confidence
+interval of $^{+1.3}_{-1.4} \times 10^{12}M_\odot$ from the intrinsic scatter from the differences
+between the model and simulation masses. We also consider a recently reported large transverse
+velocity of M31 relative to the Milky Way, and produce an alternative mass estimate of $3.6\pm0.3\pm1.4
+\times 10^{12}M_\odot$. Although different methods predict similar values for the most likely
+mass of the LG, application of ANN compared to the Timing Argument reduces the scatter in the log mass
+by over half when tested on samples from the simulation. 

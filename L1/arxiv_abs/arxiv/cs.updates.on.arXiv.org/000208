@@ -1,0 +1,16 @@
+This paper reports on empirical work aimed at comparing evidential reasoning techniques. While
+there is prima facie evidence for some conclusions, this i6 work in progress; the present focus is
+methodology, with the goal that subsequent results be meaningful. The domain is a network of UNIX*
+cycle servers, and the task is to predict properties of the state of the network from partial descriptions
+of the state. Actual data from the network are taken and used for blindfold testing in a betting game
+that allows abstention. The focal technique has been Kyburg's method for reasoning with data of
+varying relevance to a particular query, though the aim is to be able eventually to compare various
+uncertainty calculi. The conclusions are not novel, but are instructive. 1. All of the calculi performed
+better than human subjects, so unbiased access to sample experience is apparently of value. 2. Performance
+depends on metric: (a) when trials are repeated, net = gains - losses favors methods that place many
+bets, if the probability of placing a correct bet is sufficiently high; that is, it favors point-valued
+formalisms; (b) yield = gains/(gains + lossee) favors methods that bet only when sure to bet correctly;
+that is, it favors interval-valued formalisms. 3. Among the calculi, there were no clear winners
+or losers. Methods are identified for eliminating the bias of the net as a performance criterion
+and for separating the calculi effectively: in both cases by posting odds for the betting game in
+the appropriate way. 

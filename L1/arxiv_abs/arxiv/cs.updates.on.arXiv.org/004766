@@ -1,0 +1,17 @@
+The number of smart devices wear and carry by users is growing rapidly which is driven by innovative
+new smart wearables and interesting service o erings. This has led to applications that utilize
+multiple devices around the body to provide immersive environments such as mixed reality. These
+applications rely on a number of di erent types of functions such as sensing, communication and various
+types of processing, that require considerable resources. Thus one of the major challenges in supporting
+of these applications is dependent on the battery lifetime of the devices that provide the necessary
+functionality. The battery lifetime can be extended by either incorporating a battery with larger
+capacity and/or by utilizing the available resources e ciently. However, the increases in battery
+capacity are not keeping up with the demand and larger batteries add to both the weight and size of
+the device. Thus, the focus of this paper is to improve the battery e ciency through intelligent resources
+utilization. We show that, when the same resource is available on multiple devices that form part
+of the wearable system, and or is in close proximity, it is possible consider them as a resource pool
+and further utilize them intelligently to improve the system lifetime. Speci cally, we formulate
+the function allocation algorithm as a Mixed Integer Linear Programming (MILP) optimization problem
+and propose an e cient heuristic solution. The experimental data driven simulation results show
+that approximately 40-50% system battery life improvement can be achieved with proper function
+allocation and orchestration. 

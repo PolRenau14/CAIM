@@ -1,0 +1,17 @@
+The residual amplitude modulation ($\mathrm{RAM}$) is the undesired, non-zero amplitude modulation
+that usually occurs when a phase modulation based-on the electro-optic effect is imprinted on a
+laser beam. In this work, we show that electro-optic modulators (EOMs) that are used to generate
+the sidebands on the laser beam also generate a $\mathrm{RAM}$ in the optical setup. This result
+contradicts standard textbooks, which assume the amplitude remains unchanged in the process and
+should be considered as a fundamental $ \mathrm{RAM}$ ($\mathrm{RAM_{F}}$) for these devices.
+We present a classical model for the propagation of an infrared laser with frequency $\omega_{0}$
+in a wedge-shaped crystal and an EOM with an RF modulating signal of frequency $\Omega$. Since ${\Omega}\ll
+\omega_{0}$, we solve the Maxwell's equations in a time-varying media via a WKB approximation and
+we write the electromagnetic fields in terms of quasi-plane waves. From the emerging fields of the
+setup, we compute the associated $\mathrm{RAM_{F}}$ and show that it depends on the phase-modulation
+depth $m$ and the quotient $\left(\frac{\Omega}{\omega_{0}}\right)$. We show that the genesis
+of the $\mathrm{RAM_{F}}$ is found in phenomena that occur at the level of the unit cell of the modulator
+crystal. The $\mathrm{RAM_{F}}$ values obtained for the EOMs used in gravitational wave detectors
+are presented. %They are one or two orders below the experimental $\mathrm{RAM}$ values reached
+in different EOMs applications. Both the detectability and the cancellation of $\mathrm{RAM_{F}}$
+are then analyzed. 

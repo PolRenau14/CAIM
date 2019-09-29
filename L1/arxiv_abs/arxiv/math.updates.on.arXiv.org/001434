@@ -1,0 +1,16 @@
+We propose a gradient-based method for quadratic programming problems with a single linear constraint
+and bounds on the variables. Inspired by the GPCG algorithm for bound-constrained convex quadratic
+programming [J.J. Mor\'e and G. Toraldo, SIAM J. Optim. 1, 1991], our approach alternates between
+two phases until convergence: an identification phase, which performs gradient projection iterations
+until either a candidate active set is identified or no reasonable progress is made, and an unconstrained
+minimization phase, which reduces the objective function in a suitable space defined by the identification
+phase, by applying either the conjugate gradient method or a recently proposed spectral gradient
+method. However, the algorithm differs from GPCG not only because it deals with a more general class
+of problems, but mainly for the way it stops the minimization phase. This is based on a comparison
+between a measure of optimality in the reduced space and a measure of bindingness of the variables
+that are on the bounds, defined by extending the concept of proportioning, which was proposed by
+some authors for box-constrained problems. If the objective function is bounded, the algorithm
+converges to a stationary point thanks to a suitable application of the gradient projection method
+in the identification phase. For strictly convex problems, the algorithm converges to the optimal
+solution in a finite number of steps even in case of degeneracy. Extensive numerical experiments
+show the effectiveness of the proposed approach. 

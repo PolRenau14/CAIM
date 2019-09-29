@@ -1,0 +1,16 @@
+Adaptive-Optics assisted SINFONI observations of the central regions of ten early-type galaxies
+are presented. Based primarily on the SINFONI kinematics, ten black hole masses occupying the high-mass
+regime of the M_BH-sigma relation are derived using three-integral Schwarzschild models. The
+effect of dark matter inclusion on the black hole mass is explored. The omission of a dark matter halo
+in the model results in a higher stellar mass-to-light ratio, especially when extensive kinematic
+data are used in the model. However, when the diameter of the sphere of influence -- computed using
+the black hole mass derived without a dark halo -- is at least 10 times the PSF FWHM during the observations,
+it is safe to exclude a dark matter component in the dynamical modeling, i.e. the change in black hole
+mass is negligible. When the spatial resolution is marginal, restricting the mass-to-light ratio
+to the right value returns the correct M_BH although dark halo is not present in the model. Compared
+to the M_BH-sigma and M_BH-L relations of McConnell et al. (2011), the ten black holes are all more
+massive than expected from the luminosities and seven black hole masses are higher than expected
+from the stellar velocity dispersions of the host bulges. Using new fitted relations which include
+the ten galaxies, we find that the space density of the most massive black holes (M_BH >~ 10^9 Msun)
+estimated from the M_BH-L relation is higher than the estimate based on the M_BH-sigma relation
+and the latter is higher than model predictions based on quasar counts, each by about an order of magnitude.

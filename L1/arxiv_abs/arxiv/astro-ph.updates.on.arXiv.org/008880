@@ -1,0 +1,16 @@
+First observed with the Kepler mission, KIC 8462852 undergoes unexplained dimming events, "dips,"
+on the timescale of days which were again observed from the ground from May to December 2017. Monitored
+with multi-band photometry by the Los Cumbres Observatory, all four dips of the "Elsie dip family"
+display clear wavelength dependence. We measure how the wavelength dependence changes over the
+whole dimming event, including the dimming between the dips and the brightening event (the `blip')
+which occurs after the dips. We find that a single wavelength dependence does not fit the entire light
+curve and the dimming occurring between the dips is non-gray and varies in time. Because of the non-gray
+dimming between the dips, we measure the wavelength dependence of the dips separately and without
+the extra depth from this dimming. Such measurements yield a different estimate of the wavelength
+dependence the wavelength dependence of the dips but remains consistent with the previous measurement
+except for Elsie (the first dip), which is surrounded by dimming with strong wavelength dependence.
+We find the range of the wavelength dependence variation of the entire 2017 light curve is consistent
+with optically-thin dust with an average radius of $r<1\,\mu$m and the dust causing just the dips
+being $r<0.5\,\mu$m. Since the dependence is time-dependent, the dust occulting the star must
+be heterogeneous in size, composition, or both and the distributions of these properties along
+the line of sight must change over time. 

@@ -1,0 +1,16 @@
+One of the major resource requirements of computers - ranging from biological cells to human brains
+to high-performance (engineered) computers - is the energy used to run them. Those costs of performing
+a computation have long been a focus of research in physics, going back to the early work of Landauer.
+One of the most prominent aspects of computers is that they are inherently nonequilibrium systems.
+However, the early research was done when nonequilibrium statistical physics was in its infancy,
+which meant the work was formulated in terms of equilibrium statistical physics. Since then there
+have been major breakthroughs in nonequilibrium statistical physics, which are allowing us to
+investigate the myriad aspects of the relationship between statistical physics and computation,
+extending well beyond the issue of how much work is required to erase a bit. In this paper I review some
+of this recent work on the `stochastic thermodynamics of computation'. After reviewing the salient
+parts of information theory, computer science theory, and stochastic thermodynamics, I summarize
+what has been learned about the entropic costs of performing a broad range of computations, extending
+from bit erasure to loop-free circuits to logically reversible circuits to information ratchets
+to Turing machines. These results reveal new, challenging engineering problems for how to design
+computers to have minimal thermodynamic costs. They also allow us to start to combine computer science
+theory and stochastic thermodynamics at a foundational level, thereby expanding both. 

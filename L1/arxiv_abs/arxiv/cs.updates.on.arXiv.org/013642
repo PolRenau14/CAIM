@@ -1,0 +1,16 @@
+The proof of a program property can be reduced to the proof of satisfiability of a set of constrained
+Horn clauses (CHCs) which can be automatically generated from the program and the property. In this
+paper we have conducted a case study in Horn clause verification by considering several sorting
+programs with the aim of exploring the effectiveness of a transformation technique which allows
+us to eliminate inductive data structures such as lists or trees. If this technique is successful,
+we derive a set of CHCs with constraints over the integers and booleans only, and the satisfiability
+check can often be performed in an effective way by using state-of-the-art CHC solvers, such as Eldarica
+or Z3. In this case study we have also illustrated the usefulness of a companion technique based on
+the introduction of the so-called difference predicates, whose definitions correspond to lemmata
+required during the verification. We have considered functional programs which implement the
+following kinds of sorting algorithms acting on lists of integers: (i) linearly recursive sorting
+algorithms, such as insertion sort and selection sort, and (ii) non-linearly recursive sorting
+algorithms, such as quicksort and mergesort, and we have considered the following properties:
+(i) the partial correctness properties, that is, the orderedness of the output lists, and the equality
+of the input and output lists when viewed as multisets, and (ii) some arithmetic properties, such
+as the equality of the sum of the elements before and after sorting. 

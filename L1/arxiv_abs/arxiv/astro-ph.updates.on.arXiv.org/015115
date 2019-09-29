@@ -1,0 +1,16 @@
+For an inclined accretion flow around a rotating black hole, the combined effect of the Lense-Thirring
+precession and viscous torque tends to align the inner part of the flow with the black hole spin, leading
+to the formation of a warped disc, known as the Bardeen-Petterson effect (Bardeen & Petterson 1975).
+In tidal disruption events (TDEs) in which a super-massive black hole starts to accrete the bound
+debris, if the black hole is spinning, in general the stellar orbit is inclined with the black hole
+spin. So is the accretion disc formed following circularization and radiative cooling of the debris.
+Xiang-Gruess et al. (2016) studied in detail the stellar debris evolution and disc formation in
+TDEs when the stellar orbit is inclined, and found that a warped disc would form under certain conditions.
+In this work we investigate properties of time-resolved fluorescent iron line originating from
+a warped disc that is irradiated by the initial X-ray flare. We find that the time-resolved spectrum
+shows distinct features before and after a critical time. This critical time depends on the Bardeen-Petterson
+radius $r_{\rm BP}$, i.e., the outer boundary of the inner aligned disc; while the line width during
+the later stage of the X-ray flare is sensitive to the inclination of the outer disc flow. This demonstrates
+that time-resolved X-ray spectroscopy can be a powerful tool to probe the Bardeen-Petterson effect
+in TDE flares and can be used to measure the Bardeen-Petterson radius as well as put constraint on
+the black hole mass and spin. 

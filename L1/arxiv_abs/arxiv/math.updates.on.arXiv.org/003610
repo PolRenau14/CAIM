@@ -1,0 +1,16 @@
+The main result of the present theoretical paper is an original decomposition formula for the proximal
+operator of the sum of two proper, lower semicontinuous and convex functions $f$ and $g$. For this
+purpose, we introduce a new operator, called $f$-proximal operator of $g$ and denoted by $\mathrm{prox}^f_g$,
+that generalizes the classical notion. Then we prove the decomposition formula $\mathrm{prox}_{f+g}
+= \mathrm{prox}_f \circ \mathrm{prox}^f_g$. After collecting several properties and characterizations
+of $\mathrm{prox}^f_g$, we prove that it coincides with the fixed points of a generalized version
+of the classical Douglas-Rachford operator. This relationship is used for the construction of
+a weakly convergent algorithm that computes numerically this new operator $\mathrm{prox}^f_g$,
+and thus, from the decomposition formula, allows to compute numerically $\mathrm{prox}_{f+g}$.
+It turns out that this algorithm was already considered and implemented in previous works, showing
+that $\mathrm{prox}^f_g$ is already present (in a hidden form) and useful for numerical purposes
+in the existing literature. However, to the best of our knowledge, it has never been explicitly expressed
+in a closed formula and neither been deeply studied from a theoretical point of view. The present
+paper contributes to fill this gap in the literature. Finally we give an illustration of the usefulness
+of the decomposition formula in the context of sensitivity analysis of linear variational inequalities
+of second kind in a Hilbert space. 

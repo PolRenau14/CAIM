@@ -1,0 +1,16 @@
+The rapid progress and advancement in electronic chips technology provide a variety of new implementation
+options for system engineers. The choice varies between the flexible programs running on a general-purpose
+processor (GPP) and the fixed hardware implementation using an application specific integrated
+circuit (ASIC). Many other implementation options present, for instance, a system with a RISC processor
+and a DSP core. Other options include graphics processors and microcontrollers. Specialist processors
+certainly improve performance over general-purpose ones, but this comes as a quid pro quo for flexibility.
+Combining the flexibility of GPPs and the high performance of ASICs leads to the introduction of
+reconfigurable computing (RC) as a new implementation option with a balance between versatility
+and speed. The focus of this chapter is on introducing reconfigurable computers as modern super
+computing architectures. The chapter also investigates the main reasons behind the current advancement
+in the development of RC-systems. Furthermore, a technical survey of various RC-systems is included
+laying common grounds for comparisons. In addition, this chapter mainly presents case studies
+implemented under the MorphoSys RC-system. The selected case studies belong to different areas
+of application, such as, computer graphics and information coding. Parallel versions of the studied
+algorithms are developed to match the topologies supported by the MorphoSys. Performance evaluation
+and results analyses are included for implementations with different characteristics. 

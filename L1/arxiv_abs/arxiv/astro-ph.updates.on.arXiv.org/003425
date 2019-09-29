@@ -1,0 +1,16 @@
+We analyze the spectrum of cosmic microwave background (CMB) anisotropies in the timescape cosmology:
+a potentially viable alternative to homogeneous isotropic cosmologies without dark energy. We
+exploit the fact that the timescape cosmology is extremely close to the standard cosmology at early
+epochs to adapt existing numerical codes to produce CMB anisotropy spectra, and to match these as
+closely as possible to the timescape expansion history. A variety of matching methods are studied
+and compared. We perform Markov Chain Monte Carlo analyses on the parameter space, and fit CMB multipoles
+$50 \le \ell \le 2500$ to the Planck satellite data. Parameter fits include a dressed Hubble constant,
+$H_0 = 61.0$ km/s/Mpc ($\pm$ 1.3% stat) ($\pm$ 8% sys), and a present void volume fraction $f_{v0}
+= 0.627$ ($\pm$ 2.3% stat) ($\pm$ 13% sys). We find best fit likelihoods which are comparable to that
+of the best fit Lambda CDM cosmology in the same multipole range. In contrast to earlier results,
+the parameter constraints afforded by this analysis no longer admit the possibility of a solution
+to the primordial lithium abundance anomaly. This issue is related to a strong constraint between
+the ratio of baryonic to nonbaryonic dark matter and the ratio of heights of the second and third acoustic
+peaks, which cannot be changed as long as the standard cosmology is assumed up to the surface of last
+scattering. These conclusions may change if backreaction terms are also included in the radiation-dominated
+primordial plasma. 

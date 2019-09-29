@@ -1,0 +1,16 @@
+Recent developments in computer hardware and software enables researchers to simulate the self-gravitating
+evolution of galaxies at a resolution comparable to the actual number of stars. Here we present the
+results of a series of such simulations. We performed $N$-body simulations of disk galaxies at with
+100 and 500 million particles over a wide range of initial conditions. Our calculations include
+a live bulge, disk, and dark matter halo, each of which is represented by self-gravitating particles
+in the $N$-body code. The simulations are performed using the gravitational $N$-body tree-code
+Bonsai running on the Piz Daint supercomputer. We find that the time scale over which the bar forms
+increase exponentially with decreasing disk-mass fraction. The effective criterion for bar formation
+is obtained in our simulations for a disk-to-halo mass-fractions $\gtrsim$ 0.25. These results
+can be explained with the swing-amplification theory. The condition for the formation of $m=2$
+spirals is consistent with that for the formation of the bar, which also is an $m=2$ phenomenon. We
+further argue that the two-armed structures in grand-design spiral galaxies is a transitional
+phenomenon, and that these galaxies evolve to barred galaxies on a dynamical timescale. The resulting
+barred galaxies have rich morphology, which is also present in the Hubble sequence. We explain the
+sequence of spiral-galaxies in the Hubble diagram by the bulge-to-disk mass fraction, and the sequence
+of barred-spiral galaxies is a consequence of secular evolution. 

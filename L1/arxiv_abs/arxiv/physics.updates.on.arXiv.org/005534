@@ -1,0 +1,16 @@
+Machine learning algorithms can be fooled by small well-designed adversarial perturbations.
+This is reminiscent of cellular decision-making where ligands (called antagonists) prevent correct
+signalling, like in early immune recognition. We draw a formal analogy between neural networks
+used in machine learning and models of cellular decision-making (adaptive proofreading). We apply
+attacks from machine learning to simple decision-making models, and show explicitly the correspondence
+to antagonism by weakly bound ligands. Such antagonism is absent in more nonlinear models, which
+inspired us to implement a biomimetic defence in neural networks filtering out adversarial perturbations.
+We then apply a gradient-descent approach from machine learning to different cellular decision-making
+models, and we reveal the existence of two regimes characterized by the presence or absence of a critical
+point for the gradient. This critical point causes the strongest antagonists to lie close to the
+decision boundary. This is validated in the loss landscapes of robust neural networks and cellular
+decision-making models, and observed experimentally for immune cells. For both regimes, we explain
+how associated defence mechanisms shape the geometry of the loss landscape, and why different adversarial
+attacks are effective in different regimes. Our work connects evolved cellular decision-making
+to machine learning, and motivates the design of a general theory of adversarial perturbations,
+both for in vivo and in silico systems. 

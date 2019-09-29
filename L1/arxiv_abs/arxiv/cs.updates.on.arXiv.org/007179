@@ -1,0 +1,16 @@
+IoT devices and sensors have been utilized in a cooperative manner to enable the concept of a smart
+environment. In these smart settings, abundant data is generated as a result of the interactions
+between devices and users' day-to-day activities. Such data contain valuable forensic information
+about events and actions occurring inside the smart environment and, if analyzed, may help hold
+those violating security policies accountable. In this paper, we introduce IoTDots, a novel digital
+forensic framework for a smart environment such as smart homes and smart offices. IoTDots has two
+main components: IoTDots-Modifier and IoTDots-Analyzer. At compile time, IoTDots-Modifier
+performs the source code analysis of smart apps, detects forensically-relevant information,
+and automatically insert tracing logs. Then, at runtime, the logs are stored into a IoTDots database.
+Later, in the event of a forensic investigation, the IoTDots-Analyzer applies data processing
+and machine learning techniques to extract valuable and usable forensic information from the devices'
+activity. In order to test the performance of IoTDots, we tested IoTDots in a realistic smart office
+environment with a total of 22 devices and sensors. The evaluation results show that IoTDots can
+achieve, on average, over 98% of accuracy on detecting user activities and over 96% accuracy on detecting
+the behavior of users, devices, and apps in a smart environment. Finally, IoTDots performance yields
+no overhead to the smart devices and very minimal overhead to the cloud server. 

@@ -1,0 +1,17 @@
+We study the following generalization of singularity categories. Let X be a quasi-projective Gorenstein
+scheme with isolated singularities and A a non-commutative resolution of singularities of X in
+the sense of Van den Bergh. We introduce the relative singularity category as the Verdier quotient
+of the bounded derived category of coherent sheaves on A modulo the category of perfect complexes
+on X. We view it as a measure for the difference between X and A. The main results of this thesis are the
+following. (i) We prove an analogue of Orlov's localization result in our setup. If X has isolated
+singularities, then this reduces the study of the relative singularity categories to the affine
+case. (ii) We prove Hom-finiteness and idempotent completeness of the relative singularity categories
+in the complete local situation and determine its Grothendieck group. (iii) We give a complete and
+explicit description of the relative singularity categories when X has only nodal singularities
+and the resolution is given by a sheaf of Auslander algebras. (iv) We study relations between relative
+singularity categories and classical singularity categories. For a simple hypersurface singularity
+and its Auslander resolution, we show that these categories determine each other. (v) The developed
+technique leads to the following `purely commutative' application: a description of Iyama & Wemyss
+triangulated category for rational surface singularities in terms of the singularity category
+of the rational double point resolution. (vi) We give a description of singularity categories of
+gentle algebras. 

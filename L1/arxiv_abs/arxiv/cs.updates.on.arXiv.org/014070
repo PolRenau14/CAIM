@@ -1,0 +1,16 @@
+A networked system can be made resilient against adversaries and attacks if the underlying network
+graph is structurally robust. For instance, to achieve distributed consensus in the presence of
+adversaries, the underlying network graph needs to satisfy certain robustness conditions. A typical
+approach to making networks structurally robust is to strategically add extra links between nodes,
+which might be prohibitively expensive. In this paper, we propose an alternative way of improving
+network's robustness, that is by considering heterogeneity of nodes. Nodes in a network can be of
+different types and can have multiple variants. As a result, different nodes can have disjoint sets
+of vulnerabilities, which means that an attacker can only compromise a particular type of nodes
+by exploiting a particular vulnerability. We show that, by such a diversification of nodes, attacker's
+ability to change the underlying network structure is significantly reduced. Consequently, even
+a sparse network with heterogeneous nodes can exhibit the properties of a structurally robust network.
+Using these ideas, we propose a distributed control policy that utilizes heterogeneity in the network
+to achieve resilient consensus in adversarial environment. We extend the notion of $(r,s)$-robustness
+to incorporate the diversity of nodes and provide necessary and sufficient conditions to guarantee
+resilient distributed consensus in heterogeneous networks. Finally we study the properties and
+construction of robust graphs with heterogeneous nodes. 

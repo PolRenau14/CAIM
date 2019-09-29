@@ -1,0 +1,16 @@
+We consider models of growing multi-level systems wherein the growth process is driven by rules
+of tournament selection. A system can be conceived as an evolving tree with a new node being attached
+to a contestant node at the best hierarchy level (a level nearest to the tree root). The proposed evolution
+reflects limited information on system properties available to new nodes. It can also be expressed
+in terms of population dynamics. Two models are considered: a constant tournament (CT) model wherein
+the number of tournament participants is constant throughout system evolution, and a proportional
+tournament (PT) model where this number increases proportionally to the growing size of the system
+itself. The results of analytical calculations based on a rate equation fit well to numerical simulations
+for both models. In the CT model all hierarchy levels emerge but the birth time of a consecutive hierarchy
+level increases exponentially or faster for each new level. The number of nodes at the first hierarchy
+level grows logarithmically in time, while the size of the last, "worst" hierarchy level oscillates
+quasi log-periodically. In the PT model the occupations of the first two hierarchy levels increase
+linearly but worse hierarchy levels either do not emerge at all or appear only by chance in early stage
+of system evolution to further stop growing at all. The results allow to conclude that information
+available to each new node in tournament dynamics restrains the emergence of new hierarchy levels
+and that it is the absolute amount of information, not relative, which governs such behavior. 

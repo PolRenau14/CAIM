@@ -1,0 +1,17 @@
+We aim to select quasar candidates based on the two large survey databases, Pan-STARRS and AllWISE.
+Exploring the distribution of quasars and stars in the color spaces, we find that the combination
+of infrared and optical photometry is more conducive to select quasar candidates. Two new color
+criterions (yW1W2 and izW1W2) are constructed to distinguish quasars from stars efficiently.
+With izW1W2, 98.30% of star contamination is eliminated, while 99.50% of quasars are retained,
+at least to the magnitude limit of our training set of stars. Based on the optical and infrared color
+features, we put forward an efficient schema to select quasar candidates and high redshift quasar
+candidates, in which two machine learning algorithms (XGBoost and SVM) are implemented. The XGBoost
+and SVM classifiers have proven to be very effective with accuracy of 99.46% when 8Color as input
+pattern and default model parameters. Applying the two optimal classifiers to the unknown Pan-STARRS
+and AllWISE cross-matched data set, a total of 2,006,632 intersected sources are predicted to be
+quasar candidates given quasar probability larger than 0.5 (i.e. P_QSO>0.5). Among them, 1,201,211
+have high probability (P_QSO>0.95). For these newly predicted quasar candidates, a regressor
+is constructed to estimate their redshifts. Finally 7,402 z>3.5 quasars are obtained. Given the
+magnitude limitation and site of the LAMOST telescope, part of these candidates will be used as the
+input catalogue of the LAMOST telescope for follow-up observation, and the rest may be observed
+by other telescopes. 

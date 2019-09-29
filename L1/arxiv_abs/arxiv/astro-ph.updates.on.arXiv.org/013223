@@ -1,0 +1,16 @@
+We investigate the ability of current and third-generation gravitational wave (GW) detectors
+to determine the delay time distribution (DTD) of binary neutron stars (BNS) through a direct measurement
+of the BNS merger rate as a function of redshift. We assume that the DTD follows a power law distribution
+with a slope $\Gamma$ and a minimum merger time $t_{\rm min}$, and also allow the overall BNS formation
+efficiency per unit stellar mass to vary. By convolving the DTD and mass efficiency with the cosmic
+star formation history, and then with the GW detector capabilities, we explore two relevant regimes.
+First, for the current generation of GW detectors, which are only sensitive to the local universe,
+but can lead to precise redshift determinations via the identification of electromagnetic counterparts
+and host galaxies, we show that the DTD parameters are strongly degenerate with the unknown mass
+efficiency and therefore cannot be determined uniquely. Second, for third-generation detectors
+such as Einstein Telescope (ET) and Cosmic Explorer (CE), which will detect BNS mergers at cosmological
+distances, but with a redshift uncertainty inherent to GW-only detections ($\delta(z)/z\approx
+0.1z$), we show that the DTD and mass efficiency can be well-constrained to better than 10\% with
+a year of observations. This long-term approach to determining the DTD through a direct mapping
+of the BNS merger redshift distribution will be supplemented by more near term studies of the DTD
+through the properties of BNS merger host galaxies at $z\approx 0$ (Safarzadeh & Berger 2019). 

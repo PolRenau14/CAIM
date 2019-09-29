@@ -1,0 +1,16 @@
+In this paper we will study an important but rather technical result which is called The Reduction
+Property. The result tells us how much arithmetical conservation there is between two arithmetical
+theories. Both theories essentially speak about the fundamental principle of reflection: if a
+sentence is provable then it is true. The first theory is axiomatized using reflection axioms and
+the second theory uses reflection rules. The Reduction Property tells us that the first theory extends
+the second but in a conservative way for a large class of formulae. We extend the Reduction Property
+in various directions. Most notably, we shall see how various different kind of reflection axioms
+and rules can be related to each other. Further, we extend the Reduction Property to transfinite
+reflection principles. Since there is no satisfactory (hyper) arithmetical interpretation around
+yet, this generalization shall hence be performed in a purely algebraic setting. For the experts:
+a consequence of the classical Reduction Property characterizes the $\Pi^0_{n+1}$ consequences
+and tells us that for any theories $U$ and $T$ of the right complexity we have \[ U + {\sf Con}_{n+1}(T)
+\equiv_{\Pi^0_{n+1}} U \cup \{ {\sf Con}_n^k(T)\mid k<\omega\}. \] We will compute which theories
+can be put at the right-hand side if we are interested in $\Pi^0_j$ formulas with $j{\leq}n$. We answer
+the question also in a purely algebraic setting where $\Pi^0_j$-conservation will be suitably
+defined. The algebraic turn allows for generalizations to transfinite consistency notions. 

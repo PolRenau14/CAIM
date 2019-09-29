@@ -1,0 +1,16 @@
+Complex boundary lines can be characterized by fractal dimension, which provides important information
+for spatial analysis of complex geographical phenomena such as cities. However, it is difficult
+to calculate fractal dimension of boundaries systematically when image data is limited. An approximation
+estimation formulae of boundary dimension based on square is widely applied in urban and ecological
+studies. But sometimes, the boundary dimension is overestimated. This paper is devoted to developing
+a series of practicable formulae for boundary dimension estimation using ideas from fractals.
+A number of regular figures are employed as reference shapes, from which the corresponding geometric
+measure relations are constructed; from these measure relations, two sets of fractal dimension
+estimation formulae are derived for describing irregular boundaries. Correspondingly, a group
+of shape indexes can be defined. A finding is that different formulae have different merits and spheres
+of application, and the second set of boundary dimensions is a function of the new shape indexes.
+Under condition of data shortage, these formulae can be utilized to estimate boundary dimension
+values rapidly. Moreover, the relationships between boundary dimension and shape indexes are
+revealing to understand the association and differences between characteristic scales and scaling
+in spatial analysis. The formulae may be useful for the fractal studies in geography, geomorphology,
+ecology, landscape science, and especially, urban science. 

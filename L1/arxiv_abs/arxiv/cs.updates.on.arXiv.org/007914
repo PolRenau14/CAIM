@@ -1,0 +1,16 @@
+In this paper, we investigate the power allocation of primary base station (PBS) and cognitive base
+station (CBS) across different orthogonal frequency division multiplexing (OFDM) subcarriers
+for energy-efficient secure downlink communication in OFDM-based cognitive radio networks (CRNs)
+with the existence of an eavesdropper having multiple antennas. We propose a secrecy energy efficiency
+maximization (SEEM) scheme by exploiting the instantaneous channel state information (ICSI)
+of the eavesdropper, called ICSI based SEEM (ICSI-SEEM) scheme with a given total transmit power
+budget for different OFDM subcarriers of both PBS and CBS. As for the case when the eavesdropper's
+ICSI is unknown, we also propose an SEEM scheme through using the statistical CSI (SCSI) of the eavesdropper,
+namely SCSI based SEEM (SCSI-SEEM) scheme. Since the ICSI-SEEM and SCSI-SEEM problems are fractional
+and non-convex, we first transform them into equivalent subtractive problems, and then achieve
+approximate convex problems through employing the difference of two-convex functions approximation
+method. Finally, new two-tier power allocation algorithms are proposed to achieve $\varepsilon$-optimal
+solutions of our formulated ICSI-SEEM and SCSI-SEEM problems. Simulation results illustrate
+that the ICSI-SEEM has a better secrecy energy efficiency (SEE) performance than SCSI-SEEM, and
+moreover, the proposed ICSI-SEEM and SCSI-SEEM schemes outperform conventional SR maximization
+and EE maximization approaches in terms of their SEE performance. 

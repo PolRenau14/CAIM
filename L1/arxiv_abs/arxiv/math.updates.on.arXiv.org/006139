@@ -1,0 +1,16 @@
+To address the issues of stability and accuracy for reaction-diffusion equations, the development
+of high order and stable time-stepping methods is necessary. This is particularly true in the context
+of cardiac electrophysiology, where reaction-diffusion equations are coupled with stiff ODE
+systems. Many research have been led in that way in the past 15 years concerning implicit-explicit
+methods and exponential integrators. In 2009, Perego and Veneziani proposed an innovative time-stepping
+method of order 2. In this paper we present the extension of this method to the orders 3 and 4 and introduce
+the Rush-Larsen schemes of order k (shortly denoted RL\_k). The RL\_k schemes are explicit multistep
+exponential integrators. They display a simple general formulation and an easy implementation.
+The RL\_k schemes are shown to be stable under perturbation and convergent of order k. Their Dahlquist
+stability analysis is performed. They have a very large stability domain provided that the stabilizer
+associated with the method captures well enough the stiff modes of the problem. The RL\_k method
+is numerically studied as applied to the membrane equation in cardiac electrophysiology. The RL
+k schemes are shown to be stable under perturbation and convergent oforder k. Their Dahlquist stability
+analysis is performed. They have a very large stability domain provided that the stabilizer associated
+with the method captures well enough the stiff modes of the problem. The RL k method is numerically
+studied as applied to the membrane equation in cardiac electrophysiology. 

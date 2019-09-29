@@ -1,0 +1,16 @@
+We identify two major steps in data analysis, data exploration for understanding and observing
+patterns/relationships in data; and construction, design and assessment of various models to
+formalize these relationships. For each step, there exists a large set of tools and software. For
+the first step, many visualization tools exist, such as, GGobi, Parallax, and Crystal Vision, and
+most recently tableau and plottly. For the second step, many Scientific Computing Environments
+(SCEs) exist, such as, Matlab, Mathematica, R and Python. However, there does not exist a tool which
+allows for seamless two-way interaction between visualization tools and SCEs. We have designed
+and implemented a data visualization platform (DVP) with an architecture and design that attempts
+to bridge this gap. DVP connects seamlessly to SCEs to bring the computational capabilities to the
+visualization methods in a single coherent platform. DVP is designed with two interfaces, the desktop
+stand alone version and the online interface. DVP with its structure and planned features is a unique
+software that serves a great deal of parties, including university research, governmental decision
+support and country's economy modeling, traffic analysis and control, financial sector and companies,
+and any other party interested in data analysis and interpretation. A free demo for the online interface
+of DVP is available \citep{DVP}. Since DVP was launched, circa 2012, the present manuscript was
+not published since today for commercialization and patent considerations. 

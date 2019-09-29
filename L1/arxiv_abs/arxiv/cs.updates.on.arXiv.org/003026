@@ -1,0 +1,16 @@
+This paper presents an adaptive and intelligent sparse model for digital image sampling and recovery.
+In the proposed sampler, we adaptively determine the number of required samples for retrieving
+image based on space-frequency-gradient information content of image patches. By leveraging
+texture in space, sparsity locations in DCT domain, and directional decomposition of gradients,
+the sampler structure consists of a combination of uniform, random, and nonuniform sampling strategies.
+For reconstruction, we model the recovery problem as a two-state cellular automaton to iteratively
+restore image with scalable windows from generation to generation. We demonstrate the recovery
+algorithm quickly converges after a few generations for an image with arbitrary degree of texture.
+For a given number of measurements, extensive experiments on standard image-sets, infra-red,
+and mega-pixel range imaging devices show that the proposed measurement matrix considerably increases
+the overall recovery performance, or equivalently decreases the number of sampled pixels for a
+specific recovery quality compared to random sampling matrix and Gaussian linear combinations
+employed by the state-of-the-art compressive sensing methods. In practice, the proposed measurement-adaptive
+sampling/recovery framework includes various applications from intelligent compressive imaging-based
+acquisition devices to computer vision and graphics, and image processing technology. Simulation
+codes are available online for reproduction purposes. 

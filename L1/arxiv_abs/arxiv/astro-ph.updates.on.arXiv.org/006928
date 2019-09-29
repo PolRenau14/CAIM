@@ -1,0 +1,16 @@
+We use HST observations from the Legacy Extragalactic UV Survey to reconstruct the recent star formation
+histories (SFHs) of three actively star-forming dwarf galaxies, NGC4449, Holmberg II and NGC1705,
+from their UV color-magnitude diagrams (CMDs). We apply a CMD fitting technique using two independent
+sets of stellar isochrones, PARSEC-COLIBRI and MIST, to assess the uncertainties related to stellar
+evolution modelling. Irrespective of the adopted stellar models, all the three dwarfs are found
+to have had almost constant star formation rates (SFRs) in the last 100-200 Myr, with modest enhancements
+(a factor of $\sim$2) above the 100 Myr-averaged-SFR. Significant differences among the three
+dwarfs are found in the overall SFR, the timing of the most recent peak and the SFR$/$area. The Initial
+Mass Function (IMF) of NGC1705 and Holmberg II is consistent with a Salpeter slope down to $\approx$
+5 M$_{\odot}$, whereas it is slightly flatter, s$=-2.0$, in NGC4449. The SFHs derived with the two
+different sets of stellar models are consistent with each other, except for some quantitative details,
+attributable to their input assumptions. They also share the drawback that all synthetic diagrams
+predict a clear separation in color between upper main sequence and helium burning stars, which
+is not apparent in the data. Since differential reddening, significant in NGC4449, or unresolved
+binaries don't appear to be sufficient to fill the gap, we suggest this calls for a revision of both
+sets of stellar evolutionary tracks. 

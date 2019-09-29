@@ -1,0 +1,16 @@
+During the last decade, Cloud computing has efficiently exploited the economy of scale by providing
+low cost computational and storage resources over the Internet, eventually leading to consolidation
+of computing resources into large data centers. However, the nascent of the highly decentralized
+Internet of Things (IoT) technologies that cannot effectively utilize the centralized Cloud infrastructures
+pushes computing towards resource dispersion. Fog computing extends the Cloud paradigm by enabling
+dispersion of the computational and storage resources at the edge of the network in a close proximity
+to where the data is generated. In its essence, Fog computing facilitates the operation of the limited
+compute, storage and networking resources physically located close to the edge devices. However,
+the shared complexity of the Fog and the influence of the recent IoT trends moving towards deploying
+and interconnecting extremely large sets of pervasive devices and sensors, requires exploration
+of adaptive Fog architectural approaches capable of adapting and scaling in response to the unpredictable
+load patterns of the distributed IoT applications. In this paper we introduce a promising new nature-inspired
+Fog architecture, named SmartFog, capable of providing low decision making latency and adaptive
+resource management. By utilizing novel algorithms and techniques from the fields of multi-criteria
+decision making, graph theory and machine learning we model the Fog as a distributed intelligent
+processing system, therefore emulating the function of the human brain. 

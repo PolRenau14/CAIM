@@ -1,0 +1,17 @@
+While there is still no consensus on the superconducting mechanism in iron-based superconductors,
+we present an ab initio approach that allows us to calculate explicitly the superconducting transition
+temperatures (Tc) of LaFeAsO1-xFx and related compounds that perfectly match the experiments.
+Our theory states that when the electrons interact with phonons, the antiferromagnetism between
+the Fe atoms and the out-of-plane abnormal vibration in the FeAs layers amplify the electron-phonon
+coupling, so that certain percentage of high-energy core-electrons become involved in the pairing.
+This is considered to be a dynamic process in which core electrons scatter into the superconducting
+gap region and condense, while quasiparticles leaving the condensate fall down to fill in the voids.
+Furthermore, it is essential to consider ferrimagnetism between Fe and As atoms, which causes an
+unbalanced distribution of the spin density of states. Therefore, the spin-polarized electrons
+on the Fermi surface interact with the Fe atoms via dipole-dipole attraction. Another effect, the
+exchange Hamiltonian, mediates a stronger interaction between the electrons as an additional
+glue. With this approach, we can not only calculate a theoretical Tc of LaFeAsO0.9F0.1 as a function
+of pressure corresponding to the experimental values, but also determine its correct doping dependence
+in LaFeAsO1-xFx. For optimally doped SmFeAsO1-xFx, Cooper pairs are formed at 50.9 K, with a tetrahedral
+angle of 108.8 degrees. The optimized Tc = 50.6 K of NdFeAsO0.85F0.15 is observed when the Fe-As-Fe
+angle is set to ~110 degrees. 

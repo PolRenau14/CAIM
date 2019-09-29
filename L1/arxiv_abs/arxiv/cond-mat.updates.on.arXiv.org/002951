@@ -1,0 +1,17 @@
+We consider a new class of model systems to study systematically the role of molecular shape in the
+transport properties of dense liquids. Our model is a liquid binary mixture where both the molecules
+are non-spherical and characterized by a collection of parameters. Although in the real world most
+of the molecules are non-spherical, only a limited number of theoretical studies exist on the effects
+of molecular shapes and hardly any have addressed the validity of the hydrodynamic predictions
+of rotational and translational diffusion of these shapes in liquids. In this work, we study a model
+liquid consisting of a mixture of prolate and oblate (80:20 mixture) ellipsoidals with interactions
+governed by a modified Gay-Berne potential for a particular aspect ratio (ratio of the length and
+diameter of the ellipsoids), at various temperature and pressure conditions. We report calculations
+of transport properties of this binary mixture by varying temperature over a wide range, at a fixed
+pressure. We find that for the pressure-density conditions studied, there is no signature of any
+phase separation, except transitions to the crystalline phase at low temperatures and relatively
+low pressure (the reason we largely confined our studies to high pressure). We find that for our model
+binary mixture, both the stick and slip hydrodynamic predictions break down in a major fashion,
+for both prolates and oblates and particularly so for rotation. Moreover, prolates and oblates
+themselves display different dynamical features in the mean square displacement and in orientational
+time correlation functions. 

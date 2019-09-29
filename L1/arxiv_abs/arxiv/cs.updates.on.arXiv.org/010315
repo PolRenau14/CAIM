@@ -1,0 +1,16 @@
+BLASFEO is a dense linear algebra library providing high-performance implementations of BLAS-
+and LAPACK-like routines for use in embedded optimization, and is therefore targeting relatively
+small matrices. One of the key features of BLASFEO is the use of a packed matrix format as the native
+format in its API. For matrices fitting in cache, this matrix format is analogous to the packed sub-matrices
+in the memory buffers of optimized BLAS libraries, but with the key advantage of removing the packing
+cost from the routine call. Thanks to that, for small matrices BLASFEO outperforms optimized BLAS
+implementations, both open source and proprietary, on a wide range of computer architectures.
+This paper investigates the addition of a standard BLAS API to the BLASFEO framework, and proposes
+an implementation switching between two algorithms, which are optimized for different matrix
+sizes. By leveraging the modular nature of the assembly kernels framework in BLASFEO, tailored
+linear algebra kernels with mixed column- and panel-major arguments are easily developed. This
+BLAS API has generally lower performance than the BLASFEO API, but it nonetheless outperforms optimized
+BLAS and especially LAPACK libraries for matrices fitting in cache. Therefore, it can be used to
+boost a wide range of applications, where standard BLAS and LAPACK libraries are employed and the
+matrix size is moderate. In particular, this paper investigates the benefits in scientific programming
+languages such as Octave, Python SciPy and Julia. 

@@ -1,0 +1,17 @@
+Today, many public or private institutions provide professional food service for personnels working
+in their own organizations. Regarding the planning of the said service, there are some obstacles
+due to the fact that the number of the personnel working in the institutions is generally high and
+the personnel are out of the institution due to personal or institutional reasons. Because of this,
+it is difficult to determine the daily food demand, and this causes cost, time and labor loss for the
+institutions. Statistical or heuristic methods are used to remove or at least minimize these losses.
+In this study, an artificial intelligence model was proposed, which estimates the daily food demand
+quantity using artificial neural networks for businesses. The data are obtained from a refectory
+database of a private institution with a capacity of 110 people serving daily meals and serving at
+different levels, covering the last two years (2016-2018). The model was created using the MATLAB
+package program. The performance of the model was determinde by the Regression values, the Mean
+Absolute Percentage Error (MAPE) and the Mean Squared Error (MSE). In the training of the ANN model,
+feed forward back propagation network architecture is used. The best model obtained as a result
+of the experiments is a multi-layer (8-10-10-1) structure with a training R ratio of 0,9948, a testing
+R ratio of 0,9830 and an error rate of 0,003783, respectively. Experimental results demonstrated
+that the model has low error rate, high performance and positive effect of using artificial neural
+networks for demand estimating. 

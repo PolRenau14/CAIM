@@ -1,0 +1,16 @@
+The use of SN rates to probe explosion scenarios and to trace the cosmic star formation history received
+a boost from a number of synoptic surveys. There has been a recent claim of a mismatch by a factor of
+two between star formation and core collapse SN rates, and different explanations have been proposed
+for this discrepancy.} We attempted an independent test of the relation between star formation
+and supernova rates in the extreme environment of starburst galaxies, where both star formation
+and extinction are extremely high. To this aim we conducted an infrared supernova search in a sample
+of local starburts galaxies. The rational to search in the infrared is to reduce the bias due to extinction,
+which is one of the putative reasons for the observed discrepancy between star formation and supernova
+rates. To evaluate the outcome of the search we developed a MonteCarlo simulation tool that is used
+to predict the number and properties of the expected supernovae based on the search characteristics
+and the current understanding of starburst galaxies and supernovae. During the search we discovered
+6 supernovae (4 with spectroscopic classification) which is in excellent agreement with the prediction
+of the MonteCarlo simulation tool that is, on average, $5.3\pm2.3$ events. The number of supernovae
+detected in starburst galaxies is consistent with that predicted from their high star formation
+rate when we recognize that a major fraction ($\sim 60%$) of the events remains hidden in the unaccessible,
+high density nuclear regions because of a combination of reduced search efficiency and high extinction.

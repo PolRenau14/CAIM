@@ -1,0 +1,16 @@
+Forecasts of statistical constraints on model parameters using the Fisher matrix abound in many
+fields of astrophysics. The Fisher matrix formalism involves the assumption of Gaussianity in
+parameter space and hence fails to predict complex features of posterior probability distributions.
+Combining the standard Fisher matrix with Box-Cox transformations, we propose a novel method that
+accurately predicts arbitrary posterior shapes. The Box-Cox transformations are applied to parameter
+space to render it approximately multivariate Gaussian, performing the Fisher matrix calculation
+on the transformed parameters. We demonstrate that, after the Box-Cox parameters have been determined
+from an initial likelihood evaluation, the method correctly predicts changes in the posterior
+when varying various parameters of the experimental setup and the data analysis, with marginally
+higher computational cost than a standard Fisher matrix calculation. We apply the Box-Cox-Fisher
+formalism to forecast cosmological parameter constraints by future weak gravitational lensing
+surveys. The characteristic non-linear degeneracy between matter density parameter and normalisation
+of matter density fluctuations is reproduced for several cases, and the capabilities of breaking
+this degeneracy by weak lensing three-point statistics is investigated. Possible applications
+of Box-Cox transformations of posterior distributions are discussed, including the prospects
+for performing statistical data analysis steps in the transformed Gaussianised parameter space.

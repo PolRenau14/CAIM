@@ -1,0 +1,16 @@
+Convex optimization is a well-established research area with applications in almost all fields.
+Over the decades, multiple approaches have been proposed to solve convex programs. The development
+of interior-point methods allowed solving a more general set of convex programs known as semi-definite
+programs and second-order cone programs. However, it has been established that these methods are
+excessively slow for high dimensions, i.e., they suffer from the curse of dimensionality. On the
+other hand, optimization algorithms on manifold have shown great ability in finding solutions
+to nonconvex problems in reasonable time. This paper is interested in solving a subset of convex
+optimization using a different approach. The main idea behind Riemannian optimization is to view
+the constrained optimization problem as an unconstrained one over a restricted search space. The
+paper introduces three manifolds to solve convex programs under particular box constraints. The
+manifolds, called the doubly stochastic, symmetric and the definite multinomial manifolds, generalize
+the simplex also known as the multinomial manifold. The proposed manifolds and algorithms are well-adapted
+to solving convex programs in which the variable of interest is a multidimensional probability
+distribution function. Theoretical analysis and simulation results testify the efficiency of
+the proposed method over state of the art methods. In particular, they reveal that the proposed framework
+outperforms conventional generic and specialized solvers, especially in high dimensions. 

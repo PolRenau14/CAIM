@@ -1,0 +1,16 @@
+A locally repairable code with availability has the property that every code symbol can be recovered
+from multiple, disjoint subsets of other symbols of small size. In particular, a code symbol is said
+to have $(r,t)$-availability if it can be recovered from $t$ disjoint subsets, each of size at most
+$r$. A code with availability is said to be 'rate-optimal', if its rate is maximum among the class
+of codes with given locality, availability, and alphabet size. This paper focuses on rate-optimal
+binary, linear codes with small availability, and makes four contributions. First, it establishes
+tight upper bounds on the rate of binary linear codes with $(r,2)$ and $(2,3)$ availability. Second,
+it establishes a uniqueness result for binary rate-optimal codes, showing that for certain classes
+of binary linear codes with $(r,2)$ and $(2,3)$-availability, any rate optimal code must be a direct
+sum of shorter rate optimal codes. Third, it presents novel upper bounds on the rates of binary linear
+codes with $(2,t)$ and $(r,3)$-availability. In particular, the main contribution here is a new
+method for bounding the number of cosets of the dual of a code with availability, using its covering
+properties. Finally, it presents a class of locally repairable linear codes associated with convex
+polyhedra, focusing on the codes associated with the Platonic solids. It demonstrates that these
+codes are locally repairable with $t = 2$, and that the codes associated with (geometric) dual polyhedra
+are (coding theoretic) duals of each other. 

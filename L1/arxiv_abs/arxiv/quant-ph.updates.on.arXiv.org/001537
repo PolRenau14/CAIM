@@ -1,0 +1,16 @@
+In this article, we design a quantum device to duplicate the Robins procedure. It is known that the
+Robins use the unique method to determine the migratory direction. In the procedure utilized, the
+important issue is the effect of the geomagnetic field on the magnetic momentum of the created radical
+pairs (triplet-singlet states) which dance with a special frequency. To duplicate the same operational
+procedure, the quantum sensor consisting of two coincident tripartite systems is designed. Each
+system is excited separately with the entangled photons (signal and idler) produced through the
+nonlinearity. In a traditional tripartite system, the microwave cavity mode can be non-classically
+correlated with the optical cavity mode. In the designed system, on the other hand, there are two
+microwave cavities modes which are separately affected by the entangled photons, and these modes
+can be entangled. The entangled microwave photons play the same role that the triplet-singlet state
+of the electrons have in the Robins operating system. It is the key point that the quantum sensor is
+deigned to work with, in such a way that the entanglement between two microwave photons can be strongly
+affected by the applied external magnetic field. In fact, it is the criterion utilized by the quantum
+sensor to determine the magnetic field intensity and the direction. To analyze the system, the canonical
+conjugate method is employed to determine the quantum sensor Hamiltonian, and then the dynamics
+equations of motions are analytically derived using Heisenberg-Langevin equations. 

@@ -1,0 +1,16 @@
+Cascading failures in power systems exhibit non-local propagation patterns which make the analysis
+and mitigation of failures difficult. In this work, we propose a distributed control framework
+inspired by the recently proposed concepts of unified controller and network tree-partition that
+offers strong guarantees in both the mitigation and localization of cascading failures in power
+systems. In this framework, the transmission network is partitioned into several control areas
+which are connected in a tree structure, and the unified controller is adopted by generators or controllable
+loads for fast timescale disturbance response. After an initial failure, the proposed strategy
+always prevents successive failures from happening, and regulates the system to the desired steady
+state where the impact of initial failures are localized as much as possible. For extreme failures
+that cannot be localized, the proposed framework has a configurable design, that progressively
+involves and coordinates more control areas for failure mitigation and, as a last resort, imposes
+minimal load shedding. We compare the proposed control framework with Automatic Generation Control
+(AGC) on the IEEE 118-bus test system. Simulation results show that our novel framework greatly
+improves the system robustness in terms of the N-1 security standard, and localizes the impact of
+initial failures in majority of the load profiles that are examined. Moreover, the proposed framework
+incurs significantly less load loss, if any, compared to AGC, in all of our case studies. 

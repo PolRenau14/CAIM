@@ -1,0 +1,16 @@
+We introduce a novel method for defining geographic districts in road networks using stable matching.
+In this approach, each geographic district is defined in terms of a center, which identifies a location
+of interest, such as a post office or polling place, and all other network vertices must be labeled
+with the center to which they are associated. We focus on defining geographic districts that are
+equitable, in that every district has the same number of vertices and the assignment is stable in
+terms of geographic distance. That is, there is no unassigned vertex-center pair such that both
+would prefer each other over their current assignments. We solve this problem using a version of
+the classic stable matching problem, called symmetric stable matching, in which the preferences
+of the elements in both sets obey a certain symmetry. In our case, we study a graph-based version of
+stable matching in which nodes are stably matched to a subset of nodes denoted as centers, prioritized
+by their shortest-path distances, so that each center is apportioned a certain number of nodes.
+We show that, for a planar graph or road network with $n$ nodes and $k$ centers, the problem can be solved
+in $O(n\sqrt{n}\log n)$ time, which improves upon the $O(nk)$ runtime of using the classic Gale-Shapley
+stable matching algorithm when $k$ is large. Finally, we provide experimental results on road networks
+for these algorithms and a heuristic algorithm that performs better than the Gale-Shapley algorithm
+for any range of values of $k$. 

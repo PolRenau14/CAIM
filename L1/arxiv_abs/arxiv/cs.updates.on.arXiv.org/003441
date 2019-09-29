@@ -1,0 +1,17 @@
+Vaccine hesitancy has been recognized as a major global health threat. Having access to any type
+of information in social media has been suggested as a potential powerful influence factor to hesitancy.
+Recent studies in other fields than vaccination show that access to a wide amount of content through
+the Internet without intermediaries resolved into major segregation of the users in polarized
+groups. Users select the information adhering to theirs system of beliefs and tend to ignore dissenting
+information. In this paper we assess whether there is polarization in Social Media use in the field
+of vaccination. We perform a thorough quantitative analysis on Facebook analyzing 2.6M users interacting
+with 298.018 posts over a time span of seven years and 5 months. We used community detection algorithms
+to automatically detect the emergent communities from the users activity and to quantify the cohesiveness
+over time of the communities. Our findings show that content consumption about vaccines is dominated
+by the echo-chamber effect and that polarization increased over years. Communities emerge from
+the users consumption habits, i.e. the majority of users only consumes information in favor or against
+vaccines, not both. The existence of echo-chambers may explain why social-media campaigns providing
+accurate information may have limited reach, may be effective only in sub-groups and might even
+foment further polarization of opinions. The introduction of dissenting information into a sub-group
+is disregarded and can have a backfire effect, further reinforcing the existing opinions within
+the sub-group. 

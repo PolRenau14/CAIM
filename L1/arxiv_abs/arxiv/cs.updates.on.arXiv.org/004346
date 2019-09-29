@@ -1,0 +1,16 @@
+Mortality in gynecologic cancers, including cervical, ovarian, vaginal and vulvar cancers, is
+more than 6% internationally [1]. In many countries external radiotherapy is supplemented by brachytherapy
+with high locally administered doses as standard. The superior ability of magnetic resonance imaging
+(MRI) to differentiate soft tissue has led to an increasing use of this imaging technique in the intraoperative
+planning and implementation of brachytherapy. A technical challenge associated with the use of
+MRI imaging for brachytherapy - in contrast to computed tomography (CT) imaging - is the dark-diffuse
+appearance and thus difficult identification of the catheter paths in the resulting images. This
+problem is addressed by the precise method described herein of tracing the catheters from the catheter
+tip. The average identification time for a single catheter path was three seconds on a standard PC.
+Segmentation time, accuracy and precision are promising indicators of the value of this method
+for the clinical application of image-guided gynecological brachytherapy. After surgery (OP),
+the healthy surrounding tissue of the tumor is usually irradiated. This reduces the risk of leaving
+behind residual cells that would likely cause a recurrence of the cancer or the formation of metastases
+- secondary tumors elsewhere in the body. In the case of a tumor on the cervix or prostate, the operation
+is minimally invasive, ie. the removal of the cancer and the irradiation are performed cost-effectively
+and risk-avoiding by keyhole surgery instead of open surgery. 

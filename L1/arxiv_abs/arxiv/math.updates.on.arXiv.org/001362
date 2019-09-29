@@ -1,0 +1,16 @@
+We consider nonparametric inference of finite dimensional, potentially non-pathwise differentiable
+target parameters. In a nonparametric model, some examples of such parameters that are always non
+pathwise differentiable target parameters include probability density functions at a point,
+or regression functions at a point. In causal inference, under appropriate causal assumptions,
+mean counterfactual outcomes can be pathwise differentiable or not, depending on the degree at
+which the positivity assumption holds. In this paper, given a potentially non-pathwise differentiable
+target parameter, we introduce a family of approximating parameters, that are pathwise differentiable.
+This family is indexed by a scalar. In kernel regression or density estimation for instance, a natural
+choice for such a family is obtained by kernel smoothing and is indexed by the smoothing level. For
+the counterfactual mean outcome, a possible approximating family is obtained through truncation
+of the propensity score, and the truncation level then plays the role of the index. We propose a method
+to data-adaptively select the index in the family, so as to optimize mean squared error. We prove
+an asymptotic normality result, which allows us to derive confidence intervals. Under some conditions,
+our estimator achieves an optimal mean squared error convergence rate. Confidence intervals are
+data-adaptive and have almost optimal width. A simulation study demonstrates the practical performance
+of our estimators for the inference of a causal dose-response curve at a given treatment dose. 

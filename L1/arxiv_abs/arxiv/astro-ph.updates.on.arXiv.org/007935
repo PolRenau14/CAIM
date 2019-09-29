@@ -1,0 +1,17 @@
+We present a new {\it Chandra} observation (performed in July 2016) of the neutron-star X-ray transient
+IGR J17480$-$2446, located in the globular cluster Terzan 5. We study the further cooling evolution
+of the neutron-star crust in this system that was heated during the 2010 outburst of the source. This
+new observation was performed two years after the last observation of IGR J17480$-$2446, hence,
+significantly extending the cooling baseline. We reanalyzed all available {\it Chandra} observations
+of the source (but excluding observations during which one of the three known transients in Terzan
+5 was in outburst) and fitted the obtained cooling curve with our cooling code {\tt NSCool}, which
+allows for much improved modelling than what was previously performed for the source. The data and
+our fit models show that the crust was still cooling $\sim$5.5 years after the end of the outburst.
+The neutron-star crust has likely not reached thermal equilibrium with the core yet, and further
+cooling is predicted (which can be confirmed with additional {\it Chandra} observations in $>$5
+years time). Intriguingly, the obtained thermal conductivity in the neutron-drip layer in the
+crust is relatively low compared to what has been inferred for other crust-cooling sources. The
+reason for this difference is unclear but it might be related to the fact that IGR J17480$-$2446 harbours
+a relatively slow rotating neutron star (with a spin of 11 Hz) that has a relatively large inferred
+surface magnetic field strength ($10^{9-10}$ Gauss) compared to what is known or typically assumed
+for other cooling sources. 

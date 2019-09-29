@@ -1,0 +1,17 @@
+Modeling of the spectral line energy distribution (SLED) of the CO molecule can reveal the physical
+conditions (temperature, density) of molecular gas in Galactic clouds and other galaxies. Recently,
+the Herschel Space Observatory and ALMA have offered, for the first time, a comprehensive view of
+the rotational J = 4-3 through J = 13-12 lines, which arise from a complex, diverse range of physical
+conditions that must be simplified to one, two, or three components when modeled. Here we investigate
+the recoverability of physical conditions from SLEDs produced by galaxy evolution simulations
+containing a large dynamical range in physical properties. These simulated SLEDs were generally
+fit well by one component of gas whose properties largely resemble or slightly underestimate the
+luminosity-weighted properties of the simulations when clumping due to non-thermal velocity
+dispersion is taken into account. If only modeling the first three rotational lines, the median
+values of the marginalized parameter distributions better represent the luminosity-weighted
+properties of the simulations, but the uncertainties in the fitted parameters are nearly an order
+of magnitude, compared to approximately 0.2 dex in the "best-case" scenario of a fully sampled SLED
+through J = 10-9. This study demonstrates that while common CO SLED modeling techniques cannot reveal
+the underlying complexities of the molecular gas, they can distinguish bulk luminosity-weighted
+properties that vary with star formation surface densities and galaxy evolution, if a sufficient
+number of lines are detected and modeled. 

@@ -1,0 +1,16 @@
+If $\,\mu \,$ is a finite positive Borel measure on the interval $\,[0,1)$, we let $\,\mathcal H_\mu
+\,$ be the Hankel matrix $\,(\mu_{n, k})_{n,k\ge 0}\,$ with entries $\,\mu_{n, k}=\mu_{n+k}$,
+where, for $\,n\,=\,0, 1, 2, \dots $, $\mu_n\,$ denotes the moment of order $\,n\,$ of $\,\mu $. This
+matrix induces formally the operator $\,\mathcal{H}_\mu (f)(z)= \sum_{n=0}^{\infty}\left(\sum_{k=0}^{\infty}
+\mu_{n,k}{a_k}\right)z^n\,$ on the space of all analytic functions $\,f(z)=\sum_{k=0}^\infty
+a_kz^k\,$, in the unit disc $\,\mathbb D $. When $\,\mu \,$ is the Lebesgue measure on $\,[0,1)\,$
+the operator $\,\mathcal H_\mu\,$ is the classical Hilbert operator $\,\mathcal H\,$ which is
+bounded on $\,H^p\,$ if $\,1<p<\infty $, but not on $\,H^1$. J. Cima has recently proved that $\,\mathcal
+H\,$ maps $\,H^1\,$ to the space $\,\mathscr C\,$ of Cauchy transforms of measures on the unit circle.
+\par The operator $\,\mathcal H_\mu \,$ is known to be well defined on $\,H^1\,$ if and only if $\,\mu
+\,$ is a Carleson measure. Furthermore, it is bounded from $\,H^1\,$ into itself if and only if $\,\mu\,$
+is a $1$-logarithmic $1$-Carleson measure.\par In this paper we extend Cima's result showing that
+$\,\mathcal H_\mu (H^1)\,$ is contained in the space $\,\mathscr C\,$ of Cauchy transforms of measures
+on the unit circle if $\,\mu \,$ is a Carleson measure, and in the space of Dirichlet type $\,\mathcal
+D^1_0\,$ if $\,\mu \,$ is a $1$-logarithmic $1$-Carleson measure. We study also the action of the
+operators $\,\mathcal H_\mu \,$ on Bergman spaces and on Dirichlet spaces. 

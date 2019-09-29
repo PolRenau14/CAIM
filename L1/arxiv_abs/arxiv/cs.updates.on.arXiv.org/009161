@@ -1,0 +1,17 @@
+The effectiveness of learning in massive open online courses (MOOCs) can be significantly enhanced
+by introducing personalized intervention schemes which rely on building predictive models of
+student learning behaviors such as some engagement or performance indicators. A major challenge
+that has to be addressed when building such models is to design handcrafted features that are effective
+for the prediction task at hand. In this paper, we make the first attempt to solve the feature learning
+problem by taking the unsupervised learning approach to learn a compact representation of the raw
+features with a large degree of redundancy. Specifically, in order to capture the underlying learning
+patterns in the content domain and the temporal nature of the clickstream data, we train a modified
+auto-encoder (AE) combined with the long short-term memory (LSTM) network to obtain a fixed-length
+embedding for each input sequence. When compared with the original features, the new features that
+correspond to the embedding obtained by the modified LSTM-AE are not only more parsimonious but
+also more discriminative for our prediction task. Using simple supervised learning models, the
+learned features can improve the prediction accuracy by up to 17% compared with the supervised neural
+networks and reduce overfitting to the dominant low-performing group of students, specifically
+in the task of predicting students' performance. Our approach is generic in the sense that it is not
+restricted to a specific supervised learning model nor a specific prediction task for MOOC learning
+analytics. 

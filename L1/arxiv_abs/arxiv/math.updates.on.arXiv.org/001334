@@ -1,0 +1,16 @@
+Mathematically, it takes an infinite amount of time for the transient solution of a diffusion equation
+to transition from initial to steady state. Calculating a \textit{finite} transition time, defined
+as the time required for the transient solution to transition to within a small prescribed tolerance
+of the steady state solution, is much more useful in practice. In this paper, we study estimates of
+finite transition times that avoid explicit calculation of the transient solution by using the
+property that the transition to steady state defines a cumulative distribution function when time
+is treated as a random variable. In total, three approaches are studied: (i) mean action time (ii)
+mean plus one standard deviation of action time and (iii) a new approach derived by approximating
+the large time asymptotic behaviour of the cumulative distribution function. The new approach
+leads to a simple formula for calculating the finite transition time that depends on the prescribed
+tolerance $\delta$ and the $(k-1)$th and $k$th moments ($k \geq 1$) of the distribution. Results
+comparing exact and approximate finite transition times lead to two key findings. Firstly, while
+the first two approaches are useful at characterising the time scale of the transition, they do not
+provide accurate estimates for diffusion processes. Secondly, the new approach allows one to calculate
+finite transition times accurate to effectively any number of significant digits, using only the
+moments, with the accuracy increasing as the index $k$ is increased. 

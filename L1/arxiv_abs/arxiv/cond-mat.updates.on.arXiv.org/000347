@@ -1,0 +1,17 @@
+We perform a large-scale statistical analysis (> 2000 independent simulations) of the elongation
+and rupture of gold nanowires, probing the validity and scope of the recently proposed ductile-to-brittle
+transition that occurs with increasing nanowire length [Wu et. al., Nano Lett., 12, 910-914 (2012)].
+To facilitate a high-throughput simulation approach, we implement the second-moment approximation
+to the tight-binding (TB-SMA) potential within HOOMD-Blue, a molecular dynamics package which
+runs on massively parallel graphics processing units (GPUs). In a statistical sense, we find that
+the nanowires obey the ductile-to-brittle model quite well; however, we observe several unexpected
+features from the simulations that build on our understanding of the ductile-to-brittle transition.
+First, occasional failure behavior is observed that qualitatively differs from that predicted
+by the model prediction; this is attributed to stochastic thermal motion of the Au atoms and occurs
+at temperatures as low as 10 K. In addition, we also find that the ductile-to-brittle model, which
+was developed using classical dislocation theory, holds for nanowires as small as 3 nm in diameter.
+Finally, we demonstrate that the nanowire critical length is higher at 298 K relative to 10 K, a result
+that is not predicted by the ductile-to-brittle model. These results offer practical design strategies
+for adjusting nanowire failure and structure, and also demonstrate that GPU computing is an excellent
+tool for studies requiring a large number independent trajectories in order to fully characterize
+a system's behavior. 

@@ -1,0 +1,16 @@
+We propose a new data analysis approach for the efficient post-processing of bundles of finite element
+data from numerical simulations. The approach is based on the mathematical principles of symmetry.
+We consider the case where simulations of an industrial product are contained in the space of surface
+meshes embedded in R^3. Furthermore, we assume that distance preserving transformations exist,
+albeit unknown, which map simulation to simulation. In this setting, a discrete Laplace-Beltrami
+operator can be constructed on the mesh, which is invariant to isometric transformations and therefore
+valid for all simulations. The eigenfunctions of such an operator are used as a common basis for all
+(isometric) simulations. One can use the projection coefficients instead of the full simulations
+for further analysis. To extend the idea of invariance, we employ a discrete Fokker-Planck operator,
+that in the continuous limit converges to an operator invariant to a nonlinear transformation,
+and use its eigendecomposition accordingly. The data analysis approach is applied to time-dependent
+datasets from numerical car crash simulations. One observes that only a few spectral coefficients
+are necessary to describe the data variability, and low dimensional structures are obtained. The
+eigenvectors are seen to recover different independent variation modes such as translation, rotation,
+or global and local deformations. An effective analysis of the data from bundles of numerical simulations
+is made possible, in particular an analysis for many simulations in time. 

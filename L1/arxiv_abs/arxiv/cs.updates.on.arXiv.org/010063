@@ -1,0 +1,16 @@
+We analyze five big data sets from a variety of online social networking (OSN) systems and find that
+the growth dynamics of meme popularity exhibit characteristically different behaviors. For example,
+there is linear growth associated with online recommendation and sharing platforms, a plateaued
+(or an ``S''-shape) type of growth behavior in a web service devoted to helping users to collect bookmarks,
+and an exponential increase on the largest and most popular microblogging website in China. Does
+a universal mechanism with a common set of dynamical rules exist, which can explain these empirically
+observed, distinct growth behaviors? We provide an affirmative answer in this paper. In particular,
+inspired by biomimicry to take advantage of cell population growth dynamics in microbial ecology,
+we construct a base growth model for meme popularity in OSNs. We then take into account human factors
+by incorporating a general model of human interest dynamics into the base model. The final hybrid
+model contains a small number of free parameters that can be estimated purely from data. We demonstrate
+that our model is universal in the sense that, with a few parameters estimated from data, it can successfully
+predict the distinct meme growth dynamics. Our study represents a successful effort to exploit
+principles in biology to understand online social behaviors by incorporating the traditional
+microbial growth model into meme popularity. Our model can be used to gain insights into critical
+issues such as classification, robustness, optimization, and control of OSN systems. 

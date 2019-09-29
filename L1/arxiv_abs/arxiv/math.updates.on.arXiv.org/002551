@@ -1,0 +1,16 @@
+In this paper, the edge caching problem in fog radio access networks (F-RAN) is investigated. By
+maximizing the overall cache hit rate, the edge caching optimization problem is formulated to find
+the optimal edge caching policy. We consider content popularity in terms of time and space from the
+perspective of regional users. Taking into account that users request the contents they are interested
+in, we propose an online content popularity prediction algorithm by leveraging the content features
+and user preferences, and an offline user preference learning algorithm by using the "Online Gradient
+Descent" (OGD) method and the "Follow The (Proximally) Regularized Leader" (FTRL-Proximal) method.
+Our proposed edge caching policy not only can promptly predict the future content popularity in
+an online fashion with low computational complexity, but it also can track the content popularity
+with spatial and temporal popularity dynamics in time without delay. We theoretically derive the
+upper bound of the popularity prediction error, the lower bound of the cache hit rate, and the regret
+bound of the overall cache hit rate of our proposed edge caching policy. Furthermore, to implement
+our proposed edge caching policy, we design two learning based edge caching architectures for F-RAN,
+which have the capability of flexibly setting the monitoring cycle and is effective in various edge
+caching scenarios. Simulation results show that the overall cache hit rate of our proposed policy
+is superior to those of the traditional policies and asymptotically approaches the optimal performance.

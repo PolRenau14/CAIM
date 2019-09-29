@@ -1,0 +1,17 @@
+We use the general formulation of irreversible thermodynamics and study the minimally nonlinear
+irreversible model for heat engines operating between a time varying hot heat source of finite size
+and a cold heat reservoir of infinite size. We explicitly calculate the condition for obtaining
+optimized work output for this model once the system reaches the final thermal equilibrium state
+with that of the cold heat reservoir. We find that our condition resembles with the generalized condition
+to achieve an optimized work output for generalized irreversible heat engines in the nonlinear
+regime [Y. Wang, Phys. Rev. E {\bf 93}, 012120 (2016)]. We also find that the optimized efficiency
+obtained by this minimally nonlinear irreversible heat engine can reach the reversible efficiency
+under the tight coupling condition in which there is no heat leakage between the system and the reservoirs.
+Under this condition, we find that the reversible efficiency is obtain for any finite time interval
+with arbitrary power. We also calculate the efficiency at maximum power from the minimally nonlinear
+irreversible heat engine under the non-tight coupling condition. We find that the efficiency at
+maximum power is equal to the half of the reversible efficiency and the corresponding maximum work
+is half of the exergy for a specific choice of the heat leakage term. Our result matches exactly with
+the efficiency and the work at maximum power obtained in Ref. [Y. Izumida and K. Okuda, Phys. Rev.
+Lett. {\bf 112}, 180603 (2014)] for the exergy study of linear irreversible heat engines under the
+tight coupling condition. 

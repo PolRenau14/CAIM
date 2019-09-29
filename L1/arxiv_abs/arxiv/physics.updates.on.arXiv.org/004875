@@ -1,0 +1,16 @@
+We present a technique for continuous generation of volumetric images during radiotherapy treatments
+using periodic kV images and an external respiratory surrogate signal to drive a patient-specific
+PCA motion model. Using the on-board imager, kV radiographs are acquired every 3 seconds and used
+to fit the parameters of a motion model so that it matches observed changes in internal patient anatomy.
+A multi-dimensional correlation model is established between the motion model parameters and
+the external surrogate position and velocity, enabling volumetric image reconstruction between
+kV imaging time points. Performance of the algorithm was evaluated using 10 digital eXtended CArdiac-
+Torso (XCAT) phantom datasets for comparison against a full 3D ground truth. The phantoms were programmed
+with clinically measured 3D tumor motion traces, and the recorded external surrogate trace was
+used for correlation modeling, providing a dataset with realistic breathing irregularities and
+changes in internal-external correlation. The three-dimensional tumor positions are reconstructed
+with an average root mean square error (RMSE) of 1.47 mm, and an average 95th percentile 3D positional
+error of 2.80 mm. This technique enables continuous 3D anatomical image generation based on periodic
+kV imaging of internal anatomy without the additional dose of continuous kV imaging. The 3D anatomical
+images produced using this method can be used for treatment verification and delivered dose computation
+in the presence of irregular respiratory motion. 

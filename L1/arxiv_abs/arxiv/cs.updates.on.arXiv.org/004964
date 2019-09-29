@@ -1,0 +1,16 @@
+This paper studies the problem of blind face restoration from an unconstrained blurry, noisy, low-resolution,
+or compressed image (i.e., degraded observation). For better recovery of fine facial details,
+we modify the problem setting by taking both the degraded observation and a high-quality guided
+image of the same identity as input to our guided face restoration network (GFRNet). However, the
+degraded observation and guided image generally are different in pose, illumination and expression,
+thereby making plain CNNs (e.g., U-Net) fail to recover fine and identity-aware facial details.
+To tackle this issue, our GFRNet model includes both a warping subnetwork (WarpNet) and a reconstruction
+subnetwork (RecNet). The WarpNet is introduced to predict flow field for warping the guided image
+to correct pose and expression (i.e., warped guidance), while the RecNet takes the degraded observation
+and warped guidance as input to produce the restoration result. Due to that the ground-truth flow
+field is unavailable, landmark loss together with total variation regularization are incorporated
+to guide the learning of WarpNet. Furthermore, to make the model applicable to blind restoration,
+our GFRNet is trained on the synthetic data with versatile settings on blur kernel, noise level,
+downsampling scale factor, and JPEG quality factor. Experiments show that our GFRNet not only performs
+favorably against the state-of-the-art image and face restoration methods, but also generates
+visually photo-realistic results on real degraded facial images. 

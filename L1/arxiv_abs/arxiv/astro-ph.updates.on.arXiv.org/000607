@@ -1,0 +1,16 @@
+Sky masking is unavoidable in wide-field weak lensing observations. We study how masks affect the
+measurement of statistics of matter distribution probed by weak gravitational lensing. We first
+use 1000 Gaussian simulations in order to examine in detail the impact of mask regions on the weak
+lensing Minkowski Functionals (MFs). We consider actual sky masks used for a Subaru Suprime-Cam
+imaging survey. The masks increase the variance of the convergence field and thus the expected values
+of the MFs are biased even for a Gaussian random field. The bias is caused by two effects. One is owing
+to the reduced number of sampling Fourier modes, which can be accounted for analytically by considering
+the survey geometry appropriately. The other is owing to variation of the variance of the convergence
+field for each field of view. Lensing MFs are biased systematically when the reconstructed convergence
+field is normalized by its variance. We then use a large number of cosmological ray-tracing simulations
+in order to address if the lensing MFs measured for a Subaru 2-deg^2 survey are consistent with those
+of the standard cosmology. The resulting chi^2/n_dof = 29.6/30 for combined three MFs, obtained
+by taking the mask effects into account, suggests that the observational data are indeed consistent
+with the standard LCDM model. Finally, we explore how masked covariance matrices affect cosmological
+parameter estimation. We conclude that the lensing MFs are powerful probe of cosmology only if the
+effect of masking is correctly taken into account. 

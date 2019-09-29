@@ -1,0 +1,16 @@
+Orchestration of diverse synaptic plasticity mechanisms across different timescales produces
+complex cognitive processes. To achieve comparable cognitive complexity in memristive neuromorphic
+systems, devices that are capable to emulate short- and long-term plasticity (STP and LTP, respectively)
+concomitantly are essential. However, this fundamental bionic trait has not been reported in any
+existing memristors where STP and LTP can only be induced selectively because of the inability to
+be decoupled using different loci and mechanisms. In this work, we report the first demonstration
+of truly concomitant STP and LTP in a three-terminal memristor that uses independent physical phenomena
+to represent each form of plasticity. The emerging layered material Bi2O2Se is used in memristor
+for the first time, opening up the prospects for ultra-thin, high-speed and low-power neuromorphic
+devices. The concerted action of STP and LTP in our memristor allows full-range modulation of the
+transient synaptic efficacy, from depression to facilitation, by stimulus frequency or intensity,
+providing a versatile device platform for neuromorphic function implementation. A recurrent
+neural circuitry model is developed to simulate the intricate "sleep-wake cycle autoregulation"
+process, in which the concomitance of STP and LTP is posited as a key factor in enabling this neural
+homeostasis. This work sheds new light on the highly sophisticated computational capabilities
+of memristors and their prospects for realization of advanced neuromorphic functions. 

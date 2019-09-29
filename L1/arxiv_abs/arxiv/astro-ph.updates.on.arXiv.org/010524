@@ -1,0 +1,16 @@
+Indirect detection strategies of particle Dark Matter (DM) in Dwarf spheroidal satellite galaxies
+(dSphs) typically entail searching for annihilation signals above the astrophysical background.
+To robustly compare model predictions with the observed fluxes of product particles, most analyses
+of astrophysical data -- which are generally frequentist -- rely on estimating the abundance of
+DM by calculating the so-called $\textit{J-factor}$. This quantity is usually inferred from the
+kinematic properties of the stellar population of a dSph using Jeans equation, commonly by means
+of Bayesian techniques which entail the presence (and additional systematic uncertainty) of prior
+choice. Here, extending earlier work, we develop a scheme to derive the profile likelihood for $J$-factors
+of dwarf spheroidals for models with five or more free parameters. We validate our method on a publicly
+available simulation suite, released by the Gaia Challenge, finding satisfactory statistical
+properties for coverage and bias. We present the profile likelihood function and maximum likelihood
+estimates for the $J$-factor of ten dSphs . As an illustration, we apply these profiles likelihood
+to recently published analyses of gamma-ray data with the Fermi Large Area Telescope to derive new,
+consistent upper limits on the DM annihilation cross-section. We do this for a subset of systems,
+generally referred to as $\textit{classical dwarfs}$. The implications of these findings for
+DM searches are discussed, together with future improvements and extensions of this technique.

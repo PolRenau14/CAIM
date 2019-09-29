@@ -1,0 +1,17 @@
+This paper presents a non-intrusive subdomain POD-TPWL (SD POD-TPWL) algorithm for reservoir
+data assimilation through integrating domain decomposition (DD), radial basis function (RBF)
+interpolation and the trajectory piecewise linearization (TPWL). It is an efficient approach
+for model reduction and linearization of general non-linear time-dependent dynamical systems
+without intruding the legacy source code. In the subdomain POD-TPWL algorithm, firstly, a sequence
+of snapshots over the entire computational domain are saved and then partitioned into subdomains.
+From the local sequence of snapshots over each subdomain, a number of local basis vectors is formed
+using POD, and then the RBF interpolation is used to estimate the derivative matrices for each subdomain.
+Finally, those derivative matrices are substituted into a POD-TPWL algorithm to form a reduced-order
+linear model in each subdomain. This reduced-order linear model makes the implementation of the
+adjoint easy and resulting in an efficient adjoint-based parameter estimation procedure. The
+performance of the new adjoint-based parameter estimation algorithm has been assessed through
+several synthetic cases. Comparisons with the classic finite-difference based history matching
+show that our proposed subdomain POD-TPWL approach is obtaining comparable results. The number
+of full-order model simulations required is roughly 2-3 times the number of uncertain parameters.
+Using different background parameter realizations, our approach efficiently generates an ensemble
+of calibrated models without additional full-order model simulations. 

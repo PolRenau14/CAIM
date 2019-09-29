@@ -1,0 +1,16 @@
+We develop a theory of right group-like projections in Hopf algebras in parallel with the theory
+of left coideal subalgebras with integral. Every right group-like projection is assigned with
+a left coideal subalgebra, which is a maximal containing given group-like projection as an integral.
+We observe that in a semisimple Hopf algebra H every coideal has an integral and we prove a 1-1 correspondence
+between right group-like projections and left coideals subalgebras of H. We provide a number of
+equivalent conditions for a right group-like projections to be left group-like projection and
+we prove a 1-1 correspondence between semisimple left coideals subalgebras preserved by the antipode
+squared and two sided group-like projections. We classify left coideals subalgebras in Taft Hopf
+algebras $H_{n^2}$ over a field k showing that the automorphism group split them into: - a class of
+cardinality |k|-1 of semisimple ones which correspond to right group-like projections which are
+not two sided; - finite number of semisimple singletons each corresponding to two sided group-like
+projection; the number of those singletons for $H_{n^2}$ is equal to the number of divisors of $n$;
+- finite number of singletons each being non-semisimple and not admitting a right group-like projection;
+the number of those singletons for $H_{n^2}$ is equal to the number of divisors of $n$. In particular
+we answer the question of Landstad and Van Daele showing that there do exist right group-like projections
+which are not left group-like projections. 

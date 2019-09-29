@@ -1,0 +1,16 @@
+In order to study the slope and strength of the non-stellar continuum, we analyzed a sample of nearby
+Narrow Line Seyfert 1 (NLS1). Also, we re-examined the location of NLS1 galaxies on the M $-$ $\sigma$
+relation using the stellar velocity dispersion and the [OIII]$\lambda$5007 emission line as surrogate
+of the former. We studied spectra of a sample of 131 NLS1 galaxies taken from the Sloan Digital Sky
+Survey (SDSS) DR7. We approached the determination of the non-stellar continuum using the spectral
+synthesis technique using the code {\sc starlight}, adopting a power-law base to model the non-stellar
+continuum. A composite spectra of NLS1 galaxies was also obtained based on the sample. In addition,
+we obtained the stellar velocity dispersion from the code and by measuring Calcium II Triplet absorption
+lines and [OIII] emission lines. From Gaussian decomposition of the H$\beta$ profile we calculated
+the black hole mass. We obtained a median slope of $\beta$ = $-$1.6 with a median fraction of contribution
+of the non-stellar continuum to the total flux of 0.64. We determined black hole masses in the range
+of log(M$_{BH}$/M$_{\odot}$) = 5.6 $-$ 7.5 in agreement with previous works. We found a correlation
+between the luminosity of the broad component of H$\beta$ and black hole mass with the fraction of
+power law component. Finally, according to our results, NLS1 galaxies in our sample follow the relation
+M $-$ $\sigma$, both considering the stellar velocity dispersion ($\sigma_{\star}$), and the
+core component of [OIII]$\lambda$5007. 

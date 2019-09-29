@@ -1,0 +1,17 @@
+Information technology depends on how one can control and manipulate signals accurately and quickly.
+Transistors are at the core of modern technology and are based on electron charges. But as the device
+dimension shrinks, heating becomes a major problem. The spintronics explores the spin degree of
+electrons and thus bypasses the heat, at least in principle. For this reason, spin-based technology
+offers a possible solution. In this review, we survey some of latest developments in all-optical
+switching (AOS), where ultrafast laser pulses are able to reverse spins from one direction to the
+other deterministically. But AOS only occurs in a special group of magnetic samples and within a
+narrow window of laser parameters. Some samples need multiple pulses to switch spins, while others
+need a single-shot pulse. To this end, there are several models available, but the underlying mechanism
+is still under debate. This review is different from other prior reviews in two aspects. First, we
+sacrifice the completeness of reviewing existing studies, while focusing on a limited set of experimental
+results that are highly reproducible in different labs and provide actual switched magnetic domain
+images. Second, we extract the common features from existing experiments that are critical to AOS,
+without favoring a particular switching mechanism. We emphasize that given the limited experimental
+data, it is really premature to identify a unified mechanism. We compare these features with our
+own model prediction, without resorting to a phenomenological scheme. We hope that this review
+serves the broad readership well. 

@@ -1,0 +1,16 @@
+High-quality video streaming, either in form of Video-On-Demand (VOD) or live streaming, usually
+requires converting (ie, transcoding) video streams to match the characteristics of viewers'
+devices (eg, in terms of spatial resolution or supported formats). Considering the computational
+cost of the transcoding operation and the surge in video streaming demands, Streaming Service Providers
+(SSPs) are becoming reliant on cloud services to guarantee Quality of Service (QoS) of streaming
+for their viewers. Cloud providers offer heterogeneous computational services in form of different
+types of Virtual Machines (VMs) with diverse prices. Effective utilization of cloud services for
+video transcoding requires detailed performance analysis of different video transcoding operations
+on the heterogeneous cloud VMs. In this research, for the first time, we provide a thorough analysis
+of the performance of the video stream transcoding on heterogeneous cloud VMs. Providing such analysis
+is crucial for efficient prediction of transcoding time on heterogeneous VMs and for the functionality
+of any scheduling methods tailored for video transcoding. Based upon the findings of this analysis
+and by considering the cost difference of heterogeneous cloud VMs, in this research, we also provide
+a model to quantify the degree of suitability of each cloud VM type for various transcoding tasks.
+The provided model can supply resource (VM) provisioning methods with accurate performance and
+cost trade-offs to efficiently utilize cloud services for video streaming. 

@@ -1,0 +1,16 @@
+We present a hybrid simulation method which allows one to study the dynamical evolution of self-assembling
+(co)polymer solutions in the presence of hydrodynamic interactions. The method combines an established
+dynamic density functional theory for polymers that accounts for the nonlocal character of chain
+dynamics at the level of the Rouse model, the external potential dynamics (EPD) model, with an established
+Navier-Stokes solver, the Lattice Boltzmann (LB) method. We apply the method to study the self-assembly
+of nanoparticles and vesicles in two-dimensional copolymer solutions in a typical microchannel
+Poiseuille flow profile. The simulations start from fully mixed systems which are suddenly quenched
+below the spinodal line. In order to isolate effects caused by walls, we use a reverse Poiseuille
+flow geometry with periodic boundary conditions. We identify three stages of self assembly, i.e.,
+initial spinodal decomposition, particle nucleation, and particle growth (ripening). We find
+that (i) In the presence of shear, the nucleation of droplets is delayed by an amount roughly proportional
+to the shear rate, (ii) Shear flow greatly increases the rates of particle fusions, (iii) in later
+stages of self-assembly, stronger shear flows may induce irreversible shape transformation {\em
+via} finger formation, in particular in vesicle systems. The combination of these effects lead
+to an accumulation of particles close to the center of the Poiseuille flow profile, and the polymeric
+matter has a double peak distribution centered around the flow maximum. 

@@ -1,0 +1,16 @@
+\citet{turner1957} proposed that dry thermals entrain because of buoyancy (via a constraint which
+requires an increase in the radius $a$). This however, runs counter to the scaling arguments commonly
+used to derive the entrainment rate, which rely on either the self-similarity of \citet{scorer1957}
+or the turbulent entrainment hypothesis of \citet{morton1956}. The assumption of turbulence-driven
+entrainment was investigated by \citet{lecoanet2018}, who found that the entrainment efficiency
+$e$ varies by less than $20\%$ between laminar (Re = 630) and turbulent (Re = 6300) thermals. This
+motivated us to utilize Turner's argument of buoyancy-controlled entrainment in addition to the
+thermal's vertical momentum equation to build a model for thermal dynamics which does not invoke
+turbulence or self-similarity. We derive simple expressions for the thermals' kinematic properties
+and their fractional entrainment rate $\epsilon$ and find close quantitative agreement with the
+values in direct numerical simulations. In particular, our expression for entrainment rate is
+consistent with the parameterization $\epsilon \sim B/w^2$, for Archimedean buoyancy $B$ and
+vertical velocity $w$. We also directly validate the role of buoyancy-driven entrainment by running
+simulations where gravity is turned off midway through a thermal's rise. The entrainment efficiency
+$e$ is observed to drop to less than 1/3 of its original value in both the laminar and turbulent cases
+when $g=0$, affirming the central role of buoyancy in entrainment in dry thermals. 

@@ -1,0 +1,16 @@
+We consider users which may have renewable energy harvesting devices, or distributed generators.
+Such users can behave as consumer or producer (hence, we denote them as prosumers) at different time
+instances. A prosumer may sell the energy to other prosumers in exchange of money. We consider a demand
+response model, where the price of conventional energy depends on the total demand of all the prosumers
+at a certain time. A prosumer depending on its own utility has to select the amount of energy it wants
+to buy either from the grid or from other prosumers, or the amount of excess energy it wants to sell
+to other prosumers. However, the strategy, and the payoff of a prosumer inherently depends on the
+strategy of other prosumers as a prosumer can only buy if the other prosumers are willing to sell.
+We formulate the problem as a coupled constrained game, and seek to obtain the generalized Nash equilibrium.
+We show that the game is a concave potential game and show that there exists a unique generalized Nash
+equilibrium. We consider that a platform will set the price for distributed interchange of energy
+among the prosumers in order to minimize the consumption of the conventional energy. We propose
+a distributed algorithm where the platform sets a price to each prosumer, and then each prosumer
+at a certain time only optimizes its own payoff. The prosumer then updates the price depending on
+the supply and demand for each prosumer. We show that the algorithm converges to an optimal generalized
+Nash equilibrium. The distributed algorithm also provides an optimal price for the exchange market.

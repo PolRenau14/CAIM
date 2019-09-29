@@ -1,0 +1,16 @@
+In a recent study, the finite-time ($t$) and -population size ($N_c$) scalings in the evaluation
+of a large deviation function (LDF) estimator were analyzed by means of the cloning algorithm. These
+scalings provide valuable information about the convergence of the LDF estimator in the infinite-$t$
+and infinite-$N_c$ limits. For the cases analyzed in that study, the scalings of the systematic
+errors of the estimator were found to behave as $t^{-1}$ and $N_c^{-1}$ in the large-$t$ and large-$N_c$
+asymptotics. Moreover, it was shown how this convergence speed can be used in order to extract an
+asymptotic limit which resulted to render a better LDF estimation in comparison to the standard
+estimator. However, the validity of these scaling laws and thus, the convergence of the estimator
+was proved only in systems for which the number of sites $L$ (where the dynamics occurs) was small.
+In this paper, the analysis is extended to a wider range of system sizes $L$. We show how the introduction
+of the exponents $\gamma_{t}$ and $\gamma_{N_c}$ allows to characterize the behavior of the LDF
+estimator for any system size. From these generalized $t^{-\gamma_{t}}$- and $N_{c}^{-\gamma_{N_c}}$-
+scalings, we verify that in the large-$L$ limit the $t^{-1}$- and $N_c^{-1}$-scalings are no longer
+valid. Moreover, as the convergence of the estimator relies on the positivity of these exponents,
+we show how for some cases $\gamma_{N_c}$ can be negative implying that the estimation provided
+by the cloning algorithm is no longer reliable. 

@@ -1,0 +1,17 @@
+Perceptual ad-blocking is a novel approach that uses visual cues to detect online advertisements.
+Compared to classical filter lists, perceptual ad-blocking is believed to be less prone to an arms
+race with web publishers and ad-networks. In this work we use techniques from adversarial machine
+learning to demonstrate that this may not be the case. We show that perceptual ad-blocking engenders
+a new arms race that likely disfavors ad-blockers. Unexpectedly, perceptual ad-blocking can also
+introduce new vulnerabilities that let an attacker bypass web security boundaries and mount DDoS
+attacks. We first analyze the design space of perceptual ad-blockers and present a unified architecture
+that incorporates prior academic and commercial work. We then explore a variety of attacks on the
+ad-blocker's full visual-detection pipeline, that enable publishers or ad-networks to evade
+or detect ad-blocking, and at times even abuse its high privilege level to bypass web security boundaries.
+Our attacks exploit the unreasonably strong threat model that perceptual ad-blockers must survive.
+Finally, we evaluate a concrete set of attacks on an ad-blocker's internal ad-classifier by instantiating
+adversarial examples for visual systems in a real web-security context. For six ad-detection techniques,
+we create perturbed ads, ad-disclosures, and native web content that misleads perceptual ad-blocking
+with 100% success rates. For example, we demonstrate how a malicious user can upload adversarial
+content (e.g., a perturbed image in a Facebook post) that fools the ad-blocker into removing other
+users' non-ad content. 

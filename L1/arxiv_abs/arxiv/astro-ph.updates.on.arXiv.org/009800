@@ -1,0 +1,16 @@
+We analyze new HST/COS spectra for two quasar absorption outflows seen in the quasi-stellar object
+LBQS 1206+1052. These data cover, for the first time, absorption troughs from $S_{IV}$, $Si_{II}$,
+and $P_V$. From the ratio of the $S_{IV}$* to $S_{IV}$ column densities, we measure the electron
+number density of the higher-velocity ($-1400$ km s$^{-1}$, v1400) outflow to be log($n_e$) = $4.23^{+0.09}_{-0.09}$
+cm$^{-3}$ and constrain the lower-velocity ($-730$ km s$^{-1}$, v700) outflow to log($n_e$) $>$
+$5.3$ cm$^{-3}$. The $n_e$ associated with the higher-velocity outflow is an order of magnitude
+larger than reported in prior work. We find that the previous measurement was unreliable since it
+was based on density-sensitive absorption troughs that were likely saturated. Using photoionization
+models, we determine the best $\chi^2$-minimization fit for the ionization parameter and hydrogen
+column density of the higher-velocity outflow: log($U_H$) = $-1.73^{+0.21}_{-0.12}$ and log($N_H$)
+= $21.03^{+0.25}_{-0.15}$ cm$^{-2}$, respectively. We calculate from $U_H$ and $n_e$ a distance
+of $500^{+100}_{-110}$ pc from the central source to the outflow. Using an SED attenuated by the
+v700 outflow yields a two-phase photoionization solution for the v1400 outflow, separated by a
+$\Delta U \approxeq 0.7$. Otherwise, the resultant distance, mass flux, and kinetic luminosity
+are similar to the unattenuated case. However, the attenuated analysis has significant uncertainties
+due to a lack of constraints on the v700 outflow in 2017. 

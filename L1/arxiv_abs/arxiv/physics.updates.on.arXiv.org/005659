@@ -1,0 +1,16 @@
+An explicit analytical solution considering interface bending resistance based on the Steigmann-Ogden
+interface model is derived for a spherical nano-inhomogeneity (nanoscale void/inclusion) embedded
+in an infinite matrix under general uniform far-field stress (including both tension and shear).
+The Papkovich-Neuber (P-N) general solutions, which are expressed in terms of spherical harmonics,
+are used to derive the analytical solution. A superposition technique for the Steigmann-Ogden
+interface model is introduced to overcome the mathematical complexity in the Steigmann-Ogden
+interface model, that is the nonlinearity of the constitutive relation brought by interface residual
+stress. Numerical examples show that the stress fields considering the interface bending resistance
+with the Steigmann-Ogden interface model, differ a lot from those considering only the interface
+stretching resistance with the Gurtin-Murdoch interface model, when interface bending parameters
+get closed to the characteristic line introduced in this study. In addition to size-dependency
+phenomenon, it is also observed that some stress components are invariant to interface bending
+stiffness parameters at a certain circle in the inclusion/matrix. A characteristic line for the
+interface bending stiffness parameters is presented, near which the stress concentration phenomenon
+becomes quite severe. The derived explicit analytical solution with the Steigmann-Ogden interface
+model can be used as a benchmark for semi-analytical solutions and numerical solutions. 

@@ -1,0 +1,16 @@
+Modelling the distribution of neutral hydrogen (HI) in dark matter halos is important for studying
+galaxy evolution in the cosmological context. We compute the abundance and clustering properties
+of HI-selected galaxies using halo models constrained by data from the ALFALFA survey. We apply
+an MCMC-based statistical analysis to constrain the model parameters through two different approaches.
+In the first approach, we describe the HI content of galaxies in dark matter halos directly, using
+a halo occupation distribution (HOD) for the number counts of HI galaxies. We find that a significant
+number of low mass ($m_{\rm HI} \lesssim 10^{9.5} M_{\odot}$) galaxies must be satellites. In the
+second, more novel approach, we infer the HI-dark matter connection at the massive end ($m_{\rm
+HI} > 10^{9.5} M_{\odot}$) $\textit{indirectly}$, using optical properties of low-redshift
+galaxies as an intermediary. In particular, we use a previously calibrated optical HOD describing
+the luminosity- and colour-dependent clustering of SDSS galaxies and describe the HI content using
+a statistical scaling relation between the optical properties and HI mass. The resulting best-fit
+scaling relation identifies massive HI galaxies primarily with optically faint blue centrals,
+consistent with expectations from galaxy formation models. Our results will be useful in making
+forecasts for future observations of HI galaxies with upcoming radio telescopes like the SKA, as
+well as in exploring synergies between SKA and optical surveys such as Euclid and LSST. 

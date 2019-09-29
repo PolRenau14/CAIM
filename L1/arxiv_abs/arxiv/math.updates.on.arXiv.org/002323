@@ -1,0 +1,16 @@
+This paper considers recovering $L$-dimensional vectors $\boldsymbol{w}$, and $\boldsymbol{x}_1,\boldsymbol{x}_2,
+\ldots, \boldsymbol{x}_N$ from their circular convolutions $\boldsymbol{y}_n = \boldsymbol{w}*\boldsymbol{x}_n,
+\ n = 1,2,3, \ldots, N$. The vector $\boldsymbol{w}$ is assumed to be $S$-sparse in a known basis that
+is spread out in the Fourier domain, and each input $\boldsymbol{x}_n$ is a member of a known $K$-dimensional
+random subspace. We prove that whenever $K + S\log^2S \lesssim L /\log^4(LN)$, the problem can be
+solved effectively by using only the nuclear-norm minimization as the convex relaxation, as long
+as the inputs are sufficiently diverse and obey $N \gtrsim \log^2(LN)$. By "diverse inputs", we
+mean that the $\boldsymbol{x}_n$'s belong to different, generic subspaces. To our knowledge,
+this is the first theoretical result on blind deconvolution where the subspace to which $\boldsymbol{w}$
+belongs is not fixed, but needs to be determined. We discuss the result in the context of multipath
+channel estimation in wireless communications. Both the fading coefficients, and the delays in
+the channel impulse response $\boldsymbol{w}$ are unknown. The encoder codes the $K$-dimensional
+message vectors randomly and then transmits coded messages $\boldsymbol{x}_n$'s over a fixed
+channel one after the other. The decoder then discovers all of the messages and the channel response
+when the number of samples taken for each received message are roughly greater than $(K+S\log^2S)\log^4(LN)$,
+and the number of messages is roughly at least $\log^2(LN)$. 

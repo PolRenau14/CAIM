@@ -1,0 +1,17 @@
+The simulation hypothesis says that all the materials and events in the reality (including the universe,
+our body, our thinking, walking and etc) are computations, and the reality is a computer simulation
+program like a video game. All works we do (talking, reasoning, seeing and etc) are computations
+performed by the universe-computer which runs the simulation program. Inspired by the view of the
+simulation hypothesis (but independent of this hypothesis), we propose a new method of logical
+reasoning named "Computer-Simulation Model Theory", CSMT. Computer-Simulation Model Theory
+is an extension of Mathematical Model Theory where instead of mathematical-structures, computer-simulations
+are replaced, and the activity of reasoning and computing of the reasoner is also simulated in the
+model. (CSMT) argues that: For a formula $\phi$, construct a computer simulation model $S$, such
+that 1- $\phi$ does not hold in $S$, and 2- the reasoner $I$ $($human being, the one who lives inside
+the reality$)$ cannot distinguish $S$ from the reality $(R)$, then $I$ cannot prove $\phi$ in reality.
+Although $\mathrm{CSMT}$ is inspired by the simulation hypothesis, but this reasoning method
+is independent of the acceptance of this hypothesis. As we argue in this part, one may do not accept
+the simulation hypothesis, but knows $\mathrm{CSMT}$ a valid reasoning method. As an application
+of Computer-Simulation Model Theory, we study the famous problem P vs NP. We let $\phi \equiv\mathrm{
+[P= NP]} $ and construct a computer simulation model $E$ such that $\mathrm{P= NP}$ does not hold
+in $E$. 

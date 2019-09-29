@@ -1,0 +1,16 @@
+The flavor evolution of neutrinos emitted by a supernova (SN) core is strongly affected by the refractive
+effects associated with the neutrino-neutrino interactions in the deepest stellar regions. Till
+now, all numerical studies have assumed the axial symmetry for the "multi-angle effects" associated
+with the neutrino-neutrino interactions. Recently, it has been pointed out in \cite{Raffelt:2013rqa}
+that removing this assumption, a new multi-azimuthal-angle (MAA) instability would emerge in
+the flavor evolution of the dense SN neutrino gas in addition to the one caused by multi-zenith-angle
+(MZA) effects. Inspired by this result, for the first time we numerically solve the non-linear neutrino
+propagation equations in SN, introducing the azimuthal angle as angular variable in addition to
+the usual zenith angle. We consider simple energy spectra with an excess of \nu_e over anti-\nu_e.
+In these cases, we find that even starting with a complete axial symmetric neutrino emission, the
+MAA effects would lead to significant flavor conversions in normal mass hierarchy, in cases otherwise
+stable under the only MZA effects. The final outcome of the flavor conversions, triggered by the
+MAA instability, depends on the initial asymmetry between \nu_e and anti-\nu_e spectra. If it is
+sufficiently large, final spectra would show an ordered behavior with spectral swaps and splits.
+Conversely, for small flavor asymmetries flavor decoherence among angular modes develops, affecting
+the flavor evolution also in inverted mass hierarchy. 

@@ -1,0 +1,16 @@
+Common intervals have been defined as a modelisation of gene clusters in genomes represented either
+as permutations or as sequences. Whereas optimal algorithms for finding common intervals in permutations
+exist even for an arbitrary number of permutations, in sequences no optimal algorithm has been proposed
+yet even for only two sequences. Surprisingly enough, when sequences are reduced to permutations,
+the existing algorithms perform far from the optimum, showing that their performances are not dependent,
+as they should be, on the structural complexity of the input sequences. In this paper, we propose
+to characterize the structure of a sequence by the number $q$ of different dominating orders composing
+it (called the domination number), and to use a recent algorithm for permutations in order to devise
+a new algorithm for two sequences. Its running time is in $O(q_1q_2p+q_1n_1+q_2n_2+N)$, where
+$n_1, n_2$ are the sizes of the two sequences, $q_1,q_2$ are their respective domination numbers,
+$p$ is the alphabet size and $N$ is the number of solutions to output. This algorithm performs better
+as $q_1$ and/or $q_2$ reduce, and when the two sequences are reduced to permutations (i.e. when $q_1=q_2=1$)
+it has the same running time as the best algorithms for permutations. It is also the first algorithm
+for sequences whose running time involves the parameter size of the solution. As a counterpart,
+when $q_1$ and $q_2$ are of $O(n_1)$ and $O(n_2)$ respectively, the algorithm is less efficient
+than other approaches. 

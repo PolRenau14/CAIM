@@ -1,0 +1,15 @@
+This paper proposes a supervised learning approach to jointly perform facial Action Unit (AU) localisation
+and intensity estimation. Contrary to previous works that try to learn an unsupervised representation
+of the Action Unit regions, we propose to directly and jointly estimate all AU intensities through
+heatmap regression, along with the location in the face where they cause visible changes. Our approach
+aims to learn a pixel-wise regression function returning a score per AU, which indicates an AU intensity
+at a given spatial location. Heatmap regression then generates an image, or channel, per AU, in which
+each pixel indicates the corresponding AU intensity. To generate the ground-truth heatmaps for
+a target AU, the facial landmarks are first estimated, and a 2D Gaussian is drawn around the points
+where the AU is known to cause changes. The amplitude and size of the Gaussian is determined by the
+intensity of the AU. We show that using a single Hourglass network suffices to attain new state of
+the art results, demonstrating the effectiveness of such a simple approach. The use of heatmap regression
+allows learning of a shared representation between AUs without the need to rely on latent representations,
+as these are implicitly learned from the data. We validate the proposed approach on the BP4D dataset,
+showing a modest improvement on recent, complex, techniques, as well as robustness against misalignment
+errors. Code for testing and models will be available to download from https://github.com/ESanchezLozano/Action-Units-Heatmaps.

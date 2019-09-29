@@ -1,0 +1,17 @@
+Rotation and magnetism are increasingly recognized as important phenomena in stellar evolution.
+Surface magnetic fields from a few to $20{,}000\,$G have been observed and models have suggested
+that magnetohydrodynamic transport of angular momentum and chemical composition could explain
+the peculiar composition of some stars. Stellar remnants such as white dwarfs have been observed
+with fields from a few to more than $10^{9}\,$G. We investigate the origin of and the evolution, on
+thermal and nuclear rather than dynamical time-scales, of an averaged large-scale magnetic field
+throughout a star's life and its coupling to stellar rotation. Large-scale magnetic fields sustained
+until late stages of stellar evolution with conservation of magnetic flux could explain the very
+high fields observed in white dwarfs. We include these effects in the Cambridge stellar evolution
+code using three time-dependant advection-diffusion equations coupled to the structural and
+composition equations of stars to model the evolution of angular momentum and the two components
+of the magnetic field. We present the evolution in various cases for a $3\rm\,M_{\odot}$ star from
+the beginning to the late stages of its life. Our particular model assumes that turbulent motions,
+including convection, favour small-scale field at the expense of large-scale field. As a result
+the large-scale field concentrates in radiative zones of the star and so is exchanged between the
+core and the envelope of the star as it evolves. The field is sustained until the end of the asymptotic
+giant branch, when it concentrates in the degenerate core. 

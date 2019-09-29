@@ -1,0 +1,17 @@
+We present a simultaneous analysis of galaxy cluster scaling relations between weak-lensing mass
+and multiple cluster observables, across a wide range of wavelengths, that probe both gas and stellar
+content. Our new hierarchical Bayesian model simultaneously considers the selection variable
+alongside all other observables in order to explicitly model intrinsic property covariance and
+account for selection effects. We apply this method to a sample of 41 clusters at $0.15<z<0.30$,
+with a well-defined selection criteria based on RASS X-ray luminosity, and observations from Chandra
+/ XMM, SZA, Planck, UKIRT, SDSS and Subaru. These clusters have well-constrained weak-lensing
+mass measurements based on Subaru / Suprime-Cam observations, which serve as the reference masses
+in our model. We present 30 scaling relation parameters for 10 properties. All relations probing
+the intracluster gas are slightly shallower than self-similar predictions, in moderate tension
+with prior measurements, and the stellar fraction decreases with mass. K-band luminosity has the
+lowest intrinsic scatter with a 95th percentile of 0.16, while the lowest scatter gas probe is gas
+mass with a fractional intrinsic scatter of $0.16 \pm 0.03$. We find no distinction between the core-excised
+X-ray or high-resolution Sunyaev-Zel'dovich relations of clusters of different central entropy,
+but find with modest significance that higher entropy clusters have higher stellar fractions than
+their lower entropy counterparts. We also report posterior mass estimates from our likelihood
+model. 

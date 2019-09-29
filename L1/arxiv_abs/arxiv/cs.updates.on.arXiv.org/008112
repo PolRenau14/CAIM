@@ -1,0 +1,16 @@
+We investigate strong Nash equilibria in the \emph{max $k$-cut game}, where we are given an undirected
+edge-weighted graph together with a set $\{1,\ldots, k\}$ of $k$ colors. Nodes represent players
+and edges capture their mutual interests. The strategy set of each player $v$ consists of the $k$
+colors. When players select a color they induce a $k$-coloring or simply a coloring. Given a coloring,
+the \emph{utility} (or \emph{payoff}) of a player $u$ is the sum of the weights of the edges $\{u,v\}$
+incident to $u$, such that the color chosen by $u$ is different from the one chosen by $v$. Such games
+form some of the basic payoff structures in game theory, model lots of real-world scenarios with
+selfish agents and extend or are related to several fundamental classes of games. Very little is
+known about the existence of strong equilibria in max $k$-cut games. In this paper we make some steps
+forward in the comprehension of it. We first show that improving deviations performed by minimal
+coalitions can cycle, and thus answering negatively the open problem proposed in \cite{DBLP:conf/tamc/GourvesM10}.
+Next, we turn our attention to unweighted graphs. We first show that any optimal coloring is a 5-SE
+in this case. Then, we introduce $x$-local strong equilibria, namely colorings that are resilient
+to deviations by coalitions such that the maximum distance between every pair of nodes in the coalition
+is at most $x$. We prove that $1$-local strong equilibria always exist. Finally, we show the existence
+of strong Nash equilibria in several interesting specific scenarios. 

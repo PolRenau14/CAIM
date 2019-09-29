@@ -1,0 +1,16 @@
+In [Science 340, 1205, 7 June (2013)], via polytopes Michael Walter et al. proposed a sufficient
+condition detecting the genuinely entangled pure states. In this paper, we indicate that generally,
+the coefficient vector of a pure product state of $n$ qubits cannot be decomposed into a tensor product
+of two vectors, and show that a pure state of $n$ qubits is a product state if and only if there exists
+a permutation of qubits such that under the permutation, its coefficient vector arranged in ascending
+lexicographical order can be decomposed into a tensor product of two vectors. The contrapositive
+of this result reads that a pure state of $n$ qubits is genuinely entangled if and only if its coefficient
+vector cannot be decomposed into a tensor product of two vectors under any permutation of qubits.
+Further, by dividing a coefficient vector into $2^{i}$ equal-size block vectors, we show that the
+coefficient vector can be decomposed into a tensor product of two vectors if and only if any two non-zero
+block vectors of the coefficient vector are proportional. In terms of \textquotedblleft proportionality\textquotedblright
+, we can rephrase that a pure state of $n$ qubits is genuinely entangled if and only if there are two
+non-zero block vectors of the coefficient vector which are not proportional under any permutation
+of qubits. Thus, we avoid decomposing a coefficient vector into a tensor product of two vectors to
+detect the genuine entanglement. We also present the full decomposition theorem for product states
+of n qubits. 

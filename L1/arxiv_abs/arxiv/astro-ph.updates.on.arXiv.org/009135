@@ -1,0 +1,16 @@
+The search for inflationary primordial gravitational waves and the measurement of the optical
+depth to reionization, both through their imprint on the large angular scale correlations in the
+polarization of the cosmic microwave background (CMB), has created the need for high sensitivity
+measurements of polarization across large fractions of the sky at millimeter wavelengths. These
+measurements are subject to instrumental and atmospheric $1/f$ noise, which has motivated the
+development of polarization modulators to facilitate the rejection of these large systematic
+effects. Variable-delay polarization modulators (VPMs) are used in the Cosmology Large Angular
+Scale Surveyor (CLASS) telescopes as the first element in the optical chain to rapidly modulate
+the incoming polarization. VPMs consist of a linearly polarizing wire grid in front of a movable
+flat mirror. Varying the distance between the grid and the mirror produces a changing phase shift
+between polarization states parallel and perpendicular to the grid which modulates Stokes U (linear
+polarization at $45^\circ$) and Stokes V (circular polarization). The CLASS telescopes have VPMs
+as the first optical element from the sky; this simultaneously allows a lock-in style polarization
+measurement and the separation of sky polarization from any instrumental polarization further
+along in the optical path. The Q-band CLASS VPM was the first VPM to begin observing the CMB full time,
+starting in the Spring of 2016. The first W-band CLASS VPM was installed in the Spring of 2018. 

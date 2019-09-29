@@ -1,0 +1,16 @@
+Distant starlight passing through the Earth's atmosphere is refracted by an angle of just over one
+degree near the surface. This focuses light onto a focal line starting at an inner (and chromatic)
+boundary out to infinity - offering an opportunity for pronounced lensing. It is shown here that
+the focal line commences at ~85% of the Earth-Moon separation, and thus placing an orbiting detector
+between here and one Hill radius could exploit this refractive lens. Analytic estimates are derived
+for a source directly behind the Earth (i.e. on-axis) showing that starlight is lensed into a thin
+circular ring of thickness $W H_{\Delta}/R$, yielding an amplification of $8 H_{\Delta}/W$, where
+$H_{\Delta}$ is the Earth's refractive scale height, $R$ is its geopotential radius and $W$ is the
+detector diameter. These estimates are verified through numerical ray-tracing experiments from
+optical to 30 micron light with standard atmospheric models. The numerical experiments are extended
+to include extinction from both a clear atmosphere and one with clouds. It is found that a detector
+at one Hill radius is least affected by extinction since lensed rays travel no deeper than 13.7 km,
+within the stratosphere and above most clouds. Including extinction, a 1 metre Hill radius 'terrascope'
+is calculated to produce an amplification of ~45,000 for a lensing timescale of ~20 hours. In practice,
+the amplification is likely halved in order to avoid daylight scattering i.e. 22,500 ($\Delta$mag=10.9)
+for $W=$1 metre, or equivalent to a 150 metre optical/infrared telescope. 

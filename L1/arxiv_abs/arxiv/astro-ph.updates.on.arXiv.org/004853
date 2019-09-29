@@ -1,0 +1,17 @@
+The detection of Earth-like exoplanets in the habitable zone of their stars, and their spectroscopic
+characterization in a search for biosignatures, requires starlight suppression that exceeds
+the current best ground-based performance by orders of magnitude. The required planet/star brightness
+ratio of order 1e-10 at visible wavelengths can be obtained by blocking stellar photons with an occulter,
+either externally (a starshade) or internally (a coronagraph) to the telescope system, and managing
+diffracted starlight, so as to directly image the exoplanet in reected starlight. Coronagraph
+instruments require advancement in telescope aperture (either monolithic or segmented), aperture
+obscurations (obscured by secondary mirror and its support struts), and wavefront error sensitivity
+(e.g. line-of-sight jitter, telescope vibration, polarization). The starshade, which has never
+been used in a science application, benefits a mission by being decoupled from the telescope, allowing
+a loosening of telescope stability requirements. In doing so, it transfers the difficult technology
+from the telescope system to a large deployable structure (tens of meters to greater than 100 m in
+diameter) that must be positioned precisely at a distance of tens of thousands of kilometers from
+the telescope. We describe in this paper a roadmap to achieving the technological capability to
+search for biosignatures on an Earth-like exoplanet from a future space telescope. Two of these
+studies, HabEx and LUVOIR, include the direct imaging of Earth-sized habitable exoplanets as a
+central science theme. 

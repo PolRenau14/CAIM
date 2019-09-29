@@ -1,0 +1,16 @@
+The large Reynolds number asymptotic approximation of the neutral curve of Taylor-Couette flow
+subject to axial uniform magnetic field is analysed. The flow has been extensively studied since
+early 90's as the magneto-rotational instability (MRI) occurring in the flow could possibly explain
+the origin of the instability observed in certain astrophysical objects. Elsewhere the ideal approximation
+has been used to study high-speed flows, whilst it sometimes produces paradoxical results. For
+example, ideal flows must be completely stabilised for strong enough applied magnetic field, but
+on the other hand the vanishing magnetic Prandtl number limit of the stability should be purely hydrodynamic
+so instability must occur when Rayleigh's stability condition is violated. The first our discovery
+is that this apparent contradiction can be resolved by showing the abrupt appearance of the hydrodynamic
+instability at certain critical value of magnetic Prandtl number, which can be found by asymptotically
+large Reynolds number limit but with long enough wavelength to retain some diffusive effects. The
+second our finding concerns so-called Velikhov-Chandrasekhar paradox, namely the mismatch of
+the zero external magnetic field limit of the Velikhov-Chandrasekhar stability criterion and
+Rayleigh's stability criterion. We show for fully wide gap cases that the high Reynolds number asymptotic
+analysis of the MRI naturally yields the simple stability condition that describes smooth transition
+from Rayleigh to Velikhov-Chandrasekhar stability criteria with increasing Lundquist number.

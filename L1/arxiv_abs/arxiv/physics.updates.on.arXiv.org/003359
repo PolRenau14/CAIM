@@ -1,0 +1,16 @@
+Thin film condensation is commonly present in numerous natural and artificial processes. Phase-change
+driven passive heat spreaders such as heat pipes, which are widely used in electronics cooling,
+employ a continuous condensation process at the condenser region. When the wick structure of a heat
+pipe is composed of grooves, the top surfaces of the walls (fins) located between consecutive grooves
+function as the major source of condensation and the condensate flows along the fin top into the grooves.
+Modeling of this condensation problem is vital for the proper estimation of condensation heat transfer,
+which constitutes the basis for the overall performance of an heat pipe together with the evaporation
+process. In the current study, a solution methodology is developed to model the condensation and
+associated liquid flow in a fin-groove system. Conservation of mass and momentum equations, augmented
+Young-Laplace equation and Kucherov-Rikenglaz equation are solved simultaneously to calculate
+the film thickness profile. The model proposed enables the investigation of the effect of disjoining
+pressure on the film profile by keeping the fin-groove corner, where the film becomes thinnest,
+inside the solution domain. The results show that dispersion forces become effective for near isothermal
+systems with sharp fin-groove corners and the film profile experiences an abrupt change, a slope
+break, in the close proximity of the corner. The current study is the first computational confirmation
+of this behavior in the literature. 

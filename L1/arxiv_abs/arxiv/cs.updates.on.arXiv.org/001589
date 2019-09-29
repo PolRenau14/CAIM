@@ -1,0 +1,16 @@
+Similarity join, which can find similar objects (e.g., products, names, addresses) across different
+sources, is powerful in dealing with variety in big data, especially web data. Threshold-driven
+similarity join, which has been extensively studied in the past, assumes that a user is able to specify
+a similarity threshold, and then focuses on how to efficiently return the object pairs whose similarities
+pass the threshold. We argue that the assumption about a well set similarity threshold may not be
+valid for two reasons. The optimal thresholds for different similarity join tasks may vary a lot.
+Moreover, the end-to-end time spent on similarity join is likely to be dominated by a back-and-forth
+threshold-tuning process. In response, we propose preference-driven similarity join. The key
+idea is to provide several result-set preferences, rather than a range of thresholds, for a user
+to choose from. Intuitively, a result-set preference can be considered as an objective function
+to capture a user's preference on a similarity join result. Once a preference is chosen, we automatically
+compute the similarity join result optimizing the preference objective. As the proof of concept,
+we devise two useful preferences and propose a novel preference-driven similarity join framework
+coupled with effective optimization techniques. Our approaches are evaluated on four real-world
+web datasets from a diverse range of application scenarios. The experiments show that preference-driven
+similarity join can achieve high-quality results without a tedious threshold-tuning process.

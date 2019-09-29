@@ -1,0 +1,17 @@
+We use $N$-body simulations to probe the early phases of the dynamical evolution of star-forming
+regions and focus on mass and velocity distributions of unbound stars. In this parameter space study,
+we vary the initial virial ratio and degree of spatial and kinematic substructure and analyse the
+fraction of stars that become unbound in two different mass classes (above and below 8 M$_{\odot}$).
+We find that the fraction of unbound stars differs depending on the initial conditions. After 10
+Myr, in initially highly subvirial, substructured simulations, the high-mass and lower-mass
+unbound fractions are similar at $\sim$23 per cent. In initially virialised, substructured simulations,
+we find only $\sim$16 per cent of all high-mass stars are unbound, whereas $\sim$37 per cent of all
+lower-mass stars are. The velocity distributions of unbound stars only show differences for extremely
+different initial conditions. The distributions are dominated by large numbers of lower-mass
+stars becoming unbound just above the escape velocity of $\sim$3 km s$^{-1}$ with unbound high-mass
+stars moving faster on average than lower-mass unbound stars. We see no high-mass runaway stars
+(velocity > 30 km s$^{-1}$) from any of our initial conditions and only an occasional lower-mass
+runaway star from initially subvirial/substructured simulations. In our simulations, we find
+a small number of lower-mass walkaway stars (with velocity 5-30 km s$^{-1}$) from all of our initial
+conditions. These walkaway stars should be observable around many nearby star-forming regions
+with Gaia. 

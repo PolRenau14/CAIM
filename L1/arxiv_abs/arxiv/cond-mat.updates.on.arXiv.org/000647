@@ -1,0 +1,15 @@
+In 1993 Mahadevan and Keller used the Kirchhoff rod theory to predict the shape of a M\"obius band.
+Starting from the solution for a square cross-section (isotropic), they employ numerical continuation
+in the cross-sectional aspect ratio in order to approach the solution for a thin strip. Certain smoothly
+varying configurations are obtained. More recently in 2007, Starostin and van der Heijden pointed
+out that an actual M\"obius band "localizes" into a nearly flat triangular configuration as the
+ratio of the strip width to center-line circumference is no longer small. Accordingly they return
+to the developable, thin-plate model of Sadowsky and Wunderlich, obtaining such localized shapes.
+In this work we strike a middle ground between these two approaches. We employ the standard two-director
+(special) Cosserat model, and we also use the cross-sectional aspect ratio as a numerical continuation
+parameter. Nonetheless, we are able to capture both the smoothly varying shapes and the localized,
+nearly triangular configurations. Our point of departure is that we do not always employ the strength-of-materials
+formula for the torsional stiffness - a standard feature of the Kirchhoff theory. Our key observation
+comes from the usual Cosserat ansatz in light of developability, suggesting an increasing torsional
+stiffness ratio (as well as one increasing bending stiffness ratio) as the thickness becomes small.
+We demonstrate that the closed-loop configurations we obtain are stable with respect to small perturbations.

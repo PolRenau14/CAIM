@@ -1,0 +1,16 @@
+Optical fiber modal noise is a limiting factor for high precision spectroscopy signal-to-noise
+in the near-infrared and visible. Unabated, especially when using highly coherent light sources
+for wavelength calibration, modal noise can induce radial velocity (RV) errors that hinder the
+discovery of low-mass (and potentially Earth-like) planets. Previous research in this field has
+found sufficient modal noise mitigation through the use of an integrating sphere, but this requires
+extremely bright light sources, a luxury not necessarily afforded by the next generation of high-resolution
+optical spectrographs. Otherwise, mechanical agitation, which "mixes" the fiber's modal patterns
+and allows the noise to be averaged over minutes-long exposures, provides some noise reduction
+but the exact mechanism behind improvement in signal-to-noise and RV drift has not been fully explored
+or optimized by the community. Therefore, we have filled out the parameter space of modal noise agitation
+techniques in order to better understand agitation's contribution to mitigating modal noise and
+to discover a better method for agitating fibers. We find that modal noise is best suppressed by the
+quasi-chaotic motion of two high-amplitude agitators oscillating with varying phase for fibers
+with large core diameters and low azimuthal symmetry. This work has subsequently influenced the
+design of a fiber agitator, to be installed with the EXtreme PREcision Spectrograph, that we estimate
+will reduce modal-noise-induced RV error to less than 3.2 cm/s. 

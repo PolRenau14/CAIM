@@ -1,0 +1,16 @@
+In recent years, visual question answering (VQA) has become topical as a long-term goal to drive
+computer vision and multi-disciplinary AI research. The premise of VQA's significance, is that
+both the image and textual question need to be well understood and mutually grounded in order to infer
+the correct answer. However, current VQA models perhaps `understand' less than initially hoped,
+and instead master the easier task of exploiting cues given away in the question and biases in the
+answer distribution. In this paper we propose the inverse problem of VQA (iVQA), and explore its
+suitability as a benchmark for visuo-linguistic understanding. The iVQA task is to generate a question
+that corresponds to a given image and answer pair. Since the answers are less informative than the
+questions, and the questions have less learnable bias, an iVQA model needs to better understand
+the image to be successful. We pose question generation as a multi-modal dynamic inference process
+and propose an iVQA model that can gradually adjust its focus of attention guided by both a partially
+generated question and the answer. For evaluation, apart from existing linguistic metrics, we
+propose a new ranking metric. This metric compares the ground truth question's rank among a list
+of distractors, which allows the drawbacks of different algorithms and sources of error to be studied.
+Experimental results show that our model can generate diverse, grammatically correct and content
+correlated questions that match the given answer. 

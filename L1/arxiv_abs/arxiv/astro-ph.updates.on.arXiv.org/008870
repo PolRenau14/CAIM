@@ -1,0 +1,16 @@
+A possible way to disentangle the redshifted 21 cm signal of neutral hydrogen (HI) in the Epoch of
+Reionization (EoR) from the much larger astrophysical foregrounds is to restrict the analysis
+to a wedge-shaped region in the Fourier space. The foregrounds are confined to this wedge because
+of their smooth spectral properties which allows one to estimate the HI power spectrum in the foreground-free
+portion, known as the reionization window. The estimate of the spherically averaged power spectrum
+in the window, however, differs from the true value because of the line of sight anisotropies in the
+signal. The difference can be estimated and taken into account for a given reion- ization model by
+expanding the power spectrum in terms of the Legendre polynomials. This corrected power spectrum,
+called as the clustering wedges, can then be used for comparing the model predictions with the observations.
+In this work, we carefully ex- amine whether the clustering wedges are appropriate for such model
+comparisons and whether they provide truly unbiased constraints on the EoR parameters. We use the
+excursion-set based semi-numerical simulations, coupled with MCMC-based statistical methods,
+for our analysis. We find that the clustering wedges not only yield faithful constraints, the statistical
+uncertainties on the parameter values too are comparable to those obtained using the data without
+the presence of any foregrounds. We also find that the clustering wedges are helpful in breaking
+the degeneracies between different EoR model parameters. 

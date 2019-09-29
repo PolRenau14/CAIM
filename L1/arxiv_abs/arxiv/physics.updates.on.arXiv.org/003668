@@ -1,0 +1,16 @@
+We consider the one-dimensional Schroedinger equation on a ring, with the cubic term, of either
+self-attractive or repulsive sign, confined to a narrow segment. This setting can be realized in
+optics and Bose-Einstein condensates. For the nonlinearity coefficient represented by the delta-function,
+all stationary states are obtained in an exact analytical form. The states with positive chemical
+potentials are found in alternating bands for the cases of the self-repulsion and attraction, while
+solutions with negative chemical potentials exist only in the latter case. These results provide
+a possibility to obtain exact solutions for bandgap states in the nonlinear system. Approximating
+the delta-function by a narrow Gaussian, stability of the stationary modes is addressed through
+numerical computation of eigenvalues for small perturbations, and verified by simulations of
+the perturbed evolution. For positive chemical potentials, the stability is investigated in three
+lowest bands. In the case of the self-attraction, each band contains a stable subband, the transition
+to instability occurring with the increase of the total norm. As a result, multi-peak states may
+be stable in higher bands. In the case of the self-repulsion, a single-peak ground state is stable
+in the first band, while the two higher ones are populated by weakly unstable two- and four-peak excited
+states. In the case of the self-attraction and negative chemical potentials, single-peak modes
+feature instability which transforms them into persistently oscillating states. 

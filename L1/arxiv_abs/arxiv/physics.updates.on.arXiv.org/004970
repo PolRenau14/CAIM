@@ -1,0 +1,17 @@
+In this paper, we extend the unified gas-kinetic wave-particle (UGKWP) method to the multiscale
+photon transport. In this method, the photon free streaming and scattering processes are treated
+in an un-splitting way. The duality descriptions, namely the simulation particle and distribution
+function, are utilized to describe the photon. By accurately recovering the governing equations
+of the unified gas-kinetic scheme (UGKS), the UGKWP preserves the multiscale dynamics of photon
+transport from optically thin to optically thick regime. In the optically thin regime, the UGKWP
+becomes a Monte Carlo type particle tracking method, while in the optically thick regime, the UGKWP
+becomes a diffusion equation solver. The local photon dynamics of the UGKWP, as well as the proportion
+of wave-described and particle-described photons are automatically adapted according to the
+numerical resolution and transport regime. Compared to the $S_n$ -type UGKS, the UGKWP requires
+less memory cost and does not suffer ray effect. Compared to the implicit Monte Carlo (IMC) method,
+the statistical noise of UGKWP is greatly reduced and computational efficiency is significantly
+improved in the optically thick regime. Several numerical examples covering all transport regimes
+from the optically thin to optically thick are computed to validate the accuracy and efficiency
+of the UGKWP method. In comparison to the $S_n$ -type UGKS and IMC method, the UGKWP method may have
+several-order-of-magnitude reduction in computational cost and memory requirement in solving
+some multsicale transport problems. 

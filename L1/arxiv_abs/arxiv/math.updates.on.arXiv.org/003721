@@ -1,0 +1,16 @@
+A new symbolic algorithmic implementation of the functional-discrete (FD-) method is developed
+and justified for the Sturm-Liouville problem on a finite interval in the Hilbert space for the fourth
+order ordinary differential equation with polynomial coefficients. The sufficient conditions
+of an exponential convergence rate of the proposed approach are received. The obtained estimates
+of the absolute errors of FD-method significantly improve the accuracy of the estimates obtained
+earlier. The proposed algorithm of our method is developed when the potential functions are approximated
+by the identically zero, and for this case, FD-method can be considered as one of the variants of the
+homotopy method. Our algorithm is symbolic and operates with the decomposition coefficients of
+the eigenfunction corrections in some basis. The number of summands in these decompositions depends
+on the degree of the potential coefficients and the correction number. Our method uses only the algebraic
+operations and basic operations on $(2\times 1)$ column vectors and $(2\times 2)$ matrices and
+does not need solutions of any boundary value problems and computations of any integrals, unlike
+the previous variants of FD-method. The corrections to eigenpairs are computed exactly as analytical
+expressions, and we have no rounding errors. The numerical examples illustrate the theoretical
+results. The numerical results obtained with the FD-method are compared with the numerical test
+results obtained with other existing numerical techniques. 

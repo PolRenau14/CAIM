@@ -1,0 +1,16 @@
+Linear optimal power flow (LOPF) algorithms use a linearization of the alternating current (AC)
+load flow equations to optimize generator dispatch in a network subject to the loading constraints
+of the network branches. Common algorithms use the voltage angles at the buses as optimization variables,
+but alternatives can be computationally advantageous. In this article we provide a review of existing
+methods and describe a new formulation that expresses the loading constraints directly in terms
+of the flows themselves, using a decomposition of the network graph into a spanning tree and closed
+cycles. We provide a comprehensive study of the computational performance of the various formulations,
+in settings that include computationally challenging applications such as multi-period LOPF
+with storage dispatch and generation capacity expansion. We show that the new formulation of the
+LOPF solves up to 7 times faster than the angle formulation using a commercial linear programming
+solver, while another existing cycle-based formulation solves up to 20 times faster, with an average
+speed-up of factor 3 for the standard networks considered here. If generation capacities are also
+optimized, the average speed-up rises to a factor of 12, reaching up to factor 213 in a particular
+instance. The speed-up is largest for networks with many buses and decentral generators throughout
+the network, which is highly relevant given the rise of distributed renewable generation and the
+computational challenge of operation and planning in such networks. 

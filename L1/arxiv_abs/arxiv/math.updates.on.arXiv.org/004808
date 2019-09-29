@@ -1,0 +1,16 @@
+Respondent-driven sampling (RDS) is a popular approach to study marginalized or hard-to-reach
+populations. It collects samples from a networked population by incentivizing participants to
+refer their friends into the study. One major challenge in analyzing RDS samples is seed bias. Seed
+bias refers to the fact that when the social network is divided into multiple communities (or blocks),
+the RDS sample might not provide a balanced representation of the different communities in the population,
+and such unbalance is correlated with the initial participant (or the seed). In this case, the distributions
+of estimators are typically non-trivial mixtures, which are determined (1) by the seed and (2) by
+how the referrals transition from one block to another. This paper shows that (1) block-transition
+probabilities are easy to estimate with high accuracy, and (2) we can use these estimated block-transition
+probabilities to estimate the stationary distribution over blocks and thus, an estimate of the
+block proportions. This stationary distribution on blocks has previously been used in the RDS literature
+to evaluate whether the sampling process has appeared to `mix'. We use these estimated block proportions
+in a simple post-stratified (PS) estimator that greatly diminishes seed bias. By aggregating over
+the blocks/strata in this way, we prove that the PS estimator is $\sqrt{n}$-consistent under a Markov
+model, even when other estimators are not. Simulations show that the PS estimator has smaller Root
+Mean Square Error (RMSE) compared to the state-of-the-art estimators. 

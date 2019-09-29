@@ -1,0 +1,17 @@
+We present fully three-dimensional magnetohydrodynamic jet launching simulations of a jet source
+orbiting in a binary system. We consider a time-dependent binary gravitational potential, thus
+all tidal forces that are experienced in the non-inertial frame of the jet-launching primary. We
+investigate systems with different binary separation, different mass ratio, and different inclination
+between the disk plane and the orbital plane. The simulations run over a substantial fraction of
+the binary orbital period. All simulations show similar local and global non-axisymmetric effects
+such as local instabilities in the disk and the jet, or global features such as disk spiral arms and
+warps, or a global re-alignment of the inflow-outflow structure. The disk accretion rate is higher
+than for axisymmetric simulations, most probably due to the enhanced angular momentum transport
+by spiral waves. The disk outflow leaves the Roche lobe of the primary and becomes disturbed by tidal
+effects. While a disk-orbit inclination of $10\degr$ still allows for a persistent outflow, an
+inclination of $30\degr$ does not, suggesting a critical angle in between. For moderate inclination
+we find indication for jet precession such that the jet axis starts to follow a circular pattern with
+an opening cone of $\simeq 8\degr$. Simulations with different mass ratio indicate a change of time
+scales for the tidal forces to affect the disk-jet system. A large mass ratio (a massive secondary)
+leads to stronger spiral arms, a higher (average) accretion and a more pronounced jet-counter jet
+asymmetry. 

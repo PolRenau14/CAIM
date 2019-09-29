@@ -1,0 +1,16 @@
+We measure the total mass-density profiles out to three effective radii for a sample of 63 $z \sim
+0.5$, massive early-type galaxies (ETGs) acting as strong gravitational lenses through a joint
+analysis of lensing and stellar dynamics. The compilation is selected from three galaxy-scale
+strong-lens samples including the Baryon Oscillation Spectroscopic Survey (BOSS) Emission-Line
+Lens Survey (BELLS), BELLS for GALaxy-Ly$\alpha$ EmitteR sYstems Survey, and Strong Lensing Legacy
+Survey (SL2S). Utilizing the wide source-redshift coverage (0.8--3.5) provided by these three
+samples, we build a statistically significant ensemble of massive ETGs for which robust mass measurements
+can be achieved within a broad range of Einstein radii up to three effective radii. Characterizing
+the three-dimensional total mass-density distribution by a power-law profile as $\rho \propto
+r^{-\gamma}$, we find that the average logarithmic density slope for the entire sample is $\langle\gamma\rangle=2.000_{-0.032}^{+0.033}$
+($68\%$CL) with an intrinsic scatter $\delta=0.180_{-0.028}^{+0.032}$. Further parameterizing
+$\langle\gamma\rangle$ as a function of redshift $z$ and ratio of Einstein radius to effective
+radius $R_{ein}/R_{eff}$, we find the average density distributions of these massive ETGs become
+steeper at larger radii and later cosmic times with magnitudes $\mathrm{d} \langle\gamma\rangle
+/ \mathrm{d}z = -0.309_{-0.160}^{+0.166}$ and $\mathrm{d} \langle\gamma\rangle / \mathrm{d}
+\log_{10} \frac{R_{ein}}{R_{eff}} = 0.194_{-0.083}^{+0.092}$. 

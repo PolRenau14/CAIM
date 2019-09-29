@@ -1,0 +1,16 @@
+The main contribution of this paper is a new submap joining based approach for solving large-scale
+Simultaneous Localization and Mapping (SLAM) problems. Each local submap is independently built
+using the local information through solving a small-scale SLAM; the joining of submaps mainly involves
+solving linear least squares and performing nonlinear coordinate transformations. Through approximating
+the local submap information as the state estimate and its corresponding information matrix, judiciously
+selecting the submap coordinate frames, and approximating the joining of a large number of submaps
+by joining only two maps at a time, either sequentially or in a more efficient Divide and Conquer manner,
+the nonlinear optimization process involved in most of the existing submap joining approaches
+is avoided. Thus the proposed submap joining algorithm does not require initial guess or iterations
+since linear least squares problems have closed-form solutions. The proposed Linear SLAM technique
+is applicable to feature-based SLAM, pose graph SLAM and D-SLAM, in both two and three dimensions,
+and does not require any assumption on the character of the covariance matrices. Simulations and
+experiments are performed to evaluate the proposed Linear SLAM algorithm. Results using publicly
+available datasets in 2D and 3D show that Linear SLAM produces results that are very close to the best
+solutions that can be obtained using full nonlinear optimization algorithm started from an accurate
+initial guess. The C/C++ and MATLAB source codes of Linear SLAM are available on OpenSLAM. 

@@ -1,0 +1,16 @@
+The last decade has witnessed the success of a number of \emph{massive parallel computation} (MPC)
+frameworks, such as MapReduce, Hadoop, Dryad, or Spark. These frameworks allow for much more local
+memory and computation, compared to the classical distributed or PRAM models. In this context,
+we investigate the complexity of one of the most fundamental graph problems: \emph{Maximum Matching}.
+We show that if the memory per machine is $\Omega(n)$ (or even only $n/(\log n)^{O(\log \log n)}$),
+then for any fixed constant $\epsilon > 0$, one can compute a $(2+\epsilon)$-approximation to Maximum
+Matching in $O\left((\log \log n)^2\right)$ MPC rounds. This constitutes an exponential improvement
+over previous work---both the one designed specifically for MPC and the one obtained via connections
+to PRAM or distributed algorithms---which required $\Theta(\log n)$ rounds to achieve similar
+approximation guarantees. The starting point of our result is a (distributed) algorithm that computes
+an $O(1)$-approximation in $O(\log n)$ parallel phases. Its straightforward MPC implementation
+requires $\Theta(\log n)$ rounds. Our exponential speedup stems from compressing several phases
+of a modified version of this algorithm into a constant number of MPC rounds. We obtain this via a careful
+analysis of controlled randomness, which enables the emulation of multiple phases on separate
+machines without any coordination between them. We leave it as an intriguing open question whether
+a similar speedup can be obtained for other PRAM and distributed graph algorithms. 

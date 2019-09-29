@@ -1,0 +1,16 @@
+Passwords are undoubtedly the most dominant user authentication mechanism on the web today. Although
+they are inexpensive and easy-to-use, security concerns of password-based authentication are
+serious. Phishing and theft of password databases are two critical concerns. The tendency of users
+to re-use passwords across different services exacerbates the impact of these two concerns. Current
+solutions addressing these concerns are not fully satisfactory: they typically address only one
+of the two concerns; they do not protect passwords from rogue servers; they do not provide any verifiable
+evidence of their (server-side) adoption to users; and they face deployability challenges in terms
+of the cost for service providers and/or ease-of-use for end users. We present SafeKeeper, a comprehensive
+approach to protect the confidentiality of passwords in web authentication systems. Unlike previous
+approaches, SafeKeeper protects user passwords against very strong adversaries, including rogue
+servers and sophisticated external phishers. It is relatively inexpensive to deploy as it (i) uses
+widely available hardware security mechanisms like Intel SGX, (ii) is integrated into popular
+web platforms like WordPress, and (iii) has small performance overhead. We describe a variety of
+challenges in designing and implementing such a system, and how we overcome them. Through an 86-participant
+user study, and systematic analysis and experiments, we demonstrate the usability, security and
+deployability of SafeKeeper, which is available as open-source. 

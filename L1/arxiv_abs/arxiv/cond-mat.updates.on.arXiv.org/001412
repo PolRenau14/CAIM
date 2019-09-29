@@ -1,0 +1,16 @@
+We examine the dispersion of Brownian particles in a symmetric two dimensional channel, this classical
+problem has been widely studied in the literature using the so called Fick-Jacobs' approximation
+and its various improvements. Most studies rely on the reduction to an effective one dimensional
+diffusion equation, here we drive an explicit formula for the diffusion constant which avoids this
+reduction. Using this formula the effective diffusion constant can be evaluated numerically without
+resorting to Brownian simulations. In addition a perturbation theory can be developed in $\varepsilon
+= h_0/L$ where $h_0$ is the characteristic channel height and $L$ the period. This perturbation
+theory confirms the results of Kalinay and Percus (Phys. Rev. E 74, 041203 (2006)), based on the reduction,
+to one dimensional diffusion are exact at least to ${\cal O}(\varepsilon^6)$. Furthermore, we
+show how the Kalinay and Percus pseudo-linear approximation can be straightforwardly recovered.
+The approach proposed here can also be exploited to yield exact results an appropriate limit $\varepsilon
+\to \infty$, we show that here the diffusion constant remains finite and show how the result can be
+obtained with a simple physical argument. Moreover we show that the correction to the effective
+diffusion constant is of order $1/\varepsilon$ and remarkably has a some universal characteristics.
+Numerically we compare the analytical results obtained with exact numerical calculations for
+a number of interesting channel geometries. 

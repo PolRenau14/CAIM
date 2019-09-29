@@ -1,0 +1,16 @@
+Cool spots on the surface of magnetically-active stars modulate their observed brightnesses and
+temperatures, thereby affecting the stellar locus on the H-R diagram. Recent high precision space-based
+photometric surveys reveal the rotational modulation from spots on stars in young clusters, including
+K2 monitoring of the 125-Myr-old Pleiades cluster. However, lightcurves reveal only the asymmetries
+in the visible spot distributions rather than the total sizes of spots on stellar surfaces, which
+causes a discrepancy between the spot coverage measured by photometric and spectroscopic observations.
+In this paper, we simulate photometric variability introduced by randomly-distributed starspots
+on a 125-Myr-old coeval cluster. Our simulation results show that randomly distributed small spots
+on the stellar surface would explain this discrepancy that the photometric observations only reveal
+10% to 40% of the spot coverage measured by spectra. The colors and luminosities of photospheres
+are modeled for a range of photospheric temperature, spot coverage, and spot temperature. The colors
+and luminosities of a simulated population are then compared to the luminosity spread of Pleiades
+members, excluding the 25% of candidates that are identified as non-members with Gaia DR2 astrometry.
+The observed luminosities of Pleiades members have a standard deviation of 0.05 dex, which could
+be entirely explained by spots with a star-to-star standard deviation of spot coverage of 10%, but
+with an average coverage area that is not well constrained. 

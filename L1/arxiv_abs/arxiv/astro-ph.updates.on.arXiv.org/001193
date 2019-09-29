@@ -1,0 +1,16 @@
+Despite the recent rapid progress in numerical relativity, a convergence order less than the second
+has so far plagued codes solving the Einstein-Euler system of equations. We report simulations
+of the inspiral of binary neutron stars in quasi-circular orbits computed with a new code employing
+high-order, high-resolution shock-capturing, finite-differencing schemes that, for the first
+time, go beyond the second-order barrier. In particular, without any tuning or alignment, we measure
+a convergence order above three both in the phase and in the amplitude of the gravitational waves.
+Because the new code is able to calculate waveforms with very small phase errors already at modest
+resolutions, we are able to obtain accurate estimates of tidal effects in the inspiral that are essentially
+free from the large numerical viscosity typical of lower-order methods, and even for the challenging
+large compactness and small-deformability binary considered here. We find a remarkable agreement
+between our Richardson-extrapolated waveform and the one from the tidally corrected post-Newtonian
+(PN) Taylor-T4 model, with a de-phasing smaller than 0.2 radians during the seven orbits of the inspiral
+and up to the contact point. Because our results can be used reliably to assess the validity of the
+PN or other approximations at frequencies significantly larger than those considered so far in
+the literature, they seem to exclude at these compactnesses significant tidal amplifications
+from next-to-next-to-leading--order terms in the PN expansion. 

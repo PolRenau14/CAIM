@@ -1,0 +1,17 @@
+Nanomechanical resonators based on strained silicon nitride (Si3N4) have received a large amount
+of attention in fields such as sensing and quantum optomechanics due to their exceptionally high
+quality factors (Qs). Room-temperature Qs approaching 1 billion are now in reach by means of phononic
+crystals (soft-clamping) and strain engineering. Despite great progress in enhancing Qs, difficulties
+in fabrication of soft-clamped samples limits their implementation into actual devices. An alternative
+means of achieving ultra-high Qs was shown using trampoline resonators with engineered clamps,
+which serves to localize the stress to the center of the resonator, while minimizing stress at the
+clamping. The effectiveness of this approach has since come into question from recent studies employing
+string resonators with clamp-tapering. Here, we investigate this idea using nanomechanical string
+resonators with engineered clampings similar to those presented for trampolines. Importantly,
+the effect of orienting the strings diagonally or perpendicularly with respect to the silicon frame
+is investigated. It is found that increasing the clamp width for diagonal strings slightly increases
+the Qs of the fundamental out-of-plane mode at small radii, while perpendicular strings only deteriorate
+with increasing clamp width. Measured Qs agree well with finite-element method simulations even
+for higher-order resonances. The small increase cannot account for previously reported Qs of trampoline
+resonators. Instead, we propose the effect to be intrinsic and related to surface and radiation
+losses. 

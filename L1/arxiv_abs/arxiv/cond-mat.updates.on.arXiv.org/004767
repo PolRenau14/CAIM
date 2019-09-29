@@ -1,0 +1,16 @@
+Exploration of structure-property relationships as a function of dopant concentration is commonly
+based on mean field theories for solid solutions. However, such theories that work well for semiconductors
+tend to fail in materials with strong correlations, either in electronic behavior or chemical segregation.
+In these cases, the details of atomic arrangements are generally not explored and analyzed. The
+knowledge of the generative physics and chemistry of the material can obviate this problem, since
+defect configuration libraries as stochastic representation of atomic level structures can be
+generated, or parameters of mesoscopic thermodynamic models can be derived. To obtain such information
+for improved predictions, we use data from atomically resolved microscopic images that visualize
+complex structural correlations within the system and translate them into statistical mechanical
+models of structure formation. Given the significant uncertainties about the microscopic aspects
+of the material's processing history along with the limited number of available images, we combine
+model optimization techniques with the principles of statistical hypothesis testing. We demonstrate
+the approach on data from a series of atomically-resolved scanning transmission electron microscopy
+images of Mo$_x$Re$_{1-x}$S$_2$ at varying ratios of Mo/Re stoichiometries, for which we propose
+an effective interaction model that is then used to generate atomic configurations and make testable
+predictions at a range of concentrations and formation temperatures. 

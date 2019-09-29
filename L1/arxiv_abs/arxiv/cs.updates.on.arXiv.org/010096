@@ -1,0 +1,16 @@
+Deep Neural Networks (DNNs) have been established as the state-of-the-art algorithm for advanced
+machine learning applications. Recently, CapsuleNets have improved the generalization ability,
+as compared to DNNs, due to their multi-dimensional capsules. However, they pose high computational
+and memory requirements, which makes energy-efficient inference a challenging task. In this paper,
+we perform an extensive analysis to demonstrate their key limitations due to intense memory accesses
+and large on-chip memory requirements. To enable efficient CaspuleNet inference accelerators,
+we propose a specialized on-chip memory hierarchy which minimizes the off-chip memory accesses,
+while efficiently feeding the data to the accelerator. We analyze the on-chip memory requirements
+for each memory component of the architecture. By leveraging this analysis, we propose a methodology
+to explore different on-chip memory designs and a power-gating technique to further reduce the
+energy consumption, depending upon the utilization across different operations of a CapsuleNet.
+Our memory designs can significantly reduce the energy consumption of the on-chip memory by up to
+86%, when compared to a state-of-the-art memory design. Since the power consumption of the memory
+elements is the major contributor in the power breakdown of the CapsuleNet accelerator, as we will
+also show in our analyses, the proposed memory design can effectively reduce the overall energy
+consumption of the complete CapsuleNet accelerator architecture. 

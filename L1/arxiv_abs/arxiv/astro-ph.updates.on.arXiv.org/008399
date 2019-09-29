@@ -1,0 +1,17 @@
+In this paper, we investigate the evolution of intermediate mass (IMBHs) and stellar single (BH)
+and black hole binaries (BHBs) orbiting a supermassive black hole (SMBH) with mass $10^8$ M$_\odot$.
+We focused on the possibility that IMBHs and BHBs are delivered toward the SMBH by a population of
+massive star clusters (GCs), either formed locally or orbitally segregated due to dynamical friction.
+Our simulations show that the GC infall process leads to an efficient segregation of compact remnants
+around the SMBH, that drives an increase of the extreme-mass ratio inspirals (EMRIs) events. We
+estimated an EMRIs coalescence rate of $\Gamma= 1.33$ yr$^{-1}$ Gpc$^{-3}$ at redshift $z=0$,
+comparable with the value expected for strongly mass-segregated galactic nuclei. We show that
+if a few IMBHs are delivered from the infalling GCs around the SMBH, their subsequent evolution leads
+to at least one IMBH-SMBH merger event per galaxy, finding a merger rate $\Gamma =0.03$ yr$^{-1}$
+Gpc$^{-3}$. We also investigated how an IMBH affects the evolution of a BHB: either driving its disruption,
+merging with one of the components (rate $\Gamma =2$ yr$^{-1}$ Gpc$^{-3}$), or boosting the BHB
+coalescence (rate $\Gamma =9.5$ yr$^{-1}$ Gpc$^{-3}$). As a further side effect, the SMBH boosts
+the coalescence of delivered BHB, leading to a coalescence rate $\Gamma =1$ yr$^{-1}$ Gpc$^{-3}$.
+All our simulations were run with ARGdf, an extension of the ARCHAIN few-body integrator, that implements
+a treatment for close encounters, post-Newtonian terms as well as the effect of an external potential
+and dynamical friction. 

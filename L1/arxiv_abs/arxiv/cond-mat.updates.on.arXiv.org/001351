@@ -1,0 +1,16 @@
+Functional spintronic devices rely on spin-charge interconversion effects, such as the reciprocal
+processes of electric field-driven spin torque and magnetization dynamics-driven spin and charge
+flow. Both damping-like and field-like spin-orbit torques have been observed in the forward process
+of current-driven spin torque and damping-like inverse spin-orbit torque has been well-studied
+via spin pumping into heavy metal layers. Here we demonstrate that established microwave transmission
+spectroscopy of ferromagnet/normal metal bilayers under ferromagnetic resonance can be used
+to inductively detect the AC charge currents driven by the inverse spin-charge conversion processes.
+This technique relies on vector network analyzer ferromagnetic resonance (VNA-FMR) measurements.
+We show that in addition to the commonly-extracted spectroscopic information, VNA-FMR measurements
+can be used to quantify the magnitude and phase of all AC charge currents in the sample, including
+those due to spin pumping and spin-charge conversion. Our findings reveal that Ni$_{80}$Fe$_{20}$/Pt
+bilayers exhibit both damping-like and field-like inverse spin-orbit torques. While the magnitudes
+of both the damping-like and field-like inverse spin-orbit torque are of comparable scale to prior
+reported values for similar material systems, we observed a significant dependence of the damping-like
+magnitude on the order of deposition. This suggests interface quality plays an important role in
+the overall strength of the damping-like spin-to-charge conversion. 

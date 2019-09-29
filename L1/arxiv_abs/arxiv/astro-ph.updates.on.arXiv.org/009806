@@ -1,0 +1,17 @@
+The Initial Mass Function (IMF) for massive galaxies can be constrained by combining stellar dynamics
+with strong gravitational lensing. However, this method is limited by degeneracies between the
+density profile of dark matter and the stellar mass-to-light ratio. In this work we reduce this degeneracy
+by combining weak lensing together with strong lensing and stellar kinematics. Our analysis is
+based on two galaxy samples: 45 strong lenses from the SLACS survey and 1,700 massive quiescent galaxies
+from the SDSS main spectroscopic sample with weak lensing measurements from the Hyper Suprime-Cam
+survey. We use a Bayesian hierarchical approach to jointly model all three observables. We fit the
+data with models of varying complexity and show that a model with a radial gradient in the stellar
+mass-to-light ratio is required to simultaneously describe both galaxy samples. This result is
+driven by a subset of strong lenses with very steep total density profile, that cannot be fitted by
+models with no gradient. Our measurements are unable to determine whether $M_*/L$ gradients are
+due to variations in stellar population parameters at fixed IMF, or to gradients in the IMF itself.
+The inclusion of $M_*/L$ gradients decreases dramatically the inferred IMF normalisation, compared
+to previous lensing-based studies, with the exact value depending on the assumed dark matter profile.
+The main effect of strong lensing selection is to shift the stellar mass distribution towards the
+high mass end, while the halo mass and stellar IMF distribution at fixed stellar mass are not significantly
+affected. 

@@ -1,0 +1,17 @@
+Simplifying machine learning (ML) application development, including distributed computation,
+programming interface, resource management, model selection, etc, has attracted intensive interests
+recently. These research efforts have significantly improved the efficiency and the degree of
+automation of developing ML models. In this paper, we take a first step in an orthogonal direction
+towards automated quality management for human-in-the-loop ML application development. We build
+ease. ml/meter, a system that can automatically detect and measure the degree of overfitting during
+the whole lifecycle of ML application development. ease. ml/meter returns overfitting signals
+with strong probabilistic guarantees, based on which developers can take appropriate actions.
+In particular, ease. ml/meter provides principled guidelines to simple yet nontrivial questions
+regarding desired validation and test data sizes, which are among commonest questions raised by
+developers. The fact that ML application development is typically a continuous procedure further
+worsens the situation: The validation and test data sets can lose their statistical power quickly
+due to multiple accesses, especially in the presence of adaptive analysis. ease. ml/meter addresses
+these challenges by leveraging a collection of novel techniques and optimizations, resulting
+in practically tractable data sizes without compromising the probabilistic guarantees. We present
+the design and implementation details of ease. ml/meter, as well as detailed theoretical analysis
+and empirical evaluation of its effectiveness. 

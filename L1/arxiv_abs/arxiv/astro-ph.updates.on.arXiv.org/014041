@@ -1,0 +1,16 @@
+If the alpha effect plays a role in the generation of the Sun's magnetic field, the field should show
+evidence of magnetic helicity of opposite signs at large and small length scales. Measuring this
+faces two challenges: (i) in weak-field regions, horizontal field measurements are unreliable
+because of the pi ambiguity, and (ii) one needs a truly global approach to computing helicity spectra
+in the case where one expects a sign reversal across the equator at all wavenumbers. Here we develop
+such a method using spin-2 spherical harmonics to decompose the linear polarization in terms of
+the parity-even and parity-odd E and B polarizations, respectively. Using simple one- and two-dimensional
+models, we show that the product of the spectral decompositions of E and B, taken at spherical harmonic
+degrees that are shifted by one, is a good proxy of the magnetic helicity. We then apply this method
+to the analysis of solar synoptic vector magnetograms, from which we extract a pseudo-polarization
+corresponding to a ``pi-ambiguated'' magnetic field, i.e., a magnetic field vector that has no
+arrow. We find opposite signs of the global helicity proxy for spherical harmonic degrees larger
+or smaller than around 10, which corresponds to an effective wavenumber of around 0.014 Mm^{-1}.
+We argue that our global two-scale helicity proxy constitutes a new powerful measure that is worth
+applying routinely and over many more synoptic vector magnetograms. It might also be applicable
+to stellar and Galactic polarization data. 

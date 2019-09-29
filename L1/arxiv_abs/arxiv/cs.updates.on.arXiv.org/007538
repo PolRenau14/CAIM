@@ -1,0 +1,16 @@
+Cryptocurrencies and their foundation technology, the Blockchain, are reshaping finance and
+economics, allowing a decentralized approach enabling trusted applications with no trusted counterpart.
+More recently, the Blockchain and the programs running on it, called Smart Contracts, are also finding
+more and more applications in all fields requiring trust and sound certifications. Some people
+have come to the point of saying that the "Blockchain revolution" can be compared to that of the Internet
+and the Web in their early days. As a result, all the software development revolving around the Blockchain
+technology is growing at a staggering rate. The feeling of many software engineers about such huge
+interest in Blockchain technologies is that of unruled and hurried software development, a sort
+of competition on a first-come-first-served basis which does not assure neither software quality,
+nor that the basic concepts of software engineering are taken into account. This paper tries to cope
+with this issue, proposing a software development process to gather the requirement, analyze,
+design, develop, test and deploy Blockchain applications. The process is based on several Agile
+practices, such as User Stories and iterative and incremental development based on them. However,
+it makes also use of more formal notations, such as some UML diagrams describing the design of the
+system, with additions to represent specific concepts found in Blockchain development. The method
+is described in good detail, and an example is given to show how it works. 

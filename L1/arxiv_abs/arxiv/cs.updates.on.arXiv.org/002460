@@ -1,0 +1,16 @@
+For a set $A$ of $n$ people and a set $B$ of $m$ items, with each person having a preference list that
+ranks some items in order of preference, we consider the problem of matching every person with a unique
+item. A matching $M$ is called \textit{popular} if for any other matching $M'$, the number of people
+who prefer $M$ to $M'$ is not less than the number of those who prefer $M'$ to $M$. For given $n$ and $m$,
+consider the probability of existence of a popular matching when each person's preference list
+is independently and uniformly generated at random. Previously, Mahdian showed that in the case
+that people's preference lists are \textit{strict} (containing no ties) and \textit{complete}
+(containing all items in $B$), if $\alpha = m/n > \alpha_*$, where $\alpha_* \approx 1.42$ is the
+root of equation $x^2 = e^{1/x}$, then a popular matching exists with probability $1-o(1)$; and
+if $\alpha < \alpha_*$, then a popular matching exists with probability $o(1)$. The point $\alpha_*$
+can be regarded as a transition point, at which the probability rises from asymptotically zero to
+asymptotically one. In this paper, we investigate transition points in more general cases when
+people's preference lists are not complete. In particular, we show that in the case that each person
+has a preference list of length $k$, if $\alpha > \alpha_k$, where $\alpha_k \geq 1$ is the root of
+equation $x e^{-1/2x} = 1-(1-e^{-1/x})^{k-1}$, then a popular matching exists with probability
+$1-o(1)$; and if $\alpha < \alpha_k$, then a popular matching exists with probability $o(1)$. 

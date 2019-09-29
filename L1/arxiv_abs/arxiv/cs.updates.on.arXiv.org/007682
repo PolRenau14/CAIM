@@ -1,0 +1,16 @@
+Dynamic ensemble selection systems work by estimating the level of competence of each classifier
+from a pool of classifiers. Only the most competent ones are selected to classify a given test sample.
+This is achieved by defining a criterion to measure the level of competence of a base classifier,
+such as, its accuracy in local regions of the feature space around the query instance. However, using
+only one criterion about the behavior of a base classifier is not sufficient to accurately estimate
+its level of competence. In this paper, we present a novel dynamic ensemble selection framework
+using meta-learning. We propose five distinct sets of meta-features, each one corresponding to
+a different criterion to measure the level of competence of a classifier for the classification
+of input samples. The meta-features are extracted from the training data and used to train a meta-classifier
+to predict whether or not a base classifier is competent enough to classify an input instance. During
+the generalization phase, the meta-features are extracted from the query instance and passed down
+as input to the meta-classifier. The meta-classifier estimates, whether a base classifier is competent
+enough to be added to the ensemble. Experiments are conducted over several small sample size classification
+problems, i.e., problems with a high degree of uncertainty due to the lack of training data. Experimental
+results show the proposed meta-learning framework greatly improves classification accuracy
+when compared against current state-of-the-art dynamic ensemble selection techniques. 

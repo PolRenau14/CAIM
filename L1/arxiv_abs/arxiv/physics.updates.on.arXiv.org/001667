@@ -1,0 +1,16 @@
+We investigate drag reduction due to the flow-induced reconfiguration of a flexible thin plate
+in presence of skin friction drag at low Reynolds Number. The plate is subjected to a uniform free
+stream and is tethered at one end. We extend existing models in the literature to account for the skin
+friction drag. The total drag on the plate with respect to a rigid upright plate decreases due to flow-induced
+reconfiguration and further reconfiguration increases the total drag due to increase in skin friction
+drag. A critical value of Cauchy number ($Ca$) exists at which the total drag on the plate with respect
+to a rigid upright plate is minimum at a given Reynolds number. The reconfigured shape of the plate
+for this condition is unique, beyond which the total drag increases on the plate even with reconfiguration.
+The ratio of the form drag coefficient for an upright rigid plate and skin drag coefficient for a horizontal
+rigid plate ($\lambda$) determines the critical Cauchy number ($Ca_{cr}$). We propose modification
+in the drag scaling with free stream velocity ($F_{x}$ ${\propto}$ $U^{n}$) in presence of the skin
+friction drag. The following expressions of $n$ are found for $0.01 \leq Re \leq 1$, $n = 4/5 + {\lambda}/5$
+for 1 $\leq$ $Ca$ $<$ $Ca_{cr}$ and $n = 1 + {\lambda}/5$ for $Ca_{cr} \leq Ca \leq 300$, where $Re$
+is Reynolds number. We briefly discuss the combined effect of the skin friction drag and buoyancy
+on the drag reduction. An assessment of the feasibility of experiments is presented in order to translate
+the present model to physical systems. 

@@ -1,0 +1,16 @@
+In this paper, motivated by the observation that the Standard Model predictions are now above the
+experimental data for the mass difference $\Delta M_{s(d)}$, we perform a detailed study of $B_{s(d)}-\bar{B}_{s(d)}$
+mixing and $B_s\to\mu^+\mu^-$ decay in the $\mathbb{Z}_3$-invariant NMSSM with non-minimal
+flavour violation, using the recently developed procedure based on the Flavour Expansion Theorem,
+with which one can perform a purely algebraic mass-insertion expansion of an amplitude written
+in the mass eigenstate basis without performing any diagrammatic calculations in the interaction/flavour
+basis. Specifically, we consider the finite orders of mass insertions for neutralinos but the general
+orders for squarks and charginos, under two sets of assumptions for the squark flavour structures
+(\textit{i.e.}, while the flavour-conserving off-diagonal element $\delta_{33}^\text{LR}$
+is kept in both of these two sectors, only the flavour-violating off-diagonal elements $\delta_{23}^\text{LL}$
+and $\delta_{i3}^\text{RR}$ ($i=1,2$) are kept in the \text{LL} and \text{RR} sectors, respectively).
+Our analytic results are then expressed directly in terms of the initial Lagrangian parameters
+in the interaction/flavour basis, making it easy to impose the experimental bounds on them. It is
+found numerically that the NMSSM effects with the above two assumptions for the squark flavour structures
+can accommodate the observed deviation for $\Delta M_{s(d)}$, while complying with the experimental
+constraints from the branching ratios of $B_s\to \mu^+ \mu^-$ and $B\to X_s\gamma$ decays. 

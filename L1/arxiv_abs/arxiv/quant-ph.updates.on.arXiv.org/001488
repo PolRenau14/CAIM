@@ -1,0 +1,17 @@
+Geometric phase is insensitive to certain local disturbances due to the global properties accumulated
+through a closed loop in the parameter space. It can be utilized to realize high-fidelity logic gates
+for geometric quantum computing. Moveover in the degenerate subspace, non-Abelian geometric
+phase leads to quantum holonomic gates. In this work, we propose a novel scheme for holonomic gates
+using Rydberg atoms under the detuning-controllable drivings, which can be considerably improved
+by the counterdiabatic method. In particular, we introduce a controllable variable, the detuning
+between the driving frequency and the atomic energy spacing, to modify the traditional scheme for
+holonomic gates. Subsequently we can have two instantaneous eigenstates with opposite eigenvalues
+constituting a closed loop in the parameter space. The accumulated dynamical phase is exactly cancelled
+when the loop is completed, which is out of the parallel-transport restriction. The counterdiabatic
+term in our proposal can be used to enhance the speed and the fidelity of holonomic transformation,
+rendering revisions in both amplitudes and phases of the driving fields. Then in a shorter time we
+can realize a universal set of single-qubit gates and nontrivial double-qubit gates within the
+Rydberg blockade regime. We also estimate the gate fidelity under both dephasing and dissipation
+processes. In addition, beyond the Rydberg blockade regime, we propose an alternative realization
+for the double-qubit gates, in which a qubit (two-level system) is used to mediate two detuning-driven
+three-level Rydberg atoms. 

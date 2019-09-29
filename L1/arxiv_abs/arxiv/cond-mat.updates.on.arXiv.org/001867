@@ -1,0 +1,16 @@
+In the Dirac/Weyl semimetal, the chiral anomaly appears as an "axial" current arising from charge-pumping
+between the lowest (chiral) Landau levels of the Weyl nodes, when an electric field is applied parallel
+to a magnetic field $\bf B$. Evidence for the chiral anomaly was obtained from the longitudinal magnetoresistance
+(LMR) in Na$_3$Bi and GdPtBi. However, current jetting effects (focussing of the current density
+$\bf J$) have raised general concerns about LMR experiments. Here we implement a litmus test that
+allows the intrinsic LMR in Na$_3$Bi and GdPtBi to be sharply distinguished from pure current jetting
+effects (in pure Bi). Current jetting enhances $J$ along the mid-ridge (spine) of the sample while
+decreasing it at the edge. We measure the distortion by comparing the local voltage drop at the spine
+(expressed as the resistance $R_{spine}$) with that at the edge ($R_{edge}$). In Bi, $R_{spine}$
+sharply increases with $B$ but $R_{edge}$ decreases (jetting effects are dominant). However,
+in Na$_3$Bi and GdPtBi, both $R_{spine}$ and $R_{edge}$ decrease (jetting effects are subdominant).
+A numerical simulation allows the jetting distortions to be removed entirely. We find that the intrinsic
+longitudinal resistivity $\rho_{xx}(B)$ in Na$_3$Bi decreases by a factor of 10.9 between $B$
+= 0 and 10 T. A second litmus test is obtained from the parametric plot of the planar angular magnetoresistance.
+These results strenghthen considerably the evidence for the intrinsic nature of the chiral-anomaly
+induced LMR. We briefly discuss how the squeeze test may be extended to test ZrTe$_5$. 

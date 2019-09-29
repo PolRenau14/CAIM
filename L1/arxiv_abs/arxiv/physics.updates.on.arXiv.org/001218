@@ -1,0 +1,16 @@
+We present a novel generalization of the two-stream method of radiative transfer, which allows
+for the accurate treatment of radiative transfer in the presence of strong infrared scattering
+by aerosols. We prove that this generalization involves only a simple modification of the coupling
+coefficients and transmission functions in the hemispheric two-stream method. This modification
+originates from allowing the ratio of the first Eddington coefficients to depart from unity. At
+the heart of the method is the fact that this ratio may be computed once and for all over the entire range
+of values of the single-scattering albedo and scattering asymmetry factor. We benchmark our improved
+two-stream method by calculating the fraction of flux reflected by a single atmospheric layer (the
+reflectivity) and comparing these calculations to those performed using a 32-stream discrete-ordinates
+method. We further compare our improved two-stream method to the two-stream source function (16
+streams) and delta-Eddington methods, demonstrating that it is often more accurate at the order-of-magnitude
+level. Finally, we illustrate its accuracy using a toy model of the early Martian atmosphere hosting
+a cloud layer composed of carbon-dioxide ice particles. The simplicity of implementation and accuracy
+of our improved two-stream method renders it suitable for implementation in three-dimensional
+general circulation models. In other words, our improved two-stream method has the ease of implementation
+of a standard two-stream method, but the accuracy of a 32-stream method. 

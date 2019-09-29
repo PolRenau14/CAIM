@@ -1,0 +1,16 @@
+Protein aggregation on the plasma membrane (PM) is of critical importance to many cellular processes
+such as cell adhesion, endocytosis, fibrillar conformation, and vesicle transport. Lateral diffusion
+of protein aggregates or clusters on the surface of the PM plays an important role in governing their
+heterogeneous surface distribution. However, the stability behavior of the surface distribution
+of protein aggregates remains poorly understood. Therefore, understanding the spatial patterns
+that can emerge on the PM solely through protein-protein interaction, lateral diffusion, and feedback
+is an important step towards a complete description of the mechanisms behind protein clustering
+on the cell surface. In this work, we investigate the pattern formation of a reaction-diffusion
+model that describes the dynamics of a system of ligand-receptor complexes. The purely diffusive
+ligand in the cytosol can bind receptors in the PM, and the resultant ligand-receptor complexes
+not only diffuse laterally but can also form clusters resulting in different oligomers. Finally,
+the largest oligomers recruit ligands from the cytosol in a positive feedback. From a methodological
+viewpoint, we provide theoretical estimates for diffusion-driven instabilities of the protein
+aggregates based on the Turing mechanism. Our main result is a threshold phenomenon, in which a sufficiently
+high recruitment of ligands promotes the input of new monomeric components and consequently drives
+the formation of a single-patch spatially heterogeneous steady-state. 

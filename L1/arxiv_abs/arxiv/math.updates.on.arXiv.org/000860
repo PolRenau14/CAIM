@@ -1,0 +1,17 @@
+We develop the basic constructions of homological algebra in the (appropriately defined) unbounded
+derived categories of modules over algebras over coalgebras over noncommutative rings (which
+we call semialgebras over corings). We define double-sided derived functors SemiTor and SemiExt
+of the functors of semitensor product and semihomomorphisms, and construct an equivalence between
+the exotic derived categories of semimodules and semicontramodules. Certain (co)flatness and/or
+(co)projectivity conditions have to be imposed on the coring and semialgebra to make the module
+categories abelian (and the cotensor product associative). Besides, for a number of technical
+reasons we mostly have to assume that the basic ring has a finite homological dimension (no such assumptions
+about the coring and semialgebra are made). In the final sections we construct model category structures
+on the categories of complexes of semi(contra)modules, and develop relative nonhomogeneous Koszul
+duality theory for filtered semialgebras and quasi-differential corings. Our motivating examples
+come from the semi-infinite cohomology theory. Comparison with the semi-infinite (co)homology
+of Tate Lie algebras and graded associative algebras is established in appendices, and the semi-infinite
+homology of a locally compact topological group relative to an open profinite subgroup is defined.
+An application to the correspondence between complexes of representations of an infinite-dimensional
+Lie algebra on the complementary central charge levels ($c$ and $26-c$ for the Virasoro) is worked
+out. 

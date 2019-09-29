@@ -1,0 +1,16 @@
+The tremendous popularity gained by Online Social Networks (OSNs) raises natural concerns about
+user privacy in social media platforms. Though users in OSNs can tune their privacy by deliberately
+deciding what to share, the interaction with other individuals within the social network can expose,
+and eventually disclose, sensitive information. Among all the sharable personal data, geo-location
+is particularly interesting. On one hand, users tend to consider their current location as a very
+sensitive information, avoiding to share it most of the time. On the other hand, service providers
+are interested to extract and utilize geo-tagged data to offer tailored services. In this work,
+we consider the problem of inferring the current location of a user utilizing only the available
+information of other social contacts in the OSN. For this purpose, we employ a graph-based deep learning
+architecture to learn a model between the users' known and unknown geo-location during a considered
+period of time. As a study case, we consider Twitter, where the user generated content (i.e., tweet)
+can embed user's current location. Our experiments validate our approach and further confirm the
+concern related to data privacy in OSNs. Results show the presence of a critical-mass phenomenon,
+i.e., if at least 10% of the users provide their tweets with geo-tags, then the privacy of all the remaining
+users is seriously put at risk. In fact, our approach is able to localize almost 50% of the tweets with
+an accuracy below 1km relying only on a small percentage of available information. 

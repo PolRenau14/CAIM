@@ -1,0 +1,16 @@
+The Herschel SPIRE instrument consists of an imaging photometric camera and an imaging Fourier
+Transform Spectrometer (FTS), both operating over a frequency range of 450-1550 GHz. In this paper,
+we briefly review the FTS design, operation, and data reduction, and describe in detail the approach
+taken to relative calibration (removal of instrument signatures) and absolute calibration against
+standard astronomical sources. The calibration scheme assumes a spatially extended source and
+uses the Herschel telescope as primary calibrator. Conversion from extended to point-source calibration
+is carried out using observations of the planet Uranus. The model of the telescope emission is shown
+to be accurate to within 6% and repeatable to better than 0.06% and, by comparison with models of Mars
+and Neptune, the Uranus model is shown to be accurate to within 3%. Multiple observations of a number
+of point-like sources show that the repeatability of the calibration is better than 1%, if the effects
+of the satellite absolute pointing error (APE) are corrected. The satellite APE leads to a decrement
+in the derived flux, which can be up to ~10% (1 sigma) at the high-frequency end of the SPIRE range in
+the first part of the mission, and ~4% after Herschel operational day 1011. The lower frequency range
+of the SPIRE band is unaffected by this pointing error due to the larger beam size. Overall, for well-pointed,
+point-like sources, the absolute flux calibration is better than 6%, and for extended sources where
+mapping is required it is better than 7%. 

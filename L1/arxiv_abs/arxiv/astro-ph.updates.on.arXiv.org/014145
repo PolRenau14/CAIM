@@ -1,0 +1,16 @@
+A star coming too close to a supermassive black hole gets disrupted by the tidal force of the compact
+object in a tidal disruption event, or TDE. Following this encounter, the debris evolves into an
+elongated stream, half of which coming back to pericenter. Relativistic apsidal precession then
+leads to a self-crossing shock that initiates the formation of an accretion disc. We perform the
+first simulation of this process considering a realistic stellar trajectory and black hole mass,
+which has so far eluded investigations for computational reasons. This numerical issue is alleviated
+by using as initial conditions the outflow launched by the self-crossing shock according the local
+simulation of Lu & Bonnerot (2019). We find that the gas leaving the intersection point experiences
+numerous secondary shocks that result in the rapid formation of a thick and marginally-bound disc.
+The mass distribution features two overdensities identified as spiral shocks that drive slow gas
+inflow along the mid-plane. Inward motion primarily takes place along the funnels of the newly-formed
+torus, from which a fraction of the matter can get accreted. Further out, the gas moves outward forming
+an extended envelope completely surrounding the accretion flow. Secondary shocks heat the debris
+at a rate of a few times $10^{44} \, \rm erg \, s^{-1}$ with a large fraction likely participating to
+the bolometric luminosity. These results pave the way towards a complete understanding of the early
+radiation from TDEs that progressively becomes accessible from observations. 

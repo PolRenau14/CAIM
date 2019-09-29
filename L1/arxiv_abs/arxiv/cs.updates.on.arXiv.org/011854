@@ -1,0 +1,16 @@
+Time-sync comments reveal a new way of extracting the online video tags. However, such time-sync
+comments have lots of noises due to users' diverse comments, introducing great challenges for accurate
+and fast video tag extractions. In this paper, we propose an unsupervised video tag extraction algorithm
+named Semantic Weight-Inverse Document Frequency (SW-IDF). Specifically, we first generate
+corresponding semantic association graph (SAG) using semantic similarities and timestamps of
+the time-sync comments. Second, we propose two graph cluster algorithms, i.e., dialogue-based
+algorithm and topic center-based algorithm, to deal with the videos with different density of comments.
+Third, we design a graph iteration algorithm to assign the weight to each comment based on the degrees
+of the clustered subgraphs, which can differentiate the meaningful comments from the noises. Finally,
+we gain the weight of each word by combining Semantic Weight (SW) and Inverse Document Frequency
+(IDF). In this way, the video tags are extracted automatically in an unsupervised way. Extensive
+experiments have shown that SW-IDF (dialogue-based algorithm) achieves 0.4210 F1-score and 0.4932
+MAP (Mean Average Precision) in high-density comments, 0.4267 F1-score and 0.3623 MAP in low-density
+comments; while SW-IDF (topic center-based algorithm) achieves 0.4444 F1-score and 0.5122 MAP
+in high-density comments, 0.4207 F1-score and 0.3522 MAP in low-density comments. It has a better
+performance than the state-of-the-art unsupervised algorithms in both F1-score and MAP. 

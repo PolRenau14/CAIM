@@ -1,0 +1,16 @@
+While the smart surveillance system enhanced by the Internet of Things (IoT) technology becomes
+an essential part of Smart Cities, it also brings new concerns in security of the data. Compared to
+the traditional surveillance systems that is built following a monolithic architecture to carry
+out lower level operations, such as monitoring and recording, the modern surveillance systems
+are expected to support more scalable and decentralized solutions for advanced video stream analysis
+at the large volumes of distributed edge devices. In addition, the centralized architecture of
+the conventional surveillance systems is vulnerable to single point of failure and privacy breach
+owning to the lack of protection to the surveillance feed. This position paper introduces a novel
+secure smart surveillance system based on microservices architecture and blockchain technology.
+Encapsulating the video analysis algorithms as various independent microservices not only isolates
+the video feed from different sectors, but also improve the system availability and robustness
+by decentralizing the operations. The blockchain technology securely synchronizes the video
+analysis databases among microservices across surveillance domains, and provides tamper proof
+of data in the trustless network environment. Smart contract enabled access authorization strategy
+prevents any unauthorized user from accessing the microservices and offers a scalable, decentralized
+and fine-grained access control solution for smart surveillance systems. 

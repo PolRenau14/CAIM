@@ -1,0 +1,16 @@
+An operad (this paper deals with non-symmetric operads)may be conceived as a partial algebra with
+a family of insertion operations, Gerstenhaber's circle-i products, which satisfy two kinds of
+associativity, one of them involving commutativity. A Cat-operad is an operad enriched over the
+category Cat of small categories, as a 2-category with small hom-categories is a category enriched
+over Cat. The notion of weak Cat-operad is to the notion of Cat-operad what the notion of bicategory
+is to the notion of 2-category. The equations of operads like associativity of insertions are replaced
+by isomorphisms in a category. The goal of this paper is to formulate conditions concerning these
+isomorphisms that ensure coherence, in the sense that all diagrams of canonical arrows commute.
+This is the sense in which the notions of monoidal category and bicategory are coherent. The coherence
+proof in the paper is much simplified by indexing the insertion operations in a context-independent
+way, and not in the usual manner. This proof, which is in the style of term rewriting, involves an argument
+with normal forms that generalizes what is established with the completeness proof for the standard
+presentation of symmetric groups. This generalization may be of an independent interest, and related
+to matters other than those studied in this paper. Some of the coherence conditions for weak Cat-operads
+lead to the hemiassociahedron, which is a polyhedron related to, but different from, the three-dimensional
+associahedron and permutohedron. 

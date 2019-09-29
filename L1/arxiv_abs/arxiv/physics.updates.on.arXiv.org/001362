@@ -1,0 +1,17 @@
+We develop a formalism suitable for studying Maxwell's equations in the presence of a medium that
+is axially symmetric, in particular with respect to Casimir-Polder interaction energies. As an
+application, we derive the Casimir-Polder interaction energy between an electric $\delta$-function
+plate and an anisotropically polarizable molecule for arbitrary orientations of the principal
+axes of polarizabilities of the molecule. We show that in the perfect conductor limit for the plate
+the interaction is insensitive to the orientation of the polarizabilities of the molecule. We obtain
+the Casimir-Polder energy between an electric $\delta$-function sphere and an anisotropically
+polarizable molecule, again for arbitrary orientations of the principal axes of polarizabilities
+of the molecule. We derive results when the polarizable molecule is either outside the sphere, or
+inside the sphere. We present the perfectly conducting limit for the $\delta$-function sphere,
+and also the interaction energy for the special case when the molecule is at the center of the sphere.
+Our general proposition is that the Casimir-Polder energy between a dielectric body with axial
+symmetry and an unidirectionally polarizable molecule placed on the axis with its polarizability
+parallel to the axis gets non-zero contribution only from the $m=0$ azimuth mode. This feature in
+conjunction with the property that the $m=0$ mode separates into transverse electric and transverse
+magnetic modes allows the evaluation of Casimir-Polder energies for axially symmetric systems
+in a relatively easy manner. 

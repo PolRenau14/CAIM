@@ -1,0 +1,16 @@
+Motivated by the recently discovered kinematic "Hubble sequence" shown by the stellar orbit-circularity
+distribution of 260 CALIFA galaxies, we make use of a comparable galaxy sample at z = 0 with a stellar
+mass range from 5E9 to 5E11 solar masses, selected from the IllustrisTNG simulation and study their
+stellar orbit compositions in relation to a number of other fundamental galaxy properties.We find
+that the TNG100 simulation broadly reproduces the observed fractions of different orbital components
+and their stellar mass dependencies. In particular, the mean mass dependencies of the luminosity
+fractions for the kinematically warm and hot orbits are well reproduced within model uncertainties
+of the observed galaxies. The simulation also largely reproduces the observed peak and trough features
+at a stellar mass of 1-2E10 solar masses, in the mean distributions of the cold- and hot-orbit fractions,
+respectively, indicating fewer cooler orbits and more hotter orbits in both more- and less-massive
+galaxies beyond such a mass range. Several marginal disagreements are seen between the simulation
+and observations: the average cold-orbit (counter-rotating) fractions of the simulated galaxies
+below (above) a stellar mass of 6E10 solar masses, are systematically higher than the observational
+data by < 10% (absolute orbital fraction); the simulation also seems to produce more scatter for
+the cold-orbit fraction and less so for the non-cold orbits at any given galaxy mass. Possible causes
+that stem from the adopted heating mechanisms are discussed. 

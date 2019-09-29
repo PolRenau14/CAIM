@@ -1,0 +1,16 @@
+We present results from a systematic selection of tidal disruption events (TDEs) in a wide area (4800
+deg$^2$) $g+R$ band experiment by the Intermediate Palomar Transient Factory (iPTF) with a rolling
+cadence of 1 and 3 days. We use photometric selection criteria to down select from a total of 493 nuclear
+transients detected during the experiment to a sample of 26 blue ($g-r < 0$ mag) nuclear transients
+in red host galaxies. Using Swift follow-up UV and X-ray imaging, and ground-based optical spectroscopy,
+we classify 14 Type Ia supernovae (SNe Ia), 9 highly variable active galactic nuclei (AGNs), 2 confirmed
+TDEs, and 1 potential core-collapse supernova. From our study, we measure a TDE per galaxy rate of
+1.7 $^{+2.85}_{-1.27}$ $\times$10$^{-4}$ gal$^{-1}$ yr$^{-1}$ (90% CL in Poisson statistics)
+using a galaxy number density estimated from the SDSS luminosity function. We find that it is possible
+to filter out AGNs by employing a more stringent transient color cut ($g-r <$ $-$0.2 mag). The UV is
+an important discriminator for filtering out SN contamination, since in the optical, SNe Ia can
+appear as blue as TDEs in their early phases. However, the contamination from SN Ia drops significantly
+with a more stringent spatial offset cut, suggesting higher precision in astrometry is essential
+for separating TDEs from SNe Ia in the optical. Our most stringent optical photometric selection
+criteria yields a contamination rate of 4.5:1, allowing for a manageable number of TDE candidates
+for complete spectroscopic follow-up and real-time classification in the ZTF era. 

@@ -1,0 +1,17 @@
+We present a Halo Occupation Distribution (HOD) analysis of the luminosity- and colour-dependent
+galaxy clustering in the Sloan Digital Sky Survey. A novelty of our technique is that it uses a combination
+of clustering measurements in luminosity bins to perform a global likelihood analysis, simultaneously
+constraining the HOD parameters for a range of luminosity thresholds. We present simple, smooth
+fitting functions which accurately describe the resulting luminosity dependence of the best-fit
+HOD parameters. To minimise systematic halo modelling effects, we use theoretical halo 2-point
+correlation functions directly measured and tabulated from a suite of $N$-body simulations spanning
+a large enough dynamic range in halo mass and spatial separation. Thus, our modelling correctly
+accounts for non-linear and scale-dependent halo bias as well as any departure of halo profiles
+from universality, and we additionally account for halo exclusion using the hard sphere approximation.
+Using colour-dependent clustering information, we constrain the satellite galaxy red fraction
+in a model-independent manner which does not rely on any group-finding algorithm. We find that the
+resulting luminosity dependence of the satellite red fraction is significantly shallower than
+corresponding measurements from galaxy group catalogues, and we provide a simple fitting function
+to describe this dependence. Our fitting functions are readily usable in generating low-redshift
+mock galaxy catalogues, and we discuss some potentially interesting applications as well as possible
+extensions of our technique. 

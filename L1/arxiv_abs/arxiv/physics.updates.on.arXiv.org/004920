@@ -1,0 +1,16 @@
+CaLIPSO is an innovative photon detector concept designed for high precision brain PET imaging.
+For the first time, liquid trimethylbismuth is used as sensitive medium. The detector operates
+as a time-projection chamber and detects both Cherenkov light and charge signal. Indeed, each 511-keV
+photon releases a single primary electron that triggers a Cherenkov radiation and ionizes the medium.
+As trimethylbismuth has never been studied before, we measured its free ion yield defined as the
+number of electron-ion pairs released by the primary electron. To this end, we developed a low-noise
+measuring system to determine the weak current induced by a 60Co source in the liquid with an accuracy
+better than 5 fA for an electric field up to 7kV/cm. We used tetramethylsilane as benchmark liquid
+to validate the apparatus and we measured a zero-field free ion yield of 0.53 +/- 0.03 in agreement
+with literature. However, we found a zero-field free ion yield of 0.083 +/- 0.003 for trimethylbismuth,
+which is a factor 7 lower than the typical values for similar dielectric liquids. Quantum chemistry
+computations on heavy atoms tend to demonstrate the high ability of trimethylbismuth to capture
+electrons, which could explain this weak value. This recombination mechanism marks a new step in
+understanding charge transport in liquid detectors. Finally, to verify the detectability of individual
+charge pulses, we developed a charge pulse measurement system which has been successfully validated
+with TMSi. Measurements with TMBi are ongoing. 

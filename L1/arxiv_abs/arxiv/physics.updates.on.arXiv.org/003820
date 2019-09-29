@@ -1,0 +1,16 @@
+Nanoparticle drug carriers play an important role in facilitating efficient targeted drug delivery,
+i.e., improving treatment success and reducing drug costs and side effects. However, the mobility
+of nanoparticle drug carriers poses a challenge in designing drug delivery systems. Moreover,
+healing results critically depend on the rate and time duration of drug absorption. Therefore,
+in this paper, we aim to design a controlled-release drug delivery system with a mobile drug carrier
+that minimizes the total amount of released drugs while ensuring a desired rate of drug absorption
+during a prescribed time period. We model the mobile drug carrier as a mobile transmitter, the targeted
+diseased cells as an absorbing receiver, and the channel between the transceivers as a time-variant
+channel since the carrier mobility results in a time-variant absorption rate of the drug molecules.
+Based on this, we develop a molecular communication (MC) framework to design the controlled-release
+drug delivery system. In particular, we develop new analytical expressions for the mean, variance,
+probability density function, and cumulative distribution function of the channel impulse response
+(CIR). Equipped with the statistical analysis of the CIR, we design and evaluate the performance
+of the controlled-release drug delivery system. Numerical results show significant savings in
+the amount of released drugs compared to a constant-release rate design and reveal the necessity
+of accounting for drug carrier mobility for reliable drug delivery. 

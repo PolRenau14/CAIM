@@ -1,0 +1,16 @@
+Strongly continuous semigroups of unital completely positive maps (i.e. quantum Markov semigroups
+or quantum dynamical semigroups) on compact quantum groups are studied. We show that quantum Markov
+semigroups on the universal or reduced C${}^*$-algebra of a compact quantum group which are translation
+invariant (w.r.t. to the coproduct) are in one-to-one correspondence with L\'evy processes on
+its $*$-Hopf algebra. We use the theory of L\'evy processes on involutive bialgebras to characterize
+symmetry properties of the associated quantum Markov semigroup. It turns out that the quantum Markov
+semigroup is GNS-symmetric (resp. KMS-symmetric) if and only if the generating functional of the
+L\'evy process is invariant under the antipode (resp. the unitary antipode). Furthermore, we study
+L\'evy processes whose marginal states are invariant under the adjoint action. In particular,
+we give a complete description of generating functionals on the free orthogonal quantum group $O_n^+$
+that are invariant under the adjoint action. Finally, some aspects of the potential theory are investigated.
+We describe how the Dirichlet form and a derivation can be recovered from a quantum Markov semigroup
+and its L\'evy process and we show how, under the assumption of GNS-symmetry and using the associated
+Sch\"urmann triple, this gives rise to spectral triples. We discuss in details how the above results
+apply to compact groups, group C$^*$-algebras of countable discrete groups, free orthogonal quantum
+groups $O_n^+$ and the twisted $SU_q (2)$ quantum group. 

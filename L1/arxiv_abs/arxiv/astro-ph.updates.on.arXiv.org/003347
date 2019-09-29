@@ -1,0 +1,16 @@
+Mapping supernovae to their progenitors is fundamental to understanding the collapse of massive
+stars. We investigate the red supergiant problem, which concerns why red supergiants with masses
+$\sim16$-$30 M_\odot$ have not been identified as progenitors of Type IIP supernovae, and the supernova
+rate problem, which concerns why the observed cosmic supernova rate is smaller than the observed
+cosmic star formation rate. We find key physics to solving these in the compactness parameter, which
+characterizes the density structure of the progenitor. If massive stars with compactness above
+$\xi_{2.5} \sim 0.2$ fail to produce canonical supernovae, (i) stars in the mass range $16$-$30
+M_\odot$ populate an island of stars that have high $\xi_{2.5}$ and do not produce canonical supernovae,
+and (ii) the fraction of such stars is consistent with the missing fraction of supernovae relative
+to star formation. We support this scenario with a series of two- and three-dimensional radiation
+hydrodynamics core-collapse simulations. Using more than 300 progenitors covering initial masses
+$10.8$-$75 M_\odot$ and three initial metallicities, we show that high compactness is conducive
+to failed explosions. We then argue that a critical compactness of $\sim 0.2$ as the divide between
+successful and failed explosions is consistent with state-of-the-art three-dimensional core-collapse
+simulations. Our study implies that numerical simulations of core collapse need not produce robust
+explosions in a significant fraction of compact massive star initial conditions. 

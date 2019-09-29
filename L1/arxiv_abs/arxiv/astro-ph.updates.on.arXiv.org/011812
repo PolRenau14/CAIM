@@ -1,0 +1,16 @@
+Relativistic outflows are believed to be a common feature of black hole X-ray binaries at the lowest
+accretion rates, when they are in their `quiescent' spectral state. However, we still lack a detailed
+understanding of how quiescent jet emission varies with time. Here we present 24 years of archival
+radio observations (from the Very Large Array and the Very Long Baseline Array) of the black hole
+X-ray binary V404 Cygni in quiescence (totalling 150 observations from 1.4 -- 22 GHz). The observed
+flux densities follow lognormal distributions with means and standard deviations of (<log f_nu>,
+sigma) = (-0.53, 0.19) and (-0.53, 0.30) at 4.9 and 8.4 GHz, respectively (where f_nu is the flux density
+in units of mJy). As expected, the average radio spectrum is flat with a mean and standard deviation
+of (<alpha_r >, sigma_alpha_r)= (0.02, 0.65) where f_nu \propto nu^alpha_r. We find that radio
+flares that increase the flux density by factors of 2 -- 4 over timescales as short as <10 min are commonplace,
+and that long-term variations (over 10--4000 day timescales) are consistent with shot noise impulses
+that decay to stochastic variations on timescales <10 days (and perhaps as short as tens of minutes
+to several hours). We briefly compare the variability characteristics of V404 Cygni to jetted active
+galactic nuclei, and we conclude with recommendations on how to account for variability when placing
+quiescent black hole X-ray binary candidates with radio luminosities comparable to V404 Cygni
+(L_r ~ 1e28 erg/s) onto the radio/X-ray luminosity plane. 

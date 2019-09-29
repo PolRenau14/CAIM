@@ -1,0 +1,16 @@
+Let $w$ be a word in the free group on $r$ generators. The expected value of the trace of the word in $r$
+independent Haar elements of $\mathrm{O}(n)$ gives a function ${\cal T}r_{w}^{\mathrm{O}}(n)$
+of $n$. We show that ${\cal T}r_{w}^{\mathrm{O}}(n)$ has a convergent Laurent expansion at $n=\infty$
+involving maps on surfaces and $L^{2}$-Euler characteristics of mapping class groups associated
+to these maps. This can be compared to known, by now classical, results for the GUE and GOE ensembles,
+and is similar to previous results concerning $\mathrm{U}\left(n\right)$, yet with some surprising
+twists. A priori to our result, ${\cal T}r_{w}^{\mathrm{O}}(n)$ does not change if $w$ is replaced
+with $\alpha(w)$ where $\alpha$ is an automorphism of the free group. One main feature of the Laurent
+expansion we obtain is that its coefficients respect this symmetry under $\mathrm{Aut}(\mathrm{\mathbf{F}}_{r})$.
+As corollaries of our main theorem, we obtain a quantitative estimate on the rate of decay of ${\cal
+T}r_{w}^{\mathrm{O}}(n)$ as $n\to\infty$, we generalize a formula of Frobenius and Schur, and
+we obtain a universality result on random orthogonal matrices sampled according to words in free
+groups, generalizing a theorem of Diaconis and Shahshahani. Our results are obtained more generally
+for a tuple of words $w_1,\ldots,w_\ell$, leading to functions ${\cal T}r_{w_{1},\ldots,w_{\ell}}^{\mathrm{O}}$.
+We also obtain all the analogous results for the compact symplectic groups $\mathrm{Sp}\left(n\right)$
+through a rather mysterious duality formula. 

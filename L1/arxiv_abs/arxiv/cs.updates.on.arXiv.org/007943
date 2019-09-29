@@ -1,0 +1,16 @@
+Currently, we are in an environment where the fraction of automated vehicles is negligibly small.
+We anticipate that this fraction will increase in coming decades before if ever, we have a fully automated
+transportation system. Motivated by this we address the problem of provable safety of mixed traffic
+consisting of both intelligent vehicles (IVs) as well as human-driven vehicles (HVs). An important
+issue that arises is that such mixed systems may well have lesser throughput than all human traffic
+systems if the automated vehicles are expected to remain provably safe with respect to human traffic.
+This necessitates the consideration of strategies such as platooning of automated vehicles in
+order to increase the throughput. In this paper, we address the design of provably safe systems consisting
+of a mix of automated and human-driven vehicles including the use of platooning by automated vehicles.
+We design motion planing policies and coordination rules for participants in this novel mixed system.
+HVs are considered as nearsighted and modeled with relatively loose constraints, while IVs are
+considered as capable of following much tighter constraints. HVs are expected to follow reasonable
+and simple rules. IVs are designed to move under a model predictive control (MPC) based motion plans
+and coordination protocols. Our contribution of this paper is in showing how to integrate these
+two types of models safely into a mixed system. System safety is proved in single lane scenarios,
+as well as in multi-lane situations allowing lane changes. 

@@ -1,0 +1,16 @@
+Tensor non-Gaussianity represents an important future probe of the physics of inflation. Inspired
+by recent works, we elaborate further on the possibility of significant primordial tensor non-Gaussianities
+sourced by extra fields during inflation. Unitarity constraints limit the impact of extra (spinning)
+particle content by means of a lower bound on the corresponding mass spectrum. For spin-2 particles,
+this takes the form of the well-known Higuchi bound. Massive ($m\gtrsim H$) particles will typically
+decay during inflation unless they are non-minimally coupled to the inflaton sector: the inflating
+field "lifts" the dynamics of the extra field(s), effectively getting around the limits imposed
+by unitarity. There exist several models that realize such a mechanism, but we focus here on the set-up
+of [1] where, through an EFT approach, one is able to capture the essential features common to an entire
+class of theories. In the presence of an extra massive spin-2 particle, the interactions in the tensor
+sector mimic very closely those in the scalar sector of quasi-single-field inflationary models.
+We calculate the tensor bispectrum in different configurations and extract its dependence on the
+extra tensor sound speed. We show in detail how one may obtain significant tensor non-Gaussianities
+whose shape-function interpolates between local and equilateral, depending on the mass of the
+extra field. We also estimate for the first time the LISA response functions to a tensor bispectrum
+supporting the intermediate-type shapes we find. 

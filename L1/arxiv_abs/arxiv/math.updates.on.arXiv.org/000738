@@ -1,0 +1,16 @@
+A generalised Schnakenberg reaction-diffusion system with source and loss terms and a spatially
+dependent coefficient of the nonlinear term is studied both numerically and analytically in two
+spatial dimensions. The system has been proposed as a model of hair initiation in the epidermal cells
+of plant roots. Specifically the model captures the kinetics of a small G-protein ROP, which can
+occur in active and inactive forms, and whose activation is believed to be mediated by a gradient
+of the plant hormone auxin. Here the model is made more realistic with the inclusion of a transverse
+co-ordinate. Localised stripe-like solutions of active ROP occur for high enough total auxin concentration
+and lie on a complex bifurcation diagram of single and multi-pulse solutions. Transverse stability
+computations, backed up by numerical simulation show that, apart from a boundary stripe, these
+1D solutions typically undergo a transverse instability into spots. The spots so formed typically
+drift and undergo secondary instabilities such as spot replication. A novel 2D numerical continuation
+analysis is performed that shows the various stable hybrid spot-like states can coexist. The parameter
+values studied lead to a natural singularly perturbed, so-called semi-strong interaction regime.
+This scaling enables an analytical explanation of the initial instability, by describing the dispersion
+relation of a certain non-local eigenvalue problem. The analytical results are found to agree favourably
+with the numerics. Possible biological implications of the results are discussed. 

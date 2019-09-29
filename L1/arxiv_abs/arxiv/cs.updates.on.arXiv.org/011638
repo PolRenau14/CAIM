@@ -1,0 +1,16 @@
+Background and Purpose: A current algorithm to obtain a synthetic myelin volume fraction map (SyMVF)
+from rapid simultaneous relaxometry imaging (RSRI) has a potential problem, that it does not incorporate
+information from surrounding pixels. The purpose of this study was to develop a method that utilizes
+a convolutional neural network (CNN) to overcome this problem. Methods: RSRI and magnetization
+transfer images from 20 healthy volunteers were included. A CNN was trained to reconstruct RSRI-related
+metric maps into a myelin volume-related index (generated myelin volume index: GenMVI) map using
+the myelin volume index map calculated from magnetization transfer images (MTMVI) as reference.
+The SyMVF and GenMVI maps were statistically compared by testing how well they correlated with the
+MTMVI map. The correlations were evaluated based on: (i) averaged values obtained from 164 atlas-based
+ROIs, and (ii) pixel-based comparison for ROIs defined in four different tissue types (cortical
+and subcortical gray matter, white matter, and whole brain). Results: For atlas-based ROIs, the
+overall correlation with the MTMVI map was higher for the GenMVI map than for the SyMVF map. In the
+pixel-based comparison, correlation with the MTMVI map was stronger for the GenMVI map than for
+the SyMVF map, and the difference in the distribution for the volunteers was significant (Wilcoxon
+sign-rank test, P<.001) in all tissue types. Conclusion: The proposed method is useful, as it can
+incorporate more specific information about local tissue properties than the existing method.

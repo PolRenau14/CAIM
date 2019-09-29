@@ -1,0 +1,16 @@
+Dynamics of slender magnetic flux tubes (MFT) in the accretion discs of T Tauri stars is investigated.
+We perform simulations taking into account buoyant, aerodynamic and turbulent drag forces, radiative
+heat exchange between MFT and ambient gas, magnetic field of the disc. The equations of MFT dynamics
+are solved using Runge-Kutta method of the fourth order. The simulations show that there are two
+regimes of MFT motion in absence of external magnetic field. In the region $r<0.2$ au, the MFT of radii
+$0.05 \leq a_0 \leq 0.16\,H$ ($H$ is the scale height of the disc) with initial plasma beta of 1 experience
+thermal oscillations above the disc. The oscillations decay over some time, and MFT continue upward
+motion afterwards. Thinner or thicker MFT do not oscillate. MFT velocity increases with initial
+radius and magnetic field strength. MFT rise periodically with velocities up to 5-15 km s$^{-1}$
+and periods of $0.5-10$ yr determined by the toroidal magnetic field generation time. Approximately
+20 % of disc mass and magnetic flux can escape to disc atmosphere via the magnetic buoyancy over characteristic
+time of disc evolution. MFT dispersal forms expanding magnetized corona of the disc. External magnetic
+field causes MFT oscillations near the disc surface. These magnetic oscillations have periods
+from several days to 1-3 months at $r < 0.6$ au. The magnetic oscillations decay over few periods.
+We simulate MFT dynamics in accretion discs in the Chameleon I cluster. The simulations demonstrate
+that MFT oscillations can produce observed IR-variability of T Tauri stars. 

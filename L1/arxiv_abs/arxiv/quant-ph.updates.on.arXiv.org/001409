@@ -1,0 +1,16 @@
+We show how local constraints can globally "shatter" Hilbert space into subsectors, leading to
+an unexpected dynamics with features reminiscent of both many body localization and quantum scars.
+A crisp example of this phenomenon is provided by a "fractonic circuit" - a model of quantum circuit
+dynamics in one dimension constrained to conserve both charge and dipole moment. We show how the
+Hilbert space of the fractonic circuit dynamically fractures into disconnected emergent subsectors
+within a particular charge and dipole symmetry sector. A large number of the emergent subsectors,
+exponentially many in the size of the system, have dimension one and exhibit strictly localized
+quantum dynamics---even in the absence of spatial disorder and in the presence of temporal noise.
+Exponentially large localized subspaces can be proven to exist for any one dimensional fractonic
+circuit with finite spatial range, and provide a potentially new route for the robust storage of
+quantum information. Other emergent subsectors display non-trivial dynamics and may be constructed
+by embedding finite sized non-trivial blocks into the localized subspace. The shattering of a particular
+symmetry sector into a distribution of dynamical subsectors with varying sizes leads to the coexistence
+of high and low entanglement states, i.e. this provides a general mechanism for the production of
+quantum many body scars. We discuss the detailed pattern of fracturing and its implications. We
+also discuss other mechanisms for similarly shattering Hilbert space. 

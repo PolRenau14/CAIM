@@ -1,0 +1,17 @@
+Modern processor optimizations such as branch prediction and out-of-order execution are crucial
+for performance. Recent research on transient execution attacks including Spectre and Meltdown
+showed, however, that exception or branch misprediction events may leave secret-dependent traces
+in the CPU's microarchitectural state. This observation led to a proliferation of new Spectre and
+Meltdown attack variants and even more ad-hoc defenses (e.g., microcode and software patches).
+Unfortunately, both the industry and academia are now focusing on finding efficient defenses that
+mostly address only one specific variant or exploitation methodology. This is highly problematic,
+as the state-of-the-art provides only limited insight on residual attack surface and the completeness
+of the proposed defenses. In this paper, we present a sound and extensible systematization of transient
+execution attacks. Our systematization uncovers 7 (new) transient execution attacks that have
+been overlooked and not been investigated so far. This includes 2 new Meltdown variants: Meltdown-PK
+on Intel, and Meltdown-BR on Intel and AMD. It also includes 5 new Spectre mistraining strategies.
+We evaluate all 7 attacks in proof-of-concept implementations on 3 major processor vendors (Intel,
+AMD, ARM). Our systematization does not only yield a complete picture of the attack surface, but
+also allows a systematic evaluation of defenses. Through this systematic evaluation, we discover
+that we can still mount transient execution attacks that are supposed to be mitigated by rolled out
+patches. 

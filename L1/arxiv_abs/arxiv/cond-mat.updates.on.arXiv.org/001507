@@ -1,0 +1,16 @@
+Polymer composites with thermally conductive nanoscale filler particles, such as graphene and
+hexagonal boron nitride (h-BN), are promising for certain heat transfer applications. While graphene-polymer
+composites have been extensively investigated, studies on h-BN-polymer composites has been relatively
+rare. In this paper, we use molecular dynamics (MD) simulations to study the interfacial thermal
+conductance (ITC) involved in the h-BN-polymer composites. We first compare the ITC across h-BN/hexane
+(C6H14) interfaces to that of graphene/hexane interfaces, where we found that the electrostatic
+interaction due to the partial charge on h-BN atoms can play an important role in such interfacial
+thermal transport. Based this finding, we further explore the thermal transport across different
+h-BN interfaces, including h-BN/hexanamine (C6H13NH2), h-BN/hexanol (C6H13OH), h-BN/hexanoic
+acid (C5H11COOH), where the increasingly polar molecules lead to systematic changes in the electrostatic
+interactions between h-BN and polymers. Heat flux decomposition and atom number density calculations
+are performed to understand the role of electrostatic interaction in thermal transport across
+h-BN-polymer interfaces. It was observed that stronger electrostatic interactions across the
+interfaces can help attract the polymer molecules closer to h-BN, and the reduced interface distance
+leads to larger heat flux contributed from both van der Waals and electrostatic forces. These results
+may provide useful information to guide the design of thermally conductive h-BN-polymer nanocomposites.

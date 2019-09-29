@@ -1,0 +1,17 @@
+The Segal algebra ${\textbf{S}}_{0}(G)$ is well defined for arbitrary locally compact Abelian
+Hausdorff (LCA) groups $G$. Despite the fact that it is a Banach space it is possible to derive a kernel
+theorem similar to the Schwartz kernel theorem, of course without making use of the Schwartz kernel
+theorem. First we characterize the bounded linear operators from ${\textbf{S}}_{0}(G_1)$ to
+${\textbf{S}}_{0}'(G_2)$ by distributions in ${\textbf{S}}_{0}'(G_1 \times G_2)$. We call
+this the "outer kernel theorem". The "inner kernel theorem" is concerned with the characterization
+of those linear operators which have kernels in the subspace ${\textbf{S}}_{0}(G_1 \times G_2)$,
+the main subject of this manuscript. We provide a description of such operators as regularizing
+operators in our context, mapping ${\textbf{S}}_{0}'(G_1)$ into test functions in ${\textbf{S}}_{0}(G_2)$,
+in a $w^{*}$-to norm continuous manner. The presentation provides a detailed functional analytic
+treatment of the situation and applies to the case of general LCA groups, without recurrence to the
+use of so-called Wilson bases, which have been used for the case of elementary LCA groups. The approach
+is then used in order to describe natural laws of composition which imitate the composition of linear
+mappings via matrix multiplications, now in a continuous setting. We use here that in a suitable
+(weak) form these operators approximate general operators. We also provide an explanation and
+mathematical justification used by engineers explaining in which sense pure frequencies "integrate"
+to a Dirac delta distribution. 

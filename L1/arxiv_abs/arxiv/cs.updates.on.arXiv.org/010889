@@ -1,0 +1,16 @@
+The need for countering Advanced Persistent Threat (APT) attacks has led to the solutions that ubiquitously
+monitor system activities in each enterprise host, and perform timely abnormal system behavior
+detection over the stream of monitoring data. However, existing stream-based solutions lack explicit
+language constructs for expressing anomaly models that capture abnormal system behaviors, thus
+facing challenges in incorporating expert knowledge to perform timely anomaly detection over
+the large-scale monitoring data. To address these limitations, we build SAQL, a novel stream-based
+query system that takes as input, a real-time event feed aggregated from multiple hosts in an enterprise,
+and provides an anomaly query engine that queries the event feed to identify abnormal behaviors
+based on the specified anomaly models. SAQL provides a domain-specific query language, Stream-based
+Anomaly Query Language (SAQL), that uniquely integrates critical primitives for expressing major
+types of anomaly models. In the demo, we aim to show the complete usage scenario of SAQL by (1) performing
+an APT attack in a controlled environment, and (2) using SAQL to detect the abnormal behaviors in
+real time by querying the collected stream of system monitoring data that contains the attack traces.
+The audience will have the option to perform the APT attack themselves under our guidance, and interact
+with the system and detect the attack footprints in real time via issuing queries and checking the
+query results through a command-line UI. 

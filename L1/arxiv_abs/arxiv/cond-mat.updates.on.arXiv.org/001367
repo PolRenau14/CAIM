@@ -1,0 +1,17 @@
+Motivated by recent experimental suggestions of charge-order-driven ferroelectricity in organic
+charge-transfer salts, such as $\kappa$-(BEDT-TTF)$_2$Cu[N(CN)$_2$]Cl, we investigate magnetic
+and charge-ordered phases that emerge in an extended two-orbital Hubbard model on the anisotropic
+triangular lattice at $3/4$ filling. This model takes into account the presence of two organic BEDT-TTF
+molecules, which form a dimer on each site of the lattice, and includes short-range intramolecular
+and intermolecular interactions and hoppings. By using variational wave functions and quantum
+Monte Carlo techniques, we find two polar states with charge disproportionation inside the dimer,
+hinting to ferroelectricity. These charge-ordered insulating phases are stabilized in the strongly
+correlated limit and their actual charge pattern is determined by the relative strength of intradimer
+to interdimer couplings. Our results suggest that ferroelectricity is not driven by magnetism,
+since these polar phases can be stabilized also without antiferromagnetic order and provide a possible
+microscopic explanation of the experimental observations. In addition, a conventional dimer-Mott
+state (with uniform density and antiferromagnetic order) and a nonpolar charge-ordered state
+(with charge-rich and charge-poor dimers forming a checkerboard pattern) can be stabilized in
+the strong-coupling regime. Finally, when electron-electron interactions are weak, metallic
+states appear, with either uniform charge distribution or a peculiar $12$-site periodicity that
+generates honeycomb-like charge order. 

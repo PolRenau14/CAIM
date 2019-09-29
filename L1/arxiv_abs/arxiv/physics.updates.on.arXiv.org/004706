@@ -1,0 +1,17 @@
+The transport and deposition of heavy particles over complex surface topography by turbulent fluid
+flow is an important problem in a number of disciplines, including sediment and snow transport,
+ecology and plant pathology, aeolian processes, and geomorphology. This article presents a framework
+to simulate the transport and deposition of heavy particles over complex surfaces using the large
+eddy simulation (LES) technique. An immersed boundary LES code is coupled with an Eulerian particle
+code that solves the advection-diffusion equation for the resolved particle concentration field.
+The mass conservation equation for the particle phase is discretized in a finite volume framework
+using a Cartesian cut cell method that reshapes finite volume cells intersected by the immersed
+boundary surface and conserves mass accurately. The proposed numerical model is compared with
+data from wind tunnel experiments of heavy particle deposition over topography and is found to have
+good agreement with observed deposition patterns. An LES case study of snow deposition over idealized
+topography leads to several new insights. Particle inertia leads to relative velocities between
+the particles and fluid in regions of mean flow acceleration, thereby enhancing deposition on the
+windward side of obstacles and suppressing deposition on the leeward side. In addition, it is found
+that the mean components of particle inertia are a factor of 6 or more larger than the turbulent components,
+indicating that the enhancement/suppression of deposition by topography can be modeled in terms
+of mean flow quantities. 

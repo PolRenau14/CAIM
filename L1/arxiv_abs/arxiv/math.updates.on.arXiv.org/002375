@@ -1,0 +1,16 @@
+In this paper, we analyse piecewise deterministic Markov processes, as introduced in Davis (1984).
+Many models in insurance mathematics can be formulated in terms of the general concept of piecewise
+deterministic Markov processes. In this context, one is interested in computing certain quantities
+of interest such as the probability of ruin of an insurance company, or the insurance company's value,
+defined as the expected discounted future dividend payments until the time of ruin. Instead of explicitly
+solving the integro-(partial) differential equation related to the quantity of interest considered
+(an approach which can only be used in few special cases), we adapt the problem in a manner that allows
+us to apply deterministic numerical integration algorithms such as quasi-Monte Carlo rules; this
+is in contrast to applying random integration algorithms such as Monte Carlo. To this end, we reformulate
+a general cost functional as a fixed point of a particular integral operator, which allows for iterative
+approximation of the functional. Furthermore, we introduce a smoothing technique which is applied
+to the integrands involved, in order to use error bounds for deterministic cubature rules. On the
+analytical side, we prove a convergence result for our PDMP approximation, which is of independent
+interest as it justifies phase-type approximations on the process level. We illustrate the smoothing
+technique for a risk-theoretic example, and provide a comparative study of deterministic and Monte
+Carlo integration. 

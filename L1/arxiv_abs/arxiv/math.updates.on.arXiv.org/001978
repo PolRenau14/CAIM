@@ -1,0 +1,16 @@
+We propose a new algorithm for finite sum optimization which we call the curvature-aided incremental
+aggregated gradient (CIAG) method. Motivated by the problem of training a classifier for a d-dimensional
+problem, where the number of training data is $m$ and $m \gg d \gg 1$, the CIAG method seeks to accelerate
+incremental aggregated gradient (IAG) methods using aids from the curvature (or Hessian) information,
+while avoiding the evaluation of matrix inverses required by the incremental Newton (IN) method.
+Specifically, our idea is to exploit the incrementally aggregated Hessian matrix to trace the full
+gradient vector at every incremental step, therefore achieving an improved linear convergence
+rate over the state-of-the-art IAG methods. For strongly convex problems, the fast linear convergence
+rate requires the objective function to be close to quadratic, or the initial point to be close to
+optimal solution. Importantly, we show that running one iteration of the CIAG method yields the
+same improvement to the optimality gap as running one iteration of the full gradient method, while
+the complexity is $O(d^2)$ for CIAG and $O(md)$ for the full gradient. Overall, the CIAG method strikes
+a balance between the high computation complexity incremental Newton-type methods and the slow
+IAG method. Our numerical results support the theoretical findings and show that the CIAG method
+often converges with much fewer iterations than IAG, and requires much shorter running time than
+IN when the problem dimension is high. 

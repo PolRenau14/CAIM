@@ -1,0 +1,16 @@
+We present a study of the relative orientation between the plane-of-the-sky magnetic field and
+the filamentary structures hosting the Planck Galactic Cold Clumps. In our analysis, the magnetic
+field angles are obtained from the sub-millimeter linear polarization measurements by the Planck
+satellite. We use an improved version of the Rolling Hough Transform method to detect the filamentary
+structures in the Planck data. We separate the polarization angles in the filaments and their background
+using the assumption of a linear contribution of both components to the observed Stokes Q and U parameters
+in optically thin media. After geometrically separating the clump and filament contributions
+to the signal, we observe a tendency for perpendicular alignment of the matter with the magnetic
+field in the clumps located in high-density environments. The filaments without the clump contribution
+exhibit mostly parallel alignment with the filament magnetic field orientation. We find that the
+filamentary structures embedded in dense environments do not show any particular preferential
+alignment whereas those embedded in low-density environments are mostly aligned with the background
+magnetic field orientation. However, the filamentary structures that are sufficiently denser
+than their surrounding exhibit a tendency to be perpendicular to the background magnetic field.
+We also find that in dense environments the magnetic fields in the background and in the filamentary
+structures are less likely to be aligned with each other. 

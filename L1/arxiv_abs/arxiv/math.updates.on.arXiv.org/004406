@@ -1,0 +1,16 @@
+We study a natural growth process with competition, which was recently introduced to analyze MDLA,
+a challenging model for the growth of an aggregate by diffusing particles. The growth process consists
+of two first-passage percolation processes $\text{FPP}_1$ and $\text{FPP}_\lambda$, spreading
+with rates $1$ and $\lambda>0$ respectively, on a graph $G$. $\text{FPP}_1$ starts from a single
+vertex at the origin $o$, while the initial configuration of $\text{FPP}_\lambda$ consists of
+infinitely many \emph{seeds} distributed according to a product of Bernoulli measures of parameter
+$\mu>0$ on $V(G)\setminus \{o\}$. $\text{FPP}_1$ starts spreading from time 0, while each seed
+of $\text{FPP}_\lambda$ only starts spreading after it has been reached by either $\text{FPP}_1$
+or $\text{FPP}_\lambda$. A fundamental question in this model, and in growth processes with competition
+in general, is whether the two processes coexist (i.e., both produce infinite clusters) with positive
+probability. We show that this is the case when $G$ is vertex transitive, non-amenable and hyperbolic,
+in particular, for any $\lambda>0$ there is a $\mu_0=\mu_0(G,\lambda)>0$ such that for all $\mu\in(0,\mu_0)$
+the two processes coexist with positive probability. This is the first non-trivial instance where
+coexistence is established for this model. We also show that $\text{FPP}_\lambda$ produces an
+infinite cluster almost surely for any positive $\lambda,\mu$, establishing fundamental differences
+with the behavior of such processes on $\mathbb{Z}^d$. 

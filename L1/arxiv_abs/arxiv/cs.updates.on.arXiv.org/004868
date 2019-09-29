@@ -1,0 +1,17 @@
+Millimeter wave (mmWave) communications which essentially employ directional antennas find
+applications spanning from indoor short range wireless personal area networks to outdoor cellular
+networks. A thorough understanding of mmWave signal propagation through the wireless channel
+provides valuable insights for the design of such networks which in turn dictates the achievable
+performance limits. High path loss, penetration loss, and negligible signal scattering are certain
+distinctive features of the mmWave channel which necessitates the development of new mathematical
+models. Importantly, the impact of directional antennas which spatially filter multi-path components
+needs to be embodied as an integral part of the channel model. In this paper, we model outdoor directional
+non-line-of-sight mmWave channels using a combination of stochastic geometry and image theory
+by expressing channel parameters as joint functions of transmitter-receiver separation distance,
+antenna half power beamwidth, and antenna beam pointing direction. By approximating the signal
+propagation path due to first and second order reflections from buildings, closed form analytical
+expressions for average number of first order reflection components, path loss, and root-mean
+square delay spread of channel are derived. The accuracy of the model is verified by comparing numerically
+obtained results with experimental data reported by various urban outdoor peer-to-peer mmWave
+measurements, thus demonstrating the usefulness of the proposed analytical model for performance
+evaluation of mmWave communication networks. 

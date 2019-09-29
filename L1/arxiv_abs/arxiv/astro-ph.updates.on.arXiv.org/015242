@@ -1,0 +1,16 @@
+Testing gravity theory in the strong field region becomes a reality due to the observations of gravitational
+waves and black hole shadows. In this paper, we discuss how to constrain the possible deviations
+of the classical general relativity with the image of M87* observed by the Event Horizon Telescope.
+More precisely, we want to know where is the event horizon for a non-rotating black hole. General
+relativity predicts the horizon is located at the Schwarzschild radius $r_\textrm{s}$, while
+other gravity theories may give different predictions. We propose a parameterized Schwarzschild
+metric (PSM) in which the horizon is located at $r=nr_\textrm{s}$, where $n$ is a real free parameter,
+and prove general relativity with nonlinear electrodynamics allows $n\neq1$. In the weak field
+region, the PSM is equivalent to the Schwarzschild metric regardless of the value of $n$. In the strong
+field region, the difference between the PSM and Schwarzschild metric would leave an imprint on
+the shadow image. We present detailed calculations and discussions on the black hole shadows with
+large background light source and accretion disk in the PSM framework. More importantly, we point
+out that $n\approx2$ can be used to explain why the black hole mass measured by the shadow is a factor
+of about two larger than the previous gas dynamics measurements. If this explanation is confirmed
+to be right, then this phenomenon, together with the late-time cosmological acceleration, will
+be very important to test gravity theories. 

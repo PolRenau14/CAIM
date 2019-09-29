@@ -1,0 +1,16 @@
+Holmsen, Kyn\v{c}l and Valculescu recently conjectured that if a finite set $X$ with $\ell n$ points
+in $\mathbb{R}^d$ that is colored by $m$ different colors can be partitioned into $n$ subsets of
+$\ell$ points each, such that each subset contains points of at least $d$ different colors, then
+there exists such a partition of $X$ with the additional property that the convex hulls of the $n$
+subsets are pairwise disjoint. We prove a continuous analogue of this conjecture, generalized
+so that each subset contains points of at least $c$ different colors, where we also allow $c$ to be
+greater than $d$. Indeed, for integers $m, c$ and $d$ and a prime power $n=p^k$ such that $d \geq 2$
+and $m \geq n(c-d)+\frac{dn}{p}-\frac{n}{p}+1$, and for $m$ positive finite absolutely continuous
+measures $\mu_1, \dots, \mu_m$ on $\mathbb{R}^d$, we prove that there exists a partition of $\mathbb{R}^d$
+into $n$ convex sets, such that every set has positive measure with respect to at least $c$ of the measures
+$\mu_1, \dots, \mu_m$. Additionally, we obtain an equipartition of the measure $\mu_m$. On the
+other hand, by increasing the bound on $m$ by $n-1$, we obtain an equipartition of the sum of all measures
+instead. The proof relies on a configuration space/test map scheme that translates this problem
+into a novel question from equivariant topology: We show non-existence of $\mathfrak{S}_n$-equivariant
+maps from the ordered configuration space of $n$ points in $\mathbb{R}^d$ into the union of an arrangement
+of affine subspaces of a Euclidean space. 

@@ -1,0 +1,16 @@
+The recent emergence and success of electroencephalography (EEG) in low-cost portable devices,
+has opened the door to a new generation of applications processing a small number of EEG channels
+for health monitoring and brain-computer interfacing. These recordings are, however, contaminated
+by many sources of noise degrading the signals of interest, thus compromising the interpretation
+of the underlying brain state. In this work, we propose a new data-driven algorithm to effectively
+remove ocular and muscular artifacts from single-channel EEG: the surrogate-based artifact removal
+(SuBAR). Methods: By means of the time-frequency analysis of surrogate data, our approach is able
+to identify and filter automatically ocular and muscular artifacts embedded in single-channel
+EEG. Results: In a comparative study using artificially contami- nated EEG signals, the efficacy
+of the algorithm in terms of noise removal and signal distortion was superior to other traditionally-employed
+single-channel EEG denoising techniques: wavelet thresholding and the canonical correlation
+analysis combined with an advanced version of the empirical mode decomposition. Even in the presence
+of mild and severe artifacts, our artifact removal method provides a relative error 4 to 5 times lower
+than traditional techniques. Significance: In view of these results, the SuBAR method is a promising
+solution for mobile environments, such as ambulatory healthcare systems, sleep stage scoring
+or anesthesia monitoring, where very few EEG channels or even a single channel is available. 

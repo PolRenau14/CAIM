@@ -1,0 +1,16 @@
+People identification in video based on the way they walk (i.e. gait) is a relevant task in computer
+vision using a non-invasive approach. Standard and current approaches typically derive gait signatures
+from sequences of binary energy maps of subjects extracted from images, but this process introduces
+a large amount of non-stationary noise, thus, conditioning their efficacy. In contrast, in this
+paper we focus on the raw pixels, or simple functions derived from them, letting advanced learning
+techniques to extract relevant features. Therefore, we present a comparative study of different
+Convolutional Neural Network (CNN) architectures on three low-level features (i.e. gray pixels,
+optical flow channels and depth maps) on two widely-adopted and challenging datasets: TUM-GAID
+and CASIA-B. In addition, we perform a comparative study between different early and late fusion
+methods used to combine the information obtained from each kind of low-level features. Our experimental
+results suggest that (i) the use of hand-crafted energy maps (e.g. GEI) is not necessary, since equal
+or better results can be achieved from the raw pixels; (ii) the combination of multiple modalities
+(i.e. gray pixels, optical flow and depth maps) from different CNNs allows to obtain state-of-the-art
+results on the gait task with an image resolution several times smaller than the previously reported
+results; and, (iii) the selection of the architecture is a critical point that can make the difference
+between state-of-the-art results or poor results. 

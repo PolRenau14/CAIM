@@ -1,0 +1,17 @@
+Anisotropic thermoelectrics is a very interesting topic among recent research. The transport
+distribution function plays the central role on modeling the anisotropic thermoelectrics. The
+methodology of numerical integrations is used in previous literature on anisotropic transport,
+which does not capture the sharp change of transport distribution function and density of states
+at band edges. However, the sharp change of transport distribution function and density of states
+at band edges plays the central role in enhancing the thermoelectric performance. Thus, an analytical
+methodology that is robust on modeling the sharp change of transport distribution function and
+density of states at a band edges is needed. To our best knowledge, there has not been a paper giving
+the systematic study on the analytical models of anisotropic transport distribution function
+for different kinds of band valleys in different dimensions under different assumptions. Therefore,
+the main focus of this present paper is to develop such a robust analytical methodology on modeling
+the anisotropic transport distribution function. So our contributions are 1) we have developed
+a systematic method on model the anisotropic transport distribution function, for 3D, 2D and 1D
+systems, in parabolic, non-parabolic and linear dispersion relations, under both the relaxation
+time approximation and the mean free path approximation; 2) we have found that the Onsage's relation
+of transport can be violated under certain conditions; 3) we have compared our newly developed methodology
+with the traditional used numerical methodology. 

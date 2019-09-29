@@ -1,0 +1,16 @@
+In the aftermath of an extreme natural hazard, community residents must have access to functioning
+food retailers to maintain food security. Food security is dependent on supporting critical infrastructure
+systems, including electricity, potable water, and transportation. An understanding of the response
+of such interdependent networks and the process of post-disaster recovery is the cornerstone of
+an efficient emergency management plan. In this study, the interconnectedness among different
+critical facilities, such as electrical power networks, water networks, highway bridges, and
+food retailers, is modeled. The study considers various sources of uncertainty and complexity
+in the recovery process of a community to capture the stochastic behavior of the spatially distributed
+infrastructure systems. The study utilizes an approximate dynamic programming (ADP) framework
+to allocate resources to restore infrastructure components efficiently. The proposed ADP scheme
+enables us to identify near-optimal restoration decisions at the community level. Furthermore,
+we employ a simulated annealing (SA) algorithm to complement the proposed ADP framework and to identify
+near-optimal actions accurately. In the sequel, we use the City of Gilroy, California, USA to illustrate
+the applicability of the proposed methodology following a severe earthquake. The approach can
+be implemented efficiently to identify practical policy interventions to hasten recovery of food
+systems and to reduce adverse food-insecurity impacts for other hazards and communities. 

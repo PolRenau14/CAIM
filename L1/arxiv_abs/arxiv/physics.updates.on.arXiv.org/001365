@@ -1,0 +1,16 @@
+When a vortex refracts surface waves, the momentum flux carried by the waves changes direction and
+the waves induce a reaction force on the vortex. We study experimentally the resulting vortex distortion.
+Incoming surface gravity waves impinge on a steady vortex of velocity $U_0$ driven magneto-hydrodynamically
+at the bottom of a fluid layer. The waves induce a shift of the vortex center in the direction transverse
+to wave propagation, together with a decrease in surface vorticity. We interpret these two phenomena
+in the framework introduced by Craik and Leibovich (1976): we identify the dimensionless Stokes
+drift $S=U_s/U_0$ as the relevant control parameter, $U_s$ being the Stokes drift velocity of the
+waves. We propose a simple vortex line model which indicates that the shift of the vortex center originates
+from a balance between vorticity advection by the Stokes drift and self-advection of the vortex.
+The decrease in surface vorticity is interpreted as a consequence of vorticity expulsion by the
+fast Stokes drift, which confines it at depth. This purely hydrodynamic process is analogous to
+the magnetohydrodynamic expulsion of magnetic field by a rapidly moving conductor through the
+electromagnetic skin effect. We study vorticity expulsion in the limit of fast Stokes drift and
+deduce that the surface vorticity decreases as $1/S$, a prediction which is compatible with the
+experimental data. Such wave-induced vortex distortions have important consequences for the
+nonlinear regime of wave refraction: the refraction angle rapidly decreases with wave intensity.

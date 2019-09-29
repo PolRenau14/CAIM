@@ -1,0 +1,16 @@
+Estimation of reliable whole-brain connectivity is a crucial step towards the use of connectivity
+information in quantitative approaches to the study of neuropsychiatric disorders. When estimating
+brain connectivity a challenge is imposed by the paucity of time samples and the large dimensionality
+of the measurements. Bayesian estimation methods for network models offer a number of advantages
+in this context but are not commonly employed. Here we compare three different estimation methods
+for the multivariate Ornstein-Uhlenbeck model, that has recently gained some popularity for characterizing
+whole-brain connectivity. We first show that a Bayesian estimation of model parameters assuming
+uniform priors is equivalent to an application of the method of moments. Then, using synthetic data,
+we show that the Bayesian estimate scales poorly with number of nodes in the network as compared to
+an iterative Lyapunov optimization. In particular when the network size is in the order of that used
+for whole-brain studies (about 100 nodes) the Bayesian method needs about eight times more time
+samples than Lyapunov method in order to achieve similar estimation accuracy. We also show that
+the higher estimation accuracy of Lyapunov method is reflected in a much better classification
+of individuals based on the estimated connectivity from a real dataset of BOLD fMRI. Finally we show
+that the poor accuracy of Bayesian method is due to numerical errors, when the imaginary part of the
+connectivity estimate gets large compared to its real part. 

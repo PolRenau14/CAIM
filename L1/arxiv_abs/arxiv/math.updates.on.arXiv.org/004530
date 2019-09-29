@@ -1,0 +1,16 @@
+Applications in shape analysis and object classification often require maps between metric spaces
+which preserve geometry as much as possible. In this paper, we combine the Monge formulation of optimal
+transport with the Gromov-Hausdorff construction to define a measure of the minimum amount of geometric
+distortion required to map one metric measure space onto another. We show that the resulting quantity,
+called Gromov-Monge distance, defines an extended quasi-metric on the space of isomorphism classes
+of metric measure spaces and that it can be promoted to a true metric on certain subclasses of mm-spaces.
+We also give precise comparisons between Gromov-Monge distance and several other metrics which
+have appeared previously, such as the Gromov-Wasserstein metric and the continuous Procrustes
+metric. Finally, we derive polynomial-time computable lower bounds for Gromov-Monge distance.
+These lower bounds are expressed in terms of classical invariants of mm-spaces called distance
+distributions. In the second half of the paper, which may be of independent interest, we study the
+discriminative power of these lower bounds for simple subclasses of metric measure spaces. We first
+consider the case of planar curves, where we give a counterexample to the Curve Histogram Conjecture
+of Brinkman and Olver. Next we show that one of our lower bounds distinguishes metric trees locally---trees
+which lie sufficiently close to one another in Gromov-Hausdorff distance are always distinguished---and
+generically with respect to a natural measure on the space of trees. 

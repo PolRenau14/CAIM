@@ -1,0 +1,16 @@
+Recent research shows that the surface wave energy dissipation, which is the vertical energy flux
+across the air-sea interface, can be calculated as the product of air density, reference wind speed
+cubed and an energy transfer coefficient determined by the dimensionless parameters made of wind
+speed, significant wave height and dominant wave period. In a similar way, the horizontal wave energy
+flux of wind generated waves can be represented by the same dimensionless wind and wave parameters.
+Satellite altimeters routinely report reference wind speed and significant wave height. An algorithm
+to derive the characteristic wave period of ocean waves in the altimeter footprint using the similarity
+properties of ocean wind and waves is described. The vertical and horizontal energy fluxes derived
+from the satellite altimeter are in very good agreement with the estimation from ocean buoy measurements
+in four geography locations with significantly different wind and wave climates. The vertical
+energy flux follows closely the cubic wind speed dependence, reflecting the dominance of short
+wave contribution in wave generation and breaking dissipation. The wind speed dependence of horizontal
+energy flux is much weaker especially in mild to moderate wind speed, reflecting its dominance by
+long swell component. Application of the energy flux parameterization functions to satellite
+altimeter measurements offers an efficient method of estimating the air-sea exchange and ocean
+energy budget in global scale. Such data are extremely difficult to acquire using other means. 

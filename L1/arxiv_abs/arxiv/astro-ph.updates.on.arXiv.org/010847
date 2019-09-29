@@ -1,0 +1,17 @@
+We have observed three near-Earth objects(NEOs), 2017VR12, Camillo, and Midas during the year
+2018. The observations were made by the 1-m telescope of Yunnan Observatory over 2 nights. Their
+precise astrometric positions are derived from 989 CCD observations. The theoretical positions
+of asteroids are retrieved from the Jet Propulsion Laboratory (JPL) Horizons System and Institut
+de M\'{e}canique C\'{e}leste et de Calcul des \'{E}ph\'{e}m\'{e}rides (IMCCE). The positions
+of three asteroids are measured with respect to the stars in Gaia DR2 star catalogue. For 2017 VR12,
+the mean (O-C) of right ascension and declination are -0.090$^{''}$ and -0.623$^{''}$ based on
+the ephemeris of published JPL, but the mean (O-C) are 3.122$^{''}$ and -0.636$^{''}$ based on the
+ephemeris of published IMCCE. The great difference in declination could be explained by several
+factors. (1)The degenerated CCD images caused by the high apparent motion speed of the object leads
+to the reduction of positioning accuracy. (2)The poor timing system may bring the system error,
+especially in the high speed direction. (3)The asteroid may be perturbed by the earth when it approaches
+the earth too closely. The astrometric results show that the centroid centring method can reduce
+the dispersion of the non-Gaussian images compared with the PSF model method. For Camillo and Midas,
+the astrometric results are consistent based on two ephemerides. High-precision timing system,
+some astronomical effects and geometric distortion of CCD images should be carefully considered
+in the future works. 

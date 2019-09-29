@@ -1,0 +1,16 @@
+Magnetar flares excite strong Alfv\'{e}n waves in the magnetosphere of the neutron star. The wave
+energy can (1) dissipate in the magnetosphere, (2) convert to "fast modes" and possibly escape,
+and (3) penetrate the neutron star crust and dissipate there. We examine and compare the three options.
+Particularly challenging are nonlinear interactions between strong waves, which develop a cascade
+to small dissipative scales. This process can be studied in the framework of force-free electrodynamics
+(FFE). We perform three-dimensional FFE simulations to investigate Alfv\'{e}n wave dissipation,
+how long it takes, and how it depends on the initial wave amplitude on the driving scale. In the simulations,
+we launch two large Alfv\'{e}n wave packets that keep bouncing on closed magnetic field lines and
+collide repeatedly until the full turbulence spectrum develops. Besides dissipation due to the
+turbulent cascade, we find that in some simulations spurious energy losses occur immediately in
+the first collisions. This effect occurs in special cases where the FFE description breaks. It is
+explained with a simple one-dimensional model, which we examine in both FFE and full magnetohydrodynamic
+settings. We find that magnetospheric dissipation through nonlinear wave interactions is relatively
+slow and more energy is drained into the neutron star. The wave energy deposited into the star is promptly
+dissipated through plastic crustal flows induced at the bottom of the liquid ocean, and a fraction
+of the generated heat is radiated from the stellar surface. 

@@ -1,0 +1,16 @@
+We report the results of a Sloan Digital Sky Survey-IV eBOSS program to target X-ray sources and mid-infrared-selected
+WISE AGN candidates in a 36.8 deg$^2$ region of Stripe 82. About half this survey (15.6 deg$^2$) covers
+the largest contiguous portion of the Stripe 82 X-ray survey. This program represents the largest
+spectroscopic survey of AGN candidates selected solely by their WISE colors. We combine this sample
+with X-ray and WISE AGN in the field identified via other sources of spectroscopy, producing a catalog
+of 4847 sources that is 82% complete to $r\sim22$. Based on X-ray luminosities or WISE colors, 4730
+of these sources are AGN, with a median sample redshift of $z\sim1$. About 30% of the AGN are optically
+obscured (i.e., lack broad lines in their optical spectra). BPT analysis, however, indicates that
+50% of the WISE AGN at $z<0.5$ have emission line ratios consistent with star-forming galaxies,
+so whether they are buried AGN or star-forming galaxy contaminants is currently unclear. We find
+that 61% of X-ray AGN are not selected as MIR AGN, with 22% of X-ray AGN undetected by WISE. Most of these
+latter AGN have high X-ray luminosities ($L_{\rm x} > 10^{44}$ erg s$^{-1}$), indicating that MIR
+selection misses a sizable fraction of the highest luminosity AGN, as well as lower luminosity sources
+where AGN heated dust is not dominating the MIR emission. Conversely, $\sim$58% of WISE AGN are undetected
+by X-rays, though we do not find that they are preferentially redder than the X-ray detected WISE
+AGN. 

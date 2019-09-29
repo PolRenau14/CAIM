@@ -1,0 +1,16 @@
+In this study, we present a suite of high-resolution numerical simulations of an isolated galaxy
+to test a sub-grid framework to consistently follow the formation and dissociation of H$_2$ with
+non-equilibrium chemistry. The latter is solved via the package KROME, coupled to the mesh-less
+hydrodynamic code GIZMO. We include the effect of star formation (SF), modelled with a physically
+motivated prescription independent of H$_2$, supernova feedback and mass losses from low-mass
+stars, extragalactic and local stellar radiation, and dust and H$_2$ shielding, to investigate
+the emergence of the observed correlation between H$_2$ and SF rate surface densities. We present
+two different sub-grid models and compare them with on-the-fly radiative transfer (RT) calculations,
+to assess the main differences and limits of the different approaches. We also discuss a sub-grid
+clumping factor model to enhance the H$_2$ formation, consistent with our SF prescription, which
+is crucial, at the achieved resolution, to reproduce the correlation with H$_2$. We find that both
+sub-grid models perform very well relative to the RT simulation, giving comparable results, with
+moderate differences, but at much lower computational cost. We also find that, while the Kennicutt-Schmidt
+relation for the total gas is not strongly affected by the different ingredients included in the
+simulations, the H$_2$-based counterpart is much more sensitive, because of the crucial role played
+by the dissociating radiative flux and the gas shielding. 

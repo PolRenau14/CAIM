@@ -1,0 +1,16 @@
+While executives emphasize that human resources (HR) are a firm's biggest asset, the level of research
+attention devoted to planning talent pipelines for complex global organizational environments
+does not reflect this emphasis. Numerous challenges exist in establishing human resource management
+strategies aligned with strategic operations planning and growth strategies. We generalize the
+problem of managing talent from a supply-demand standpoint through a resource acquisition lens,
+to an industrial business case where an organization recruits for multiple roles given a limited
+pool of potential candidates acquired through a limited number of recruiting channels. In this
+context, we develop an innovative analytical model in a stochastic environment to assist managers
+with talent planning in their organizations. We apply supply chain concepts to the problem, whereby
+individuals with specific competencies are treated as unique products. We first develop a multi-period
+mixed integer nonlinear programming model and then exploit chance-constrained programming to
+a linearized instance of the model to handle stochastic parameters, which follow any arbitrary
+distribution functions. Next, we use an empirical study to validate the model with a large global
+manufacturing company, and demonstrate how the proposed model can effectively manage talents
+in a practical context. A stochastic analysis on the implemented case study reveals that a reasonable
+improvement is derived from incorporating randomness into the problem. 

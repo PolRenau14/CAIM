@@ -1,0 +1,17 @@
+We study two variants of the modified Watts threshold model with a noise (with nonconformity, in
+the terminology of social psychology) on a complete graph. Within the first version, a noise is introduced
+via so-called independence, whereas in the second version anticonformity plays the role of a noise,
+which destroys the order. The modified Watts threshold model, studied here, is homogeneous and
+posses an up-down symmetry, which makes it similar to other binary opinion models with a single-flip
+dynamics, namely the majority-vote and the q-voter models. Because within the majority-vote model
+with independence only continuous phase transitions are observed, whereas within the q-voter
+model with independence also discontinuous phase transitions are possible, we ask the question
+about the factor, which could be responsible for discontinuity of the order parameter. We investigate
+the model via mean-field approach, which gives exact result in the case of a complete graph, as well
+as via Monte Carlo simulations. Additionally we provide a heuristic reasoning, which explains
+observed phenomena. We show that indeed, if the threshold r = 0.5, which corresponds to the majority-vote
+model, an order-disorder transition is continuous. Moreover, results obtained for both versions
+of the model (one with independence and the second one with anticonformity) give the same results,
+only rescaled by the factor of 2. However, for r > 0.5 the jump of the order parameter and the hysteresis
+is observed for the model with independence, and both versions of the model give qualitatively different
+results. 

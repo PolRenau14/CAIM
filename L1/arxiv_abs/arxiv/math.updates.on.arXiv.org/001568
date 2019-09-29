@@ -1,0 +1,16 @@
+Classical dimensional analysis has two limitations: (i) the computed dimensionless groups are
+not unique, and (ii) the analysis does not measure relative importance of the dimensionless groups.
+We propose two algorithms for estimating unique and relevant dimensionless groups assuming the
+experimenter can control the system's independent variables and evaluate the corresponding dependent
+variable; e.g., computer experiments provide such a setting. The first algorithm is based on a response
+surface constructed from a set of experiments. The second algorithm uses many experiments to estimate
+finite differences over a range of the independent variables. Both algorithms are semi-empirical
+because they use experimental data to complement the dimensional analysis. We derive the algorithms
+by combining classical semi-empirical modeling with active subspaces, which---given a probability
+density on the independent variables---yield unique and relevant dimensionless groups. The connection
+between active subspaces and dimensional analysis also reveals that all empirical models are ridge
+functions, which are functions that are constant along low-dimensional subspaces in its domain.
+We demonstrate the proposed algorithms on the well-studied example of viscous pipe flow---both
+turbulent and laminar cases. The results include a new set of two dimensionless groups for turbulent
+pipe flow that are ordered by relevance to the system; the precise notion of relevance is closely
+tied to the derivative based global sensitivity metric from Sobol' and Kucherenko. 

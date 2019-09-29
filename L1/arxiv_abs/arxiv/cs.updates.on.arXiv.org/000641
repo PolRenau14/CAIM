@@ -1,0 +1,17 @@
+When data schemata are enriched with expressive constraints that aim at representing the domain
+of interest, in order to answer queries one needs to consider the logical theory consisting of both
+the data and the constraints. Query answering in such a context is called ontological query answering.
+Commonly adopted database constraints in this field are tuple-generating dependencies (TGDs)
+and equality-generating dependencies (EGDs). It is well known that their interaction leads to
+intractability or undecidability of query answering even in the case of simple subclasses. Several
+conditions have been found to guarantee separability, that is lack of interaction, between TGDs
+and EGDs. Separability makes EGDs (mostly) irrelevant for query answering and therefore often
+guarantees tractability, as long as the theory is satisfiable. In this paper we review the two notions
+of separability found in the literature, as well as several syntactic conditions that are sufficient
+to prove them. We then shed light on the issue of satisfiability checking, showing that under a sufficient
+condition called deep separability it can be done by considering the TGDs only. We show that, fortunately,
+in the case of TGDs and EGDs, separability implies deep separability. This result generalizes several
+analogous ones, proved ad hoc for particular classes of constraints. Applications include the
+class of sticky TGDs and EGDs, for which we provide a syntactic separability condition which extends
+the analogous one for linear TGDs; preliminary experiments show the feasibility of query answering
+in this case. 

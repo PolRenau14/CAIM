@@ -1,0 +1,16 @@
+Measurements of the cosmic ray antiproton spectrum can be used to search for contributions from
+annihilating dark matter and to constrain the dark matter annihilation cross section. Depending
+on the assumptions made regarding cosmic ray propagation in the Galaxy, such constraints can be
+quite stringent. We revisit this topic, utilizing a set of propagation models fit to the cosmic ray
+boron, carbon, oxygen and beryllium data. We derive upper limits on the dark matter annihilation
+cross section and find that when the cosmic ray propagation parameters are treated as nuisance parameters
+(as we argue is appropriate), the resulting limits are significantly less stringent than have been
+previously reported. We also note (as have several previous groups) that simple GALPROP-like diffusion-reacceleration
+models predict a spectrum of cosmic ray antiprotons that is in good agreement with PAMELA's observations
+above ~5 GeV, but that significantly underpredict the flux at lower energies. Although the complexity
+of modeling cosmic ray propagation at GeV-scale energies makes it difficult to determine the origin
+of this discrepancy, we consider the possibility that the excess antiprotons are the result of annihilating
+dark matter. Suggestively, we find that this excess is best fit for a dark matter mass of approximately
+35 GeV and annihilation cross section of approximately 1e-26 cm^3/s (to b-bbar), in good agreement
+with the mass and cross section previously shown to be required to generate the gamma-ray excess
+observed from the Galactic Center. 

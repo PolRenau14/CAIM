@@ -1,0 +1,16 @@
+Over the past decade, crowdsourcing has emerged as a cheap and efficient method of obtaining solutions
+to simple tasks that are difficult for computers to solve but possible for humans. The popularity
+and promise of crowdsourcing markets has led to both empirical and theoretical research on the design
+of algorithms to optimize various aspects of these markets, such as the pricing and assignment of
+tasks. Much of the existing theoretical work on crowdsourcing markets has focused on problems that
+fall into the broad category of online decision making; task requesters or the crowdsourcing platform
+itself make repeated decisions about prices to set, workers to filter out, problems to assign to
+specific workers, or other things. Often these decisions are complex, requiring algorithms that
+learn about the distribution of available tasks or workers over time and take into account the strategic
+(or sometimes irrational) behavior of workers. As human computation grows into its own field, the
+time is ripe to address these challenges in a principled way. However, it appears very difficult
+to capture all pertinent aspects of crowdsourcing markets in a single coherent model. In this paper,
+we reflect on the modeling issues that inhibit theoretical research on online decision making for
+crowdsourcing, and identify some steps forward. This paper grew out of the authors' own frustration
+with these issues, and we hope it will encourage the community to attempt to understand, debate,
+and ultimately address them. The authors welcome feedback for future revisions of this paper. 

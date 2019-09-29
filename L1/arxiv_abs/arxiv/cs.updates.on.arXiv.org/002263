@@ -1,0 +1,16 @@
+The vehicle to represent Knowledge Organization Systems (KOSs) in the environment of the Semantic
+Web and linked data is the Simple Knowledge Organization System (SKOS). SKOS provides a way to assign
+a URI to each concept, and this URI functions as a surrogate for the concept. This fact makes of main
+concern the need to clarify the URIs' ontological meaning. The aim of this study is to investigate
+the relation between the ontological substance of KOS concepts and concepts revealed through the
+grammatical and syntactic formalisms of natural language. For this purpose, we examined the dividableness
+of concepts in specific KOSs (i.e. a thesaurus, a subject headings system and a classification scheme)
+by applying Natural Language Processing (NLP) techniques (i.e. morphosyntactic analysis) to
+the lexical representations (i.e. RDF literals) of SKOS concepts. The results of the comparative
+analysis reveal that, despite the use of multi-word units, thesauri tend to represent concepts
+in a way that can hardly be further divided conceptually, while Subject Headings and Classification
+Schemes - to a certain extent - comprise terms that can be decomposed into more conceptual constituents.
+Consequently, SKOS concepts deriving from thesauri are more likely to represent atomic conceptual
+units and thus be more appropriate tools for inference and reasoning. Since identifiers represent
+the meaning of a concept, complex concepts are neither the most appropriate nor the most efficient
+way of modelling a KOS for the Semantic Web. 

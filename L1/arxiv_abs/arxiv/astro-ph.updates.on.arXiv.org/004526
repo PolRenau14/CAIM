@@ -1,0 +1,16 @@
+The volume of data that will be produced by new-generation surveys requires automatic classification
+methods to select and analyze sources. Indeed, this is the case for the search for strong gravitational
+lenses, where the population of the detectable lensed sources is only a very small fraction of the
+full source population. We apply for the first time a morphological classification method based
+on a Convolutional Neural Network (CNN) for recognizing strong gravitational lenses in $255$ square
+degrees of the Kilo Degree Survey (KiDS), one of the current-generation optical wide surveys. The
+CNN is currently optimized to recognize lenses with Einstein radii $\gtrsim 1.4$ arcsec, about
+twice the $r$-band seeing in KiDS. In a sample of $21789$ colour-magnitude selected Luminous Red
+Galaxies (LRG), of which three are known lenses, the CNN retrieves 761 strong-lens candidates and
+correctly classifies two out of three of the known lenses. The misclassified lens has an Einstein
+radius below the range on which the algorithm is trained. We down-select the most reliable 56 candidates
+by a joint visual inspection. This final sample is presented and discussed. A conservative estimate
+based on our results shows that with our proposed method it should be possible to find $\sim100$ massive
+LRG-galaxy lenses at $z\lsim 0.4$ in KiDS when completed. In the most optimistic scenario this number
+can grow considerably (to maximally $\sim$2400 lenses), when widening the colour-magnitude selection
+and training the CNN to recognize smaller image-separation lens systems. 

@@ -1,0 +1,16 @@
+Robust navigation in urban environments has received a considerable amount of both academic and
+commercial interest over recent years. This is primarily due to large commercial organizations
+such as Google and Uber stepping into the autonomous navigation market. Most of this research has
+shied away from Global Navigation Satellite System (GNSS) based navigation. The aversion to utilizing
+GNSS data is due to the degraded nature of the data in urban environment (e.g., multipath, poor satellite
+visibility). The degradation of the GNSS data in urban environments makes it such that traditional
+(GNSS) positioning methods (e.g., extended Kalman filter, particle filters) perform poorly.
+However, recent advances in robust graph theoretic based sensor fusion methods, primarily applied
+to Simultaneous Localization and Mapping (SLAM) based robotic applications, can also be applied
+to GNSS data processing. This paper will utilize one such method known as the factor graph in conjunction
+several robust optimization techniques to evaluate their applicability to robust GNSS data processing.
+The goals of this study are two-fold. First, for GNSS applications, we will experimentally evaluate
+the effectiveness of robust optimization techniques within a graph-theoretic estimation framework.
+Second, by releasing the software developed and data sets used for this study, we will introduce
+a new open-source front-end to the Georgia Tech Smoothing and Mapping (GTSAM) library for the purpose
+of integrating GNSS pseudorange observations. 

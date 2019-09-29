@@ -1,0 +1,16 @@
+This paper reports experimental results on self-organizing wireless networks carried by small
+flying robots. Flying ad hoc networks (FANETs) composed of small unmanned aerial vehicles (UAVs)
+are flexible, inexpensive and fast to deploy. This makes them a very attractive technology for many
+civilian and military applications. Due to the high mobility of the nodes, maintaining a communication
+link between the UAVs is a challenging task. The topology of these networks is more dynamic than that
+of typical mobile ad hoc networks (MANETs) and of typical vehicle ad hoc networks (VANETs). As a consequence,
+the existing routing protocols designed for MANETs partly fail in tracking network topology changes.
+In this work, we compare two different routing algorithms for ad hoc networks: optimized link-state
+routing (OLSR), and predictive-OLSR (P-OLSR). The latter is an OLSR extension that we designed
+for FANETs; it takes advantage of the GPS information available on board. To the best of our knowledge,
+P-OLSR is currently the only FANET-specific routing technique that has an available Linux implementation.
+We present results obtained by both Media Access Control (MAC) layer emulations and real-world
+experiments. In the experiments, we used a testbed composed of two autonomous fixed-wing UAVs and
+a node on the ground. Our experiments evaluate the link performance and the communication range,
+as well as the routing performance. Our emulation and experimental results show that P-OLSR significantly
+outperforms OLSR in routing in the presence of frequent network topology changes. 

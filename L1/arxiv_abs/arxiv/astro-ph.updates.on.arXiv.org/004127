@@ -1,0 +1,17 @@
+On small scales the observable Universe is highly inhomogeneous, with galaxies and clusters forming
+a complex web of voids and filaments. The optical properties of such configurations can be quite
+different from the perfectly smooth Friedmann-Lema\^itre-Robertson-Walker (FLRW) solutions
+that are frequently used in cosmology, and must be well understood if we are to make precise inferences
+about fundamental physics from cosmological observations. We investigate this problem by calculating
+redshifts and luminosity distances within a class of cosmological models that are constructed
+explicitly in order to allow for large density contrasts on small scales. Our study of optics is then
+achieved by propagating one hundred thousand null geodesics through such space-times, with matter
+arranged in either compact opaque objects or diffuse transparent haloes. We find that in the absence
+of opaque objects, the mean of our ray tracing results faithfully reproduces the expectations from
+FLRW cosmology. When opaque objects with sizes similar to those of galactic bulges are introduced,
+however, we find that the mean of distance measures can be shifted up from FLRW predictions by as much
+as $10\%$. This bias is due to the viable photon trajectories being restricted by the presence of
+the opaque objects, which means that they cannot probe the regions of space-time with the highest
+curvature. It corresponds to a positive bias of order $10\%$ in the estimation of $\Omega_{\Lambda}$
+and highlights the important consequences that astronomical selection effects can have on cosmological
+observables. 

@@ -1,0 +1,17 @@
+CONTEXT: High-resolution spectroscopy across spatially resolved stellar surfaces aims at obtaining
+spectral-line profiles that are free from rotational broadening; the gradual changes of these
+profiles from disk center toward the stellar limb reveal properties of atmospheric fine structure,
+which are possible to model with 3-D hydrodynamics. AIMS: Previous such studies have only been carried
+out for the Sun but are now extended to other stars. In this work, profiles of photospheric spectral
+lines are retrieved across the disk of the planet-hosting star HD209458 (G0V). METHODS: During
+exoplanet transit, stellar surface portions successively become hidden and differential spectroscopy
+provides spectra of small surface segments temporarily hidden behind the planet. The method was
+elaborated in Paper I, with observable signatures quantitatively predicted from hydrodynamic
+simulations. RESULTS: From observations of HD209458 with spectral resolution R=80,000, photospheric
+FeI line profiles are obtained at several center-to-limb positions, reaching adequately high
+S/N after averaging over numerous similar lines CONCLUSIONS: Retrieved line profiles are compared
+to synthetic line profiles. Hydrodynamic 3-D models predict, and current observations confirm,
+that photospheric absorption lines become broader and shallower toward the stellar limb, reflecting
+that horizontal velocities in stellar granulation are greater than vertical velocities. Additional
+types of 3-D signatures will become observable with the highest resolution spectrometers at large
+telescopes. 

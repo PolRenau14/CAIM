@@ -1,0 +1,16 @@
+Magnetorotational instability (MRI) has a potential to generate the vigorous turbulence in protoplanetary
+disks, although its turbulence strength and accretion stress remains debatable because of the
+uncertainty of MRI with low ionization fraction. We focus on the heating of electrons by strong electric
+fields which amplifies nonideal magnetohydrodynamic effects. The heated electrons frequently
+collide with and stick to dust grains, which in turn decreases the ionization fraction and is expected
+to weaken the turbulent motion driven by MRI. In order to quantitatively investigate the nonlinear
+evolution of MRI including the electron heating, we perform magnetohydrodynamical simulation
+with the unstratified shearing box. We introduce a simple analytic resistivity model depending
+on the current density by mimicking resistivity given by the calculation of ionization. Our simulation
+confirms that the electron heating suppresses magnetic turbulence when the electron heating occurs
+with low current density. We find a clear correlation between magnetic stress and its current density,
+which means that the magnetic stress is proportional to the squared current density. When the turbulent
+motion is completely suppressed, laminar accretion flow is caused by ordered magnetic field. We
+give an analytical description of the laminar state by using a solution of linear perturbation equations
+with resistivity. We also propose a formula that successfully predicts the accretion stress in
+the presence of the electron heating. 

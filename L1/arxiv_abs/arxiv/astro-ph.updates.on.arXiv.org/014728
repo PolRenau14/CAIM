@@ -1,0 +1,16 @@
+The Cherenkov Telescope Array (CTA) represents the next generation of very high-energy gamma-ray
+observatory, which will provide broad coverage of gamma rays from 20 GeV to 300 TeV with unprecedented
+sensitivity. CTA will employ three different sizes of telescopes, and the Large-Sized Telescopes
+(LSTs) of 23-m diameter dish will provide the sensitivity in the lowest energies down to 20 GeV. The
+first LST prototype has been inaugurated in October 2018 at La Palma (Canary Islands, Spain) and
+has entered the commissioning phase. The camera of the LST consists of 265 PMT modules. Each module
+is equipped with seven high-quantum-efficiency Photomultiplier Tubes (PMTs), a slow control
+board, and a readout board. Ensuring high uniformity and precise characterization of the camera
+is the key aspects leading to the best performance and low systematic uncertainty of the LST cameras.
+Therefore, prior to the installation on site, we performed a quality check of all PMT modules. Moreover,
+the absolute calibration of light throughput is essential to reconstruct the amount of light received
+by the telescope. The amount of light is affected by the atmosphere, by the telescope optical system
+and camera, and can be calibrated using the ring-shaped images produced by cosmic-ray muons. In
+this contribution, we will show the results of off-site quality control of PMT modules and on-site
+calibration using muon rings. We will also highlight the status of the development of Silicon Photomultiplier
+modules that could be considered as a replacement of PMT modules for further improvement of the camera.

@@ -1,0 +1,16 @@
+A graph $G$ with $n$ vertices is called an outerstring graph if it has an intersection representation
+of a set of $n$ curves inside a disk such that one endpoint of every curve is attached to the boundary
+of the disk. Given an outerstring graph representation, the Maximum Independent Set (MIS) problem
+of the underlying graph can be solved in $O(s^3)$ time, where $s$ is the number of segments in the representation
+(Keil et al., Comput. Geom., 60:19--25, 2017). If the strings are of constant size (e.g., line segments,
+L-shapes, etc.), then the algorithm takes $O(n^3)$ time. In this paper, we examine the fine-grained
+complexity of the MIS problem on some well-known outerstring representations. We show that solving
+the MIS problem on grounded segment and grounded square-L representations is at least as hard as
+solving MIS on circle graph representations. Note that no $O(n^{2-\delta})$-time algorithm,
+$\delta>0$, is known for the MIS problem on circle graphs. For the grounded string representations
+where the strings are $y$-monotone simple polygonal paths of constant length with segments at integral
+coordinates, we solve MIS in $O(n^2)$ time and show this to be the best possible under the strong exponential
+time hypothesis (SETH). For the intersection graph of $n$ L-shapes in the plane, we give a $(4\cdot
+\log OPT)$-approximation algorithm for MIS (where $OPT$ denotes the size of an optimal solution),
+improving the previously best-known $(4\cdot \log n)$-approximation algorithm of Biedl and Derka
+(WADS 2017). 

@@ -1,0 +1,16 @@
+Network coding (NC) is a novel coding technology that can be seen as a generalization of classic point-to-point
+coding. As with classic coding, both information theoretical and algebraic views bring different
+and complementary insights of NC benefits and corresponding tradeoffs. However, the multi-user
+nature of NC and its inherent applicability across all layers of the protocol stack, call for novel
+design approaches towards efficient practical implementation of this technology. In this paper,
+we present a possible way forward to the design of NC as a virtual network functionality offered to
+the communication service designer. Specifically, we propose the integration of NC and Network
+Function Virtualization (NFV) architectural designs. The integration is realized as a toolbox
+of NC design domains that the service designer can use for flow engineering. Our proposed design
+framework combines network protocol-driven design and system modular-driven design approaches.
+In particular, the adaptive choice of the network codes and its use for a specific service can then
+be tailored and optimized depending on the ultimate service intent and underlying (virtualized)
+system or network. We work out a complete use case where we design geo-network coding, an application
+of NC for which coding rate is optimized using databases of geo-location information towards an
+energy-efficient use of resources. Our numerical results highlight the benefits of both the proposed
+NC design framework and the specific application. 

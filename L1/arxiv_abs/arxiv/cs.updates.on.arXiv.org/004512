@@ -1,0 +1,16 @@
+Integer programs with a fixed number of constraints can be solved in pseudo-polynomial time. We
+present a surprisingly simple algorithm and matching conditional lower bounds. Consider an IP
+in standard form $\max\{c^T x : A x = b, x\in \mathbb Z^n_{\ge 0}\}$, where $A\in \mathbb Z^{m\times
+n}, b\in \mathbb Z^m$ and $c\in \mathbb Z^n$. Let $\Delta$ be an upper bound on the absolute values
+in $A$. We show that this IP can be solved in time $O(m\Delta)^{2m} \cdot \log(\lVert b \rVert_\infty)$.
+The previous best algorithm has a running time of $n\cdot O(m\Delta)^{2m}\cdot \lVert b \rVert_1^2$.
+The hardness of (min, +)-convolution has been used to prove conditional lower bounds on a number
+of polynomially solvable problems. We show that improving our algorithm for IPs of any fixed number
+of constraints is equivalent to improving (min, +)-convolution. More precisely, for any fixed
+$m$ there exists an algorithm for solving IPs with $m$ constraints in time $O(m(\Delta + \lVert b
+\rVert_\infty))^{2m-\delta}$ for some $\delta > 0$, if and only if there is a truly sub-quadratic
+algorithm for (min, +)-convolution. For the feasibility problem, where the IP has no objective
+function, we improve the running time to $O(m\Delta)^{m} \log(\Delta) \log (\Delta + \lVert b \rVert_\infty)$.
+We also give a matching lower bound here: For every fixed $m$ and $\delta > 0$ there is no algorithm
+for testing feasibility of IPs with $m$ constraints in time $n^{O(1)} \cdot O(m(\Delta + \lVert
+b \rVert_\infty))^{m - \delta}$ unless the SETH is false. 

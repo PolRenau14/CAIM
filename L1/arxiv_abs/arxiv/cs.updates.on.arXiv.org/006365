@@ -1,0 +1,17 @@
+Existing model-based processes for embedded real-time systems support the analysis of various
+non-functional properties, most notably schedulability, through model checking, simulation
+or other means. The analysis results are then used for modifying the system's design, so that the
+expected properties are satisfied. A rigorous model-based design flow differs in that it aims at
+a system implementation derived from high-level models by applying a sequence of semantics-preserving
+transformations. Properties established at any design step are preserved throughout the subsequent
+steps including the executable implementation. We introduce such a design flow using a process
+network model of computation for application design at a high level, which combines streaming and
+reactive control processing with task parallelism. The schedulability of the so-called FPPNs
+(Fixed Priority Process Networks) is well-studied and various solutions have been presented.
+This article focuses on the design flow's steps for deriving executable implementations on the
+BIP (Behavior - Interaction - Priority) runtime environment. FPPNs are designed using the TASTE
+toolset, a convenient architecture description interface. In this way, the developers do not program
+explicitly low-level real-time OS services and the schedulability properties are guaranteed
+throughout the design steps by construction. The approach has been validated on the design of a real
+spacecraft on-board application that has been scheduled for execution on an industrial multicore
+platform. 

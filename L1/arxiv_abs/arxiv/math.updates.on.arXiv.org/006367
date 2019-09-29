@@ -1,0 +1,16 @@
+Binary segmentation, which is sequential in nature is thus far the most widely used method for identifying
+multiple change points in statistical models. Here we propose a top down methodology called arbitrary
+segmentation that proceeds in a conceptually reverse manner. We begin with an arbitrary superset
+of the parametric space of the change points, and locate unknown change points by suitably filtering
+this space down. Critically, we reframe the problem as that of variable selection in the change point
+parameters, this enables the filtering down process to be achieved in a single step with the aid of
+an $\ell_0$ regularization, thus avoiding the sequentiality of binary segmentation. We study
+this method under a high dimensional multiple change point linear regression model and show that
+rates convergence of the error in the regression and change point estimates are near optimal. We
+propose a simulated annealing (SA) approach to implement a key finite state space discrete optimization
+that arises in our method. Theoretical results are numerically supported via simulations. The
+proposed method is shown to possess the ability to agnostically detect the `no change' scenario.
+Furthermore, its computational complexity is of order $O(Np^2)$+SA, where SA is the cost of a SA
+optimization on a $N$(no. of change points) dimensional grid. Thus, the proposed methodology is
+significantly more computationally efficient than existing approaches. Finally, our theoretical
+results are obtained under weaker model conditions than those assumed in the current literature.

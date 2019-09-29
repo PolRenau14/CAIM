@@ -1,0 +1,16 @@
+The presence of a light vector field coupled to a scalar field during inflation makes a distinct prediction:
+the observed correlation functions of the cosmic microwave background (CMB) become statistically
+anisotropic. We study the implications of the current bound on statistical anisotropy derived
+from the Planck 2013 CMB temperature data for such a model. The previous calculations based on the
+attractor solution indicate that the magnitude of anisotropy in the power spectrum is proportional
+to $N^2$, where $N$ is the number of $e$-folds of inflation counted from the end of inflation. In this
+paper, we show that the attractor solution is not compatible with the current bound, and derive new
+predictions using another branch of anisotropic inflation. In addition, we improve upon the calculation
+of the mode function of perturbations by including the leading-order slow-roll corrections. We
+find that the anisotropy is roughly proportional to $[2(\varepsilon_H+4\eta_H)/3-4(c-1)]^{-2}$,
+where $\varepsilon_H$ and $\eta_H$ are the usual slow-roll parameters and $c$ is the parameter
+in the model, regardless of the form of potential of an inflaton field. The bound from Planck implies
+that breaking of rotational invariance during inflation (characterized by the background homogeneous
+shear divided by the Hubble rate) is limited to be less than ${\cal O}(10^{-9})$. This bound is many
+orders of magnitude smaller than the amplitude of breaking of time translation invariance, which
+is observed to be ${\cal O}(10^{-2})$. 

@@ -1,0 +1,16 @@
+Townsend (1976) proposed a structural model for the logarithmic layer (log-layer) of wall turbulence
+at high Reynolds numbers, where the dominant momentum-carrying motions are organised into a multi-scale
+population of eddies attached to the wall. In the attached eddy framework, the relevant length and
+velocity scales of the wall-attached eddies are the friction velocity and the distance to the wall.
+In the present work, we hypothesise that the momentum-carrying eddies are controlled by the mean
+momentum flux and mean shear with no explicit reference to the distance to the wall and propose new
+characteristic velocity, length, and time scales consistent with this argument. Our hypothesis
+is supported by direct numerical simulation (DNS) of turbulent channel flows driven by non-uniform
+body forces and modified mean velocity profiles, where the resulting outer-layer flow structures
+are substantially altered to accommodate the new mean momentum transfer. The proposed scaling
+is further corroborated by simulations where the no-slip wall is replaced by a Robin boundary condition
+for the three velocity components, allowing for substantial wall-normal transpiration at all
+lengths scales. We show that the outer-layer one-point statistics and spectra of this channel with
+transpiration agree quantitatively with those of its wall-bounded counterpart. The results reveal
+that the wall-parallel no-slip condition is not required to recover classic wall-bounded turbulence
+far from the wall and, more importantly, neither is the impermeability condition at the wall. 

@@ -1,0 +1,16 @@
+Deep 'Analog Artificial Neural Networks' (ANNs) perform complex classification problems with
+remarkably high accuracy. However, they rely on humongous amount of power to perform the calculations,
+veiling the accuracy benefits. The biological brain on the other hand is significantly more powerful
+than such networks and consumes orders of magnitude less power, indicating us about some conceptual
+mismatch. Given that the biological neurons communicate using energy efficient trains of spikes,
+and the behavior is non-deterministic, incorporating these effects in deep neural networks may
+drive us few steps towards a more realistic neuron. In this work, we propose how the inherent stochasticity
+of nano-scale resistive devices can be harnessed to emulate the functionality of a spiking neuron
+that can be incorporated in a deep Spiking Neural Networks (SNN). At the algorithmic level, we propose
+how the training can be modified to convert an ANN to an SNN while supporting the stochastic activation
+function offered by these devices. We devise circuit architectures to incorporate stochastic
+memristive neurons along with memristive crossbars which perform the functionality of the synaptic
+weights. We tested the proposed All Memristor deep SNN for image classification and observed only
+about 1% degradation in accuracy with the deep analog ANN baseline after incorporating the circuit
+and device related non-idealities. We witnessed that the network is robust to variations and consumes
+~x11 less energy than its CMOS counterpart. 

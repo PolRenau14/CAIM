@@ -1,0 +1,16 @@
+Stars passing too close to a black hole can produce tidal disruption events (TDEs), when the tidal
+force across the star exceeds the gravitational force that binds it. TDEs have usually been discussed
+in relation to massive black holes that reside in the centres of galaxies or lurk in star clusters.
+In this paper, we investigate the possibility that triple stars hosting a stellar black hole (SBH)
+may be sources of TDEs. We start from a triple system made up of three main sequence (MS) stars and model
+the supernova (SN) kick event that led to the production of an inner binary comprised of a SBH. We evolve
+these triples in isolation with a high precision $N$-body code and study their TDEs as a result of
+Kozai-Lidov oscillations. We explore a variety of distributions of natal kicks imparted during
+the SN event, various maximum initial separations for the triples, and different distributions
+of eccentricities. We show that the main parameter that governs the properties of the SBH-MS binaries
+which produce a TDE in triples is the mean velocity of the natal kick distribution. Smaller $\sigma$'s
+lead to larger inner and outer semi-major axes of the systems that undergo a TDE, smaller SBH masses,
+and longer timescales. We find that the fraction of systems that produce a TDE is roughly independent
+of the initial conditions, while estimate a TDE rate of $7.3\times 10^{-5}-4.1 \ \mathrm{yr}^{-1}$,
+depending on the prescriptions adopted for the SBH natal kicks. This rate is almost comparable to
+the expected TDE rate for massive black holes. 

@@ -1,0 +1,16 @@
+To derive a structure revealing expression of the neutrino oscillation probability in matter with
+non-unitarity, we formulate a perturbative framework with the expansion parameters, the ratio
+$\epsilon$ of the solar $\Delta m^2_{sol}$ to the atmospheric $\Delta m^2_{atm}$ and the parameters
+which describe unitarity violation (UV). Using the $\alpha$ parametrization for non-unitary
+mixing matrix and to first order in our perturbation theory, we show that there is a universal correlation
+between the $\nu$SM CP phase $\delta$ and the three UV complex $\alpha$ parameter phases. Using
+a phase convention of the mixing matrix $U_{\text{\tiny MNS}}$ in which $e^{ \pm i \delta }$ is attached
+to $\sin \theta_{23}$, it is expressed as $[e^{- i \delta } \alpha_{\mu e}$, $\alpha_{\tau e}$,
+$e^{i \delta} \alpha_{\tau \mu}]$, always the same combination in all the oscillation channels.
+The generation mechanism of the phase correlation and the reason for its stability is elucidated.
+However, thanks to the $U_{\text{\tiny MNS}}$ convention dependence, we can eliminate $e^{ \pm
+i \delta }$ attached to the $\alpha$ parameters in a different convention with $e^{ \pm i \delta }$
+attached to $\sin \theta_{12}$. While it casts doubt on physical nature of the correlation, we describe
+the way of resolving this issue and the results emerged are briefly reported. Finally, we have clarified
+how unitary evolution of three active neutrinos can be reconciled with the non-unitarity of the
+whole system in the presence of non-unitary flavor mixing. 

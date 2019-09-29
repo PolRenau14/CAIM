@@ -1,0 +1,16 @@
+Near the beginning of the century, Wright and Fisher devised an elegant, mathematically tractable
+model of gene reproduction and replacement that laid the foundation for contemporary population
+genetics. The Wright-Fisher model and its extensions have given biologists powerful tools of statistical
+inference that enabled the quantification of genetic drift and selection. Given the utility of
+these tools, we often forget that their model - for mathematical, and not biological reasons - makes
+assumptions that are violated in most real-world populations. In this paper, I consider an alternative
+framework that merges P. A. P. Moran's continuous-time Markov chain model of allele frequency with
+the density dependent models of ecological competition proposed by Gause, Lotka and Volterra,
+that, unlike Moran's model allow for a stochastically varying -- but bounded -- population size.
+I require that allele numbers vary according to a density-dependent population process, for which
+the limiting law of large numbers is a dissipative, irreducible, competitive dynamical system.
+Under the assumption that this limiting system admits a codimension one submanifold of attractive
+fixed points -- a condition that naturally generalises the weak selection regime of classical population
+dynamics -- it is shown that for an appropriate rescaling of time, the finite dimensional distributions
+of the original process converge to those of a diffusion process on the submanifold. Weak convergence
+results are also obtained for a related process. 

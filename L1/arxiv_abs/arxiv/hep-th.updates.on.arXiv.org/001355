@@ -1,0 +1,16 @@
+Generalized quasi-topological gravities (GQTGs) are higher-curvature extensions of Einstein
+gravity characterized by the existence of non-hairy generalizations of the Schwarzschild black
+hole which satisfy $g_{tt}g_{rr}=-1$, as well as for having second-order linearized equations
+around maximally symmetric backgrounds. In this paper we provide strong evidence that any gravitational
+effective action involving higher-curvature corrections is equivalent, via metric redefinitions,
+to some GQTG. In the case of theories involving invariants constructed from contractions of the
+Riemann tensor and the metric, we show this claim to be true as long as (at least) one non-trivial GQTG
+invariant exists at each order in curvature ---and extremely conclusive evidence suggests this
+is the case in general dimensions. When covariant derivatives of the Riemann tensor are included,
+the evidence provided is not as definitive, but we still prove the claim explicitly for all theories
+including up to eight derivatives of the metric as well as for terms involving arbitrary contractions
+of two covariant derivatives of the Riemann tensor and any number of Riemann tensors. Our results
+suggest that the physics of generic higher-curvature gravity black holes is captured by their GQTG
+counterparts, dramatically easier to characterize and universal. As an example, we map the gravity
+sector of the Type-IIB string theory effective action in AdS$_5$ at order $\mathcal{O}({\alpha^{\prime}}^3)$
+to a GQTG and show that the thermodynamic properties of black holes in both frames match. 

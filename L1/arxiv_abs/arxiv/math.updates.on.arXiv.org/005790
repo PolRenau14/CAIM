@@ -1,0 +1,16 @@
+This paper concerns a high-dimensional stochastic programming problem minimizing the expected
+function of a matrix argument. To this problem, one of the most widely applied solution paradigms
+is the sample average approximation (SAA), which uses a sample average function as a surrogate to
+approximate the exact function of expected cost. The traditional sample complexity theories of
+the SAA require the sample size to be polynomial in the problem dimensionality. Such a sample requirement
+becomes easily prohibitive when optimizing functions of matrix arguments. Indeed, for a problem
+optimizing over a $p$-by-$p$ matrix, the sample complexity is given by $\tilde O(1)\cdot \frac{p^2}{\epsilon^2}\cdot\text{polylog}(\frac{1}{\epsilon})$,
+for some quantity $\tilde O(1)$ independent of dimensionality $p$ and sample size $n$, to achieve
+an $\epsilon$-suboptimality gap. Such sample complexity grows undesirably at a quadratic rate.
+To reduce the sample complexity this paper considers a low-rankness-inducing regularization
+scheme and shows that the sample complexity can be substantially reduced to $\tilde O(1)\cdot \frac{p\cdot
+\text{polylog}(p,\,\frac{1}{\epsilon})}{\epsilon^3}$. This is a significant improvement
+over traditional results in terms of the dependence on dimensionality $p$. Due to the close correspondence
+between stochastic programming and statistical learning, our results also indicate that high-dimensional
+low-rank matrix recovery is possible in general, even if the common assumption of restricted strong
+convexity is completely absent. 

@@ -1,0 +1,17 @@
+Given a fixed graph $H$ and positive integers $n$ and $b$, the strict $(1 \colon b)$ Avoider-Enforcer
+$H$-game, played on the edge set of $K_n$, has the following rules: In each turn Avoider picks exactly
+one edge, and then Enforcer picks exactly $b$ edges. Avoider wins if and only if the subgraph containing
+her/his edges is $H$-free after all edges are taken. The lower threshold of a graph $H$ with respect
+to $n$ is the largest $b_0$ for which Enforcer has a winning strategy for the $(1\colon b)$ $H$-game
+played on $K_n$ for any $b \leq b_0$, and the upper threshold is the largest $b$ for which Enforcer
+wins the $(1 \colon b)$ game. The separation conjecture of Hefetz, Krivelevich, Stojakovi\'c and
+Szab\'o states that for any non-trivial connected graph $H$, the lower threshold and the upper threshold
+of the Avoider-Enforcer $H$-game played on $K_n$ are not of the same order in $n$. Until now, the conjecture
+has been verified only for stars, by Grzesik, Mikala\v{c}ki, Nagy, Naor, Patkos and Skerman. In
+this work, we show that the conjecture holds for any unicyclic graph $H$, i.e., for any connected
+graph $H$ containing exactly one cycle. More specifically, it is shown that the lower threshold
+of any graph $H$ is $O(n^{v(H)/e(H)})$, and that this bound is tight for unicyclic graphs, so their
+lower threshold is $\Theta(n)$. On the other hand, the upper threshold of any unicyclic graph on
+$h$ vertices is $\Omega(n^{1+1/(h+1)})$ for any $n$ and $\Theta(n^{1+1/(h-1)})$ for infinitely
+many $n$. Along the way, we establish number-theoretic tools that might be useful for other problems
+of this type. 

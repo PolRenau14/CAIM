@@ -1,0 +1,16 @@
+Here we present a detailed analysis of the properties and evolution of different dwarf galaxies,
+candidate to host the coalescence of black hole binary systems (BHB) generating GW150914-like
+events. By adopting a novel theoretical framework coupling the binary population synthesis code
+\texttt{SeBa} with the Galaxy formation model \texttt{GAMESH}, we can investigate the detailed
+evolution of these objects in a well resolved cosmological volume of 4~cMpc, having a Milky Way-like
+(MW) galaxy forming at its center. We identify three classes of interesting candidate galaxies:
+MW progenitors, dwarf satellites and dwarf galaxies evolving in isolation. We find that: (i) despite
+differences in individual histories and specific environments the candidates reduce to only nine
+representative galaxies; (ii) among them, $\sim44\%$ merges into the MW halo progenitors by the
+redshift of the expected signal, while the remaining dwarfs are found as isolated or as satellites
+of the MW and their evolution is strongly shaped by both peculiar dynamical history and environmental
+feedback; (iii) a stringent condition for the environments where GW150914-like binaries can form
+comes from a combination of the accretion history of their DM halos and the radiative feedback in
+the high redshift universe; (iv) by comparing with the observed catalogues from DGS and ALLSMOG
+surveys we find two observed dwarfs respecting the properties predicted by our model. We finally
+note how the present analysis opens the possibility to build future strategies for host galaxy identification.

@@ -1,0 +1,17 @@
+This article deals with a conjecture, introduced in [GQ] (hereinafter $SFLT2$), which generalizes
+the second case of Fermat's Last Theorem: {\it Let $p>3$ be a prime. The diophantine equation
+$\frac{u^p+v^p}{u+v}=w_1^p$ with $u,v,u+v, w_1\in\Z\backslash\{0\}$, $u,v$ coprime and $v\equiv
+0 \mod p$ has no solution.} Let $\zeta$ be a $p$th primitive root of unity and $K:=\Q(\zeta)$. A prime
+$q$ is said {\it $p$-principal} if the class of any prime ideal $\mathfrak q_K$ of $K$ over $q$ is a
+$p$-power of a class. Assume that $SFLT2$ fails for $(p,u,v)$. Let $q$ be any odd prime coprime with
+$puv$, $f$ the order of $q\mod p$, $n$ the order of $\frac{v}{u}\mod q$, $\xi$ a primitive $n$th root
+of unity, $\mathfrak q$ the prime ideal $(q,u\xi-v)$ of $\Q(\xi)$. In this complement of the article
+[GQ] revisiting some works of Vandiver, we prove that, if $q$ is {\it $p$-principal} and $n\not=2p$
+then $$\Big(\frac{1+\xi\zeta^k}{1+\xi\zeta}\Big)^{(q^f-1)/p}\equiv 1\mod \mathfrak q for
+k=1,\dots,p-1.$$ We shall derive, by example, of this congruence that, for $p$ sufficiently large,
+a very large number of primes should divide $v$. In an other hand we shall show that if $q$ is any prime
+of order $f\mod p$ dividing $(u^p+v^p)$ then $$(1-\zeta)^{(q^f-1)/p}\equiv p^{-(q^f-1)/p}\mod
+q, $$ and a result of same nature if $q$ divides $u^p-v^p$, which reinforces strongly the first and
+second theorem of Furtw\"angler. The principle of proof relies on the $p$-Hilbert class field theory.
+Keywords: Fermat's Last Theorem; cyclotomic fields; cyclotomic units; class field theory; Vandiver's
+and Furtw\"angler's theorems 

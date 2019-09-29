@@ -1,0 +1,16 @@
+The thermalization of hot carriers and phonons gives direct insight into the scattering processes
+that mediate electrical and thermal transport. Obtaining the scattering rates for both hot carriers
+and phonons currently requires multiple measurements with incommensurate timescales. Here,
+transient extreme-ultraviolet (XUV) spectroscopy on the silicon 2p core level at 100 eV is used
+to measure hot carrier and phonon thermalization in Si(100) from tens of femtoseconds to 200 ps following
+photoexcitation of the indirect transition to the {\Delta} valley at 800 nm. The ground state XUV
+spectrum is first theoretically predicted using a combination of a single plasmon pole model and
+the Bethe-Salpeter equation (BSE) with density functional theory (DFT). The excited state spectrum
+is predicted by incorporating the electronic effects of photo-induced state-filling, broadening,
+and band-gap renormalization into the ground state XUV spectrum. A time-dependent lattice deformation
+and expansion is also required to describe the excited state spectrum. The kinetics of these structural
+components match the kinetics of phonons excited from the electron-phonon and phonon-phonon scattering
+processes following photoexcitation. Separating the contributions of electronic and structural
+effects on the transient XUV spectra allows the carrier population, the population of phonons involved
+in inter- and intra-valley electron-phonon scattering, and the population of phonons involved
+in phonon-phonon scattering to be quantified as a function of delay time. 

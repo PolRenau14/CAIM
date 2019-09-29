@@ -1,0 +1,16 @@
+When binary black holes form in the field, it is expected that their orbits typically circularize
+before coalescence. In galactic nuclei and globular clusters, binary black holes can form dynamically.
+Recent results suggest that $\approx5\%$ of mergers in globular clusters result from three-body
+interactions. These three-body interactions are expected to induce significant orbital eccentricity
+$\gtrsim 0.1$ when they enter the Advanced LIGO band at a gravitational-wave frequency of $10$ Hz.
+Measurements of binary black hole eccentricity therefore provide a clear means of determining
+whether or not dynamical formation in globular clusters is the primary channel for producing binary
+black hole mergers. We present a framework for performing Bayesian parameter estimation on gravitational-wave
+observations of black hole inspirals. Using this framework, we determine the minimum detectable
+eccentricity for an event with masses and distance similar to GW150914. At design sensitivity,
+we find that the current generation of advanced observatories will be sensitive to orbital eccentricities
+of $\gtrsim0.08$ at a gravitational-wave frequency of $10$ Hz, demonstrating that existing detectors
+can use eccentricity to unambiguously distinguish between field binaries and globular cluster
+triples. We demonstrate that given a fixed signal-to-noise ratio, eccentricity is easier to distinguish
+in lower-mass events. We discuss how measurements of eccentricity can be used to infer the population
+properties of binary black holes. 

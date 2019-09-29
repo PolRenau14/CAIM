@@ -1,0 +1,16 @@
+The growth of wireless devices affects the availability of limited frequencies or spectrum bands
+as it has been known that spectrum bands are a natural resource that cannot be added. Meanwhile, the
+licensed frequencies are idle most of the time. Cognitive radio is one of the solutions to solve those
+problems. Cognitive radio is a promising technology that allows the unlicensed users, known as
+secondary users (SUs) to access licensed bands without making interference to licensed users or
+primary users (PUs). As cloud computing has become popular in recent years, cognitive radio networks
+(CRNs) can be integrated with the cloud platform. One of the important issues in CRNs is security.
+It becomes a problem since CRNs use radio frequencies as a medium for transmitting and CRNs share
+the same issues with wireless communication systems. Another critical issue in CRNs is performance.
+Security has an adverse effect to performance and there are trade-offs between them. The goal of
+this paper is to investigate the performance related to security trade-off in CRNs with supporting
+cloud platforms. Furthermore, Queuing Network Models with preemptive resume and preemptive repeat
+identical priority are applied in this project to measure the impact of security on performance
+in CRNs with or without cloud platform. The generalized exponential (GE) type distribution is used
+to reflect the bursty inter-arrival and service times at the servers. The results show that the best
+performance is obtained when security is disabled and the cloud platform is enabled. 

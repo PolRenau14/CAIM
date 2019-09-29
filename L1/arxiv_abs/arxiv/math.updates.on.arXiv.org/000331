@@ -1,0 +1,16 @@
+A vector space S of linear operators between vector spaces U and V is called locally linearly dependent
+(in abbreviate form: LLD) when every vector x of U is annihilated by a non-zero operator in S. A duality
+argument bridges the theory of LLD spaces to the one of vector spaces of non-injective operators.
+This new insight yields a unified approach to rediscover basic LLD theorems and obtain many additional
+ones thanks to the power of formal matrix computations. In this article, we focus on the minimal rank
+for a non-zero operator in an LLD space. Among other things, we reprove the Bresar-Semrl theorem,
+which states that an n-dimensional LLD operator space always contains a non-zero operator with
+rank less than n, and we improve the Meshulam-Semrl theorem that examines the case when no non-zero
+operator has rank less than n-1. We also tackle the minimal rank problem for a non-zero operator in
+an n-dimensional operator space that is not algebraically reflexive. A theorem of Meshulam and
+Semrl states that, for all fields with large enough cardinality, a non-reflexive operator space
+with dimension n must contain a non-zero operator with rank at most 2n-2. We show that there are infinitely
+many integers n for which this bound is optimal for general infinite fields. Moreover, under mild
+cardinality assumptions, we obtain a complete classification of the non-reflexive n-dimensional
+operator spaces in which no non-zero operator has rank less than 2n-2. This classification involves
+a new algebraic structure called left-division-bilinearizable division algebras. 

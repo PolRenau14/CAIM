@@ -1,0 +1,16 @@
+This article describes the geometry of isomorphisms between complements of geometrically irreducible
+closed curves in the affine plane $\mathbb{A}^2$, over an arbitrary field, which do not extend to
+an automorphism of $\mathbb{A}^2$. We show that such isomorphisms are quite exceptional. In particular,
+they occur only when both curves are isomorphic to open subsets of the affine line $\mathbb{A}^1$,
+with the same number of complement points, over any field extension of the ground field. Moreover,
+the isomorphism is uniquely determined by one of the curves, up to left composition with an automorphism
+of $\mathbb{A}^2$, except in the case where the curve is isomorphic to the affine line $\mathbb{A}^1$
+or to the punctured line $\mathbb{A}^1 \setminus \{0\}$. If one curve is isomorphic to $\mathbb{A}^1$,
+then both curves are in fact equivalent to lines. In addition, for any positive integer $n$, we construct
+a sequence of $n$ pairwise non-equivalent closed embeddings of $\mathbb{A}^1 \setminus \{0\}$
+with isomorphic complements. In characteristic~$0$ we even construct infinite sequences with
+this property. Finally, we give a geometric construction that produces a large family of examples
+of non-isomorphic geometrically irreducible closed curves in $\mathbb{A}^2$ that have isomorphic
+complements, answering negatively the Complement Problem posed by Hanspeter Kraft.. This also
+gives a negative answer to the holomorphic version of this problem in any dimension $n \geq 2$. The
+question had been raised by Pierre-Marie Poloni. 

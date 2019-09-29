@@ -1,0 +1,16 @@
+We experimentally study the influence of wall roughness on bubble drag reduction in turbulent Taylor-Couette
+flow, i.e.\ the flow between two concentric, independently rotating cylinders. We measure the
+drag in the system for the cases with and without air, and add roughness by installing transverse
+ribs on either one or both of the cylinders. For the smooth wall case (no ribs) and the case of ribs on
+the inner cylinder only, we observe strong drag reduction up to $DR=33\%$ and $DR=23\%$, respectively,
+for a void fraction of $\alpha=6\%$. However, with ribs mounted on both cylinders or on the outer
+cylinder only, the drag reduction is weak, less than $DR=11\%$, and thus quite close to the trivial
+effect of reduced effective density. Flow visualizations show that stable turbulent Taylor vortices
+--- large scale vortical structures --- are induced in these two cases, i.e. the cases with ribs on
+the outer cylinder. These strong secondary flows move the bubbles away from the boundary layer,
+making the bubbles less effective than what had previously been observed for the smooth-wall case.
+Measurements with counter-rotating smooth cylinders, a regime in which pronounced Taylor rolls
+are also induced, confirm that it is really the Taylor vortices that weaken the bubble drag reduction
+mechanism. Our findings show that, although bubble drag reduction can indeed be effective for smooth
+walls, its effect can be spoiled by e.g.\ biofouling and omnipresent wall roughness, as the roughness
+can induce strong secondary flows. 

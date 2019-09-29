@@ -1,0 +1,17 @@
+We constructed a sample of 23,344 radio-loud active galactic nuclei (RLAGN) from the catalogue
+derived from the LOFAR Two-Metre Sky Survey (LoTSS) survey of the HETDEX Spring field. Although
+separating AGN from star-forming galaxies remains challenging, the combination of spectroscopic
+and photometric techniques we used gives us one of the largest available samples of candidate RLAGN.
+We used the sample, combined with recently developed analytical models, to investigate the lifetime
+distribution of RLAGN. We show that large or giant powerful RLAGN are probably the old tail of the
+general RLAGN population, but that the low-luminosity RLAGN candidates in our sample, many of which
+have sizes $<100$ kpc, either require a very different lifetime distribution or have different
+jet physics from the more powerful objects. We then used analytical models to develop a method of
+estimating jet kinetic powers for our candidate objects and constructed a jet kinetic luminosity
+function based on these estimates. These values can be compared to observational quantities, such
+as the integrated radiative luminosity of groups and clusters, and to the predictions from models
+of RLAGN feedback in galaxy formation and evolution. In particular, we show that RLAGN in the local
+Universe are able to supply all the energy required per comoving unit volume to counterbalance X-ray
+radiative losses from groups and clusters and thus prevent the hot gas from cooling. Our computation
+of the kinetic luminosity density of local RLAGN is in good agreement with other recent observational
+estimates and with models of galaxy formation. 

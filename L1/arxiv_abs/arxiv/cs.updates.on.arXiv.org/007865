@@ -1,0 +1,16 @@
+Cryptographic API misuses threaten software security. Examples include exposed secrets, predictable
+random numbers, and vulnerable certificate verification. Our goal in this work is to produce deployment-quality
+program analysis tools for automatically inspecting various cryptographic API uses in complex
+Java programs. The main challenge is how to reduce false positives (FP) without compromising analysis
+quality. Unfortunately, state-of-the-art solutions in this space were not designed to be deployment-grade
+and did not address this issue. Our main technical innovation is a set of algorithms for systematically
+removing irrelevant elements (from program slices) to reduce false alerts. We compared the detection
+capability of our tool, RIGORITYJ with popular commercial tools (e.g., DHS SWAMP and Synopsys Coverity)
+which shows that RIGORITYJ offers more coverage and soundness than all of them. Our evaluation on
+46 high-impact large-scale Apache projects and 6,181 Android apps, which generates many security
+insights. We observed violations for most of our 16 rules. 96\% of the Android vulnerabilities come
+from the libraries. There is a widespread insecure practice of storing plaintext passwords. We
+manually went through the 2,008 Apache alerts and confirmed 1,961 true positives (2.34% FP rate).
+We contacted Apache with our security findings. This helped multiple popular Apache projects to
+harden their code, including Spark, Ranger, and Ofbiz. We also discuss the pragmatic constraints
+that hinder secure coding. 

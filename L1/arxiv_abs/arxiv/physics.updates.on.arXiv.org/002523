@@ -1,0 +1,16 @@
+Correlation between tides and seismicity has puzzled geophysicists for more than one century.
+Many studies have tested the hypothesis that lunisolar tides trigger earthquakes. Most of them
+have been focused on regional data in geographical areas around Japan, Sumatra, Chile, Nepal, central
+Europe and United States. On the West Coast of South America, where failure orientation (mainly
+meridional) may favor the effects of tides on tectonic stresses, no in-depth regional studies are
+yet performed. In this work, we report the results of the first systematic exploration of the correlation
+between tides and seismic activity in northwestern areas of South America with a special focus in
+Colombia. We analyse a large set of 167,000 events between 1993 and 2016, most of them in the Bucaramanga
+and Cauca seismic nests. We implement a novel approach for the calculation of the tidal phases that
+considers astronomical factors. Despite previous negative results, attributable to lower statistics
+and an improper definition of the tidal phases, we find hints of a correlation anomaly between the
+diurnal and monthly phase with the occurrence of intermediate depth events. Our results seem to
+agree with earlier studies of moonquakes that demonstrated a correlation between deep events and
+the monthly component of earth tides. This work opens the road for an in-depth and more geographically
+broad analysis of tides and seismicity in South America. For that purpose, we introduce the tQuakes
+public information system that allows to explore tides-seismicity correlation using custom datasets.

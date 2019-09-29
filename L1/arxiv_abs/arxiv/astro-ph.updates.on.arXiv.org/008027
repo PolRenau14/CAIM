@@ -1,0 +1,17 @@
+We propose two methods for robustly estimating extragalactic distance errors in multi-measurement
+catalogs. We seek to improve upon more commonly used frequentist propagation-of-error methods,
+as they fail to explain both the scatter between different measurements and the effects of skewness
+in the metric distance probability distribution. For individual galaxies, the most transparent
+way to assess the variance of redshift independent distances is to directly sample the posterior
+probability distribution obtained from the mixture of reported measurements. However, sampling
+the posterior can be cumbersome for catalog-wide precision cosmology applications. We compare
+the performance of frequentist methods versus our proposed measures for estimating the true variance
+of the metric distance probability distribution. We provide pre-computed distance error data
+tables for galaxies in 3 catalogs: NED-D, HyperLEDA, and Cosmicflows-3. From a Markov Chain Monte
+Carlo-based analysis of systematic and random effects in the computed errors, we develop a predictive
+Bayesian model for the variance of distance errors for Tully-Fisher relation (TF) derived distances
+in NED-D. We validate this model with a Bayesian $p$-value computed using the Freeman-Tukey discrepancy
+measure as a posterior predictive check. We are then able to predict distance errors for 818 galaxies
+in the NED-D catalog which do not report TF distance modulus errors. Our goal is that our pre-computed
+errors are used in catalog-wide applications that require acknowledging the true variance of extragalactic
+distance measurements. 

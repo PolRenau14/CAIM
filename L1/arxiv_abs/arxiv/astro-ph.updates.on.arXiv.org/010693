@@ -1,0 +1,16 @@
+We present an empirical stellar spectra library created using spectra from the Large Sky Area Multi-Object
+Fiber Spectroscopic Telescope (LAMOST) DR5. This library represents a uniform data set ranging
+from 3750 through 8500K in effective temperature (T_eff), from -2.5 through +1.0 dex in metallicity
+([Fe/H]), and from 0 to 5.0 dex in gravity (log g). The spectra in the library have resolution R~1800,
+with well-calibrated fluxes and rest-framed wavelengths. Using a large number of red stars observed
+by LAMOST, we generated denser K type templates to fill in data missing from current empirical spectral
+libraries, particularly the late K type. For K giants, we calibrated the spectroscopic surface
+gravities against the asteroseismic surface gravities. To verify the reliability of the parameters
+labeled for this library, we performed an internal cross-validation by using a chi^2 minimization
+method to interpolate parameters of each individual spectrum using the remaining spectra in the
+library. We obtained precisions of 41 K, 0.11 dex, and 0.05 dex for T_eff, log g, and [Fe/H], respectively,
+which means the templates are labeled with correct stellar parameters. Through external comparisons,
+we confirmed that measurements of the stellar parameters through this library can achieve accuracies
+of approximately 125K in T_eff, 0.1 dex in [Fe/H] and 0.20 dex in log g without systematic offset.
+This empirical library is useful for stellar parameter measurements because it has large parameter
+coverage and full wavelength coverage from 3800 to 8900A. 

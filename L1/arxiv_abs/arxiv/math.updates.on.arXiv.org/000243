@@ -1,0 +1,16 @@
+A group A acting faithfully on a set X is 2-distinguishable if there is a 2-coloring of X that is not
+preserved by any nonidentity element of A, equivalently, if there is a proper subset of X with trivial
+setwise stabilizer. The motion of an element a in A is the number of points of X that are moved by a, and
+the motion of the group A is the minimal motion of its nonidentity elements. For finite A, the Motion
+Lemma says that if the motion of A is large enough (specifically at least 2 log_2 |A|), then the action
+is 2-distinguishable. For many situations where X has a combinatorial or algebraic structure,
+the Motion Lemma implies the action of Aut(X) on X is 2-distinguishable in all but finitely many instances.
+We prove an infinitary version of the Motion Lemma for countably infinite permutation groups, which
+states that infinite motion is large enough to guarantee 2-distinguishability. From this we deduce
+a number of results, including the fact that every locally finite, connected graph whose automorphism
+group is countably infinite is 2-distinguishable. One cannot extend the Motion Lemma to uncountable
+permutation groups, but nonetheless we prove that 2-distinguishable permutation groups with
+infinite motion are dense in the class of groups with infinite motion. We conjecture an extension
+of the Motion Lemma which we expect holds for a restricted class of uncountable permutation groups,
+and we conclude with a list of open questions. The consequences of our results are drawn for orbit
+equivalence of infinite permutation groups. 

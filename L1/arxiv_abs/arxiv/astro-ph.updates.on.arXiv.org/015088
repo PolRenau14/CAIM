@@ -1,0 +1,16 @@
+While it has been suggested that there is a connection between the magnetic properties and the internal
+structure of young stars, there have not been enough magnetic measurements to firmly establish
+such a correlation at the earliest ages. Here, we contribute to this endeavor by presenting stellar
+parameters and magnetic field strength measurements of BP Tau and V347 Aur, both stars observed
+with the near-infrared spectrograph iSHELL. We first test the accuracy of our method by fitting
+synthetic stellar spectra to a sample of nine main and post-main-sequence stars. We report uncertainties
+of $\sigma_{\rm Teff}$ = 91 K in temperature and $\sigma_{\rm log(g)}$ = 0.14 in gravity. We then
+apply the modeling technique to BP Tau and measure a surface magnetic field strength of $\langle
+\rm B \rangle $ = 2.5$^{+0.15}_{-0.16}$ kG, confirming literature results. For this star, however,
+we obtain a much lower temperature value than previous optical studies ($\Delta \rm T \sim 400$ K)
+and interpret this significant temperature difference as due to the relatively higher impact of
+starspots at near-infrared wavelengths than at optical wavelengths. We further apply this technique
+to the class I protostellar source V347 Aur and measure for the first time its magnetic field strength
+$\langle \rm B \rangle = $ 1.36$^{+0.06}_{-0.05}$ kG and its surface gravity log(g) = 3.25$^{+0.14}_{-0.14}$.
+Lastly, we combine our measurements with pre-main-sequence stellar evolutionary models and illustrate
+the effects produced by starspots on the retrieved masses and ages of young stars. 

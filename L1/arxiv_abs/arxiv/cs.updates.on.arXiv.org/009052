@@ -1,0 +1,16 @@
+We investigate three questions in Boolean Network Tomography, related to maximal vertex identifiability,
+i.e. the maximal number of failing nodes simultaneously identifiable in a network. First, how to
+characterize the identifiability of the network through structural measures of its topology;
+second, how many monitors are needed and where to place them to maximize identifiability of failures;
+third, which tradeoffs are there between the number of monitors and the maximal number of identifiable
+failures. We first consider Line-of-Sight networks and we characterize the maximal identifiability
+of such networks highlighting that vertex-connectivity plays a central role. Motivated by this
+observation, we give a precise characterization of the maximal identifiability in terms of vertex-connectivity
+for {\em any network}: using Menger's theorem, we prove that the maximal identifiability of any
+network $G$ is always either $\kappa(G)-2$ or $\kappa(G)-1$, where $\kappa(G)$ is $G$'s vertex
+connectivity. A consequence of this is a first algorithm based on the well-known Max-Flow problem
+to decide where to place the monitors in {\em any network} in order to maximize identifiability.
+Finally we initiate the study of maximal identifiability for random networks. We focus on two models:
+the classical Erd\H{o}s-R\`enyi model, and that of Random Regular graphs. The framework proposed
+in the paper allows a probabilistic analysis of the identifiability in random networks giving a
+tradeoff between the number of monitors to place and the maximal identifiability. 

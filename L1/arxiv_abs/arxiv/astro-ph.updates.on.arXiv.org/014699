@@ -1,0 +1,16 @@
+Context. The deuterium fraction in low-mass prestellar cores is a good diagnostic indicator of
+the initial phases of star formations, and it is also a fundamental quantity to infer the ionisation
+degree in these objects. Aims. With the analysis of multiple transitions of $\rm N_2H^+$, $\rm N_2D^+$,
+$\rm HC^{18}O^+$ and $\rm DCO^+$ we are able to determine the molecular column density maps and the
+deuterium fraction in $\rm N_2H^+$ and $\rm HCO^+$ toward the prototypical prestellar core L1544.
+This is the preliminary step to derive the ionisation degree in the source. Methods. We use a non-local
+thermodynamic equilibrium (non-LTE) radiative transfer code, combined with the molecular abundances
+derived from a chemical model, to infer the excitation conditions of all the observed transitions,
+which allows us to derive reliable maps of each molecule's column density. The ratio between the
+column density of a deuterated species and its non-deuterated counterpart gives the searched deuteration
+level. Results. The non-LTE analysis confirms that, for the analysed molecules, higher-J transitions
+are characterised by excitation temperatures $\approx 1-2\,$K lower than the lower-J ones. The
+chemical model that provides the best fit to the observational data predict the depletion of $\rm
+N_2H^+$ and to a lesser extent of $\rm N_2D^+$ in the innermost region. The peak values for the deuterium
+fraction that we find are $\mathrm{D/H_{N_2H^+}} = 0.26^{+0.15}_{-0.14}$ and $\mathrm{D/H_{HCO^+}}
+= 0.035^{+0.015}_{-0.012}$, in good agreement with previous estimates in the source. 

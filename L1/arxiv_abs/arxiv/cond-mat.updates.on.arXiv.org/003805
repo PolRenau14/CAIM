@@ -1,0 +1,16 @@
+In order to identify potential hydrogen storage materials, worldwide attention has been focused
+on hydrides with high gravimetric and volumetric capacity. Hydrogen is a unique element that possess
+positive, negative or neutral oxidation state in solids depending upon the chemical environment.
+If one can find hydrogen storage materials where hydrogen is present in both negative and positive
+oxidation state within the same structural framework then one can accommodate hydrogen with high
+volume density. So, it is fundamentally as well as technologically important to identify compounds
+in which hydrogen is in amphoteric nature and understand the necessary criteria for its origin.
+The experimental structural analysis of Cyclotriborazane and Diammonium dodeca hydro-closo-dodecaborate
+insinuate the presence of hydrogen with anionic and cationic behavior within the same structure.
+In order to understand the role of van der Waals (vdW) interactions on structural parameters, we
+have considered 12 different vdW corrected functionals and found that the optPBE-vdW functional
+predicts the equilibrium structural parameters reliably with less than 0.009 % accuracy. So, the
+optPBE-vdW functional is used to calculate charge density, electron localization function, total
+as well as the partial density of state, Bader and Born effective charge etc. We have observed that
+hydrogen is exhibiting amphoteric behavior with H closer to B in the negatively charged state and
+that neighboring to N is in a positively charged state. 

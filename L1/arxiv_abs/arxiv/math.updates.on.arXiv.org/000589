@@ -1,0 +1,17 @@
+Many real world systems are at risk of undergoing critical transitions, leading to sudden qualitative
+and sometimes irreversible regime shifts \cite{Schefferetal,Lentonetal}. Because these transitions
+are often detrimental, the development of early warning signals is recognized as a major challenge
+\cite{BoettingerRossHastings}. Recent progress \cite{CarpenterBrock,KuehnCT1,AshwinWieczorekVitoloCox}
+builds on a mathematical framework in which the real-world system at hand is described by a low-dimensional
+equation system that captures the dynamics in terms of a small number of key variables. In this framework
+the critical transition often corresponds to a bifurcation. Here we show that in high-dimensional
+systems, containing many variables, we frequently encounter an additional non-bifurcative mechanism
+that can lead to critical transitions. We develop a simple and intuitive early warning sign and illustrate
+both, mechanism and warning sign, in a range of examples, including network models of epidemics
+\cite{GrossDLimaBlasius} and cooperation \cite{ZschalerTraulsenGross} and epidemiological
+data \cite{BjornstadFinkenstaedtGrenfell,GrenfellBjornstadFinkenstaedt}. This work thus
+establishes a connection between critical transitions and network science and provides an early
+warning sign for a new type of critical transition that could be relevant for many real world systems.
+In particular, in the light of the perspective to move to more complex models and utilize big data
+sources it can be anticipated that this new type of transition will be encountered frequently in
+the future. 

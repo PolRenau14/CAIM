@@ -1,0 +1,16 @@
+Let $G$ be a connected semisimple Lie group. There are two natural duality constructions that assign
+to it the Langlands dual group $G^\vee$ and the Poisson-Lie dual group $G^*$. The main result of this
+paper is the following relation between these two objects: the integral cone defined by the cluster
+structure and the Berenstein-Kazhdan potential on the double Bruhat cell $G^{\vee; w_0, e} \subset
+G^\vee$ is isomorphic to the integral Bohr-Sommerfeld cone defined by the Poisson structure on
+the partial tropicalization of $K^* \subset G^*$ (the Poisson-Lie dual of the compact form $K \subset
+G$). By [5], the first cone parametrizes the canonical bases of irreducible $G$-modules. The corresponding
+points in the second cone belong to integral symplectic leaves of the partial tropicalization labeled
+by the highest weight of the representation. As a by-product of our construction, we show that symplectic
+volumes of generic symplectic leaves in the partial tropicalization of $K^*$ are equal to symplectic
+volumes of the corresponding coadjoint orbits in $\operatorname{Lie}(K)^*$. To achieve these
+goals, we make use of (Langlands dual) double cluster varieties defined by Fock and Goncharov [9].
+These are pairs of cluster varieties whose seed matrices are transpose to each other. There is a naturally
+defined isomorphism between their tropicalizations. The isomorphism between the cones described
+above is a particular instance of such an isomorphism associated to the double Bruhat cells $G^{w_0,
+e} \subset G$ and $G^{\vee; w_0, e} \subset G^\vee$. 

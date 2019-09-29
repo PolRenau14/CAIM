@@ -1,0 +1,17 @@
+Applications in machine learning, optimization, and control require the sequential selection
+of a few system elements, such as sensors, data, or actuators, to optimize the system performance
+across multiple time steps. However, in failure-prone and adversarial environments, sensors
+get attacked, data get deleted, and actuators fail. Thence, traditional sequential design paradigms
+become insufficient and, in contrast, resilient sequential designs that adapt against system-wide
+attacks, deletions, or failures become important. In general, resilient sequential design problems
+are computationally hard. Also, even though they often involve objective functions that are monotone
+and (possibly) submodular, no scalable approximation algorithms are known for their solution.
+In this paper, we provide the first scalable algorithm, that achieves the following characteristics:
+system-wide resiliency, i.e., the algorithm is valid for any number of denial-of-service attacks,
+deletions, or failures; adaptiveness, i.e., at each time step, the algorithm selects system elements
+based on the history of inflicted attacks, deletions, or failures; and provable approximation
+performance, i.e., the algorithm guarantees for monotone objective functions a solution close
+to the optimal. We quantify the algorithm's approximation performance using a notion of curvature
+for monotone (not necessarily submodular) set functions. Finally, we support our theoretical
+analyses with simulated experiments, by considering a control-aware sensor scheduling scenario,
+namely, sensing-constrained robot navigation. 

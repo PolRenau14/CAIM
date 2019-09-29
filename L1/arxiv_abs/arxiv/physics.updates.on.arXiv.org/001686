@@ -1,0 +1,16 @@
+Purpose - The purpose of this work is to determine dependence of the separative power of the Iguassu
+gas centrifuge (GC) on the velocity of the rotor. Design/methodology/approach - The dependence
+is determined by means of computer simulation of the gas flow in the GC and numerical solution of the
+diffusion equation for the light component of the binary mixture of uranium isotopes. 2D axisymmetric
+model with the sources/sinks of the mass, angular momentum and energy reproducing the scoops was
+explored for the computer simulation. Parameters of the model correspond to the parameters of the
+so-called Iguassu centrifuge. The separative power has been optimised in relation to the pressure
+of the gas, temperature of the gas, the temperature drop along the rotor, power of the source of angularmomentum
+and energy, feed flow and geometry of the lower baffle. Findings - In the result, the optimised separative
+power depends only on the velocity, length and diameter of the rotor. The dependence on the velocity
+is described by the power law function with the power law index 2.6 which demonstrate stronger dependence
+on the velocity than it follows from experimental data. However, the separative power obtained
+with limitation on the pressure growth with the velocity depends on the velocity on the power similar
+to 2 which well agree with the experiments. Originality/value - For the first time, the optimised
+separative power of the GCs have been calculated via numerical simulation of the gas flow and diffusion
+of the binary mixture of isotope. 

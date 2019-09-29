@@ -1,0 +1,16 @@
+We develop first-principles theory of kinetic plasma turbulence governed by the Vlasov-Maxwell-Landau
+equations in the limit of vanishing collision rates. Following an exact renormalization-group
+approach pioneered by Onsager, we demonstrate the existence of a "collisionless range" of scales
+(lengths and velocities) in 1-particle phase space where the ideal Vlasov-Maxwell equations are
+satisfied in a "coarse-grained sense". Entropy conservation may nevertheless be violated in that
+range by a "dissipative anomaly" due to nonlinear entropy cascade. We derive "4/5th-law" type expressions
+for the entropy flux, which allow us to characterize the singularities (structure-function scaling
+exponents) required for its non-vanishing. Conservation laws of mass, momentum and energy are
+not afflicted with anomalous transfers in the collisionless limit. In a subsequent limit of small
+gyroradii, however, anomalous contributions to inertial-range energy balance may appear due
+both to cascade of bulk energy and to turbulent redistribution of internal energy in phase space.
+In that same limit the "generalized Ohm's law" derived from the particle momentum balances reduces
+to an "ideal Ohm's law", but only in a coarse-grained sense that does not imply magnetic flux-freezing
+and that permits magnetic reconnection at all inertial-range scales. We compare our results with
+prior theory based on the gyrokinetic (high gyro-frequency) limit, with numerical simulations,
+and with spacecraft measurements of the solar wind and terrestrial magnetosphere. 

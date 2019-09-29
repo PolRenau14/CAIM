@@ -1,0 +1,16 @@
+We study the impact of signal jamming attacks against the communication based train control (CBTC)
+systems and develop the countermeasures to limit the attacks' impact. CBTC supports the train operation
+automation and moving-block signaling, which improves the transport efficiency. We consider
+an attacker jamming the wireless communication between the trains or the train to wayside access
+point, which can disable CBTC and the corresponding benefits. In contrast to prior work studying
+jamming only at the physical or link layer, we study the real impact of such attacks on end users, namely
+train journey time and passenger congestion. Our analysis employs a detailed model of leaky medium-based
+communication system (leaky waveguide or leaky feeder/coaxial cable) popularly used in CBTC systems.
+To counteract the jamming attacks, we develop a mitigation approach based on frequency hopping
+spread spectrum taking into account domain-specific structure of the leaky-medium CBTC systems.
+Specifically, compared with existing implementations of FHSS, we apply FHSS not only between the
+transmitter-receiver pair but also at the track-side repeaters. To demonstrate the feasibility
+of implementing this technology in CBTC systems, we develop a FHSS repeater prototype using software-defined
+radios on both leaky-medium and open-air (free-wave) channels. We perform extensive simulations
+driven by realistic running profiles of trains and real-world passenger data to provide insights
+into the jamming attack's impact and the effectiveness of the proposed countermeasure. 

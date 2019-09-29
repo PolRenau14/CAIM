@@ -1,0 +1,16 @@
+Number density profiles are computed for the satellites of relatively isolated host galaxies in
+the Illustris-1 simulation. The mean total mass density of the hosts is well-fitted by an NFW profile.
+The number density profile for the complete satellite sample is inconsistent with NFW and, on scales
+< 0.5 r_200, the satellites do not trace the hosts' mass. This differs substantially from previous
+results from semi-analytic galaxy formation models. The shape of the satellite number density
+profile depends on the luminosities of the hosts and the satellites, and on the host virial mass.
+The number density profile for the faintest satellites is well-fitted by an NFW profile, but the
+concentration is much less than the mean host mass density. The number density profile for the brightest
+satellites exhibits a steep increase in slope for host-satellite distances < 0.1 r_200, in qualitative
+agreement with recent observational studies that find a steep increase in the satellite number
+density at small host-satellite distances. On scales > 0.1 r_200 the satellites of the faintest
+hosts trace the host mass reasonably well. On scales > 0.4 r_200, the satellites of the brightest
+hosts do not trace the host mass and the satellite number density increases steeply for host-satellite
+distances < 0.1 r_200. The discrepancy between the satellite number density profile and the host
+mass density is most pronounced for the most massive systems, with the satellite number density
+falling far below that of the mass density on scales < 0.5 r_200. 

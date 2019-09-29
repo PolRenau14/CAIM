@@ -1,0 +1,16 @@
+To improve traffic management ability, Internet Service Providers (ISPs) are gradually upgrading
+legacy network devices to programmable devices that support Software-Defined Networking (SDN).
+The coexistence of legacy and SDN devices gives rise to a hybrid SDN. Existing hybrid SDNs do not consider
+the potential performance issues introduced by a centralized SDN controller: flow requests processed
+by a highly loaded controller may experience long tail processing delay; inappropriate multi-controller
+deployment could increase the propagation delay of flow requests. In this paper, we propose to jointly
+consider the deployment of SDN switches and their controllers for hybrid SDNs. We formulate the
+joint problem as an optimization problem that maximizes the number of flows that can be controlled
+and managed by the SDN and minimizes the propagation delay of flow requests between SDN controllers
+and switches under a given upgrade budget constraint. We show this problem is NP-hard. To efficiently
+solve the problem, we propose some techniques (e.g., strengthening the constraints and adding
+additional valid inequalities) to accelerate the global optimization solver for solving the problem
+for small networks and an efficient heuristic algorithm for solving it for large networks. The simulation
+results from real network topologies illustrate the effectiveness of the proposed techniques
+and show that our proposed heuristic algorithm uses a small number of controllers to manage a high
+amount of flows with good performance. 

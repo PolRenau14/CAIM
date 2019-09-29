@@ -1,0 +1,16 @@
+Quantum algorithms have the potential to outperform their classical counterparts in a variety
+of tasks. The realization of the advantage often requires the ability to load classical data efficiently
+into quantum states. However, the best known methods for loading generic data into an $n$-qubit
+state require $\mathcal{O}\left(2^n\right)$ gates. This scaling can easily predominate the
+complexity of a quantum algorithm and, thereby, impair potential quantum advantage. Our work demonstrates
+that quantum Generative Adversarial Networks (qGANs) facilitate efficient loading of generic
+probability distributions -- implicitly given by data samples -- into quantum states. More specifically,
+the qGAN scheme employs the interplay of a quantum channel, a variational quantum circuit, and a
+classical neural network to learn the probability distribution underlying training data samples
+and load it into the quantum channel. Effectively, the scheme results in a quantum channel that loads
+the learned distribution with $\mathcal{O}\left(poly\left(n\right)\right)$ gates. This distribution
+loading method can, thus, enable the exploitation of quantum advantage induced by other quantum
+algorithms, such as Quantum Amplitude Estimation. We implement the qGAN distribution learning
+and loading method with Qiskit and test it using a quantum simulation as well as actual quantum processors
+provided by the IBM Q Experience. Furthermore, we employ quantum simulation to demonstrate the
+use of the trained quantum channel in a quantum finance application. 

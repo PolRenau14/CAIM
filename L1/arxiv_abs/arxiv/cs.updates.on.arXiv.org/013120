@@ -1,0 +1,16 @@
+Unmanned Aerial Vehicles (UAVs) with Microwave Power Transfer (MPT) capability provide a practical
+means to deploy a large number of wireless powered sensing devices into areas with no access to persistent
+power supplies. The UAV can charge the sensing devices remotely and harvest their data. A key challenge
+is online MPT and data collection in the presence of on-board control of a UAV (e.g., patrolling velocity)
+for preventing battery drainage and data queue overflow of the sensing devices, while up-to-date
+knowledge on battery level and data queue of the devices is not available at the UAV. In this paper,
+an on-board deep Q-network is developed to minimize the overall data packet loss of the sensing devices,
+by optimally deciding the device to be charged and interrogated for data collection, and the instantaneous
+patrolling velocity of the UAV. Specifically, we formulate a Markov Decision Process (MDP) with
+the states of battery level and data queue length of sensing devices, channel conditions, and waypoints
+given the trajectory of the UAV; and solve it optimally with Q-learning. Furthermore, we propose
+the on-board deep Q-network that can enlarge the state space of the MDP, and a deep reinforcement
+learning based scheduling algorithm that asymptotically derives the optimal solution online,
+even when the UAV has only outdated knowledge on the MDP states. Numerical results demonstrate that
+the proposed deep reinforcement learning algorithm reduces the packet loss by at least 69.2%, as
+compared to existing non-learning greedy algorithms. 

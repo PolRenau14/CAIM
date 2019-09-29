@@ -1,0 +1,17 @@
+The solution for the radial distribution of pressure, density, temperature and flow velocity fields
+in a blast wave propagating through a medium at rest, following an intense explosion, starting from
+hydrodynamic equations, is one of the classic problems in gas dynamics. However, there is very little
+direct verification of the theory and its assumptions from simulations of microscopic models.
+In this paper, we compare the results and assumptions of the hydrodynamic theory with results from
+large scale event driven molecular dynamics simulations of a hard sphere gas in three dimensions.
+We find that the predictions for the radial distribution of the thermodynamic quantities do not
+match well with the numerical data. We improve the theory by replacing the ideal gas law with a more
+realistic virial equation of state for the hard sphere gas. While this improves the theoretical
+predictions, we show that they still fail to describe the data well. To understand the reasons for
+this discrepancy, the different assumptions of the hydrodynamic theory are tested within the simulations.
+A key assumption of the theory is the existence of a local equation of state. We validate this assumption
+by showing that the local pressure, temperature and density obey the equation of state for a hard
+sphere gas. However, the probability distribution of the velocity fluctuations has non-gaussian
+tails, especially away from the shock front, showing that the assumption of local equilibrium is
+violated. This, along with neglect of heat conduction, could be the possible reasons for the mismatch
+between theory and simulations. 

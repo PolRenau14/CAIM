@@ -1,0 +1,16 @@
+The comparison between observational abundance features and those obtained from nucleosynthesis
+predictions of stellar evolution and/or explosion simulations can scrutinize two aspects: (a)
+the conditions in the astrophysical production site and (b) the quality of the nuclear physics input
+utilized. Here we test the abundance features of r-process nucleosynthesis calculations for the
+dynamical ejecta of neutron star merger simulations based on three different nuclear mass models:
+The Finite Range Droplet Model (FRDM), the (quenched version of the) Extended Thomas Fermi Model
+with Strutinsky Integral (ETFSI-Q), and the Hartee-Fock-Bogoliubov (HFB) mass model. We make
+use of corresponding fission barrier heights and compare the impact of four different fission fragment
+distribution models on the final r-process abundance distribution. Furthermore, we explore the
+origin of a shift in the third r-process peak position in comparison with the solar r-process abundances
+which have been noticed in a number of merger nucleosynthesis predictions. We show that this shift
+occurs during the r-process freeze-out when neutron captures and beta-decays compete and an (n,g)-(g,n)
+equilibrium is not maintained anymore. During this phase neutrons originate mainly from fission
+of material above A = 240. We also demonstrate that a faster (and thus earlier) release of these neutrons,
+e.g., by shorter beta-decay half-lives of nuclei with Z > 80, as suggested by recent theoretical
+advances, can partially prevent this shift. 

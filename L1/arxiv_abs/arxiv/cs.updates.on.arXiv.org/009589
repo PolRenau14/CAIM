@@ -1,0 +1,16 @@
+Demand response (DR) is not only a crucial solution to the demand side management but also a vital
+means of electricity market in maintaining power grid reliability, sustainability and stability.
+DR can enable consumers (e.g. data centers) to reduce their electricity consumption when the supply
+of electricity is a shortage. The consumers will be rewarded in the case of DR if they reduce or shift
+some of their energy usage during peak hours. Aiming at solving the efficiency of DR, in this paper,
+we present MEDR, a mechanism on emergency DR in colocation data center. First, we formalize the MEDR
+problem and propose a dynamic programming to solve the optimization version of the problem. We then
+design a deterministic mechanism as a solution to solve the MEDR problem. We show that our proposed
+mechanism is truthful. Next, we prove that our mechanism is an FPTAS, i.e., it can be approximated
+within $1 + \epsilon$ for any given $\epsilon > 0$, while the running time of our mechanism is polynomial
+in $n$ and $1/\epsilon$, where $n$ is the number of tenants in the datacenter. Furthermore, we also
+give an auction system covering the efficient FPTAS algorithm as bidding decision program for DR
+in colocation datacenter. Finally, we choose a practical smart grid dataset to build a large number
+of datasets for simulation in performance evaluation. By evaluating metrics of the approximation
+ratio of our mechanism, the non-negative utility of tenants and social cost of colocation datacenter,
+the results demonstrate the effectiveness of our work. 

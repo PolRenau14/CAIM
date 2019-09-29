@@ -1,0 +1,16 @@
+A wide variety of outstanding problems in astrophysics involve the motion of a large number of particles
+($N\gtrsim 10^{6}$) under the force of gravity. These include the global evolution of globular
+clusters, tidal disruptions of stars by a massive black hole, the formation of protoplanets and
+the detection of sources of gravitational radiation. The direct-summation of $N$ gravitational
+forces is a complex problem with no analytical solution and can only be tackled with approximations
+and numerical methods. To this end, the Hermite scheme is a widely used integration method. With
+different numerical techniques and special-purpose hardware, it can be used to speed up the calculations.
+But these methods tend to be computationally slow and cumbersome to work with. Here we present a new
+GPU, direct-summation $N-$body integrator written from scratch and based on this scheme. This
+code has high modularity, allowing users to readily introduce new physics, it exploits available
+high-performance computing resources and will be maintained by public, regular updates. The code
+can be used in parallel on multiple CPUs and GPUs, with a considerable speed-up benefit. The single
+GPU version runs about 200 times faster compared to the single CPU version. A test run using 4 GPUs
+in parallel shows a speed up factor of about 3 as compared to the single GPU version. The conception
+and design of this first release is aimed at users with access to traditional parallel CPU clusters
+or computational nodes with one or a few GPU cards. 

@@ -1,0 +1,16 @@
+Two-dimensional representation of 3D anatomical structures is a simple and intuitive way for analysing
+patient information across populations and image modalities. It also allows convenient visualizations
+that can be included in clinical reports for a fast overview of the whole structure. While cardiac
+ventricles, especially the left ventricle, have an established standard representation (e.g.
+bull's eye plot), the 2D depiction of the left atrium (LA) is challenging due to its sub-structural
+complexity including the pulmonary veins (PV) and the left atrial appendage (LAA). Quasi-conformal
+flattening techniques, successfully applied to cardiac ventricles, require additional constraints
+in the case of the LA to place the PV and LAA in the same geometrical 2D location for different cases.
+Some registration-based methods have been proposed but 3D (or 2D) surface registration is time-consuming
+and prone to errors if the geometries are very different. We propose a novel atrial flattening methodology
+where a quasi-conformal 2D map of the LA is obtained quickly and without errors related to registration.
+In our approach, the LA is divided into 5 regions which are then mapped to their analogue two-dimensional
+regions. A dataset of 67 human left atria from magnetic resonance images (MRI) was studied to derive
+a population-based 2D LA template representing the averaged relative locations of the PVs and LAA.
+The clinical application of the proposed methodology is illustrated on different use cases including
+the integration of MRI and electroanatomical data. 

@@ -1,0 +1,16 @@
+We report the Subaru Hyper Suprime-Cam (HSC) discovery of two Ly$\alpha$ blobs (LABs), dubbed z70-1
+and z49-1 at $z=6.965$ and $z=4.888$ respectively, that are Ly$\alpha$ emitters with a bright ($\log
+L_{\rm Ly\alpha}/{\rm [erg\ s^{-1}]}>43.4$) and spatially-extended Ly$\alpha$ emission, and
+present the photometric and spectroscopic properties of a total of seven LABs; the two new LABs and
+five previously-known LABs at $z=5.7-6.6$. The z70-1 LAB shows the extended Ly$\alpha$ emission
+with a scale length of $1.4\pm 0.2$ kpc, about three times larger than the UV continuum emission,
+making z70-1 the most distant LAB identified to date. All of the 7 LABs, except z49-1, exhibit no AGN
+signatures such as X-ray emission, {\sc Nv}$\lambda$1240 emission, or Ly$\alpha$ line broadening,
+while z49-1 has a strong {\sc Civ}$\lambda$1548 emission line indicating an AGN on the basis of the
+UV-line ratio diagnostics. We carefully model the point-spread functions of the HSC images, and
+conduct two-component exponential profile fitting to the extended Ly$\alpha$ emission of the
+LABs. The Ly$\alpha$ scale lengths of the core (star-forming region) and the halo components are
+$r_{\rm c}=0.6-1.2$ kpc and $r_{\rm h}=2.0-13.8$ kpc, respectively. The average $r_{\rm h}$ of
+the LABs falls on the extrapolation of the $r_{\rm h}$-Ly$\alpha$ luminosity relation of the Ly$\alpha$
+halos around VLT/MUSE star-forming galaxies at the similar redshifts, suggesting that typical
+LABs at $z\gtrsim5$ are not special objects, but star-forming galaxies at the bright end. 

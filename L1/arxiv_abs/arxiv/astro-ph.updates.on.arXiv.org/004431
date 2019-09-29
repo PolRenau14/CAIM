@@ -1,0 +1,17 @@
+We present results for the first three years of OzDES, a six-year programme to obtain redshifts for
+objects in the Dark Energy Survey (DES) supernova fields using the 2dF fibre positioner and AAOmega
+spectrograph on the Anglo-Australian Telescope. OzDES is a multi-object spectroscopic survey
+targeting multiple types of targets at multiple epochs over a multi-year baseline, and is one of
+the first multi-object spectroscopic surveys to dynamically include transients into the target
+list soon after their discovery. At the end of three years, OzDES has spectroscopically confirmed
+almost 100 supernovae, and has measured redshifts for 17,000 objects, including the redshifts
+of 2,566 supernova hosts. We examine how our ability to measure redshifts for targets of various
+types depends on signal-to-noise, magnitude, and exposure time, finding that our redshift success
+rate increases significantly at a signal-to-noise of 2 to 3 per 1-Angstrom bin. We also find that
+the change in signal-to-noise with exposure time closely matches the Poisson limit for stacked
+exposures as long as 10 hours. We use these results to predict the redshift yield of the full OzDES
+survey, as well as the potential yields of future surveys on other facilities such as the 4m Multi-Object
+Spectroscopic Telescope (4MOST), the Subaru Prime Focus Spectrograph (PFS), and the Maunakea
+Spectroscopic Explorer (MSE). This work marks the first OzDES data release, comprising 14,693
+redshifts. OzDES is on target to obtain over a yield of approximately 5,700 supernova host-galaxy
+redshifts. 

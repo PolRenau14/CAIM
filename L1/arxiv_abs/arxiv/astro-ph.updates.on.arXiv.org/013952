@@ -1,0 +1,15 @@
+The determination of the speed of Coronal Mass Ejections (CMEs) is usually done by tracking brighter
+features (such as the CME front and core) in visible light coronagraphic images and by deriving unidimensional
+profiles of the CME speed as a function of altitude or time. Nevertheless, CMEs are usually characterized
+by the presence of significant density inhomogeneities propagating outward with different radial
+and latitudinal projected speeds, resulting in a complex evolution eventually forming the Interplanetary
+CME. In this work, we demonstrate for the first time how coronagraphic image sequences can be analyzed
+with cross-correlation technique to derive 2D maps of the almost instantaneous plasma speed distribution
+within the body of CMEs. The technique is first tested with the analysis of synthetic data, and then
+applied to real observations. Results from this work allow to characterize the distribution and
+time evolution of kinetic energy inside CMEs, as well as the mechanical energy (combined with the
+kinetic and potential energy) partition between the core and front of the CME. In the future, CMEs
+will be observed by two channels (VL and UV Ly-$\alpha$) coronagraphs, such as Metis on-board ESA
+Solar Orbiter mission as well as Ly-$\alpha$ Solar Telescope (LST) on-board Chinese Advanced Space-based
+Solar Observatory (ASO-S) mission. Our results will help the analysis of these future observations,
+helping in particular to take into account the 2D distribution of Ly-$\alpha$ Doppler dimming effect.

@@ -1,0 +1,16 @@
+Sparsity driven signal processing has gained tremendous popularity in the last decade. At its core,
+the assumption is that the signal of interest is sparse with respect to either a fixed transformation
+or a signal dependent dictionary. To better capture the data characteristics, various dictionary
+learning methods have been proposed for both reconstruction and classification tasks. For classification
+particularly, most approaches proposed so far have focused on designing explicit constraints
+on the sparse code to improve classification accuracy while simply adopting $l_0$-norm or $l_1$-norm
+for sparsity regularization. Motivated by the success of structured sparsity in the area of Compressed
+Sensing, we propose a structured dictionary learning framework (StructDL) that incorporates
+the structure information on both group and task levels in the learning process. Its benefits are
+two-fold: (i) the label consistency between dictionary atoms and training data are implicitly
+enforced; and (ii) the classification performance is more robust in the cases of a small dictionary
+size or limited training data than other techniques. Using the subspace model, we derive the conditions
+for StructDL to guarantee the performance and show theoretically that StructDL is superior to $l_0$-norm
+or $l_1$-norm regularized dictionary learning for classification. Extensive experiments have
+been performed on both synthetic simulations and real world applications, such as face recognition
+and object classification, to demonstrate the validity of the proposed DL framework. 

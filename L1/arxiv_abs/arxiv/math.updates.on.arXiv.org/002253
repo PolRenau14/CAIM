@@ -1,0 +1,16 @@
+We present an efficient deterministic algorithm which outputs exact expressions in terms of $n$
+for the number of monic degree $n$ irreducible polynomials over $\mathbb{F}_{q}$ of characteristic
+$p$ for which the first $l < p$ coefficients are prescribed, provided that $n$ is coprime to $p$. Each
+of these counts is $\frac{1}{n}(q^{n-l} + \mathcal{O}(q^{n/2}))$. The main idea behind the algorithm
+is to associate to an equivalent problem a set of Artin-Schreier curves defined over $\mathbb{F}_q$
+whose number of $\mathbb{F}_{q^n}$-rational affine points must be combined. This is accomplished
+by computing their zeta functions using a $p$-adic algorithm due to Lauder and Wan. Using the computational
+algebra system Magma one can, for example, compute the zeta functions of the arising curves for $q=5$
+and $l=4$ very efficiently, and we detail a proof-of-concept demonstration. Due to the failure
+of Newton's identities in positive characteristic, the $l \ge p$ cases are seemingly harder. Nevertheless,
+we use an analogous algorithm to compute example curves for $q = 2$ and $l \le 7$, and for $q = 3$ and $l
+= 3$. Again using Magma, for $q = 2$ we computed the relevant zeta functions for $l = 4$ and $l = 5$, obtaining
+explicit formulae for these open problems for $n$ odd, as well as for subsets of these problems for
+all $n$, while for $q = 3$ we obtained explicit formulae for $l = 3$ and $n$ coprime to $3$. We also discuss
+some of the computational challenges and theoretical questions arising from this approach in the
+general case and propose some natural open problems. 

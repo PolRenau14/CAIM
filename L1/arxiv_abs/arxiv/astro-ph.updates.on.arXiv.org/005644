@@ -1,0 +1,16 @@
+The Kepler mission showed us that planets with sizes between that of Earth and Neptune appear to be
+the most common type in our Galaxy. These "super-Earths" continue to be of great interest for exoplanet
+formation, evolution, and composition studies. However, the number of super-Earths with well-constrained
+mass and radius measurements remains small (40 planets with $\sigma_{\rm{mass}}<$ 25\%), due
+in part to the faintness of their host stars causing ground-based mass measurements to be challenging.
+Recently, three transiting super-Earth planets were detected by the K2 mission around the nearby
+star GJ 9827/HIP 115752, at only 30 pc away. The radii of the planets span the "radius gap"' detected
+by Fulton et al. (2017), and all orbit within ~6.5 days, easing follow-up observations. Here we report
+radial velocity (RV) observations of GJ 9827, taken between 2010 and 2016 with the Planet Finder
+Spectrograph on the Magellan II Telescope. We employ two different RV analysis packages, SYSTEMIC
+and RadVel, to derive masses and thus densities of the GJ 9827 planets. We also test a Gaussian Process
+regression analysis, but find the correlated stellar noise is not well constrained by the PFS data,
+and that the GP tends to over fit the RV semi-amplitudes resulting in a lower K value. Our RV observations
+are not able to place strong mass constraints on the two outer planets (c & d) but do indicate that planet
+b, at 1.64 R$_{\oplus}$ and ~8 M$_{\oplus}$, is one of the most massive (and dense) super-Earth planets
+detected to date. 

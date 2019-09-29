@@ -1,0 +1,17 @@
+Today's search engines process billions of online user queries a day over huge collections of data.
+In order to scale, they distribute query processing among many nodes, where each node holds and searches
+over a subset of the index called shard. Responses from some nodes occasionally fail to arrive within
+a reasonable time-interval due to various reasons, such as high server load and network congestion.
+Search engines typically need to respond in a timely manner, and therefore skip such tail latency
+responses, which causes degradation in search quality. In this paper, we tackle response misses
+due to high tail latencies with the goal of maximizing search quality. Search providers today use
+redundancy in the form of Replication for mitigating response misses, by constructing multiple
+copies of each shard and searching all replicas. This approach is not ideal, as it wastes resources
+on searching duplicate data. We propose two strategies to reduce this waste. First, we propose rSmartRed,
+an optimal shard selection scheme for replicated indexes. Second, when feasible, we propose to
+replace Replication with Repartition, which constructs independent index instances instead
+of exact copies. We analytically prove that rSmartRed's selection is optimal for Replication,
+and that Repartition achieves better search quality compared to Replication. We confirm our results
+with an empirical study using two real-world datasets, showing that rSmartRed improves recall
+compared to currently used approaches. We additionally show that Repartition improves over Replication
+in typical scenarios. 

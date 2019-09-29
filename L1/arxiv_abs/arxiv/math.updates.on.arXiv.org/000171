@@ -1,0 +1,16 @@
+Given a field $F$, an integer $n\geq 1$, and a matrix $A\in M_n(F)$, are there polynomials $f,g\in
+F[X]$, with $f$ monic of degree $n$, such that $A$ is similar to $g(C_f)$, where $C_f$ is the companion
+matrix of $f$? For infinite fields the answer is easily seen to positive, so we concentrate on finite
+fields. In this case we give an affirmative answer, provided $|F|\geq n-2$. Moreover, for any finite
+field $F$, with $|F|=m$, we construct a matrix $A\in M_{m+3}(F)$ that is not similar to any matrix
+of the form $g(C_f)$. Of use above, but also of independent interest, is a constructive procedure
+to determine the similarity type of any given matrix $g(C_f)$ purely in terms of $f$ and $g$, without
+resorting to polynomial roots in $F$ or in any extension thereof. This, in turn, yields an algorithm
+that, given $g$ and the invariant factors of any $A$, returns the elementary divisors of $g(A)$.
+It is a rational procedure, as opposed to the classical method that uses the Jordan decomposition
+of $A$ to find that of $g(A)$. Finally, extending prior results by the authors, we show that for an
+integrally closed ring $R$ with field of fractions $F$ and companion matrices $C,D$ the subalgebra
+$R< C,D>$ of $M_n(R)$ is a free $R$-module of rank $n+(n-m)(n-1)$, where $m$ is the degree
+of $\gcd (f,g)\in F[X]$, and a presentation for $R< C,D>$ is given in terms of $C$ and $D$. A
+counterexample is furnished to show that $R< C,D>$ need not be a free $R$-module if $R$ is not
+integrally closed. The preceding information is used to study $M_n(R)$, and others, as $R[X]$-modules.

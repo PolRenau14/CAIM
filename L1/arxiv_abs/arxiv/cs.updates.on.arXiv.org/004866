@@ -1,0 +1,16 @@
+This paper investigates modal type theories by using a new categorical semantics called change-of-base
+semantics. Change-of-base semantics is novel in that it is based on (possibly infinitely) iterated
+enrichment and interpretation of modality as hom objects. In our semantics, the relationship between
+meta and object levels in multi-staged computation exactly corresponds to the relationship between
+enriching and enriched categories. As a result, we obtain a categorical explanation of situations
+where meta and object logics may be completely different. Our categorical models include conventional
+models of modal type theory (e.g., cartesian closed categories with a monoidal endofunctor) as
+special cases and hence can be seen as a natural refinement of former results. On the type theoretical
+side, it is shown that Fitch-style modal type theory can be directly interpreted in iterated enrichment
+of categories. Interestingly, this interpretation suggests the fact that Fitch-style modal type
+theory is the right adjoint of dual-context calculus. In addition, we present how linear temporal,
+S4, and linear exponential modalities are described in terms of change-of-base semantics. Finally,
+we show that the change-of-base semantics can be naturally extended to multi-staged effectful
+computation and generalized contextual modality a la Nanevski et al. We emphasize that this paper
+answers the question raised in the survey paper by de Paiva and Ritter in 2011, what a categorical
+model for Fitch-style type theory is like. 

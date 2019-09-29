@@ -1,0 +1,17 @@
+We introduce a novel approach to visualizing temporal clickstream behaviour in the context of a
+degree-satisfying online course, Habitable Worlds, offered through Arizona State University.
+The current practice for visualizing behaviour within a digital learning environment has been
+to generate plots based on hand engineered or coded features using domain knowledge. While this
+approach has been effective in relating behaviour to known phenomena, features crafted from domain
+knowledge are not likely well suited to make unfamiliar phenomena salient and thus can preclude
+discovery. We introduce a methodology for organically surfacing behavioural regularities from
+clickstream data, conducting an expert in-the-loop hyperparameter search, and identifying anticipated
+as well as newly discovered patterns of behaviour. While these visualization techniques have been
+used before in the broader machine learning community to better understand neural networks and
+relationships between word vectors, we apply them to online behavioural learner data and go a step
+further; exploring the impact of the parameters of the model on producing tangible, non-trivial
+observations of behaviour that are suggestive of pedagogical improvement to the course designers
+and instructors. The methodology introduced in this paper led to an improved understanding of passing
+and non-passing student behaviour in the course and is widely applicable to other datasets of clickstream
+activity where investigators and stakeholders wish to organically surface principal patterns
+of behaviour. 

@@ -1,0 +1,17 @@
+We study multi-partite entanglement, the generation of EPR states and quantum steering in a three-mode
+optomechanical system composed of an atomic ensemble located inside a single-mode cavity with
+a movable mirror. The cavity mode is driven by a short laser pulse, has a nonlinear parametric-type
+interaction with the mirror and a linear beamsplitter-type interaction with the atomic ensemble.
+There is no direct interaction of the mirror with the atomic ensemble. A threshold effect for the
+dynamics of the system is found, above which the system works as an amplifier and below which as an
+attenuator of the output fields. The threshold is determined by the ratio of the coupling strengths
+of the cavity mode to the mirror and to the atomic ensemble. It is shown that above the threshold the
+system effectively behaves as a two-mode system in which a perfect bipartite EPR state can be generated,
+while it is impossible below the threshold. Furthermore, a fully inseparable tripartite entanglement
+and even further a genuine tripartite entanglement can be produced above and below the threshold.
+In addition, we consider quantum steering and examine the monogamy relations that quantify the
+amount of bipartite steering that can be shared between different modes. It is found that the mirror
+is more capable for steering of entanglement than the cavity mode. The two way steering is found between
+the mirror and the atomic ensemble despite the fact that they are not directly coupled to each other,
+while it is impossible between the output of cavity mode and the ensemble which are directly coupled
+to each other. 

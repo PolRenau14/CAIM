@@ -1,0 +1,16 @@
+Tensor field theory (TFT) focuses on quantum field theory aspects of random tensor models, a quantum-gravity-motivated
+generalisation of random matrix models. The TFT correlation functions have been shown to be classified
+by graphs that describe the geometry of the boundary states, the so-called boundary graphs. These
+graphs can be disconnected, although the correlation functions are themselves connected. In a
+recent work, the Schwinger-Dyson equations for an arbitrary albeit connected boundary were obtained.
+Here, we introduce the multivariable graph calculus in order to derive the missing equations for
+all correlation functions with disconnected boundary, thus completing the Schwinger-Dyson pyramid
+for quartic melonic (`pillow'-vertices) models in arbitrary rank. We first study finite group
+actions that are parametrised by graphs and build the graph calculus on a suitable quotient of the
+monoid algebra $A[G]$ corresponding to a certain function space $A$ and to the free monoid $G$ in
+finitely many graph variables; a derivative of an element of $A[G]$ with respect to a graph yields
+its corresponding group action on $A$. The present result and the graph calculus have three potential
+applications: the non-perturbative large-$N$ limit of tensor field theories, the solvability
+of the theory by using methods that generalise the topological recursion to the TFT setting and the
+study of `higher dimensional maps' via Tutte-like equations. In fact, we also offer a term-by-term
+comparison between Tutte equations and the present Schwinger-Dyson equations. 

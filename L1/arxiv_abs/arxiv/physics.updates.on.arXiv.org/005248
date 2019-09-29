@@ -1,0 +1,16 @@
+Using particle-in-cell simulations of relativistic laser plasma wakes in the presence of an external
+magnetic field, we demonstrate that there exists a parameter window where the dynamics of the magnetized
+wake channel are largely independent of the laser wavelength $\lambda_{\rm las}$. One condition
+for this manifestation of "limited similarity" is that the electron density $n_{\rm e}$ is highly
+subcritical, so that the plasma does not affect the laser. The freedom to choose a convenient laser
+wavelength can be useful in experiments and simulations. In simulations, an up-scaled wavelength
+(and, thus, a coarser mesh and larger time steps) reduces the computational effort, while limited
+similarity ensures that the overall structure and evolutionary phases of the wake channel are preserved.
+In our demonstrative example, we begin with a terrawatt$\cdot$picosecond pulse from a ${\rm CO}_2$
+laser with $\lambda_{\rm las} = 10\,\mu{\rm m}$, whose field reaches a relativistic amplitude
+at the center of a sub-millimeter-sized focal spot. The laser is shot into a sparse deuterium gas
+($n_{\rm e} \sim 10^{13}\,{\rm cm}^{-3}$) in the presence of a tesla-scale magnetic field. Limited
+similarity is demonstrated in 2D for $4\,\mu{\rm m} \leq \lambda_{\rm las} \leq 40\,\mu{\rm m}$
+and is expected to extend to shorter wavelengths. Assuming that this limited similarity also holds
+in 3D, increasing the wavelength to $40\,\mu{\rm m}$ enables us to simulate the after-glow dynamics
+of the wake channel all the way into the nanosecond regime. 

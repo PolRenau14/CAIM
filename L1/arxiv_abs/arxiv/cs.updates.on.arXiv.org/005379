@@ -1,0 +1,15 @@
+We introduce the \emph{Online Connected Dominating Set Leasing} problem (OCDSL) in which we are
+given an undirected connected graph $G = (V, E)$, a set $\mathcal{L}$ of lease types each characterized
+by a duration and cost, and a sequence of subsets of $V$ arriving over time. A node can be leased using
+lease type $l$ for cost $c_l$ and remains active for time $d_l$. The adversary gives in each step $t$
+a subset of nodes that need to be dominated by a connected subgraph consisting of nodes active at time
+$t$. The goal is to minimize the total leasing costs. OCDSL contains the \emph{Parking Permit Problem}~\cite{PPP}
+as a special subcase and generalizes the classical offline \emph{Connected Dominating Set} problem~\cite{Guha1998}.
+It has an $\Omega(\log ^2 n + \log |\mathcal{L}|)$ randomized lower bound resulting from lower bounds
+for the \emph{Parking Permit Problem} and the \emph{Online Set Cover} problem~\cite{Alon:2003:OSC:780542.780558,Korman},
+where $|\mathcal{L}|$ is the number of available lease types and $n$ is the number of nodes in the
+input graph. We give a randomized $\mathcal{O}(\log ^2 n + \log |\mathcal{L}| \log n)$-competitive
+algorithm for OCDSL. We also give a deterministic algorithm for a variant of OCDSL in which the dominating
+subgraph need not be connected, the \emph{Online Dominating Set Leasing} problem. The latter is
+based on a simple primal-dual approach and has an $\mathcal{O}(|\mathcal{L}| \cdot \Delta)$-competitive
+ratio, where $\Delta$ is the maximum degree of the input graph. 

@@ -1,0 +1,17 @@
+We present a numerical algorithm aimed at identifying ion diffusion regions (IDRs) in the geomagnetic
+tail, and test its applicability. We use 5 criteria applied in three stages. (i) Correlated reversals
+(within 90 s) of Vx and Bz (at least 2 nT about zero; GSM coordinates); (ii) Detection of Hall electric
+and magnetic field signatures; and (iii) strong (>10 mV/m) electric fields. While no criterion
+alone is necessary and sufficient, the approach does provide a robust, if conservative, list of
+IDRs. We use data from the Magnetospheric Multiscale Mission (MMS) spacecraft during a 5-month
+period (May 1 to September 30, 2017) of near-tail orbits during the declining phase of the solar cycle.
+We find 148 events satisfying step 1, 37 satisfying steps 1 and 2, and 17 satisfying all three, of which
+12 are confirmed as IDRs. All IDRs were within the X-range [-24, -15] RE mainly on the dusk sector and
+the majority occurred during traversals of a tailward-moving X-line. 11 of 12 IDRs were on the dusk-side
+despite approximately equal residence time in both the pre- and post-midnight sectors (56.5% dusk
+vs 43.5% dawn). MMS could identify signatures of 4 quadrants of the Hall B-structure in 3 events and
+3 quadrants in 7 of the remaining 12 confirmed IDRs identified. The events we report commonly display
+Vx reversals greater than 400 km/s in magnitude, normal magnetic field reversals often >10 nT in
+magnitude, maximum DC |E| which are often well in excess of the threshold for stage 3. Our results
+are then compared with the set of IDRs identified by visual examination from Cluster in the years
+2000-2005. 

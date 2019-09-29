@@ -1,0 +1,16 @@
+In this paper, we develop an analytical formulation for the Slepian spatial-spectral concentration
+problem on the sphere for a limited colatitude-longitude spatial region on the sphere, defined
+as the Cartesian product of a range of positive colatitudes and longitudes. The solution of the Slepian
+problem is a set of functions that are optimally concentrated and orthogonal within a spatial or
+spectral region. These properties make them useful for applications where measurements are taken
+within a spatially limited region of the sphere and/or a signal is only to be analyzed within a region
+of the sphere. To support localized spectral/spatial analysis, and estimation and sparse representation
+of localized data in these applications, we exploit the expansion of spherical harmonics in the
+complex exponential basis to develop an analytical formulation for the Slepian concentration
+problem for a limited colatitude-longitude spatial region. We also extend the analytical formulation
+for spatial regions that are comprised of a union of rotated limited colatitude-longitude subregions.
+By exploiting various symmetries of the proposed formulation, we design a computationally efficient
+algorithm for the implementation of the proposed analytical formulation. Such a reduction in computation
+time is demonstrated through numerical experiments. We present illustrations of our results with
+the help of numerical examples and show that the representation of a spatially concentrated signal
+is indeed sparse in the Slepian basis. 

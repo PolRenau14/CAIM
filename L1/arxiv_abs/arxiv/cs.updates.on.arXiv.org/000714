@@ -1,0 +1,17 @@
+Large-scale multi-user multiple-input multiple-output (MIMO) techniques have the potential
+to bring tremendous improvements for future communication systems. Counter-intuitively, the
+practical issues of having uncertain channel knowledge, high propagation losses, and implementing
+optimal non-linear precoding are solved more-or-less automatically by enlarging system dimensions.
+However, the computational precoding complexity grows with the system dimensions. For example,
+the close-to-optimal regularized zero-forcing (RZF) precoding is very complicated to implement
+in practice, since it requires fast inversions of large matrices in every coherence period. Motivated
+by the high performance of RZF, we propose to replace the matrix inversion by a truncated polynomial
+expansion (TPE), thereby obtaining the new TPE precoding scheme which is more suitable for real-time
+hardware implementation. The degree of the matrix polynomial can be adapted to the available hardware
+resources and enables smooth transition between simple maximum ratio transmission (MRT) and more
+advanced RZF. By deriving new random matrix results, we obtain a deterministic expression for the
+asymptotic signal-to-interference-and-noise ratio (SINR) achieved by TPE precoding in large-scale
+MIMO systems. Furthermore, we provide a closed-form expression for the polynomial coefficients
+that maximizes this SINR. To maintain a fixed per-user rate loss as compared to RZF, the polynomial
+degree does not need to scale with the system, but it should be increased with the quality of the channel
+knowledge and the signal-to-noise ratio (SNR). 

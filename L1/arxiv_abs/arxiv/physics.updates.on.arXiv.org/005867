@@ -1,0 +1,16 @@
+The HANDY model of Motesharrei, Rivas, and Kalnay examines interactions with the environment by
+human populations, both between poor and rich people, i.e., "Commoners" and "Elites". The Elites
+control the society's wealth and consume it at a higher rate than Commoners, whose work produces
+the wealth. We say a model is "Elite-dominated" when the Elites' per capita population change rate
+is always at least as large as the Commoners'. We can show the HANDY model always exhibits population
+crashes for all choices of parameter values for which it is Elite-dominated. But any such model with
+explicit equations raises questions of how the resulting behaviors depend on the details of the
+models. How important are the particular design features codified in the differential equations?
+In this paper, we first replace the explicit equations of HANDY with differential equations that
+are only described conceptually or qualitatively - using only conditions that can be verified for
+explicit systems. Next, we discard the equations entirely, replacing them with qualitative conditions,
+and we prove these conditions imply population collapse must occur. In particular, one condition
+is that the model is Elite-dominated. We show that the HANDY model with Elite-dominated parameters
+satisfies our hypotheses and thus must undergo population collapse. Our approach of introducing
+qualitative mathematical hypotheses can better show the underlying features of the model that
+lead to collapse. We also ask how societies can avoid collapse. 

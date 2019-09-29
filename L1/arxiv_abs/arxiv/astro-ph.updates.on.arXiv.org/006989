@@ -1,0 +1,16 @@
+We present measurements of the mean and scatter of the IGM Lyman-{\alpha} opacity at 4.9 < z < 6.1 along
+the lines of sight of 62 quasars at z > 5.7, the largest sample assembled at these redshifts to date
+by a factor of two. The sample size enables us to sample cosmic variance at these redshifts more robustly
+than ever before. The spectra used here were obtained by the SDSS, DES-VHS and SHELLQs collaborations,
+drawn from the ESI and X-Shooter archives, reused from previous studies or observed specifically
+for this work. We measure the effective optical depth of Lyman-{\alpha} in bins of 10, 30, 50 and 70
+cMpc h-1, construct cumulative distribution functions under two treatments of upper limits on
+flux and explore an empirical analytic fit to residual Lyman-{\alpha} transmission. We verify
+the consistency of our results with those of previous studies via bootstrap re-sampling and confirm
+the existence of tails towards high values in the opacity distributions, which may persist down
+to z = 5.2. Comparing our results with predictions from cosmological simulations, we find further
+strong evidence against models that include a spatially uniform ionizing background and temperature-density
+relation. We also compare to IGM models that include either a fluctuating UVB dominated by rare quasars
+or temperature fluctuations due to patchy reionization. Although both models produce better agreement
+with the observations, neither fully captures the observed scatter in IGM opacity. Our sample of
+62 z > 5.7 quasar spectra opens many avenues for future study of the reionisation epoch. 

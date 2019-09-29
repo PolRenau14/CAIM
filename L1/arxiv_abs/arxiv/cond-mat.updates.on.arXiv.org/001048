@@ -1,0 +1,17 @@
+Multiscale community detection can be viewed from a dynamical perspective within the Markov Stability
+framework, which uses the diffusion of a Markov process on the graph to uncover intrinsic network
+substructures across all scales. Here we reformulate multiscale community detection as a max-sum
+length vector partitioning problem with respect to the set of time-dependent node vectors expressed
+in terms of eigenvectors of the transition matrix. This formulation provides a geometric interpretation
+of Markov Stability in terms of a time-dependent spectral embedding, where the Markov time acts
+as an inhomogeneous geometric resolution factor that zooms the components of the node vectors at
+different rates. Our geometric formulation encompasses both modularity and the multi-resolution
+Potts model, which are shown to correspond to vector partitioning in a pseudo-Euclidean space,
+and is also linked to spectral partitioning methods, where the number of eigenvectors used corresponds
+to the dimensionality of the underlying embedding vector space. Inspired by the Louvain optimisation
+for community detection, we then propose an algorithm based on a graph-theoretical heuristic for
+the vector partitioning problem. We apply the algorithm to the spectral optimisation of modularity
+and Markov Stability community detection. The spectral embedding based on the transition matrix
+eigenvectors leads to improved partitions with higher information content and higher modularity
+than the eigen-decomposition of the modularity matrix. We illustrate the results with random network
+benchmarks. 

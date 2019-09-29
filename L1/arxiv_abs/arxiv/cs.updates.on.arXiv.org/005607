@@ -1,0 +1,17 @@
+An $(\alpha,\beta)$-ruling set of a graph $G=(V,E)$ is a set $R\subseteq V$ such that for any node
+$v\in V$ there is a node $u\in R$ in distance at most $\beta$ from $v$ and such that any two nodes in $R$
+are at distance at least $\alpha$ from each other. The concept of ruling sets can naturally be extended
+to edges, i.e., a subset $F\subseteq E$ is an $(\alpha,\beta)$-ruling edge set of a graph $G=(V,E)$
+if the corresponding nodes form an $(\alpha,\beta)$-ruling set in the line graph of $G$. This paper
+presents a simple deterministic, distributed algorithm, in the $\mathsf{CONGEST}$ model, for
+computing $(2,2)$-ruling edge sets in $O(\log^* n)$ rounds. Furthermore, we extend the algorithm
+to compute ruling sets of graphs with bounded diversity. Roughly speaking, the diversity of a graph
+is the maximum number of maximal cliques a vertex belongs to. We devise $(2,O(\mathcal{D}))$-ruling
+sets on graphs with diversity $\mathcal{D}$ in $O(\mathcal{D}+\log^* n)$ rounds. This also implies
+a fast, deterministic $(2,O(\ell))$-ruling edge set algorithm for hypergraphs with rank at most
+$\ell$. Furthermore, we provide a ruling set algorithm for general graphs that for any $B\geq 2$
+computes an $\big(\alpha, \alpha \lceil \log_B n \rceil \big)$-ruling set in $O(\alpha \cdot B
+\cdot \log_B n)$ rounds in the $\mathsf{CONGEST}$ model. The algorithm can be modified to compute
+a $\big(2, \beta \big)$-ruling set in $O(\beta \Delta^{2/\beta} + \log^* n)$ rounds in the $\mathsf{CONGEST}$~
+model, which matches the currently best known such algorithm in the more general $\mathsf{LOCAL}$
+model. 

@@ -1,0 +1,16 @@
+It has been previously shown by the authors that a directed graph on a linearly ordered set of edges
+(ordered graph) with adjacent unique source and sink (bipolar digraph) has a unique fully optimal
+spanning tree, that satisfies a simple criterion on fundamental cycle/cocycle directions. This
+result yields, for any ordered graph, a canonical bijection between bipolar orientations and spanning
+trees with internal activity 1 and external activity 0 in the sense of the Tutte polynomial. This
+bijection can be extended to all orientations and all spanning trees, yielding the active bijection,
+presented for graphs in a companion paper. In this paper, we specifically address the problem of
+the computation of the fully optimal spanning tree of an ordered bipolar digraph. In contrast with
+the inverse mapping, built by a straightforward single pass over the edge set, the direct computation
+is not easy and had previously been left aside. We give two independent constructions. The first
+one is a deletion/contraction recursion, involving an exponential number of minors. It is structurally
+significant but it is efficient only for building the whole bijection (i.e. all images) at once.
+The second one is more complicated and is the main contribution of the paper. It involves just one
+minor for each edge of the resulting spanning tree, and it is a translation and an adaptation in the
+case of graphs, in terms of weighted cocycles, of a general geometrical linear programming type
+algorithm, which allows for a polynomial time complexity. 

@@ -1,0 +1,16 @@
+Here we present an ergodic theorem which adapts a Theorem by J. Elton to the classical thermodynamical
+formalism and to ergodic transport. First, we discuss how Elton's theorem can be used to characterise
+Gibbs measures for expanding maps. Such characterisation will be done by constructing a stochastic
+process, defined by a iterated function system (IFS), whose empirical measure converges to the
+Gibbs measure, in the sense that the mean of any test function evaluated in the outcomes of this stochastic
+process converges to the integral of such test function with respect to the Gibbs measure. In this
+way we present a stochastic algorithm that compute integrals of functions. After this, we turn our
+attention to ergodic transport: given two sets $X$ and $\Omega$, a measure $\mu$ on $X$ and a dynamics
+$T$ on $\Omega$, we consider the set of probability measures on $X \times \Omega$ whose projections
+on the second coordinate are $T$-invariant, while the projections on the first coordinate are $\mu$.
+Such measures are called transport plans. We call Gibbs plan any transport plan that maximizes a
+pressure functional that is defined by a potential function added to an entropy term. As in the classical
+thermodynamical formalism case, we adapt Elton's theorem to define a stochastic process (using
+a IFS) whose empirical measures converges to the Gibbs plan. We provide examples and show explicitly
+calculations in the case where $X$ has two elements and the cost function depends on the two first
+coordinates of $\Omega$. 

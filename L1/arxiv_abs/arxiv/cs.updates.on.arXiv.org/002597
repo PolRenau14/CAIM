@@ -1,0 +1,16 @@
+We propose a novel algorithm for sequential matrix completion in a recommender system setting,
+where the $(i,j)$th entry of the matrix corresponds to a user $i$'s rating of product $j$. The objective
+of the algorithm is to provide a sequential policy for user-product pair recommendation which will
+yield the highest possible ratings after a finite time horizon. The algorithm uses a Gamma process
+factor model with two posterior-focused bandit policies, Thompson Sampling and Information-Directed
+Sampling. While Thompson Sampling shows competitive performance in simulations, state-of-the-art
+performance is obtained from Information-Directed Sampling, which makes its recommendations
+based off a ratio between the expected reward and a measure of information gain. To our knowledge,
+this is the first implementation of Information Directed Sampling on large real datasets. This
+approach contributes to a recent line of research on bandit approaches to collaborative filtering
+including Kawale et al. (2015), Li et al. (2010), Bresler et al. (2014), Li et al. (2016), Deshpande
+& Montanari (2012), and Zhao et al. (2013). The setting of this paper, as has been noted in Kawale et
+al. (2015) and Zhao et al. (2013), presents significant challenges to bounding regret after finite
+horizons. We discuss these challenges in relation to simpler models for bandits with side information,
+such as linear or gaussian process bandits, and hope the experiments presented here motivate further
+research toward theoretical guarantees. 

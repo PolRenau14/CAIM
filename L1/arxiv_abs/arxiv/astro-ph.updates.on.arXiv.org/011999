@@ -1,0 +1,17 @@
+Orbital evolution of binary systems in dense stellar clusters is important in a variety of contexts:
+origin of blue stragglers, progenitors of compact object mergers, millisecond pulsars, and so
+on. Here we consider the general problem of secular evolution of the orbital elements of a binary
+system driven by the smooth tidal field of an axisymmetric stellar cluster (globular, nuclear,
+etc.) in which the binary orbits. We derive a secular Hamiltonian (averaged over both the inner Keplerian
+orbit of the binary and its outer orbit within the cluster) valid to quadrupole order for an arbitrary
+cluster potential and explore its characteristics. This doubly-averaged `tidal' Hamiltonian
+depends on just two parameters, which fully absorb the information about the background cluster
+potential and the binary's orbit within it: a dimensional parameter $A$ setting the secular timescale,
+and a dimensionless parameter $\Gamma$ which determines the phase portrait of the binary's inner
+orbital evolution. We examine the dependence of $A$ and $\Gamma$ on cluster potential (both spherical
+and axisymmetric) and on the binary orbit within the cluster. Our theory reproduces known secular
+results --- such as Lidov-Kozai evolution and the effect of the Galactic tide on Oort Cloud comets
+--- in appropriate limits, but is more general. It provides a universal framework for understanding
+dynamical evolution of various types of binaries driven by the smooth tidal field of any axisymmetric
+potential. In a companion paper (Hamilton \& Rafikov 2019b) we provide a detailed exploration of
+the resulting orbital dynamics. 

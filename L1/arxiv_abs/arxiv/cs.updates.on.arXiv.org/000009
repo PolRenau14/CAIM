@@ -1,0 +1,17 @@
+The collection and storage of user data by third-party agents raises privacy considerations that
+often constrain data sharing. Most work in privacy-aware data sharing has considered disclosing
+privacy preserving summaries of data where aggregate information about the data is preserved.
+However, there are applications, including online advertising and crowdsourcing markets, where
+fine-grained information must be published. We consider a different data sharing paradigm where
+a dataset needs to be distributed across multiple third-parties. We address the problem of privacy-aware
+data partitioning, namely, the problem of splitting a sensitive dataset among k untrusted parties
+(adversaries). The goal is to maximize the utility derived by partitioning and distributing the
+dataset, while minimizing the sensitive information disclosed. The partitioning should allow
+no additional inferences to be drawn about private information by linking together multiple pieces
+of data. We formally define the problem of privacy-aware data partitioning over k adversaries assuming
+no collusion, and propose a novel data sharing scheme that minimizes the inferences each party can
+draw. We show that solving the problem is, in general, NP-hard, but for specific families of information
+disclosure functions, good approximate solutions can be found using relaxation techniques. Finally,
+we present a greedy randomized local search algorithm for solving the problem for generic families
+of information disclosure functions and provide an experimental evaluation of the different techniques
+presented in the paper. 

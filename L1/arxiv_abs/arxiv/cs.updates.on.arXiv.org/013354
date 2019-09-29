@@ -1,0 +1,16 @@
+Relative efficiency (RE), the Pitman asymptotic relative efficiency (ARE) and efficacy are important
+relative performance measures of signal detection techniques. These measures allow comparing
+two detectors in terms of the relative sample sizes they require to achieve the same prescribed level
+of false alarm and detection probabilities. While the finite-sample-size measure RE is useful
+to analyze the small sample behavior of detectors, in practice it is difficult to compute. In the
+limit as the signal strength approaches zero at an appropriate rate, the RE converges to an asymptotic
+limit only for very large sample sizes. This limiting ratio of the number of samples is the ARE, which
+lends analytical tractability, but does not provide insights into the finite sample behavior of
+detectors which is important for practical applications. This led researchers to study the convergence
+of RE to ARE, and has been well-reported for the problem of constant signal detection in additive,
+independent, and identically distributed noise. When the signal to be detected is random ({\ie},
+unknown), such a convergence analysis is lacking in the literature and is the focus of this paper.
+A relationship between RE and ARE for random signal detection is established. We use the higher-order
+terms in the Taylor series expansion of the mean of the test statistic under the alternative hypothesis
+to derive this formula. We present preliminary remarks on the convergence of RE to ARE for random
+signals in comparison to that for constant signal detection. 

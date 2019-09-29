@@ -1,0 +1,16 @@
+We present the result of calculations to optimize the search for molecular oxygen (O2) in Earth analogs
+transiting around nearby, low-mass stars using ground-based, high-resolution, Doppler shift
+techniques. We investigate a series of parameters, namely spectral resolution, wavelength coverage
+of the observations, and sky coordinates and systemic velocity of the exoplanetary systems, to
+find the values that optimize detectability of O2. We find that increasing the spectral resolution
+of observations to R = 300,000 - 400,000 from the typical R ~ 100,000, more than doubles the average
+depth of O2 lines in planets with atmospheres similar to Earth's. Resolutions higher than about
+500,000 do not produce significant gains in the depths of the O2 lines. We confirm that observations
+in the O2 A-band are the most efficient except for M9V host stars, for which observations in the O2
+NIR-band are more efficient. Combining observations in the O2 A, B, and NIR -bands can reduce the
+number of transits needed to produce a detection of O2 by about 1/3 in the case of white noise limited
+observations. However, that advantage disappears in the presence of typical levels of red noise.
+Therefore, combining observations in more than one band produces no significant gains versus observing
+only in the A-band, unless red-noise can be significantly reduced. Blending between the exoplanet's
+O2 lines and telluric O2 lines is a known problem. We find that problem can be alleviated by increasing
+the resolution of the observations, and by giving preference to targets near the ecliptic. 

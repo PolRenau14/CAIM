@@ -1,0 +1,17 @@
+By exerting mechanical forces, biological cells generate striking spatial patterns of localised
+deformation in the surrounding collagen network. Tethers-paths of high densification and fiber
+alignment-form between cells, and radial hair-like bands emanate from cell clusters. While tethers
+facilitate cell communication, the mechanism for their formation is unclear. Here we combine modelling,
+simulation and experiment, and explore unexpected similarities with martensitic microstructures
+in shape memory alloys; we show that tether formation is a densification phase transition of the
+fibrous extracellular matrix, caused by buckling instability of network fibers under cell-induced
+compression. Our model uses multiscale averaging over fiber orientations to obtain a two-phase,
+bistable continuum strain energy density for fibrous collagen, with a densified second phase.
+Simulations predict strain discontinuities between the undensified and the densified phase,
+which localises within intercellular tethers and radial emanations from cell clusters, as experimentally
+observed. Ruling out biochemical factors, our experiments use contracting active hydrogel particles
+to produce similar-but controlled-localised deformations as contractile cells. Our results
+reveal subtle connections with martensitic phase transitions that demonstrate how, by exploiting
+a special instability, cells spontaneously generate pathways to each other in a 3D complex medium
+simply by contracting, with implications on intercellular mechanosensing and the remodelling
+of matrix mechanical properties by tether networks. 

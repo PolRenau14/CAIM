@@ -1,0 +1,16 @@
+Context: In protoplanetary disks, dust grains coagulate with each other and grow to form aggregates.
+As these aggregates grow by coagulation, their filling factor \phi decreases down to \phi <<
+1. However, comets, the remnants of these early planetesimals, have \phi ~ 0.1. Thus, static compression
+of porous dust aggregates is important in planetesimal formation. However, the static compression
+strength has been investigated only for relatively high density aggregates (\phi > 0.1). Aims:
+We investigate and find the compression strength of highly porous aggregates (\phi << 1).
+Methods: We perform three dimensional N-body simulations of aggregate compression with a particle-particle
+interaction model. We introduce a new method of static compression: the periodic boundary condition
+is adopted and the boundaries move with low speed to get closer. The dust aggregate is compressed
+uniformly and isotropically by themselves over the periodic boundaries. Results: We empirically
+derive a formula of the compression strength of highly porous aggregates (\phi << 1). We check
+the validity of the compression strength formula for wide ranges of numerical parameters, such
+as the size of initial aggregates, the boundary speed, the normal damping force, and material. We
+also compare our results to the previous studies of static compression in the relatively high density
+region (\phi > 0.1) and confirm that our results consistently connect to those in the high density
+region. The compression strength formula is also derived analytically. 

@@ -1,0 +1,17 @@
+We derive new diffusion solutions to the monoenergetic generalized linear Boltzmann transport
+equation (GLBE) for the stationary collision density and scalar flux about an isotropic point source
+in an infinite $d$-dimensional absorbing medium with isotropic scattering. We consider both classical
+transport theory with exponentially-distributed free paths in arbitrary dimensions as well as
+a number of non-classical transport theories (non-exponential random flights) that describe
+a broader class of transport processes within partially-correlated random media. New rigorous
+asymptotic diffusion approximations are derived where possible. We also generalize Grosjean's
+moment-preserving approach of separating the first (or uncollided) distribution from the collided
+portion and approximating only the latter using diffusion. We find that for any spatial dimension
+and for many free-path distributions Grosjean's approach produces compact, analytic approximations
+that are, overall, more accurate for high absorption and for small source-detector separations
+than either $P_1$ diffusion or rigorous asymptotic diffusion. These diffusion-based approximations
+are exact in the first two even spatial moments, which we derive explicitly for various non-classical
+transport types. We also discuss connections between the random-flight-theory derivation of
+the Green's function and the discrete spectrum of the transport operator and report some new observations
+regarding the discrete eigenvalues of the transport operator for general dimensions and free-path
+distributions. 

@@ -1,0 +1,16 @@
+A method to increase the precision of feedforward networks is proposed. It requires a prior knowledge
+of a target function derivatives of several orders and uses this information in gradient based training.
+Forward pass calculates not only values of the output layer of the network but also their derivatives.
+Deviations of those derivatives from the target ones are used in an extended cost function and then
+backward pass calculates gradient of the extended cost with respect to weights, which is then can
+be used by any weights update algorithm. Despite a substantial increase of arithmetic operations
+per pattern (if compared to the conventional training), the extended cost allows to obtain 140--1000
+times more accurate approximation for simple cases if the total number of operations is equal. This
+precision also happens to be out of reach for the regular cost function. The method fits well into
+the procedure of solving differential equations with neural networks. Unlike training a network
+to match some target mapping, which requires an explicit use of target derivatives in an extended
+cost function, the cost function for solving a differential equation is based on the deviation of
+the equation's residual from zero and thus can be extended by differentiating the equation itself,
+which does not require any prior knowledge. Solving an equation with such a cost resulted in 13 times
+more accurate result and could be done with 3 times larger grid step. GPU-efficient algorithm for
+calculating gradient of an extended cost function is proposed. 

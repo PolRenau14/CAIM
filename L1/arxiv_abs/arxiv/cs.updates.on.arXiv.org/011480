@@ -1,0 +1,16 @@
+The chromatic number of a graph $G$, denoted by $\chi(G)$, is the minimum $k$ such that $G$ admits
+a $k$-coloring of its vertex set in such a way that each color class is an independent set (a set of pairwise
+non-adjacent vertices). The dichromatic number of a digraph $D$, denoted by $\chi_A(D)$, is the
+minimum $k$ such that $D$ admits a $k$-coloring of its vertex set in such a way that each color class
+is acyclic. In 1976, Bondy proved that the chromatic number of a digraph $D$ is at most its circumference,
+the length of a longest cycle. Given a digraph $D$, we will construct three different graphs whose
+chromatic numbers bound $\chi_A(D)$. Moreover, we prove: i) for integers $k\geq 2$, $s\geq 1$ and
+$r_1, \ldots, r_s$ with $k\geq r_i\geq 0$ and $r_i\neq 1$ for each $i\in[s]$, that if all cycles in
+$D$ have length $r$ modulo $k$ for some $r\in\{r_1,\ldots,r_s\}$, then $\chi_A(D)\leq 2s+1$;
+ii) if $D$ has girth $g$ and there are integers $k$ and $p$, with $k\geq g-1\geq p\geq 1$ such that $D$
+contains no cycle of length $r$ modulo $\lceil \frac{k}{p} \rceil p$ for each $r\in \{-p+2,\ldots,0,\ldots,p\}$,
+then $\chi_A (D)\leq \lceil \frac{k}{p} \rceil$; iii) if $D$ has girth $g$, the length of a shortest
+cycle, and circumference $c$, then $\chi_A(D)\leq \lceil \frac{c-1}{g-1} \rceil +1$, which improves,
+substantially, the bound proposed by Bondy. Our results show that if we have more information about
+the lengths of cycles in a digraph, then we can improve the bounds for the dichromatic number known
+until now. 

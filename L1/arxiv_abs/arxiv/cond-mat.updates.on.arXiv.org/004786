@@ -1,0 +1,17 @@
+We consider the random-field O($N$) spin model with long-range exchange interactions which decay
+with distance $r$ between spins as $r^{-d-\sigma}$ and/or random fields which correlate with distance
+$r$ as $r^{-d+\rho}$, and reexamine the critical phenomena near the lower critical dimension by
+use of the perturbative functional renormalization group. We compute the analytic fixed points
+in the one-loop beta functions, and study their stability. We also calculate the critical exponents
+at the analytical fixed points. We show that the analytic fixed point which governs the phase transition
+in the system with the long-range correlations of random fields can be destabilized by the nonanalytic
+perturbation in both cases where the exchange interactions between spins are short ranged and long
+ranged. For the system with the long-range exchange interactions and uncorrelated random fields,
+we show that the $d\to d-\sigma$ dimensional reduction at the leading order of the $d-2\sigma$ expansion
+holds only for $N>2(4+3{\sqrt{3}})\simeq 18.3923\cdots$. Our investigation into the system
+with the long-range exchange interactions and uncorrelated random fields also gives the value
+of the boundary between critical behaviors in systems with long-range and short-range exchange
+interactions, which is identical to that predicted by Sak [Phys. Rev. B {\bf{8}}, 281 (1973)]. For
+the system with the long-range exchange interactions and the long-range correlated random fields,
+we show that the $d\to d-\sigma-\rho$ dimensional reduction does not hold within the present framework,
+as far as $N$ is finite. 

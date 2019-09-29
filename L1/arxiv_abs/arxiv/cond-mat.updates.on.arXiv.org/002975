@@ -1,0 +1,16 @@
+The mechanism responsible for the compaction of the genomic DNA of bacteria inside a structure called
+the nucleoid is a longstanding but still lively debated question. Most puzzling is the fact that
+the nucleoid occupies only a small fraction of the cell, although it is not separated from the rest
+of the cytoplasm by any membrane and would occupy a volume about thousand times larger outside from
+the cell. Here, by performing numerical simulations with coarse-grained models, we elaborate
+on the conjecture that the formation of the nucleoid may result from a segregative phase separation
+mechanism driven by the demixing of the DNA coil and non-binding globular macromolecules present
+in the cytoplasm, presumably functional ribosomes. Simulations performed with crowders having
+spherical, dumbbell or octahedral geometry highlight the sensitive dependence of the level of
+DNA compaction on the dissymmetry of DNA/DNA, DNA/crowder, and crowder/crowder repulsive interactions,
+thereby supporting the segregative phase separation scenario. Simulations also consistently
+predict much stronger DNA compaction close to the jamming threshold. Moreover, simulations performed
+with crowders of different sizes suggest that the final density distribution of each species results
+from the competition between thermodynamic forces and steric hindrance, so that bigger crowders
+are expelled selectively from the nucleoid only at moderate total crowder concentrations. This
+work leads to several predictions, which may eventually be tested experimentally. 

@@ -1,0 +1,17 @@
+Elastic Optical Network (EON) has been considered as a promising optical networking technology
+to architect the next-generation backbone networks. Routing and Spectrum Assignment (RSA) is
+the fundamental problem in EONs to realize service provisioning. Generally, the RSA is solved by
+routing the requests with lightpaths first and then assigning spectrum resources to the lightpaths
+to optimize the spectrum usage. Thus, the spectrum assignment explicitly decide the final spectrum
+usage of EONs. However, besides the spectrum assignment, there are three other factors, the network
+topology, traffic distribution and routing scheme, implicitly impact on the spectrum usage. Few
+related work involves in the implicit impact mechanism. In this paper, we aim to provide a thoroughly
+theoretical analysis on the impact of the three key factors on the spectrum usage. To this end, two
+theoretical chains are proposed: (1) The optimal spectrum usage can be measured by the chromatic
+number of the conflict graph, which is positively correlated to the intersecting probability,
+\emph{i.e.}, the smaller the intersecting probability, the smaller the optimal spectrum usage;
+(2) The intersecting probability is decided by the network topology, traffic distribution and
+routing scheme via a quadratic programming parameterized with a matrix of conflict coefficients.
+The effectiveness of our theoretical analysis has been validated by extensive numerical results.
+Meanwhile, our theoretical deductions also permit to give several constant approximation ratios
+for RSA algorithms. 

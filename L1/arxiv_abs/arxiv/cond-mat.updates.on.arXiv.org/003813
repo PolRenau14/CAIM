@@ -1,0 +1,17 @@
+Recently, two nonempirical hybrid functionals, dielectric-dependent range-separated hybrid
+functional based on the Coulomb-attenuating method (DD-RSH-CAM) and doubly screened hybrid functional
+(DSH), have been suggested by [Chen et al, Phys. Rev. Mater. 98, 075130 (2018)] and [Cui et al, J. Phys.
+Chem. Lett. 9, 2338 (2018)], respectively. These two hybrid functionals are both based on a common
+model dielectric function approach, but differ in the way how to non-empirically obtain the range-separation
+parameter. By retaining the full short-range Fock exchange and a fraction of the long-range Fock
+exchange that equals the inverse of the dielectric constant, both DD-RSH-CAM and DSH turn out to
+perform very well in predicting the band gaps for a large variety of semiconductors and insulators.
+Here, we assess how these two hybrid functionals perform on challenging antiferromagnetic transition-metal
+monoxides MnO, FeO, CoO, and NiO by comparing them to other conventional hybrid functionals and
+the $GW$ method. We find that single-shot DD0-RSH-CAM and DSH0 outperform conventional hybrid
+functionals insofar that they improve the band gaps towards experiments. The magnetic moments
+are slightly increased, but the predicted dielectric constants are decreased. The valence band
+density of states (DOS) predicted by DD0-RSH-CAM and DSH0 are as satisfactory as HSE03 in comparison
+to experimental spectra, however, the conduction band DOS are shifted to higher energies by about
+2 eV compared to HSE03. Self-consistent DD-RSH-CAM and DSH deteriorate the results with a significant
+overestimation of band gaps. 

@@ -1,0 +1,17 @@
+Polymer translocation through a nanometer-scale pore assisted by chaperones binding to the polymer
+is a process encountered in vivo for proteins. Studying the relevant models by computer simulations
+is computationally demanding. Accordingly, previous studies are either for stiff polymers in
+three dimensions or flexible polymers in two dimensions. Here, we study chaperone-assisted translocation
+of flexible polymers in three dimensions using Langevin dynamics. We show that differences in binding
+mechanisms, more specifically, whether a chaperone can bind to a single or multiple sites on the
+polymer, lead to substantial differences in translocation dynamics in three dimensions. We show
+that the single-binding mode leads to dynamics that is very much like that in the constant-force
+driven translocation and accordingly mainly determined by tension propagation on the cis side.
+We obtain $\beta \approx 1.26$ for the exponent for the scaling of the translocation time with polymer
+length. This fairly low value can be explained by the additional friction due to binding particles.
+The multiple-site binding leads to translocation whose dynamics is mainly determined by the trans
+side. For this process we obtain $\beta \approx 1.36$. This value can be explained by our derivation
+of $\beta = 4/3$ for constant-bias translocation, where translocated polymer segments form a globule
+on the trans side. Our results pave the way for understanding and utilizing chaperone-assisted
+translocation where variations in microscopic details lead to rich variations in the emerging
+dynamics. 

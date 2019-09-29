@@ -1,0 +1,16 @@
+In the world of generalized entropies---which, for example, play a role in physical systems with
+sub- and super-exponential phasespace growth per degree of freedom---there are two ways for implementing
+constraints in the maximum entropy principle: linear- and escort constraints. Both appear naturally
+in different contexts. Linear constraints appear e.g. in physical systems, when additional information
+about the system is available through higher moments. Escort distributions appear naturally in
+the context of multifractals and information geometry. It was shown recently that there exists
+a fundamental duality that relates both approaches on the basis of the corresponding deformed logarithms
+(deformed-log duality). Here we show that there exists another duality that arises in the context
+of information geometry, relating the Fisher information of $\phi$-deformed exponential families
+that correspond to linear constraints (as studied by J. Naudts), with those that are based on escort
+constraints (as studied by S.-I. Amari). We explicitly demonstrate this information geometric
+duality for the case of $(c,d)$-entropy that covers all situations that are compatible with the
+first three Shannon-Khinchin axioms, and that include Shannon, Tsallis, Anteneodo-Plastino
+entropy, and many more as special cases. Finally, we discuss the relation between the deformed-log
+duality and the information geometric duality, and mention that the escort distributions arising
+in the two dualities are generally different and only coincide for the case of the Tsallis deformation.

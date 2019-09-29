@@ -1,0 +1,17 @@
+We develop a new method of extracting simultaneous measurements of weak lensing shear and a local
+rotation of the plane of polarization using observations of resolved radio sources. {We show that
+the direction of polarization is statistically linked with that of the gradient of the total intensity
+field, and this provides the basis of our method}. Using a number of sources spread over the sky, this
+method allows constraints to be placed on cosmic shear and birefringence, and it can be applied to
+any resolved radio sources for which such a correlation exists. Assuming that the rotation and shear
+are constant across the source, we use this relationship to construct a quadratic estimator and
+investigate its properties using simulated observations. We develop a calibration scheme using
+simulations based on the observed images to mitigate a bias which occurs in the presence of measurement
+errors and an astrophysical scatter on the polarization. The method is applied directly to archival
+data of radio galaxies where we measure a mean rotation signal of $\left<\omega\right>=-2.03^{\circ}\pm0.75^{\circ}$
+and an average shear compatible with zero using 30 reliable sources. This level of constraint on
+an overall rotation is comparable with current leading constraints from CMB experiments and is
+expected to increase by at least an order of magnitude with future high precision radio surveys,
+such as those performed by the SKA. We also measure the shear and rotation two-point correlation
+functions and estimate the number of sources required to detect shear and rotation correlations
+in future surveys. 

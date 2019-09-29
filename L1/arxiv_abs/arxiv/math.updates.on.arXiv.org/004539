@@ -1,0 +1,16 @@
+The rational solution of the Monty Hall problem unsettles many people. Most people, including the
+authors, think it feels wrong to switch the initial choice of one of the three doors, despite having
+fully accepted the mathematical proof for its superiority. Many people, if given the choice to switch,
+think the chances are fifty-fifty between their options, but still strongly prefer to stay with
+their initial choice. Is there some sense behind these irrational feelings? We entertain the possibility
+that intuition solves the problem of how to behave in a real game show, not in the abstract textbook
+version of the Monty Hall problem. A real showmaster sometimes plays evil, either to make the show
+more interesting, to save money, or because he is in a bad mood. A moody showmaster erases any information
+advantage the guest could extract by him opening other doors which drives the chance of the car being
+behind the chosen door towards fifty percent. Furthermore, the showmaster could try to read or manipulate
+the guest's strategy to the guest's disadvantage. Given this, the preference to stay with the initial
+choice turns out to be a very rational defense strategy of the show's guest against the threat of being
+manipulated by its host. Thus, the intuitive feelings most people have about the Monty Hall problem
+coincide with what would be a rational strategy for a real-world game show. Although these investigations
+are mainly intended to be an entertaining mathematical commentary on an information-theoretic
+puzzle, they touch on interesting psychological questions. 

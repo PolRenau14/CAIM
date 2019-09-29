@@ -1,0 +1,16 @@
+A multi-user multi-armed bandit (MAB) framework is used to develop algorithms for uncoordinated
+spectrum access. The number of users is assumed to be unknown to each user. A stochastic setting is
+first considered, where the rewards on a channel are the same for each user. In contrast to prior work,
+it is assumed that the number of users can possibly exceed the number of channels, and that rewards
+can be non-zero even under collisions. The proposed algorithm consists of an estimation phase and
+an allocation phase. It is shown that if every user adopts the algorithm, the system wide regret is
+constant with time with high probability. The regret guarantees hold for any number of users and
+channels, in particular, even when the number of users is less than the number of channels. Next,
+an adversarial multi-user MAB framework is considered, where the rewards on the channels are user-dependent.
+It is assumed that the number of users is less than the number of channels, and that the users receive
+zero reward on collision. The proposed algorithm combines the Exp3.P algorithm developed in prior
+work for single user adversarial bandits with a collision resolution mechanism to achieve sub-linear
+regret. It is shown that if every user employs the proposed algorithm, the system wide regret is of
+the order $O(T^\frac{3}{4})$ over a horizon of time $T$. The algorithms in both stochastic and adversarial
+scenarios are extended to the dynamic case where the number of users in the system evolves over time
+and are shown to lead to sub-linear regret. 

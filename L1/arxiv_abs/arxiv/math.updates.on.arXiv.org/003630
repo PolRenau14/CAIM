@@ -1,0 +1,16 @@
+We develop two new variants of alternating direction methods of multipliers (ADMM) and two parallel
+primal-dual decomposition algorithms to solve a wide range class of constrained convex optimization
+problems. Our approach relies on a novel combination of the augmented Lagrangian framework, partial
+alternating/linearization scheme, Nesterov's acceleration technique, and adaptive strategy.
+The proposed algorithms have the following new features compared to existing ADMM variants. First,
+they have a Nesterov's acceleration step on the primal variables instead of the dual ones as in several
+ADMM variants. Second, they possess an optimal $O(\frac{1}{k})$-convergence rate guarantee
+in a non-ergodic sense without any smoothness or strong convexity-type assumption, where $k$ is
+the iteration counter. When one objective term is strongly convex, our algorithm achieves an optimal
+$O(\frac{1}{k^2})$-non-ergodic rate. Third, our methods have better per-iteration complexity
+than standard ADMM due to the linearization step in the second subproblem. Fourth, we provide a set
+of conditions to derive update rules for algorithmic parameters, and give a concrete update for
+these parameters as an example. Finally, when the objective function is separable, our methods
+can naturally be implemented in a parallel fashion. We also study two extensions of our methods and
+a connection to existing primal-dual methods. We verify our theoretical development via different
+numerical examples and compare our methods with some existing state-of-the-art algorithms. 

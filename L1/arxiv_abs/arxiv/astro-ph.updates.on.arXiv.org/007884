@@ -1,0 +1,17 @@
+SweetSpot is a three-year National Optical Astronomy Observatory (NOAO) Survey program to observe
+Type Ia supernovae (SNe Ia) in the smooth Hubble flow with the WIYN High-resolution Infrared Camera
+(WHIRC) on the WIYN 3.5-m telescope. We here present data from the first half of this survey, covering
+the 2011B-2013B NOAO semesters, and consisting of 493 calibrated images of 74 SNe Ia observed in
+the rest-frame near-infrared (NIR) from $0.02 < z < 0.09$. Because many observed supernovae require
+host galaxy subtraction from templates taken in later semesters, this release contains only the
+186 NIR ($JHK_s$) data points for the 33 SNe Ia that do not require host-galaxy subtraction. The sample
+includes 4 objects with coverage beginning before the epoch of B-band maximum and 27 beginning within
+20 days of B-band maximum. We also provide photometric calibration between the WIYN+WHIRC and Two-Micron
+All Sky Survey (2MASS) systems along with light curves for 786 2MASS stars observed alongside the
+SNe Ia. This work is the first in a planned series of three SweetSpot Data Releases. Future releases
+will include the full set of images from all 3 years of the survey, including host-galaxy reference
+images and updated data processing and host-galaxy reference subtraction. SweetSpot will provide
+a well-calibrated sample that will help improve our ability to standardize distance measurements
+to SNe Ia, examine the intrinsic optical-NIR colors of SNe Ia at different epochs, explore nature
+of dust in other galaxies, and act as a stepping stone for more distant, potentially space-based
+surveys. 

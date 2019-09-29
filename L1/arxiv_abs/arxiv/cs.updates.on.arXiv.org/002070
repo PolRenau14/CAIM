@@ -1,0 +1,16 @@
+Traffic speed is a key indicator for the efficiency of an urban transportation system. Accurate
+modeling of the spatiotemporally varying traffic speed thus plays a crucial role in urban planning
+and development. This paper addresses the problem of efficient fine-grained traffic speed prediction
+using big traffic data obtained from static sensors. Gaussian processes (GPs) have been previously
+used to model various traffic phenomena, including flow and speed. However, GPs do not scale with
+big traffic data due to their cubic time complexity. In this work, we address their efficiency issues
+by proposing local GPs to learn from and make predictions for correlated subsets of data. The main
+idea is to quickly group speed variables in both spatial and temporal dimensions into a finite number
+of clusters, so that future and unobserved traffic speed queries can be heuristically mapped to
+one of such clusters. A local GP corresponding to that cluster can then be trained on the fly to make
+predictions in real-time. We call this method localization. We use non-negative matrix factorization
+for localization and propose simple heuristics for cluster mapping. We additionally leverage
+on the expressiveness of GP kernel functions to model road network topology and incorporate side
+information. Extensive experiments using real-world traffic data collected in the two U.S. cities
+of Pittsburgh and Washington, D.C., show that our proposed local GPs significantly improve both
+runtime performances and prediction accuracies compared to the baseline global and local GPs.

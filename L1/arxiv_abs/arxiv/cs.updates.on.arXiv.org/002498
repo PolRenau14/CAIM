@@ -1,0 +1,16 @@
+Spreadsheet software is the tool of choice for interactive ad-hoc data management, with adoption
+by billions of users. However, spreadsheets are not scalable, unlike database systems. On the other
+hand, database systems, while highly scalable, do not support interactivity as a first-class primitive.
+We are developing DataSpread, to holistically integrate spreadsheets as a front-end interface
+with databases as a back-end datastore, providing scalability to spreadsheets, and interactivity
+to databases, an integration we term presentational data management (PDM). In this paper, we make
+a first step towards this vision: developing a storage engine for PDM, studying how to flexibly represent
+spreadsheet data within a database and how to support and maintain access by position. We first conduct
+an extensive survey of spreadsheet use to motivate our functional requirements for a storage engine
+for PDM. We develop a natural set of mechanisms for flexibly representing spreadsheet data and demonstrate
+that identifying the optimal representation is NP-Hard; however, we develop an efficient approach
+to identify the optimal representation from an important and intuitive subclass of representations.
+We extend our mechanisms with positional access mechanisms that don't suffer from cascading update
+issues, leading to constant time access and modification performance. We evaluate these representations
+on a workload of typical spreadsheets and spreadsheet operations, providing up to 20% reduction
+in storage, and up to 50% reduction in formula evaluation time. 

@@ -1,0 +1,16 @@
+Modern big data systems run on cloud environments where resources are shared amongst several users
+and applications. As a result, declarative user queries in these environments need to be optimized
+and executed over resources that constantly change and are provisioned on demand for each job. This
+requires us to rethink traditional query optimizers designed for systems that run on dedicated
+resources. In this paper, we show evidence that the choice of query plans depends heavily on the available
+resources, and the current practice of choosing query plans before picking the resources could
+lead to significant performance loss in two popular big data systems, namely Hive and SparkSQL.
+Therefore, we make a case for Resource and Query Optimization (or RAQO), i.e., choosing both the
+query plan and the resource configuration at the same time. We describe rule-based RAQO and present
+alternate decisions trees to make resource-aware query planning in Hive and Spark. We further present
+cost-based RAQO that integrates resource planning within a query planner, and show techniques
+to significantly reduce the resource planning overheads. We evaluate cost-based RAQO using state-of-the-art
+System R query planner as well as a recently proposed multi-objective query planner. Our evaluation
+on TPC-H and randomly generated schemas show that: (i) we can reduce the resource planning overhead
+by up to 16x, and (ii) RAQO can scale to schemas as large as 100 table joins as well as clusters as big
+as 100K containers with 100GB each. 

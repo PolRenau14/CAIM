@@ -1,0 +1,16 @@
+Flutter instability in elastic structures subject to follower load, the most important cases being
+the famous Beck's and Pfluger's columns (two elastic rods in a cantilever configuration, with an
+additional concentrated mass at the end of the rod in the latter case), have attracted, and still
+attract, a thorough research interest. In this field, the most important issue is the validation
+of the model itself of follower force, a nonconservative action which was harshly criticized and
+never realized in practice for structures with diffused elasticity. An experimental setup to introduce
+follower tangential forces at the end of an elastic rod was designed, realized, validated, and tested,
+in which the follower action is produced by exploiting Coulomb friction on an element (a freely-rotating
+wheel) in sliding contact against a flat surface (realized by a conveyor belt). It is therefore shown
+that follower forces can be realized in practice and the first experimental evidence is given for
+both the flutter and divergence instabilities occurring in the Pfluger's column. In particular,
+load thresholds for the two instabilities are measured and the detrimental effect of dissipation
+on the critical load for flutter is experimentally demonstrated, while a slight increase in load
+is found for the divergence instability. The presented approach to follower forces discloses new
+horizons for testing self-oscillating structures and for exploring and documenting dynamic instabilities
+possible when nonconservative loads are applied. 

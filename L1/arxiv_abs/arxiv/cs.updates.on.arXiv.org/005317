@@ -1,0 +1,16 @@
+It is well-known that the problem to solve equations in virtually free groups can be reduced to the
+problem to solve twisted word equations with regular constraints over free monoids with involution.
+In a first part of the paper we prove that the set of all solutions of such a twisted word equation is
+an EDT0L language and that the specification of that EDT0L language can be computed in PSPACE. (We
+give a more precise bound in the paper.) Within the same complexity bound we can decide whether the
+solution set is empty, finite, or infinite. No PSPACE-algorithm, actually no concrete complexity
+bound was known for deciding emptiness before. Decidability of finiteness was considered to be
+an open problem. In the second part we apply the results to the solution set of equations with rational
+constraints in finitely generated virtually free groups. For each such group we obtain the same
+results as above for the set of solutions in standard normal forms with respect to some natural set
+of generators. In particular, for a fixed group we can decide in PSPACE whether the solution set is
+empty, finite, or infinite. Our results generalize the work by Lohrey and S\'enizergues (ICALP
+2006) and Dahmani and Guirardel (J. of Topology 2010) with respect to both complexity and expressive
+power. Neither paper gave any concrete complexity bound and the results in these papers are stated
+subsets of solutions only, whereas our results concern all solutions. Moreover, we give a formal
+language characterization of the full solution set as an EDT0L language. 

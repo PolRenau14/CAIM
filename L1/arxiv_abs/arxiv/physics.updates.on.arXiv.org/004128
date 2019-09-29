@@ -1,0 +1,17 @@
+We present a purely numerical approach in Cartesian grid, for efficient computation of Hartree-Fock
+(HF) exchange contribution in the HF and density functional theory models. This takes inspiration
+from a recently developed algorithm [Liu \emph{et al.}, J.~Chem.~Theor.~Comput.~ \textbf{13},
+2571 (2017)]. A key component is the accurate evaluation of electrostatic potential integral,
+which is the rate-determining step. This introduces the Fourier convolution theorem in conjunction
+with a range-separated Coulomb interaction kernel. The latter is efficiently mapped into real
+grid through a simple optimization procedure, giving rise to a constraint in the range-separated
+parameter. The overall process offers logarithmic scaling with respect to molecular size. It is
+then extended towards global hybrid functionals such as B3LYP, PBE0 and BHLYP within pseudopotential
+Kohn-Sham theory, through an LCAO-MO ansatz in Cartesian grid, developed earlier in our laboratory.
+For sake of comparison, a parallel semi-numerical approach has also been worked out that exploits
+the familiar Obara-Saika recursion algorithm. An excellent agreement between these two routes
+is demonstrated through total energy and orbital energy in a series of atoms and molecules (including
+10 $\pi$-electron molecules), employing an LANL2DZ-type basis function. A critical analysis
+of these two algorithms reveals that the proposed numerical scheme could lead to very attractive
+and competitive scaling. The success of our approach also enables us for further development of
+optimally tuned range-separated hybrid and hyper functionals. 

@@ -1,0 +1,16 @@
+We present a study for the generation of events from a physical process with generative deep learning.
+To simulate physical processes it is not only important to produce physical events, but also to produce
+the events with the right frequency of occurrence (density). We investigate the feasibility to
+learn the event generation and the frequency of occurrence with Generative Adversarial Networks
+(GANs) and Variational Autoencoders (VAEs) to produce events like Monte Carlo generators. We study
+three toy models from high energy physics, i.e. a simple two-body decay, the processes $e^+e^-\to
+Z \to l^+l^-$ and $p p \to t\bar{t} $ including the decay of the top quarks and a simulation of the detector
+response. We show that GANs and the standard VAE do not produce the right distributions. By buffering
+density information of Monte Carlo events in latent space given the encoder of a VAE we are able to
+construct a prior for the sampling of new events from the decoder that yields distributions that
+are in very good agreement with real Monte Carlo events and are generated $\mathcal{O}(10^8)$ times
+faster. Applications of this work include generic density estimation and sampling, targeted event
+generation via a principal component analysis of encoded events in the latent space and the possibility
+to generate better random numbers for importance sampling, e.g. for the phase space integration
+of matrix elements in quantum perturbation theories. The method also allows to build event generators
+directly from real data events. 

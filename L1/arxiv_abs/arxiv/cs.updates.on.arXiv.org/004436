@@ -1,0 +1,16 @@
+An important problem of cyber-security is malware analysis. Besides good precision and recognition
+rate, a malware detection scheme needs to be able to generalize well for novel malware families (a.k.a
+zero-day attacks). It is important that the system does not require excessive computation and is
+not itself vulnerable. In this paper, we propose a novel scheme to detect malware which we call Malytics.
+It is not dependent on any particular tool or operating system. It extracts static features of any
+given binary file to distinguish malware from benign. Malytics consists of three stages: feature
+extraction, similarity measurement and classification. The three phases are implemented by a
+neural network with two hidden layers and an output layer. We show feature extraction, which is performed
+by tf-simhashing, is equivalent to the first layer of a particular neural network. We evaluate Malytics
+performance on both Android and Windows platforms. Malytics outperforms a wide range of learning-based
+techniques and also individual state-of-the-art models on both platforms. The byte-level feature
+analysis of Malytics makes it more difficult to craft adversarial samples to mislead Malytics.
+We introduce a possible attack technique to Malytics and demonstrate both its resilience and robust
+performance in addressing zero-day malware samples and adversarial samples. The F1-score of Malytics
+is 97.36% and 99.45% on Android dex file and Windows PE files respectively, in the applied datasets.
+The speed and efficiency of Malytics are also evaluated. 

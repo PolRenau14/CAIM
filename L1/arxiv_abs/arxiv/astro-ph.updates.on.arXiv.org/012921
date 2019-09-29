@@ -1,0 +1,16 @@
+Overcontact binary stars are systems of two stars where the component stars are in contact with each
+other. This implies that they share a common envelope of gas. In this work we seek signatures of nonlinearity
+and chaos in these stars by using time series analysis techniques. We use three main techniques,
+namely the correlation dimension,f (\alpha) spectrum and the bicoherence. The former two are calculated
+from the reconstructed dynamics, while the latter is calculated from the Fourier transforms of
+the time series of intensity variations(light curves) of these stars. Our dataset consists of data
+from 463 overcontact binary stars in the Kepler field of view [1]. Our analysis indicates nonlinearity
+and signatures of chaos in almost all the light curves. We also explore whether the underlying nonlinear
+properties of the stars are related to their physical properties like fill-out-factor, a measure
+of the extend of contact between the components of an overcontact binary system . We observe that
+significant correlations exist between the fill out factor and the nonlinear quantifiers. This
+correlation is more pronounced in specific subcategories constructed based on the mass ratios
+and effective temperatures of the binaries. The correlations observed can be indicative of variations
+in the nonlinear properties of the star as it ages. We believe that this study relating nonlinear
+and astrophysical properties of binary stars is the first of its kind and is an important starting
+point for such studies in other astrophysical objects displaying nonlinear dynamical behaviour.

@@ -1,0 +1,16 @@
+Let $M$ be a compact one--manifold. We prove that the class of finitely generated subgroups of the
+group $\mathrm{Diff}^{1+bv}(M)$, the group of $C^1$ orientation preserving diffeomorphisms
+of $M$ whose first derivatives have bounded variation, is not closed under taking finite free products.
+By contrast, if the level of regularity is decreased to mere continuity, then the corresponding
+class of finitely generated groups of homeomorphisms is closed under taking free products. More
+precisely, let $G$ be a group which is not virtually metabelian. We show that the group $(G\times\mathbb{Z})*\mathbb{Z}$
+is not a subgroup of $\mathrm{Diff}^{1+bv}(M)$. As a corollary, many common groups of homeomorphisms
+cannot be realized as groups of $C^{1+bv}$ diffeomorphisms, for example $F*\mathbb{Z}$, where
+$F$ denotes Thompson's group $F$. We also complete the classification of right-angled Artin groups
+which can act smoothly on $M$ and recover the main result of the joint work of the authors with Baik.
+Namely, a right-angled Artin group $A(\Gamma)$ either admits a faithful $C^{\infty}$ action on
+$M$, or $A(\Gamma)$ admits no faithful $C^{1+bv}$ action on $M$. In the former case, $A(\Gamma)\cong
+A(\Gamma_1)\times\cdots\times A(\Gamma_k)$, where $\Gamma_i$ is possibly empty for $i\geq
+2$, and where each connected component of $\Gamma_i$ is complete for $1\leq i\leq k$. Finally, we
+develop a hierarchy of right-angled Artin groups, with the levels of the hierarchy corresponding
+to the number of semi-conjugacy classes of possible actions of these groups on the circle. 

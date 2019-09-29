@@ -1,0 +1,17 @@
+Beamforming is an effective means to improve the quality of the received signals in multiuser multiple-input-single-output
+(MISO) systems. This paper studies fast optimal downlink beamforming strategies by leveraging
+the powerful deep learning techniques. Traditionally, finding the optimal beamforming solution
+relies on iterative algorithms which leads to high computational delay and is thus not suitable
+for real-time implementation. In this paper, we propose a deep learning framework for the optimization
+of downlink beamforming. In particular, the solution is obtained based on convolutional neural
+networks and exploitation of expert knowledge, such as the uplink-downlink duality and the structure
+of known optimal solutions. Using this framework, we construct three beamforming neural networks
+(BNNs) for three typical optimization problems, i.e., the signal-to-interference-plus-noise
+ratio (SINR) balancing problem, the power minimization problem and the sum rate maximization problem.
+The BNNs for the former two problems adopt the supervised learning approach, while the BNN for the
+sum rate maximization problem employs a hybrid method of supervised and unsupervised learning
+to improve the performance beyond the state of the art. Simulation results show that with much reduced
+computational complexity, the BNNs can achieve near-optimal solutions to the SINR balancing and
+power minimization problems, and outperform the existing algorithms that maximize the sum rate.
+In summary, this work paves the way for fast realization of the optimal beamforming in multiuser
+MISO systems. 

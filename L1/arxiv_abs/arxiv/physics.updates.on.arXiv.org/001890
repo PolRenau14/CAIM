@@ -1,0 +1,17 @@
+The toroidal phase and rotation of otherwise locked magnetic islands of toroidal mode number n=1
+are controlled in the DIII-D tokamak by means of applied magnetic perturbations of n=1. Pre-emptive
+perturbations were applied in feedforward to "catch" the mode as it slowed down and entrain it to
+the rotating field before complete locking, thus avoiding the associated major confinement degradation.
+Additionally, for the first time, the phase of the perturbation was optimized in real-time, in feedback
+with magnetic measurements, in order for the mode's phase to closely match a prescribed phase, as
+a function of time. Experimental results confirm the capability to hold the mode in a given fixed-phase
+or to rotate it at up to 20 Hz with good uniformity. The control coil currents utilized in the experiments
+agree with the requirements estimated by an electromechanical model. Moreover, controlled rotation
+at 20 Hz was combined with Electron Cyclotron Current Drive (ECCD) modulated at the same frequency.
+This is simpler than regulating the ECCD modulation in feedback with spontaneous mode rotation,
+and enables repetitive, reproducible ECCD deposition at or near the island O-point, X-point and
+locations in between, for careful studies of how this affects the island stability. Current drive
+was found to be radially misaligned relative to the island, and resulting growth and shrinkage of
+islands matched expectations of the Modified Rutherford Equation for some discharges presented
+here. Finally, simulations predict the as designed ITER 3D coils can entrain a small island at sub-10
+Hz frequencies. 

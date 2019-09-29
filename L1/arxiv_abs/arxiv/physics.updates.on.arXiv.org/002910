@@ -1,0 +1,17 @@
+Levitation of optical scatterers provides a new mean to develop free-space volumetric displays.
+The principle is to illuminate a levitating particle displaced at high velocity in three dimensions
+(3D) to create images based on persistence of vision (POV). Light scattered by the particle can be
+observed all around the volumetric display and therefore provides a true 3D image that does not rely
+on interference effects and remains insensitive to the angle of observation. The challenge is to
+control with a high accuracy and at high speed the trajectory of the particle in three dimensions.
+Systems that use light to generate free-space images either in plasma or with a bead are strictly
+dependent of the scanning method used. Mechanical systems are required to scan the particles in
+the volume which weakens the time dynamics. Here we use electrically driven planar Paul traps (PPTs)
+to control the trajectory of electrically charged particles. A single gold particle colloid is
+manipulated in three dimensions through AC and DC electrical voltages applied to a PPT. Electric
+voltages can be modulated at high frequencies (150 kHz) and allow for a high speed displacement of
+particles without moving any other system component. The optical scattering of the particle in
+levitation yields free-space images that are imaged with conventional optics. The trajectory
+of the particle is entirely encoded in the electric voltage and driven through stationary planar
+electrodes. We show in this paper, the proof-of-concept for the generation of 3D free space graphics
+with a single electrically scanned particle. 

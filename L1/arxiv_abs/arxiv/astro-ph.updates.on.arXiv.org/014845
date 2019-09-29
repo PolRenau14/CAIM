@@ -1,0 +1,17 @@
+The "Breakthrough Starshot" program is planning to send transrelativistic probes to travel to
+nearby stellar systems within decades. Since the probe velocity is designed to be a good fraction
+of the light speed, \citet{zha18} recently proposed that these transrelativistic probes can be
+used to study astronomical objects and to test special relativity. In this work, we further propose
+some methods to test special relativity and constrain photon mass using the Doppler effect with
+the images and spectral features of astronomical objects as observed in the transrelativistic
+probes. We introduce more general theories to set up the framework of testing special relativity,
+including a parametric general Doppler effect and Doppler effect with massive photon. We find that
+by comparing the spectra of a certain astronomical object, one can test Lorentz invariance and constrain
+photon mass. Besides, using imaging and spectrograph capabilities of transrelativistic probes,
+one can test time dilation and constrain photon mass. For a transrelativistic probe with velocity
+$v\sim0.2c$, aperture $D\sim3.5~{\rm cm}$ and spectral resolution $R\sim100$ (or $1000$), we
+find that the probe velocity uncertainty can be constrained to $\sigma_v\sim0.01c$ (or $0.001c$),
+and the time dilation factor uncertainty can be constrained to $\Delta\gamma=|\hat\gamma-\gamma|\lesssim0.01$
+(or $0.001$), where $\hat\gamma$ is the time dilation factor and $\gamma$ is the Lorentz factor.
+Meanwhile, the photon mass limit is set to $m_\gamma\lesssim10^{-33}~{\rm g}$, which is slightly
+lower than the energy of the optical photon. 

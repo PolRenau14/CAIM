@@ -1,0 +1,16 @@
+Permutation polynomials over finite fields have been studied extensively recently due to their
+wide applications in cryptography, coding theory, communication theory, among others. Recently,
+several authors have studied permutation trinomials of the form $x^rh\left(x^{q-1}\right)$
+over $\mathbb{F}_{q^2}$, where $q=2^k$, $h(x)=1+x^s+x^t$ and $r, s, t, k>0$ are integers. Their
+methods are essentially usage of a multiplicative version of AGW Criterion because they all transformed
+the problem of proving permutation polynomials over $\mathbb{F}_{q^2}$ into that of showing the
+corresponding fractional polynomials permute a smaller set $\mu_{q+1}$, where $\mu_{q+1}:=\{x\in\mathbb{F}_{q^2}
+: x^{q+1}=1\}$. Motivated by these results, we characterize the permutation polynomials of the
+form $x^rh\left(x^{q-1}\right)$ over $\mathbb{F}_{q^2}$ such that $h(x)\in\mathbb{F}_q[x]$
+is arbitrary and $q$ is also an arbitrary prime power. Using AGW Criterion twice, one is multiplicative
+and the other is additive, we reduce the problem of proving permutation polynomials over $\mathbb{F}_{q^2}$
+into that of showing permutations over a small subset $S$ of a proper subfield $\mathbb{F}_{q}$,
+which is significantly different from previously known methods. In particular, we demonstrate
+our method by constructing many new explicit classes of permutation polynomials of the form $x^rh\left(x^{q-1}\right)$
+over $\mathbb{F}_{q^2}$. Moreover, we can explain most of the known permutation trinomials, which
+are in [6, 13, 14, 16, 20, 29], over finite field with even characteristic. 

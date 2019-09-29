@@ -1,0 +1,17 @@
+We investigate star forming scaling relations using Bayesian inference on a comprehensive data
+sample of low- (z<0.1) and high-redshift (1<z<5) star forming regions. This full data set spans
+a wide range of host galaxy stellar mass ($M_{*} \sim10^6-10^{11} M_{\odot}$) and clump star formation
+rates (SFR $ \sim10^{-5}-10^2 M_\odot yr^{-1}$). We fit the power-law relationship between the
+size (r$_{H\alpha}$) and luminosity (L$_{H\alpha}$) of the star forming clumps using the Bayesian
+statistical modeling tool Stan that makes use of Markov Chain Monte Carlo (MCMC) sampling techniques.
+Trends in the scaling relationship are explored for the full sample and subsets based on redshift
+and selection effects between samples. In our investigation we find no evidence of redshift evolution
+of the size-luminosity scaling relationship, nor a difference in slope between lensed and unlensed
+data. There is evidence of a break in the scaling relationship between high and low star formation
+rate surface density ($\Sigma_{SFR}$) clumps. The size-luminosity power law fit results are L$_{H\alpha}\sim$
+r$_{H\alpha}^{2.8}$ and L$_{H\alpha}\sim$ r$_{H\alpha}^{1.7}$ for low and high $\Sigma_{SFR}$
+clumps, respectively. We present a model where star forming clumps form at locations of gravitational
+instability and produce an ionized region represented by the Str\"{o}mgren radius. A radius smaller
+than the scale height of the disk results in a scaling relationship of $L \propto r^3$ (high $\Sigma_{SFR}$
+clumps), and a scaling of $L \propto r^2$ (low $\Sigma_{SFR}$ clumps) if the radius is larger than
+the disk scale height. 

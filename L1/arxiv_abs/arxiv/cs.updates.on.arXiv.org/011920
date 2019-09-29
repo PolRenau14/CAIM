@@ -1,0 +1,16 @@
+Increasing scale is a dominant trend in today's multimedia collections, which especially impacts
+interactive applications. To facilitate interactive exploration of large multimedia collections,
+new approaches are needed that are capable of learning on the fly new analytic categories based on
+the visual and textual content. To facilitate general use on standard desktops, laptops, and mobile
+devices, they must furthermore work with limited computing resources. We present Exquisitor,
+a highly scalable interactive learning approach, capable of intelligent exploration of the large-scale
+YFCC100M image collection with extremely efficient responses from the interactive classifier.
+Based on relevance feedback from the user on previously suggested items, Exquisitor uses semantic
+features, extracted from both visual and text attributes, to suggest relevant media items to the
+user. Exquisitor builds upon the state of the art in large-scale data representation, compression
+and indexing, introducing a cluster-based retrieval mechanism that facilitates the efficient
+suggestions. With Exquisitor, each interaction round over the full YFCC100M collection is completed
+in less than 0.3 seconds using a single CPU core. That is 4x less time using 16x smaller computational
+resources than the most efficient state-of-the-art method, with a positive impact on result quality.
+These results open up many interesting research avenues, both for exploration of industry-scale
+media collections and for media exploration on mobile devices. 

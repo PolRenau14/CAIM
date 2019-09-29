@@ -1,0 +1,17 @@
+Workers participating in a crowdsourcing platform can have a wide range of abilities and interests.
+An important problem in crowdsourcing is the task recommendation problem, in which tasks that best
+match a particular worker's preferences and reliabilities are recommended to that worker. A task
+recommendation scheme that assigns tasks more likely to be accepted by a worker who is more likely
+to complete it reliably results in better performance for the task requester. Without prior information
+about a worker, his preferences and reliabilities need to be learned over time. In this paper, we
+propose a multi-armed bandit (MAB) framework to learn a worker's preferences and his reliabilities
+for different categories of tasks. However, unlike the classical MAB problem, the reward from the
+worker's completion of a task is unobservable. We therefore include the use of gold tasks (i.e.,
+tasks whose solutions are known \emph{a priori} and which do not produce any rewards) in our task
+recommendation procedure. Our model could be viewed as a new variant of MAB, in which the random rewards
+can only be observed at those time steps where gold tasks are used, and the accuracy of estimating
+the expected reward of recommending a task to a worker depends on the number of gold tasks used. We
+show that the optimal regret is $O(\sqrt{n})$, where $n$ is the number of tasks recommended to the
+worker. We develop three task recommendation strategies to determine the number of gold tasks for
+different task categories, and show that they are order optimal. Simulations verify the efficiency
+of our approaches. 

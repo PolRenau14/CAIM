@@ -1,0 +1,16 @@
+The independence gap of a graph was introduced by Ekim et al. (2018) as a measure of how far a graph is
+from being well-covered. It is defined as the difference between the maximum and minimum size of
+a maximal independent set. We investigate the independence gap of a graph from structural and algorithmic
+points of view, with a focus on classes of perfect graphs. Generalizing results on well-covered
+graphs due to Dean and Zito (1994) and Hujdurovi\'c et al. (2018), we express the independence gap
+of a perfect graph in terms of clique partitions and use this characterization to develop a polynomial-time
+algorithm for recognizing graphs of constant independence gap in any class of perfect graphs of
+bounded clique number. Next, we introduce a hereditary variant of the parameter, which we call hereditary
+independence gap and which measures the maximum independence gap over all induced subgraphs of
+the graph. We show that determining whether a given graph has hereditary independence gap at most
+$k$ is polynomial-time solvable if $k$ is fixed and co-NP-complete if $k$ is part of input. We also
+investigate the complexity of the independent set problem in graph classes related to independence
+gap, showing that the problem is NP-complete in the class of graphs of independence gap at most one
+and polynomial-time solvable in any class of graphs with bounded hereditary independence gap.
+Combined with some known results on claw-free graphs, our results imply that the independent domination
+problem is solvable in polynomial time in the class of $\{$claw, 2$P_3\}$-free graphs. 

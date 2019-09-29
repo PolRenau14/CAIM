@@ -1,0 +1,17 @@
+Our problem of interest is to cluster vertices of a graph by identifying its underlying community
+structure. Among various vertex clustering approaches, spectral clustering is one of the most
+popular methods, because it is easy to implement while often outperforming traditional clustering
+algorithms. However, there are two inherent model selection problems in spectral clustering,
+namely estimating the embedding dimension and number of clusters. This paper attempts to address
+the issue by establishing a novel model selection framework specifically for vertex clustering
+on graphs under a stochastic block model. The first contribution is a probabilistic model which
+approximates the distribution of the extended spectral embedding of a graph. The model is constructed
+based on a theoretical result of asymptotic normality of the informative part of the embedding,
+and on a simulation result of limiting behavior of the redundant part of the embedding. The second
+contribution is a simultaneous model selection framework. In contrast with the traditional approaches,
+our model selection procedure estimates embedding dimension and number of clusters simultaneously.
+Based on our proposed distributional model, a theorem on the consistency of the estimates of model
+parameters is stated and proven. The theorem provides a statistical support for the validity of
+our method. Heuristic algorithms via the simultaneous model selection framework for vertex clustering
+are proposed, with good performance shown in the experiment on synthetic data and on the real application
+of connectome analysis. 

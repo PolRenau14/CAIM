@@ -1,0 +1,16 @@
+An $(r, \ell)$-partition of a graph $G$ is a partition of its vertex set into $r$ independent sets
+and $\ell$ cliques. A graph is $(r, \ell)$ if it admits an $(r, \ell)$-partition. A graph is well-covered
+if every maximal independent set is also maximum. A graph is $(r,\ell)$-well-covered if it is both
+$(r,\ell)$ and well-covered. In this paper we consider two different decision problems. In the
+$(r,\ell)$-Well-Covered Graph problem ($(r,\ell)$WCG for short), we are given a graph $G$, and
+the question is whether $G$ is an $(r,\ell)$-well-covered graph. In the Well-Covered $(r,\ell)$-Graph
+problem (WC$(r,\ell)$G for short), we are given an $(r,\ell)$-graph $G$ together with an $(r,\ell)$-partition
+of $V(G)$ into $r$ independent sets and $\ell$ cliques, and the question is whether $G$ is well-covered.
+We classify most of these problems into P, coNP-complete, NP-complete, NP-hard, or coNP-hard.
+Only the cases WC$(r,0)$G for $r\geq 3$ remain open. In addition, we consider the parameterized
+complexity of these problems for several choices of parameters, such as the size $\alpha$ of a maximum
+independent set of the input graph, its neighborhood diversity, its clique-width, or the number
+$\ell$ of cliques in an $(r, \ell)$-partition. In particular, we show that the parameterized problem
+of deciding whether a general graph is well-covered parameterized by $\alpha$ can be reduced to
+the WC$(0,\ell)$G problem parameterized by $\ell$. In addition, we prove that both problems are
+coW[2]-hard but can be solved in XP-time. 

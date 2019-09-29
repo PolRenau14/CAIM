@@ -1,0 +1,16 @@
+Dyson (2013) argued that the extraordinarily large number of gravitons in a gravitational wave
+makes them impossible to be resolved as individual particles. While true, it is shown in this paper
+that a LIGO interferometric detector also undergoes frequent and {\it discrete} quantum interactions
+with an incident gravitational wave, in such a way as to allow the exchange of energy and momentum
+between the wave and the detector. This opens the door to another way of clinching gravitons. The
+most basic form of an interaction is the first order Fermi acceleration (deceleration) of a laser
+photon as it is reflected by a test mass mirror oscillating in the gravitational wave, resulting
+in a frequency blueshift (redshift) of the photon depending on whether the mirror is advancing towards
+(receding from) the photon before the reflection. If \eg~a blueshift occurred, wave energy is absorbed
+and the oscillation will be damped. It is demonstrated that such energy-momentum exchanging interactions
+are responsible for the {\it observed} radiation reaction noise of LIGO (although the more common
+way of calculating the amplitude of this noise is based on momentum considerations). Most importantly,
+in each interaction the detector absorbs or emits wave energy in amounts far smaller than the standard
+graviton energy $\hbar\om$ where $\om$ is the angular frequency of the gravitational wave. This
+sets a very tight upper limit on the quantization of the wave energy, {\it viz.} it must be at least
+$\ap 10^{11}$ times below $\hbar\om$, independently of the value of $\om$ itself. 

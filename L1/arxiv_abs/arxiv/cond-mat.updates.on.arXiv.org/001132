@@ -1,0 +1,17 @@
+Using variational wave functions and Monte Carlo techniques, we study the antiferromagnetic Heisenberg
+model with first-neighbor $J_1$ and second-neighbor $J_2$ antiferromagnetic couplings on the
+honeycomb lattice. We perform a systematic comparison of magnetically ordered and nonmagnetic
+states (spin liquids and valence-bond solids) to obtain the ground-state phase diagram. N\'eel
+order is stabilized for small values of the frustrating second-neighbor coupling. Increasing
+the ratio $J_2/J_1$, we find strong evidence for a continuous transition to a nonmagnetic phase
+at $J_2/J_1 \approx 0.23$. Close to the transition point, the Gutzwiller-projected uniform resonating
+valence bond state gives an excellent approximation to the exact ground-state energy. For $0.23
+\lesssim J_2/J_1 \lesssim 0.4$, a gapless $Z_2$ spin liquid with Dirac nodes competes with a plaquette
+valence-bond solid. In contrast, the gapped spin liquid considered in previous works has significantly
+higher variational energy. Although the plaquette valence-bond order is expected to be present
+as soon as the N\'eel order melts, this ordered state becomes clearly favored only for $J_2/J_1 \gtrsim
+0.3$. Finally, for $0.36 \lesssim J_2/J_1 \le 0.5$, a valence-bond solid with columnar order takes
+over as the ground state, being also lower in energy than the magnetic state with collinear order.
+We perform a detailed finite-size scaling and standard data collapse analysis, and we discuss the
+possibility of a deconfined quantum critical point separating the N\'eel antiferromagnet from
+the plaquette valence-bond solid. 

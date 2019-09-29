@@ -1,0 +1,16 @@
+The choice of a homogeneous ideal in a polynomial ring defines a closed subscheme $Z$ in a projective
+space as well as an infinite sequence of cones over $Z$ in progressively higher dimension projective
+spaces. Recent work of Aluffi introduces the Segre zeta function, a rational power series with integer
+coefficients which captures the relationship between the Segre class of $Z$ and those of its cones.
+The goal of this note is to define a relative version of this construction for closed subschemes of
+projective bundles over a smooth variety. If $Z$ is a closed subscheme of such a projective bundle
+$P(E)$, this relative Segre zeta function will be a rational power series which describes the Segre
+class of the cone over $Z$ in every projective bundle "dominating" $P(E)$. When the base variety
+is a point we recover the absolute Segre zeta function for projective spaces. Part of our construction
+requires $Z$ to be the zero scheme of a section of a bundle on $P(E)$ of rank smaller than that of $E$
+that is able to extend to larger projective bundles. The question of what bundles may extend in this
+sense seems independently interesting and we discuss some related results, showing that at a minimum
+one can always count on direct sums of line bundles to extend. Furthermore, the relative Segre zeta
+function depends only on the Segre class of $Z$ and the total Chern class of the bundle defining $Z$,
+and the basic forms of the numerator and denominator can be described. As an application of our work
+we derive a Segre zeta function for products of projective spaces and prove its key properties. 

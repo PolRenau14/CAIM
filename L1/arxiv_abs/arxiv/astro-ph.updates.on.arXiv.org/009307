@@ -1,0 +1,16 @@
+The Dharma Planet Survey (DPS) aims to monitor about 150 nearby very bright FGKM dwarfs (within 50
+pc) during 2016$-$2020 for low-mass planet detection and characterization using the TOU very high
+resolution optical spectrograph (R$\approx$100,000, 380-900nm). TOU was initially mounted
+to the 2-m Automatic Spectroscopic Telescope at Fairborn Observatory in 2013-2015 to conduct a
+pilot survey, then moved to the dedicated 50-inch automatic telescope on Mt. Lemmon in 2016 to launch
+the survey. Here we report the first planet detection from DPS, a super-Earth candidate orbiting
+a bright K dwarf star, HD 26965. It is the second brightest star ($V=4.4$ mag) on the sky with a super-Earth
+candidate. The planet candidate has a mass of 8.47$\pm0.47M_{\rm Earth}$, period of $42.38\pm0.01$
+d, and eccentricity of $0.04^{+0.05}_{-0.03}$. This RV signal was independently detected by Diaz
+et al. (2018), but they could not confirm if the signal is from a planet or from stellar activity. The
+orbital period of the planet is close to the rotation period of the star (39$-$44.5 d) measured from
+stellar activity indicators. Our high precision photometric campaign and line bisector analysis
+of this star do not find any significant variations at the orbital period. Stellar RV jitters modeled
+from star spots and convection inhibition are also not strong enough to explain the RV signal detected.
+After further comparing RV data from the star's active magnetic phase and quiet magnetic phase,
+we conclude that the RV signal is due to planetary-reflex motion and not stellar activity. 

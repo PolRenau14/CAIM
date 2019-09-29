@@ -1,0 +1,17 @@
+Linear data-detection algorithms that build on zero forcing (ZF) or linear minimum mean-square
+error (L-MMSE) equalization achieve near-optimal spectral efficiency in massive multi-user
+multiple-input multiple-output (MU-MIMO) systems. Such algorithms, however, typically rely
+on centralized processing at the base-station (BS) which results in (i) excessive interconnect
+and chip input/output (I/O) data rates and (ii) high computational complexity. Decentralized
+baseband processing (DBP) partitions the BS antenna array into independent clusters that are associated
+with separate radio-frequency circuitry and computing fabrics in order to overcome the limitations
+of centralized processing. In this paper, we investigate decentralized equalization with feedforward
+architectures that minimize the latency bottlenecks of existing DBP solutions. We propose two
+distinct architectures with different interconnect and I/O bandwidth requirements that fuse
+the local equalization results of each cluster in a feedforward network. For both architectures,
+we consider maximum ratio combining, ZF, L-MMSE, and a nonlinear equalization algorithm that relies
+on approximate message passing, and we analyze the associated post-equalization signal-to-noise-and-interference-ratio
+(SINR). We provide reference implementation results on a multi graphics processing unit (GPU)
+system which demonstrate that decentralized equalization with feedforward architectures enables
+throughputs in the Gb/s regime and incurs no or only a small performance loss compared to centralized
+solutions. 

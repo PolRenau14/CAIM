@@ -1,0 +1,17 @@
+We study the theoretical systematics and optimize the methodology in Baryon Acoustic Oscillations
+(BAO) detections using the angular correlation function with tomographic bins. We calibrate and
+optimize the pipeline for the Dark Energy Survey Year 1 dataset using 1800 mocks. We compare the BAO
+fitting results obtained with three estimators: the Maximum Likelihood Estimator (MLE), Profile
+Likelihood, and Markov Chain Monte Carlo. The MLE method yields the least bias in the fit results
+(bias/spread $\sim 0.02$) and the error bar derived is the closest to the Gaussian results (1% from
+68% Gaussian expectation). When there is mismatch between the template and the data either due to
+incorrect fiducial cosmology or photo-$z$ error, the MLE again gives the least-biased results.
+The BAO angular shift that is estimated based on the sound horizon and the angular diameter distance
+agree with the numerical fit. Various analysis choices are further tested: the number of redshift
+bins, cross-correlations, and angular binning. We propose two methods to correct the mock covariance
+when the final sample properties are slightly different from those used to create the mock. We show
+that the sample changes can be accommodated with the help of the Gaussian covariance matrix or more
+effectively using the eigenmode expansion of the mock covariance. The eigenmode expansion is significantly
+less susceptible to statistical fluctuations relative to the direct measurements of the covariance
+matrix because the number of free parameters is substantially reduced [$p$ parameters versus $p(p+1)/2$
+from direct measurement]. 

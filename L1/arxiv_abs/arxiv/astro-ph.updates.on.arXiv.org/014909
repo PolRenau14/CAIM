@@ -1,0 +1,16 @@
+Context. Accreted material onto CTTSs is expected to form a hot quasi-periodic plasma structure
+that radiates in X-rays. Simulations of this phenomenon only partly match with observations. They
+all rely on a static model for the chromosphere model and on the assumption that radiation and matter
+are decoupled. Aims. We explore the effects on the structure and on the dynamics of the accretion
+flow of both a shock-heated chromosphere and of the coupling between radiation and hydrodynamics.
+Methods. We simulate accretion columns falling onto a stellar chromosphere using the 1D ALE code
+AstroLabE. This code solves the hydrodynamics equations along with the two first momenta equations
+for radiation transfer, with the help of a dedicated opacity table for the coupling between matter
+and radiation. We derive the total electron and ions densities from collisional-radiative NLTE
+ionisation equilibrium. Results. The chromospheric acoustic heating has an impact on the duration
+of the cycle and on the structure of the heated slab. In addition, the coupling between radiation
+and hydrodynamics leads to a heating of the accretion flow and the chromosphere, inducing a possible
+unburial of the whole column. These two last conclusions are in agreement with the computed monochromatic
+intensity. Both effects (acoustic heating and radiation coupling) have an influence on the amplitude
+and temporal variations of the net X-ray luminosity, which varies between 30 and 94% of the incoming
+mechanical energy flux, depending on the model considered. 

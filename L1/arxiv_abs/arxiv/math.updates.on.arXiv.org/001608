@@ -1,0 +1,17 @@
+We consider the problem of scheduling appointments for a finite customer population to a service
+facility with customer no-shows, to minimize the sum of customer waiting time and server overtime
+costs. Since appointments need to be scheduled ahead of time we refer to this problem as an optimization
+problem rather than a dynamic control one. We study this optimization problem in fluid and diffusion
+scales and identify asymptotically optimal schedules in both scales. In fluid scale, we show that
+it is optimal to schedule appointments so that the system is in critical load; thus heavy-traffic
+conditions are obtained as a result of optimization rather than as an assumption. In diffusion scale,
+we solve this optimization problem in the large horizon limit. Our explicit stationary solution
+of the corresponding Brownian Optimization Problem translates the customer-delay versus server-overtime
+tradeoff to a tradeoff between the state of a reflected Brownian motion in the half-line and its local
+time at zero. Motivated by work on competitive ratios, we also consider a reference model in which
+an oracle provides the decision maker with the complete randomness information. The difference
+between the values of the scheduling problem for the two models, to which we refer as the stochasticity
+gap (SG), quantifies the degree to which it is harder to design a schedule under uncertainty than
+when the stochastic primitives (i.e., the no-shows and service times) are known in advance. In the
+fluid scale, the SG converges to zero, but in the diffusion scale it converges to a positive constant
+that we compute. 

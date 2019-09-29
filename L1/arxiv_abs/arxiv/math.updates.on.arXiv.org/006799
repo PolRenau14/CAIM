@@ -1,0 +1,16 @@
+A 4-independent wheel driving (4-IWD) electric vehicle has distinctive advantages with both enhanced
+dynamic and energy efficiency performances since this configuration provides more flexibilities
+from both the design and control aspects. However, it is difficult to achieve the optimal performances
+of a 4-IWD electric vehicle with conventional design and control approaches. This work is dedicated
+to investigating the vehicular optimal design and control approaches, with a 4-IWD electric race
+car aiming at minimizing the lap time on a given circuit as a case study. A 14-DOF vehicle model that
+can fully evaluate the influences of the unsprung mass is developed based on Lagrangian dynamics.
+The 14-DOF vehicle model implemented with the reprogrammed Magic Formula tire model and a time-efficient
+suspension model supports metric operations and parallel computing, which can dramatically improve
+the computational efficiency. The optimal design and control problems with design parameters
+of the motor, transmission, mass center, anti-roll bar and the suspension of the race car are successively
+formulated. The formulated problems are subsequently solved by directly transcribing the original
+problems into large scale nonlinear optimization problems based on trapezoidal approach. The
+influences of the mounting positions of the propulsion system, the mass and inertia of the unsprung
+masses, the anti-roll bars and suspensions on the lap time are analyzed and compared quantitatively.
+Some interesting findings that are different from the `already known facts' are presented. 

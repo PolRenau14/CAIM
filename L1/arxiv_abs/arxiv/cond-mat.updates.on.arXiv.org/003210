@@ -1,0 +1,17 @@
+We revisit the supercurrent generation mechanism for the type of superconductors whose superconducting
+transition temperature is explained by the BCS theory (we call them BCS superconductors). This
+revisit is motivated by the reexamination of the ac Josephson effect [H. Koizumi, M. Tachikii, J.
+Supercond. Nov. Magn. (2015) 28:61] that indicates the charge on the charge carrier for the ac Josephson
+effect is $q=-e$, which strongly suggests that the supercurrent generation mechanism is lacking
+in the BCS theory since the charge carrier in the BCS theory is the Cooper pair with $q=-2e$. We present
+a new mechanism for the supercurrent generation in BCS superconductors. We first argue that the
+origin of the supercurrent generation is the formation of Dirac strings with $pi$ flux inside. Then,
+the ground state is not the functional of the electron density at sites alone (assumed by the density
+functional theory), but also the Berry connection between sites that ensures the conservation
+of charge and the single-valuedness of the wave function. The $pi$-flux Dirac strings are realized
+when the Rashba spin-orbit interaction is added to the BCS model. The Rashba spin-orbit interaction
+modifies the electron pairing from the original BCS one to the pairing of spin-twisting circular
+itinerant motion states. Then, the energy minimizing wave function becomes multi-valued with
+respect to electron coordinates due to the sign-change of the wave function around the centers of
+spin-twisting, and the lines composed of the centers of spin-twisting become the $pi$-flux Dirac
+strings. 

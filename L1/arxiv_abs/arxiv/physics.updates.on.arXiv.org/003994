@@ -1,0 +1,17 @@
+Many dynamic pipe flow simulator tools are capable of predicting the onset of hydrodynamic flow
+instability through detailed simulation. These instabilities provide a natural mechanism for
+flow regime transition. The quality and reliability of flow predictions are however strongly dependent
+upon the numerics within these simulator tools, the scheme type and resolution in particular. A
+Kelvin-Helmholtz stability analysis for the differential two-fluid model is in the present work
+presented and extended to discrete representations of said model. This analysis provides algebraic
+expressions which give instantaneous, quantitative information into i) when a studied scheme
+will predict linear wave growth, ii) the rate of growth and the expected growing wavelength, and
+iii) the wave speeds. These stability expressions adhere to a wider family of finite volume methods,
+directly applicable to any specific formulation within this group. Both the spatial and temporal
+discretization are found to play decisive roles in a method's predictive capability. Fundamental
+aspects of how numerical errors from the temporal integration affects the predicted stability
+are explored. Numerical errors are observed to manifest in increased, as well as reduced, wave growth.
+Low-frequency growth from numerical errors is not always easily distinguished from physical wave
+growth. The linear analysis is demonstrated to be useful in understanding the predictions made
+by simulator tools, and in choosing the appropriate numerical method and simulation parameters
+for optimizing the simulation efficiency and reliability. 

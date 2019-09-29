@@ -1,0 +1,17 @@
+Valence excitation spectra are computed for all deep-center silicon-vacancy defect types in 3C,
+4H, and 6H silicon carbide (SiC) and comparisons are made with literature photoluminescence measurements.
+Nuclear geometries surrounding the defect centers are optimized within a Gaussian basis-set framework
+using many-body perturbation theory or density functional theory (DFT) methods, with computational
+expenses minimized by a QM/MM technique called SIMOMM. Vertical excitation energies are subsequently
+obtained by applying excitation-energy, electron-attached, and ionized equation-of-motion
+coupled-cluster (EOMCC) methods, where appropriate, as well as time-dependent (TD) DFT, to small
+models including only a few atoms adjacent to the defect center. We consider the relative quality
+of various EOMCC and TD-DFT methods for (i) energy-ordering potential ground states differing
+incrementally in charge and multiplicity, (ii) accurately reproducing experimentally measured
+photoluminescence peaks, and (iii) energy-ordering defects of different types occurring within
+a given polytype. The extensibility of this approach to transition-metal defects is also tested
+by applying it to silicon-substitutional chromium defects in SiC and comparing with measurements.
+It is demonstrated that, when used in conjunction with SIMOMM-optimized geometries, EOMCC-based
+methods can provide a reliable prediction of the ground-state charge and multiplicity, while also
+giving a quantitative description of the photoluminescence spectra, accurate to within 0.1 eV
+of measurement in all cases considered. 

@@ -1,0 +1,16 @@
+Cybersecurity and privacy are of the utmost importance for safe, reliable operation of the electric
+grid. It is well known that the increased connectivity/interoperability between all stakeholders
+(e.g., utilities, suppliers, and consumers) will enable personal information collection. Significant
+advanced metering infrastructure (AMI) deployment and demand response (DR) programs across the
+country, while enable enhanced automation, also generate energy data on individual consumers
+that can potentially be used for exploiting privacy. Inspired by existing works which consider
+DR, battery-based perturbation, and differential privacy noise adding, we novelly consider the
+aggregator (cluster) level privacy issue in the DR framework of solar photovoltaic (PV) generation
+following. Different from most of the existing works which mainly rely on the charging/discharging
+scheduling of rechargeable batteries, we utilize controllable building loads to serve as virtual
+storage devices to absorb a large portion of the PV generation while delicately keeping desired
+noisy terms to satisfy the differential privacy for the raw load profiles at the aggregator level.
+This not only ensures differential privacy, but also improves the DR efficiency in load following
+since part of the noisy signal in solar PV generation has been filtered out. In particular, a mixed
+integer quadratic optimization problem is formulated to optimally dispatch a population of on/off
+controllable loads to achieve this privacy preserving DR service. 

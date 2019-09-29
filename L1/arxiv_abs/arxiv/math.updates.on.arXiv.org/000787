@@ -1,0 +1,16 @@
+In view of the Segal construction each category with a coherent operation gives rise to a cohomology
+theory. Similarly each open stable differential relation $R$ imposed on smooth maps of manifolds
+determines cohomology theories $k^*$ and $h^*$; the cohomology theory $k^*$ describes invariants
+of solutions of $R$, while $h^*$ describes invariants of so-called stable formal solutions of $R$.
+We prove the bordism version of the h-principle: The cohomology theories $k^*$ and $h^*$ are equivalent
+for a fairly arbitrary open stable differential relation $R$. Furthermore, we determine the homotopy
+type of $h^*$. Thus, we show that for a fairly arbitrary open stable differential relation $R$, the
+machinery of stable homotopy theory can be applied to perform explicit computations and determine
+invariants of solutions. In the case of the differential relation whose solutions are all maps,
+our construction amounts to the Pontrjagin-Thom construction. In the case of the covering differential
+relation our result is equivalent to the Barratt-Priddy-Quillen theorem asserting that the direct
+limit of classifying spaces $B\Sigma_n$ of permutation groups $\Sigma_n$ of finite sets of n elements
+is homology equivalent to each path component of the infinite loop space $\Omega^{\infty}S^{\infty}$.
+In the case of the submersion differential relation imposed on maps of dimension $d=2$ the cohomology
+theories $k^*$ and $h^*$ are not equivalent. Nevertheless, our methods still apply and can be used
+to recover the Madsen-Weiss theorem (the Mumford Conjecture). 

@@ -1,0 +1,16 @@
+Graphene supported on a transition metal dichalcogenide substrate offers a novel platform to study
+the spin transport in graphene in presence of a substrate induced spin-orbit coupling, while preserving
+its intrinsic charge transport properties. We report the first non-local spin transport measurements
+in graphene completely supported on a 3.5 nm thick tungsten disulfide (WS$_2$) substrate, and encapsulated
+from the top with a 8 nm thick hexagonal boron nitride layer. For graphene, having mobility up to 16,000
+cm$^2$V$^{-1}$s$^{-1}$, we measure almost constant spin-signals both in electron and hole-doped
+regimes, independent of the conducting state of the underlying WS$_2$ substrate, which rules out
+the role of spin-absorption by WS$_2$. The spin-relaxation time $\tau_{\text{s}}$ for the electrons
+in graphene-on-WS$_2$ is drastically reduced down to~10 ps than $\tau_{\text{s}}$ ~ 800 ps in graphene-on-SiO$_2$
+on the same chip. The strong suppression of $\tau_{\text{s}}$ along with a detectable weak anti-localization
+signature in the quantum magneto-resistance measurements is a clear effect of the WS$_2$ induced
+spin-orbit coupling (SOC) in graphene. Via the top-gate voltage application in the encapsulated
+region, we modulate the electric field by 1 V/nm, changing $\tau_{\text{s}}$ almost by a factor
+of four which suggests the electric-field control of the in-plane Rashba SOC. Further, via carrier-density
+dependence of $\tau_{\text{s}}$ we also identify the fingerprints of the D'yakonov-Perel' type
+mechanism in the hole-doped regime at the graphene-WS$_2$ interface. 

@@ -1,0 +1,16 @@
+The attenuation of light in star forming galaxies is correlated with a multitude of physical parameters
+including star formation rate, metallicity and total dust content. This variation in attenuation
+is even more prevalent on the kiloparsec scale, which is relevant to many current spectroscopic
+integral field unit surveys. To understand the cause of this variation, we present and analyse \textit{Swift}/UVOT
+near-UV (NUV) images and SDSS/MaNGA emission-line maps of 29 nearby ($z<0.084$) star forming galaxies.
+We resolve kiloparsec-sized star forming regions within the galaxies and compare their optical
+nebular attenuation (i.e., the Balmer emission line optical depth, $\tau^l_B\equiv\tau_{\textrm{H}\beta}-\tau_{\textrm{H}\alpha}$)
+and NUV stellar continuum attenuation (via the NUV power-law index, $\beta$) to the attenuation
+law described by Battisti et al. The data agree with that model, albeit with significant scatter.
+We explore the dependence of the scatter of the $\beta$-$\tau^l_B$ measurements from the star forming
+regions on different physical parameters, including distance from the nucleus, star formation
+rate and total dust content. Finally, we compare the measured $\tau^l_B$ and $\beta$ between the
+individual star forming regions and the integrated galaxy light. We find a strong variation in $\beta$
+between the kiloparsec scale and the larger galaxy scale not seen in $\tau^l_B$. We conclude that
+the sight-line dependence of UV attenuation and the reddening of $\beta$ due to the light from older
+stellar populations could contribute to the $\beta$-$\tau^l_B$ discrepancy. 

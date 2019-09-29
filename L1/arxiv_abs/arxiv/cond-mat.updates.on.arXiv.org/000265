@@ -1,0 +1,16 @@
+We theoretically investigate the influence of internal and external strain on topological phases
+in (LaNiO$_3$)$_2$/(LaAlO$_3$)$_N$ heterostructures grown along the [111] direction. At the
+Hartree-Fock level, topological phases originate from an interaction-generated effective spin-orbit
+coupling that opens a gap in the band structure. For the unstrained system, there is a quadratic band
+touching at the $\Gamma$ point at the Fermi energy for unpolarized electrons and Dirac points at
+K, K$'$ at the Fermi energy for fully polarized electrons. Using density functional theory we show
+that the quadratic band touching and Dirac points are remarkably stable to internal strain-induced
+out-of-plane distortions and rotations of the oxygen octahedra, which we compute. The lack of a
+gap opening from internal strain implies a robustness to the mean-field predicted topological
+phases for both the polarized and unpolarized systems. We also consider an external strain imposed
+along the [001] cubic direction and show this can open a gap at the $\Gamma$ point but leaves the Dirac
+points intact. Finally, we compute a phase diagram for parameters relevant to LaNiO$_3$ which shows
+that strain favors a phase with polarized orbitals and antiferromagnetic spin order, but leaves
+earlier predictions for a zero-magnetic field topological quantum Hall state essentially unchanged.
+Taken together, our results suggest that the [111] growth direction in perovskites may lead to thin
+films that are relatively immune to distortion effects compared to those grown along [001]. 

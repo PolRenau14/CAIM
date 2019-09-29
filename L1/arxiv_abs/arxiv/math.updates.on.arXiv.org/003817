@@ -1,0 +1,16 @@
+We develop a general framework to study Szpiro's conjecture and the $abc$ conjecture by means of
+Shimura curves and their maps to elliptic curves, introducing new techniques that allow us to obtain
+several unconditional results for these conjectures. We first prove various general results about
+modular and Shimura curves, including bounds for the Manin constant in the case of additive reduction,
+a detailed study of maps from Shimura curves to elliptic curves and comparisons between their degrees,
+and lower bounds for the Petersson norm of integral modular forms on Shimura curves. Our main applications
+for Szpiro's conjecture and the $abc$ conjecture include improved effective bounds for the Faltings
+height of elliptic curves over $\mathbb{Q}$ in terms of the conductor, bounds for products of $p$-adic
+valuations of the discriminant of elliptic curves over $\mathbb{Q}$ which are polynomial on the
+conductor, and results that yield a modular approach to Szpiro's conjecture over totally real number
+fields with the expected dependence on the discriminant of the field. These applications lie beyond
+the scope of previous techniques in the subject. A main difficulty in the theory is the lack of $q$-expansions,
+which we overcome by making essential use of suitable integral models and CM points. Our proofs require
+a number of tools from Arakelov geometry, analytic number theory, Galois representations, complex-analytic
+estimates on Shimura curves, automorphic forms, known cases of the Colmez conjecture, and results
+on generalized Fermat equations. 

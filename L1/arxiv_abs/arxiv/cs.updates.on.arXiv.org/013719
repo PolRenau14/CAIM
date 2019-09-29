@@ -1,0 +1,16 @@
+Although neural networks traditionally are typically used to approximate functions defined over
+$\mathbb{R}^n$, the successes of graph neural networks, point-cloud neural networks, and manifold
+deep learning among other methods have demonstrated the clear value of leveraging neural networks
+to approximate functions defined over more general spaces. The theory of neural networks has not
+kept up however,and the relevant theoretical results (when they exist at all) have been proven on
+a case-by-case basis without a general theory or connection to classical work. The process of deriving
+new theoretical backing for each new type of network has become a bottleneck to understanding and
+validating new approaches. In this paper we extend the definition of neural networks to general
+topological groups and prove that neural networks with a single hidden layer and a bounded non-constant
+activation function can approximate any $\mathcal{L}^p$ function defined over any locally compact
+Abelian group. This framework and universal approximation theorem encompass all of the aforementioned
+contexts. We also derive important corollaries and extensions with minor modification, including
+the case for approximating continuous functions on a compact subset, neural networks with ReLU
+activation functions on a linearly bi-ordered group, and neural networks with affine transformations
+on a vector space. Our work obtains as special cases the recent theorems of Qi et al. [2017], Sennai
+et al. [2019], Keriven and Peyre [2019], and Maron et al. [2019] 

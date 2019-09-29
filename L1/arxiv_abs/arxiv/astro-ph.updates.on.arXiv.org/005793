@@ -1,0 +1,16 @@
+We report L-band VLA observations of 1RXS J0603.3+4214, a cluster that hosts a bright radio relic,
+known as the Toothbrush, and an elongated giant radio halo. These new observations allow us to study
+the surface brightness distribution down to one arcsec resolution with very high sensitivity.
+Our images provide an unprecedented detailed view of the Toothbrush, revealing enigmatic filamentary
+structures. To study the spectral index distribution, we complement our analysis with published
+LOFAR and GMRT observations. The bright `brush' of the Toothbrush shows a prominent narrow ridge
+to its north with a sharp outer edge. The spectral index at the ridge is in the range $-0.70\leq\alpha\leq-0.80$.
+We suggest that the ridge is caused by projection along the line of sight. With a simple toy model for
+the smallest region of the ridge, we conclude that the magnetic field is below $5\,\rm\mu G$ and varies
+significantly across the shock front. Our model indicates that the actual Mach number is higher
+than that obtained from the injection index and agrees well with the one derived from the overall
+spectrum, namely ${\cal M}=3.78^{+0.3}_{-0.2}$. The radio halo shows an average spectral index
+of $\alpha=-1.16\pm0.05$ and a slight gradient from north to south. The southernmost part of the
+halo is steeper and possibly related to a shock front. Excluding the southernmost part, the halo
+morphology agrees very well with the X-ray morphology. A power-law correlation is found between
+the radio and X-ray surface brightness 

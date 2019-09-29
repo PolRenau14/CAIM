@@ -1,0 +1,16 @@
+The separation of cosmological signal from astrophysical foregrounds is a fundamental challenge
+for any effort to probe the evolution of neutral hydrogen during the Cosmic Dawn and epoch of reionization
+(EoR) using the 21 cm hyperfine transition. Foreground separation is made possible by their intrinsic
+spectral smoothness, making them distinguishable from spectrally complex cosmological signal
+even though they are ~5 orders of magnitude brighter. Precisely calibrated radio interferometers
+are essential to maintaining the smoothness and thus separability of the foregrounds. One powerful
+calibration strategy is to use redundant measurements between pairs of antennas with the same physical
+separation in order to solve for each antenna's spectral response without reference to a sky model.
+This strategy is being employed by the Hydrogen Epoch of Reionization Array (HERA), a large radio
+telescope in South Africa that is now observing while being built out to 350 14-m dishes. However,
+the deviations from perfect redundancy inherent in any real radio telescope complicate the calibration
+problem. Using simulations of HERA, we show how calibration with antenna-to-antenna variations
+in dish construction and placement generally lead to spectral structure in otherwise smooth foregrounds
+that significantly reduces the number of cosmological modes available to a 21 cm measurement. However,
+we also show that this effect can be largely eliminated by a modified redundant-baseline calibration
+strategy that relies predominantly on short baselines. 

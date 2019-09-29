@@ -1,0 +1,16 @@
+By performing a critical analysis of the fundamental equations of linear-response (LR) formalism
+in molecules, we explore the interplay between locality of the response density operator and numerical
+convergence of LR-related quantities. We show that for frequencies below the first ionization
+potential (IP) of the system, it is possible to express the response density by employing localized
+states only. Above this threshold energy, such a locality property cannot be achieved. Such considerations
+may be transposed in terms of the molecule's excited states. We show that not all the system's excitations
+can be considered on equal footing. There is a discrete sector of excitations -- which may also extend
+above IP -- that can be parametrized by observable, localized states, which can be computationally
+expressed with high precision, provided an adequate level of completeness. We present indicators
+that can help to quantify such potential observable properties of an excitation, that can be evaluated
+in any discretization scheme. The remaining excitation modes belong to a continuum spectrum that,
+on the contrary, is not directly associated to observable properties and can only be effectively
+represented in a given computational setup. Such considerations are important not only for reproducibility
+of the results among different computer codes employing diverse formalisms, but also in view of
+providing a deeper understanding on the impact of models' approximations on the scientific outcomes
+of the simulation. 

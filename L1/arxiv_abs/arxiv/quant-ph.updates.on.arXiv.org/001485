@@ -1,0 +1,16 @@
+Quantum low-density parity-check codes can be decoded using a syndrome based $\mathrm{GF}(4)$
+belief propagation decoder. However, the performance of this decoder is limited both by unavoidable
+$4$-cycles in the code's factor graph and the degenerate nature of quantum errors. For the subclass
+of CSS codes, the number of $4$-cycles can be reduced by breaking an error into an $X$ and $Z$ component
+and decoding each with an individual $\mathrm{GF}(2)$ based decoder. However, this comes at the
+expense of ignoring potential correlations between these two error components. We present a number
+of modified belief propagation decoders that address these issues. We propose a $\mathrm{GF}(2)$
+based decoder for CSS codes that reintroduces error correlations by reattempting decoding with
+adjusted error probabilities. We also propose the use of an augmented decoder, which has previously
+been suggested for classical binary low-density parity-check codes. This decoder iteratively
+reattempts decoding on factor graphs that have a subset of their check nodes duplicated. The augmented
+decoder can be based on a $\mathrm{GF}(4)$ decoder for any code, a $\mathrm{GF}(2)$ decoder for
+CSS code, or even a supernode decoder for a dual-containing CSS code. For CSS codes, we further propose
+a $\mathrm{GF}(2)$ based decoder that combines the augmented decoder with error probability adjustment.
+We demonstrate the performance of these new decoders on a range of different codes, showing that
+they perform favorably compared to other decoders presented in literature. 

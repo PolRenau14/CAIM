@@ -1,0 +1,17 @@
+The problem of evacuating two robots from the disk in the face-to-face model was first introduced
+in [Czyzowicz et al., DISC'14], and extensively studied (along with many variations) ever since
+with respect to worst case analysis. We initiate the study of the same problem with respect to average
+case analysis, which is also equivalent to designing randomized algorithms for the problem. First
+we observe that algorithm $B_{2}$ of~[Czyzowicz et al., DISC'14] with worst case cost $WRS(B_{2}):=5.73906$
+has average case cost $AVG(B_{2}):=5.1172$. Then we verify that none of the algorithms that induced
+worst case cost improvements in subsequent publications has better average case cost, hence concluding
+that our problem requires the invention of new algorithms. Then, we observe that a remarkable simple
+algorithm, $B_{1}$, has very small average case cost $AVG(B_{1}):=1+\pi$, but very high worst
+case cost $WRS(B_{1}):=1+2\pi$. Motivated by the above, we introduce constrained optimization
+problem $_2Evac_{F2F}^w$, in which one is trying to minimize the average case cost of the evacuation
+algorithm given that the worst case cost does not exceed $w$. The problem is of special interest with
+respect to practical applications, since a common objective in search-and-rescue operations
+is to minimize the average completion time, given that a certain worst case threshold is not exceeded,
+e.g. for safety or limited energy reasons. Our main contribution is the design and analysis of families
+of new evacuation parameterized algorithms $A(p)$ which can solve $_2Evac_{F2F}^w$, for every
+$w \in [WRS(B_{1}),WRS(B_{2})]$. 

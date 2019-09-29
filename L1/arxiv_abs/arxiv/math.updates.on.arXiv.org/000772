@@ -1,0 +1,16 @@
+This paper is devoted to establish quantitative and qualitative estimates related to the notion
+of chaos as firstly formulated by M. Kac in his study of mean-field limit for systems of $N$ undistinguishable
+particles. First, we quantitatively liken three usual measures of Kac's chaos, some involving
+the all $N$ variables, other involving a finite fixed number of variables. Next, we define the notion
+of entropy chaos and Fisher information chaos in a similar way as defined by Carlen et al (KRM 2010).
+We show that Fisher information chaos is stronger than entropy chaos, which in turn is stronger than
+Kac's chaos. More importantly, with the help of the HWI inequality of Otto-Villani, we establish
+a quantitative estimate between these quantities, which in particular asserts that Kac's chaos
+plus Fisher information bound implies entropy chaos. We then extend the above quantitative and
+qualitative results about chaos in the framework of probability measures with support on the Kac's
+spheres. Additionally to the above mentioned tool, we use and prove an optimal rate local CLT in $L^\infty$
+norm for distributions with finite 6-th moment and finite $L^p$ norm, for some $p>1$. Last, we
+investigate how our techniques can be used without assuming chaos, in the context of probability
+measures mixtures introduced by De Finetti, Hewitt and Savage. In particular, we define the (level
+3) Fisher information for mixtures and prove that it is l.s.c. and affine, as that was done previously
+for the level 3 Boltzmann's entropy. 

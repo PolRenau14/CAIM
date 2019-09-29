@@ -1,0 +1,17 @@
+In this paper we consider the problem of computing spectral approximations to graphs in the single
+pass dynamic streaming model. We provide a linear sketching based solution that given a stream of
+edge insertions and deletions to a $n$-node undirected graph, uses $\tilde O(n)$ space, processes
+each update in $\tilde O(1)$ time, and with high probability recovers a spectral sparsifier in $\tilde
+O(n)$ time. Prior to our work, state of the art results either used near optimal $\tilde O(n)$ space
+complexity, but brute-force $\Omega(n^2)$ recovery time [Kapralov et al.'14], or with subquadratic
+runtime, but polynomially suboptimal space complexity [Ahn et al.'14, Kapralov et al.'19]. Our
+main technical contribution is a novel method for `bucketing' vertices of the input graph into clusters
+that allows fast recovery of edges of sufficiently large effective resistance. Our algorithm first
+buckets vertices of the graph by performing ball-carving using (an approximation to) its effective
+resistance metric, and then recovers the high effective resistance edges from a sketched version
+of an electrical flow between vertices in a bucket, taking nearly linear time in the number of vertices
+overall. This process is performed at different geometric scales to recover a sample of edges with
+probabilities proportional to effective resistances and obtain an actual sparsifier of the input
+graph. This work provides both the first efficient $\ell_2$-sparse recovery algorithm for graphs
+and new primitives for manipulating the effective resistance embedding of a graph, both of which
+we hope have further applications. 

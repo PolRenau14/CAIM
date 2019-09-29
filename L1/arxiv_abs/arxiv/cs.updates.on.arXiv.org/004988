@@ -1,0 +1,16 @@
+Queen Daniela of Sardinia is asleep at the center of a round room at the top of the tower in her castle.
+She is accompanied by her faithful servant, Eva. Suddenly, they are awakened by cries of "Fire".
+The room is pitch black and they are disoriented. There is exactly one exit from the room somewhere
+along its boundary. They must find it as quickly as possible in order to save the life of the queen.
+It is known that with two people searching while moving at maximum speed 1 anywhere in the room, the
+room can be evacuated (i.e., with both people exiting) in $1 + \frac{2\pi}{3} + \sqrt{3} \approx
+4.8264$ time units and this is optimal~[Czyzowicz et al., DISC'14], assuming that the first person
+to find the exit can directly guide the other person to the exit using her voice. Somewhat surprisingly,
+in this paper we show that if the goal is to save the queen (possibly leaving Eva behind to die in the
+fire) there is a slightly better strategy. We prove that this "priority" version of evacuation can
+be solved in time at most $4.81854$. Furthermore, we show that any strategy for saving the queen requires
+time at least $3 + \pi/6 + \sqrt{3}/2 \approx 4.3896$ in the worst case. If one or both of the queen's
+other servants (Biddy and/or Lili) are with her, we show that the time bounds can be improved to $3.8327$
+for two servants, and $3.3738$ for three servants. Finally we show lower bounds for these cases of
+$3.6307$ (two servants) and $3.2017$ (three servants). The case of $n\geq 4$ is the subject of an
+independent study by Queen Daniela's Royal Scientific Team. 

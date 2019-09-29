@@ -1,0 +1,16 @@
+This letter presents the concept of Total Internal Reflection metasurface (TIR-MS) which supports
+the realization of structure-embedded subwavelength acoustic shields for elastic waves propagating
+in thin waveguides. The proposed metasurface design exploits extreme phase gradients, implemented
+via locally resonant elements, in order to achieve operating conditions that are largely beyond
+the critical angle. Such artificial discontinuity is capable of producing complete reflection
+of the incoming waves regardless of the specific angle of incidence. From a practical perspective,
+the TIR-MS behaves as a sound hard barrier that is impenetrable to long-wavelength modes at a selected
+frequency. The TIR metasurface concept is first conceived for a flat interface embedded in a rectangular
+waveguide and designed to block longitudinal S0-type guided modes. Then, it is extended to circular
+plates in order to show how enclosed areas can be effectively shielded by incoming waves. Given the
+same underlying physics, an equivalent dynamic behavior was also numerically and experimentally
+illustrated for flexural A0-type guided modes. This study shows numerical and experimental evidence
+that, when the metasurface is excited at the target frequency, significant vibration isolation
+can be achieved in presence of waves having any arbitrary angle of incidence. These results open
+interesting paths to achieve vibration isolation and energy filtering in certain prototypical
+structures of interest for practical engineering applications. 

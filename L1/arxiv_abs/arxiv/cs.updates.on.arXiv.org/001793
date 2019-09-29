@@ -1,0 +1,17 @@
+With computers to handle more and more complicated things in variable environments, it becomes
+an urgent requirement that the artificial intelligence has the ability of automatic judging and
+deciding according to numerous specific conditions so as to deal with the complicated and variable
+cases. ANNs inspired by brain is a good candidate. However, most of current numeric ANNs are not good
+at representing logical relations because these models still try to represent logical relations
+in the form of ratio based on functional approximation. On the other hand, researchers have been
+trying to design novel neural network models to make neural network model represent logical relations.
+In this work, a novel neural network model specified for representing logical relations is proposed
+and applied. New neurons and multiple kinds of links are defined. Inhibitory links are introduced
+besides exciting links. Different from current numeric ANNs, one end of an inhibitory link connects
+an exciting link rather than a neuron. Inhibitory links inhibit the connected exciting links conditionally
+to make this neural network model represent logical relations correctly. This model can simulate
+the operations of Boolean logic gates, and construct complex logical relations with the advantages
+of simpler neural network structures than recent works in this area. This work provides some ideas
+to make neural networks represent logical relations more directly and efficiently, and the model
+could be used as the complement to current numeric ANN to deal with logical issues and expand the application
+areas of ANN. 

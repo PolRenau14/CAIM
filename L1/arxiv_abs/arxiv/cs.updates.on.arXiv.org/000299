@@ -1,0 +1,16 @@
+P2P architecture is a viable option for enterprise backup. In contrast to dedicated backup servers,
+nowadays a standard solution, making backups directly on organization's workstations should
+be cheaper (as existing hardware is used), more efficient (as there is no single bottleneck server)
+and more reliable (as the machines are geographically dispersed). We present the architecture
+of a p2p backup system that uses pairwise replication contracts between a data owner and a replicator.
+In contrast to standard p2p storage systems using directly a DHT, the contracts allow our system
+to optimize replicas' placement depending on a specific optimization strategy, and so to take advantage
+of the heterogeneity of the machines and the network. Such optimization is particularly appealing
+in the context of backup: replicas can be geographically dispersed, the load sent over the network
+can be minimized, or the optimization goal can be to minimize the backup/restore time. However,
+managing the contracts, keeping them consistent and adjusting them in response to dynamically
+changing environment is challenging. We built a scientific prototype and ran the experiments on
+150 workstations in the university's computer laboratories and, separately, on 50 PlanetLab nodes.
+We found out that the main factor affecting the quality of the system is the availability of the machines.
+Yet, our main conclusion is that it is possible to build an efficient and reliable backup system on
+highly unreliable machines (our computers had just 13% average availability). 

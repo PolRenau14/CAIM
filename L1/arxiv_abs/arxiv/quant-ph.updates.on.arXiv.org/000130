@@ -1,0 +1,17 @@
+We address the characterization of classical random fields via quantum probes. In particular,
+we focus on estimation and discrimination problems involving the fractal dimension of the trajectories
+of a system subject to fractional Brownian noise. We assume that the classical degree of freedom
+exposed to the environmental noise is coupled to a quantum degree of freedom of the same system, e.g.
+its spin, and exploit quantum limited measurements on the spin part to characterize the classical
+fractional noise. In order to assess the performances of quantum probes we evaluate the Bures metric,
+as well as the Helstrom and the Chernoff bound, and optimize their values over the interaction time.
+We find that quantum probes may be generally employed to obtain a reliable characterization of fractional
+Gaussian process when the coupling with the environment is weak, such that decoherence is not much
+detrimental and for long interaction times the probe acquires information about the environmental
+parameters without being too much mixed, or strong, when information is quickly impinged on the
+quantum probe and can effectively retrieved by measurements performed in the early stage of the
+evolution. In the intermediate situation, none of the two above effects take place: information
+is flowing from the environment to the probe too slowly compared to decoherence, and no measurements
+can be effectively employed to extract it from the quantum probe. The two regimes of weak and strong
+coupling are defined in terms of a threshold value of the coupling, which itself increases with the
+fractional dimension. 

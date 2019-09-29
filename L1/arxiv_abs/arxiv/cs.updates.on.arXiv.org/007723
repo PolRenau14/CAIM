@@ -1,0 +1,16 @@
+Given a grid terrain T and a viewpoint v, the viewshed of v is the set of grid points of T that are visible
+from v. To decide whether a point p is visible one needs to interpolate the elevation of the terrain
+along the line-of-sight vp. Existing viewshed algorithms differ widely in what points they chose
+to interpolate and how they interpolate the terrain. These choices crucially affect the running
+time and accuracy of the algorithms. This paper describes I/O-efficient algorithms for computing
+visibility maps in a couple of different models. First, we describe two algorithms that sweep the
+terrain by rotating a ray around the viewpoint while maintaining the terrain profile along the ray.
+Second, we describe an algorithm which sweeps the terrain centrifugally, growing a star-shaped
+region around the viewpoint while maintaining the approximate visible horizon of the terrain within
+the swept region. Our last two algorithms are based on computing and merging horizons. All algorithms
+are I/O-efficient in the I/O-model of Aggarwal and Vitter. We present an experimental analysis
+on large terrains obtained from NASA SRTM data. All our algorithms are scalable to volumes of data
+that are over 50 times larger than main memory. Our main finding is that, in practice, horizons are
+significantly smaller than their theoretical worst case bound, which makes horizon-based approaches
+very fast. Our last two algorithms, which compute the most accurate viewshed, turn out to be very
+fast in practice, although their worst-case bound is inferior. 

@@ -1,0 +1,17 @@
+Single image dehazing is an important low-level vision task with many applications. Early researches
+have investigated different kinds of visual priors to address this problem. However, they may fail
+when their assumptions are not valid on specific images. Recent deep networks also achieve relatively
+good performance in this task. But unfortunately, due to the disappreciation of rich physical rules
+in hazes, large amounts of data are required for their training. More importantly, they may still
+fail when there exist completely different haze distributions in testing images. By considering
+the collaborations of these two perspectives, this paper designs a novel residual architecture
+to aggregate both prior (i.e., domain knowledge) and data (i.e., haze distribution) information
+to propagate transmissions for scene radiance estimation. We further present a variational energy
+based perspective to investigate the intrinsic propagation behavior of our aggregated deep model.
+In this way, we actually bridge the gap between prior driven models and data driven networks and leverage
+advantages but avoid limitations of previous dehazing approaches. A lightweight learning framework
+is proposed to train our propagation network. Finally, by introducing a taskaware image separation
+formulation with a flexible optimization scheme, we extend the proposed model for more challenging
+vision tasks, such as underwater image enhancement and single image rain removal. Experiments
+on both synthetic and realworld images demonstrate the effectiveness and efficiency of the proposed
+framework. 

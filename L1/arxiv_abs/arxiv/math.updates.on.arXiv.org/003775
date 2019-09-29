@@ -1,0 +1,16 @@
+An $m$-$cover$ of lines of a finite projective space ${\rm PG}(r,q)$ (of a finite polar space $\cal
+P$) is a set of lines $\cal L$ of ${\rm PG}(r,q)$ (of $\cal P$) such that every point of ${\rm PG}(r,q)$
+(of $\cal P$) contains $m$ lines of $\cal L$, for some $m$. Embed ${\rm PG}(r,q)$ in ${\rm PG}(r,q^2)$.
+Let $\bar{\cal L}$ denote the set of points of ${\rm PG}(r,q^2)$ lying on the extended lines of $\cal
+L$. An $m$-cover $\cal L$ of ${\rm PG}(r,q)$ is an $(r-2)$-dual $m$-cover if there are two possibilities
+for the number of lines of $\cal L$ contained in an $(r-2)$-space of ${\rm PG}(r,q)$. Basing on this
+notion, we characterize $m$-covers $\cal L$ of ${\rm PG}(r,q)$ such that $\bar{\cal L}$ is a two-character
+set of ${\rm PG}(r,q^2)$. In particular, we show that if $\cal L$ is invariant under a Singer cyclic
+group of ${\rm PG}(r,q)$ then it is an $(r-2)$-dual $m$-cover. Assuming that the lines of $\cal L$
+are lines of a symplectic polar space ${\cal W}(r,q)$ (of an orthogonal polar space ${\cal Q}(r,q)$
+of parabolic type), similarly to the projective case we introduce the notion of an $(r-2)$-dual
+$m$-cover of symplectic type (of parabolic type). We prove that an $m$-cover $\cal L$ of ${\cal W}(r,q)$
+(of ${\cal Q}(r,q)$) has this dual property if and only if $\bar{\cal L}$ is a tight set of an Hermitian
+variety ${\cal H}(r,q^2)$ or of ${\cal W}(r,q^2)$ (of ${\cal H}(r,q^2)$ or of ${\cal Q}(r,q^2)$).
+We also provide some interesting examples of $(4n-3)$-dual $m$-covers of symplectic type of ${\cal
+W}(4n-1,q)$. 

@@ -1,0 +1,16 @@
+The group velocity of 'space-time' wave packets $-$ propagation-invariant pulsed beams endowed
+with tight spatio-temporal spectral correlations $-$ can take on arbitrary values in free space.
+Here we investigate theoretically and experimentally the maximum achievable group delay that
+realistic finite-energy space-time wave packets can achieve with respect to a reference pulse
+traveling at the speed of light. We find that this delay is determined solely by the spectral uncertainty
+in the association between the spatial frequencies and wavelengths underlying the wave packet
+spatio-temporal spectrum $-$ and not by the beam size, bandwidth, or pulse width. We show experimentally
+that the propagation of space-time wave packets is delimited by a spectral-uncertainty-induced
+`pilot envelope' that travels at a group velocity equal to the speed of light in vacuum. Temporal
+walk-off between the space-time wave packet and the pilot envelope limits the maximum achievable
+differential group delay to the width of the pilot envelope. Within this pilot envelope, the space-time
+wave packet can locally travel at an arbitrary group velocity and yet not violate relativistic causality
+because the leading or trailing edge of superluminal and subluminal space-time wave packets, respectively,
+are suppressed once they reach the envelope edge. Using pulses of width $\sim$4ps and a spectral
+uncertainty of $\sim$ 20 pm, we measure maximum differential group delays of approximately $\pm$
+150 ps, which exceed previously reported measurements by at least three orders of magnitude. 

@@ -1,0 +1,17 @@
+Simulation workflow is a top-level model for the design and control of simulation process. It connects
+multiple simulation components with time and interaction restrictions to form a complete simulation
+system. Before the construction and evaluation of the component models, the validation of upper-layer
+simulation workflow is of the most importance in a simulation system. However, the methods especially
+for validating simulation workflow is very limit. Many of the existing validation techniques are
+domain-dependent with cumbersome questionnaire design and expert scoring. Therefore, this paper
+present an empirical learning-based validation procedure to implement a semi-automated evaluation
+for simulation workflow. First, representative features of general simulation workflow and their
+relations with validation indices are proposed. The calculation process of workflow credibility
+based on Analytic Hierarchy Process (AHP) is then introduced. In order to make full use of the historical
+data and implement more efficient validation, four learning algorithms, including back propagation
+neural network (BPNN), extreme learning machine (ELM), evolving new-neuron (eNFN) and fast incremental
+gaussian mixture model (FIGMN), are introduced for constructing the empirical relation between
+the workflow credibility and its features. A case study on a landing-process simulation workflow
+is established to test the feasibility of the proposed procedure. The experimental results also
+provide some useful overview of the state-of-the-art learning algorithms on the credibility evaluation
+of simulation models. 

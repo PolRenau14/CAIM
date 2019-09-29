@@ -1,0 +1,16 @@
+We present results from the Hitomi X-ray observation of a young composite-type supernova remnant
+(SNR) G21.5$-$0.9, whose emission is dominated by the pulsar wind nebula (PWN) contribution. The
+X-ray spectra in the 0.8-80 keV range obtained with the Soft X-ray Spectrometer (SXS), Soft X-ray
+Imager (SXI) and Hard X-ray Imager (HXI) show a significant break in the continuum as previously
+found with the NuSTAR observation. After taking into account all known emissions from the SNR other
+than the PWN itself, we find that the Hitomi spectra can be fitted with a broken power law with photon
+indices of $\Gamma_1=1.74\pm0.02$ and $\Gamma_2=2.14\pm0.01$ below and above the break at $7.1\pm0.3$
+keV, which is significantly lower than the NuSTAR result ($\sim9.0$ keV). The spectral break cannot
+be reproduced by time-dependent particle injection one-zone spectral energy distribution models,
+which strongly indicates that a more complex emission model is needed, as suggested by recent theoretical
+models. We also search for narrow emission or absorption lines with the SXS, and perform a timing
+analysis of PSR J1833$-$1034 with the HXI and SGD. No significant pulsation is found from the pulsar.
+However, unexpectedly, narrow absorption line features are detected in the SXS data at 4.2345 keV
+and 9.296 keV with a significance of 3.65 $\sigma$. While the origin of these features is not understood,
+their mere detection opens up a new field of research and was only possible with the high resolution,
+sensitivity and ability to measure extended sources provided by an X-ray microcalorimeter. 

@@ -1,0 +1,16 @@
+Disordered systems show deviations from the standard Debye theory of specific heat at low temperatures.
+These deviations are often attributed to two-level systems of uncertain origin. We find that a source
+of excess specific heat comes from correlations between quanta of energy if phonon-like excitations
+are localized on an intermediate length scale. We use simulations of a simplified Creutz model for
+a system of Ising-like spins coupled to a thermal bath of Einstein-like oscillators. One feature
+of this model is that energy is quantized in both the system and its bath, ensuring conservation of
+energy at every step. Another feature is that the exact entropies of both the system and its bath are
+known at every step, so that their temperatures can be determined independently. We find that there
+is a mismatch in canonical temperature between the system and its bath. In addition to the usual finite-size
+effects in the Bose-Einstein and Fermi-Dirac distributions, if excitations in the heat bath are
+localized on an intermediate length scale, this mismatch is independent of system size up to at least
+10^6 particles. We use a model for correlations between quanta of energy to adjust the statistical
+distributions and yield a thermodynamically consistent temperature. The model includes a chemical
+potential for units of energy, as is often used for other types of particles that are quantized and
+conserved. Experimental evidence for this model comes from its ability to characterize the excess
+specific heat of imperfect crystals at low temperatures. 

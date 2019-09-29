@@ -1,0 +1,16 @@
+We combine the latest spectrally stacked data of 21-cm emission from the ALFALFA survey with an updated
+version of the Dark Sage semi-analytic model to investigate the relative contributions of secular
+and environmental astrophysical processes on shaping the HI fractions and quiescence of galaxies
+in the local Universe. We calibrate the model to match the observed mean HI fraction of all galaxies
+as a function of stellar mass. Without consideration of stellar feedback, disc instabilities,
+and active galactic nuclei, we show how the slope and normalisation of this relation would change
+significantly. We find Dark Sage can reproduce the relative impact that halo mass is observed to
+have on satellites' HI fractions and quiescent fraction. However, the model satellites are systematically
+gas-poor. We discuss how this could be affected by satellite--central cross-contamination from
+the group-finding algorithm applied to the observed galaxies, but that it is not the full story.
+From our results, we suggest the anti-correlation between satellites' HI fractions and host halo
+mass, seen at fixed stellar mass and fixed specific star formation rate, can be attributed almost
+entirely to ram-pressure stripping of cold gas. Meanwhile, stripping of hot gas from around the
+satellites drives the correlation of quiescent fraction with halo mass at fixed stellar mass. Further
+detail in the modelling of galaxy discs' centres is required to solidify this result, however. We
+contextualise our results with those from other semi-analytic models and hydrodynamic simulations.

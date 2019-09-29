@@ -1,0 +1,16 @@
+A stable added-mass partitioned (AMP) algorithm is developed for fluid-structure interaction
+(FSI) problems involving viscous incompressible flow and compressible elastic solids. Deforming
+composite grids are used to effectively handle the evolving geometry and large deformations. The
+fluid is updated with an implicit-explicit (IMEX) fractional-step scheme whereby the velocity
+is advanced in one step, treating the viscous terms implicitly, and the pressure is computed in a
+second step. The AMP interface conditions for the fluid arise from the outgoing characteristic
+variables in the solid and are partitioned into a Robin (mixed) interface condition for the pressure,
+and interface conditions for the velocity. The latter conditions include an impedance-weighted
+average between fluid and solid velocities using a fluid impedance of a special form. A similar impedance-weighted
+average is used to define interface values for the solid. The new algorithm is verified for accuracy
+and stability on a number of useful benchmark problems including a radial-piston problem where
+exact solutions for radial and azimuthal motions are found and tested. Traveling wave exact solutions
+are also derived and numerically verified for a solid disk surrounded by an annulus of fluid. Fluid
+flow in a channel past a deformable solid annulus is computed and errors are estimated from a self-convergence
+grid refinement study. The AMP scheme is found to be stable and second-order accurate even for very
+difficult cases of very light solids. 

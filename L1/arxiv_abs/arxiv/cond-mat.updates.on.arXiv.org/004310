@@ -1,0 +1,16 @@
+The infinite projected entangled pair states (iPEPS) technique [J. Jordan {\it et al.}, Phys. Rev.
+Lett. {\bf 101}, 250602 (2008)] has been widely used in the recent years to assess the properties
+of two-dimensional quantum systems, working directly in the thermodynamic limit. This formalism,
+which is based upon a tensor-network representation of the ground-state wave function, has several
+appealing features, e.g., encoding the so-called area law of entanglement entropy by construction;
+still, the method presents critical issues when dealing with the optimization of tensors, in order
+to find the best possible approximation to the exact ground state of a given Hamiltonian. Here, we
+discuss the obstacles that arise in the optimization by imaginary-time evolution within the so-called
+simple and full updates and connect them to the emergence of a sharp multiplet structure in the ``virtual''
+indices of tensors. In this case, a generic choice of the bond dimension $D$ is not compatible with
+the multiplets and leads to a symmetry breaking (e.g., generating a finite magnetic order). In addition,
+varying the initial guess, different final states may be reached, with considerably large deviations
+in the magnetization value. In order to exemplify this behavior, we show the results of the $S=1/2$
+Heisenberg model on an array of coupled ladders, for which a vanishing magnetization below the critical
+inter-ladder coupling is recovered only for selected values of $D$, while a blind optimization
+with a generic $D$ gives rise to a finite magnetization down to the limit of decoupled ladders. 

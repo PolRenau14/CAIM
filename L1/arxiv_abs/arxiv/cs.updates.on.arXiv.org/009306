@@ -1,0 +1,17 @@
+Assessing processes is one of the best ways for an organization to start a software process improvement
+program. An alternative for organizations seeking for lighter assessments methods is to perform
+self-assessments, which can be carried out by an organization to assess its own process. In this
+context, the question that arises is which software process self-assessment methods exist and
+which kind of support they provide? To answer this question, a mapping study on software process
+self-assessment methods was performed. As result, a total of 33 methods were identified and analyzed,
+synthesizing information on their measurement framework, process reference model and assessment
+process. We observed that most self-assessment methods are based on consolidated models, such
+as CMMI or ISO/IEC 15504 with a trend to develop self-assessment methods specifically for SMEs.
+In general, they use simplified assessment processes, focusing on data collection and analysis.
+Most of the methods propose to collect data through questionnaires that are answered by managers
+or other team members related to the process being assessed. However, we noted a lack of information
+on how most of the assessment methods (AMs) have been developed and validated, which leaves their
+validity questionable. The results of our study may help practitioners, interested in conducting
+software process self-assessments, to choose a self-assessment method. This research is also
+relevant for researchers, as it provides a better understanding of the existing self-assessment
+methods and their strengths and weaknesses. 

@@ -1,0 +1,17 @@
+Using tiny, equal-sized tasks (Homogeneous microTasking, HomT) has long been regarded an effective
+way of load balancing in parallel computing systems. When combined with nodes pulling in work upon
+becoming idle, HomT has the desirable property of automatically adapting its load distribution
+to the processing capacities of participating nodes - more powerful nodes finish their work sooner
+and, therefore, pull in additional work faster. As a result, HomT is deemed especially desirable
+in settings with heterogeneous (and possibly possessing dynamically changing) processing capacities.
+However, HomT does have additional scheduling and I/O overheads that might make this load balancing
+scheme costly in some scenarios. In this paper, we first analyze these advantages and disadvantages
+of HomT. We then propose an alternative load balancing scheme - Heterogeneous MacroTasking (HeMT)
+- wherein workload is intentionally partitioned according to nodes' processing capacity. Our
+goal is to study when HeMT is able to overcome the performance disadvantages of HomT. We implement
+a prototype of HeMT within the Apache Spark application framework with complementary enhancements
+to the Apache Mesos cluster manager. Spark's built-in scheduler, when parameterized appropriately,
+implements HomT. Our experimental results show that HeMT out-performs HomT when accurate workload-specific
+estimates of nodes' processing capacities are learned. As representative results, Spark with
+HeMT offers about 10% better average completion times for realistic data processing workloads
+over the default system. 

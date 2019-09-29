@@ -1,0 +1,16 @@
+During the lifetime of sun-like or low mass stars a significant amount of angular momentum is removed
+through magnetised stellar winds. This process is often assumed to be governed by the dipolar component
+of the magnetic field. However, observed magnetic fields can host strong quadrupolar and/or octupolar
+components, which may influence the resulting spin-down torque on the star. In Paper I, we used the
+MHD code PLUTO to compute steady state solutions for stellar winds containing a mixture of dipole
+and quadrupole geometries. We showed the combined winds to be more complex than a simple sum of winds
+with these individual components. This work follows the same method as Paper I, including the octupole
+geometry which increases the field complexity but also, more fundamentally, looks for the first
+time at combining the same symmetry family of fields, with the field polarity of the dipole and octupole
+geometries reversing over the equator (unlike the symmetric quadrupole). We show, as in Paper I,
+that the lowest order component typically dominates the spin down torque. Specifically, the dipole
+component is the most significant in governing the spin down torque for mixed geometries and under
+most conditions for real stars. We present a general torque formulation that includes the effects
+of complex, mixed fields, which predicts the torque for all the simulations to within 20% precision,
+and the majority to within ~5%. This can be used as an input for rotational evolution calculations
+in cases where the individual magnetic components are known. 

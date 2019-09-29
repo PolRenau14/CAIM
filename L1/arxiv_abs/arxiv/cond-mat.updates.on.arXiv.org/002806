@@ -1,0 +1,17 @@
+The development of electronic devices, especially those which involve heterogeneous integration
+of materials, has led to increased challenges in addressing their thermal operational temperature
+demands. The heat flow in these systems is significantly influenced or even dominated by thermal
+boundary resistance (TBR) that exists at the interface between dissimilar materials found in their
+device architecture. Recently, it has been shown that selective patterning of features at an interface
+can greatly impact the TBR. However, a good understanding of interface features affecting material
+growth and subsequently heat transport across the interface and the adjacent materials is still
+lacking. Our work addresses this gap and experimentally demonstrates a link between nanopatterned
+interfaces and TBR for Si-diamond interfaces. Moreover, we find that this interfacial patterning
+influences both the TBR as well as the texture of the diamond grown on the interface by chemical vapor
+deposition. It was found that the preferred microstructural orientation can also lead to an enhancement
+in thermal properties. Through these experiments, we observed the lowest diamond-silicon TBR
+measured to date and a 28% increase in diamond thermal conductivity in 2-{\mu}m-thick films due
+to the strong texturing induced in the diamond near the interface. These results show that through
+the judicious selection of interfacial patterns, it is possible to create multiple synergistic
+effects that result in an overall reduction in thermal resistance in heterogeneously integrated
+electronics that involve polycrystalline materials. 

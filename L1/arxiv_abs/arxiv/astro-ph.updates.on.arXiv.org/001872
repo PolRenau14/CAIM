@@ -1,0 +1,17 @@
+We use particle-in-cell (PIC) simulations to study the nonlinear evolution of ion velocity space
+instabilities in an idealized problem in which a background velocity shear continuously amplifies
+the magnetic field. We simulate the astrophysically relevant regime where the shear timescale
+is long compared to the ion cyclotron period, and the plasma beta is ~ 1-100. The background field
+amplification in our calculation is meant to mimic processes such as turbulent fluctuations or
+MHD-scale instabilities. The field amplification continuously drives a pressure anisotropy
+with the perpendicular pressure larger than the parallel pressure, and the plasma becomes unstable
+to the mirror and ion cyclotron instabilities. In all cases, the nonlinear state is dominated by
+the mirror instability, not the ion cyclotron instability, and the plasma pressure anisotropy
+saturates near the threshold for the linear mirror instability. The magnetic field fluctuations
+initially undergo exponential growth but saturate in a secular phase in which the fluctuations
+grow on the same timescale as the background magnetic field (with \delta B ~ 0.3 <B> in the secular
+phase). At early times, the ion magnetic moment is well-conserved but once the fluctuation amplitudes
+exceed \delta B ~ 0.1 <B>, the magnetic moment is no longer conserved but instead changes on
+a timescale comparable to that of the mean magnetic field. We discuss the implications of our results
+for low-collisionality astrophysical plasmas, including the near-Earth solar wind and low-luminosity
+accretion disks around black holes. 

@@ -1,0 +1,17 @@
+The statistical properties of cosmic structures are well known to be strong probes for cosmology.
+In particular, several studies tried to use the cosmic void counting number to obtain tight constrains
+on Dark Energy. In this paper we address this question by using the CoSphere model as introduced in
+de Fromont & Alimi (2017a). We derive their exact statistics in both primordial and non linearly
+evolved Universe for the standard $\Lambda$CDM model. We first compute the full joint Gaussian
+probability distribution for the various parameters describing these profiles in the Gaussian
+Random Field. We recover the results of Bardeen et al. (1986) only in the limit where the compensation
+radius becomes very large, i.e. when the central extremum decouples from its cosmic environment.
+We derive the probability distribution of the compensation size in this primordial field. We show
+that this distribution is redshift independent and can be used to model cosmic void size distribution.
+Interestingly, it can be used for central maximum such as DM haloes. We compute analytically the
+statistical distribution of the compensation density in both primordial and evolved Universe.
+We also derive the statistical distribution of the peak parameters already introduced by Bardeen
+et al. (1986) and discuss their correlation with the cosmic environment. We thus show that small
+central extrema with low density are associated with narrow compensation regions with a small $R_1$
+and a deep compensation density $\delta_1$ while higher central extrema are located in larger but
+smoother over/under massive regions. 

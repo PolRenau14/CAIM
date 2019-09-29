@@ -1,0 +1,16 @@
+Context. The variations of solar activity over long time intervals using a solar activity reconstruction
+based on the cosmogenic radionuclide 10Be measured in polar ice cores are studied. Methods. By applying
+methods of nonlinear dynamics, the solar activity cycle is studied using solar activity proxies
+that have been reaching into the past for over 9300 years. The complexity of the system is expressed
+by several parameters of nonlinear dynamics, such as embedding dimension or false nearest neighbors,
+and the method of delay coordinates is applied to the time series. We also fit a damped random walk
+model, which accurately describes the variability of quasars, to the solar 10Be data and investigate
+the corresponding power spectral distribution. The periods in the data series were searched by
+the Fourier and wavelet analyses. The solar activity on the long-term scale is found to be on the edge
+of chaotic behavior. This can explain the observed intermittent period of longer lasting solar
+activity minima. Filtering the data by eliminating variations below a certain period (the periods
+of 380 yr and 57 yr were used) yields a far more regular behavior of solar activity. A comparison between
+the results for the 10Be data with the 14C data shows many similarities. Both cosmogenic isotopes
+are strongly correlated mutually and with solar activity. Finally, we find that a series of damped
+random walk models provides a good fit to the 10Be data with a fixed characteristic time scale of 1000
+years, which is roughly consistent with the quasi-periods found by the Fourier and wavelet analyses.

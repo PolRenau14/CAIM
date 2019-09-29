@@ -1,0 +1,17 @@
+This article describes a data center hosting a web portal for accessing and sharing the output of
+large, cosmological, hydro-dynamical simulations with a broad scientific community. It also
+allows users to receive related scientific data products by directly processing the raw simulation
+data on a remote computing cluster. The data center has a multi-layer structure: a web portal, a job
+control layer, a computing cluster and a HPC storage system. The outer layer enables users to choose
+an object from the simulations. Objects can be selected by visually inspecting 2D maps of the simulation
+data, by performing highly compounded and elaborated queries or graphically by plotting arbitrary
+combinations of properties. The user can run analysis tools on a chosen object. These services allow
+users to run analysis tools on the raw simulation data. The job control layer is responsible for handling
+and performing the analysis jobs, which are executed on a computing cluster. The innermost layer
+is formed by a HPC storage system which hosts the large, raw simulation data. The following services
+are available for the users: (I) {\sc ClusterInspect} visualizes properties of member galaxies
+of a selected galaxy cluster; (II) {\sc SimCut} returns the raw data of a sub-volume around a selected
+object from a simulation, containing all the original, hydro-dynamical quantities; (III) {\sc
+Smac} creates idealised 2D maps of various, physical quantities and observables of a selected object;
+(IV) {\sc Phox} generates virtual X-ray observations with specifications of various current and
+upcoming instruments. 

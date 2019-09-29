@@ -1,0 +1,16 @@
+We study evolution of dark matter substructures, especially how they lose the mass and change density
+profile after they fall in gravitational potential of larger host halos. We develop an analytical
+prescription that models the subhalo mass evolution and calibrate it to results of N-body numerical
+simulations of various scales from very small (Earth size) to large (galaxies to clusters) halos.
+We then combine the results with halo accretion histories, and calculate the subhalo mass function
+that is physically motivated down to Earth-mass scales. Our results --- valid for arbitrary host
+masses and redshifts --- show reasonable agreement with those of numerical simulations at resolved
+scales. Our analytical model also enables self-consistent calculations of the boost factor of
+dark matter annhilation, which we find to increase from tens of percent at the smallest (Earth) and
+intermediate (dwarfs) masses to a factor of several at galaxy size, and to become as large as a factor
+of $\sim$10 for the largest halos (clusters) at small redshifts. Our analytical approach can accommodate
+substructures in the subhalos (sub-subhalos) in a consistent framework, which we find to give up
+to a factor of a few enhancement to the annihilation boost. Presence of the subhalos enhances the
+intensity of the isotropic gamma-ray background by a factor of a few, and as the result, the measurement
+by Fermi Large Area Telescope excludes the annihilation cross section greater than $\sim$$4\times
+10^{-26}$ cm$^3$ s$^{-1}$ for dark matter masses up to $\sim$200 GeV. 

@@ -1,0 +1,16 @@
+The emergence of e-commerce and e-voting platforms has resulted in the rise in the volume of sensitive
+information over the Internet. This has resulted in an increased demand for secure and private means
+of information computation. Towards this, the Yao's Millionaires' problem, i.e., to determine
+the richer among two millionaires' securely, finds an application. In this work, we present a new
+solution to the Yao's Millionaires' problem namely, Privacy Preserving Comparison (PPC). We show
+that PPC achieves this comparison in constant time as well as in one execution. PPC uses semi-honest
+third parties for the comparison who do not learn any information about the values. Further, we show
+that PPC is collusion-resistance. To demonstrate the significance of PPC, we present a secure,
+approximate single-minded combinatorial auction, which we call TPACAS, i.e., Truthful, Privacy-preserving
+Approximate Combinatorial Auction for Single-minded bidders. We show that TPACAS, unlike previous
+works, preserves the following privacies relevant to an auction: agent privacy, the identities
+of the losing bidders must not be revealed to any other agent except the auctioneer (AU), bid privacy,
+the bid values must be hidden from the other agents as well as the AU and bid-topology privacy, the
+items for which the agents are bidding must be hidden from the other agents as well as the AU. We demonstrate
+the practicality of TPACAS through simulations. Lastly, we also look at TPACAS' implementation
+over a publicly distributed ledger, such as the Ethereum blockchain. 

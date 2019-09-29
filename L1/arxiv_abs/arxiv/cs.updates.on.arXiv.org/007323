@@ -1,0 +1,16 @@
+Neural networks are capable of learning rich, nonlinear feature representations shown to be beneficial
+in many predictive tasks. In this work, we use such models to explore different geographical feature
+representations in the context of predicting colorectal cancer survival curves for patients in
+the state of Iowa, spanning the years 1989 to 2013. Specifically, we compare model performance using
+"area between the curves" (ABC) to assess (a) whether survival curves can be reasonably predicted
+for colorectal cancer patients in the state of Iowa, (b) whether geographical features improve
+predictive performance, (c) whether a simple binary representation, or a richer, spectral analysis-elicited
+representation perform better, and (d) whether spectral analysis-based representations can
+be improved upon by leveraging geographically-descriptive features. In exploring (d), we devise
+a similarity-based spectral analysis procedure, which allows for the combination of geographically
+relational and geographically descriptive features. Our findings suggest that survival curves
+can be reasonably estimated on average, with predictive performance deviating at the five-year
+survival mark among all models. We also find that geographical features improve predictive performance,
+and that better performance is obtained using richer, spectral analysis-elicited features. Furthermore,
+we find that similarity-based spectral analysis-elicited representations improve upon the original
+spectral analysis results by approximately 40%. 

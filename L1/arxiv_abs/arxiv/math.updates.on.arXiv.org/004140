@@ -1,0 +1,17 @@
+We consider a distributed resource allocation problem in networks where each transmitter-receiver
+pair aims at maximizing its local utility function by adjusting its action matrix, which belongs
+to a given feasible set. This problem has been addressed recently by applying a matrix exponential
+learning (MXL) algorithm which has a very appealing convergence rate. In this learning algorithm,
+however, each transmitter must know an estimate of the gradient matrix of the local utility. The
+knowledge of the gradient matrix at the transmitters incurs a high signaling overhead especially
+that the matrix size increases with the dimension of the action matrix. In this paper, we therefore
+investigate two strategies in order to decrease the informational exchange per iteration of the
+algorithm. In the first strategy, each receiver sends at each iteration part of the elements of the
+gradient matrix with respect to a certain probability. In the second strategy, each receiver feeds
+back sporadically the whole gradient matrix. We focus on the analysis of the convergence of the MXL
+algorithm to optimum under these two strategies. We prove that the algorithm can still converge
+to optimum almost surely. Upper bounds of the average convergence rate are also derived in both situations
+with general step-size setting, from which we can clearly see the impact of the incompleteness of
+the feedback information. The proposed algorithms are applied to solve the energy efficiency maximization
+problem in a multicarrier multi-user MIMO network. Simulation results further corroborate our
+claim. 

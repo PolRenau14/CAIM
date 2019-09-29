@@ -1,0 +1,17 @@
+Magneto-inductive (MI) Terahertz (THz) wireless channels provide significant theoretical performances
+for MI communications (MIC) and wireless power transmission (WPT) in nanoscale networks. Energy
+harvesting (EH) and signal generation are critical for autonomous operation in challenging medium
+including biomedical channels. State of the art electromagnetic (EM) vibrational devices have
+millimeter dimensions while targeting low frequency EH without any real-time communications.
+In this article, graphene resonators are combined with single molecule magnets (SMMs) to realize
+nanoscale EH, MIC and WPT with novel modulation methods achieving simultaneous wireless information
+and PT (SWIPT). Unique advantages of graphene including atomic thickness, ultra-low weight, high
+strain and resonance frequencies in the Kilohertz to Terahertz band are combined with high and stable
+magnetic moments of Terbium(III) bis(phthalocyanine) SMMs. Numerical analyses provide tens
+of nanowatts powers and efficiencies of $10^4 \, W/m^3$ in acoustic and ultrasound frequencies
+comparable with vibrational EH devices while millimeter wave carrier generation is numerically
+analyzed. Proposed model and communication theoretical analysis present a practical framework
+for challenging applications in the near future by promising simple mechanical design. Applications
+include nanoscale biomedical tagging including human cells, sensing and communication for diagnosis
+and treatment, EH and modulation for autonomous nano-robotics, and magnetic particle imaging
+(MPI). 

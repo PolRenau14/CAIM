@@ -1,0 +1,17 @@
+Machine Intelligence (MI) technologies have revolutionized the design and applications of computational
+intelligence systems, by introducing remarkable scientific and technological enhancements
+across domains. MI can improve Internet of Things (IoT) in several ways, such as optimizing the management
+of large volumes of data or improving automation and transmission in large-scale IoT deployments.
+When considering MI in the IoT context, MI services deployment must account for the latency demands
+and network bandwidth requirements. To this extent, moving the intelligence towards the IoT end-device
+aims to address such requirements and introduces the notion of Distributed MI (D-MI) also in the
+IoT context. However, current D-MI deployments are limited by the lack of MI interoperability.
+Currently, the intelligence is tightly bound to the application that exploits it, limiting the
+provisioning of that specific intelligence service to additional applications. The objective
+of this article is to propose a novel approach to cope with such constraints. It focuses on decoupling
+the intelligence from the application by revising the traditional device's stack and introducing
+an intelligence layer that provides services to the overlying application layer. This paradigm
+aims to provide final users with more control and accessibility of intelligence services by boosting
+providers' incentives to develop solutions that could theoretically reach any device. Based on
+the definition of this emerging paradigm, we explore several aspects related to the intelligence
+distribution and its impact in the whole MI ecosystem. 

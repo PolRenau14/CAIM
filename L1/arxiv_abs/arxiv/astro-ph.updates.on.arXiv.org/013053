@@ -1,0 +1,17 @@
+Aims. We present the first three-dimensional internal motions for individual stars in the Draco
+dwarf spheroidal galaxy. Methods. By combining first epoch $Hubble$ $Space$ $Telescope$ observations
+and second epoch $Gaia$ Data Release 2 positions we measured the proper motions of $149$ sources
+in the direction of Draco. We determined the line-of-sight velocities of a sub-sample of $81$ red
+giant branch stars using medium resolution spectra acquired with the DEIMOS spectrograph at the
+Keck II telescope. Altogether this resulted in a final sample of $45$ members of Draco with high-precision
+and accurate 3D motions, which we publish as a table in this paper. Results. With this high-quality
+dataset we determined the velocity dispersions at a projected distance of $\sim120$~pc from the
+centre of Draco to be $\sigma_{R} =11.0^{+2.1}_{-1.5}$~km/s, $\sigma_{T}=9.9^{+2.3}_{-3.1}$~km/s
+and $\sigma_{LOS}=9.3^{+0.9}_{-0.9}$~km/s in the projected radial, tangential and line-of-sight
+directions. This results in a velocity anisotropy $\beta=0.28^{+0.44}_{-1.35}$ at $r \gtrsim120$~pc.
+Using the spherical Jeans equations and assuming constant anisotropy and NFW mass profiles, we
+constrain the maximum circular velocity $V_{max}$ of Draco to be in the range of $7.9-17.0$ km/s.
+The corresponding mass range is in good agreement with previous estimates based on line-of-sight
+velocities only. Conclusions. Our Jeans modelling supports the case for a cuspy dark matter profile
+in this galaxy. Firmer conclusions may be drawn by applying more sophisticated models on this dataset
+and with upcoming $Gaia$ data releases. 

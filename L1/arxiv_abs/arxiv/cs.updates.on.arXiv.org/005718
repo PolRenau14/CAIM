@@ -1,0 +1,17 @@
+In this paper, a novel joint transmit power and resource allocation approach for enabling ultra-reliable
+low-latency communication (URLLC) in vehicular networks is proposed. The objective is to minimize
+the network-wide power consumption of vehicular users (VUEs) while ensuring high reliability
+in terms of probabilistic queuing delays. In particular, a reliability measure is defined to characterize
+extreme events (i.e., when vehicles' queue lengths exceed a predefined threshold with non-negligible
+probability) using extreme value theory (EVT). Leveraging principles from federated learning
+(FL), the distribution of these extreme events corresponding to the tail distribution of queues
+is estimated by VUEs in a decentralized manner. Finally, Lyapunov optimization is used to find the
+joint transmit power and resource allocation policies for each VUE in a distributed manner. The
+proposed solution is validated via extensive simulations using a Manhattan mobility model. It
+is shown that FL enables the proposed distributed method to estimate the tail distribution of queues
+with an accuracy that is very close to a centralized solution with up to 79\% reductions in the amount
+of data that need to be exchanged. Furthermore, the proposed method yields up to 60\% reductions
+of VUEs with large queue lengths, without an additional power consumption, compared to an average
+queue-based baseline. Compared to systems with fixed power consumption and focusing on queue stability
+while minimizing average power consumption, the reduction in extreme events of the proposed method
+is about two orders of magnitude. 

@@ -1,0 +1,16 @@
+High redshift, massive halos are observed to have sustained, high star formation rates, which require
+that the amount of cold gas in the halo is continuously replenished. The cooling time scale for the
+hot virialized halo gas is too long to provide the source of cold gas. Supersonic, cold streams have
+been invoked as a mechanism for feeding massive halos at high redshift and deliver the cold gas required
+for continued star formation at the rates observed. This mechanism for replenishing the cold gas
+reservoir is motivated by some cosmological simulations. However, the cold streams are likely
+to be subject to the supersonic version of the Kelvin-Helmholtz instability (KHI), which eventually
+leads to stream disruption. Cosmological simulations have yet to obtain the spatial resolution
+required for understanding the detailed stability properties of cold streams. In this paper, we
+consider instead an idealized model of magnetized cold streams that we spatially resolve. Using
+linear theory we show how magnetic fields with dynamically important field strengths do not inhibit
+the KHI but rather enhance its growth rate. We perform nonlinear simulations of magnetized stream
+disruption and find that magnetic fields can nevertheless increase stream survival times by suppressing
+the mixing rate of cold gas with the circumgalactic medium. We find that magnetic fields can allow
+streams to survive $\sim 2-8$ times longer and, consequently, that streams $\sim 2-8$ times thinner
+can reach the central galaxy if the magnetic field strength is $\sim 0.3-0.8 \mu$G. 

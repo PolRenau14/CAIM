@@ -1,0 +1,16 @@
+The $H_0$-tension problem poses a confrontation of dark energy driving late-time cosmological
+expansion measured by the Hubble parameter $H(z)$ over an extended range of redshifts $z$. Distinct
+values $H_0\simeq 73$ km\,s$^{-1}$Mpc$^{-1}$ and $H_0\simeq 68$ km\,s$^{-1}$Mpc$^{-1}$ obtain
+from surveys of the Local Universe and, respectively, $\Lambda$CBM analysis of the CMB. These are
+representative of accelerated expansion with $H^\prime(0)\simeq0$ by $\Lambda=\omega_0^2$
+and, respectively, $H^\prime(0)>0$ in $\Lambda$CDM, where $\omega_0=\sqrt{1-q}H$ is a fundamental
+frequency of the cosmological horizon in a Friedmann-Robertson-Walker universe with deceleration
+parameter $q(z)=-1+(1+z)H^{-1}H^\prime(z)$. Explicit solutions $H(z)=H_0\sqrt{1+\omega_m(6z+12z^2+12z^3+6z^4+(6/5)z^5)}$
+and, respectively, $H(z)=H_0\sqrt{1-\omega_m+\omega_m(1+z)^3}$ are here compared with recent
+data on $H(z)$ over $0\lesssim z \lesssim2$. The first is found to be free of tension with $H_0$ from
+local surveys, while the latter is disfavored at $2.7\sigma$. A further confrontation obtains
+in galaxy dynamics by a finite sensitivity of inertia to background cosmology in weak gravity, putting
+an upper bound of $m\lesssim 10^{-30}$eV on the mass of dark matter. A $C^0$ onset to weak gravity
+at the de Sitter scale of acceleration $a_{dS}=cH(z)$, where $c$ denotes the velocity of light,
+can be seen in galaxy rotation curves covering $0\lesssim z \lesssim 2$. Weak gravity in galaxy dynamics
+hereby provides a proxy for cosmological evolution. 

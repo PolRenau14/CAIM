@@ -1,0 +1,16 @@
+We investigate the accuracy of 4000\AA/Balmer-break based redshifts by combining Hubble Space
+Telescope ({\it HST}) grism data with photometry. The grism spectra are from the Probing Evolution
+And Reionization Spectroscopically (PEARS) survey with {\it HST} using the G800L grism on the Advanced
+Camera for Surveys (ACS). The photometric data come from a compilation by the 3D-HST collaboration
+of imaging from multiple surveys (notably CANDELS and 3D-HST). We show evidence that spectrophotometric
+redshifts (SPZs) typically improve on the accuracy of photometric redshifts by $\sim$16--60\%.
+We show that the robustness of the SPZ is directly related to the fidelity of the D4000 measurement.
+We also estimate the accuracy of continuum-based redshifts, i.e., for galaxies that do not contain
+strong emission lines, based on the grism data alone ($\sigma^\mathrm{NMAD}_{\Delta z/(1+z)}{\lesssim}0.06$).
+Given that future space-based observatories like WFIRST and Euclid will spend a significant fraction
+of time on slitless spectroscopic observations, we estimate number densities for objects with
+a redshift accuracy $\leq$0.02. We predict $\sim$8200 galaxies/degree$^2$ for galaxies with
+D4000$>$1.1 and a redshift accuracy of $\leq$2\% to a limit of $i_{AB}$$\sim$24 mag. This is \emph{especially}
+important in the absence of an accompanying rich photometric dataset like the existing one for the
+CANDELS fields, where redshift accuracy from future surveys will rely only on the presence of a feature
+like the 4000\AA/Balmer breaks or the presence of emission lines within the grism spectra. 

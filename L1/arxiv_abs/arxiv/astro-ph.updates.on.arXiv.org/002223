@@ -1,0 +1,16 @@
+Characterizing a microlensing planet is done from modeling an observed lensing light curve. In
+this process, it is often confronted that solutions of different lensing parameters result in similar
+light curves, causing difficulties in uniquely interpreting the lens system, and thus understanding
+the causes of different types of degeneracy is important. In this work, we show that incomplete coverage
+of a planetary perturbation can also result in degenerate solutions even for events where the planetary
+signal is detected with a high level of statistical significance. We demonstrate the degeneracy
+for an actually observed event OGLE-2012-BLG-0455/MOA-2012-BLG-206. The peak of this high-magnification
+event $(A_{\rm max}\sim400)$ exhibits very strong deviation from a point-lens model with $\Delta\chi^{2}\gtrsim4000$.
+From detailed modeling of the light curve, we find that the deviation can be explained by four distinct
+solutions, i.e., two very different sets of solutions, each with a two-fold degeneracy. While the
+two-fold (so-called ``close/wide'') degeneracy is well-understood, the degeneracy between
+the radically different solutions is not previously known. The model light curves of this degeneracy
+differ substantially in the parts that were not covered by observation, indicating that the degeneracy
+is caused by the incomplete coverage of the perturbation. It is expected that the frequency of the
+degeneracy introduced in this work will be greatly reduced with the improvement of the current lensing
+survey and follow-up experiments and the advent of new surveys. 

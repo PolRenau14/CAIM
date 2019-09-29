@@ -1,0 +1,16 @@
+In this letter, taking the Nambu--Jona--Lasinio model as an example, we propose a new self-consistent
+mean field approximation method by means of Fierz transformation. This new self-consistent mean
+field approximation introduces a new free parameter $\alpha$ to be determined by experiments and
+when $\alpha$ takes 0.5, it reduces to the mean field approximation that was commonly used in the
+past. Then based on this self-consistent mean field approximation, we study the influence of the
+undetermined parameter $\alpha$ on the phase diagram of the two-flavor strong interaction matter.
+It is found that the value of $\alpha$ plays an extremely important role in the study of strong interaction
+phase diagram. It not only changes the position of the phase transition point of strong interaction
+matter, but also affects the order of phase transition, for example, when $\alpha$ is greater than
+the critical value $\alpha_c = 0.71$, then the strong interaction matter phase diagram no longer
+exists critical end point. In addition, in the case of zero temperature and finite density, we also
+found that when $\alpha$ is greater than 1.044, the pseudo-critical chemical potential is about
+4$\sim$5 times the saturation density of the nuclear matter, which agrees with the expected results
+from the image of hadrons degree of freedom. The resulting equations of state of strong interaction
+matter at low temperatures and high densities will have an important impact on the study of the mass
+radius relationship of neutron stars and the merging process of binary neutron stars. 

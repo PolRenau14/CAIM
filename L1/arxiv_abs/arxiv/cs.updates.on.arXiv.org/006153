@@ -1,0 +1,16 @@
+Designing and debugging distributed systems is notoriously difficult. The correctness of a distributed
+system is largely determined by its handling of failure scenarios. The sequence of events leading
+to a bug can be long and complex, and it is likely to include message reorderings and failures. On single-node
+systems, interactive debuggers enable stepping through an execution of the program, but they lack
+the ability to easily simulate failure scenarios and control the order in which messages are delivered.
+Oddity is a graphical, interactive debugger for distributed systems. It brings the power of traditional
+step-through debugging---fine-grained control and observation of a program as it executes---to
+distributed systems. It also enables exploratory testing, in which an engineer examines and perturbs
+the behavior of a system in order to better understand it, perhaps without a specific bug in mind.
+A programmer can directly control message and failure interleaving. Oddity supports time travel,
+allowing a developer to explore multiple branching executions of a system within a single debugging
+session. Above all, Oddity encourages distributed systems thinking: rather than assuming the
+normal case and attaching failure handling as an afterthought, distributed systems should be developed
+around the certainty of message loss and node failure. Graduate and undergraduate students used
+Oddity in two distributed systems classes. Usage tracking and qualitative surveys showed that
+students found Oddity useful for both debugging and exploratory testing. 

@@ -1,0 +1,16 @@
+Recent observations indicating the existence of a monochromatic gamma-ray line with energy ~130
+GeV in the Fermi-LAT data have attracted great interest due to the possibility that the line feature
+stems from the annihilation of dark matter particles. Many studies examining the robustness of
+the putative line-signal have concentrated on its spectral attributes. Here, we study the morphological
+features of the gamma-ray line photons, which can be used to differentiate a putative dark matter
+signal from astrophysical backgrounds or instrumental artifacts. Photons stemming from dark
+matter annihilation will produce events tracing a specific morphology, with a statistical clustering
+that can be calculated based on models of the dark matter density profile in the inner Galaxy. We apply
+the DBSCAN clustering algorithm to Fermi gamma-ray data, and show that we can rule out the possibility
+that 1 (2, 4) or fewer point-like sources produce the observed morphology for the line photons at
+a 99% (95%, 90%) confidence level. Our study strongly disfavors the main astrophysical background
+envisioned to produce a line feature at energies above 100 GeV: cold pulsar winds. It is highly unlikely
+that 4 or more such objects have exactly the same monochromatic cosmic-ray energy needed to produce
+a gamma-ray line, to within instrumental energy resolution. Furthermore, we show that the larger
+photon statistics expected with Air Cherenkov Telescopes such as H.E.S.S.-II will allow for extraordinarily
+stringent morphological tests of the origin of the "line photons". 

@@ -1,0 +1,16 @@
+A noncoherent two-way relaying system is developed using physical-layer network coding for improved
+throughput over conventional relaying in a fading channel. Energy-efficient noncoherent operation
+is achieved using multitone frequency shift keying (FSK). A novel soft-output demodulator is developed
+for the relay, and corresponding achievable exchange rates are found for Rayleigh fading and AWGN
+channels. Bit-error rate performance approaching the achievable rate is realized using a capacity-approaching
+channel code and a receiver architecture that iterates between demodulation and channel decoding.
+Iterative decoding is performed feeding information back from the channel decoder to the demodulator.
+Additionally, error-rate performance is made to approach the achievable rate more closely by optimizing
+LDPC codes for this system. The energy efficiency improvement obtained by increasing the modulation
+order is more dramatic for the proposed physical-layer network coding scheme than it is for a conventional
+point-to-point system. Using optimized LDPC codes, the bit-error rate performance is improved
+by as much as 1.1 dB over a widely known standardized LDPC code, and comes to within 0.7 dB of the limit
+corresponding to the achievable rate. Throughout this work, performance for physical-layer network
+coding is compared to conventional network coding. When noncoherent FSK is used, physical-layer
+network coding enables higher achievable rates, and conventional network coding exhibits better
+energy efficiency at low rates. 

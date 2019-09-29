@@ -1,0 +1,16 @@
+Oxygen is the most abundant "metal" element in stars and in the cosmos. But determining oxygen abundances
+in stars has proven challenging, because of the shortage of detectable atomic oxygen lines in their
+optical spectra as well as observational and theoretical complications with these lines (e.g.,
+blends, 3D, non-LTE). Nonetheless, Ting et al. (2017) were recently able to demonstrate that oxygen
+abundances can be determined from low-resolution (R$\simeq$2000) optical spectra. Here we investigate
+the physical processes that enable such a measurement for cool stars, such as K-giants. We show that
+the strongest spectral diagnostics of oxygen come from the CNO atomic-molecular network, but are
+manifested in spectral features that do not involve oxygen. In the outer atmosphere layers most
+of the carbon is locked up in CO, and changes to the oxygen abundance directly affect the abundances
+of all other carbon-bearing molecules, thereby changing the strength of CH, CN, and C$_2$ features
+across the optical spectrum. In deeper atmosphere layers most of the carbon is in atomic form, and
+any change in the oxygen abundance has little effect on the other carbon-bearing molecules. The
+key physical effect enabling such oxygen abundance measurements is that spectral features in the
+optical arise from both the CO-dominant and the atomic carbon-dominant regions, providing non-degenerate
+constraints on both C and O. Beyond the case at hand, the results show that physically sound abundances
+measurements need not be limited to those elements that have observable lines themselves. 

@@ -1,0 +1,16 @@
+In this paper, we propose a framework for coordinating distributed energy resources (DERs) connected
+to a power distribution system, the model of which is not completely known, so that they collectively
+provide a specified amount of active power to the bulk power system as quantified by the power exchange
+between both systems at the bus interconnecting them, while respecting distribution line capacity
+limits. The proposed framework consists of (i) a linear time-varying input-output (IO) system
+model that represents the relation between the DER active power injections (inputs), and the total
+active power exchanged between the distribution and bulk power systems (output); (ii) an estimator
+that aims to estimate the IO model parameters, and (iii) a controller that determines the optimal
+DER active power injections so the power exchanged between both systems equals to the specified
+amount at a minimum generating cost. We formulate the estimation problem as a quadratic program
+with box constraints and solve it using the projected gradient descent algorithm. To resolve the
+potential issue of collinearity in the measurements used by the estimator, we introduce random
+perturbations in the DER active power injections during the estimation process. Using the estimated
+IO model, the optimal DER coordination problem to be solved by the controller can be formulated as
+a convex optimization problem, which can be solved easily. The effectiveness of the framework is
+validated via numerical simulations using the IEEE 123-bus distribution test feeder. 

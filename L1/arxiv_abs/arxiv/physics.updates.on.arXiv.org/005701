@@ -1,0 +1,17 @@
+Lasers differ from other light sources in that they are coherent, and their coherence makes them
+indispensable to both fundamental research and practical application. In optomechanical cavities,
+phonon and photon lasing is facilitated by the ability of photons and phonons to interact intensively
+and excite one another coherently. The lasing linewidths of both phonons and photons are critical
+for practical application. However, thus far, these linewidths have not been explored in detail
+in cavity optomechanical systems. This study investigates the underlying dynamics of lasing in
+optomechanical cavities and experimentally demonstrates simultaneous photon and phonon lasing
+with narrow linewidths in a silicon optomechanical crystal cavity. We find that the linewidths
+can be accounted for by two distinct physical mechanisms in two regimes, namely the normal regime
+and the reversed regime, where the intrinsic optical decay rate is either larger or smaller than
+the intrinsic mechanical decay rate. In the normal regime, an ultra-narrow spectral linewidth
+of 5.4 kHz for phonon lasing at 6.22 GHz can be achieved regardless of the linewidth of the pump light,
+while these results are counterintuitively unattainable for photon lasing in the reversed regime.
+These results pave the way towards harnessing the coherence of both photons and phonons in silicon
+photonic devices and reshaping their spectra, potentially opening up new technologies in sensing,
+metrology, spectroscopy, and signal processing, as well as in applications requiring sources
+that offer an ultra-high degree of coherence. 

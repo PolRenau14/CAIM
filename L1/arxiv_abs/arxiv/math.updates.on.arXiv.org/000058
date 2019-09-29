@@ -1,0 +1,16 @@
+Let k be a base field, R a commutative ring of coefficients, Chow(k)_R the category of Chow motives,
+and Hmo(k)_R the category of noncommutative motives. Following Gorchinskiy-Orlov, a Chow motive
+is called of Lefschetz R-type if it decomposes in Chow(k)_R into a direct sum of tensor powers of the
+Lefschetz motive. In the same vein, a noncommutative motive is called of unit R-type if it decomposes
+in Hmo(k)_R into a direct sum of copies of the tensor unit. Let X be an irreducible smooth projective
+k-scheme of dimension d. Our first main result shows that if the noncommutative motive of X is of unit
+R-type (with Z a subring of R), then the Chow motive of X is of Lefschetz R[1/(2d)!]-type. As an application,
+this decomposition of the Chow motive holds whenever the derived category of perfect complexes
+of X admits a full exceptional collection. Examples include projective spaces and rational surfaces
+(when k is arbitrary), smooth quadric hypersurfaces, Grassmannians, flag varieties, Fano threefolds
+with vanishing odd cohomology, and toric varieties (when k is the field of complex numbers), and
+conjecturally all homogeneous spaces of the form G/P with P a parabolic subgroup of a semisimple
+algebraic group G. Our second main result shows that if the Chow motive of X with R[1/(2d)!]-coefficients
+is decomposable, then the noncommutative motive of X with R[1/(2d)!]-coefficients is also decomposable.
+Using Severi-Brauer varieties, we show also that the converse implication is false whenever R[1/(2d)!]
+is replaced by a ring where d is not invertible. 

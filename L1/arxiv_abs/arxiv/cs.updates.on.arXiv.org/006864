@@ -1,0 +1,17 @@
+Active Learning (AL) is a learning task that requires learners interactively query the labels of
+the sampled unlabeled instances to minimize the training outputs with human supervisions. In theoretical
+study, learners approximate the version space which covers all possible classification hypothesis
+into a bounded convex body and try to shrink the volume of it into a half-space by a given cut size. However,
+only the hypersphere with finite VC dimensions has obtained formal approximation guarantees that
+hold when the classes of Euclidean space are separable with a margin. In this paper, we approximate
+the version space to a structured {hypersphere} that covers most of the hypotheses, and then divide
+the available AL sampling approaches into two kinds of strategies: Outer Volume Sampling and Inner
+Volume Sampling. After providing provable guarantees for the performance of AL in version space,
+we aggregate the two kinds of volumes to eliminate their sampling biases via finding the optimal
+inscribed hyperspheres in the enclosing space of outer volume. To touch the version space from Euclidean
+space, we propose a theoretical bridge called Volume-based Model that increases the `sampling
+target-independent'. In non-linear feature space, spanned by kernel, we use sequential optimization
+to globally optimize the original space to a sparse space by halving the size of the kernel space.
+Then, the EM (Expectation Maximization) model which returns the local center helps us to find a local
+representation. To describe this process, we propose an easy-to-implement algorithm called Volume-based
+AL (VAL). 

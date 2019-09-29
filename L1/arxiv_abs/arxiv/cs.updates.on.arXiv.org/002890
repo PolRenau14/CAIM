@@ -1,0 +1,17 @@
+In pervasive computing environment, Location Based Services (LBSs) are getting popularity among
+users because of their usefulness in day-to-day life. LBSs are information services that use geospatial
+data of mobile device and smart phone users to provide information, entertainment and security
+in real time. A key concern in such pervasive computing environment is the need to reveal the user's
+exact location which may allow an adversary to infer private information about the user. To address
+the privacy concerns of LBS users, a large number of security approaches have been proposed based
+on the concept of k-anonymity. The central idea in location k-anonymity is to find a set of k-1 users
+confined in a given geographical area of the actual user, such that the location of these k users are
+indistinguishable from one another, thus protecting the identity of the user. Although a number
+of performance parameters like success rate, amount of privacy achieved are used to measure the
+performance of the k-anonymity approaches, they make the implicit, unrealistic assumption that
+the k-1 users are readily available. As such these approaches ignore the turnaround time to process
+a user request, which is crucial for a real-time application like LBS. In this work, we model the k-anonymity
+approaches using queuing theory to compute the average sojourn time of users and queue length of
+the system. To demonstrate that queuing theory can be used to model all k-anonymity approaches,
+we consider graph-based k-anonymity approaches. The proposed analytical model is further validated
+with experimental results. 

@@ -1,0 +1,17 @@
+We present a molecular dynamics study of the motion of cylindrical polymer droplets on striped surfaces.
+We first consider the equilibrium properties of droplets on different surfaces, we show that for
+small stripes the Cassie-Baxter equation gives a good approximation of the equilibrium contact
+angle. As the stripe width becomes non-negligible compared to the dimension of the droplets, the
+droplet has to deform significantly to minimize its free energy, this results in a smaller value
+of the contact angle than the continuum model predicts. We then evaluate the slip length, and thus
+the damping coefficient as a function of the stripe width. For very small stripes, the heterogeneous
+surface behaves as an effective surface, with the same damping as an homogeneous surface with the
+same contact angle. However, as the stripe width increases, damping at the surface increases until
+reaching a plateau. Afterwards, we study the dynamics of droplets under a bulk force. We show that
+if the stripes are large enough the droplets are pinned until a critical acceleration. The critical
+acceleration increases linearly with stripe width. For large enough accelerations, the average
+velocity increases linearly with the acceleration, we show that it can then be predicted by a model
+depending only the size of droplet, viscosity and slip length. We show that the velocity of the droplet
+varies sinusoidally as a function of its position on the substrate. On the other hand, for accelerations
+just above the depinning acceleration we observe a characteristic stick-slip motion, with successive
+pinnings and depinnings. 

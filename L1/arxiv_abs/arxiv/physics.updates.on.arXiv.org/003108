@@ -1,0 +1,17 @@
+High-harmonic generation in two-colour ($\omega-2\omega$) counter-rotating circularly polarised
+laser fields opens the path to generate isolated attosecond pulses and attosecond pulse trains
+with controlled ellipticity. The generated harmonics have alternating helicity, and the ellipticity
+of the generated attosecond pulse depends sensitively on the relative intensities of two adjacent,
+counter-rotating harmonic lines. For the $s$-type ground state, such as in Helium, the successive
+harmonics have nearly equal amplitude, yielding isolated attosecond pulses and attosecond pulse
+trains with linear polarisation, rotated by 120$^{{\circ}}$ from pulse to pulse. In this work,
+we suggest a solution to overcome the limitation associated with the $s$-type ground state. It is
+based on modifying the three propensity rules associated with the three steps of the harmonic generation
+process: ionisation, propagation, and recombination. We control the first step by seeding high
+harmonic generation with XUV light tuned well below the ionisation threshold, which generates
+virtual excitations with the angular momentum co-rotating with the $\omega$-field. We control
+the propagation step by increasing the intensity of the $\omega$-field relative to the $2\omega$-field,
+further enhancing the chance of the $\omega$-field being absorbed versus the $2\omega$-field,
+thus favouring the emission co-rotating with the seed and the $\omega-$field. We demonstrate our
+proposed control scheme using Helium atom as a target and solving time-dependent Schr{\"o}dinger
+equation in two and three-dimensions. 

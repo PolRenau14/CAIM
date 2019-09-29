@@ -1,0 +1,16 @@
+The large-scale structure of the Universe should soon be measured at high redshift during the Epoch
+of Reionization (EoR) through line-intensity mapping. A number of ongoing and planned surveys
+are using the 21 cm line to trace neutral hydrogen fluctuations in the intergalactic medium (IGM)
+during the EoR. These may be fruitfully combined with separate efforts to measure large-scale emission
+fluctuations from galactic lines such as [CII], CO, H-$\alpha$, and Ly-$\alpha$ during the same
+epoch. The large scale power spectrum of each line encodes important information about reionization,
+with the 21 cm power spectrum providing a relatively direct tracer of the ionization history. Here
+we show that the large scale 21 cm power spectrum can be extracted using only cross-power spectra
+between the 21 cm fluctuations and each of two separate line-intensity mapping data cubes. This
+technique is more robust to residual foregrounds than the usual 21 cm auto-power spectrum measurements
+and so can help in verifying auto-spectrum detections. We characterize the accuracy of this method
+using numerical simulations and find that the large-scale 21 cm power spectrum can be inferred to
+an accuracy of within 5% for most of the EoR, reaching 0.6% accuracy on a scale of $k\sim0.1\,\text{Mpc}^{-1}$
+at $\left< x_i \right> = 0.36$ ($z = 8.34$ in our model). An extension from two to $N$ additional lines
+would provide $N(N-1)/2$ cross-checks on the large-scale 21 cm power spectrum. This work strongly
+motivates redundant line-intensity mapping surveys probing the same cosmological volumes. 

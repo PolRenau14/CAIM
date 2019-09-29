@@ -1,0 +1,16 @@
+We present $BVI$ surface photometry of 31 dwarf galaxy candidates discovered in a deep image stack
+from the KMTNet Supernova Program of $\sim$ 30 square degrees centered on the nearby NGC 2784 galaxy
+group. Our final images have a 3$\sigma$ surface brightness detection limit of $\mu_V\approx 28.5$
+mag arcsec$^{-2}$. The faintest central surface brightness that we measure is $\mu_{0,V} = 26.1$
+mag arcsec$^{-2}$. If these candidates are at the distance of NGC 2784, then they have absolute magnitudes
+greater than $M_V = -9.5$ mag and effective radii larger than 170 pc. Their radial number density
+decreases exponentially with distance from the center of NGC 2784 until it flattens beyond a radius
+of 0.5 Mpc. We interpret the baseline density level to represent the background contamination and
+so estimate that 22 of the 31 new candidates are dwarf members of the group. The candidate's average
+color, $\langle (B-V)_0\rangle\approx 0.7$, and Sersic structural parameters are consistent
+with those parameters for the dwarf populations of other groups. We find that the central population
+of dwarfs is redder and brighter than the rest of the population. The measured faint end slope of the
+luminosity function, $\alpha\approx-1.33$, is steeper than that of the Local Group but consistent
+with published results for other groups. Such comparisons are complicated by systematic differences
+among different studies, but will be simpler when the KMTNet survey, which will provide homogenous
+data for 15 to 20 groups, is completed. 

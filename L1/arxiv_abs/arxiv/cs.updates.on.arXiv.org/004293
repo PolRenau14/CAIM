@@ -1,0 +1,17 @@
+In this paper we tackle a very novel problem, namely height estimation from a single monocular remote
+sensing image, which is inherently ambiguous, and a technically ill-posed problem, with a large
+source of uncertainty coming from the overall scale. We propose a fully convolutional-deconvolutional
+network architecture being trained end-to-end, encompassing residual learning, to model the
+ambiguous mapping between monocular remote sensing images and height maps. Specifically, it is
+composed of two parts, i.e., convolutional sub-network and deconvolutional sub-network. The
+former corresponds to feature extractor that transforms the input remote sensing image to high-level
+multidimensional feature representation, whereas the latter plays the role of a height generator
+that produces height map from the feature extracted from the convolutional sub-network. Moreover,
+to preserve fine edge details of estimated height maps, we introduce a skip connection to the network,
+which is able to shuttle low-level visual information, e.g., object boundaries and edges, directly
+across the network. To demonstrate the usefulness of single-view height prediction, we show a practical
+example of instance segmentation of buildings using estimated height map. This paper, for the first
+time in the remote sensing community, attempts to estimate height from monocular vision. The proposed
+network is validated using a large-scale high resolution aerial image data set covered an area of
+Berlin. Both visual and quantitative analysis of the experimental results demonstrate the effectiveness
+of our approach. 

@@ -1,0 +1,16 @@
+The high luminosity upgrade of the CERN Large Hadron Collider (HL-LHC) will result in a pile-up of
+around 200 proton-proton collisions per bunch crossing. In order to reduce the impact of pile-up
+on physics analyses the ATLAS and CMS experiments are planning to use the timing of the reconstructed
+objects within one event. The primary proton-proton collisions have an RMS spread of $\approx$170
+ps within one bunch crossing, and a time resolution of around 30 ps is required for pile-up mitigation.
+This performance requires dedicated detectors for the timing of minimum ionising particles. The
+timing detectors will be subjected, for the goal integrated luminosity of 3000 fb$^{-1}$, to radiation
+levels corresponding to a 1-MeV neutrons fluence ($\Phi_{eq}$) of about $10^{14}$ or $10^{15}$
+cm$^{-2}$ for the barrel and end-cap detector regions, respectively. In this paper, deep diffused
+Avalanche Photo Diodes (APDs) are examined as candidate timing detectors for HL-LHC applications.
+Devices with an active area of $8 \times 8$ mm$^2$ are characterised using a pulsed infrared laser
+and, in some cases, a high energy muon beam. The timing performance as well as the uniformity of response
+are examined. The effects of radiation damage on current, signal amplitude, noise, and timing of
+the APDs are evaluated using detectors with an active area of $2 \times 2$ mm$^2$. These detectors
+were irradiated with neutrons up to $\Phi_{eq} = 10^{15}$ cm$^{-2}$. Their timing performance
+was characterised using a pulsed infrared laser. 

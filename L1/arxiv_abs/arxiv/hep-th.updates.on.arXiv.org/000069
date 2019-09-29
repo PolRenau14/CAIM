@@ -1,0 +1,16 @@
+Numerical studies of the reduced density matrix of a gapped spin-1/2 Heisenberg antiferromagnet
+on a two-leg ladder find that it has the same form as the Gibbs density matrix of a gapless spin-1/2
+Heisenberg antiferromagnetic chain at a finite temperature determined by the spin gap of the ladder.\cite{Poilblanc2010}
+We investigate this interesting result by considering a model of free fermions on a two-leg ladder
+(gapped by the inter-chain tunneling operator) and in spin systems on a ladder with a gapped ground
+state using exact solutions and several controlled approximations. We calculate the reduced density
+matrix and the entanglement entropy for a leg of the ladder (i.e. cut made between the chains). In
+the fermionic system we find the exact form of the reduced density matrix for one of the chains and
+determine the entanglement spectrum explicitly. In the case of the spin system, we consider the
+strong coupling limit by using perturbation theory and get the reduced density matrix by the Schmidt
+decomposition. The entanglement entropies of a general gapped system of two coupled conformal
+field theories (in 1+1 dimensions) is discussed using the replica trick and scaling arguments.
+We show that 1) for a system with a bulk gap the reduced density matrix has the form of a thermal density
+matrix, 2) the long-wavelength modes of one subsystem (a chain) are always thermal, 3) the von Neumann
+entropy equals to the thermodynamic entropy of one chain, and 4) the bulk gap plays the role of effective
+temperature. 

@@ -1,0 +1,16 @@
+The stability of nanoparticle suspensions is determined by a subtle interplay of particle-particle
+and particle-solvent interactions. Experimental studies of suspensions of calcite nanoparticles
+have reported formation of gels, hence providing evidence for adhesive interactions. Data obtained
+using extended calcite surfaces support the existence of repulsion between surfaces, which has
+been assigned to the presence of surface roughness. Here, we use the Derjaguin approximation to
+calculate the effective interactions between calcite nanoparticles as a function of their inter-particle
+separation and incorporating surface roughness effects. We combine an approach based on a Gaussian
+distribution of surface heights with surface-surface interactions obtained recently in flat
+surfaces using molecular simulations [G. Svaland and F. Bresme, $\textit{J. Phys. Chem. C}, \textbf{2018},
+\textit{122} (13), pp. 7321-7330$]. We show that roughness effects associated to a discrete distribution
+of heights, such as atomic steps or terraces in mineral surfaces, results in very different effective
+inter-colloidal potentials. Using Langevin computer simulations and the effective inter-particle
+potentials we demonstrate that roughness effects might influence significantly the phase behaviour
+of nanoparticle suspensions. Small roughnesses lead to the formation of gel structures, while
+stable dispersed suspensions are obtained when the root-mean-squared deviation (RMSD) of the
+surface roughness increases above a $\sim 0.25$ \r{A} threshold. 

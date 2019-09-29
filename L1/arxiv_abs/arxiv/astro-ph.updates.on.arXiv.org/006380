@@ -1,0 +1,16 @@
+I consider a Jovian planet on a highly eccentric orbit around its host star, a situation produced
+by secular interactions with its planetary or stellar companions. The tidal interactions at every
+periastron passage exchange energy between the orbit and the planet's degree-2 fundamental-mode.
+Starting from zero energy, the f-mode can diffusively grow to large amplitudes if its one-kick energy
+gain > 10^-5 of the orbital energy. This requires a pericentre distance of < 4 tidal radii (or 1.6 Roche
+radii). If the f-mode has a non-negligible initial energy, diffusive evolution can occur at a lower
+threshold. The first effect can stall the secular migration as the f-mode can absorb orbital energy
+and decouple the planet from its secular perturbers, parking all migrating jupiters safely outside
+the zone of tidal disruption. The second effect leads to rapid orbit circularization as it allows
+an excited f-mode to continuously absorb orbital energy as the orbit eccentricity decreases. So
+without any explicit dissipation, other than the fact that the f-mode will damp nonlinearly when
+its amplitude reaches unity, the planet can be transported from a few AU to ~ 0.2 AU in ~ 10^4 yrs. Such
+a rapid circularization is equivalent to a dissipation factor Q ~ 1, and it explains the observed
+deficit of super-eccentric Jovian planets. Lastly, the repeated f-mode breaking likely deposit
+energy and angular momentum in the outer envelope, and avoid thermally ablating the planet. Overall,
+this work boosts the case for forming hot Jupiters through high-eccentricity secular migration.

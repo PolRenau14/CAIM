@@ -1,0 +1,16 @@
+We study fluid-fluid equilibrium in the simplest model of ionic solutions where the solvent is explicitly
+included, i.e., a binary mixture consisting of a restricted primitive model (RPM) and neutral hard-spheres
+(RPM-HS mixture). First, using the collective variable method we find free energy, pressure and
+partial chemical potentials in the random phase approximation (RPA) for a rather general model
+that takes into consideration solvent-solvent and solvent-ion interactions beyond the hard core.
+In the special case of a RPM-HS mixture, we consider two regularizations of the Coulomb potential
+inside the hard core, i.e., the Weeks-Chandler-Andersen (WCA) regularization leading to the WCA
+approximation and the optimized regularization giving the optimized RPA (ORPA) or the mean spherical
+approximation (MSA). Furthermore, we calculate the phase coexistence using the associative mean
+spherical approximation (AMSA). In general, the three approximations produce qualitatively
+similar phase diagrams of the RPM-HS mixture, i.e., a fluid-fluid coexistence envelope with an
+upper critical solution point, a shift of the coexistence region towards higher total number densities
+and higher solvent concentrations with increasing pressure, and a small increase of the critical
+temperature with an increase of pressure. As for a pure RPM, the AMSA leads to the best agreement with
+the available simulation data when the association constant proposed by Olaussen and Stell is used.
+We also discuss the peculiarities of the phase diagrams in the WCA approximation. 

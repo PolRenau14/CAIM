@@ -1,0 +1,16 @@
+We present time resolved spectral analysis of prompt emission from GRB 160625B, one of the brightest
+bursts ever detected by Fermi in its nine years of operations. Standard empirical functions fail
+to provide an acceptable fit to the GBM spectral data, which instead require the addition of a low-energy
+break to the fitting function. We introduce a new fitting function, called 2SBPL, consisting of
+three smoothly connected power laws. Fitting this model to the data, the goodness of the fits significantly
+improves and the spectral parameters are well constrained. We also test a spectral model that combines
+non-thermal and thermal (black body) components, but find that the 2SBPL model is systematically
+favoured. The spectral evolution shows that the spectral break is located around $E_{\rm break}\sim$
+100 keV, while the usual $\nu F_{\nu}$ peak energy feature $E_{\rm peak}$ evolves in the 0.5-6 MeV
+energy range. The slopes below and above $E_{\rm break}$ are consistent with the values -0.67 and
+-1.5, respectively, expected from synchrotron emission produced by a relativistic electron population
+with a low energy cut-off. If $E_{\rm break}$ is interpreted as the synchrotron cooling frequency,
+the implied magnetic field in the emitting region is $\sim$ 10 Gauss, i.e. orders of magnitudes smaller
+than the value expected for a dissipation region located at $\sim 10^{13-14}$ cm from the central
+engine. The low ratio between $E_{\rm peak}$ and $E_{\rm break}$ implies that the radiative cooling
+is incomplete, contrary to what is expected in strongly magnetized and compact emitting regions.

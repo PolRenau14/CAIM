@@ -1,0 +1,16 @@
+We report the analysis of simultaneous XMM-Newton+NuSTAR observations of two low-luminosity
+Active Galactic Nuclei (LLAGN), NGC 3998 and NGC 4579. We do not detect any significant variability
+in either source over the ~3 day length of the NuSTAR observations. The broad-band 0.5-60 keV spectrum
+of NGC 3998 is best fit with a cutoff power-law, while the one for NGC 4579 is best fit with a combination
+of a hot thermal plasma model, a power-law, and a blend of Gaussians to fit an Fe complex observed between
+6 and 7 keV. Our main spectral results are the following: (1) neither source shows any reflection
+hump with a $3\sigma$ reflection fraction upper-limits $R<0.3$ and $R<0.18$ for NGC 3998 and NGC
+4579, respectively; (2) the 6-7 keV line complex in NGC 4579 could either be fit with a narrow Fe K line
+at 6.4 keV and a moderately broad Fe XXV line, or 3 relatively narrow lines, which includes contribution
+from Fe XXVI; (3) NGC 4579 flux is 60% brighter than previously detected with XMM-Newton, accompanied
+by a hardening in the spectrum; (4) we measure a cutoff energy $E_{\rm cut}=107_{-18}^{+27}$ keV
+in NGC 3998, which represents the lowest and best constrained high-energy cutoff ever measured
+for an LLAGN; (5) NGC 3998 spectrum is consistent with a Comptonization model with either a sphere
+($\tau\approx3\pm1$) or slab ($\tau\approx1.2\pm0.6$) geometry, corresponding to plasma temperatures
+between 40 and 150~keV. We discuss these results in the context of hard X-ray emission from bright
+AGN, other LLAGN, and hot accretion flow models. 

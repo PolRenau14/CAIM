@@ -1,0 +1,16 @@
+The intermittent nature of the renewable energies increases the operation costs of conventional
+generators. As the share of energy supplied by renewable sources increases, these costs also increase.
+In this paper, we quantify these costs by developing a market clearing price of energy in the presence
+of renewable energy and congestion constraints. We consider an electricity market where generators
+propose their asking price per unit of energy to an independent system operator (ISO). The ISO solve
+an optimization problem to dispatch energy from each generator to minimize the total cost of energy
+purchased on behalf of the consumers. To ensure that the generators are able to meet the load within
+a desired confidence level, we incorporate the notion of load variance using the Conditional Value-at-Risk
+(CVAR) measure in an electricity market and we derive the amount of committed power and market clearing
+price of energy as a function of CVAR. It is shown that a higher penetration of renewable energies
+may increase the committed power, market clearing price of energy and consumer cost of energy due
+to renewable generation uncertainties. We also obtain an upper-bound on the amount that congestion
+constraints can affect the committed power. We present descriptive simulations to illustrate
+the impact of renewable energy penetration and reliability levels on committed power by the non-renewable
+generators, difference between the dispatched and committed power, market price of energy and
+profit of renewable and non-renewable generators. 

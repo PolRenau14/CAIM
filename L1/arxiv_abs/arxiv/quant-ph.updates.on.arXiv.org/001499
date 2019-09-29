@@ -1,0 +1,16 @@
+We investigate both the quantum and classical dynamics of a non-Hermitian system via a kicked rotor
+model with $\mathcal{PT}$ symmetry. In non-Hermitian case, the classical trajectory is assumed
+to be complex. We find the normal diffusion for the real part of momentum and the exponentially-fast
+diffusion for the imaginary part of momentum. Due to the exponentially-fast increase of some trajectories,
+there is a threshold time for the breakdown of classical diffusion. Our theoretical prediction
+of such a threshold time is in good agreement with numerical results. The quantum signature of the
+chaotic diffusion of the complex trajectories is reflected by the dynamics of the out-of-time-order
+correlators (OTOC) in the semiclassical regime. We find that the growth of the OTOC exhibits a sharp
+transition to infinitely large at a critical time which exponentially increases with the increase
+of the threshold time of the classical diffusion. In the quantum regime, the OTOC increases in the
+power-law of time for which the growth rate may be an indicator of the $\mathcal{PT}$ symmetry breaking.
+For the quantum dynamics, both the mean momentum and mean square of momentum exhibits the staircase
+growth with time when the system parameter is in the neighborhood the $\mathcal{PT}$ symmetry breaking
+Correspondingly, the second moment saturates with time. If the system parameter is very larger
+than the $\mathcal{PT}$ symmetry breaking point, the acceleration mode results in the directed
+spreading of the wavepackets as well as the ballistic diffusion in momentum space. 

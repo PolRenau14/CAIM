@@ -1,0 +1,16 @@
+We consider a production line consisting of several machines in series separated by intermediate
+finite-capacity buffers. The line operates under an "echelon buffer" (EB) policy according to
+which each machine can store the parts that it produces in any of its downstream buffers if the next
+machine is occupied. If the capacities of all but the last buffer are zero, the EB policy is equivalent
+to CONWIP. To evaluate the performance of the line under the EB policy, we model it as a queueing network,
+and we develop a method that decomposes this network into as many nested segments as there are buffers
+and approximates each segment with a two-machine subsystem that can be analyzed in isolation. For
+the case where the machines have geometrically distributed processing times, we model each subsystem
+as a two-dimensional Markov chain that can be solved numerically. The parameters of the subsystems
+are determined by relationships among the flows of parts through the echelon buffers in the original
+system. An iterative algorithm is developed to solve these relationships. We use this method to
+evaluate the performance of several instances of 5- and 10-machine lines including cases where
+the EB policy is equivalent to CONWIP. Our numerical results show that this method is highly accurate
+and computationally efficient. We also compare the performance of the EB policy against the performance
+of the traditional "installation buffer" policy according to which each machine can store the parts
+that it produces only in its immediate downstream buffer if the next machine is occupied. 

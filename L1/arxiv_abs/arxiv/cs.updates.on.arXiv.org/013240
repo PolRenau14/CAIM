@@ -1,0 +1,16 @@
+We suggest ways to enforce given constraints in the output of a Generative Adversarial Network (GAN)
+generator both for interpolation and extrapolation (prediction). For the case of dynamical systems,
+given a time series, we wish to train GAN generators that can be used to predict trajectories starting
+from a given initial condition. In this setting, the constraints can be in algebraic and/or differential
+form. Even though we are predominantly interested in the case of extrapolation, we will see that
+the tasks of interpolation and extrapolation are related. However, they need to be treated differently.
+For the case of interpolation, the incorporation of constraints is built into the training of the
+GAN. The incorporation of the constraints respects the primary game-theoretic setup of a GAN so
+it can be combined with existing algorithms. However, it can exacerbate the problem of instability
+during training that is well-known for GANs. We suggest adding small noise to the constraints as
+a simple remedy that has performed well in our numerical experiments. The case of extrapolation
+(prediction) is more involved. During training, the GAN generator learns to interpolate a noisy
+version of the data and we enforce the constraints. This approach has connections with model reduction
+that we can utilize to improve the efficiency and accuracy of the training. Depending on the form
+of the constraints, we may enforce them also during prediction through a projection step. We provide
+examples of linear and nonlinear systems of differential equations to illustrate the various constructions.

@@ -1,0 +1,16 @@
+Galactic astrophysics is now in the process of building a multi-dimensional map of the Galaxy. For
+such a map, stellar ages are the essential ingredient. Ages are however measured only indirectly
+by comparing observational data with models. It is often difficult to provide a single age value
+for a given star, as several non-overlapping solutions are possible. We aim at recovering the underlying
+log(age) distribution from the measured log(age) probability density function for an arbitrary
+set of stars. We build an age inversion method, namely, we represent the measured log(age) probability
+density function as a weighted sum of probability density functions of mono-age populations. Weights
+in that sum give the underlying log(age) distribution. Mono-age populations are simulated so that
+the distribution of stars on the log g-[Fe/H] plane is close to that of the observed sample. We tested
+the age inversion method on simulated data, demonstrating that it is capable of properly recovering
+the true log(age) distribution for a large (N > 103) sample of stars. The method was further applied
+to large public spectroscopic surveys. For RAVE-on, LAMOST and APOGEE we also applied age inversion
+to mono-metallicity samples, successfully recovering age-metallicity trends present in higher-precision
+APOGEE data and chemical evolution models. We conclude that applying an age inversion method as
+presented in this work is necessary to recover the underlying age distribution of a large (N > 103
+) set of stars. These age distributions can be used to explore for instance age-metallicity relations.

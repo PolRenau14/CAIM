@@ -1,0 +1,16 @@
+Sources of X-rays such as active galactic nuclei and X-ray binaries are often variable by orders
+of magnitude in luminosity over timescales of years. During and after these flares the surrounding
+gas is out of chemical and thermal equilibrium. We introduce a new implementation of X-ray radiative
+transfer coupled to a time-dependent chemical network for use in 3D magnetohydrodynamical simulations.
+A static fractal molecular cloud is irradiated with X-rays of different intensity, and the chemical
+and thermal evolution of the cloud are studied. For a simulated $10^5$ M$_\odot$ fractal cloud an
+X-ray flux $<0.01$ erg cm$^{-2}$ s$^{-1}$ allows the cloud to remain molecular, whereas most of
+the CO and H$_2$ are destroyed for a flux of $>1$ erg cm$^{-2}$ s$^{-1}$. The effects of an X-ray flare,
+which suddenly increases the X-ray flux by $10^5 \times$ are then studied. A cloud exposed to a bright
+flare has 99% of its CO destroyed in 10-20 years, whereas it takes $>10^3$ years for 99% of the H$_2$
+to be destroyed. CO is primarily destroyed by locally generated far-UV emission from collisions
+between non-thermal electrons and H$_2$; He$^+$ only becomes an important destruction agent when
+the CO abundance is already very small. After the flare is over, CO re-forms and approaches its equilibrium
+abundance after $10^3-10^5$ years. This implies that molecular clouds close to Sgr A$^*$ in the
+Galactic Centre may still be out of chemical equilibrium, and we predict the existence of clouds
+near flaring X-ray sources in which CO has been mostly destroyed but H is fully molecular. 

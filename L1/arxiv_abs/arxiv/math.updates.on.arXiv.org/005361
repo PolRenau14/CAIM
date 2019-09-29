@@ -1,0 +1,16 @@
+In this paper we consider the number of Hamilton cycles in planar cubic graphs of high cyclic edge-connectivity,
+answering two questions raised by Chia and Thomassen ("On the number of longest and almost longest
+cycles in cubic graphs", Ars Combin., 104, 307--320, 2012) about extremal graphs in these families.
+In particular, we find families of cyclically $5$-edge connected planar cubic graphs with more
+Hamilton cycles than the generalized Petersen graphs $P(2n,2)$. The graphs themselves are fullerene
+graphs that correspond to certain carbon molecules known as nanotubes --- more precisely, the family
+consists of the zigzag nanotubes of (fixed) width $5$ and increasing length. In order to count the
+Hamilton cycles in the nanotubes, we develop methods inspired by the transfer matrices of statistical
+physics. We outline how these methods can be adapted to count the Hamilton cycles in nanotubes of
+greater (but still fixed) width, with the caveat that the resulting expressions involve matrix
+powers. We also consider cyclically $4$-edge-connected cubic planar graphs with few Hamilton
+cycles, and exhibit an infinite family of such graphs each with exactly $4$ Hamilton cycles. Finally
+we consider the "other extreme" for these two classes of graphs, thus investigating cyclically
+$4$-edge connected cubic planar graphs with many Hamilton cycles and the cyclically $5$-edge connected
+cubic planar graphs with few Hamilton cycles. In each of these cases, we present partial results,
+examples and conjectures regarding the graphs with few or many Hamilton cycles. 

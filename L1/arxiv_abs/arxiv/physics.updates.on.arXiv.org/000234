@@ -1,0 +1,17 @@
+Time-implicit schemes are attractive since they allow numerical time steps that are much larger
+than those permitted by the Courant-Friedrich-Lewy criterion characterizing time-explicit
+methods. This advantage comes, however, with a cost: the solution of a system of nonlinear equations
+is required at each time step. In this work, the nonlinear system results from the discretization
+of the hydrodynamical equations with the Crank-Nicholson scheme. We compare the cost of different
+methods, based on Newton-Raphson iterations, to solve this nonlinear system, and benchmark their
+performances against time-explicit schemes. Since our general scientific objective is to model
+stellar interiors, we use as test cases two realistic models for the convective envelope of a red
+giant and a young Sun. Focusing on 2D simulations, we show that the best performances are obtained
+with the quasi-Newton method proposed by Broyden. Another important concern is the accuracy of
+implicit calculations. Based on the study of an idealized problem, namely the advection of a single
+vortex by a uniform flow, we show that there are two aspects: i) the nonlinear solver has to be accurate
+enough to resolve the truncation error of the numerical discretization, and ii) the time step has
+be small enough to resolve the advection of eddies. We show that with these two conditions fulfilled,
+our implicit methods exhibit similar accuracy to time-explicit schemes, which have lower values
+for the time step and higher computational costs. Finally, we discuss in the conclusion the applicability
+of these methods to fully implicit 3D calculations. 

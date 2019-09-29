@@ -1,0 +1,16 @@
+Partial differential equations are central to describing many physical phenomena. In many applications
+these phenomena are observed through a sensor network, with the aim of inferring their underlying
+properties. Leveraging from certain results in sampling and approximation theory, we present
+a new framework for solving a class of inverse source problems for physical fields governed by linear
+partial differential equations. Specifically, we demonstrate that the unknown field sources
+can be recovered from a sequence of, so called, generalised measurements by using multidimensional
+frequency estimation techniques. Next we show that---for physics-driven fields---this sequence
+of generalised measurements can be estimated by computing a linear weighted-sum of the sensor measurements;
+whereby the exact weights (of the sums) correspond to those that reproduce multidimensional exponentials,
+when used to linearly combine translates of a particular prototype function related to the Green's
+function of our underlying field. Explicit formulae are then derived for the sequence of weights,
+that map sensor samples to the exact sequence of generalised measurements when the Green's function
+satisfies the generalised Strang-Fix condition. Otherwise, the same mapping yields a close approximation
+of the generalised measurements. Based on this new framework we develop practical, noise robust,
+sensor network strategies for solving the inverse source problem, and then present numerical simulation
+results to verify their performance. 

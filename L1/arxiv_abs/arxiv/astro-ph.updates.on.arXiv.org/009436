@@ -1,0 +1,17 @@
+We study the source-subtracted near-infrared and X-ray background fluctuations of the COSMOS
+field using data from the Spitzer SPLASH program ($\sim$1272 hours) and Chandra COSMOS Legacy Survey
+(4.6 Ms). The new auto power spectra of the cosmic infrared and X-ray background fluctuations reach
+maximum angular scales of $\sim$ 3000$''$ and $\sim$ 5000$''$, respectively. We measure the cross
+power spectra between each infrared and X-ray band and calculate the mean power above 20$''$. We
+find that the soft X-ray band is correlated with 3.6 and 4.5$\mu$m at $\sim$ 4 $\sigma$ significance
+level. The significance between hard X-ray and the 3.6$\mu$m (4.5$\mu$m) band is $\sim$2.2 $\sigma$
+($\sim$3.8$\sigma$). The combined infrared (3.6 + 4.5$\mu$m) data are correlated with the X-ray
+data in soft ([0.5-2] keV), hard ([2-7] keV) and broad ([0.5-7] keV) bands at $\sim$5.6$\sigma$,
+$\sim$4.4$\sigma$ and $\sim$6.6$\sigma$ level, respectively. We compare the new measurements
+with existing models for the contributions from known populations at $z$$<$7, which are not subtracted.
+The model predictions are consistent with the measurements but we cannot rule out contributions
+from other components, such as Direct Collapse Black Holes (DCBH). However, the stacked cross-power
+spectra, combining other available data, show excess fluctuations about an order of magnitude
+on average at $\sim$4$\sigma$ confidence at scales within $\sim$300$''$. By studying the X-ray
+SED of the cross-power signal, assuming no significant variation from the infrared, we find that
+its shape is consistent with DCBHs. 

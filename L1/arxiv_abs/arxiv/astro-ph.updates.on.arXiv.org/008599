@@ -1,0 +1,16 @@
+In this work we present a set of synthetic observations that mimic the properties of the Integral
+Field Spectroscopy (IFS) survey CALIFA, generated using radiative transfer techniques applied
+to hydrodynamical simulations of galaxies in a cosmological context. The simulated spatially-resolved
+spectra include stellar and nebular emission, kinematic broadening of the lines, and dust extinction
+and scattering. The results of the radiative transfer simulations have been post-processed to
+reproduce the main properties of the CALIFA V500 and V1200 observational setups. The data has been
+further formatted to mimic the CALIFA survey in terms of field of view size, spectral range and sampling.
+We have included the effect of the spatial and spectral Point Spread Functions affecting CALIFA
+observations, and added detector noise after characterizing it on a sample of 20 galaxies. The simulated
+datacubes are suited to be analyzed by the same algorithms used on real IFS data. In order to provide
+a benchmark to compare the results obtained applying IFS observational techniques to our synthetic
+datacubes, and test the calibration and accuracy of the analysis tools, we have computed the spatially-resolved
+properties of the simulations. Hence, we provide maps derived directly from the hydrodynamical
+snapshots or the noiseless spectra, in a way that is consistent with the values recovered by the observational
+analysis algorithms. Both the synthetic observations and the product datacubes are public and
+can be found in the collaboration website this http URL 

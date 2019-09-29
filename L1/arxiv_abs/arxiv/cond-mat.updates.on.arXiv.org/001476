@@ -1,0 +1,16 @@
+Motivated by the close analogy with the fractional quantum Hall states (FQHSs), fractional Chern
+insulators (FCIs) are envisioned as strongly correlated, incompressible states emerging in a
+fractionally filled, (nearly) flat band with non-trivial Chern number. Built upon this vision,
+fractional topological insulators (FTIs) have been proposed as being composed of two independent
+copies of the FCI with opposite Chern numbers for different spins, preserving the time-reversal
+symmetry as a whole. An important question is if the correlation between electrons with different
+spins can be really ignored. To address this question, we investigate the effects of correlation
+in the presence of spin-dependent holomorphicity, i.e., electrons of one spin species reside in
+the holomorphic lowest Landau level, while those of the other in the antiholomorphic counterpart.
+By constructing and performing exact diagonalization of an appropriate model Hamiltonian, here,
+we show that generic, strongly correlated, fractionally filled states with spin-dependent holomorphicity
+cannot be described as two independent copies of the FQHS, suggesting that FTIs in the lattice cannot
+be described as those of the FCI either. Fractionally filled states in this system are generally
+compressible except at half filling, where an insulating state called the half-filled spin-holomorphic
+FTI occurs. It is predicted that the half-filled spin-holomorphic FTI is susceptible to an inherent
+spontaneous symmetry breaking, leading to the spatial separation of spins. 

@@ -1,0 +1,17 @@
+The Internet of things (IoT) comprises of wireless sensors and actuators connected via access points
+to the Internet. Often, the sensing devices are remotely deployed with limited battery power and
+are equipped with energy harvesting equipment. These devices transmit real-time data to the base
+station (BS), which is used in applications such as anomaly detection. Under sufficient power availability,
+wireless transmissions from sensors can be scheduled at regular time intervals to maintain real-time
+data acquisition. However, once the battery is significantly depleted, the devices enter into
+power saving mode and need to be more selective in transmitting information to the BS. Transmitting
+a particular piece of sensed data consumes power while discarding it may result in loss of utility
+at the BS. The goal is to design an optimal dynamic policy which enables the device to decide whether
+to transmit or to discard a piece of sensing data particularly under the power saving mode. This will
+enable the sensor to prolong its operation while causing minimum loss of utility to the application.
+We develop an analytical framework to capture the utility of the IoT sensor transmissions and leverage
+dynamic programming based approach to derive an optimal real-time transmission policy that is
+based on the statistics of information arrival, the likelihood of harvested energy, and designed
+lifetime of the sensors. Numerical results show that if the statistics of future data valuation
+are accurately predicted, there is a significant increase in utility obtained at the BS as well as
+the battery lifetime. 

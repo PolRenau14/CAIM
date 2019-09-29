@@ -1,0 +1,16 @@
+Let $G$ be a connected algebraic group. An unrefinable chain of $G$ is a chain of subgroups $G = G_0
+> G_1 > \cdots > G_t = 1$, where each $G_i$ is a maximal connected subgroup of $G_{i-1}$. We introduce
+the notion of the length (respectively, depth) of $G$, defined as the maximal (respectively, minimal)
+length of such a chain. Working over an algebraically closed field, we calculate the length of a connected
+group $G$ in terms of the dimension of its unipotent radical $R_u(G)$ and the dimension of a Borel
+subgroup $B$ of the reductive quotient $G/R_u(G)$. In particular, a simple algebraic group of rank
+$r$ has length $\dim B + r$, which gives a natural extension of a theorem of Solomon and Turull on finite
+quasisimple groups of Lie type. We then deduce that the length of any connected algebraic group $G$
+exceeds $\frac{1}{2} \dim G$. We also study the depth of simple algebraic groups. In characteristic
+zero, we show that the depth of such a group is at most $6$ (this bound is sharp). In the positive characteristic
+setting, we calculate the exact depth of each exceptional algebraic group and we prove that the depth
+of a classical group (over a fixed algebraically closed field of positive characteristic) tends
+to infinity with the rank of the group. Finally we study the chain difference of an algebraic group,
+which is the difference between its length and its depth. In particular we prove that, for any connected
+algebraic group $G$, the dimension of $G/R(G)$ is bounded above in terms of the chain difference
+of $G$. 

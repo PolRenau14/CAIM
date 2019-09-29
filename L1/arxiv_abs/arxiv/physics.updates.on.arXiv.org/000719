@@ -1,0 +1,16 @@
+We describe how the semiclassical theory of radical pair recombination reactions recently introduced
+by two of us [D. E. Manolopoulos and P. J. Hore, J. Chem. Phys. 139, 124106 (2013)] can be generalised
+to allow for different singlet and triplet recombination rates. This is a non-trivial generalisation
+because when the recombination rates are different the recombination process is dynamically coupled
+to the coherent electron spin dynamics of the radical pair. Furthermore, because the recombination
+operator is a two-electron operator, it is no longer sufficient simply to consider the two electrons
+as classical vectors: one has to consider the complete set of 16 two-electron spin operators as independent
+classical variables. The resulting semiclassical theory is first validated by comparison with
+exact quantum mechanical results for a model radical pair containing 12 nuclear spins. It is then
+used to shed light on the spin dynamics of a carotenoid-porphyrin-fullerene (CPF) triad containing
+considerably more nuclear spins which has recently been used to establish a 'proof of principle'
+for the operation of a chemical compass [K. Maeda et al., Nature 453, 387 (2008)]. We find in particular
+that the intriguing biphasic behaviour that has been observed in the effect of an Earth-strength
+magnetic field on the time-dependent survival probability of the photo-excited C+PF- radical
+pair arises from a delicate balance between its asymmetric recombination and the relaxation of
+the electron spin in the carotenoid radical. 

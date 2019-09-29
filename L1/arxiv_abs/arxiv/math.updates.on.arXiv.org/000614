@@ -1,0 +1,16 @@
+Many recent block ciphers use Maximum Distance Separable (MDS) matrices in their diffusion layer.
+The main objective of this operation is to spread as much as possible the differences between the
+outputs of nonlinear Sboxes. So they generally act at nibble or at byte level. The MDS matrices are
+associated to MDS codes of ratio 1/2. The most famous example is the MixColumns operation of the AES
+block cipher. In this example, the MDS matrix was carefully chosen to obtain compact and efficient
+implementations. However, this MDS matrix is dedicated to 8-bit words, and is not always adapted
+to lightweight applications. Recently, several studies have been devoted to the construction
+of recursive diffusion layers. Such a method allows to apply an MDS matrix using an iterative process
+which looks like a Feistel network with linear functions instead of nonlinear. Our approach is quite
+different. We present a generic construction of classical MDS matrices that are not recursively
+computed, but that are strong symmetric in order to either accelerate their evaluation with a minimal
+number of look-up tables, or to perform this evaluation with a minimal number of gates in a circuit.
+We call this particular kind of matrices "dyadic matrices", since they are related to dyadic codes.
+We study some basic properties of such matrices. We introduce a generic construction of involutive
+dyadic MDS matrices from Reed Solomon codes. Finally, we discuss the implementation aspects of
+these dyadic MDS matrices in order to build efficient block ciphers. 

@@ -1,0 +1,16 @@
+A large-scale content-centric mobile ad hoc network employing subpacketization is studied in
+which each mobile node having finite-size cache moves according to the reshuffling mobility model
+and requests a content object from the library independently at random according to the Zipf popularity
+distribution. Instead of assuming that one content object is transferred in a single time slot,
+we consider a more challenging scenario where the size of each content object is considerably large
+and thus only a subpacket of a file can be delivered during one time slot, which is motivated by a fast
+mobility scenario. Under our mobility model, we consider a single-hop-based content delivery
+and characterize the fundamental trade-offs between throughput and delay. The order-optimal
+throughput-delay trade-off is analyzed by presenting the following two content reception strategies:
+the sequential reception for uncoded caching and the random reception for maximum distance separable
+(MDS)-coded caching. We also perform numerical evaluation to validate our analytical results.
+In particular, we conduct performance comparisons between the uncoded caching and the MDS-coded
+caching strategies by identifying the regimes in which the performance difference between the
+two caching strategies becomes prominent with respect to system parameters such as the Zipf exponent
+and the number of subpackets. In addition, we extend our study to the random walk mobility scenario
+and show that our main results are essentially the same as those in the reshuffling mobility model.

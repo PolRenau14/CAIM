@@ -1,0 +1,17 @@
+Symmetry principles play a critical role in formulating the fundamental laws of nature$^{1}$,
+with a large number of symmetry-protected topological states identified in recent studies of quantum
+materials$^{2,3}$. As compelling examples, massless Dirac fermions are jointly protected by
+the space inversion symmetry $P$ and time reversal symmetry $T$ supplemented by additional crystalline
+symmetry$^{4-8}$, while evolving into Weyl fermions when either $P$ or $T$ is broken$^{4,9-11}$.
+Strikingly, such massless Dirac fermions are expected to survive when each of the $P$ and $T$ symmetries
+is individually broken but the combined $PT$ symmetry is preserved$^{12}$. To date, this conceptually
+intriguing prediction remains to be experimentally validated. Here, based on angle-resolved
+photoemission spectroscopy (ARPES) aided by first-principles calculations, we present the first
+experimental observation of massless Dirac fermions in a layered FeSn crystal containing antiferromagnetically
+coupled ferromagnetic Fe kagome layers. In this system, each of the $P$ and $T$ symmetries is individually
+broken, but the stable Dirac points are protected by the combined $PT$ symmetry with additional
+non-symmorphic $S_{2z}$ symmetry. We further demonstrate that by breaking the $PT$ or $S_{2z}$
+symmetry, we can transform the massless Dirac fermions into massless Weyl or massive Dirac fermions.
+The present study substantially enriches our fundamental understanding of the intricate connections
+between symmetries and topologies of matter, especially with the spin degree of freedom playing
+a vital role. 

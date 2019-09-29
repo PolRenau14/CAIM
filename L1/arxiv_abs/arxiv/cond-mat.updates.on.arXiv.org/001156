@@ -1,0 +1,16 @@
+Recent theoretical work has established the presence of hidden spin and orbital textures in non-magnetic
+materials with inversion symmetry. Here, we propose that these textures can be detected by nuclear
+magnetic resonance (NMR) measurements carried out in the presence of an electric field. In crystals
+with hidden polarizations, a uniform electric field produces a staggered magnetic field that points
+to opposite directions at atomic sites related by spatial inversion. As a result, the NMR resonance
+peak corresponding to inversion partner nuclei is split into two peaks. The magnitude of the splitting
+is proportional to the electric field and depends on the orientation of the electric field with respect
+to the crystallographic axes and the external magnetic field. As a case study, we present a theory
+of electric-field-induced splitting of NMR peaks for $^{77}$Se, $^{125}$Te and $^{209}$Bi in
+Bi$_2$Se$_3$ and Bi$_2$Te$_3$. In conducting samples with current densities of $\simeq 10^6\,
+{\rm A/cm}^2$, the splitting for Bi can reach $100\, {\rm kHz}$, which is comparable to or larger
+than the intrinsic width of the NMR lines. In order to observe the effect experimentally, the peak
+splitting must also exceed the linewidth produced by the Oersted field. In Bi$_2$Se$_3$, this requires
+narrow wires of radius $\lesssim 1\, \mu{\rm m}$. We also discuss other potentially more promising
+candidate materials, such as SrRuO$_3$ and BaIr$_2$Ge$_2$, whose crystal symmetry enables strategies
+to suppress the linewidth produced by the Oersted field. 

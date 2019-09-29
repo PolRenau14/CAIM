@@ -1,0 +1,17 @@
+In this work an activator-depleted reaction-diffusion system is investigated on polar coordinates
+with the aim of exploring the relationship and the corresponding influence of domain size on the
+types of possible diffusion-driven instabilities. Quantitative relationships are found in the
+form of necessary conditions on the area of a disk-shape domain with respect to the diffusion and
+reaction rates for certain types of diffusion-driven instabilities to occur. Robust analytical
+methods are applied to find explicit expressions for the eigenvalues and eigenfunctions of the
+diffusion operator on a disk-shape domain with homogenous Neumann boundary conditions in polar
+coordinates. Spectral methods are applied using chebyshev non-periodic grid for the radial variable
+and Fourier periodic grid on the angular variable to verify the nodal lines and eigen-surfaces subject
+to the proposed analytical findings. The full classification of the parameter space in light of
+the bifurcation analysis is obtained and numerically verified by finding the solutions of the partitioning
+curves inducing such a classification. Furthermore, analytical results are found relating the
+area of (disk-shape) domain with reaction-diffusion rates in the form of necessary conditions
+for the different types of bifurcations. These results are on one hand presented in the form of mathematical
+theorems with rigorous proofs, and, on the other hand using finite element method, each claim of
+the corresponding theorems are verified by obtaining the theoretically predicted behaviour of
+the dynamics in the numerical simulations. 

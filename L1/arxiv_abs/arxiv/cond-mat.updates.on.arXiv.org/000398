@@ -1,0 +1,16 @@
+In this paper a second-order homogenization approach for periodic material is derived from an appropriate
+representation of the down-scaling that correlates the microdisplacement field to the macro-displacement
+field and the macro-strain tensors involving unknown perturbation functions. These functions
+take into account of the effects of the heterogeneities and are obtained by the solution of properly
+defined recursive cell problems. Moreover, the perturbation functions and therefore the micro-displacement
+fields result to be sufficiently regular to guarantee the anti-periodicity of the traction on the
+periodic unit cell. A generalization of the macro-homogeneity condition is obtained through an
+asymptotic expansion of the mean strain energy at the micro-scale in terms of the microstructural
+characteristic size e; the obtained overall elastic moduli result to be not affected by the choice
+of periodic cell. The coupling between the macro- and microstress tensor in the periodic cell is
+deduced from an application of the generalised macrohomogeneity condition applied to a representative
+portion of the heterogeneous material (cluster of periodic cell). The correlation between the
+proposed asymptotic homogenization approach and the computational second-order homogenization
+methods is obtained through an approximation of the macrodisplacement field based on a second-order
+Taylor expansion. The form of the overall elastic moduli obtained through the two homogenization
+approaches, here proposed, is analyzed and the differences are highlighted. 

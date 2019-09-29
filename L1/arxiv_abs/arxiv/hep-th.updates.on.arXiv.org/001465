@@ -1,0 +1,16 @@
+We study the general time dependence of complexity for holographic states dual to Lovelock black
+holes using the ``Complexity=Action" (CA) proposal. We observe that at early times, the critical
+time at which the complexity begins to increase is a decreasing function of the higher order coupling
+constants, which implies that the complexity evolves faster than that of Schwarzschild black holes.
+At late times, the rate of change of complexity is essentially determined by the generalised Gibbons-Hawking-York
+boundary term evaluated at the future singularity. In particular, its ratio to black hole mass is
+a characteristic constant, independent of the higher order couplings. Thus, in the vanishing coupling
+limit, the result in general does not reduce to that of Schwarzschild black holes, in spite of that
+the metric reduces to the latter as well as the gravitational action. In fact, the two differ by a constant
+during the whole time evolution. Including the next-to-leading order term around late times, we
+find that as the Einstein case, the late time limit is always approached from above, thus violating
+any conjectured upper bound given by the late time result. For charged Lovelock black holes, we find
+that with sufficient charge, the complexity roughly behaves the same as the Einstein case. However,
+for smaller charges, the two have some significant differences. In particular, unlike the Einstein
+case, in the uncharged limit the complexity growth rate does not match with the neutral case, differing
+by a constant in the whole time evolution. 

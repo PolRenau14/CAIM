@@ -1,0 +1,17 @@
+We evaluate the impact of one-loop electroweak corrections to the spin-independent dark matter
+(DM) scattering cross-section with nucleons ($\sigma_{\rm SI}$), in models with a so-called blind
+spot for direct detection, where the leading-order prediction for the relevant DM coupling to the
+Higgs boson, and therefore $\sigma_{\rm SI}$, are vanishingly small. Adopting a simple illustrative
+scenario in which the DM state results from the mixing of electroweak singlet and doublet fermions,
+we compute the relevant higher order corrections to the scalar effective operator contributions
+to $\sigma_{\rm SI}$, stemming from both triangle and box diagrams involving the SM and dark sector
+fields. It is observed that in a significant region of the singlet-doublet model-space, the one-loop
+corrections ``unblind'' the tree-level blind spots and lead to detectable SI scattering rates
+at future multi-ton scale liquid Xenon experiments, with $\sigma_{\rm SI}$ reaching values up
+to a few times $10^{-47} {~\rm cm}^2$, for a weak scale DM with $\mathcal{O}(1)$ Yukawa couplings.
+Furthermore, we find that there always exists a new SI blind spot at the next-to-leading order, which
+is perturbatively shifted from the leading order one in the singlet-doublet mass parameters. For
+comparison, we also present the tree-level spin-dependent scattering cross-sections near the
+SI blind-spot region, that could lead to a larger signal. Our results can be mapped to the blind-spot
+scenario for bino-Higgsino DM in the MSSM, with other sfermions, the heavier Higgs boson, and the
+wino decoupled. 

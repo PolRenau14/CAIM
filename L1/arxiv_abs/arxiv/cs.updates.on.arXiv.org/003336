@@ -1,0 +1,16 @@
+Machine learning models are increasingly made available to the masses through public query interfaces.
+Recent academic work has demonstrated that malicious users who can query such models are able to
+infer sensitive information about records within the training data. Differential privacy can
+thwart such attacks, but not all models can be readily trained to achieve this guarantee or to achieve
+it with acceptable utility loss. As a result, if a model is trained without differential privacy
+guarantee, little is known or can be said about the privacy risk of releasing it. In this work, we investigate
+and analyze membership attacks to understand why and how they succeed. Based on this understanding,
+we propose Differential Training Privacy (DTP), an empirical metric to estimate the privacy risk
+of publishing a classier when methods such as differential privacy cannot be applied. DTP is a measure
+of a classier with respect to its training dataset, and we show that calculating DTP is efficient
+in many practical cases. We empirically validate DTP using state-of-the-art machine learning
+models such as neural networks trained on real-world datasets. Our results show that DTP is highly
+predictive of the success of membership attacks and therefore reducing DTP also reduces the privacy
+risk. We advocate for DTP to be used as part of the decision-making process when considering publishing
+a classifier. To this end, we also suggest adopting the DTP-1 hypothesis: if a classifier has a DTP
+value above 1, it should not be published. 

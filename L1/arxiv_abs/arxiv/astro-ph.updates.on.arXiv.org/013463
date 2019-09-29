@@ -1,0 +1,16 @@
+The source X 1822-371 is an eclipsing compact binary system with a period close to 5.57 hr and an orbital
+period derivative $\dot{P}_{\rm orb}$ of 1.51(7)$\times 10^{-10}$ s s$^{-1}$. The very large
+value of $\dot{P}_{\rm orb}$ is compatible with a super-Eddington mass transfer rate from the companion
+star, as suggested by X-ray and optical data. The XMM-Newton observation taken in 2017 allows us
+to update the orbital ephemeris and verify whether the orbital period derivative has been stable
+over the last 40 yr. We added to the X-ray eclipse arrival times from 1977 to 2008 two new values obtained
+from the RXTE and XMM-Newton observations performed in 2011 and 2017, respectively. We estimated
+the number of orbital cycles and the delays of our eclipse arrival times spanning 40 yr using as reference
+time the eclipse arrival time obtained from the Rossi-XTE observation taken in 1996. Fitting the
+delays with a quadratic model, we found an orbital period $P_{\rm orb}=5.57062957(20)$ hr and a
+$\dot{P}_{\rm orb}$ value of $1.475(54) \times 10^{-10}$ s s$^{-1}$. The addition of a cubic term
+to the model does not significantly improve the quality of the fit. We also determined a spin-period
+value of $P_{\rm spin}=0.5915669(4)$ s and its first derivative $\dot{P}_{\rm spin}= -2.595(11)
+\times 10^{-12}$ s s$^{-1}$. The obtained results confirm the scenario of a super-Eddington mass
+transfer rate; we also exclude a gravitational coupling between the orbit and the change in the oblateness
+of the companion star triggered by the nuclear luminosity of the companion star. 

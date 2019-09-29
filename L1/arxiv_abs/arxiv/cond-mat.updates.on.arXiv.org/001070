@@ -1,0 +1,16 @@
+Isolated quantum many-body systems with integrable dynamics do not thermalize starting from generic
+initial states. As one perturbs such systems away from the integrable point, thermalization sets
+in, but the nature of the crossover from integrable to thermalizing behavior is an unresolved and
+actively discussed question. We explore this question using a dipolar quantum Newton's cradle
+consisting of highly magnetic dysprosium atoms. The magnetic dipole-dipole interaction provides
+tunability of both the strength of the integrability-breaking perturbation and the nature of the
+near-integrable dynamics. We find that the momentum distribution of the atoms has two evolution
+regimes: fast dephasing followed by near-exponential thermalization. We do not observe the intermediate-time
+prethermal "plateaux" that have been numerically detected when perturbing a noninteracting system.
+Ab initio simulations on a dipolar lattice model yield a similar two-timescale decay, suggesting
+that the absence of prethermalization plateaux and the two-timescale decay are generic properties
+of strongly interacting near-integrable models. Moreover, the measured thermalization rate
+is consistent with a parameter-free theoretical estimate, based on identifying the types of collisions
+that dominate thermalization. By providing tunability between regimes of integrable and quantum
+chaotic dynamics, our work sheds light both on the mechanisms by which isolated quantum many-body
+systems thermalize, and on the temporal structure of the onset of thermalization. 

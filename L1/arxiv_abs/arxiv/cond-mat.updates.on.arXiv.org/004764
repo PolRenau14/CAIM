@@ -1,0 +1,16 @@
+Leakage currents through insulators received continuous attention for decades, owing to their
+importance for a wide range of technologies, and interest in their fundamental mechanisms. This
+work investigates the leakage currents through atomic layer deposited (ALD) $Al_2O_3$, grown
+on $SrTiO_3$. This combination is not only a key building block of oxide electronics, but also a clean
+system for studying the leakage mechanisms without interfacial layers that form on most of the conventional
+bottom electrodes. We show how tiny differences in the deposition process can have a dramatic effect
+on the leakage behavior. Detailed analysis of the leakage behavior rules out Fowler-Nordheim tunneling
+(FNT) and thermionic emission, and leaves the trap-related mechanisms of trap-assisted tunneling
+(TAT) and Poole-Frenkel as the likely mechanisms. After annealing the sample in air, the currents
+are reduced, which is ascribed to transition from trap-based mechanism to FNT, due to the elimination
+of the traps. The dramatic role of the assumptions regarding the flat-band voltage used for analysis
+is critically discussed, and the sensitivity of the extracted parameters on this magnitude is quantitatively
+described. We show that field effect devices based on structures similar to those described here,
+should be able to modulate $>10^{13} cm^{-2}$ electrons. These results provide general guidelines
+for reducing and analyzing leakage currents in insulators, and highlight some of the possible approaches
+and pitfalls in their analysis. 

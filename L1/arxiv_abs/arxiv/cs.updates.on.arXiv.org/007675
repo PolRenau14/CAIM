@@ -1,0 +1,17 @@
+We address the problem of phase retrieval (PR) from quantized measurements. The goal is to reconstruct
+a signal from quadratic measurements encoded with a finite precision, which is indeed the case in
+many practical applications. We develop a rank-1 projection algorithm that recovers the signal
+subject to ensuring consistency with the measurement, that is, the recovered signal when encoded
+must yield the same set of measurements that one started with. The rank-1 projection stems from the
+idea of lifting, originally proposed in the context of PhaseLift. The consistency criterion is
+enforced using a one-sided quadratic cost. We also determine the probability with which different
+vectors lead to the same set of quantized measurements, which makes it impossible to resolve them.
+Naturally, this probability depends on how correlated such vectors are, and how coarsely/finely
+the measurements get quantized. The proposed algorithm is also capable of incorporating a sparsity
+constraint on the signal. An analysis of the cost function reveals that it is bounded, both above
+and below, by functions that are dependent on how well correlated the estimate is with the ground
+truth. We also derive the Cram\'er-Rao lower bound (CRB) on the achievable reconstruction accuracy.
+A comparison with the state-of-the- art algorithms shows that the proposed algorithm has a higher
+reconstruction accuracy and is about 2 to 3 dB away from the CRB. The edge, in terms of the reconstruction
+signal-to-noise ratio, over the competing algorithms is higher (about 5 to 6 dB) when the quantization
+is coarse. 

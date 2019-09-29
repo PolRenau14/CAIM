@@ -1,0 +1,16 @@
+Unit commitment and load dispatch problems are important and complex problems in power system operations
+that have being traditionally solved separately. In this paper, both problems are solved together
+without approximations or simplifications. In fact, the problem solved has a massive amount of
+grid-connected photovoltaic units, four pump-storage hydro plants as energy storage units and
+ten thermal power plants, each with its own set of operation requirements that need to be satisfied.
+To face such a complex constrained optimization problem an adaptive repair method is proposed.
+By including a given repair method itself as a parameter to be optimized, the proposed adaptive repair
+method avoid any bias in repair choices. Moreover, this results in a repair method that adapt to the
+problem and will improve together with the solution during optimization. Experiments are conducted
+revealing that the proposed method is capable of surpassing exact method solutions on a simplified
+version of the problem with approximations as well as solve the otherwise intractable complete
+problem without simplifications. Moreover, since the proposed approach can be applied to other
+problems in general and it may not be obvious how to choose the constraint handling for a certain constraint,
+a guideline is provided explaining the reasoning behind. Thus, this paper open further possibilities
+to deal with the ever changing types of generation units and other similarly complex operation/schedule
+optimization problems with many difficult constraints. 

@@ -1,0 +1,17 @@
+In this paper we provide an overview of a new framework for robot perception, real-world modelling,
+and navigation that uses a stochastic tesselated representation of spatial information called
+the Occupancy Grid. The Occupancy Grid is a multi-dimensional random field model that maintains
+probabilistic estimates of the occupancy state of each cell in a spatial lattice. Bayesian estimation
+mechanisms employing stochastic sensor models allow incremental updating of the Occupancy Grid
+using multi-view, multi-sensor data, composition of multiple maps, decision-making, and incorporation
+of robot and sensor position uncertainty. We present the underlying stochastic formulation of
+the Occupancy Grid framework, and discuss its application to a variety of robotic tusks. These include
+range-based mapping, multi-sensor integration, path-planning and obstacle avoidance, handling
+of robot position uncertainty, incorporation of pre-compiled maps, recovery of geometric representations,
+and other related problems. The experimental results show that the Occupancy Grid approach generates
+dense world models, is robust under sensor uncertainty and errors, and allows explicit handling
+of uncertainty. It supports the development of robust and agile sensor interpretation methods,
+incremental discovery procedures, and composition of information from multiple sources. Furthermore,
+the results illustrate that robotic tasks can be addressed through operations performed di- rectly
+on the Occupancy Grid, and that these operations have strong parallels to operations performed
+in the image processing domain. 

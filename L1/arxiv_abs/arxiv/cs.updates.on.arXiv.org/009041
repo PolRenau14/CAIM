@@ -1,0 +1,16 @@
+Recommender systems often operate on item catalogs clustered by genres, and user bases that have
+natural clusterings into user types by demographic or psychographic attributes. Prior work on
+system-wide diversity has mainly focused on defining intent-aware metrics among such categories
+and maximizing relevance of the resulting recommendations, but has not combined the notions of
+diversity from the two point of views of items and users. In this work, (1) we introduce two new system-wide
+diversity metrics to simultaneously address the problems of diversifying the categories of items
+that each user sees, diversifying the types of users that each item is shown, and maintaining high
+recommendation quality. We model this as a subgraph selection problem on the bipartite graph of
+candidate recommendations between users and items. (2) In the case of disjoint item categories
+and user types, we show that the resulting problems can be solved exactly in polynomial time, by a
+reduction to a minimum cost flow problem. (3) In the case of non-disjoint categories and user types,
+we prove NP-completeness of the objective and present efficient approximation algorithms using
+the submodularity of the objective. (4) Finally, we validate the effectiveness of our algorithms
+on the MovieLens-1m and Netflix datasets, and show that algorithms designed for our objective also
+perform well on sales diversity metrics, and even some intent-aware diversity metrics. Our experimental
+results justify the validity of our new composite diversity metrics. 

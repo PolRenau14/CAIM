@@ -1,0 +1,16 @@
+The general spectral radius of a graph $G$, denoted by $\Theta(G,\alpha)$, is the maximal eigenvalue
+of $M_{\alpha}(G)=A(G)+\alpha D(G)$ $(\alpha\geq 0)$, where $A(G)$ and $D(G)$ are the adjacency
+matrix and the diagonal matrix of vertex degrees of $G$, respectively. A graph $G$ is called $\Theta_\alpha$-maximal
+in a class of connected simple graphs $\mathcal {G}$ if $\Theta(G,\alpha)$ is maximal among all
+graphs of $\mathcal {G}$. A $t$-cone $c$-cyclic graph is the join of a complete graph $K_t$ and a $c$-cyclic
+connected simple graph. Let $\pi=\big(d_1,d_2,\ldots,d_n\big)$ and $\pi'=\big(d'_1,d'_2,\ldots,d'_n\big)$
+be two non-increasing degree sequences of $t$-cone $c$-cyclic graphs with $n$ vertices. We say
+$\pi$ is strictly majorized by $\pi'$, denoted by $\pi \lhd \pi'$, if $\pi\neq \pi'$, $\sum_{i=1}^n
+d_i=\sum_{i=1}^n d_i'$, and $\sum_{i=1}^k d_i\leq \sum_{i=1}^k d_i'$ for $k=1,2,\ldots,n-1$.
+Denote by $\Gamma(\pi,t;c)$ the class of $t$-cone $c$-cyclic graphs with $\pi$ as its degree sequence.
+In this paper, we determine some properties of $\Theta_\alpha$-maximal graphs of $\Gamma(\pi,t;c)$
+and characterize the unique $\Theta_\alpha$-maximal graph of $\Gamma(\pi,t;0)$ \big(resp.
+$\Gamma(\pi,t;1)$ and $\Gamma(\pi,t;2)$\big). Moreover, we prove that if $\pi \lhd \pi'$, $G$
+and $G'$ are the $\Theta_\alpha$-maximal graphs of $\Gamma(\pi,t;c)$ and $\Gamma(\pi',t;c)$
+respectively, then $\Theta(G,\alpha)<\Theta(G',\alpha)$ for $c\in \big\{0,1\big\}$, and
+we also consider the similar result for $c=2$. 

@@ -1,0 +1,16 @@
+There are many real-world knowledge based networked systems with multi-type interacting entities
+that can be regarded as heterogeneous networks including human connections and biological evolutions.
+One of the main issues in such networks is to predict information diffusion such as shape, growth
+and size of social events and evolutions in the future. While there exist a variety of works on this
+topic mainly using a threshold-based approach, they suffer from the local viewpoint on the network
+and sensitivity to the threshold parameters. In this paper, information diffusion is considered
+through a latent representation learning of the heterogeneous networks to encode in a deep learning
+model. To this end, we propose a novel meta-path representation learning approach, Heterogeneous
+Deep Diffusion(HDD), to exploit meta-paths as main entities in networks. At first, the functional
+heterogeneous structures of the network are learned by a continuous latent representation through
+traversing meta-paths with the aim of global end-to-end viewpoint. Then, the well-known deep learning
+architectures are employed on our generated features to predict diffusion processes in the network.
+The proposed approach enables us to apply it on different information diffusion tasks such as topic
+diffusion and cascade prediction. We demonstrate the proposed approach on benchmark network datasets
+through the well-known evaluation measures. The experimental results show that our approach outperforms
+the earlier state-of-the-art methods. 

@@ -1,0 +1,16 @@
+We have calculated by using CARI-7A the effective and ambient radiation doses absorbed by a reference
+human phantom inside aircrafts with cruise speed, and averaged ascent/descent rates as presented
+by real airplanes such as: Airbus 380, Boeing 777, 787, Hercules C-130 and Twin Otter DHC-6. The sample
+is composed of fifteen flight aerial routes, from which twelve are the longest non-stop flight routes
+around the world, where four flights pass over the Arctic and additionally we have considered three
+air routes involving the Antarctica. The Earth curvature was taking into account for points in the
+constructed flight routes, by using the INVERSE3D software, which is based on the model WGS84. We
+also have constructed radiation dose charts according to the radiometric results coming from CARI-7A
+simulations. These charts present the effective absorbed radiation dose as a function of the flight
+level and the flight time in a year of normal operations of the crew as recommended by FAA. For the flights
+sample considered here, we found the top seven rate irradiated flights of the sample, and for the
+leading rate irradiated flight, we fit for altitudes and found an inequation that gives a superior
+threshold for any flight of the sample and perhaps on Earth, valid in interval [20000, 50000] ft and
+[0, 1000] h. Finally we discuss about the threshold values for absorption of radiation, the flight
+hours per year, and the model of statistical radiation and tissue weights established by the ICRP-103
+and its relation with the radiation charts for aviation shown in this work. 

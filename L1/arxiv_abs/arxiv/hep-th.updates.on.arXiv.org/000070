@@ -1,0 +1,16 @@
+The standard argument why gravity is not renormalisable relies on direct powercounting of Feynman
+graphs to estimate the degree of UV divergence. This analysis has in several (highly) supersymmetric
+examples be shown to overestimate divergences considerably. In these examples the main improvements
+arise from a conjectured duality between color and kinematics. In this paper we initiate the systematic
+study of quite general powercounting under the assumption that color-kinematic duality exists.
+The main technical tool is a reformulation of the duality in terms of linear maps, modulo subtleties
+at loop level mostly inherent to the duality. This tool may have wider applications in both gauge
+and gravity theories, up to resolution of the subtleties. Here it is first applied to the large Britto-Cachazo-Feng-Witten
+(BCFW) shift behavior of gravity integrands constructed through the duality. Assuming color-kinematic
+duality and reasonable technical requirements hold these shifts are shown to be independent of
+loop order, which would imply massive cancellations with respect to the Feynman graph expression.
+More speculatively, the same approach is then applied to provide estimates of the overall degree
+of UV divergence in quite general gravity theories, assuming the duality exists. The cancellations
+obtained in these estimates depends on the exact implementation of the duality at loop level, especially
+on graph topology. Finally, some evidence for the duality to all loop orders is provided from an analysis
+of BCFW shifts of gauge theory integrands through Feynman graphs. 

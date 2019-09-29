@@ -1,0 +1,17 @@
+This paper introduces the problem of printing a cantilever beam with precise structural requirements
+using Additive Manufacturing and feedback control. The manufactured cantilever beam is made of
+\SI{500}{} horizontal layers with different widths, allowing for various final shapes of the beam.
+The whole printing process is therefore formalized as a finite-horizon discrete control problem,
+with a target stiffness to achieve and a cost function to minimize, and where the controls are the
+widths of the successive layers. By using a model linking the widths of the different layers of the
+printed part to its final stiffness, the shape is optimized by solving the related control problem.
+The dynamics describing the printing process are based on a simple structural mechanics model depending
+on four real parameters that are determined by printing several specimens parts prior to starting
+the manufacturing of the cantilever beam. During the printing process, stiffness measurements
+are performed on the partially built part in order to adjust the widths of the subsequent layers.
+This type of feedback control, consisting in repeatedly solving an optimization problem starting
+from the current state at each step, produces parts with more precise structural properties than
+the equivalent open-loop control problem that only solves the optimization problem once at the
+initial state. By using closed-loop control, we show that two sources of structural properties
+uncertainty in AM can be alleviated: the difficulty to correctly model printing processes and their
+variability. 

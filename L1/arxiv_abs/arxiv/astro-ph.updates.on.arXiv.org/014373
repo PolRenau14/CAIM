@@ -1,0 +1,16 @@
+The disconnected part of the power spectrum covariance matrix (also known as the "Gaussian" covariance)
+is the dominant contribution on large scales for galaxy clustering and weak lensing datasets. The
+presence of a complicated sky mask causes non-trivial correlations between different Fourier/harmonic
+modes, which must be accurately characterized in order to obtain reliable cosmological constraints.
+This is particularly relevant for galaxy survey data. Unfortunately, an exact calculation of these
+correlations involves $O(\ell_{\rm max}^6)$ operations that become computationally impractical
+very quickly. We present an implementation of approximate methods to estimate the Gaussian covariance
+matrix of power spectra involving spin-0 and spin-2 flat- and curved-sky fields, expanding on existing
+algorithms. These methods achieve an $O(\ell_{\rm max}^3)$ scaling, which makes the computation
+of the covariance matrix as fast as the computation of the power spectrum itself. We quantify the
+accuracy of these methods on large-scale structure and weak lensing data, making use of a large number
+of Gaussian but otherwise realistic simulations. We show that, using the approximate covariance
+matrix, we are able to recover the true posterior distribution of cosmological parameters to high
+accuracy. We also quantify the shortcomings of these methods, which become unreliable on the very
+largest scales, as well as for covariance matrix elements involving cosmic shear $B$ modes. The
+algorithms presented here are implemented in the public code NaMaster (https://github.com/LSSTDESC/NaMaster).

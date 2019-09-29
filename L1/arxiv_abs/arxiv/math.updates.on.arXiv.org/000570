@@ -1,0 +1,16 @@
+This article was written in 1999, and was posted as a preprint in CRM (Barcelona) preprint series
+$n^0\, 519$ in 2000. However, recently CRM erased all preprints dated before 2006 from its site,
+and this paper became inacessible. It has certain importance though, as the reader shall see. Formally
+this paper is a proof of the (qualitative version of the) Vitushkin conjecture. The last section
+is concerned with the quantitative version. This quantitative version turns out to be very important.
+It allowed Xavier Tolsa to close the subject concerning Vtushkin's conjectures: namely, using
+the quantitative nonhomogeneous $Tb$ theorem proved in the present paper, he proved the semiadditivity
+of analytic capacity. Another "theorem", which is implicitly contained in this paper, is the statement
+that any non-vanishing $L^2$-function is accretive in the sense that if one has a finite measure
+$\mu$ on the complex plane ${\mathbb C}$ that is Ahlfors at almost every point (i.e. for $\mu$-almost
+every $x\in {\mathbb C}$ there exists a constant $M>0$ such that $\mu(B(x,r))\le Mr$ for every
+$r>0$) then any one-dimensional antisymmetric Calder\'on-Zygmund operator $K$ (e.g. a Cauchy
+integral type operator) satisfies the following "all-or-nothing" princple: if there exists at
+least one function $\phi\in L^2(\mu)$ such that $\phi(x)\ne 0$ for $\mu$-almost every $x\in {\mathbb
+C}$ and such that {\it the maximal singular operator} $K^*\phi\in L^2(\mu)$, then there exists
+an everywhere positive weight $w(x)$, such that $K$ acts from $L^2(\mu)$ to $L^2(wd\mu)$. 

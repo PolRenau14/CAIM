@@ -1,0 +1,16 @@
+Quantum dynamics of impurities in a bath of bosons is a long-standing problem of solid-state, plasma,
+and atomic physics. Recent experimental and theoretical investigations with ultracold atoms
+focused on this problem, studying atomic impurities immersed in a atomic Bose-Einstein condensate
+(BEC) and for various relative coupling strengths tuned by the Fano-Feshbach resonance technique.
+Here we report extensive numerical simulations on a closely related problem: the collision between
+a bosonic impurity made of few $^{41}$K atoms and a BEC made of $^{87}$Rb atoms in a quasi one-dimensional
+configuration and under a weak harmonic axial confinement. For small values of the interspecies
+interaction strength (no matter the sign of it), we find that the impurity, which starts from outside
+the BEC, simply oscillates back and forth the BEC cloud, but the frequency of oscillation depends
+on the interaction strength. For intermediate couplings, after a few cycles of oscillation the
+impurity is captured by the BEC and strongly changes its amplitude of oscillation. In the strong
+interaction regime, if the interspecies interaction is attractive, a local maximum (bright soliton)
+in the density of BEC occurs where the impurity is trapped; instead, if the interspecies interaction
+is repulsive, the impurity is not able to enter in the BEC cloud and the reflection coefficient is
+close to one. On the other hand, if the initial displacement of the impurity is increased, the impurity
+is able to penetrate in the cloud leading to the appearance of a moving hole (dark soliton) in the BEC.

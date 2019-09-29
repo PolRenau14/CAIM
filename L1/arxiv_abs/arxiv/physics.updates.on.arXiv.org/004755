@@ -1,0 +1,17 @@
+This paper numerically investigates the shear flow between double concentric spherical boundaries
+rotating differentially, so-called spherical Couette flow, under unstable thermal stratification,
+focusing on the boundary of the axisymmetric/non-axisymmetric transition in wide gap cases where
+the inner radius is comparable to the clearance width. While the transition of SCF has been confirmed
+experimentally in cases without thermal factor, insufficient knowledge on SCF subject to thermal
+instability, related to geophysical problems especially in wide gap cases, has been accumulated
+mainly based on numerical analysis; our motivation is to bridge the knowledge gap by a parameter
+extension. We reconfirm that the transition under no thermal effect is initiated by a disturbance
+visualised as a spiral pattern with n arms extending from the equatorial zone to the pole in each hemisphere,
+at the critical Reynolds number, Recr, as previously reported. With increasing thermal factor,
+the buoyancy effect assists the system rotation to trigger a transition towards non-axisymmetric
+states, resulting in a relative decrease of Recr. This is in contrast with the result that the system
+rotation apparently suppresses via Coriolis effect the transition to the thermally convective
+states at low Reynolds numbers. The present study elucidates that the existence of the axisymmetric
+state is restricted within a closed area in the extended parameter space, along the boundary of which
+the spiral patterns observed experimentally in SCF continually connect to the classical spherical
+Benard convective states. 

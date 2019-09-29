@@ -1,0 +1,16 @@
+Ground-state properties of bosons interacting via inverse square potential are analyzed. A number
+of quantities scale with the density and can be naturally expressed in units of the Fermi energy and
+Fermi momentum multiplied by a dimensionless constant (Bertsch parameter). Two analytical approaches
+are developed: Bogoliubov theory for weak and harmonic approximation (HA) for strong interactions.
+Diffusion Monte Carlo method is used to obtain the ground-state properties in a non-perturbative
+manner. We report the dependence of the Bertsch parameter on the interaction strength and construct
+a Pad\'e approximant which fits the numerical data and reproduces correctly the asymptotics in
+the limits of weak and strong interactions. We find good agreement with beyond-mean field theory
+for the energy and the condensate fraction. Pair distribution function and the static structure
+factor are reported for a number of characteristic interactions. We demonstrate that the system
+experiences gas-solid phase transition as a function of the dimensionless interaction strength.
+A peculiarity of the system is that by changing the density it is not possible to induce the phase transition.
+We show that the low-lying excitation spectrum contains plasmons in both phases, in agreement with
+Bogoliubov and HA theories. Finally, we argue that this model can be interpreted as a realization
+of the unitary limit in Bose system with the advantage that the system stays in the genuine ground
+state contrarily to the metastable state realized in experiments with short-range Bose gases.

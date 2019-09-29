@@ -1,0 +1,16 @@
+We present two results on slime mold computations. In wet-lab experiments (Nature'00) by Nakagaki
+et al. the slime mold Physarum polycephalum demonstrated its ability to solve shortest path problems.
+Biologists proposed a mathematical model, a system of differential equations, for the slime's
+adaption process (J. Theoretical Biology'07). It was shown that the process convergences to the
+shortest path (J. Theoretical Biology'12) for all graphs. We show that the dynamics actually converges
+for a much wider class of problems, namely undirected linear programs with a non-negative cost vector.
+Combinatorial optimization researchers took the dynamics describing slime behavior as an inspiration
+for an optimization method and showed that its discretization can $\varepsilon$-approximately
+solve linear programs with positive cost vector (ITCS'16). Their analysis requires a feasible
+starting point, a step size depending linearly on $\varepsilon$, and a number of steps with quartic
+dependence on $\mathrm{opt}/(\varepsilon\Phi)$, where $\Phi$ is the difference between the
+smallest cost of a non-optimal basic feasible solution and the optimal cost ($\mathrm{opt}$).
+We give a refined analysis showing that the dynamics initialized with any strongly dominating point
+converges to the set of optimal solutions. Moreover, we strengthen the convergence rate bounds
+and prove that the step size is independent of $\varepsilon$, and the number of steps depends logarithmically
+on $1/\varepsilon$ and quadratically on $\mathrm{opt}/\Phi$. 

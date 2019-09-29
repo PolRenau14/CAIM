@@ -1,0 +1,17 @@
+X-ray photoemission spectroscopy (XPS) depth profiling using monoatomic Ar+ ion etching sources
+is a common technique that allows for the probing of the vertical compositional profiles of a wide
+range of materials. In polymer-based organic photovoltaic devices, it is commonly used to study
+compositional variations across the interfaces of the organic active layer with charge extraction
+layers or electrodes, as well as the vertical phase separation within the bulk-heterojunction
+active layer. It is generally considered that the damage induced by the etching of organic layers
+is limited to the very top surface, such that the XPS signal (acquired from the top ~10 nm of the layer)
+remains largely unaffected, allowing for a reliable measurement of the sample composition throughout
+the depth profile. Herein, we investigate a range of conjugated polymers and quantify the depth
+of the damage induced by monoatomic etching for Ar+ ion energies ranging from 0.5 keV to 4 keV using
+argon gas cluster ion beam depth profiling. The results demonstrate that even when etching with
+the lowest available monoatomic ion energy for as little as 3 s, the damaged polymer material extends
+deeper into the bulk than the XPS probing depth. We show that the damaged material distorts the compositional
+information obtained by XPS, resulting in erroneous depth profiles. Furthermore, we propose that
+only gas cluster ion beam etching sources should be used for depth profiling of organic conjugated
+polymers, as those induce significantly less damage and maintain the compositional information
+throughout the entire profile. 

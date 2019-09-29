@@ -1,0 +1,16 @@
+We propose a new discretization method for the Stokes equations. The method is an improved version
+of the method recently presented in [C. Lehrenfeld, J. Sch\"oberl, Comp. Meth. Appl. Mech. Eng.,
+361 (2016)] which is based on an $H(\operatorname{div})$-conforming finite element space and
+a Hybrid Discontinuous Galerkin (HDG) formulation of the viscous forces. $H(\operatorname{div})$-conformity
+results in favourable properties such as pointwise divergence free solutions and pressure-robustness.
+However, for the approximation of the velocity with a polynomial degree $k$ it requires unknowns
+of degree $k$ on every facet of the mesh. In view of the superconvergence property of other HDG methods,
+where only unknowns of polynomial degree $k-1$ on the facets are required to obtain an accurate polynomial
+approximation of order $k$ (possibly after a local post-processing) this is sub-optimal. The key
+idea in this paper is to slightly relax the $H(\operatorname{div})$-conformity so that only unknowns
+of polynomial degree $k-1$ are involved for normal-continuity. This allows for optimality of the
+method also in the sense of superconvergent HDG methods. In order not to loose the benefits of $H(\operatorname{div})$-conformity
+we introduce a cheap reconstruction operator which restores pressure-robustness and pointwise
+divergence free solutions and suits well to the finite element space with relaxed $H(\operatorname{div})$-conformity.
+We present this new method, carry out a thorough $h$-version error analysis and demonstrate the
+performance of the method on numerical examples. 

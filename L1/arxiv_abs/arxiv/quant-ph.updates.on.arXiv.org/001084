@@ -1,0 +1,16 @@
+We give asymptotically converging semidefinite programming hierarchies of outer bounds on bilinear
+programs of the form $\mathrm{Tr}\big[M(X\otimes Y)\big]$, maximized with respect to joint semidefinite
+constraints on $(X,Y)$. Applied to the problem of quantum error correction this gives hierarchies
+of efficiently computable outer bounds on the optimal fidelity for any message dimension and error
+model. The first level of our hierarchies corresponds to the non-signalling assisted fidelity
+previously studied by [Leung & Matthews, IEEE Trans. Inf. Theory 2015], and positive partial transpose
+constraints can be added and used to give a sufficient criterion for the exact convergence at a given
+level of the hierarchy. To quantify the worst case convergence speed of our hierarchies, we derive
+novel quantum de Finetti theorems that allow imposing linear constraints on the approximating
+state. In particular, we give finite de Finetti theorems for quantum channels, quantifying closeness
+to the convex hull of product channels as well as closeness to local operations and classical forward
+communication assisted channels. As a special case this constitutes a finite version of Fuchs-Schack-Scudo's
+asymptotic de Finetti theorem for quantum channels. Finally, our proof methods also allow us to
+answer an open question from [Brand\~ao & Harrow, STOC 2013] by improving the approximation factor
+of de Finetti theorems with no symmetry from $O(d^{k/2})$ to $\mathrm{poly}(d,k)$, where $d$ denotes
+local dimension and $k$ the number of copies. 

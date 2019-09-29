@@ -1,0 +1,16 @@
+In this paper, we propose a new framework for mitigating biases in machine learning systems. The
+problem of the existing mitigation approaches is that they are model-oriented in the sense that
+they focus on tuning the training algorithms to produce fair results, while overlooking the fact
+that the training data can itself be the main reason for biased outcomes. Technically speaking,
+two essential limitations can be found in such model-based approaches: 1) the mitigation cannot
+be achieved without degrading the accuracy of the machine learning models, and 2) when the data used
+for training are largely biased, the training time automatically increases so as to find suitable
+learning parameters that help produce fair results. To address these shortcomings, we propose
+in this work a new framework that can largely mitigate the biases and discriminations in machine
+learning systems while at the same time enhancing the prediction accuracy of these systems. The
+proposed framework is based on conditional Generative Adversarial Networks (cGANs), which are
+used to generate new synthetic fair data with selective properties from the original data. We also
+propose a framework for analyzing data biases, which is important for understanding the amount
+and type of data that need to be synthetically sampled and labeled for each population group. Experimental
+results show that the proposed solution can efficiently mitigate different types of biases, while
+at the same time enhancing the prediction accuracy of the underlying machine learning model. 

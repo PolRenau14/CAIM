@@ -1,0 +1,16 @@
+Cloud applications expose - besides service endpoints - also potential or actual vulnerabilities.
+Therefore, cloud security engineering efforts focus on hardening the fortress walls but seldom
+assume that attacks may be successful. At least against zero-day exploits, this approach is often
+toothless. Other than most security approaches and comparable to biological systems we accept
+that defensive "walls" can be breached at several layers. Instead of hardening the "fortress" walls
+we propose to make use of an (additional) active and adaptive defense system to attack potential
+intruders - an immune system that is inspired by the concept of a moving target defense. This "immune
+system" works on two layers. On the infrastructure layer, virtual machines are continuously regenerated
+(cell regeneration) to wipe out even undetected intruders. On the application level, the vertical
+and horizontal attack surface is continuously modified to circumvent successful replays of formerly
+scripted attacks. Our evaluations with two common cloud-native reference applications in popular
+cloud service infrastructures (Amazon Web Services, Google Compute Engine, Azure and OpenStack)
+show that it is technically possible to limit the time of attackers acting undetected down to minutes.
+Further, more than 98% of an attack surface can be changed automatically and minimized which makes
+it hard for intruders to replay formerly successful scripted attacks. So, even if intruders get
+a foothold in the system, it is hard for them to maintain it. 

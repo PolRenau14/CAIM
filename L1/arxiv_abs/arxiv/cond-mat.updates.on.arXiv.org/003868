@@ -1,0 +1,17 @@
+The empirical observation of aggregation of dielectric particles under the influence of electrostatic
+forces lies at the origin of the theory of electricity. The growth of clusters formed of small grains
+underpins a range of phenomena from the early stages of planetesimal formation to aerosols. However,
+the collective effects of Coulomb forces on the nonequilibrium dynamics and aggregation process
+in a granular gas -- a representative of the above physical processes -- have so far evaded theoretical
+scrutiny. Here, we establish a hydrodynamic description of aggregating granular gases that exchange
+charges upon collisions and interact via the long-ranged Coulomb forces. We analytically derive
+the governing equations for the evolution of granular temperature, charge variance, and number
+density for homogeneous and quasi-monodisperse aggregation. We find that, once the aggregates
+are formed, the system obeys a physical constraint of nearly constant dimensionless ratio of electrostatic
+to kinetic energy $\mathcal{B}(t)\le 1$. This constraint on the collective evolution of charged
+clusters is confirmed both by the theory and the detailed molecular dynamics simulations. The inhomogeneous
+aggregation of monomers and clusters in their mutual electrostatic field proceeds in a fractal
+manner. Our theoretical framework is extendable for more precise charge exchange mechanism, a
+current focus of extensive experimentation. Furthermore, it illustrates the collective role
+of long-ranged interactions in dissipative gases and can lead to novel designing principles in
+particulate systems. 

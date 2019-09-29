@@ -1,0 +1,16 @@
+We consider the problem of minimizing a difference-of-convex (DC) function, which can be written
+as the sum of a smooth convex function with Lipschitz gradient, a proper closed convex function and
+a continuous possibly nonsmooth concave function. We refine the convergence analysis in [38] for
+the proximal DC algorithm with extrapolation (pDCA$_e$) and show that the whole sequence generated
+by the algorithm is convergent when the objective is level-bounded, {\em without} imposing differentiability
+assumptions in the concave part. Our analysis is based on a new potential function and we assume such
+a function is a Kurdyka-{\L}ojasiewicz (KL) function. We also establish a relationship between
+our KL assumption and the one used in [38]. Finally, we demonstrate how the pDCA$_e$ can be applied
+to a class of simultaneous sparse recovery and outlier detection problems arising from robust compressed
+sensing in signal processing and least trimmed squares regression in statistics. Specifically,
+we show that the objectives of these problems can be written as level-bounded DC functions whose
+concave parts are {\em typically nonsmooth}. Moreover, for a large class of loss functions and regularizers,
+the KL exponent of the corresponding potential function are shown to be 1/2, which implies that the
+pDCA$_e$ is locally linearly convergent when applied to these problems. Our numerical experiments
+show that the pDCA$_e$ usually outperforms the proximal DC algorithm with nonmonotone linesearch
+[24, Appendix A] in both CPU time and solution quality for this particular application. 

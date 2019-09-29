@@ -1,0 +1,17 @@
+The low energy structures of irradiation-induced defects have been studied in detail, as these
+determine the available modes by which a defect can diffuse or relax. As a result, there are many studies
+concerning the relative energies of possible defect structures, and empirical potentials are
+commonly fitted to or evaluated with respect to these energies. But recently [Dudarev et al Nuclear
+Fusion 2018], we have shown how to determine the stresses, strains and swelling of reactor components
+under irradiation from the elastic properties of ensembles of irradiation-induced defects. These
+elastic properties have received comparatively little attention. Here we evaluate relaxation
+volumes of irradiation-induced defects in tungsten computed with empirical potentials, and compare
+to density functional theory results where available. Different empirical potentials give different
+results, but some potential-independent trends in relaxation volumes can be identified. We show
+that the relaxation volume of small defects can be predicted to within 10% from their point-defect
+count. For larger defects we provide empirical fits for the relaxation volume of as a function of
+size. We demonstrate that the relaxation volume associated with a single primary-damage cascade
+can be estimated from the primary knock-on atom (PKA) energy. We conclude that while annihilation
+of vacancy- and interstitial- character defects will invariably reduce the total relaxation volume
+of the cascade debris, empirical potentials disagree whether coalescence of defects will reduce
+or increase the total relaxation volume. 

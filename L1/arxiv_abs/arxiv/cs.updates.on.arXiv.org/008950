@@ -1,0 +1,16 @@
+Packaging software into containers is becoming a common practice when deploying services in cloud
+and other environments. Docker images are one of the most popular container technologies for building
+and deploying containers. A container image usually includes a collection of software packages,
+that can have bugs and security vulnerabilities that affect the container health. Our goal is to
+support container deployers by analysing the relation between outdated containers and vulnerable
+and buggy packages installed in them. We use the concept of technical lag of a container as the difference
+between a given container and the most up-to-date container that is possible with the most recent
+releases of the same collection of packages. For 7,380 official and community Docker images that
+are based on the Debian Linux distribution, we identify which software packages are installed in
+them and measure their technical lag in terms of version updates, security vulnerabilities and
+bugs. We have found, among others, that no release is devoid of vulnerabilities, so deployers cannot
+avoid vulnerabilities even if they deploy the most recent packages. We offer some lessons learned
+for container developers in regard to the strategies they can follow to minimize the number of vulnerabilities.
+We argue that Docker container scan and security management tools should improve their platforms
+by adding data about other kinds of bugs and include the measurement of technical lag to offer deployers
+information of when to update. 

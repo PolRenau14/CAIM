@@ -1,0 +1,16 @@
+We investigate 1D exoplanetary distributions using a novel analysis algorithm based on the continuous
+wavelet transform. The analysis pipeline includes an estimation of the wavelet transform of the
+probability density function (p.d.f.) without pre-binning, use of optimized wavelets, a rigorous
+significance testing of the patterns revealed in the p.d.f., and an optimized minimum-noise reconstruction
+of the p.d.f. via matching pursuit iterations. In the distribution of orbital periods, $P$, our
+analysis revealed a narrow subfamily of exoplanets within the broad family of "warm jupiters",
+or massive giants with $P\gtrsim 300$~d, which are often deemed to be related with the iceline accumulation
+in a protoplanetary disk. We detected a p.d.f. pattern that represents an upturn followed by an overshooting
+peak spanning $P\sim 300-600$~d, right beyond the "period valley". It is separated from the other
+planets by p.d.f. concavities from both sides. It has at least two-sigma significance. In the distribution
+of planet radii, $R$, and using the California Kepler Survey sample properly cleaned, we confirm
+the hints of a bimodality with two peaks about $R=1.3 R_\oplus$ and $R=2.4 R_\oplus$, and the "evaporation
+valley" between them. However, we obtain just a modest significance for this pattern, two-sigma
+only at the best. Besides, our follow-up application of the Hartigan & Hartigan dip test for unimodality
+returns $3$ per cent false alarm probability (merely $2.2$-sigma significance), contrary to $0.14$
+per cent (or $3.2$-sigma), as claimed by Fulton et al. (2017). 

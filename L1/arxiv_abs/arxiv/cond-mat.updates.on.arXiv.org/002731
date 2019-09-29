@@ -1,0 +1,17 @@
+We develop a continuum phase-field model for the simulation of diffusion limited solid-solid phase
+transformations during lithium insertion in LiFePO4-nano-particles. The solid-solid phase
+boundary between the LiFePO4 (LFP)-phase and the FePO4 (FP)-phase is modeled as a diffuse interface
+of finite width. The model-description explicitly resolves a single LiFePO4-particle, which
+is embedded in an elastically soft electrolyte-phase. Furthermore, we explicitly include anisotropic
+(orthorhombic) and inhomogeneous elastic effects, resulting from the coherency strain, as well
+as anisotropic (1D) Li-diffusion inside the nano-particle. The effect of the nano-particle's
+size on the kinetics of FP to LFP phase transformations is investigated by means of both model. Both
+models predict a substantial increase in the steady state transformation velocity as the particle-size
+decreases down to dimensions that are comparable with the width of the interface between the FP and
+the LFP-phase. However, the extra kinetic parameter of the Allen-Cahn-type description may be
+used to reduce the strength of the velocity-increase with the decreasing particle size. Further,
+we consider the influence of anisotropic and inhomogeneous elasticity on the lithiation-kinetics
+within a rectangularly shaped LiFePO4-particle embedded in an elastically soft electrolyte.
+Finally, the simulation of equilibrium shapes of LiFePO4-particles is discussed. Within a respective
+feasibility study, we demonstrate that also the simulation of strongly anisotropic particles
+with aspect ratios up to 1/5 is possible. 

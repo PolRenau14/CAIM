@@ -1,0 +1,17 @@
+Based on both theory and observations, a number of authors have proposed that there is a threshold
+for star formation. This threshold is a characteristic density or extinction level below which
+gas forms stars inefficiently, and above which star formation becomes efficient. In this paper
+we use detailed simulations of turbulent, magnetised star-forming clouds, including stellar
+radiation and outflow feedback, to investigate whether thresholds for star formation exist and
+whether it is possible to recover them using current observational techniques. We show that the
+simulations do possess a threshold, indicated by a sharp increase in star formation rate per free-fall
+time $\epsilon_{\rm ff}$ at a number density $n_{\rm th}\sim 10^{6.5}$ cm$^{-3}$. Using mock observations
+of the simulations at realistic resolutions, we show that plots of projected $\epsilon_{\rm ff}$
+can detect the presence of a threshold, but that the resolutions typical of current dust emission
+or absorption surveys are insufficient to determine its value. In contrast, proposed alternative
+diagnostics based on a change in the slope of the gas surface density versus star formation rate surface
+density (Kennicutt-Schmidt relation) or on the correlation between young stellar object counts
+and gas mass as a function of density are ineffective at detecting thresholds even when they are present.
+The signatures in these diagnostics sometimes taken as indicative of a threshold in observations,
+which we generally reproduce in our mock observations, do not prove to correspond to real physical
+features in the 3D gas distribution. 

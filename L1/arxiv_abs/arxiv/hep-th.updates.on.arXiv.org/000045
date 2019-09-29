@@ -1,0 +1,16 @@
+In general, the field equations of $f(R)$ theory coupled to a matter field are very complicated and
+hence it is not easy to find exact analytical solutions. However, if one considers traceless energy-momentum
+tensor for the matter source as well as constant scalar curvature, one can derive some exact analytical
+solutions from $f(R)$ theory coupled to a matter field. In this paper, by assuming constant curvature
+scalar, we construct a class of charged rotating black string solutions in $f(R)$-Maxwell theory.
+We study the physical properties and obtain the conserved quantities of the solutions. The conserved
+and thermodynamic quantities computed here depend on function $f'(R_{0})$ and differ completely
+from those of Einstein theory in AdS spaces. Besides, unlike Einstein gravity, the entropy does
+not obey the area law. We also investigate the validity of the first law of thermodynamics as well
+as the stability analysis in the canonical ensemble, and show that the black string solutions are
+always thermodynamically stable in $f(R)$-Maxwell theory with constant curvature scalar. Finally,
+we extend the study to the case where the Ricci scalar is not a constant and in particular $R=R(r)$.
+In this case, by using the Lagrangian multipliers method, we derive an analytical black string solution
+from $f(R)$ gravity and reconstructed the function $R(r)$. We find that this class of solutions
+has an additional logaritmic term in the metric function which incorporates the effect of the $f(R)$
+theory in the solutions. 

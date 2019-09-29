@@ -1,0 +1,16 @@
+The LIGO/Virgo Collaboration (LVC) detected on 2017 January 4, a significant gravitational-wave
+(GW) event (now named GW170104). We report in this Letter the main results obtained from the analysis
+of hard X-ray and gamma-ray data of the AGILE mission that repeatedly observed the GW170104 localization
+region (LR). At the LVC detection time $T_0$ AGILE observed about 36% of the LR. The gamma-ray imaging
+detector did not reveal any significant emission in the energy range 50 MeV--30 GeV. Furthermore,
+no significant gamma-ray transients were detected in the LR that was repeatedly exposed over timescales
+of minutes, hours, and days. We also searched for transient emission using data near $T_0$ of the
+omnidirectional detector MCAL operating in the energy band 0.4--100 MeV. A refined analysis of
+MCAL data shows the existence of a weak event (that we call "E2") with a signal-to-noise ratio of $4.4\,\sigma$
+lasting about 32 ms and occurring $0.46\,\pm\,0.05 \,\rm s$ before $T_0$. A study of the MCAL background
+and of the false-alarm rate of E2 leads to the determinination of a post-trial significance between
+$2.4\,\sigma$ and $2.7\,\sigma$ for a temporal coincidence with GW170104. We note that E2 has characteristics
+similar to those detected from the weak precursor of the short GRB 090510. The candidate event E2
+is worth consideration for simultaneous detection by other satellites. If associated with GW170104,
+it shows emission in the MeV band of a short burst preceding the final coalescence by 0.46 sec and involving
+$\sim 10^{-7}$ of the total rest mass energy of the system. 

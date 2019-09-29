@@ -1,0 +1,16 @@
+Finite element analysis of stress about a blunt crack tip, emphasizing finite strain and phenomenological
+and mechanism-based strain gradient plasticity (SGP) formulations, is integrated with electrochemical
+assessment of occluded-crack tip hydrogen (H) solubility and two H-decohesion models to predict
+hydrogen environment assisted crack growth properties. SGP elevates crack tip geometrically
+necessary dislocation density and flow stress, with enhancement declining with increasing alloy
+strength. Elevated hydrostatic stress promotes high-trapped H concentration for crack tip damage;
+it is imperative to account for SGP in H cracking models. Predictions of the threshold stress intensity
+factor and H-diffusion limited Stage II crack growth rate agree with experimental data for a high
+strength austenitic Ni-Cu superalloy (Monel K-500) and two modern ultra-high strength martensitic
+steels (AerMet 100 and Ferrium M54) stressed in 0.6 M NaCl solution over a range of applied potential.
+For Monel K-500, KTH is accurately predicted versus cathodic potential using either classical
+or gradient-modified formulations; however, Stage II growth rate is best predicted by a SGP description
+of crack tip stress that justifies a critical distance of 1 {\mu}m. For steel, threshold and growth
+rate are best predicted using high-hydrostatic stress that exceeds 6 to 8 times alloy yield strength
+and extends 1 {\mu}m ahead of the crack tip. This stress is nearly achieved with a three-length phenomenological
+SGP formulation, but additional stress enhancement is needed, perhaps due to tip geometry or slip-microstructure.

@@ -1,0 +1,17 @@
+Multiview canonical correlation analysis (MCCA) seeks latent low-dimensional representations
+encountered with multiview data of shared entities (a.k.a. common sources). However, existing
+MCCA approaches do not exploit the geometry of the common sources, which may be available \emph{a
+priori}, or can be constructed using certain domain knowledge. This prior information about the
+common sources can be encoded by a graph, and be invoked as a regularizer to enrich the maximum variance
+MCCA framework. In this context, the present paper's novel graph-regularized (G) MCCA approach
+minimizes the distance between the wanted canonical variables and the common low-dimensional
+representations, while accounting for graph-induced knowledge of the common sources. Relying
+on a function capturing the extent low-dimensional representations of the multiple views are similar,
+a generalization bound of GMCCA is established based on Rademacher's complexity. Tailored for
+setups where the number of data pairs is smaller than the data vector dimensions, a graph-regularized
+dual MCCA approach is also developed. To further deal with nonlinearities present in the data, graph-regularized
+kernel MCCA variants are put forward too. Interestingly, solutions of the graph-regularized linear,
+dual, and kernel MCCA, are all provided in terms of generalized eigenvalue decomposition. Several
+corroborating numerical tests using real datasets are provided to showcase the merits of the graph-regularized
+MCCA variants relative to several competing alternatives including MCCA, Laplacian-regularized
+MCCA, and (graph-regularized) PCA. 

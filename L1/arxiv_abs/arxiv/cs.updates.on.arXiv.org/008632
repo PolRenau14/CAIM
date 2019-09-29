@@ -1,0 +1,16 @@
+Follower count is a factor that quantifies the popularity of celebrities. It is a reflection of their
+power, prestige and overall social reach. In this paper we investigate whether the social connectivity
+or the language choice is more correlated to the future follower count of a celebrity. We collect
+data about tweets, retweets and mentions of 471 Indian celebrities with verified Twitter accounts.
+We build two novel networks to approximate social connectivity of the celebrities. We study various
+structural properties of these two networks and observe their correlations with future follower
+counts. In parallel, we analyze the linguistic structure of the tweets (LIWC features, syntax and
+sentiment features and style and readability features) and observe the correlations of each of
+these with the future follower count of a celebrity. As a final step we use there features to classify
+a celebrity in a specific bucket of future follower count (HIGH, MID or LOW). We observe that the network
+features alone achieve an accuracy of 0.52 while the linguistic features alone achieve an accuracy
+of 0.69 grossly outperforming the network features. The network and linguistic features in conjunction
+produce an accuracy of 0.76. We also discuss some final insights that we obtain from further data
+analysis celebrities with larger follower counts post tweets that have (i) more words from friend
+and family LIWC categories, (ii) more positive sentiment laden words, (iii) have better language
+constructs and are (iv) more readable. 

@@ -1,0 +1,17 @@
+The NRAO VLA Sky Survey (NVSS) Rotation Measure (RM) catalogue has enabled numerous studies in cosmic
+magnetism, and will continue being a unique dataset complementing future polarisation surveys.
+Robust comparisons with these new surveys will however require further understandings in the systematic
+effects present in the NVSS RM catalogue. In this paper, we make careful comparisons between our
+new on-axis broadband observations with the Karl G. Jansky Very Large Array and the NVSS RM results
+for 23 sources. We found that two unpolarised sources were reported as polarised at about 0.5% level
+in the RM catalogue, and noted significant differences between our newly derived RM values and the
+catalogue values for the remaining 21 sources. These discrepancies are attributed to off-axis
+instrumental polarisation in the NVSS RM catalogue. By adopting the 0.5% above as the typical off-axis
+instrumental polarisation amplitude, we quantified its effect on the reported RMs with a simulation,
+and found that on average the RM uncertainties in the catalogue have to be increased by $\approx$
+10% to account for the off-axis instrumental polarisation effect. This effect is more substantial
+for sources with lower fractional polarisation, and is a function of the source's true RM. Moreover,
+the distribution of the resulting RM uncertainty is highly non-Gaussian. With the extra RM uncertainty
+incorporated, we found that the RM values from the two observations for most (18 out of 21) of our polarised
+targets can be reconciled. The remaining three are interpreted as showing hints of time variabilities
+in RM. 

@@ -1,0 +1,16 @@
+Distributed systems designed to serve clients across the world often make use of geo-replication
+to attain low latency and high availability. Conflict-free Replicated Data Types (CRDTs) allow
+the design of predictable multi-master replication and support eventual consistency of replicas
+that are allowed to transiently diverge. CRDTs come in two flavors: state-based, where a state is
+changed locally and shipped and merged into other replicas; operation-based, where operations
+are issued locally and reliably causal broadcast to all other replicas. However, the standard definition
+of op-based CRDTs is very encompassing, allowing even sending the full-state, and thus imposing
+storage and dissemination overheads as well as blurring the distinction from state-based CRDTs.
+We introduce pure op-based CRDTs, that can only send operations to other replicas, drawing a clear
+distinction from state-based ones. Data types with commutative operations can be trivially implemented
+as pure op-based CRDTs using standard reliable causal delivery; whereas data types having non-commutative
+operations are implemented using a PO-Log, a partially ordered log of operations, and making use
+of an extended API, i.e., a Tagged Causal Stable Broadcast (TCSB), that provides extra causality
+information upon delivery and later informs when delivered messages become causally stable, allowing
+further PO-Log compaction. The framework is illustrated by a catalog of pure op-based specifications
+for classic CRDTs, including counters, multi-value registers, add-wins and remove-wins sets.

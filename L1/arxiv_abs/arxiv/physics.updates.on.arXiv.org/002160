@@ -1,0 +1,16 @@
+The energy extraction potential from the sinusoidal heaving and pitching motion of an elliptical
+hydrofoil is explored through direct numerical simulations (DNS) at a Reynolds number of 1,000
+and large eddy simulations (LES) at a Reynolds number of 50,000. The LES is able to capture the time-dependent
+vortex shedding and dynamic stall properties of the foil as it undergoes high relative angles of
+attack. Results of the computations are validated against experimental flume data, and show very
+good agreement. The high Reynolds number LES provides a direct comparison of power, forces and torques
+as well as vortex dynamics between the two Reynolds numbers. At a reduced frequency of $fc/U_{\infty}=0.1$
+the high Reynolds number flow has a 1.4-3.6\% increase in power compared to the low Reynolds number
+flow, however at $fc/U_{\infty}=0.15$ the enhancement in power is as much as 6.7\%. It is found that
+a stronger leading edge vortex and faster vortex convection times can enhance the vertical force
+coefficient to yield more power throughout a portion of the stroke in comparison with the low Reynolds
+number simulations. The kinematics for optimal efficiency are found in the range of $h_0/c=0.5-1$
+and $\theta_0=60-65$ for $fc/U_{\infty}=0.1$ and of $h_0/c=1-1.5$ and $\theta_0=75-85$ for
+$fc/U_{\infty}=0.15$. Although there are minor differences between the low and high Reynolds
+number simulations, the low Reynolds number simulations captured most of the energy harvesting
+dynamics, and were able to closely predict the optimal operating regime. 

@@ -1,0 +1,16 @@
+Beam training in dynamic millimeter-wave (mm-wave) networks with mobile devices is highly challenging
+as devices must scan a large angular domain to maintain alignment of their directional antennas
+under mobility. Device rotation is particularly challenging, as a handheld device may rotate significantly
+over a very short period of time, causing it to lose the connection to the Access Point (AP) unless
+the rotation is accompanied by immediate beam realignment. We study how to maintain the link to a
+mm-wave AP under rotation and without any input from inertial sensors, exploiting the fact that
+mm-wave devices will typically be multi-band. We present a model that maps Time-of-Flight measurements
+to rotation and propose a method to infer the rotation speed of the mobile terminal using only measurements
+from sub-6 GHz WiFi. We also use the same sub-6 GHz WiFi system to reduce the angle error estimate for
+link establishment, exploiting the spatial geometry of the deployed APs and a statistical model
+that maps the user position's spatial distribution to an angle error distribution. We leverage
+these findings to introduce SLASH, a Statistical Location and rotation-Aware beam SearcH algorithm
+that adaptively narrows the sector search space and accelerates both link establishment and maintenance
+between mm-wave devices. We evaluate SLASH with experiments conducted indoors with a sub-6 GHz
+WiFi Time-of-Flight positioning system and a 60-GHz testbed. SLASH can increase the data rate by
+more than 41% for link establishment and 67% for link maintenance with respect to prior work. 

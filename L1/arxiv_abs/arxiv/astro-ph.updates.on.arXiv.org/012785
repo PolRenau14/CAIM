@@ -1,0 +1,17 @@
+We validate the planetary origin of the KOI-1599 transit time variations (TTVs) with statistical
+and dynamical tests. We re-analysed KEPLER Q1-Q17 light-curves of the star, and we independently
+derived the TTVs. They appear as strongly anti-correlated, suggestive of two mutually interacting
+planets. We found similar radii of the candidates, $1.9 \pm 0.2\, \mbox{R}_{\oplus}$ for the inner
+KOI-1599.02, and $1.9 \pm 0.3 \, \mbox{R}_{\oplus}$ for the outer KOI-1599.01. The standard MCMC
+TTV analysis constrains the planet masses safely below the dynamical instability limit of $\simeq
+3\, \mbox{M}_{\mbox{Jup}} $. The best-fitting MCMC model yields $(9.0\pm 0.3)\, \mbox{R}_{\oplus}$,
+and $(4.6\pm0.3),\ \mbox{R}_{\oplus}$, for the inner and the outer planet, respectively. The
+planets are trapped in 3:2 mean motion resonance (MMR) with anti-aligned apsides ($\Delta \varpi
+= 180^{\circ}$) at low-eccentric ($e\simeq 0.01)$ orbits. However, we found that the TTV mass determination
+depends on eccentricity priors with the dispersion in the (0.01,0.05) range. They permit a second
+family of TTV models with smaller masses of $\simeq 7\,\mbox{R}_{\oplus}$, and $\simeq 3.6\,\mbox{R}_{\oplus}$,
+respectively, exhibiting two modes of $\Delta \varpi = 0^{\circ},180^{\circ}$ librations. The
+3:2 MMR is dynamically robust and persists for both modes. In order to resolve the mass duality, we
+re-analysed the TTV data with a quasi-analytic model of resonant TTV signals. This model favours
+the smaller masses. We also reproduced this model with simulating the migration capture of the system
+into the 3:2 MMR. 

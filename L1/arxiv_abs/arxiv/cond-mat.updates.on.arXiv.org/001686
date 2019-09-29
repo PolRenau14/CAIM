@@ -1,0 +1,16 @@
+In multicomponent superfluids and superconductors, co- and counter-flows of components have
+in general different properties. It was discussed in 1975 by Andreev and Bashkin, in the context
+of He$^3$/He$^4$ superfluid mixtures, that inter-particle interactions produce a dissipationless
+drag. The drag can be understood as a superflow of one component induced by phase gradients of the
+other component. Importantly the drag can be both positive (entrainment) and negative (counter-flow).
+The effect is known to be of crucial importance for many properties of diverse physical systems ranging
+from the dynamics of neutron stars, rotational responses of Bose mixtures of ultra-cold atoms to
+magnetic responses of multicomponent superconductors. Although there exists a substantial literature
+that includes the drag interaction phenomenologically, much fewer regimes are covered by quantitative
+studies of the microscopic origin of the drag and its dependence on microscopic parameters. Here
+we study the microscopic origin and strength of the drag interaction in a quantum system of two-component
+bosons on a lattice with short-range interaction. By performing quantum Monte-Carlo simulations
+of a two-component Bose-Hubbard model we obtain dependencies of the drag strength on the boson-boson
+interactions and properties of the optical lattice. Of particular interest are the strongly-correlated
+regimes where the ratio of co-flow and counter-flow superfluid stiffnesses can diverge, corresponding
+to the case of saturated drag. 

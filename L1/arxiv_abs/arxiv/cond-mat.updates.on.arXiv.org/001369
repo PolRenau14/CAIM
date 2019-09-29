@@ -1,0 +1,16 @@
+We detail an efficient, generic numerical procedure to expedite non-bonded pair energy calculations
+for arbitrary complex particles interacting through hard and soft finite-range potentials. This
+approach, based on the construction of neighbour lists via recursive hierarchies of bounding volumes,
+may effectively handle a wide range of molecular systems through the use of robust statistical atom-decomposition
+techniques. Its association with fast overlap detection algorithms and binary search schemes
+is shown to lead to an increase in computational efficiency by several orders of magnitudes over
+traditional grid-based methods for systems of high-aspect-ratio particles. The combination
+of this accelerated second-order virial evaluation process with an efficient theoretical framework
+based on classical density functional theory enables us to investigate the uniaxial nematic and
+cholesteric self-assembly of a wide variety of molecular models. We provide an extensive comparison
+of the results and performance of our approach with those obtained using state-of-the-art collision
+detection libraries specialised for hard interactions, both of which we find to scale sub-logarithmically
+with particle resolution. We illustrate the method through the determination of the cholesteric
+behaviour of hard, structurally-resolved twisted cuboids, and report quantitative evidence
+of the long-predicted phase handedness inversion with increasing particle thread angles near
+the phenomenological threshold value of $45^\circ$. 

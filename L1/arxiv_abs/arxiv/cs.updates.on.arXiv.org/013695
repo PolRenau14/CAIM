@@ -1,0 +1,16 @@
+Visualizations rely on highlighting to attract and guide our attention. To make an object of interest
+stand out independently from a number of distractors, the underlying visual cue, e.g., color, has
+to be preattentive. In our prior work, we introduced Deadeye as an instantly recognizable highlighting
+technique that works by rendering the target object for one eye only. In contrast to prior approaches,
+Deadeye excels by not modifying any visual properties of the target. However, in the case of 2D visualizations,
+the method requires an additional setup to allow dichoptic presentation, which is a considerable
+drawback. As a follow-up to requests from the community, this paper explores Deadeye as a highlighting
+technique for 3D visualizations, because such stereoscopic scenarios support dichoptic presentation
+out of the box. Deadeye suppresses binocular disparities for the target object, so we cannot assume
+the applicability of our technique as a given fact. With this motivation, the paper presents quantitative
+evaluations of Deadeye in VR, including configurations with multiple heterogeneous distractors
+as an important robustness challenge. After confirming the preserved preattentiveness (all average
+accuracies above 90 %) under such real-world conditions, we explore VR volume rendering as an example
+application scenario for Deadeye. We depict a possible workflow for integrating our technique,
+conduct an exploratory survey to demonstrate benefits and limitations, and finally provide related
+design implications. 

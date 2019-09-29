@@ -1,0 +1,17 @@
+The large size of multiscale, distribution and transmission, power grids hinder fast system-wide
+estimation and real-time control and optimization of operations. This paper studies graph reduction
+methods of power grids that are favorable for fast simulations and follow-up applications. While
+the classical Kron reduction has been successful in reduced order modeling of power grids with traditional,
+hierarchical design, the selection of reference nodes for the reduced model in a multiscale, distribution
+and transmission, network becomes ambiguous. In this work we extend the use of the iterative Kron
+reduction by utilizing the electric grid's graph topology for the selection of reference nodes,
+consistent with the design features of multiscale networks. Additionally, we propose further
+reductions by aggregation of coherent subnetworks of triangular meshes, based on the graph topology
+and network characteristics, in order to preserve currents and build another power-flow equivalent
+network. Our reductions are achieved through the use of iterative aggregation of sub-graphs that
+include general tree structures, lines, and triangles. Important features of our reduction algorithms
+include that: (i) the reductions are, either, equivalent to the Kron reduction, or otherwise produce
+a power-flow equivalent network; (ii) due to the former mentioned power-flow equivalence, the
+reduced network can model the dynamic of the swing equations for a lossless, inductive, steady state
+network; (iii) the algorithms efficiently utilize hash-tables to store the sequential reduction
+steps. 

@@ -1,0 +1,17 @@
+Body Sensor Network (BSN) is a typical Internet-of-Things (IoT) application for personalized
+health care. It consists of economically powered, wireless and implanted medical monitoring sensor
+nodes, which are designed to continually collect the medical information of the target patients.
+Multichannel is often used in BSNs to reduce the spectrum competition of the tremendous sensor nodes
+and the problem of channel assignment has attracted much research attention. The health sensing
+data in BSNs is often required to be delivered to a sink node (or server) before a certain deadline
+for real time monitoring or health emergency alarm. Therefore, deadline is of significant importance
+for multichannel allocation and scheduling. The existing works, though designed to meet the deadline,
+often overlook the impact of the unreliable wireless links. As a result, the health sensing data
+can still be overdue because of the scheduled lossy links. Besides, potential collisions in the
+schedules also incur considerable delay in delivering the sensing data. In this paper, we propose
+a novel deadline- driven Link quality Aware Channel Assignment scheme (LACA), where link quality,
+deadlines and collisions are jointly considered. LACA prioritizes links with urgent deadlines
+and heavy collisions. Besides, LACA allows the exploition of the spare slots for retransmissions
+on lossy links, which can further reduce the retransmission delay. Extensive simulation experiments
+show that compared to the existing approaches, LACA can better utilize the wireless spectrum and
+achieve higher packet delivery ratio before the deadline. 

@@ -1,0 +1,17 @@
+Starting from the Gisin-Percival state diffusion equation for the pure state trajectory of a composite
+bipartite quantum system and exploiting the purification of a mixed state via its Schmidt decomposition,
+we write the diffusion equation for the quantum trajectory of the mixed state of a subsystem $S$ of
+the bipartite system, when the initial state in $S$ is mixed. Denoting the diffused state of the system
+$S$ at time $t$ by $\rho_t(\mathbf{B})$ for each $t\geq 0$, where $\mathbf{B}$ is the underlying
+complex $n$-dimensional vector-valued Brownian motion process and using It{\^o} calculus, along
+with an induction procedure, we arrive at the stochastic differential of the scalar-valued moment
+process ${\rm Tr}[\rho_t^m( \mathbf{B})], \,\,\, m=2,3,\ldots$ in terms of $d\,\mathbf{B}$
+and $d\,t$. This shows that each of the processes $\{{\rm Tr}[\rho_t^m( \mathbf{B})], t\geq 0\}$
+admits a Doob-Meyer decomposition as the sum of a martingale $M^{(m)}_t(\mathbf{B})$ and a non-negative
+increasing process $S^{(m)}_t(\mathbf{B})$. This ensures the existence of $\underset{t\rightarrow\infty}{\lim}\,
+{\rm Tr}[\rho_t^m( \mathbf{B})]$ almost surely with respect to the Wiener probability measure
+$\mu$ of the Brownian motion $\mathbf{B}$, for each $m=2,\, 3,\, \ldots$. In particular, when $S$
+is a finite level system, the spectrum and therefore the entropy of $\rho_t (\mathbf{B})$ converge
+almost surely to a limit as $t\rightarrow \infty$. In the Appendix, by employing probabilistic
+means, we prove a technical result which implies the almost sure convergence of the spectrum for
+countably infinite level systems. 

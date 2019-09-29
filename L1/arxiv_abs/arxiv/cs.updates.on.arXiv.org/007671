@@ -1,0 +1,16 @@
+Stochastic Gradient Descent (SGD) methods using randomly selected batches are widely-used to
+train neural network (NN) models. Performing design exploration to find the best NN for a particular
+task often requires extensive training with different models on a large dataset, which is very computationally
+expensive. The most straightforward method to accelerate this computation is to distribute the
+batch of SGD over multiple processors. To keep the distributed processors fully utilized requires
+commensurately growing the batch size; however, large batch training often times leads to degradation
+in accuracy, poor generalization, and even poor robustness to adversarial attacks. Existing solutions
+for large batch training either significantly degrade accuracy or require massive hyper-parameter
+tuning. To address this issue, we propose a novel large batch training method which combines recent
+results in adversarial training (to regularize against `sharp minima') and second order optimization
+(to use curvature information to change batch size adaptively during training). We extensively
+evaluate our method on Cifar-10/100, SVHN, TinyImageNet, and ImageNet datasets, using multiple
+NNs, including residual networks as well as smaller networks for mobile applications such as SqueezeNext.
+Our new approach exceeds the performance of the existing solutions in terms of both accuracy and
+the number of SGD iterations (up to 1\% and $5\times$, respectively). We emphasize that this is achieved
+without any additional hyper-parameter tuning to tailor our proposed method in any of these experiments.

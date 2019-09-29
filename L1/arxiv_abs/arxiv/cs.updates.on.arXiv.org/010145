@@ -1,0 +1,16 @@
+IoT devices are increasingly being implicated in cyber-attacks, raising community concern about
+the risks they pose to critical infrastructure, corporations, and citizens. In order to reduce
+this risk, the IETF is pushing IoT vendors to develop formal specifications of the intended purpose
+of their IoT devices, in the form of a Manufacturer Usage Description (MUD), so that their network
+behavior in any operating environment can be locked down and verified rigorously. This paper aims
+to assist IoT manufacturers in developing and verifying MUD profiles, while also helping adopters
+of these devices to ensure they are compatible with their organizational policies and track devices
+network behavior based on their MUD profile. Our first contribution is to develop a tool that takes
+the traffic trace of an arbitrary IoT device as input and automatically generates the MUD profile
+for it. We contribute our tool as open source, apply it to 28 consumer IoT devices, and highlight insights
+and challenges encountered in the process. Our second contribution is to apply a formal semantic
+framework that not only validates a given MUD profile for consistency, but also checks its compatibility
+with a given organizational policy. We apply our framework to representative organizations and
+selected devices, to demonstrate how MUD can reduce the effort needed for IoT acceptance testing.
+Finally, we show how operators can dynamically identify IoT devices using known MUD profiles and
+monitor their behavioral changes on their network. 

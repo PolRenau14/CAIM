@@ -1,0 +1,16 @@
+We present an analytic formulation to model the fluctuating component of the HI signal from the epoch
+of reionization during the phase of partial heating. During this phase, we assume self-ionized
+regions, whose size distribution can be computed using excursion set formalism, to be surrounded
+by heated regions. We model the evolution of heating profile around these regions (near zone) and
+their merger into the time-dependent background (far zone). We develop a formalism to compute the
+two-point correlation function for this topology, taking into account the heating auto-correlation
+and heating-ionization cross-correlation. We model the ionization and X-ray heating using four
+parameters: efficiency of ionization, $\zeta$, number of X-ray photons per stellar baryon, $N_{\rm
+heat}$, the spectral index of X-ray photons, $\alpha$, and the minimum frequency of X-ray photons,
+$\nu_{\rm min}$. We compute the HI signal in the redshift range $10 < z < 20$ for the $\Lambda$CDM model
+for a set of these parameters. We show that the HI signal for a range of scales $1\hbox{-}8 \, \rm Mpc$
+show a peak strength $100\hbox{-}1000 \, \rm (mK)^2$ during the partially heated era. The redshift
+at which the signal makes a transition to uniformly heated universe depends on modelling parameters,
+e.g. if $\nu_{\rm min}$ is changed from $100 \, \rm eV$ to $1 \, \rm keV$, this transition moves from
+$z \simeq 15$ to $z \simeq 12$. This result, along with the dependence of the HI signal on modelling
+parameters, is in reasonable agreement with existing results from N-body simulations. 

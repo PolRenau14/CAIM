@@ -1,0 +1,16 @@
+Let $M$ be a Riemannian manifold with a smooth boundary. The main question we address in this article
+is: "When is the Laplace-Beltrami operator $\Delta\colon H^{k+1}(M)\cap H^1_0(M) \to H^{k-1}(M)$,
+$k\in \mathbb{N}_0$, invertible?" We consider also the case of mixed boundary conditions. The
+study of this main question leads us to the class of manifolds with boundary and bounded geometry
+introduced by Schick (Math. Nach. 2001). We begin with some needed results on the geometry of manifolds
+with boundary and bounded geometry. Let $\partial_D M \subset \partial M$ be an open and closed subset
+of the boundary of $M$. We say that $(M, \partial_D M)$ has \emph{finite width} if, by definition,
+$M$ is a manifold with boundary and bounded geometry such that the distance $d(x, \partial_D M)$
+from a point $x \in M$ to $\partial_D M \subset \partial M$ is bounded uniformly in $x$ (and hence,
+in particular, $\partial_D M$ intersects all connected components of $M$). For manifolds $(M,
+\partial_D M)$ with finite width, we prove a Poincar\'e inequality for functions vanishing on $\partial_D
+M$, thus generalizing an important result of Sakurai (Osaka J. Math, 2017). The Poincar\'e inequality
+then leads, as in the classical case to results on the spectrum of $\Delta$ with domain given by mixed
+boundary conditions, in particular, $\Delta$ is invertible for manifolds $(M, \partial_D M)$
+with finite width. The bounded geometry assumption then allows us to prove the well-posedness of
+the Poisson problem with mixed boundary conditions in higher Sobolev spaces $H^s(M)$, $s \ge 0$.

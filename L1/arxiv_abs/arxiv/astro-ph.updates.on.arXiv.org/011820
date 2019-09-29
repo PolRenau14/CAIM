@@ -1,0 +1,15 @@
+We present and apply a method to infer the mass of the Milky Way (MW) by comparing the dynamics of MW
+satellites to those of model satellites in the EAGLE cosmological hydrodynamics simulations.
+A distribution function (DF) for galactic satellites is constructed from EAGLE using specific
+angular momentum and specific energy, which are scaled so as to be independent of host halo mass.
+In this 2-dimensional space, the orbital properties of satellite galaxies vary according to the
+host halo mass. The halo mass can be inferred by calculating the likelihood that the observed satellite
+population is drawn from this DF. Our method is robustly calibrated on mock EAGLE systems. We validate
+it by applying it to the completely independent suite of 30 AURIGA high-resolution simulations
+of MW-like galaxies: the method accurately recovers their true mass and associated uncertainties.
+We then apply it to ten classical satellites of the MW with 6D phase-space measurements, including
+updated proper motions from the GAIA satellite. The mass of the MW is estimated to be $M_{200}^{\textnormal{MW}}=1.17_{-0.15}^{+0.21}\times10^{12}M_{\odot}$
+(68\% confidence limits). We combine our total mass estimate with recent mass estimates in the inner
+regions of the Galaxy to infer an inner dark matter (DM) mass fraction $M^\textnormal{DM}(<20~\rm{kpc})/M^\textnormal{DM}_{200}=0.12$
+which is typical of ${\sim}10^{12}M_{\odot}$ $\Lambda$CDM haloes in hydrodynamical galaxy formation
+simulations. Assuming an NFW profile, this is equivalent to a halo concentration of $c_{200}^{\textnormal{MW}}=10.9^{+2.6}_{-2.0}$.

@@ -1,0 +1,16 @@
+A set $A$ $t$-intersects a set $B$ if $A$ and $B$ have at least $t$ common elements. Families $\mathcal{A}_1,
+\mathcal{A}_2, \dots, \mathcal{A}_k$ of sets are cross-$t$-intersecting if, for every $i$ and
+$j$ in $\{1, 2, \dots, k\}$ with $i \neq j$, each set in $\mathcal{A}_i$ $t$-intersects each set in
+$\mathcal{A}_j$. An active problem in extremal set theory is to determine, for a given finite family
+$\mathcal{F}$, the structure of $k$ cross-$t$-intersecting subfamilies whose sum or product
+of sizes is maximum. For a family $\mathcal{H}$, the $r$-th level $\mathcal{H}^{(r)}$ of $\mathcal{H}$
+is the family of all sets in $\mathcal{H}$ of size $r$, and, for $s \leq r$, $\mathcal{H}^{(s)}$ is
+called a $(\leq r)$-level of $\mathcal{H}$. We solve the problem for any union $\mathcal{F}$ of
+$(\leq r)$-levels of any union $\mathcal{H}$ of power sets of sets of size at least a certain integer
+$n_0$, where $n_0$ is independent of $\mathcal{H}$ and $k$ but depends on $r$ and $t$ (dependence
+on $r$ is inevitable, but dependence on $t$ can be avoided). Our primary result asserts that there
+are only two possible optimal configurations for the sum. A special case was conjectured by Kamat
+in 2011. We also prove generalizations, whereby $\mathcal{A}_1, \mathcal{A}_2, \dots, \mathcal{A}_k$
+are not necessarily contained in the same union of levels. Various Erd\H{o}s-Ko-Rado-type results
+follow. The sum problem for a level of a power set was solved for $t=1$ by Hilton in 1977, and for any
+$t$ by Wang and Zhang in 2011. 

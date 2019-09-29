@@ -1,0 +1,16 @@
+We consider the problem of inferring the shape of a transiting object's silhouette from its light
+curve alone, without assuming a physical model for the object. We model the object as a grid of pixels
+which transits the star; each pixel has an opacity, ranging from transparent to opaque, which we
+infer from the light curve. We explore three interesting degeneracies inherent to this problem,
+in which markedly different transiting shapes can produce identical light curves: (i) the "flip"
+degeneracy, by which two pixels transiting at the same impact parameter on opposite sides of the
+star's horizontal midplane generate the same light curve; (ii) the "arc" degeneracy, by which opacity
+can be redistributed along the semicircular arc of pixels which undergoes ingress or egress at the
+same time without consequence to the light curve, and (iii) the "stretch" degeneracy, by which a
+wide shape moving fast can produce the same light curve as a narrow shape moving more slowly. By understanding
+these degeneracies and adopting some additional assumptions, we are able to numerically recover
+informative shadow images of transiting objects, and we explore a number of different algorithmic
+approaches to this problem. We apply our methods to real data, including the TRAPPIST-1c,e,f triple
+transit and two dips of Boyajian's Star. We provide Python code to calculate the transit light curve
+of any grid and, conversely, infer the image grid which generates any light curve in a software package
+accompanying this paper, EightBitTransit. 

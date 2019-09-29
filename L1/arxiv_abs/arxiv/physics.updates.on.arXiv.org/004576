@@ -1,0 +1,16 @@
+This study presents active beam steering and afocal zooming of light by incorporating liquid crystals
+(LCs) with graded index photonic crystal (GRIN PC). The GRIN PC structures are composed of low refractive
+index polymer annular rods having gradually varied radii of holes. To actively manipulate incident
+light, the annular rods are infiltrated with nematic LCs. By applying an external voltage to the
+infiltrated LCs, the effective index profile of the low-index GRIN PC structure is modulated without
+introducing any mechanical movement. The incident beam deflection and corresponding focal distance
+modulation are tuned only by controlling the applied bias voltage. In the present work, hyperbolic
+secant refractive index profile is chosen to design GRIN PC structures. To design GRIN PC structure
+with annular PCs, Maxwell-Garnett effective medium approximation is employed. Moreover, we analytically
+express the relation between infiltrated LCs and gradient parameter to show the physical background
+of the tuning ability of the proposed devices. Also, beam steering and afocal zooming devices are
+analytically investigated via geometrical optics and numerically realized with the help of the
+finite-difference time-domain method. A beam deflection with an angle change of {\Delta}{\theta}out=
+44{\deg} and a light magnification with maximum x2.15 are obtained. LCs are inexpensive materials
+and work under low voltage/power condition. This feature can be used for designing an electro-optic
+GRIN PC device that can be useful in various optical applications. 

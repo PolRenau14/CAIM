@@ -1,0 +1,17 @@
+In this paper, a novel varying order NURBS discretization method is proposed to enhance the performance
+of isogeometric analysis within the framework of computational contact mechanics. The method
+makes use of higher-order NURBS for contact integral evaluations. Lower-orders NURBS capable
+of modelling complex geometries exactly are utilized for the bulk discretization. This unexplored
+idea provides the possibility to refine the geometry through controllable order elevation strategy
+for isogeometric analysis. To achieve this, a higher-order NURBS layer is used as the contact boundary
+layer of the bodies. The NURBS layer is constructed using the surface refinement strategies such
+that it is accompanied by a large number of additional degrees of freedom and matches with the bulk
+parametrization. The validity of the presented isogeometric mortar contact formulation with
+varying-order NURBS discretization is first examined through the contact patch test. The capabilities
+and benefits of the proposed methodology are then demonstrated in detail using two-dimensional
+frictionless and frictional contact problems, considering both small and large deformations.
+It is shown that using the proposed method, accurate solutions can be achieved even with a coarse
+mesh. It is also shown that the current method requires a considerably lower computational cost
+compared to standard NURBS discretization while retaining robustness and stability. The simplicity
+of the method lends itself to be conveniently embedded in an existing isogeometric contact code
+after only a few minor modifications. 

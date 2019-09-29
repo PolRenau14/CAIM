@@ -1,0 +1,17 @@
+Self-assembly is widely used by biological systems to build complex and functional nanoscale structures,
+but the assembly pathways are difficult to observe because of the small length scales and wide range
+of time scales involved. We describe a label-free optical method to directly probe the assembly
+of individual nanostructures, and we apply it to measure the kinetics of assembly of viral capsids
+28 nm in diameter and consisting of 90 protein subunits. We use a rigid flow cell to inject a solution
+of the coat protein of bacteriophage MS2 over multiple MS2 RNA strands that are tethered to a microscope
+coverslip by specific DNA linkages. Using an interferometric detection scheme, we measure changes
+in the intensity of light scattered from the proteins while they are assembling around each RNA.
+The low photodamage afforded by elastic scattering enables high illumination intensities and
+temporal resolutions down to 1 ms, while 3D-active stabilization of the microscope extends the
+measurement duration to 600 s or longer. With this wide range of timescales, we find that the assembly
+is characterized by an exponential distribution of wait times preceding a rapid growth phase, suggesting
+that the pathway under the conditions we investigate is nucleation followed by growth. Because
+the method can measure the assembly of many individual capsids in parallel, from start to finish,
+it offers a direct view of the self-assembly process not accessible to bulk scattering or spectroscopic
+techniques. It can be adapted to study the assembly of other viruses, biomolecular assemblies,
+and synthetic nanostructures. 

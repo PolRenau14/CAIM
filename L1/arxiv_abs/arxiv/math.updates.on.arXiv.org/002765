@@ -1,0 +1,16 @@
+Avian Spirochaetosis is an acute endemic tick-borne disease of birds, caused by Borrelia anserins,
+a species of Borrelia bacteria. In this paper, we present a compartmental Mathematical model of
+the disease for the bird population and Tick population. The model so constructed was analyzed using
+methods from dynamical systems theory. \tcr{The disease steady (equilibrium) state was determined
+and the conditions for the disease-free steady state to be stable were determined}. The analysis
+showed that the disease-free steady state is locally stable if $d\geq \tau_B$ and $\delta \geq \tau_T$,
+that is, the natural death rate of birds (d) will be greater than the per capita birth rate of birds
+$\tau_B$ and the death rate of tick $\delta)$ is greater than the per capita birth rate of tick $\tau_T$.
+This means that for the disease to be under control and eradicated within a while from its outbreak,
+the natural death rate of birds $d$ will be greater than the per capita birth rate of bird $\tau_B$
+and the death rate of tick $\delta$ is greater than the per capita birth rate of tick $\tau_T$. It was
+also proved the disease-free equilibrium (DFE) and the endemic equilibrium (EE) are globally stable
+using Lyaponov method. Three control measures were introduced into the model. The optimality system
+of the three controls is characterized using optimal control theory and the existence and uniqueness
+of the optimal control are established. Then, the effect of the incorporation of the three controls
+is investigated by performing numerical simulation. 

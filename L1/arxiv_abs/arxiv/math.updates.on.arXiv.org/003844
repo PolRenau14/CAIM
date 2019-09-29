@@ -1,0 +1,17 @@
+We provide a mathematical formulation and develop a computational framework for identifying multiple
+strains of microorganisms from mixed samples of DNA. Our method is applicable in public health domains
+where efficient identification of pathogens is paramount, e.g., for the monitoring of disease
+outbreaks. We formulate strain identification as an inverse problem that aims at simultaneously
+estimating a binary matrix (encoding presence or absence of mutations in each strain) and a real-valued
+vector (representing the mixture of strains) such that their product is approximately equal to
+the measured data vector. The problem at hand has a similar structure to blind deconvolution, except
+for the presence of binary constraints, which we enforce in our approach. Following a Bayesian approach,
+we derive a posterior density. We present two computational methods for solving the non-convex
+maximum a posteriori estimation problem. The first one is a local optimization method that is made
+efficient and scalable by decoupling the problem into smaller independent subproblems, whereas
+the second one yields a global minimizer by converting the problem into a convex mixed-integer quadratic
+programming problem. The decoupling approach also provides an efficient way to integrate over
+the posterior. This provides useful information about the ambiguity of the underdetermined problem
+and, thus, the uncertainty associated with numerical solutions. We evaluate the potential and
+limitations of our framework in silico using synthetic and experimental data with available ground
+truths. 

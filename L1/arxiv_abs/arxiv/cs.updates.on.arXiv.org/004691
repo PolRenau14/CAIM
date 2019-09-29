@@ -1,0 +1,17 @@
+Experimental data availability is a cornerstone for reproducibility in experimental fracture
+mechanics, which is crucial to the scientific method. This short communication focuses on the accessibility
+and long term availability of raw experimental data. The corresponding authors of the eleven most
+cited papers, related to experimental fracture mechanics, for every year from 2000 up to 2016, were
+kindly asked about the availability of the raw experimental data associated with each publication.
+For the 187 e-mails sent: 22.46% resulted in outdated contact information, 57.75% of the authors
+did received our request and did not reply, and 19.79 replied to our request. The availability of
+data is generally low with only $11$ available data sets (5.9%). The authors identified two main
+issues for the lacking availability of raw experimental data. First, the ability to retrieve data
+is strongly attached to the the possibility to contact the corresponding author. This study suggests
+that institutional e-mail addresses are insufficient means for obtaining experimental data sets.
+Second, lack of experimental data is also due that submission and publication does not require to
+make the raw experimental data available. The following solutions are proposed: (1) Requirement
+of unique identifiers, like ORCID or ResearcherID, to detach the author(s) from their institutional
+e-mail address, (2) Provide DOIs, like Zenodo or Dataverse, to make raw experimental data citable,
+and (3) grant providing organizations should ensure that experimental data by public funded projects
+is available to the public. 

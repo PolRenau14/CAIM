@@ -1,0 +1,16 @@
+We present a macroscopic portfolio model which considers the time evolution of the stock price and
+the investments in bonds and stocks. The asset allocation between bonds and stocks is determined
+by an combination of a fundamentalist or chartist strategy. The stock price is determined by the
+inflow or outflow of stock investments. The model is able to replicate the most prominent features
+of financial markets, namely booms and crashes. In the case of random fundamental prices the model
+is even able to reproduce fat tails in logarithmic stock price return data. We want to point out that
+we derive the model from microscopic agent dynamics. On the microscopic level each financial agent
+is faced with an optimization problem, where each agent seeks to find a Nash equilibrium solution.
+We use model predictive control to approximate the control problem. This allows us to give a precise
+mathematical definition of rational and bounded rational financial agents. Moreover the approximation
+scheme of the microscopic optimal control problem gives a natural connections between rational
+and bounded rational agents. In fact the model can be regarded as the result of the simplest approximation
+of the optimal control problem and thus considers financial agents of maximum boundedness. Mathematically,
+the model can be regarded as the moment model of the recently introduced mesoscopic kinetic portfolio
+model(Trimborn, Pareschi, Frank: Portfolio Optimization and Model Predictive Control: A Kinetic
+Approach, arXiv:1711.03291). 

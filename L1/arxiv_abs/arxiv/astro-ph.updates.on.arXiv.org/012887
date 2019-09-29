@@ -1,0 +1,17 @@
+Over the solar-activity cycle, there are extended periods where significant discrepancies occur
+between the spacecraft-observed total (unsigned) open magnetic flux and that determined from
+coronal models. In this article, the total open heliospheric magnetic flux is computed using two
+different methods and then compared with results obtained from in-situ interplanetary magnetic-field
+observations. The first method uses two different types of photospheric magnetic-field maps as
+input to the Wang Sheeley Arge (WSA) model: i) traditional Carrington or diachronic maps, and ii)
+Air Force Data Assimilative Photospheric Flux Transport model synchronic maps. The second method
+uses observationally derived helium and extreme-ultraviolet coronal-hole maps overlaid on the
+same magnetic-field maps in order to compute total open magnetic flux. The diachronic and synchronic
+maps are both constructed using magnetograms from the same source, namely the National Solar Observatory
+Kitt Peak Vacuum Telescope and Vector Spectromagnetograph. The results of this work show that the
+total open flux obtained from observationally derived coronal holes agrees remarkably well with
+that derived from WSA, especially near solar minimum. This suggests that, on average, coronal models
+capture well the observed large-scale coronal-hole structure over most of the solar cycle. Both
+methods show considerable deviations from total open flux deduced from spacecraft data, especially
+near solar maximum, pointing to something other than poorly determined coronal-hole area specification
+as the source of these discrepancies. 

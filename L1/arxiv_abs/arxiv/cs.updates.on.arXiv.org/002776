@@ -1,0 +1,16 @@
+Recent advances in deep learning for natural images has prompted a surge of interest in applying
+similar techniques to medical images. Most of the initial attempts focused on replacing the input
+of a deep convolutional neural network with a medical image, which does not take into consideration
+the fundamental differences between these two types of images. Specifically, fine details are
+necessary for detection in medical images, unlike in natural images where coarse structures matter.
+This difference makes it inadequate to use the existing network architectures developed for natural
+images, because they work on an heavily downsampled image to reduce the memory requirements. This
+hides details necessary to make accurate predictions. Additionally, a single exam in medical imaging
+often comes with a set of views which must be fused in order to reach a correct conclusion. In our work,
+we propose to use a multi-view deep convolutional neural network that handles a set of high-resolution
+medical images. We evaluate it on large-scale mammography-based breast cancer screening (BI-RADS
+prediction) using 886 thousand images. We focus on investigating the impact of training set size
+and image size on the prediction accuracy. Our results highlight that performance increases with
+the size of training set, and that the best performance can only be achieved using the original resolution.
+This suggests that medical imaging research using deep learning must utilize as much data as possible
+with the least amount of potentially harmful preprocessing. 

@@ -1,0 +1,17 @@
+Bitcoin is the first implementation of what has become known as a 'public permissionless' blockchain.
+Guaranteeing security and protocol conformity through its elegant combination of cryptographic
+assurances and game theoretic economic incentives, it permits censorship resistant public read-write
+access to its append-only blockchain database without the need for any mediating central authority.
+Not until its advent has such a trusted, transparent, comprehensive and granular data set of digital
+economic behaviours been available for public network analysis. In this article, by translating
+the cumbersome binary data structure of the Bitcoin blockchain into a high fidelity graph model,
+we demonstrate through various analyses the often overlooked social and econometric benefits
+of employing such a novel open data architecture. Specifically we show (a) how repeated patterns
+of transaction behaviours can be revealed to link user activity across the blockchain; (b) how newly
+mined bitcoin can be associated to demonstrate individual accumulations of wealth; (c) through
+application of the na\"ive quantity theory of money that Bitcoin's disinflationary properties
+can be revealed and measured; and (d) how the user community can develop coordinated defences against
+repeated denial of service attacks on the network. All of the aforementioned being exemplary benefits
+that would be lost with the closed data models of the 'private permissioned' distributed ledger
+architectures that are dominating enterprise level development due to existing blockchain issues
+of governance, scalability and confidentiality. 

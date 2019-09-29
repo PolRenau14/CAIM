@@ -1,0 +1,17 @@
+Sepsis is a life-threatening host response to infection associated with high mortality, morbidity,
+and health costs. Its management is highly time-sensitive since each hour of delayed treatment
+increases mortality due to irreversible organ damage. Meanwhile, despite decades of clinical
+research, robust biomarkers for sepsis are missing. Therefore, detecting sepsis early by utilizing
+the affluence of high-resolution intensive care records has become a challenging machine learning
+problem. Recent advances in deep learning and data mining promise to deliver a powerful set of tools
+to efficiently address this task. This empirical study proposes two novel approaches for the early
+detection of sepsis: a deep learning model and a lazy learner based on time series distances. Our
+deep learning model employs a temporal convolutional network that is embedded in a Multi-task Gaussian
+Process Adapter framework, making it directly applicable to irregularly-spaced time series data.
+Our lazy learner, by contrast, is an ensemble approach that employs dynamic time warping. We frame
+the timely detection of sepsis as a supervised time series classification task. For this, we derive
+the most recent sepsis definition in an hourly resolution to provide the first fully accessible
+early sepsis detection environment. Seven hours before sepsis onset, our methods improve area
+under the precision--recall curve from 0.25 to 0.35/0.40 over the state of the art. This demonstrates
+that they are well-suited for detecting sepsis in the crucial earlier stages when management is
+most effective. 

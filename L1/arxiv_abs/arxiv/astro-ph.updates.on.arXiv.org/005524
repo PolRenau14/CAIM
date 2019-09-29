@@ -1,0 +1,16 @@
+Magnetic activity is known to be correlated to the rotation period for moderately active main sequence
+solar-like stars. In turn, the stellar rotation period evolves as a result of magnetised stellar
+winds that carry away angular momentum. Understanding the interplay between magnetic activity
+and stellar rotation is therefore a central task for stellar astrophysics. Angular momentum evolution
+models typically employ spin-down torques that are formulated in terms of the surface magnetic
+field strength. However, these formulations fail to account for the magnetic field geometry, unlike
+those that are expressed in terms of the open flux, i.e. the magnetic flux along which stellar winds
+flow. In this work, we model the angular momentum evolution of main sequence solar-mass stars using
+a torque law formulated in terms of the open flux. This is done using a potential field source surface
+model in conjunction with the Zeeman-Doppler magnetograms of a sample of roughly solar-mass stars.
+We explore how the open flux of these stars varies with stellar rotation and choice of source surface
+radii. We also explore the effect of field geometry by using two methods of determining the open flux.
+The first method only accounts for the dipole component while the second accounts for the full set
+of spherical harmonics available in the Zeeman-Doppler magnetogram. We find only a small difference
+between the two methods, demonstrating that the open flux, and indeed the spin-down, of main sequence
+solar-mass stars is likely dominated by the dipolar component of the magnetic field. 

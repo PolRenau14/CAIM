@@ -1,0 +1,16 @@
+To make better use of file diversity provided by random caching and improve the successful transmission
+probability (STP) of a file, we consider retransmissions with random discontinuous transmission
+(DTX) in a large-scale cache-enabled heterogeneous wireless network (HetNet) employing random
+caching. We analyze and optimize the STP in two mobility scenarios, i.e., the high mobility scenario
+and the static scenario. First, in each scenario, by using tools from stochastic geometry, we obtain
+the closed-form expressions for the STP in the general and low signal-to-interference ratio (SIR)
+threshold regimes, respectively. The analysis shows that a larger caching probability corresponds
+to a higher STP in both scenarios; random DTX can improve the STP in the static scenario and its benefit
+gradually diminishes when mobility increases. Then, in each scenario, we consider the maximization
+of the STP with respect to the caching probability and the BS activity probability, which is a challenging
+non-convex optimization problem. In particular, in the high mobility scenario, we obtain a globally
+optimal solution using interior point method. In the static scenario, we develop a low-complexity
+iterative algorithm to obtain a stationary point using alternating optimization. Finally, numerical
+results show that the proposed solutions achieve significant gains over existing baseline schemes
+and can well adapt to the changes of the system parameters to wisely utilize storage resources and
+transmission opportunities. 

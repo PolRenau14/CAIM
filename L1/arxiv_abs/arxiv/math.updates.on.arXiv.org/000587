@@ -1,0 +1,16 @@
+This work is concerned with the exact controllability/observability of abstract cascade hyperbolic
+systems by a reduced number of controls/observations. We prove that the observation of the last
+component of the vector state allows to recover the initial energies of all of its components in suitable
+functional spaces under a necessary and sufficient condition on the coupling operators for cascade
+bi-diagonal systems. The approach is based on a multi-level energy method which involves $n$-levels
+of weakened energies. We establish this result for the case of bounded as well as unbounded dual control
+operators and under the hypotheses of partial coercivity of the $n-1$ coupling operators on the
+sub-diagonal of the system. We further extend our observability result to mixed bi-diagonal and
+non bi-diagonal $n+p$-coupled cascade systems by $p+1$ observations. Applying the HUM method,
+we derive the corresponding exact controllability results for $n$-coupled bi-diagonal cascade
+and $n+p$-coupled mixed cascade systems. Using the transmutation method for the wave operator,
+we prove that the corresponding heat (resp. Schr\"odinger) multi-dimensional cascade systems
+are null-controllable for control regions and coupling regions which are disjoint from each other
+and for any positive time for $n \le 5$ for dimensions larger than $2$, and for any $n \ge 2$ in the one-dimensional
+case. The controls can be localized on a subdomain or on the boundary and in the one-dimensional case
+the coupling coefficients can be supported in any non-empty subset of the domain. 

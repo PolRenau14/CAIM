@@ -1,0 +1,16 @@
+Measurement of cosmic shear using weak gravitational lensing is a challenging task that involves
+a number of complicated procedures. We study in detail the systematic errors in measurement of weak
+lensing Minkowski Functionals (MFs). Specifically, we focus on systematics associated with galaxy
+shape measurement, photometric redshift errors, and shear calibration correction. We first generate
+mock weak lensing catalogues that directly incorporate the actual observational characteristics
+of the Canada-France-Hawaii Lensing Survey (CFHTLenS). We then perform the Fisher analysis using
+the large set of mock catalogues for various cosmological models. We find that the statistical error
+associated with the observational effects degrades the cosmological parameter constraints by
+a factor of a few. Subaru Hyper Suprime-Cam (HSC) survey with the sky coverage of ~1400 deg2 will constrain
+the dark energy equation of state parameter with an error of Delta w_0 ~ 0.25 by the lensing MFs alone,
+but biases induced by the systematics can be comparable to the 1-sigma error. We conclude that the
+lensing MFs are powerful statistics beyond the two-point statistics, only if well calibrated measurement
+of both the redshifts and the shapes of source galaxies is performed. Finally, we analyse the CFHTLenS
+data to explore the ability of the MFs to break degeneracies between a few cosmological parameters.
+Using a combined analysis of the MFs and the shear correlation function, we derive the matter density
+Omega_m0= 0.256+0.054-0.046. 

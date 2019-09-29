@@ -1,0 +1,17 @@
+The use of social media affects the real world as well. This study relies on specific social network
+measures to investigate the interactions between election participants and the importance of
+their contacts. It investigates whether personal contacts matter more than know-how contacts
+in wiki election nominations and voting participation by using standard tools such as Pajek and
+Gephi. It further evaluates the significance of a personal contacts in online wiki elections through
+a number of different graph-based influence identification methods. Additionally, the basic
+characteristics and cohesive groups in the wiki vote network are explored. This work contributes
+by discovering the significance of personal contacts over know-how contacts of a person in online
+elections. It is found that personal contacts, i.e. immediate neighbors (degree centrality) and
+neighborhood (k-neighbors) of a person have a positive effect on a person's nomination as an administrator
+and also contribute to the active participation of voters in voting. Moreover, know-how contacts,
+analyzed by means of measures such as betweenness and closeness centralities, have a relatively
+insignificant effect on the selection of a person. However, know-how contacts in terms of betweenness
+centrality for passing information in the network can positively contribute only to the voting
+process. These contacts also measured in terms of influence domain and PageRank can play a vital
+role in the selection of an admin. Additionally, such contacts in terms of reachability and brokerage
+roles have a positive association with the voting process. 

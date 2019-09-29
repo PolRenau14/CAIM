@@ -1,0 +1,16 @@
+In a blockchain system, consensus protocol as an incentive and security mechanism, is to ensure
+the participants to build the block honestly and effectively. There are different consensus protocols
+for blockchain, like Proof of work (PoW), Proof of Stake (PoS), Proof of Space (PoSpace), Proof of
+Activities etc. But most of these consensus protocols are not designed for doing some useful jobs
+for society because of too much competition and scalability limitation. Massive electric power
+and computing resources, including CPU, RAM, storage and sensors have been wasted to run blockchain
+network based on these consensus protocols. Current frameworks and middleware for building decentralised
+applications (dApps) are largely limited to simple and less useful jobs. In this paper, we present
+Proofware which is designed for developers to build their dApps easily with existing public/crowd-based
+computing resources. Under Proofware, developers can develop and test their own Proof of Useful
+Work (PoUW) consensus protocols. Also, rather than depending on a centralised accounting system,
+each dApp has an embedded currency system to keep the whole incentive system decentralised, fair,
+transparent, stable and sustainable. Based on Proofware, we have built a crowd based video sharing
+application, called OurTube, as a case study. By the OurTube example, it has shown Proofware significantly
+improves the productivity to build crowd-based computing system with the features of cost-effectiveness,
+anti-censorship, elasticity and financial sustainability. 

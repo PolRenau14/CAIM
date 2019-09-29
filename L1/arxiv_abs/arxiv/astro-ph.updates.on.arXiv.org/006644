@@ -1,0 +1,16 @@
+Technology has advanced to the point that it is possible to image the entire sky every night and process
+the data in real time. The sky is hardly static: many interesting phenomena occur, including variable
+stationary objects such as stars or QSOs, transient stationary objects such as supernovae or M dwarf
+flares, and moving objects such as asteroids and the stars themselves. Funded by NASA, we have designed
+and built a sky survey system for the purpose of finding dangerous near-Earth asteroids (NEAs).
+This system, the "Asteroid Terrestrial-impact Last Alert System" (ATLAS), has been optimized
+to produce the best survey capability per unit cost, and therefore ATLAS is an efficient and competitive
+system for finding potentially hazardous asteroids (PHAs) but also for tracking variables and
+finding transients. While carrying out its NASA mission, ATLAS now discovers the greatest number
+of bright ($m < 19$) supernovae candidates of any ground based survey, frequently detecting very
+young explosions due to its 2 day cadence. ATLAS discovered the afterglow of a gamma-ray burst independent
+of the high energy trigger and has released a variable star catalogue of 5$\times10^{6}$ sources.
+This, the first of a series of articles describing ATLAS, is devoted to the design and performance
+of the ATLAS system. Subsequent articles will describe in more detail the software, the survey strategy,
+ATLAS-derived NEA population statistics, transient detections, and the first data release of
+variable stars and transient lightcurves. 

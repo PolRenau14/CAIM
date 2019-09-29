@@ -1,0 +1,16 @@
+We present one of the most precise emission spectra of an exoplanet observed so far. We combine five
+secondary eclipses of the hot Jupiter WASP-18 b (Tday=2900K) that we secured between 1.1 and 1.7
+micron with the WFC3 instrument aboard the Hubble Space Telescope. Our extracted spectrum (S/N=50,
+R=40) does not exhibit clearly identifiable molecular features but is poorly matched by a blackbody
+spectrum. We complement this data with previously published Spitzer/IRAC observations of this
+target and interpret the combined spectrum by computing a grid of self-consistent, 1D forward models,
+varying the composition and energy budget. At these high temperatures, we find there are important
+contributions to the overall opacity from H- ions, as well as the removal of major molecules by thermal
+dissociation (including water), and thermal ionization of metals. These effects were omitted
+in previous spectral retrievals for very hot gas giants, and we argue that they must be included to
+properly interpret the spectra of these objects. We infer a new metallicity and C/O ratio for WASP-18
+b, and find them well constrained to be solar ([M/H]=-0.01 (0.35), C/O<0.85 at 3 sigma confidence
+level), unlike previous work but in line with expectations for giant planets. The best fitting self-consistent
+temperature-pressure profiles are inverted, resulting in an emission feature at 4.5 micron seen
+in the Spitzer photometry. These results further strengthen the evidence that the family of very
+hot gas giant exoplanets commonly exhibit thermal inversions. 

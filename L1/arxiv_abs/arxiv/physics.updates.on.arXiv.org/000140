@@ -1,0 +1,17 @@
+Light scattering in disordered media has been studied extensively due to its prevalence in natural
+and artificial systems [1]. In the field of photonics most of the research has focused on understanding
+and mitigating the effects of scattering, which are often detrimental. For certain applications,
+however, intentionally introducing disorder can actually improve the device performance, e.g.,
+in photovoltaics optical scattering improves the efficiency of light harvesting [2-5]. Here,
+we utilize multiple scattering in a random photonic structure to build a compact on-chip spectrometer.
+The probe signal diffuses through a scattering medium generating wavelength-dependent speckle
+patterns which can be used to recover the input spectrum after calibration. Multiple scattering
+increases the optical pathlength by folding the paths in a confined geometry, enhancing the spectral
+decorrelation of speckle patterns and thus increasing the spectral resolution. By designing and
+fabricating the spectrometer on a silicon wafer, we are able to efficiently channel the scattered
+light to the detectors, minimizing the reflection loss. We demonstrate spectral resolution of
+0.75 nm at a wavelength of 1500 nm in a 25 {\mu}m by 50 {\mu}m random structure. Furthermore, the phenomenal
+control afforded by semiconductor nanofabrication technology enabled us to engineer the disorder
+to reduce the out-of-plane scattering loss. Such a compact, high-resolution spectrometer that
+is integrated on a silicon chip and robust against fabrication imperfections is well suited for
+lab-on-a-chip spectroscopy applications. 

@@ -1,0 +1,16 @@
+Determining the atomic configuration of an interface is one of the most important issues in the materials
+research. Although theoretical simulations are effective tools for that purpose, the exhaustive
+search is computationally prohibitive due to high degrees of freedom of the interface structure.
+For the fast exploration of the interface structures, we introduce two machine-learning concepts,
+called transfer learning and cost-sensitive search. To solve multiple different (but related)
+tasks, transferring knowledge of each task improves efficiency of machine-learning methods.
+In the interface-structure search, multiple energy surfaces created by a variety of different
+orientation angles need to be explored to understand interface properties. A knowledge-transfer
+based machine-learning algorithm can provide an efficient search for the interface structures
+by exploiting similarity among multiple energy surfaces. Further, we consider diversity of supercell
+sizes of interface models, which results in a different computational cost of each search space.
+The idea of the cost-sensitive search is to compare candidate structures based on both of a possible
+energy decrease and the computational cost, meaning that each candidate is evaluated by its cost-effectiveness
+for the energy decrease. By combining the above two machine-learning concepts, our method realizes
+a cost-effective simultaneous search for multiple energy surfaces. As a case study, we show efficiency
+of our method using the fcc-Al [110] tilt grain boundary. 

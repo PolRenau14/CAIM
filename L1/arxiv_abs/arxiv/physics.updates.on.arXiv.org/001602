@@ -1,0 +1,17 @@
+High order reconstruction in the finite volume (FV) approach is achieved by a more fundamental form
+of the fifth order WENO reconstruction in the framework of orthogonally-curvilinear coordinates,
+for solving the hyperbolic conservation equations. The derivation employs a piecewise parabolic
+polynomial approximation to the zone averaged values to reconstruct the right, middle, and left
+interface values. The grid dependent linear weights of the WENO are recovered by inverting a Vandermode-like
+linear system of equations with spatially varying coefficients. A scheme for calculating the linear
+weights, optimal weights, and smoothness indicator on a regularly- and irregularly-spaced grid
+in orthogonally-curvilinear coordinates is proposed. A grid independent relation for evaluating
+the smoothness indicator is derived from the basic definition. Finally, the procedures for the
+source term integration and extension to multi-dimensions are proposed. Analytical values of
+the linear and optimal weights, and also the weights required for the source term integration and
+flux averaging, are provided for a regularly-spaced grid in Cartesian, cylindrical, and spherical
+coordinates. Conventional fifth order WENO reconstruction for the regularly-spaced grids in
+the Cartesian coordinates can be fully recovered in the case of limiting curvature. The fifth order
+finite volume WENO-C (orthogonally-curvilinear version of WENO) reconstruction scheme is tested
+for several 1D and 2D benchmark test cases involving smooth and discontinuous flows in cylindrical
+and spherical coordinates. 

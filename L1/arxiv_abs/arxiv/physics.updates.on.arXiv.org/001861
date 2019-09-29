@@ -1,0 +1,16 @@
+Processes of propagation and interaction of nonlinear gravity-capillary waves on the free surface
+of a deep non-conducting liquid with high dielectric constant under the action of a tangential electric
+field are numerically simulated. The computational method is based on the time-dependent conformal
+transformation of the region occupied by the fluid into a half-plane. In the limit of a strong electric
+field, when the gravitational and capillary forces are negligibly small, there exists an exact
+analytical solution of the electro-hydrodynamic equations describing propagation without distortions
+of nonlinear surface waves along (or against) the electric field direction. In the situation where
+gravity and capillarity are taken into account, the results of numerical simulations indeed show
+that, for large external field, the waves traveling in a given direction tend to preserve their shape.
+In the limit of a strong electric field, the interaction of counter-propagating waves leads to the
+formation of regions, where the electrostatic and dynamic pressures undergo a discontinuity,
+and the curvature of the surface increases infinitely. The Fourier spectrum of the surface perturbations
+tends to the power-law distribution (k^-2). In the case of a finite electric field, the wave interaction
+results in a radiation of massive cascade of small-scale capillary waves that causes the chaotic
+behavior of the system. The investigated mechanism of interaction between oppositely-traveling
+waves can enhance development of the capillary turbulence of the fluid surface. 

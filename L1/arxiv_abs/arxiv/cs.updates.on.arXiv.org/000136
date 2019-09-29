@@ -1,0 +1,17 @@
+As an important application in the busy world today, mobile video conferencing facilitates virtual
+face-to-face communication with friends, families and colleagues, via their mobile devices on
+the move. However, how to provision high-quality, multi-party video conferencing experiences
+over mobile devices is still an open challenge. The fundamental reason behind is the lack of computation
+and communication capacities on the mobile devices, to scale to large conferencing sessions. In
+this paper, we present vSkyConf, a cloud-assisted mobile video conferencing system to fundamentally
+improve the quality and scale of multi-party mobile video conferencing. By novelly employing a
+surrogate virtual machine in the cloud for each mobile user, we allow fully scalable communication
+among the conference participants via their surrogates, rather than directly. The surrogates
+exchange conferencing streams among each other, transcode the streams to the most appropriate
+bit rates, and buffer the streams for the most efficient delivery to the mobile recipients. A fully
+decentralized, optimal algorithm is designed to decide the best paths of streams and the most suitable
+surrogates for video transcoding along the paths, such that the limited bandwidth is fully utilized
+to deliver streams of the highest possible quality to the mobile recipients. We also carefully tailor
+a buffering mechanism on each surrogate to cooperate with optimal stream distribution. We have
+implemented vSkyConf based on Amazon EC2 and verified the excellent performance of our design,
+as compared to the widely adopted unicast solutions. 

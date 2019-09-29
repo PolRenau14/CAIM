@@ -1,0 +1,17 @@
+We present a set of practical benchmarks for qubit arrays that economically test the fidelity of
+achieving multi-qubit nonclassicality. The benchmarks are measurable correlators similar to
+2-qubit Bell correlators, and are derived from a particular set of geometric structures from the
+$N$-qubit Pauli group for $N=3,...,9$ qubits. These structures prove the Greenberger-Horne-Zeilinger
+(GHZ) theorem, while the derived correlators witness genuine $N$-partite entanglement and establish
+a tight lower bound on the fidelity of particular stabilizer state preparations. The correlators
+need only $M \leq N+1$ distinct measurement settings, as opposed to the $2^{2N}-1$ settings that
+would normally be required to tomographically verify their associated stabilizer states. We optimize
+the measurements of these correlators for a physical array of qubits that can be nearest-neighbor-coupled
+with controlled-$Z$ gates, and provide circuits with a constant gate depth for testing 3--9 qubits
+with linear cluster states. Since measuring a benchmark stabilizes its associated state, it is
+possible to periodically check the benchmark during a larger protocol requiring that stabilized
+state. We numerically simulate the provided circuits for a realistic scenario, using ranges of
+$T_1$ energy relaxation times, $T_2$ dephasing times, and controlled-$Z$ gate-fidelities consistent
+with Google's 9-qubit superconducting chip. The simulations verify the tightness of the fidelity
+bounds and witness nonclassicality for all nine qubits, while also showing ample room for improvement
+in chip performance. 

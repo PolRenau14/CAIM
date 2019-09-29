@@ -1,0 +1,16 @@
+The properties of the first galaxies, expected to drive the Cosmic Dawn (CD) and the Epoch of Reionization
+(EoR), are encoded in the 3D structure of the cosmic 21-cm signal. Parameter inference from upcoming
+21-cm observations promises to revolutionize our understanding of these unseen galaxies. However,
+prior inference was done using models with several simplifying assumptions. Here we introduce
+a flexible, physically-motivated parametrization for high-$z$ galaxy properties, implementing
+it in the public code 21cmFAST. In particular, we allow their star formation rates and ionizing escape
+fraction to scale with the masses of their host dark matter halos, and directly compute inhomogeneous,
+sub-grid recombinations in the intergalactic medium. Combining current Hubble observations
+of the rest-frame UV luminosity function (UV LFs) at high-$z$ with a mock 1000h 21-cm observation
+using the Hydrogen Epoch of Reionization Arrays (HERA), we constrain the parameters of our model
+using a Monte Carlo Markov Chain sampler of 3D simulations, 21CMMC. We show that the amplitude and
+scaling of the stellar mass with halo mass is strongly constrained by LF observations, while the
+remaining galaxy properties are constrained mainly by 21-cm observations. The two data sets compliment
+each other quite well, mitigating degeneracies intrinsic to each observation. All eight of our
+astrophysical parameters are able to be constrained at the level of $\sim 10\%$ or better. The updated
+versions of 21cmFAST and 21CMMC used in this work are publicly available. 

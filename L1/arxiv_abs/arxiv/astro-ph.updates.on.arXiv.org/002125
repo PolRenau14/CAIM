@@ -1,0 +1,17 @@
+The slope of the star formation rate/stellar mass relation (the SFR ``Main Sequence"; SFR--Mstel)
+is not quite unity: specific star formation rates (SFR/Mstel) are weakly-but-significantly anti-correlated
+with Mstel. Here we demonstrate that this trend may simply reflect the well-known increase in bulge
+mass-fractions -- portions of a galaxy not forming stars -- with Mstel. Using a large set of bulge/disk
+decompositions and SFR estimates derived from the Sloan Digital Sky Survey, we show that re-normalizing
+SFR by disk stellar mass (sSFRd = SFR/Mdisk) reduces the Mstel-dependence of SF efficiency by ~0.25
+dex per dex, erasing it entirely in some subsamples. Quantitatively, we find log(sSFRd)--log(Mstel)
+to have a slope -0.20 < beta_disk < 0.00 +/- 0.02 (depending on SFR estimator and Main Sequence
+definition) for star-forming galaxies with Mstel > 10^10 Msun and bulge mass-fractions B/T
+< 0.7, generally consistent with a pure-disk control sample (beta_control = -0.05 +/- 0.04).
+That <SFR/Mdisk> is (largely) independent of host mass for star-forming disks bears strongly
+on scenarios of galaxy evolution derived from any SFR--Mstel relation, including: the principal
+manifestation of ``mass quenching" (bulge growth); the constancy of the shape of the star-forming
+stellar mass function (uniform dlog(Mstel)/dt, assuming disk-driven growth); and the degree
+to which dispersion in SFR(Mstel,t) encodes diversity in star formation histories. Our results
+emphasize the need to treat galaxies as composite systems -- not integrated masses -- in observational
+and theoretical work. 

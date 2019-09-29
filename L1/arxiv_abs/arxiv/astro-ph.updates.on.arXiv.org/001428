@@ -1,0 +1,17 @@
+The large gas and dust reservoirs of submm galaxies (SMGs) could potentially provide ample fuel
+to trigger an Active Galactic Nucleus (AGN), but previous studies of the AGN fraction in SMGs have
+been controversial largely due to the inhomogeneity and limited angular resolution of the available
+submillimeter surveys. Here we set improved constraints on the AGN fraction and X-ray properties
+of the SMGs with ALMA and Chandra observations in the Extended Chandra Deep Field-South (E-CDF-S).
+This study is the first among similar works to have unambiguously identified the X-ray counterparts
+of SMGs; this is accomplished using the fully submm-identified, statistically reliable SMG catalog
+with 99 SMGs from the ALMA LABOCA E-CDF-S Submillimeter Survey (ALESS). We found 10 X-ray sources
+associated with SMGs (median redshift z = 2.3), of which 8 were identified as AGNs using several techniques
+that enable cross-checking. The other 2 X-ray detected SMGs have levels of X-ray emission that can
+be plausibly explained by their star-formation activity. 6 of the 8 SMG-AGNs are moderately/highly
+absorbed, with N_H > 10e23 cm-2. An analysis of the AGN fraction, taking into account the spatial
+variation of X-ray sensitivity, yields an AGN fraction of 17+16-6% for AGNs with rest-frame 0.5-8
+keV absorption-corrected luminosity >7.8x10e42 erg s-1; we provide estimated AGN fractions
+as a function of X-ray flux and luminosity. ALMA's high angular resolution also enables direct X-ray
+stacking at the precise positions of SMGs for the first time, and we found 4 potential SMG-AGNs in
+our stacking sample. 

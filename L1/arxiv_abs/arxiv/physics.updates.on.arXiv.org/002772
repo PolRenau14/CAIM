@@ -1,0 +1,16 @@
+In this work we propose to validate the predictive capabilities of one-dimensional (1D) blood flow
+models with full three-dimensional (3D) models in the context of patient-specific coronary hemodynamics
+in hyperemic conditions. Such conditions mimic the state of coronary circulation during the acquisition
+of the Fractional Flow Reserve (FFR) index. Demonstrating that 1D models accurately reproduce
+FFR estimates obtained with 3D models has implications in the approach to computationally estimate
+FFR. To this end, a sample of 20 patients was employed from which 29 3D geometries of arterial trees
+were constructed, 9 obtained from coronary computed tomography angiography (CCTA) and 20 from
+intra-vascular ultrasound (IVUS). For each 3D arterial model, a 1D counterpart was generated.
+The same outflow and inlet pressure boundary conditions were applied to both (3D and 1D) models.
+In the 1D setting, pressure losses at stenoses and bifurcations were accounted for through specific
+lumped models. Comparisons between 1D models ($\text{FFR}_{\text{1D}}$) and 3D models ($\text{FFR}_{\text{3D}}$)
+were performed in terms of predicted $\text{FFR}$ value. Compared to $\text{FFR}_{\text{3D}}$,
+$\text{FFR}_{\text{1D}}$ resulted with a difference of 0.00$\pm$0.03 and overall predictive
+capability AUC, Acc, Spe, Sen, PPV and NPV of 0.97, 0.98, 0.90, 0.99, 0.82, and 0.99, with an FFR threshold
+of 0.8. We conclude that inexpensive $\text{FFR}_{\text{1D}}$ simulations can be reliably used
+as a surrogate of demanding $\text{FFR}_{\text{3D}}$ computations. 

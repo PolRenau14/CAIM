@@ -1,0 +1,16 @@
+Semidefinite programming is a powerful tool in the design and analysis of approximation algorithms
+for combinatorial optimization problems. In particular, the random hyperplane rounding method
+of Goemans and Williamson, has been extensively studied for more than two decades, resulting in
+various extensions to the original technique and beautiful algorithms for a wide range of applications.
+Despite the fact that this approach yields tight approximation guarantees for some problems, e.g.,
+Max-Cut, for many others, e.g., Max-Sat and Max-DiCut, the tight approximation ratio is still unknown.
+One of the main reasons for this is the fact that very few techniques for rounding semi-definite relaxations
+are known. In this work, we present a new general and simple method for rounding semi-definite programs,
+based on Brownian motion. Our approach is inspired by recent results in algorithmic discrepancy
+theory. We develop and present tools for analyzing our new rounding algorithms, utilizing mathematical
+machinery from the theory of Brownian motion, complex analysis, and partial differential equations.
+Focusing on constraint satisfaction problems, we apply our method to several classical problems,
+including Max-Cut, Max-2SAT, and Max-DiCut, and derive new algorithms that are competitive with
+the best known results. We further show the versatility of our approach by presenting simple and
+natural variants of it, and we numerically demonstrate that they exhibit nearly optimal approximation
+guarantees for some problems. 

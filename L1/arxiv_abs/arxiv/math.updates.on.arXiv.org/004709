@@ -1,0 +1,17 @@
+As the sequel of the previous work, we investigate the variational calculus in the study of modular
+geometry on noncommutative (two) tori, oriented by conceptual interpretations of the celebrated
+Connes-Moscovici functional relation. Starting with Lesch's work, we introduce several operators
+acting on the space of spectral functions coming from the first variation of the modular derivation
+and integration by parts with respect to the volume weight. The new contribution is some internal
+relations which allow us to use only two operators to generate the whole variational calculus. In
+particular, these two operators indeed generate the Connes-Moscovici functional relation which
+makes the symmetries behind the relation observed before more transparent. For the geometric side,
+we compute, on noncommutative tori, the first variation of the Einstein-Hilbert and the Osgood-Phillips-Sarnak
+functional (later one holds only in dimension two) in two ways and derive a family of Connes-Moscovici
+functional relation parametrized by the dimension. In the previous work, we have provided explicit
+solutions of those functional relations using Gauss and Appell hypergeometric functions. A surprising
+discovery is that the functional relation still holds when the dimension parameter takes real-value.
+Last but not least, we perform parallel variational computation in terms of both the Weyl factor
+and its logarithm and give detailed comparison. A significant consequence is to show that the new
+structure that we reveal in the functional relation transforms accordingly with respect to the
+noncommutative change of variable. 

@@ -1,0 +1,17 @@
+The application of rough set theory in incomplete information systems is a key problem in practice
+since missing values almost always occur in knowledge acquisition due to the error of data measuring,
+the limitation of data collection, or the limitation of data comprehension, etc. An incomplete
+information system is mainly processed by compressing the indiscernibility relation. The existing
+rough set extension models based on tolerance or symmetric similarity relations typically discard
+one relation among the reflexive, symmetric and transitive relations, especially the transitive
+relation. In order to overcome the limitations of the current rough set extension models, we define
+a new relation called the positive transitive relation and then propose a novel rough set extension
+model built upon which. The new model holds the merit of the existing rough set extension models while
+avoids their limitations of discarding transitivity or symmetry. In comparison to the existing
+extension models, the proposed model has a better performance in processing the incomplete information
+systems while substantially reducing the computational complexity, taking into account the relation
+of tolerance and similarity of positive transitivity, and supplementing the related theories
+in accordance to the intuitive classification of incomplete information. In summary, the positive
+transitive relation can improve current theoretical analysis of incomplete information systems
+and the newly proposed extension model is more suitable for processing incomplete information
+systems and has a broad application prospect. 

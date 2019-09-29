@@ -1,0 +1,17 @@
+Whale Optimization Algorithm (WOA) is a nature-inspired meta-heuristic optimization algorithm,
+which was proposed by Mirjalili and Lewis in 2016. This algorithm has shown its ability to solve many
+problems. Comprehensive surveys have been conducted about some other nature-inspired algorithms,
+such as ABC, PSO, etc.Nonetheless, no survey search work has been conducted on WOA. Therefore, in
+this paper, a systematic and meta analysis survey of WOA is conducted to help researchers to use it
+in different areas or hybridize it with other common algorithms. Thus, WOA is presented in depth
+in terms of algorithmic backgrounds, its characteristics, limitations, modifications, hybridizations,
+and applications. Next, WOA performances are presented to solve different problems. Then, the
+statistical results of WOA modifications and hybridizations are established and compared with
+the most common optimization algorithms and WOA. The survey's results indicate that WOA performs
+better than other common algorithms in terms of convergence speed and balancing between exploration
+and exploitation. WOA modifications and hybridizations also perform well compared to WOA. In addition,
+our investigation paves a way to present a new technique by hybridizing both WOA and BAT algorithms.
+The BAT algorithm is used for the exploration phase, whereas the WOA algorithm is used for the exploitation
+phase. Finally, statistical results obtained from WOA-BAT are very competitive and better than
+WOA in 16 benchmarks functions. WOA-BAT also outperforms well in 13 functions from CEC2005 and 7
+functions from CEC2019. 

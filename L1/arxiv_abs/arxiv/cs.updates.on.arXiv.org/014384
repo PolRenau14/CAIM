@@ -1,0 +1,17 @@
+Competitive information diffusion on large-scale social networks reveals fundamental characteristics
+of rumor contagions and has profound influence on public opinion formation. There has been growing
+interest in exploring dynamical mechanisms of the competing evolutions recently. Nevertheless,
+the impacts of population homophily, which determines powerful collective human behaviors, remains
+unclear. In this paper, we incorporate homophily effects into a modified competitive ignorant-spreader-ignorant
+(SIS) rumor diffusion model with generalized population preference. Using microscopic Markov
+chain approach, we first derive the phase diagram of competing diffusion results and examine how
+competitive information spreads and evolves on social networks. We then explore the detailed effects
+of homophily, which is modeled by a rewiring mechanism. Results show that homophily promotes the
+formation of divided "echo chambers" and protects the disadvantaged information from extinction,
+which further changes or even reverses the evolutionary advantage, i.e., the difference of final
+proportions of the competitive information. We highlight the conclusion that the reversals may
+happen only when the initially disadvantaged information has stronger transmission ability,
+owning diffusion advantage over the other one. Our framework provides profound insight into competing
+dynamics with population homophily, which may pave ways for further controlling misinformation
+and guiding public belief systems. Moreover, the reversing condition sheds light on designing
+effective competing strategies in many real scenarios. 

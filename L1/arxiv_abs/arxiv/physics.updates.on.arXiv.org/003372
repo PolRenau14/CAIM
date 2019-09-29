@@ -1,0 +1,17 @@
+In a succession of research articles published over 65 years ago, Sir Alan Lloyd Hodgkin and Sir Andrew
+Fielding Huxley discovered what now forms our contemporary understanding of excitation in nerve,
+and how axons conduct the action potential. Hodgkin and Huxley demonstrated that the nerve action
+potential is the result of a depolarizing event across a cell membrane. They established that when
+this depolarization event is complete, an abrupt increase in voltage gets produced that propagates
+longitudinally along the axon, accompanied by changes in axial conductance. In an elegant theoretical
+framework, they rigorously described fundamental properties of the sodium (Na) and potassium
+(K) conductances intrinsic to the action potential. Notwithstanding the elegance of Hodgkin and
+Huxley's incisive and explicative series of discoveries, their model is relatively complex, relies
+on no small number of stochastic factors, and has no analytical solution, solving for the membrane
+action potential and the ionic currents requires integrations approximated using numerical methods.
+In this article I present an analytical (i.e., closed-form) formalism of the nerve action potential
+Vm and that of the accompanying cell membrane electric field Em. To conclude this article, I'll present
+a quantitative description of Vm in terms of a single, nonlinear differential equation. This is
+an original stand-alone article: it unifies, and brings into a clearer focus two preceding papers
+concerned with the analytical description of the nerve action potential Vm and the accompanying
+cell membrane electric field Em. 

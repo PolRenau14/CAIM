@@ -1,0 +1,16 @@
+Bag-of-Visual-Words (BoVW) approach has been widely used in the recent years for image classification
+purposes. However, the limitations regarding optimal feature selection, clustering technique,
+the lack of spatial organization of the data and the weighting of visual words are crucial. These
+factors affect the stability of the model and reduce performance. We propose to develop an algorithm
+based on BoVW for facial expression analysis which goes beyond those limitations. Thus the visual
+codebook is built by using k-Means++ method to avoid poor clustering. To exploit reliable low level
+features, we search for the best feature detector that avoids locating a large number of keypoints
+which do not contribute to the classification process. Then, we propose to compute the relative
+conjunction matrix in order to preserve the spatial order of the data by coding the relationships
+among visual words. In addition, a weighting scheme that reflects how important a visual word is
+with respect to a given image is introduced. We speed up the learning process by using histogram intersection
+kernel by Support Vector Machine to learn a discriminative classifier. The efficiency of the proposed
+algorithm is compared with standard bag of visual words method and with bag of visual words method
+with spatial pyramid. Extensive experiments on the CK+, the MMI and the JAFFE databases show good
+average recognition rates. Likewise, the ability to recognize spontaneous and non-basic expressive
+states is investigated using the DynEmo database. 

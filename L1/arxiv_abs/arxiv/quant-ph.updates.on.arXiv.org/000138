@@ -1,0 +1,16 @@
+The equilibrium properties of a single quantum particle (qp) interacting with a classical gas for
+a wide range of temperatures that explore the system's behavior in the classical as well as in the
+quantum regime is investigated. Both the quantum particle and atoms are restricted to the sites
+of a one-dimensional lattice. A path-integral formalism is developed within the context of the
+canonical ensemble in which the quantum particle is represented by a closed, variable-step random
+walk on the lattice. Monte Carlo methods are employed to determine the system's properties. For
+the case of a free particle, analytical expressions for the energy, its fluctuations, and the qp-qp
+correlation function are derived and compared with the Monte Carlo simulations. To test the usefulness
+of the path integral formalism, the Metropolis algorithm is employed to determine the equilibrium
+properties of the qp for a periodic interaction potential, forcing the qp to occupy extended states.
+We consider a striped potential in one dimension, where every other lattice site is occupied by an
+atom with potential $\epsilon$, and every other lattice site is empty. This potential serves as
+a stress test for the path integral formalism because of its rapid site-to-site variation. An analytical
+solution was determined in this case by utilizing Bloch's theorem due to the periodicity of the potential.
+Comparisons of the potential energy, the total energy, the energy fluctuations and the correlation
+function are made between the results of the Monte Carlo simulations and the analytical calculations.

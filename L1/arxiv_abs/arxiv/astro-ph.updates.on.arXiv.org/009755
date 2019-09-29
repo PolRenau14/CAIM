@@ -1,0 +1,17 @@
+We investigate the value of the near-infrared imaging from upcoming surveys for constraining the
+ellipticities of galaxies. We select galaxies between 0.5 < z < 3 that are brighter than expected
+Euclid sensitivity limits from the GOODS-S and N fields in CANDELS. The co-added CANDELS/HST V+I
+and J+H images are degraded in resolution and sensitivity to simulate Euclid-quality optical and
+near-infrared (NIR) images. We then run GALFIT on these simulated images and find that optical and
+NIR provide similar performance in measuring galaxy ellipticities at redshifts 0.5 < z < 3. At z >
+1.0, the NIR-selected source density is higher by a factor of 1.4 and therefore the standard error
+in NIR-derived ellipticities is about 30% smaller, implying a more precise ellipticity measurement.
+The good performance of the NIR is mainly because galaxies have an intrinsically smoother light
+distribution in the NIR bands than in the optical, the latter tracing the clumpy star-forming regions.
+In addition, the NIR bands have a higher surface brightness per pixel than the optical images, while
+being less affected by dust attenuation. Despite the worse spatial sampling and resolution of Euclid
+NIR compared to optical, the NIR approach yields equivalent or more precise galaxy ellipticity
+measurements. If systematics that affect shape such as dithering strategy and point spread function
+undersampling can be mitigated, inclusion of the NIR can improve galaxy ellipticity measurements
+over all redshifts. This is particularly important for upcoming weak lensing surveys, such as with
+Euclid and WFIRST. 

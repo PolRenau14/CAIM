@@ -1,0 +1,16 @@
+We directly constrain the non-linear alignment (NLA) model of intrinsic galaxy alignments, analysing
+the most representative and complete flux-limited sample of spectroscopic galaxies available
+for cosmic shear surveys. We measure the projected galaxy position-intrinsic shear correlations
+and the projected galaxy clustering signal using high-resolution imaging from the Kilo Degree
+Survey (KiDS) overlapping with the GAMA spectroscopic survey, and data from the Sloan Digital Sky
+Survey. Separating samples by colour, we make no significant detection of blue galaxy alignments,
+constraining the blue galaxy NLA amplitude $A_{\textrm{IA}}^{\textrm{B}}=0.21^{+0.37}_{-0.36}$
+to be consistent with zero. We make robust detections ($\sim9\sigma$) for red galaxies, with $A_{\textrm{IA}}^{\textrm{R}}=3.18^{+0.47}_{-0.46}$,
+corresponding to a net radial alignment with the galaxy density field, and we find no evidence for
+any scaling of alignments with galaxy luminosity. We provide informative priors for current and
+future weak lensing surveys, an improvement over de facto wide priors that allow for unrealistic
+levels of intrinsic alignment contamination. For a colour-split cosmic shear analysis of the final
+KiDS survey area, we forecast that our priors will improve the constraining power on $S_{8}$ and
+the dark energy equation of state $w_{0}$, by up to $62\%$ and $51\%$, respectively. Our results
+indicate, however, that the modelling of red/blue-split galaxy alignments may be insufficient
+to describe samples with variable central/satellite galaxy fractions. 

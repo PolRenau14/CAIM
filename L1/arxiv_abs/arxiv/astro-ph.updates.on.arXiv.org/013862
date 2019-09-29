@@ -1,0 +1,16 @@
+Currently, we have only limited means to probe the presence of planets at large orbital separations.
+Foreman-Mackey et al. searched for long-period transiting planets in the Kepler light curves using
+an automated pipeline. Here, we apply their pipeline, with minor modifications, to a larger sample
+and use updated stellar parameters from Gaia DR2. The latter boosts the stellar radii for most of
+the planet candidates found by FM16, invalidating a number of them as false positives. We identify
+15 candidates, including two new ones. All have sizes from 0.3 to 1 $R_{\rm J}$, and all but two have
+periods from 2 to 10 yr. We report two main findings based on this sample. First, the planet occurrence
+rate for the above size and period ranges is $0.70^{+0.40}_{-0.20}$ planets per Sun-like star,
+with the frequency of cold Jupiters agreeing with that from radial velocity surveys. Planet occurrence
+rises with decreasing planet size, roughly describable as $dN/d\log R \propto R^{\alpha}$ with
+$\alpha = -1.6^{+1.0}_{-0.9}$, i.e., Neptune-sized planets are some four times more common than
+Jupiter-sized ones. Second, five out of our 15 candidates orbit stars with known transiting planets
+at shorter periods, including one with five inner planets. We interpret this high incidence rate
+to mean: (1) almost all our candidates should be genuine; (2) across a large orbital range (from $\sim
+0.05$ to a few astronomical units), mutual inclinations in these systems are at most a few degrees;
+and (3) large outer planets exist almost exclusively in systems with small inner planets. 

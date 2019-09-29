@@ -1,0 +1,17 @@
+We report on hydrazine-sensing organic electrochemical transistors (OECTs) with a design consisting
+in concentric annular electrodes. The design engineering of these OECTs was motivated by the great
+potential of using OECT sensing arrays in fields such as bioelectronics. In this work, PEDOT:PSS-based
+OECTs have been studied as aqueous sensors, specifically sensitive to the lethal hydrazine molecule.
+These amperometric sensors have many relevant features for the development of hydrazine sensors,
+such as a sensitivity down to 10-5 M of hydrazine in water, an order of magnitude higher selectivity
+for hydrazine than for 9 other water soluble common analytes, the capability to recover entirely
+its base signal after water flushing and a very low voltage operation. The specificity for hydrazine
+to be sensed by our OECTs is caused by its catalytic oxidation at the gate electrode and enables increasing
+the output current modulation of the devices. This has permitted the device-geometry study of the
+whole series of 80 micrometric OECT devices with sub-20-nm PEDOT:PSS layers, channel lengths down
+to 1um and a specific device geometry of coplanar and concentric electrodes. The numerous geometries
+unravel new aspects of the OECT mechanisms governing the electrochemical sensing behaviours of
+the device, more particularly the effect of the contacts which are inherent at the micro-scale.
+By lowering the device cross-talking, micrometric gate-integrated radial OECTs shall contribute
+to the diminishing of the readout invasiveness and therefore promotes further the development
+of OECT biosensors. 

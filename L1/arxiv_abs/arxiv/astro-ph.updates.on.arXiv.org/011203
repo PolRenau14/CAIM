@@ -1,0 +1,17 @@
+We propose a cadence optimization strategy for the Large Synoptic Survey Telescope (LSST) to unveil
+a large population of kilonovae. These transients are generated during binary neutron star and
+potentially neutron-star black-hole mergers and are electromagnetic counterparts to gravitational-wave
+signals detectable in nearby events with Advanced LIGO, Advanced Virgo, and other interferometers
+that will come online in the near future. Discovering a large population of kilonovae will allow
+us to determine how heavy element production varies with the intrinsic parameters of the merger
+and across cosmic time. The rate of binary neutron star mergers is still uncertain and less than 15
+events with associated kilonovae are expected to be detectable per year within the LIGO horizon.
+The rapid evolution (days) at optical/infrared wavelengths, relatively low luminosity, and the
+low volumetric rate of kilonovae makes their discovery difficult, especially during blind surveys
+of the sky. With the current LSST cadence design, about 7.5 poorly-sampled kilonovae are expected
+to be discovered in both the WFD and DDF surveys per year, under optimistic assumptions on their rate
+and luminosity. We propose to adopt a rolling cadence for the WFD survey in which g-i observations
+are taken for a particular 750 square degrees tract of sky every night for 10 consecutive nights,
+with the total yearly exposure time in g-i being equivalent to the WFD baseline across the survey.
+We expect this strategy to return about 272 GW170817-like kilonovae throughout the survey discovered
+independently from gravitational-wave triggers. 

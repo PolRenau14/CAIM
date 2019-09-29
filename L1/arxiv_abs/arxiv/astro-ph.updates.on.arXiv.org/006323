@@ -1,0 +1,17 @@
+Accretion discs are generally warped. If a warp in a disc is too large, the disc can `break' apart into
+two or more distinct planes, with only tenuous connections between them. Further if an initially
+planar disc is subject to a strong differential precession, then it can be torn apart into discrete
+annuli that precess effectively independently. In previous investigations, torque-balance
+formulae have been used to predict where and when the disc breaks into distinct parts. In this work,
+focusing on discs with Keplerian rotation and where the shearing motions driving the radial communication
+of the warp are damped locally by turbulence (the `diffusive' regime), we investigate the stability
+of warped discs to determine the precise criterion for an isolated warped disc to break. We find and
+solve the dispersion relation, which in general yields three roots. We provide a comprehensive
+analysis of this viscous-warp instability and the emergent growth rates and their dependence on
+disc parameters. The physics of the instability can be understood as a combination of (1) a term which
+would generally encapsulate the classical Lightman-Eardley instability in planar discs (given
+by $\partial(\nu\Sigma)/\partial\Sigma < 0$) but is here modified by the warp to include $\partial(\nu_1|\psi|)/\partial|\psi|
+< 0$ and (2) a similar condition acting on the diffusion of the warp amplitude given in simplified
+form by $\partial(\nu_2|\psi|)/\partial|\psi| < 0$. We discuss our findings in the context of
+discs with an imposed precession, and comment on the implications for different astrophysical
+systems. 

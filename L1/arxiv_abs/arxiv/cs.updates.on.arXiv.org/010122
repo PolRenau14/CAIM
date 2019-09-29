@@ -1,0 +1,16 @@
+Given the intractability of large scale HIN, network embedding which learns low dimensional proximity-preserved
+representations for nodes in the new space becomes a natural way to analyse HIN. However, two challenges
+arise in HIN embedding. (1) Different HIN structures with different semantic meanings play different
+roles in capturing relationships among nodes in HIN, how can we learn personalized preferences
+over different meta-paths for each individual node in HIN? (2) With the number of large scale HIN
+increasing dramatically in various web services, how can we update the embedding information of
+new nodes in an efficient way? To tackle these challenges, we propose a Hierarchical Attentive Heterogeneous
+information network Embedding (HAHE ) model which is capable of learning personalized meta-path
+preferences for each node as well as updating the embedding information for each new node efficiently
+with only its neighbor node information. The proposed HAHE model extracts the semantic relationships
+among nodes in the semantic space based on different meta-paths and adopts a neighborhood attention
+layer to conduct weighted aggregations of neighborhood structure features for each node, enabling
+the embedding information of each new node to be updated efficiently. Besides, a meta-path attention
+layer is also employed to learn the personalized meta-path preferences for each individual node.
+Extensive experiments on several real-world datasets show that our proposed HAHE model significantly
+outperforms the state-of-the-art methods in terms of various evaluation metrics. 

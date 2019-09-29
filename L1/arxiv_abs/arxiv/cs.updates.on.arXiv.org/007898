@@ -1,0 +1,17 @@
+Recently, deep learning has been playing a central role in machine learning research and applications.
+Since AlexNet, increasingly more advanced networks have achieved state-of-the-art performance
+in computer vision, speech recognition, language processing, game playing, medical imaging,
+and so on. In our previous studies, we proposed quadratic/second-order neurons and deep quadratic
+neural networks. In a quadratic neuron, the inner product of a vector of data and the corresponding
+weights in a conventional neuron is replaced with a quadratic function. The resultant second-order
+neuron enjoys an enhanced expressive capability over the conventional neuron. However, how quadratic
+neurons improve the expressing capability of a deep quadratic network has not been studied up to
+now, preferably in relation to that of a conventional neural network. In this paper, we ask three
+basic questions regarding the expressive capability of a quadratic network: (1) for the one-hidden-layer
+network structure, is there any function that a quadratic network can approximate much more efficiently
+than a conventional network? (2) for the same multi-layer network structure, is there any function
+that can be expressed by a quadratic network but cannot be expressed with conventional neurons in
+the same structure? (3) Does a quadratic network give a new insight into universal approximation?
+Our main contributions are the three theorems shedding light upon these three questions and demonstrating
+the merits of a quadratic network in terms of expressive efficiency, unique capability, and compact
+architecture respectively. 

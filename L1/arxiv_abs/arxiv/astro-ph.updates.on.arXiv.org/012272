@@ -1,0 +1,16 @@
+Multiple codes are available to derive atmospheric parameters and individual chemical abundances
+from high-resolution spectra of AFGKM stars. Almost every spectroscopist has its own preferences
+regarding which code and method to use. But intrinsic differences between codes and methods lead
+to complex systematics that depend on multiple variables such as the selected spectral regions
+and the radiative transfer code used. I expanded iSpec, the popular open source spectroscopic tool,
+to support the most known radiative transfer codes and I assessed their similarities and biases
+when using multiple setups based on the equivalent width method and the synthetic spectral fitting
+technique (interpolating from a pre-computed grid of spectra or synthesizing with interpolated
+model atmospheres). This work shows that systematics on atmospheric parameter and abundances
+between most of the codes can be reduced when using the same method and a careful spectral feature
+selection is executed, but it may not be possible to ignore the remaining differences depending
+on what is the scientific case and the required precision. Regarding methods, equivalent width-based
+and spectrum fitting-analyses exhibit large differences that emerge due to their intrinsic differences,
+which is relevant given the popularity of these two methods. The results help us identify the key
+caveats of modern spectroscopy that any scientist should be aware of before trusting its own results
+or being tempted to combine atmospheric parameters and abundances from the literature. 

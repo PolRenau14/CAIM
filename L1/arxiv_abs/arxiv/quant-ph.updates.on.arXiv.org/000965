@@ -1,0 +1,16 @@
+\documentclass[english]{revtex4-1} \usepackage[T1]{fontenc} \usepackage[latin9]{inputenc}
+\setcounter{secnumdepth}{3} \usepackage{babel} \begin{document} A previous publication
+in Phys. Rev. D, (Part A of this paper) pointed out that vacuum energy fluctuations implied mass fluctuations
+which implied curvature fluctuations which then implied fluctuations of the metric tensor. The
+metric fluctuations were then taken as fundamental and a stochastic space-time was theorized.
+A number of results from quantum mechanics were derived. This paper (Part B), in addressing some
+of the difficulties of Part A, required an extension of the model: In so far as the fluctuations are
+not \emph{in} space-time but \emph{of} space-time, a granular model was deemed necessary. For
+Lorentz invariance, the grains have constant 4-volume. Further, as we wish to treat time and space
+similarly, we propose fluctuations in time. In order that a particle not appear at different points
+in space at the same time, we find it necessary to introduce a new model for time where time as we know
+it is emergent from an analogous coordinate, tau-time, where 'Tau-Time Leaves No Tracks' (that
+is to say, in the sub-quantum domain, there is no 'history'). The model provides a 'meaning' of curvature
+as well as a (loose) derivation of the Schwartzschild metric without need for the General Relativity
+field equations. The purpose is to fold the seemingly incomprehensible behaviors of quantum mechanics
+into the (one hopes) less incomprehensible properties of space-time. \end{document 

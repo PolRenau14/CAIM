@@ -1,0 +1,17 @@
+Theoretical modelling and observations of AGN jets suggest that the non-thermal electrons emitting
+the observed radiation should (i) carry an amount of energy comparable to the magnetic fields ($U_e\sim
+U_B$), which is likely the case if the magnetic fields play a dynamically important role in the jet's
+acceleration process; (ii) cool efficiently in a dynamical time ($t_{\rm cool}\lesssim t_{\rm
+dyn}$), which is suggested by the fact that a large fraction of the jet's kinetic energy is promptly
+converted into radiation. These expectations are at odds with the results of the simplest one-zone
+Self-Synchro-Compton (SSC) model for the Spectral Energy Distribution (SED) of BL Lacs. Indeed,
+the model predicts $U_e\gg U_B$ and $t_{\rm cool}\gg t_{\rm dyn}$ for most of the objects. Here we
+closely investigate one of the key assumptions of this model, namely that the momentum distribution
+of the non-thermal electrons is isotropic. We find that this assumption may be an oversimplification.
+If the magnetic energy is dissipated via a turbulent MHD cascade, the highest energy electrons may
+instead retain a small pitch angle. Since the synchrotron emissivity is suppressed when the pitch
+angle is small, this effect may importantly affect the modelling of the SED. As an illustrative example,
+we present an anisotropic model for the electron momentum distribution such that $U_e\sim U_B$
+and $t_{\rm cool}\lesssim t_{\rm dyn}$ at the same time. Our model manages to simultaneously solve
+the two problems with one only more free parameter with respect to the usual isotropic one-zone SSC
+model. 

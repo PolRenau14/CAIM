@@ -1,0 +1,16 @@
+Various general-purpose distributed systems have been proposed to cope with high-diversity applications
+in the pipeline of Big Data analytics. Most of them provide simple yet effective primitives to simplify
+distributed programming. While the rigid primitives offer great ease of use to savvy programmers,
+they probably compromise efficiency in performance and flexibility in data representation and
+programming specifications, which are critical properties in real systems. In this paper, we discuss
+the limitations of coarse-grained primitives and aim to provide an alternative for users to have
+flexible control over distributed programs and operate globally shared data more efficiently.
+We develop STEP, a novel distributed framework based on in-memory key-value store. The key idea
+of STEP is to adapt multi-threading in a single machine to a distributed environment. STEP enables
+users to take fine-grained control over distributed threads and apply task-specific optimizations
+in a flexible manner. The underlying key-value store serves as distributed shared memory to keep
+globally shared data. To ensure ease-of-use, STEP offers plentiful effective interfaces in terms
+of distributed shared data manipulation, cluster management, distributed thread management
+and synchronization. We conduct extensive experimental studies to evaluate the performance of
+STEP using real data sets. The results show that STEP outperforms the state-of-the-art general-purpose
+distributed systems as well as a specialized ML platform in many real applications. 

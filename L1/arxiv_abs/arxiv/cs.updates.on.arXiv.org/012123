@@ -1,0 +1,16 @@
+Maintaining multiple replicas of data is crucial to achieving scalability, availability and low
+latency in distributed applications. Conflict-free Replicated Data Types (CRDTs) are important
+building blocks in this domain because they are designed to operate correctly under the myriad behaviors
+possible in a weakly-consistent distributed setting. Because of the possibility of concurrent
+updates to the same object at different replicas, and the absence of any ordering guarantees on these
+updates, convergence is an important correctness criterion for CRDTs. This property asserts that
+two replicas which receive the same set of updates (in any order) must nonetheless converge to the
+same state. One way to prove that operations on a CRDT converge is to show that they commute since commutative
+actions by definition behave the same regardless of the order in which they execute. In this paper,
+we present a framework for automatically verifying convergence of CRDTs under different weak-consistency
+policies. Surprisingly, depending upon the consistency policy supported by the underlying system,
+we show that not all operations of a CRDT need to commute to achieve convergence. We develop a proof
+rule parameterized by a consistency specification based on the concepts of commutativity modulo
+consistency policy and non-interference to commutativity. We describe the design and implementation
+of a verification engine equipped with this rule and show how it can be used to provide the first automated
+convergence proofs for a number of challenging CRDTs, including sets, lists, and graphs. 

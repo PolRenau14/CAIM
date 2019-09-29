@@ -1,0 +1,16 @@
+Many physical properties of small organic molecules are dependent on the current crystal packing,
+or polymorph, of the material, including bioavailability of pharmaceuticals, optical properties
+of dyes, and charge transport properties of semiconductors. Predicting the most stable crystalline
+form requires determining the crystalline form with the lowest relative Gibbs free energy. Effective
+computational prediction of the most stable polymorph could save significant time and effort in
+the design of novel molecular crystalline solids or predict their behavior under new conditions.
+In this study, we introduce a new approach using multistate reweighting to address the problem of
+determining solid-solid phase diagrams, and apply this approach to the phase diagram of solid benzene.
+For this approach, we perform sampling at a selection of temperature and pressure states in the region
+of interest. We use multistate reweighting methods to determine the reduced free energy differences
+between $T$ and $P$ states within a given polymorph. The relative stability of the polymorphs at
+the sampled states can be successively interpolated from these points to create the phase diagram
+by combining these reduced free energy differences with a reference Gibbs free energy difference
+between polymorphs. The method also allows for straightforward estimation of uncertainties in
+the phase boundary. We also find that when properly implemented, multistate reweighting for phase
+diagram determination scales better with size of system than previously estimated. 

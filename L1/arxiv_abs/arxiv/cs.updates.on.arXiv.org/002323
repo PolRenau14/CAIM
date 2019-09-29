@@ -1,0 +1,16 @@
+Automatic urban land cover classification is a classical problem in remote sensing and good urban
+land cover maps build the foundation for many tasks, such as e.g. environmental monitoring. It is
+a particularly challenging problem, as classes generally have high inter-class and low intra-class
+variance. A common technique to improve urban land cover classification performance in remote
+sensing is the fusing of data from different sensors with different data modalities. However, all
+modalities are rarely available for all test data, and this missing data problem poses severe challenges
+for multi-modal learning. Inspired by recent successes in deep learning, we propose as a remedy
+a convolutional neural network (CNN) architecture for urban remote sensing image segmentation
+trained on data modalities which are not all available at test time. We train our architecture with
+a cost function particularly suited for imbalanced classes, as this is a frequent problem in remote
+sensing, especially in urban areas. We demonstrate the method using two benchmark datasets, both
+consisting of optical and digital surface model (DSM) images. We simulate missing data, by assuming
+that the DSM images are missing during testing and show that our method outperforms both CNNs trained
+on optical images as well as an ensemble of two CNNs trained only on optical images. We further evaluate
+the potential of our method to handle situations where only some DSM images are missing during training
+and show that we can clearly exploit training time information of the missing modality during testing.

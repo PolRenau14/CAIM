@@ -1,0 +1,16 @@
+Leveraging grant-free radio access for enabling lowpower wide-area (LPWA) Internet of Things
+(IoT) connectivity has attracted lots of attention in recent years. Regarding lack of research
+on LPWA IoT networks, this work is devoted to reliability modeling, battery-lifetime analysis,
+and operation-control of such networks. We derive the interplay amongst density of the access points,
+communication bandwidth, volume of traffic from heterogeneous sources, and quality of service
+(QoS) in communications. The presented analytical framework comprises modeling of interference
+from heterogeneous sources with correlated deployment locations and time-frequency asynchronous
+radio-resource usage patterns. The derived expressions represent the operation regions and rates
+in which, energy and cost resources of devices and the access network, respectively, could be traded
+to achieve a given level of QoS in communications. For example, our expressions indicate the expected
+increase in QoS by increasing number of transmitted replicas, transmit power, density of the access
+points, and communication bandwidth. Our results further shed light on scalability of such networks
+and figure out the bounds up to which, scaling resources can compensate the increase in traffic volume
+and QoS demand. Finally, we present an energy-optimized operation control policy for IoT devices.
+The simulation results confirm tightness of the derived analytical expressions, and indicate
+usefulness of them in planning and operation control of IoT networks. 

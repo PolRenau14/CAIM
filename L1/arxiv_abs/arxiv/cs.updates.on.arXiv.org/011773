@@ -1,0 +1,17 @@
+Representation and classification of Electroencephalography (EEG) brain signals are critical
+processes for their analysis in cognitive tasks. Particularly, extraction of discriminative
+features from raw EEG signals, without any pre-processing, is a challenging task. Motivated by
+nuclear norm, we observed that there is a significant difference between the variances of EEG signals
+captured from the same brain region when a subject performs different tasks. This observation lead
+us to use singular value decomposition for computing dominant variances of EEG signals captured
+from a certain brain region while performing a certain task and use them as features (nuclear features).
+A simple and efficient class means based minimum distance classifier (CMMDC) is enough to predict
+brain states. This approach results in the feature space of significantly small dimension and gives
+equally good classification results on clean as well as raw data. We validated the effectiveness
+and robustness of the technique using four datasets of different tasks: fluid intelligence clean
+data (FICD), fluid intelligence raw data (FIRD), memory recall task (MRT), and eyes open / eyes closed
+task (EOEC). For each task, we analyzed EEG signals over six (06) different brain regions with 8,
+16, 20, 18, 18 and 100 electrodes. The nuclear features from frontal brain region gave the 100% prediction
+accuracy. The discriminant analysis of the nuclear features has been conducted using intra-class
+and inter-class variations. Comparisons with the state-of-the-art techniques showed the superiority
+of the proposed system. 

@@ -1,0 +1,16 @@
+How to increase the power per turbine is crucial for the development of tidal energy as this decides
+the performance and economics of turbines in the tidal array. In this work we combine the two-scale
+partial array model and one-dimensional channel model to investigate the effects of blockage,
+arrangement and channel-dynamics on tidal turbines. The power per turbine is deduced as the product
+of two parameters, the power coefficient measuring the power acquired from instantaneous flow
+and the environment coefficient showing the response of the channel to added drag. The results suggest
+that channel-dynamics would decrease the predicted power and the optimal induction factor. The
+model also shows that when we increase the number of turbines in a row, the power per turbine may monotonously
+increase, decrease or get the maxima at certain global blockages. These different results depend
+on two characteristic parameters of channels, $\alpha$ and $\lambda_D$. Furthermore, we find
+that besides density (blockage), the arrangement should also be considered if we want to obtain
+an efficient array. Appropriate arrangements can enhance the performance of turbines in tidal
+channels although the beneficial effects would be partly offset by reduced velocities. The arrangement
+also changes the optimal global blockage where power gets the maximum value. As the increase rate
+of the power per turbine from arrays across the whole width to optimal partial arrays diminishes
+with the increase of the blockage, the optimal global blockage would also decrease. 

@@ -1,0 +1,17 @@
+Although connectivity services have been introduced already today in many of the most recent car
+models, the potential of vehicles serving as highly mobile sensor platform in the Internet of Things
+(IoT) has not been sufficiently exploited yet. The European AutoMat project has therefore defined
+an open Common Vehicle Information Model (CVIM) in combination with a cross-industry, cloud-based
+big data marketplace. Thereby, vehicle sensor data can be leveraged for the design of entirely new
+services even beyond traffic-related applications (such as localized weather forecasts). This
+paper focuses on the prediction of the achievable data rate making use of an analytical model based
+on empirical measurements. For an in-depth analysis, the CVIM has been integrated in a vehicle traffic
+simulator to produce CVIM-complaint data streams as a result of the individual behavior of each
+vehicle (speed, brake activity, steering activity, etc.). In a next step, a simulation of vehicle
+traffic in a realistically modeled, large-area street network has been used in combination with
+a cellular Long Term Evolution (LTE) network to determine the cumulated amount of data produced
+within each network cell. As a result, a new car-to-cloud communication traffic model has been derived,
+which quantifies the data rate of aggregated car-to-cloud data producible by vehicles depending
+on the current traffic situations (free flow and traffic jam). The results provide a reference for
+network planning and resource scheduling for car-to-cloud type services in the context of smart
+cities. 

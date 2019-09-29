@@ -1,0 +1,16 @@
+We present a quantum mechanical theory of optically induced dynamic nuclear polarization applicable
+to quantum dots and other interacting spin systems. The exact steady state of the optically driven
+coupled electron-nuclear system is calculated under the assumption of uniform hyperfine coupling
+strengths (box model) for an arbitrary number of nuclear spins. This steady state is given by a tractable
+expression that allows for an intuitive interpretation in terms of spin-flip rates. Based on this
+result, we investigate the nuclear spin behaviour for different experimental parameter regimes
+and find that our model reproduces the flat-top and triangular absorption line shapes seen in various
+experiments (line dragging) under the assumption of fast electron spin dephasing due to phonons
+and co-tunneling. The mechanism responsible for line dragging has been a matter of controversy
+so far; in contrast with previous works, we show that the effect can be explained solely in terms of
+the contact hyperfine interaction, without the need to introduce non-collinear terms or other
+types of electron-nuclear interactions. Furthermore we predict a novel nuclear spin polarization
+effect: under particular, experimentally realistic conditions, the nuclear spin system tends
+to become sharply polarized in such a way as to cancel the effect of the external magnetic field. This
+effect can therefore suppress electron spin dephasing due to inhomogeneous broadening, which
+could have important repercussions for quantum technological applications. 

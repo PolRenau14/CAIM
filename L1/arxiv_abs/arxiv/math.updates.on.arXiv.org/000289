@@ -1,0 +1,17 @@
+The present work contains a complete formulation of the Batalin-Vilkovisky (BV) formalism in the
+framework of locally covariant field theory. In the first part of the thesis the classical theory
+is investigated with a particular focus on the infinite dimensional character of the underlying
+structures. It is shown that the use of infinite dimensional differential geometry allows for a
+conceptually clear and elegant formulation. The construction of the BV complex is performed in
+a fully covariant way and we also generalize the BV framework to a more abstract level, using functors
+and natural transformations. In this setting we construct the BV complex for classical gravity.
+This allows us to give a homological interpretation to the notion of diffeomorphism invariant physical
+quantities in general relativity. The second part of the thesis concerns the quantum theory. We
+provide a framework for the BV quantization that doesn't rely on the path integral formalism, but
+is completely formulated within perturbative algebraic quantum field theory. To make such a formulation
+possible we first prove that the renormalized time-ordered product can be understood as a binary
+operation on a suitable domain. Using this result we prove the associativity of this product and
+provide a consistent framework for the renormalized BV structures. In particular the renormalized
+quantum master equation and the renormalized quantum BV operator are defined. To give a precise
+meaning to theses objects we make a use of the master Ward identity, which is an important structure
+in causal perturbation theory. 

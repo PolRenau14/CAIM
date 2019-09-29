@@ -1,0 +1,16 @@
+It has been proposed that some meteorites, CB and CH chondrites, contain material formed as a result
+of a protoplanetary collision during accretion. Their melt droplets (chondrules) and FeNi metal
+are proposed to have formed by evaporation and condensation in the resulting impact plume. We observe
+that the SO (skeletal olivine) chondrules in CBb chondrites have a blebby texture and an enrichment
+in refractory elements not found in normal chondrules. Since the texture requires complete melting,
+their maximum liquidus temperature 1928 K represents a minimum temperature for the putative plume.
+Dynamic crystallization experiments show that the SO texture can be created only by brief reheating
+episodes during crystallization giving partial dissolution of olivine. The ejecta plume formed
+in a smoothed particle hydrodynamics (SPH) simulation (Asphaug et al., 2011) served as the basis
+for 3D modeling with the adaptive mesh refinement (AMR) code FLASH4.3. Tracer particles that move
+with the fluid cells are used to measure the in situ cooling rates. Their cooling rates are ~10,000K/hr
+briefly at peak temperature and, in the densest regions of the plume, ~100 K/hr for 1400-1600 K. A
+small fraction of cells is seen to be heating at any one time, with heating spikes explained by compression
+of parcels of gas in a heterogeneous patchy plume. These temperature fluctuations are comparable
+to those required in crystallization experiments. For the first time, we find agreement between
+experiment and models that supports the plume model specifically for the formation of CBb chondrules.

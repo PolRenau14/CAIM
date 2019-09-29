@@ -1,0 +1,16 @@
+We show that the electronic structure of the low-energy bands in the small angle-twisted bilayer
+graphene consists of a series of semi-metallic and topological phases. In particular we are able
+to prove, using an approximate low-energy particle-hole symmetry, that the gapped set of bands
+that exist around all magic angles has what we conjecture to be a stable topological index stabilized
+by a magnetic symmetry and reflected in the odd winding of the Wilson loop in the Moir\'e BZ. The approximate,
+emergent particle-hole symmetry is essential to the topology of graphene: when strongly broken,
+non-topological phases can appear. Our paper underpins topology as the crucial ingredient to the
+description of low-energy graphene. We provide a $4$-band short range tight-binding model whose
+$2$ lower bands have the same topology, symmetry, and flatness as those of the twisted graphene,
+and which can be used as an effective low-energy model. We then perform large-scale ($11000$ atoms
+per unit cell, 40 days per $\bf k$-point computing time) ab-initio calculations of a series of small
+angles, from $3^\circ$ to $1^\circ$, which show a more complex and somewhat qualitatively different
+evolution of the symmetry of the low-energy bands than that of the theoretical Moir\'e model, but
+which confirms the topological nature of the system. At certain angles, we find no insulating filling
+in graphene at $-4$ electrons per Moir\'e unit cell. The ab-initio evolution of gaps tends to differ
+from that of the continuum Moir\'e model. 

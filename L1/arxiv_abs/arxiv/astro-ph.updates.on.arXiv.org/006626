@@ -1,0 +1,17 @@
+AM CVn-type systems are ultra-compact, hydrogen-deficient accreting binaries with degenerate
+or semi-degenerate donors. The evolutionary history of these systems can be explored by constraining
+the properties of their donor stars. We present high-speed photometry of Gaia14aae, an AM CVn with
+a binary period of 49.7 minutes and the first AM CVn in which the central white dwarf is fully eclipsed
+by the donor star. Modelling of the lightcurves of this system allows for the most precise measurement
+to date of the donor mass of an AM CVn, and relies only on geometric and well-tested physical assumptions.
+We find a mass ratio $q = M_2/M_1 = 0.0287 \pm 0.0020$ and masses $M_1 = 0.87 \pm 0.02 M_\odot$ and $M_2
+= 0.0250 \pm 0.0013 M_\odot$. We compare these properties to the three proposed channels for AM CVn
+formation. Our measured donor mass and radius do not fit with the contraction that is predicted for
+AM CVn donors descended from white dwarfs or helium stars at long orbital periods. The donor properties
+we measure fall in a region of parameter space in which systems evolved from hydrogen-dominated
+cataclysmic variables are expected, but such systems should show spectroscopic hydrogen, which
+is not seen in Gaia14aae. The evolutionary history of this system is therefore not clear. We consider
+a helium-burning star or an evolved cataclysmic variable to be the most likely progenitors, but
+both models require additional processes and/or fine-tuning to fit the data. Additionally, we
+calculate an updated ephemeris which corrects for an anomalous time measurement in the previously
+published ephemeris. 

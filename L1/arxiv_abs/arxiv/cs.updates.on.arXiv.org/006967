@@ -1,0 +1,17 @@
+A general time-varying feedback coding scheme is proposed for $M$-user fully connected symmetric
+Gaussian interference channels. Based on the analysis of the general coding scheme, we prove a theorem
+which gives a criterion for designing good time-varying feedback codes for Gaussian interference
+channels. The proposed scheme improves the Suh-Tse and Kramer inner bounds of the channel capacity
+for the cases of weak and not very strong interference when $M=2$. This capacity improvement is more
+significant when the signal-to-noise ratio (SNR) is not very high. In addition, our coding scheme
+can be proved mathematically and numerically to outperform the Kramer code for $M\geq 2$ when Signal
+to Noise Ratio (SNR) is equal to Interference to Noise Ratio (INR). Besides, the generalized degrees-of-freedom
+(GDoF) of our proposed coding scheme can be proved to be optimal in the all network situations (very
+weak, weak, strong, very strong) for any $M$. The numerical results show that our coding scheme can
+attain better performance than the Suh-Tse coding scheme for $M=2$ or the Mohajer-Tandon-Poor
+lattice coding scheme for $M>2$. Furthermore, the simplicity of the encoding/decoding algorithms
+is another strong point of our proposed coding scheme compared with the Suh-Tse coding scheme when
+$M=2$ and the Mohajer-Tandon-Poor lattice coding scheme when $M>2$. More importantly, our results
+show that an optimal coding scheme for the symmetric Gaussian interference channels with feedback
+can be achieved by only using marginal posterior distributions under a better cooperation strategy
+between transmitters. 

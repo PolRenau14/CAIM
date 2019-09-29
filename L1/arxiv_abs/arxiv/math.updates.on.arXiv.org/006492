@@ -1,0 +1,17 @@
+Uniqueness of positive solutions to viscous Hamilton-Jacobi-Bellman (HJB) equations of the form
+$-\Delta u(x) + \frac{1}{\gamma} |D{u}(x)|^\gamma = f(x) - \lambda$, with $f$ a coercive function
+and $\lambda$ a constant, in the subquadratic case, that is, $\gamma\in(1,2)$, appears to be an
+open problem. Barles and Meireles [Comm. Partial Differential Equations 41 (2016)] show uniqueness
+in the case that $f(x) \approx |x|^\beta$ and $|D f(x)|\lessapprox |x|^{(\beta-1)_+}$ for some
+$\beta>0$, essentially matching earlier results of Ichihara, who considered more general Hamiltonians
+but with better regularity for $f$. Without enforcing this assumption, to our knowledge, there
+are no results on uniqueness in the literature. In this short article, we show that the equation has
+a unique positive solution for any locally Lipschitz continuous, coercive $f$ which satisfies
+$|D f(x)| \le \kappa\bigl(1 +|f(x)|^{2-\frac{1}{\gamma}}\bigr)$ for some positive constant
+$\kappa$. Since $2-\frac{1}{\gamma}>1$, this assumption imposes very mild restrictions on the
+growth of the potential $f$. We also show that this solution fully characterizes optimality for
+the associated ergodic problem. Our method involves the study of an infinite dimensional linear
+program for elliptic equations for measures, and is very different from earlier approaches. It
+also applies to the larger class of Hamiltonians studied by Ichihara, and we show that it is well suited
+to provide verification of optimality results for the associated ergodic control problems, even
+in a pathwise sense, and without resorting to the parabolic problem. 

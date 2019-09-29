@@ -1,0 +1,16 @@
+Foreground power dominates the measurements of interferometers that seek a statistical detection
+of highly-redshifted HI emission from the Epoch of Reionization (EoR). The inherent spectral smoothness
+of synchrotron radiation, the dominant foreground emission mechanism, and the chromaticity of
+the instrument allows these experiments to delineate a boundary between spectrally smooth and
+structured emission in Fourier space (the "wedge" or "pitchfork", and the "EoR Window", respectively).
+Faraday rotation can inject spectral structure into otherwise smooth polarized foreground emission,
+which through instrument effects or miscalibration could possibly pollute the EoR Window. Using
+data from the Hydrogen Epoch of Reionization Array (HERA) 19-element commissioning array, we investigate
+the polarization response of this new instrument in the power spectrum domain. We confirm the expected
+structure of foreground emission in Fourier space predicted by Thyagarajan et al. (2015a, 2016)
+for a HERA-type dish, and detect polarized power within the pitchfork. Using simulations of the
+polarized response of HERA feeds, we find that almost all of the power in Stokes Q, U and V can be attributed
+to instrumental leakage effects. Power consistent with noise in the EoR window suggests a negligible
+amount of spectrally-structured polarized power, to the noise-levels attained. This lends confidence
+to deep integrations with HERA in the future, but with a lower noise floor these future studies will
+also have to investigate their polarized response. 

@@ -1,0 +1,17 @@
+Systematic uncertainties that have been subdominant in past large-scale structure (LSS) surveys
+are likely to exceed statistical uncertainties of current and future LSS data sets, potentially
+limiting the extraction of cosmological information. Here we present a general framework (PCA
+marginalization) to consistently incorporate systematic effects into a likelihood analysis.
+This technique naturally accounts for degeneracies between nuisance parameters and can substantially
+reduce the dimension of the parameter space that needs to be sampled. As a practical application,
+we apply PCA marginalization to account for baryonic physics as an uncertainty in cosmic shear tomography.
+Specifically, we use CosmoLike to run simulated likelihood analyses on three independent sets
+of numerical simulations, each covering a wide range of baryonic scenarios differing in cooling,
+star formation, and feedback mechanisms. We simulate a Stage III (Dark Energy Survey) and Stage
+IV (Large Synoptic Survey Telescope/Euclid) survey and find a substantial bias in cosmological
+constraints if baryonic physics is not accounted for. We then show that PCA marginalization (employing
+at most 3 to 4 nuisance parameters) removes this bias. Our study demonstrates that it is possible
+to obtain robust, precise constraints on the dark energy equation of state even in the presence of
+large levels of systematic uncertainty in astrophysical processes. We conclude that the PCA marginalization
+technique is a powerful, general tool for addressing many of the challenges facing the precision
+cosmology program. 

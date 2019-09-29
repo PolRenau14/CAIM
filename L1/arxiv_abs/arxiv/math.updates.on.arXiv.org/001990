@@ -1,0 +1,16 @@
+This paper considers the non-Hermitian Zakharov-Shabat (ZS) scattering problem which forms the
+basis for defining the SU$(2)$-nonlinear Fourier transformation (NFT). The theoretical underpinnings
+of this generalization of the conventional Fourier transformation is quite well established in
+the Ablowitz-Kaup-Newell-Segur (AKNS) formalism; however, efficient numerical algorithms
+that could be employed in practical applications are still unavailable. In this paper, we present
+a unified framework for the forward and inverse NFT using exponential one-step methods which are
+amenable to FFT-based fast polynomial arithmetic. Within this discrete framework, we propose
+a fast Darboux transformation (FDT) algorithm having an operational complexity of $\mathscr{O}\left(KN+N\log^2N\right)$
+such that the error in the computed $N$-samples of the $K$-soliton vanishes as $\mathscr{O}\left(N^{-p}\right)$
+where $p$ is the order of convergence of the underlying one-step method. For fixed $N$, this algorithm
+outperforms the the classical DT (CDT) algorithm which has a complexity of $\mathscr{O}\left(K^2N\right)$.
+We further present extension of these algorithms to the general version of DT which allows one to
+add solitons to arbitrary profiles that are admissible as scattering potentials in the ZS-problem.
+The general CDT/FDT algorithms have the same operational complexity as that of the $K$-soliton
+case and the order of convergence matches that of the underlying one-step method. A comparative
+study of these algorithms is presented through exhaustive numerical tests. 

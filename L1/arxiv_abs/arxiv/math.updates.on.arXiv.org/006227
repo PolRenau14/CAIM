@@ -1,0 +1,16 @@
+Motivated by a recent result of Daskalakis et al. 2018, we analyze the population version of Expectation-Maximization
+(EM) algorithm for the case of \textit{truncated} mixtures of two Gaussians. Truncated samples
+from a $d$-dimensional mixture of two Gaussians $\frac{1}{2} \mathcal{N}(\vec{\mu}, \vec{\Sigma})+
+\frac{1}{2} \mathcal{N}(-\vec{\mu}, \vec{\Sigma})$ means that a sample is only revealed if it
+falls in some subset $S \subset \mathbb{R}^d$ of positive (Lebesgue) measure. We show that for $d=1$,
+EM converges almost surely (under random initialization) to the true mean (variance $\sigma^2$
+is known) for any measurable set $S$. Moreover, for $d>1$ we show EM almost surely converges to the
+true mean for any measurable set $S$ when the map of EM has only three fixed points, namely $-\vec{\mu},
+\vec{0}, \vec{\mu}$ (covariance matrix $\vec{\Sigma}$ is known), and prove local convergence
+if there are more than three fixed points. We also provide convergence rates of our findings. Our
+techniques deviate from those of Daskalakis et al. 2017, which heavily depend on symmetry that the
+untruncated problem exhibits. For example, for an arbitrary measurable set $S$, it is impossible
+to compute a closed form of the update rule of EM. Moreover, arbitrarily truncating the mixture,
+induces further correlations among the variables. We circumvent these challenges by using techniques
+from dynamical systems, probability and statistics; implicit function theorem, stability analysis
+around the fixed points of the update rule of EM and correlation inequalities (FKG). 

@@ -1,0 +1,17 @@
+Photonic devices involving many optical modes promise major advances in quantum technologies,
+with applications ranging from quantum metrology over quantum computing to quantum simulations.
+A significant current roadblock for the development of such devices, however, is the lack of practical
+reliable certification tools. Here, we present one such tool. We start by carefully defining different
+notions of quantum-state certification tests. Then, we introduce an experimentally friendly,
+yet mathematically rigorous, certification test for experimental preparations of arbitrary
+m-mode pure Gaussian states as well as a class of pure non-Gaussian states common in linear-optical
+experiments, including those given by a Gaussian unitary acting on Fock basis states with n bosons.
+The protocol is efficient for all Gaussian states and all mentioned non-Gaussian states with constant
+n. We follow the formal mindset of an untrusted prover, who prepares the state, and a skeptic certifier,
+equipped only with classical computing and single-mode measurement capabilities. No assumptions
+are made on the type of quantum noise or experimental capabilities of the prover. We build upon an
+extremality property that leads to a practical fidelity lower bound, interesting in its own right.
+Experimentally, our technique relies on single-mode homodyne detection. With this method, the
+efficient and reliable certification of large-scale photonic networks, with a constant number
+of input photons, as those used for photonic quantum simulations, boson samplers, and quantum metrology
+is within reach. 

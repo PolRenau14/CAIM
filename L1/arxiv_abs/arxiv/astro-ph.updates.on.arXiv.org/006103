@@ -1,0 +1,16 @@
+In this paper we report a new estimate of the absolute proper motion (PM) of the globular cluster NGC
+5139 ($\omega$ Cen) as part of the HST large program GO-14118+14662. We analyzed a field 17 arcmin
+South-West of the center of $\omega$ Cen and computed PMs with an epoch span of $\sim$15.1 years.
+We employed 45 background galaxies to link our relative PMs to an absolute reference-frame system.
+The absolute PM of the cluster in our field is: $(\mu_\alpha \cos\delta , \mu_\delta) = (-3.341 \pm
+0.028 , -6.557 \pm 0.043)$ mas yr$^{-1}$. Upon correction for the effects of viewing perspective
+and the known cluster rotation, this implies that for the cluster center of mass $(\mu_\alpha \cos\delta
+, \mu_\delta) = (-3.238 \pm 0.028, -6.716 \pm 0.043)$ mas yr$^{-1}$. This measurement is direct
+and independent, has the highest random and systematic accuracy to date, and will provide an external
+verification for the upcoming Gaia Data Release 2. It also differs from most reported PMs for $\omega$
+Cen in the literature by more than 5$\sigma$, but consistency checks compared to other recent catalogs
+yield excellent agreement. We computed the corresponding Galactocentric velocity, calculated
+the implied orbit of $\omega$ Cen in two different Galactic potentials, and compared these orbits
+to the orbits implied by one of the PM measurements available in the literature. We find a larger (by
+about 500 pc) perigalactic distance for $\omega$ Cen with our new PM measurement, suggesting a larger
+survival expectancy for the cluster in the Galaxy. 

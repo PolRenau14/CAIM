@@ -1,0 +1,16 @@
+Multiple sclerosis (MS) is a demyelinating disease that affects more than 2 million people worldwide.
+The most used imaging technique to help in its diagnosis and follow-up is magnetic resonance imaging
+(MRI). Fluid Attenuated Inversion Recovery (FLAIR) images are usually acquired in the context
+of MS because lesions often appear hyperintense in this particular image weight, making it easier
+for physicians to identify them. Though lesions have a bright intensity profile, it may overlap
+with white matter (WM) and gray matter (GM) tissues, posing difficulties to be accurately segmented.
+In this sense, we propose a lesion enhancement technique to dim down WM and GM regions and highlight
+hyperintensities, making them much more distinguishable than other tissues. We applied our technique
+to the ISBI 2015 MS Lesion Segmentation Challenge and took the average gray level intensity of MS
+lesions, WM and GM on FLAIR and enhanced images. The lesion intensity profile in FLAIR was on average
+25% and 19% brighter than white matter and gray matter, respectively; comparatively, the same profile
+in our enhanced images was on average 444% and 264% brighter. Such results mean a significant improvement
+on the intensity distinction among these three clusters, which may come as aid both for experts and
+automated techniques. Moreover, a byproduct of our proposal is that the enhancement can be used
+to automatically estimate a mask encompassing WM and MS lesions, which may be useful for brain tissue
+volume assessment and improve MS lesion segmentation accuracy in future works. 

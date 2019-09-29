@@ -1,0 +1,17 @@
+We describe some progress towards a new common framework for model driven engineering, based on
+behavioral programming. The tool we have developed unifies almost all of the work done in behavioral
+programming so far, under a common set of interfaces. Its architecture supports pluggable event
+selection strategies, which can make models more intuitive and compact. Program state space can
+be traversed using various algorithms, such as DFS and A*. Furthermore, program state is represented
+in a way that enables scanning a state space using parallel and distributed algorithms. Executable
+models created with this tool can be directly embedded in Java applications, enabling a model-first
+approach to system engineering, where initially a model is created and verified, and then a working
+application is gradually built around the model. The model itself consists of a collection of small
+scripts written in JavaScript (hence "BPjs"). Using a variety of case-studies, this paper shows
+how the combination of a lenient programming language with formal model analysis tools creates
+an efficient way of developing robust complex systems. Additionally, as we learned from an experimental
+course we ran, the usage of JavaScript make practitioners more amenable to using this system and,
+thus, model checking and model driven engineering. In addition to providing infrastructure for
+development and case-studies in behavioral programming, the tool is designed to serve as a common
+platform for research and innovation in behavioral programming and in model driven engineering
+in general. 

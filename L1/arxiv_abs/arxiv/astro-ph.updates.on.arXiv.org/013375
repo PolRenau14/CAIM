@@ -1,0 +1,16 @@
+We use observations from the GEMINI-N/GMOS integral-field spectrograph (IFS) to obtain spatially
+resolved stellar kinematics of the central $\sim 1$ kpc of 20 early-type galaxies (ETGs) with stellar
+masses greater than $10^{11.7} M_\odot$ in the MASSIVE survey. Together with observations from
+the wide-field Mitchell IFS at McDonald Observatory in our earlier work, we obtain unprecedentedly
+detailed kinematic maps of local massive ETGs, covering a scale of $\sim 0.1-30$ kpc. The high ($\sim
+120$) signal-to-noise of the GMOS spectra enable us to obtain two-dimensional maps of the line-of-sight
+velocity, velocity dispersion $\sigma$, as well as the skewness $h_3$ and kurtosis $h_4$ of the
+stellar velocity distributions. All but one galaxy in the sample have $\sigma(R)$ profiles that
+increase towards the center, whereas the slope of $\sigma(R)$ at one effective radius ($R_e$) can
+be of either sign. The $h_4$ is generally positive, with 14 of the 20 galaxies having positive $h_4$
+within the GMOS aperture and 18 having positive $h_4$ within $1 R_e$. The positive $h_4$ and rising
+$\sigma(R)$ towards small radii are indicative of a central black hole and velocity anisotropy.
+We demonstrate the constraining power of the data on the mass distributions in ETGs by applying Jeans
+anisotropic modeling (JAM) to NGC~1453, the most regular fast rotator in the sample. Despite the
+limitations of JAM, we obtain a clear $\chi^2$ minimum in black hole mass, stellar mass-to-light
+ratio, velocity anisotropy parameters, and the circular velocity of the dark matter halo. 

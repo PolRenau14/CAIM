@@ -1,0 +1,16 @@
+The ALICE HLT uses a data transport framework based on the publisher-subscriber message principle,
+which transparently handles the communication between processing components over the network
+and between processing components on the same node via shared memory with a zero copy approach. We
+present an analysis of the performance in terms of maximum achievable data rates and event rates
+as well as processing capabilities during Run 1 and Run 2. Based on this analysis, we present new optimizations
+we have developed for ALICE in Run 2. These include support for asynchronous transport via Zero-MQ
+which enables loops in the reconstruction chain graph and which is used to ship QA histograms to DQM.
+We have added asynchronous processing capabilities in order to support long-running tasks besides
+the event-synchronous reconstruction tasks in normal HLT operation. These asynchronous components
+run in an isolated process such that the HLT as a whole is resilient even to fatal errors in these asynchronous
+components. In this way, we can ensure that new developments cannot break data taking. On top of that,
+we have tuned the processing chain to cope with the higher event and data rates expected from the new
+TPC readout electronics (RCU2) and we have improved the configuration procedure and the startup
+time in order to increase the time where ALICE can take physics data. We analyze the maximum achievable
+data processing rates taking into account processing capabilities of CPUs and GPUs, buffer sizes,
+network bandwidth, the incoming links from the detectors, and the outgoing links to data acquisition.

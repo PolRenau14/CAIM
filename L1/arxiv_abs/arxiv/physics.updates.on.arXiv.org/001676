@@ -1,0 +1,16 @@
+This study uses a 1D fluid dynamics arterial network model to predict pressure and flow dynamics
+in healthy and hypoxic mice. Data for this study include blood flow and pressure measurements from
+the main pulmonary artery of 7 healthy and 5 hypoxic mice. Representative arterial network dimensions
+for the 21 largest pulmonary arterial vessels are extracted from micro-CT images from healthy and
+hypoxic lungs. Each vessel is represented by its length and radius, and is assumed to taper longitudinally.
+Fluid dynamic computations are done assuming that the flow is Newtonian, viscous, laminar, has
+no swirl, and that the arterial walls are thin. The system of equations is closed by a constitutive
+equation relating pressure and area, using either a linear model derived from stress-strain deformation
+in the circumferential direction or a nonlinear model of empirical nature. For each dataset, an
+inflow waveform is extracted from data, and nominal parameters related the outflow boundary conditions
+were specified using mean values and timescales computed from the measured flow and pressure waveforms.
+The model was calibrated for each mouse by estimating parameters using optimization that minimized
+the least squares error between measured and computed pressure and flow waveforms from the main
+pulmonary artery. Results show that for healthy animals, the nonlinear wall model is needed to predict
+flow and pressure characteristics, while for the hypoxic animals both models predict the experimental
+data well, possibly because vessels are significantly stiffer due to wall remodeling. 

@@ -1,0 +1,16 @@
+We present a model for the dynamics of a population of bacteria with a continuum of traits, who compete
+for resources and exchange horizontally (transfer) an otherwise vertically inherited trait with
+possible mutations. Competition influences individual demographics, affecting population
+size, which feeds back on the dynamics of transfer. We consider a stochastic individual-based pure
+jump process taking values in the space of point measures, and whose jump events describe the individual
+reproduction, transfer and death mechanisms. In a large population scale, the stochastic process
+is proved to converge to the solution of a nonlinear integro-differential equation. When there
+are only two different traits and no mutation, this equation reduces to a non-standard two-dimensional
+dynamical system. We show how crucial the forms of the transfer rates are for the long-term behavior
+of its solutions. We describe the dynamics of invasion and fixation when one of the two traits is initially
+rare, and compute the invasion probabilities. Then, we study the process under the assumption of
+rare mutations. We prove that the stochastic process at the mutation time scale converges to a jump
+process which describes the successive invasions of successful mutants. We show that the horizontal
+transfer can have a major impact on the distribution of the successive mutational fixations, leading
+to dramatically different behaviors, from expected evolution scenarios to evolutionary suicide.
+Simulations are given to illustrate these phenomena. 

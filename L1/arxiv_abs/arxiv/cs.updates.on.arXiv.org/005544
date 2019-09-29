@@ -1,0 +1,17 @@
+Image data has a great potential of helping conventional visual inspections of civil engineering
+structures due to the ease of data acquisition and the advantages in capturing visual information.
+A variety of techniques have been proposed to detect damages, such as cracks and spalling on a close-up
+image of a single component (columns and road surfaces etc.). However, these techniques commonly
+suffer from severe false-positives especially when the image includes multiple components of
+different structures. To reduce the false-positives and extract reliable information about the
+structures' conditions, detection and localization of critical structural components are important
+first steps preceding the damage assessment. This study aims at recognizing bridge structural
+and non-structural components from images of urban scenes. During the bridge component recognition,
+every image pixel is classified into one of the five classes (non-bridge, columns, beams and slabs,
+other structural, other nonstructural) by multi-scale convolutional neural networks (multi-scale
+CNNs). To reduce false-positives and get consistent labels, the component classifications are
+integrated with scene understanding by an additional classifier with 10 higher-level scene classes
+(building, greenery, person, pavement, signs and poles, vehicles, bridges, water, sky, and others).
+The bridge component recognition integrated with the scene understanding is compared with the
+naive approach without scene classification in terms of accuracy, false-positives and consistencies
+to demonstrate the effectiveness of the integrated approach. 

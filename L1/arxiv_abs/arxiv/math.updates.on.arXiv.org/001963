@@ -1,0 +1,16 @@
+Our main goal is to study a class of processes whose increments are generated via a cellular automata
+rule. Given the increments of a simple biased random walk, a new sequence of (dependent) Bernoulli
+random variables is produced. It is built, from the original sequence, according to a cellular automata
+rule. Equipped with these two sequences, we construct two more according to the same cellular automata
+rule. The construction is repeated a fixed number of times yielding an infinite array ($\{-K,\ldots,K\}\times\N$)
+of (dependent) Bernoulli random variables. %In turn, using this new sequence as input, we reiterate
+a construction of a new sequence. %This process is repeated a finite number of times resulting in
+an infinite array, herein called the "downward process", of highly dependent Bernoulli random
+variables. The process of taking partial products can be reversed allowing to construct new sequences,
+herein called the "upward process", the characteristics of which are different from the downward
+process. Taking partial sums of these sequences, we obtain a $(2K+1)$-dimensional process whose
+increments belong to the state space $\{-1,1\}^{2K+1}$. The aim of the paper is to study the long
+term behaviour of this process. In particular, we establish transience/recurrence properties
+and prove an invariance principle. The limiting behaviour of these processes depends strongly
+on the direction of the iteration, and exhibits few surprising features. This work is motivated
+by an earlier investigation in which the starting sequence is symmetric. 

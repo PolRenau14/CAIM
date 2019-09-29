@@ -1,0 +1,16 @@
+A feasibility study of the megavoltage (MV) computed tomography (CT) for imaging large cargos has
+been performed. The MV cargo CT system has imaging field of view of 3.25m in diameter. The system design
+includes a compact x-ray source and detectors that are already used in existing MV cargo radiography
+systems. Although compact x-ray sources provide limited x-ray output, it is shown that this output
+is sufficient to perform CT imaging of large cluttered cargo contents for which MV radiography may
+be inconclusive. The scan time is 60sec. at the x-ray dose levels lower than the permitted limit of
+5mGy. A steel tank phantom with 2m diameter including different materials was used. The MV CT images
+were generated at 3.5MV, 6MV, and 9MV beam energies. The materials were separated based on their
+CT numbers as well as using dual energy subtraction method. The materials with close densities and
+x-ray attenuations such as W and U were reliably separated and quantified based on their measured
+CT numbers. The boundary conditions for the system design were determined including scan time,
+radiation dose, maximum object thicknesses, and spatial resolution. Based on the findings of this
+feasibility study, it is concluded that the MV cargo CT system with large field of view can be developed
+based on existing technology already used in MV cargo radiography. Such a CT system can be extremely
+useful as adjunct to existing MV radiography on resolving the special cases that cannot be resolved
+conclusively with radiography alone. 

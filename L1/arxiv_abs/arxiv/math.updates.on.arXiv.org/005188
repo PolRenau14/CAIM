@@ -1,0 +1,17 @@
+Fog radio access network (Fog-RAN), which pushes the caching and computing capabilities to the
+network edge, is capable of efficiently delivering contents to users by using carefully designed
+caching placement and content replacement algorithms. In this paper, the transmission scheme
+design and coding parameter optimization will be considered for coded caching in Fog-RAN, where
+the reliability of content delivery, i.e., content outage probability, is used as the performance
+metric. The problem will be formulated as a complicated multi-objective probabilistic combinatorial
+optimization. A novel maximum b-matching approach will then be proposed to obtain the Pareto optimal
+solution with fairness constraint. Based on the fast message passing approach, a distributed algorithm
+with a low memory usage of O(M + N) is also proposed, where M is the number of users and N is the number
+of Fog-APs. Although it is usually very difficult to derive the closed-form formulas for the optimal
+solution, the approximation formulas of the content outage probability will also be obtained as
+a function of coding parameters. The asymptotic optimal coding parameters can then be obtained
+by defining and deriving the outage exponent region (OER) and diversity-multiplexing region (DMR).
+Simulation results will illustrate the accuracy of the theoretical derivations, and verify the
+outage performance of the proposed approach. Therefore, this paper not only proposes a practical
+distributed Fog-AP selection algorithm for coded caching, but also provides a systematic way to
+evaluate and optimize the performance of Fog-RANs. 

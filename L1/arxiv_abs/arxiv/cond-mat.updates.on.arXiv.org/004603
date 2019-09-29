@@ -1,0 +1,16 @@
+Stimulated Raman adiabatic passage (STIRAP) allows to efficiently transferring the populations
+between two discrete quantum states and has been used to prepare molecules in their rovibrational
+ground state. In realistic molecules, a well-resolved intermediate state is usually selected
+to implement the resonant STIRAP. Due to the complex molecular level structures, the detuned STIRAP
+always coexists with the resonant STIRAP and may cause unexpected interference phenomenon. However,
+it is generally accepted that the detuned STIRAP can be neglected if compared with the resonant STIRAP.
+Here we report on the first observation of interference between the resonant and detuned STIRAP
+in the adiabatic creation of $^{23}$Na$^{40}$K ground-state molecules. The interference is identified
+by observing that the number of Feshbach molecules after a round-trip STIRAP oscillates as a function
+of the hold time, with a visibility of about 90\%. This occurs even if the intermediate excited states
+are well resolved, and the single-photon detuning of the detuned STIRAP is about one order of magnitude
+larger than the linewidth of the excited state and the Rabi frequencies of the STIRAP lasers. Moreover,
+the observed interference indicates that if more than one hyperfine level of the ground state is
+populated, the STIRAP prepares a coherent superposition state among them, but not an incoherent
+mixed state. Further, the purity of the hyperfine levels of the created ground state can be quantitatively
+determined by the visibility of the oscillation. 

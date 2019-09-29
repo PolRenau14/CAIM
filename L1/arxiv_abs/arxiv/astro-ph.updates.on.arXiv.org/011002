@@ -1,0 +1,16 @@
+Linear-cosmology observables, such as the Cosmic Microwave Background (CMB), or the large-scale
+distribution of matter, have long been used as clean probes of dark matter (DM) interactions with
+baryons. It is standard to model the DM as an ideal fluid with a thermal Maxwell-Boltzmann (MB) velocity
+distribution, in order to compute the heat and momentum-exchange rates relevant to these probes.
+This approximation only applies in the limit where DM self-interactions are frequent enough to
+efficiently redistribute DM velocities. It does not accurately describe weakly self-interacting
+particles, whose velocity distribution unavoidably departs from MB once they decouple from baryons.
+This article lays out a new formalism required to accurately model DM-baryon scattering, even when
+DM self-interactions are negligible. The ideal fluid equations are replaced by the collisional
+Boltzmann equation for the DM phase-space distribution. The collision operator is approximated
+by a Fokker-Planck operator, constructed to recover the exact heat and momentum exchange rates,
+and allowing for an efficient numerical implementation. Numerical solutions to the background
+evolution are presented, which show that the MB approximation can over-estimate the heat-exchange
+rate by factors of ~ 2-3, especially for light DM particles. A Boltzmann-Fokker-Planck hierarchy
+for perturbations is derived. This new formalism allows to explore a wider range of DM models, and
+will be especially relevant for upcoming ultra-high-sensitivity CMB probes. 

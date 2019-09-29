@@ -1,0 +1,16 @@
+Bosonization provides a powerful analytical framework to deal with one-dimensional strongly
+interacting fermion systems, which makes it a cornerstone in quantum many-body theory. Yet, this
+success comes at the expense of using effective infrared parameters, and restricting the description
+to low energy states near the Fermi level. We propose a radical extension of the bosonization technique
+that overcomes both limitations, allowing computations with microscopic lattice Hamiltonians,
+from the Fermi level down to the bottom of the band. The formalism rests on the simple idea of representing
+the fermion kinetic term in the energy domain, after which it can be expressed in terms of free bosonic
+degrees of freedom. As a result, one- and two-body fermionic scattering processes generate anharmonic
+boson-boson interactions, even in the forward channel. We show that up to moderate interaction
+strengths, these nonlinearities can be treated analytically at all energy scales, using the x-ray
+emission problem as a showcase. In the strong interaction regime, we employ a systematic variational
+solution of the bosonic theory, and obtain results that agree quantitatively with an exact diagonalization
+of the original one-particle fermionic model. This provides a proof of the fully microscopic character
+of bosonization on all energy scales for an arbitrary band structure. Besides recovering the known
+x-ray edge singularity at the emission threshold, we find strong signatures of correlations even
+at emission frequencies beyond the band bottom. 

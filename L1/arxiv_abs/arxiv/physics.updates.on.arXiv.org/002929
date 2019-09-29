@@ -1,0 +1,17 @@
+The measurement of the spectral diffraction efficiencies of a diffraction grating is essential
+for improving the manufacturing technique and for assessing the grating's function in practical
+applications. The drawback of the currently popular measurement technique is its slow speed due
+to the hundreds of repetitions of two kinds of time-consuming mechanical movements during the measuring
+process (i.e., the rotation of the mechanical arm to capture the light beam, and the mechanical variation
+of the output wavelength of the grating monochromator). This limitation greatly restricts the
+usage of this technique in dynamic measurement. In this manuscript, we present a motionless and
+fast measurement technique for obtaining the spectral diffraction efficiencies of a plane grating,
+effectively eliminating the aforementioned two kinds of mechanical movement. Herein, the proposed
+solution for removing the first kind of mechanical movement is tested, and the experimental result
+shows that the proposed method can be successfully used to measure the plane transmission grating's
+spectral diffraction efficiencies in the wavelength range of 550-750 nm. The method for eliminating
+the second kind of mechanical movement is not verified in this manuscript; however, we think that
+it is very straightforward and commercially available. We estimate that the spectral measurement
+can be achieved on a millisecond timescale by combining the two solutions. Our motionless and fast
+measuring technique will find broad applications in dynamic measurement environments and mass
+industrial testing. 

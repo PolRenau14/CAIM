@@ -1,0 +1,16 @@
+The periods of magnetic activity cycles in the Sun and solar-type stars do not exhibit a simple or
+even single trend with respect to rotation rate or luminosity. Dynamo models can be used to interpret
+this diversity, and can ultimately help us understand why some solar-like stars do not exhibit a
+magnetic cycle, whereas some do, and for the latter what physical mechanisms set their magnetic
+cycle period. Three-dimensional non-linear magnetohydrodynamical simulations present the
+advantage of having only a small number of tunable parameters, and produce in a dynamically self-consistent
+manner the flows and the dynamo magnetic fields pervading stellar interiors. We conducted a series
+of such simulations within the EULAG-MHD framework, varying the rotation rate and luminosity of
+the modeled solar-like convective envelopes. We find decadal magnetic cycles when the Rossby number
+near the base of the convection zone is moderate (typically between 0.25 and 1). Secondary, shorter
+cycles located at the top of the convective envelope close to the equator are also observed in our
+numerical experiments, when the local Rossby number is lower than 1. The deep-seated dynamo sustained
+in these numerical experiments is fundamentally non-linear, in that it is the feedback of the large-scale
+magnetic field on the large-scale differential rotation that sets the magnetic cycle period. The
+cycle period is found to decrease with the Rossby number, which offers an alternative theoretical
+explanation to the variety of activity cycles observed in solar-like stars. 

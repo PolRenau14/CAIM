@@ -1,0 +1,16 @@
+The basic load balancing scenario involves a single dispatcher where tasks arrive that must immediately
+be forwarded to one of $N$ single-server queues. We discuss recent advances on scalable load balancing
+schemes which provide favorable delay performance when $N$ grows large, and yet only require minimal
+implementation overhead. Join-the-Shortest-Queue (JSQ) yields vanishing delays as $N$ grows
+large, as in a centralized queueing arrangement, but involves a prohibitive communication burden.
+In contrast, power-of-$d$ or JSQ($d$) schemes that assign an incoming task to a server with the shortest
+queue among $d$ servers selected uniformly at random require little communication, but lead to
+constant delays. In order to examine this fundamental trade-off between delay performance and
+implementation overhead, we consider JSQ($d(N)$) schemes where the diversity parameter $d(N)$
+depends on $N$ and investigate what growth rate of $d(N)$ is required to asymptotically match the
+optimal JSQ performance on fluid and diffusion scale. Stochastic coupling techniques and stochastic-process
+limits play an instrumental role in establishing the asymptotic optimality. We demonstrate how
+this methodology carries over to infinite-server settings, finite buffers, multiple dispatchers,
+servers arranged on graph topologies, and token-based load balancing including the popular Join-the-Idle-Queue
+(JIQ) scheme. In this way we provide a broad overview of the many recent advances in the field. This
+survey extends the short review presented at ICM 2018 (arXiv:1712.08555). 

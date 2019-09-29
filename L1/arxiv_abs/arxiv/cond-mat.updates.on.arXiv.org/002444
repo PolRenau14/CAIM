@@ -1,0 +1,17 @@
+The recent observation of a half-integer quantized thermal Hall effect in $\alpha$-RuCl$_3$ is
+interpreted as a unique signature of a chiral spin liquid with a Majorana edge mode. A similar quantized
+thermal Hall effect is expected in chiral topological superconductors. The unavoidable presence
+of gapless acoustic phonons, however, implies that, in contrast to the quantized electrical conductivity,
+the thermal Hall conductivity $\kappa_xy$ is never exactly quantized in real materials. Here,
+we investigate how phonons affect the quantization of the thermal conductivity focusing on the
+edge theory. As an example we consider a Kitaev spin liquid gapped by an external magnetic field coupled
+to acoustic phonons. The coupling to phonons destroys the ballistic thermal transport of the edge
+mode completely, as energy can leak into the bulk, thus drastically modifying the edge-picture
+of the thermal Hall effect. Nevertheless, the thermal Hall conductivity remains approximately
+quantized and we argue, that the coupling to phonons to the edge mode is a necessary condition for
+the observation of the quantized thermal Hall effect. The strength of this edge coupling does, however,
+not affect the conductivity. We argue that for sufficiently clean systems the leading correction
+to the quantized thermal Hall effect, $\Delta \kappa_{xy}/T \sim \text{sign(B)} \, T^2$, arises
+from a intrinsic anomalous Hall effect of the acoustic phonons due to Berry phases imprinted by the
+chiral (spin) liquid in the bulk. This correction depends on the sign but not the amplitude of the
+external magnetic field. 

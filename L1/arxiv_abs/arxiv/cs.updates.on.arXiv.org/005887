@@ -1,0 +1,16 @@
+Low-Power Wide-Area Networks (LPWANs) emerged to cover the needs of Internet of Things (IoT)-devices
+for operational longevity and long operating range. Among LPWANs, Long Range (LoRa) WAN has been
+the most promising; an upcoming IoT protocol, already adopted by big mobile operators like KPN and
+TTN. With LoRaWANs, IoT-devices transmit data to their corresponding gateways over many kilometers
+in a single hop and with 1% duty-cycle. However, in a LoRa network, any device claims the channel for
+data-transmission without performing channel-sensing or synchronization with other devices.
+This increases humongously the number of collisions of information-packets when the number of
+IoT-devices that are connected per gateway increases. To improve the utilization of the channel,
+we propose the application of persistent-Carrier Sense Multiple Access (p-CSMA) protocols on
+the MAC layer of LoRaWANs. In this manuscript, we report on the initial design of a p-CSMA component
+for the simulation of LoRa networks in ns3. In particular, the classes adding p-CSMA functionality
+to the IoT-devices are presented. Additionally, the dependencies and relations between these
+classes and an existing LoRaWAN module on which they apply are detailed. Further, we evaluate this
+new p-CSMA LoRaWAN module in terms of Packet Reception Ratio (PRR) by simulating LoRa networks.
+The current report is the first step in the creation of a holistic p-CSMA module, directed to support
+network-researchers and connoisseurs in simulating all aspects of LoRa networks in ns3. 

@@ -1,0 +1,16 @@
+Playing back vibrotactile signals through actuators is commonly used to simulate tactile feelings
+of virtual textured surfaces. However, there is often a small mismatch between the simulated tactile
+feelings and intended tactile feelings by tactile designers. Thus, a method of modulating the vibrotactile
+perception is required. We focus on fine roughness perception and we propose a method using a pseudo-haptic
+effect to modulate fine roughness perception of vibrotactile texture. Specifically, we visually
+modify the pointer's position on the screen slightly, which indicates the touch position on textured
+surfaces. We hypothesized that if users receive vibrational feedback watching the pointer visually
+oscillating back/forth and left/right, users would believe the vibrotactile surfaces more uneven.
+We also hypothesized that as the size of visual oscillation is getting larger, the amount of modification
+of roughness perception of vibrotactile surfaces would be larger. We conducted user studies to
+test the hypotheses. Results of first user study suggested that users felt vibrotactile texture
+with our method rougher than they did without our method at a high probability.Results of second
+user study suggested that users felt different roughness for vibrational texture in response to
+the size of visual oscillation. These results confirmed our hypotheses and they suggested that
+our method was effective. Also, the same effect could potentially be applied to the visual movement
+of virtual hands or fingertips when users are interacting with virtual surfaces using their hands.

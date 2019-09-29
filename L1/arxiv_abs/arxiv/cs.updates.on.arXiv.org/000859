@@ -1,0 +1,16 @@
+Sparse matrix-vector multiplication (spMVM) is the most time-consuming kernel in many numerical
+algorithms and has been studied extensively on all modern processor and accelerator architectures.
+However, the optimal sparse matrix data storage format is highly hardware-specific, which could
+become an obstacle when using heterogeneous systems. Also, it is as yet unclear how the wide single
+instruction multiple data (SIMD) units in current multi- and many-core processors should be used
+most efficiently if there is no structure in the sparsity pattern of the matrix. We suggest SELL-C-sigma,
+a variant of Sliced ELLPACK, as a SIMD-friendly data format which combines long-standing ideas
+from General Purpose Graphics Processing Units (GPGPUs) and vector computer programming. We discuss
+the advantages of SELL-C-sigma compared to established formats like Compressed Row Storage (CRS)
+and ELLPACK and show its suitability on a variety of hardware platforms (Intel Sandy Bridge, Intel
+Xeon Phi and Nvidia Tesla K20) for a wide range of test matrices from different application areas.
+Using appropriate performance models we develop deep insight into the data transfer properties
+of the SELL-C-sigma spMVM kernel. SELL-C-sigma comes with two tuning parameters whose performance
+impact across the range of test matrices is studied and for which reasonable choices are proposed.
+This leads to a hardware-independent ("catch-all") sparse matrix format, which achieves very
+high efficiency for all test matrices across all hardware platforms. 

@@ -1,0 +1,16 @@
+We present a full two-fluid magnetohydrodynamic (MHD) description for a completely ionized hydrogen
+plasma, retaining the effects of the Hall current, electron pressure and electron inertia. According
+to this description, each plasma species introduces a new spatial scale: the ion inertial length
+$\lambda_{i}$ and the electron inertial length $\lambda_{e}$, which are not present in the traditional
+MHD description. In the present paper, we seek for possible changes in the energy power spectrum
+in fully developed turbulent regimes, using numerical simulations of the two-fluid equations
+in two-and-a-half dimensions (2.5D). We have been able to reproduce different scaling laws in different
+spectral ranges, as it has been observed in the solar wind for the magnetic energy spectrum. At the
+smallest wavenumbers where plain MHD is valid, we obtain an inertial range following a Kolmogorov
+$k^{-5/3}$ law. For intermediate wavenumbers such that $\lambda_{i}^{-1} << k <<
+\lambda_{e}^{-1}$, the spectrum is modified to a $k^{-7/3}$ power-law, as has also been obtained
+for Hall-MHD (HMHD) neglecting electron inertia terms. When electron inertia is retained, a new
+spectral region given by $k > \lambda_{e}^{-1}$ arises. The power spectrum for magnetic energy
+in this region is given by a $k^{-11/3}$ power law. Finally, when the terms of electron inertia are
+retained, we study the self-consistent electric field. Our results are discussed and compared
+with those obtained in solar wind observations and previous simulations. 

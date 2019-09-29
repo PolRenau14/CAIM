@@ -1,0 +1,16 @@
+The massive stars that ionised the Universe have short lifetimes and can only be studied near the
+time of formation, but any low mass stars that formed contemporaneously might be observable in the
+local Universe today. We study the abundance pattern and spatial distribution of these `siblings
+of reionizers' (SoRs) in the EAGLE cosmological hydrodynamical simulation. SoRs tend to be enriched
+to super-solar levels in $\alpha$-elements compared to iron. In {\sc eagle} galaxies resembling
+the Milky Way, $\sim 40$ percent of carbon-enhanced metal poor (CEMP) stars are SoRs. Conversely,
+$\sim 10$ percent of all SoRs are CEMP stars. This fraction increases to $\gtrsim 50$ percent for
+SoRs of metallicity [Fe/H]$<-4$, and at such low metallicities, most of the CEMP stars are of CEMP-no
+subtype that are lacking neutron capture elements. Although these numbers may well depend on the
+details of the physical models implemented in EAGLE, the trends we describe are robust as they result
+from the strong feedback from star formation in early galaxies, itself a key ingredient of most current
+models of galaxy formation. We further find that most SoRs today reside in halos with mass $M_h\gtrapprox
+10^{12}$ M$_\odot$, and 50 percent of them are in the halo of their central galaxy (distance $>10$
+kpc), mainly because they were accreted onto their current host rather than formed in-situ. To a
+good approximation, the SoRs are CEMP-no stars that reside in the stellar halos of massive galaxies,
+with nearly half of them contributing to the intracluster light in groups and clusters. 

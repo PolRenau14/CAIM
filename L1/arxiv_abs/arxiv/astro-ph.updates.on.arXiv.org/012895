@@ -1,0 +1,16 @@
+Compensated isocurvature perturbations (CIPs) are opposite spatial fluctuations in the baryon
+and dark matter density. They can be generated for example in the curvaton model in the early Universe
+but are difficult to observe because their gravitational imprint nearly cancels. We therefore
+propose a new measurement method by searching for a spatial modulation of the baryon acoustic oscillation
+(BAO) scale that CIPs induce. We find that for a Euclid-like survey the sensitivity is marginally
+better than the WMAP cosmic microwave background (CMB) constraint, which exploits the CIP-induced
+modulation of the CMB sound horizon. For a cosmic-variance limited BAO survey using emission-line
+galaxies up to $z\sim7$ the sensitivity is between stage 3 and stage 4 CMB experiments. These results
+include using CIP-galaxy cross-correlations, which improves the sensitivity by a factor of $\sim2-3$
+for correlated CIPs. The method could be further improved with an optimal estimator, similarly
+to the CMB, and could provide a useful cross-check of other CIP probes. Finally, if CIPs exist, they
+can bias cosmological measurements made assuming no CIPs. In particular, they can act as a super-sample
+fluctuation of the baryon density and bias measurements of the BAO scale. For modern BAO surveys,
+the largest 1$\sigma$ isotropic (2$\sigma$ radial) CIP fluctuation allowed by Planck's 95\% bound
+could bias BAO measurements of $H(z)$ by 1\% (6.6\%), partially reducing the tension with the local
+$H_0$ measurements from 3.1$\sigma$ to 2.7$\sigma$ (0.6$\sigma$). 

@@ -1,0 +1,16 @@
+UV radiation feedback from young massive stars plays a key role in the evolution of giant molecular
+clouds (GMCs) by photoevaporating and ejecting the surrounding gas. We conduct a suite of radiation
+hydrodynamic simulations of star cluster formation in marginally-bound, turbulent GMCs, focusing
+on the effects of photoionization and radiation pressure on regulating the net star formation efficiency
+(SFE) and cloud lifetime. We find that the net SFE depends primarily on the initial gas surface density,
+$\Sigma_0$, such that the SFE increases from 4% to 51% as $\Sigma_0$ increases from $13\,M_{\odot}\,{\rm
+pc}^{-2}$ to $1300\,M_{\odot}\,{\rm pc}^{-2}$. Cloud destruction occurs within $2$-$10\,{\rm
+Myr}$ after the onset of radiation feedback, or within $0.6$-$4.1$ freefall times (increasing
+with $\Sigma_0$). Photoevaporation dominates the mass loss in massive, low surface-density clouds,
+but because most photons are absorbed in an ionization-bounded Str\"{o}mgren volume the photoevaporated
+gas fraction is proportional to the square root of the SFE. The measured momentum injection due to
+thermal and radiation pressure forces is proportional to $\Sigma_0^{-0.74}$, and the ejection
+of neutrals substantially contributes to the disruption of low-mass and/or high-surface density
+clouds. We present semi-analytic models for cloud dispersal mediated by photoevaporation and
+by dynamical mass ejection, and show that the predicted net SFE and mass loss efficiencies are consistent
+with the results of our numerical simulations. 

@@ -1,0 +1,16 @@
+Given $n$ samples from a population of individuals belonging to different types with unknown proportions,
+how do we estimate the probability of discovering a new type at the $(n+1)$-th draw? This is a classical
+problem in statistics, commonly referred to as the missing mass estimation problem. Recent results
+by Ohannessian and Dahleh \citet{Oha12} and Mossel and Ohannessian \citet{Mos15} showed: i) the
+impossibility of estimating (learning) the missing mass without imposing further structural
+assumptions on the type proportions; ii) the consistency of the Good-Turing estimator for the missing
+mass under the assumption that the tail of the type proportions decays to zero as a regularly varying
+function with parameter $\alpha\in(0,1)$. In this paper we rely on tools from Bayesian nonparametrics
+to provide an alternative, and simpler, proof of the impossibility of a distribution-free estimation
+of the missing mass. Up to our knowledge, the use of Bayesian ideas to study large sample asymptotics
+for the missing mass is new, and it could be of independent interest. Still relying on Bayesian nonparametric
+tools, we then show that under regularly varying type proportions the convergence rate of the Good-Turing
+estimator is the best rate that any estimator can achieve, up to a slowly varying function, and that
+minimax rate must be at least $n^{-\alpha/2}$. We conclude with a discussion of our results, and
+by conjecturing that the Good-Turing estimator is an rate optimal minimax estimator under regularly
+varying type proportions. 

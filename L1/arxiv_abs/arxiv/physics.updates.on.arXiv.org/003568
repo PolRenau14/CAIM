@@ -1,0 +1,16 @@
+Future long baseline neutrino experiments such as the DUNE experiment under construction at Fermilab
+will perform precision measurements of neutrino oscillations, including the potential for the
+discovery of CP violation in the lepton sector. These measurements require an understanding of
+the unoscillated neutrino beam with unprecedented accuracy. This will be provided by complex near
+detectors which consist of different subsystems including tracking elements and electromagnetic
+calorimetry. A high granularity in the calorimeter, provided by scintillator tiles with SiPM readout
+as used in the CALICE analog hadron calorimeter, provides the capability for direction reconstruction
+of photon showers, which can be used to determine the decay positions of neutral pions. This can enable
+the association of neutral pions to neutrino interactions in the tracker volume, improving the
+event reconstruction of the near detector. Beyond photon and electron reconstruction, the calorimeter
+also provides sensitivity to neutrons. In this presentation, we will discuss a simulation study
+exploring the potential of high granularity for the electromagnetic calorimeter of the DUNE near
+detector. Particular emphasis will be placed on the combination with a high pressure TPC as tracking
+detector, which puts particularly stringent requirements on the calorimeter. The dependence
+of the projected detector performance on granularity, absorber material and absorber thickness
+as well as geometric arrangement satisfying the constraints of the TPC are explored. 

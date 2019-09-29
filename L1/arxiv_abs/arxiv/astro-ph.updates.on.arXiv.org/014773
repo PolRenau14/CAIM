@@ -1,0 +1,17 @@
+Detecting anions in space has relied on a strong collaboration between theoretical and laboratory
+analyses to measure rotational spectra and spectroscopic constants to high accuracy. The advent
+of improved quantum chemical tools operating at higher accuracy and reduced computational cost
+is a crucial solution for the fundamental characterization of astrophysically-relevant anions
+and their detection in the interstellar medium and planetary atmospheres. In this context, we have
+turned towards the quantum chemical analysis of the penta-atomic dicyanoamine anion NCNCN$^-$
+(C$_2$N$_3^-$), a structurally bent and polar compound. We have performed high-level coupled
+cluster theory quartic force field (QFF) computations of C$_2$N$_3^-$ satisfying both computational
+cost and accuracy conditions. We provide for the first time accurate spectroscopic constants and
+vibrational frequencies for this ion. In addition to exhibiting various Fermi resonances, C$_2$N$_3^-$
+displays a bright $\nu$2 (2130.9 cm$^{-1}$) and a less intense $\nu$1 (2190.7 cm$^{-1}$) fundamental
+vibrational frequency, making for strong markers for future infrared observations < 5$\mu$m.
+We have also determined near-IR overtone and combination bands of the bright fundamentals for which
+the 2$\nu$2 at 4312.1 cm$^{-1}$ (2.319 $\mu$m) is the best candidate. C$_2$N$_3^-$ could potentially
+exist and be detected in nitrogen-rich environments of the ISM such as IRC +10216 and other carbon-rich
+circumstellar envelopes, or in the atmosphere of Saturn's moon Titan, where advanced N-based reactions
+may lead to its formation. 

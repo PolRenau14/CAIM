@@ -1,0 +1,16 @@
+We consider the Sasa-Satsuma (SS) and Nonlinear Schr\"odinger (NLS) equations posed along the
+line, in 1+1 dimensions. Both equations are canonical integrable $U(1)$ models, with solitons,
+multi-solitons and breather solutions, see Yang for instance. For these two equations, we recognize
+four distinct localized breather modes: the Sasa-Satsuma for SS, and for NLS the Satsuma-Yajima,
+Kuznetsov-Ma and Peregrine breathers. Very little is known about the stability of these solutions,
+mainly because of their complex structure, which does not fit into the classical soliton behavior
+by Grillakis-Shatah-Strauss. In this paper we find the natural $H^2$ variational characterization
+for each of them, and prove that Sasa-Satsuma breathers are $H^2$ nonlinearly stable, improving
+the linear stability property previously proved by Pelinovsky and Yang. Moreover, in the SS case,
+we provide an alternative understanding of the SS solution as a breather, and not only as an embedded
+soliton. The method of proof is based in the use of a $H^2$ based Lyapunov functional, in the spirit
+of the first and third authors, extended this time to the vector-valued case. We also provide another
+rigorous justification of the instability of the remaining three nonlinear modes (Satsuma-Yajima,
+Peregrine y Kuznetsov-Ma), based in the study of their corresponding linear variational structure
+(as critical points of a suitable Lyapunov functional), and complementing the instability results
+recently proved e.g. in a paper by the third author. 

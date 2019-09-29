@@ -1,0 +1,17 @@
+Inertial sensors stimulate very large interest, not only for their application but also for fundamental
+physics tests. Ring laser gyros, which measure angular rotation rate, are certainly among the most
+sensitive inertial sensors, with excellent dynamic range and bandwidth. Large area ring laser
+gyros are routinely able to measure fractions of prad/s, with high duty cycle and bandwidth, providing
+fast, direct and local measurement of relevant geodetic and geophysical signals. Improvements
+of a factor $10-100$ would open the windows for general relativity tests, as the GINGER project,
+an Earth based experiment aiming at the Lense-Thirring test at $1\%$ level. However, it is well known
+that the dynamics of the laser induces non-linearities, and those effects are more evident in small
+scale instruments. Sensitivity and accuracy improvements are always worthwhile, and in general
+there is demand for high sensitivity environmental study and development of inertial platforms,
+where small scale transportable instruments should be used. We discuss a novel technique to analyse
+the data, aiming at studying and removing those non-linearity. The analysis is applied to the two
+ring laser prototypes GP2 and GINGERINO, and angular rotation rate evaluated with the new and standard
+methods are compared. The improvement is evident, it shows that the back-scatter problem of the
+ring laser gyros is negligible with a proper analysis of the data, improving the performances of
+large scale ring laser gyros, but also indicating that small scale instruments with sensitivity
+of nrad/s are feasible. 

@@ -1,0 +1,16 @@
+We present an independent confirmation of the zero-point offset of ${\rm \it Gaia}$ Data Release
+2 (DR2) parallaxes using asteroseismic data of evolved stars in the ${\rm \it Kepler}$ field. Using
+well-characterized red giant branch (RGB) stars from the APOKASC-2 catalogue we identify a ${\rm
+\it Gaia}$ astrometric pseudo-color ($\nu_{\rm eff}$)- and ${\rm \it Gaia}$ $G$-band magnitude-dependent
+zero-point offset of $\varpi_{\rm seis} - \varpi_{Gaia} = 52.8 \pm 2.4 {\rm\ (rand.)} \pm 8.6 {\rm\
+(syst.)} - (150.7 \pm 22.7)(\nu_{\rm eff} - 1.5) - (4.21 \pm 0.77)(G - 12.2) \mu{\rm as}$, in the sense
+that ${\rm \it Gaia}$ parallaxes are too small. The offset is found in high and low-extinction samples,
+as well as among both shell H-burning red giant stars and core He-burning red clump stars. We show
+that errors in the asteroseismic radius and temperature scales may be distinguished from errors
+in the ${\rm \it Gaia}$ parallax scale. We estimate systematic effects on the inferred global ${\rm
+\it Gaia}$ parallax offset, $c$, due to radius and temperature systematics, as well as choices in
+bolometric correction and the adopted form for ${\rm \it Gaia}$ parallax spatial correlations.
+Because of possible spatially-correlated parallax errors, as discussed by the ${\rm \it Gaia}$
+team, our ${\rm \it Gaia}$ parallax offset model is specific to the ${\rm \it Kepler}$ field, but
+broadly compatible with the magnitude- and color-dependent offset inferred by the ${\rm \it Gaia}$
+team and several subsequent investigations using independent methods. 

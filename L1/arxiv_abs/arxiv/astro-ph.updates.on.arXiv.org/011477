@@ -1,0 +1,16 @@
+We present an initial overview of the filamentary structure in the Orion A molecular cloud utilizing
+a high angular and velocity resolution C$^{18}$O(1-0) emission map that was recently produced
+as part of the CARMA-NRO Orion Survey. The main goal of this study is to build a credible method to study
+varying widths of filaments which has previously been linked to star formation in molecular clouds.
+Due to the diverse star forming activities taking place throughout its $\sim$20 pc length, together
+with its proximity of 388 pc, the Orion A molecular cloud provides an excellent laboratory for such
+an experiment to be carried out with high resolution and high sensitivity. Using the widely-known
+structure identification algorithm, DisPerSE, on a 3-dimensional (PPV) C$^{18}$O cube, we identified
+625 relatively short (the longest being 1.74 pc) filaments over the entire cloud. We study the distribution
+of filament widths using FilChaP, a python package that we have developed and made publicly available.
+We find that the filaments identified in a 2 square degree PPV cube do not overlap spatially, except
+for the complex OMC-4 region that shows distinct velocity components along the line of sight. The
+filament widths vary between 0.02 and 0.3 pc depending on the amount of substructure that a filament
+possesses. The more substructure a filament has, the larger is its width. We also find that despite
+this variation, the filament width shows no anticorrelation with the central column density which
+is in agreement with previous Herschel observations. 

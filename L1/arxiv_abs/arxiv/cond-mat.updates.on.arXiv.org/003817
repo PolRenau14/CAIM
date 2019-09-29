@@ -1,0 +1,16 @@
+We consider quantum quenches in the integrable $SU(3)$-invariant spin chain (Lai-Sutherland
+model) which admits a Bethe ansatz description in terms of two different quasiparticle species,
+providing a prototypical example of a model solvable by nested Bethe ansatz. We identify infinite
+families of integrable initial states for which analytic results can be obtained. We show that they
+include special families of two-site product states which can be related to integrable ``soliton
+non-preserving'' boundary conditions in an appropriate rotated channel. We present a complete
+analytical result for the quasiparticle rapidity distribution functions corresponding to the
+stationary state reached at large times after the quench from the integrable initial states. Our
+results are obtained within a Quantum Transfer Matrix (QTM) approach, which does not rely on the
+knowledge of the quasilocal conservation laws or of the overlaps between the initial states and
+the eigenstates of the Hamiltonian. Furthermore, based on an analogy with previous works, we conjecture
+analytic expressions for such overlaps: this allows us to employ the Quench Action method to derive
+a set of integral equations characterizing the quasi-particle distribution functions of the post-quench
+steady state. We verify that the solution to the latter coincides with our analytic result found
+using the QTM approach. Finally, we present a direct physical application of our results by providing
+predictions for the propagation of entanglement after the quench from such integrable states.

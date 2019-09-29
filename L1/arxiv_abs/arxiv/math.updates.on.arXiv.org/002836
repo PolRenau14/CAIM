@@ -1,0 +1,16 @@
+Massive multiuser multiple-input multiple-output (MU-MIMO) systems are expected to be the core
+technology in fifth-generation wireless systems because they significantly improve spectral
+efficiency. However, the requirement for a large number of radio frequency (RF) chains results
+in high hardware costs and power consumption, which obstruct the commercial deployment of massive
+MIMO systems. A potential solution is to use low-resolution digital-to-analog converters (DAC)/analog-to-digital
+converters for each antenna and RF chain. However, using low-resolution DACs at the transmit side
+directly limits the degree of freedom of output signals and thus poses a challenge to the precoding
+design. In this study, we develop efficient and universal algorithms for a downlink massive MU-MIMO
+system with finite-alphabet precodings. Our algorithms are developed based on the alternating
+direction method of multipliers (ADMM) framework. The original ADMM does not converge in a nonlinear
+discrete optimization problem. The primary cause of this problem is that the alternating (update)
+directions in ADMM on one side are biased, and those on the other side are unbiased. {By making the
+two updates consistent in an unbiased manner, we develop two algorithms called iterative discrete
+estimation (IDE) and IDE2: IDE demonstrates excellent performance and IDE2 possesses a significantly
+low computational complexity.} Compared with state-of-the-art techniques, the proposed precoding
+algorithms present significant advantages in performance and computational complexity. 

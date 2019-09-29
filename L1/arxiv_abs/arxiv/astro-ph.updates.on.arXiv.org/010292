@@ -1,0 +1,16 @@
+In a previous paper (Arnett, et al., 2019) we introduced the use of Reynolds averaged implicit large
+eddy simulations (Moc\'ak, et al., 2019) to the classical problem of stellar convection (B\"ohm-Vitense,
+1958; mixing length theory, MLT). We explored the structure of turbulent boundary layers, multi-modal
+behavior, intermittency, fluctuations, and composition gradients, and found that the Kolmogorov
+dissipation length played a role in some respects akin to the B\"ohm-Vitense mixing length. We now
+extend our analysis by extracting the sub-grid dissipation of our method (the "mixing length"),
+and by quantifying errors in resolution of boundary layers. The results for weakly-stratified
+convection show quantitative agreement with the four-fifths law of Kolmogorov. We examine the
+differences between weakly and strongly stratified convection (i.e., core convection and surface
+convection zones, respectively). We find that MLT is a weak-stratification theory (which ignores
+turbulent kinetic energy), and for precise work should be modified for strong-stratification
+cases like the solar and stellar atmospheres. We derive the `effective mixing length' for strong-stratification;
+it is the density scale height, so $\alpha \approx \Gamma \sim 5/3$, in surprising agreement with
+many stellar evolution calibrations, but smaller than the preferred values for the Standard Solar
+Model (SSM), an error we attribute in part to the lack of a turbulent boundary layer, which we find
+at the bottom of the convection zone but missing in MLT and SSM. 

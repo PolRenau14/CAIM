@@ -1,0 +1,16 @@
+Given a smooth potential function $V : \mathbf{R}^m \to \mathbf{R}$, one can consider the ODE $\partial_t^2
+u = -(\nabla V)(u)$ describing the trajectory of a particle $t \mapsto u(t)$ in the potential well
+$V$. We consider the question of whether the dynamics of this family of ODE are \emph{universal}
+in the sense that they contain (as embedded copies) any first-order ODE $\partial_t u = X(u)$ arising
+from a smooth vector field $X$ on a manifold $M$. Assuming that $X$ is nonsingular and $M$ is compact,
+we show (using the Nash embedding theorem) that this is possible precisely when the flow $(M,X)$
+supports a geometric structure which we call a \emph{strongly adapted $1$-form}; many smooth flows
+do have such a $1$-form, but we give an example (due to Bryant) of a flow which does not, and hence cannot
+be modeled by the dynamics of a potential well. As one consequence of this embeddability criterion,
+we construct an example of a (coercive) potential well system which is \emph{Turing complete} in
+the sense that the halting of any Turing machine with a given input is equivalent to a certain bounded
+trajectory in this system entering a certain open set. In particular, this system contains trajectories
+for which it is undecidable whether that trajectory enters such a set. Remarkably, the above results
+also hold if one works instead with the nonlinear wave equation $\partial_t^2 u - \Delta u = -(\nabla
+V)(u)$ on a torus instead of a particle in a potential well, or if one replaces the target domain $\mathbf{R}^m$
+by a more general Riemannian manifold. 

@@ -1,0 +1,16 @@
+The entropy of a monomer-dimer system on an infinite bipartite lattice can be written as a mean-field
+part plus a series expansion in the dimer density. In a previous paper it has been conjectured that
+all coefficients of this series are positive. Analogously on a connected regular graph with $v$
+vertices, the "entropy" of the graph ${\rm ln} N(i)/v$, where $N(i)$ is the number of ways of setting
+down $i$ dimers on the graph, can be written as a part depending only on the number of the dimer configurations
+over the completed graph plus a Newton series in the dimer density on the graph. In this paper, we investigate
+for which connected regular graphs all the coefficients of the Newton series are positive (for short,
+these graphs will be called positive). In the class of connected regular bipartite graphs, up to
+$v=20$, the only non positive graphs have vertices of degree $3$. From $v=14$ to $v=30$, the frequency
+of the positivity violations in the $3$-regular graphs decreases with increasing $v$. In the case
+of connected $4$-regular bipartite graphs, the first violations occur in two out of the $2806490$
+graphs with $v=22$. We conjecture that for each degree $r$ the frequency of the violations, in the
+class of the $r-$regular bipartite graphs, goes to zero as $v$ tends to infinity. This graph-positivity
+property can be extended to non-regular or non-bipartite graphs. We have examined a large number
+of rectangular grids of size $N_x \times N_y $ both with open and periodic boundary conditions. We
+have observed positivity violations only for $min(N_x, N_y) = 3$ or $4$. 

@@ -1,0 +1,16 @@
+The performance of Deep-Learning (DL) computing frameworks rely on the performance of data ingestion
+and checkpointing. In fact, during the training, a considerable high number of relatively small
+files are first loaded and pre-processed on CPUs and then moved to accelerator for computation.
+In addition, checkpointing and restart operations are carried out to allow DL computing frameworks
+to restart quickly from a checkpoint. Because of this, I/O affects the performance of DL applications.
+In this work, we characterize the I/O performance and scaling of TensorFlow, an open-source programming
+framework developed by Google and specifically designed for solving DL problems. To measure TensorFlow
+I/O performance, we first design a micro-benchmark to measure TensorFlow reads, and then use a TensorFlow
+mini-application based on AlexNet to measure the performance cost of I/O and checkpointing in TensorFlow.
+To improve the checkpointing performance, we design and implement a burst buffer. We find that increasing
+the number of threads increases TensorFlow bandwidth by a maximum of 2.3x and 7.8x on our benchmark
+environments. The use of the tensorFlow prefetcher results in a complete overlap of computation
+on accelerator and input pipeline on CPU eliminating the effective cost of I/O on the overall performance.
+The use of a burst buffer to checkpoint to a fast small capacity storage and copy asynchronously the
+checkpoints to a slower large capacity storage resulted in a performance improvement of 2.6x with
+respect to checkpointing directly to slower storage on our benchmark environment. 

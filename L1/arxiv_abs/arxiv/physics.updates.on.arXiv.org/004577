@@ -1,0 +1,16 @@
+Compared with the classical irreversible failure propagation, the spontaneous recovery model
+can better depict the failure propagation on network systems such as financial and transportation
+networks. In this paper, we study how the non-Markovian recovery process influences cascading
+failure dynamics in the spontaneous recovery systems. To this end, we compare two kinds of failure-recovery
+models: the non-Markovian recovery (NMR) model and the corresponding Markovian recovery (MR)
+model. We first develop a Pairwise approximation theory for the MR and NMR models, which can predict
+the time evolution, steady state, and hysteresis behavior of failure-recovery systems more accurately
+than the classical mean-field (MF) method. We find that although the non-Markovian recovery mechanism
+does not essentially affect the steady state and hysteresis behavior of failure-recovery systems,
+the two models exhibit distinct evolution processes. When investigating the effect of initial
+conditions on the phase transition and hysteresis behavior, we find in the hysteresis region, the
+NMR model exhibits a non-monotonic growth characteristic: with the increase of initial failed
+nodes, the steady state staying in relative low-failure phase first turns into relative high-failure
+phase, and then into relative low-failure phase again. We then use the MF theory to explain the phenomenon
+qualitatively and point out when considering non-Markovian dynamics, we should study the steady
+state not only from the perspective of the variation of parameters, but also from the initial conditions.

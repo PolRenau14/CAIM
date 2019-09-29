@@ -1,0 +1,17 @@
+This paper considers a Cram\'er-Lundberg risk setting, where the components of the underlying
+model change over time. These components could be thought of as the claim arrival rate, the claim-size
+distribution, and the premium rate, but we allow the more general setting of the cumulative claim
+process being modelled as a spectrally positive L\'evy process. We provide an intuitively appealing
+mechanism to create such parameter uncertainty: at Poisson epochs we resample the model components
+from a finite number of $d$ settings. It results in a setup that is particularly suited to describe
+situations in which the risk reserve dynamics are affected by external processes (such as the state
+of the economy, political developments, weather or climate conditions, and policy regulations).
+We extend the classical Cram\'er-Lundberg approximation (asymptotically characterizing the
+all-time ruin probability in a light-tailed setting) to this more general setup. In addition, for
+the situation that the driving L\'evy processes are sums of Brownian motions and compound Poisson
+processes, we find an explicit uniform bound on the ruin probability, which can be viewed as an extension
+of Lundberg's inequality; importantly, here it is not required that the L\'evy processes be spectrally
+one-sided. In passing we propose an importance-sampling algorithm facilitating efficient estimation,
+and prove it has bounded relative error. In a series of numerical experiments we assess the accuracy
+of the asymptotics and bounds, and illustrate that neglecting the resampling can lead to substantial
+underestimation of the risk. 

@@ -1,0 +1,17 @@
+The need of analyzing the available large synoptic multi-band surveys drives the development of
+new data-analysis methods. Photometric redshift estimation is one field of application where
+such new methods improved the results, substantially. Up to now, the vast majority of applied redshift
+estimation methods utilize photometric features. We propose a method to derive probabilistic
+photometric redshift directly from multi-band imaging data, rendering pre-classification of
+objects and feature extraction obsolete. A modified version of a deep convolutional network is
+combined with a mixture density network. The estimates are expressed as Gaussian mixture models
+representing the probability density functions (PDFs) in the redshift space. In addition to the
+traditional scores, the continuous ranked probability score (CRPS) and the probability integral
+transform (PIT) are applied as performance criteria. We adopt a feature based random forest and
+a plain mixture density network to compare performances on experiments with data from SDSS(DR9).
+We show that the proposed method is able to predict redshift PDFs independently from the type of source,
+e.g. galaxies, quasars or stars. Thereby the prediction performance is better than both presented
+reference methods and is comparable to results from the literature. The presented method is extremely
+general and allows to solve any kind of probabilistic regression problems based on imaging data,
+e.g. estimating metallicity or star formation rate of galaxies. This kind of methodology is tremendously
+important for the next generation of surveys. 

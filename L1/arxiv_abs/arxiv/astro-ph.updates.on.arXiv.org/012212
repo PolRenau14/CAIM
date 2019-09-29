@@ -1,0 +1,17 @@
+X-ray emission and the thermal Sunyaev-Zel'dovich distortion to the Cosmic Microwave Background
+are two important handles on the gas content of the Universe. The cross-correlation between these
+effects eliminates noise bias and reduces observational systematic effects. Using analytic models
+for the cluster profile, we develop a halo model formalism to study this cross-correlation and apply
+it to forecast the signal-to-noise of upcoming measurements from eROSITA and the Simons Observatory.
+In the soft X-ray band (0.5--2 keV), we forecast a signal-to-noise of 174 for the cross-power spectrum.
+Over a wide range of the scales, the X-rays will be signal-dominated, and so sample variance is important.
+In particular, non-Gaussian (4-point) contributions to the errors highlight the utility of masking
+massive clusters. Masking clusters down to $10^{14}\ M_\odot$ increases the signal-to-noise
+of the cross-spectrum to 201. We perform a Fisher Analysis on the fitting coefficients of the Battaglia
+et al. gas profiles and on cosmological parameters. We find that the cross spectrum is most sensitive
+to the overall scale of the profiles of pressure and electron density, as well as cosmological parameters
+$\sigma_8$ and $H_0$, but that the large number of parameters form a degenerate set, which makes
+extracting the information more challenging. Our modeling framework is flexible, and in the future,
+we can easily extend it to forecast the spatial cross-correlations of surveys of X-ray lines available
+to high-energy-resolution microcalorimetry, to studies of the Warm-Hot Intergalactic Medium,
+and other effects. 

@@ -1,0 +1,16 @@
+We present a new, probabilistic method for determining the systemic proper motions of Milky Way
+(MW) ultra-faint satellites in the Dark Energy Survey (DES). We utilize the superb photometry from
+the first public data release (DR1) of DES to select candidate members, and cross-match them with
+the proper motions from $Gaia$ DR2. We model the candidate members with a mixture model (satellite
+and MW) in spatial and proper motion space. This method does not require prior knowledge of satellite
+membership, and can successfully determine the tangential motion of most of the DES satellites.
+With our method we present measurements of the following satellites that lack spectroscopic follow-up:
+Columba~I, Eridanus~III, Grus~II, Phoenix~II, Pictor~I, Reticulum~III, and Tucana~IV, the
+majority of which are the first systemic proper motion measurements. We compare these to the predictions
+of Large Magellanic Cloud satellites and to the vast polar structure. With the high precision DES
+photometry we conclude that most of the newly identified member stars are very metal-poor ([Fe/H]
+$\lesssim -2$) similar to other ultra-faint dwarf galaxies, while Reticulum III is likely more
+metal-rich. We also find potential members in the following satellites that might indicate their
+overall proper motion: Cetus~II, Kim~2/Indus~I, Horologium~II, and Tucana~V; however, due to
+the small number of members in each satellite, spectroscopic follow-up observations are necessary
+to determine the systemic proper motion in these satellites. 

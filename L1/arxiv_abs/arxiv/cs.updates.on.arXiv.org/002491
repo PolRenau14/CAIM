@@ -1,0 +1,16 @@
+As the rate of incarceration in the United States continues to grow, a large body of research has been
+primarily focused on understanding the determinants and drivers of federal and state prison growth.
+However, local jail systems, with 11 million admissions each year, have generated less research
+attention even though they have a far broader impact on communities. Preliminary time trend analysis
+conducted by the Vera Institute of Justice (Vera) uncovered disparities in county jail incarceration
+rates by geography. Contrary to assumptions that incarceration is an urban phenomenon, Vera discovered
+that during the past few decades, pretrial jail rates have declined in many urban areas whereas rates
+have grown or remained flat in rural counties. In an effort to uncover the factors contributing to
+continued jail growth in rural areas, Vera joined forces with Two Sigma's Data Clinic, a volunteer-based
+program that leverages employees' data science expertise. Using county jail data from 2000 - 2013
+and county-specific demographic, political, socioeconomic, jail and prison population variables,
+a generalized estimating equations (GEE) model was specified to account for correlations within
+counties over time. The results revealed that county-level poverty, police expenditures, and
+spillover effects from other county and state authorities are all significant predictors of local
+jail rates. In addition, geographic investigation of model residuals revealed clusters of counties
+where observed rates were much higher (and much lower) than expected conditioned upon county variables.

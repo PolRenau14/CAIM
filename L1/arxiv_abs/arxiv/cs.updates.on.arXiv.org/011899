@@ -1,0 +1,17 @@
+Visual information plays a critical role in human decision-making process. While recent developments
+on visually-aware recommender systems have taken the product image into account, none of them has
+considered the aesthetic aspect. We argue that the aesthetic factor is very important in modeling
+and predicting users' preferences, especially for some fashion-related domains like clothing
+and jewelry. This work addresses the need of modeling aesthetic information in visually-aware
+recommender systems. Technically speaking, we make three key contributions in leveraging deep
+aesthetic features: (1) To describe the aesthetics of products, we introduce the aesthetic features
+extracted from product images by a deep aesthetic network. We incorporate these features into recommender
+system to model users' preferences in the aesthetic aspect. (2) Since in clothing recommendation,
+time is very important for users to make decision, we design a new tensor decomposition model for
+implicit feedback data. The aesthetic features are then injected to the basic tensor model to capture
+the temporal dynamics of aesthetic preferences (e.g., seasonal patterns). (3) We also use the aesthetic
+features to optimize the learning strategy on implicit feedback data. We enrich the pairwise training
+samples by considering the similarity among items in the visual space and graph space; the key idea
+is that a user may likely have similar perception on similar items. We perform extensive experiments
+on several real-world datasets and demonstrate the usefulness of aesthetic features and the effectiveness
+of our proposed methods. 

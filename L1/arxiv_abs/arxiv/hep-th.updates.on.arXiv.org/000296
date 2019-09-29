@@ -1,0 +1,17 @@
+Lattice regularization is a standard technique for the nonperturbative definition of a quantum
+theory of fields. Several approaches to the construction of a quantum theory of gravity adopt this
+technique either explicitly or implicitly. A crucial complement to lattice regularization is
+the process of renormalization through which a continuous description of the quantum theory arises.
+I provide a comprehensive conceptual discussion of the renormalization of lattice-regularized
+quantum gravity models. I begin with a presentation of the renormalization group from the Wilsonian
+perspective. I then consider the application of the renormalization group in four contexts: quantum
+field theory on a continuous nondynamical spacetime, quantum field theory on a lattice-regularized
+nondynamical spacetime, quantum field theory of continuous dynamical spacetime, and quantum
+field theory of lattice-regularized dynamical spacetime. The first three contexts serve to identify
+successively the particular issues that arise in the fourth context. These issues originate in
+the inescability of establishing all scales solely on the basis of the dynamics. While most of this
+discussion rehearses established knowledge, the attention that I pay to these issues, especially
+the previously underappreciated role of standard units of measure, is largely novel. I conclude
+by briefly reviewing past studies of renormalization of lattice-regularized quantum gravity
+models. In the second paper of this two-part series, I illustrate the ideas presented here by proposing
+a renormalization group scheme for causal dynamical triangulations. 

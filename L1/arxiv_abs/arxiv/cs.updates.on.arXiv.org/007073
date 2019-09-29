@@ -1,0 +1,17 @@
+How to efficiently identify multiple-input multiple-output (MIMO) linear parameter-varying
+(LPV) discrete-time state-space (SS) models with affine dependence on the scheduling variable
+still remains an open question, as identification methods proposed in the literature suffer heavily
+from the curse of dimensionality and/or depend on over-restrictive approximations of the measured
+signal behaviors. However, obtaining an SS model of the targeted system is crucial for many LPV control
+synthesis methods, as these synthesis tools are almost exclusively formulated for the aforementioned
+representation of the system dynamics. Therefore, in this paper, we tackle the problem by combining
+state-of-the-art LPV input-output (IO) identification methods with an LPV-IO to LPV-SS realization
+scheme and a maximum likelihood refinement step. The resulting modular LPV-SS identification
+approach achieves statical efficiency with a relatively low computational load. The method contains
+the following three steps: 1) estimation of the Markov coefficient sequence of the underlying system
+using correlation analysis or Bayesian impulse response estimation, then 2) LPV-SS realization
+of the estimated coefficients by using a basis reduced Ho-Kalman method, and 3) refinement of the
+LPV-SS model estimate from a maximum-likelihood point of view by a gradient-based or an expectation-maximization
+optimization methodology. The effectiveness of the full identification scheme is demonstrated
+by a Monte Carlo study where our proposed method is compared to existing schemes for identifying
+a MIMO LPV system. 

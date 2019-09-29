@@ -1,0 +1,16 @@
+We revisit the recent reformulation of the holographic prescription to compute entanglement entropy
+in terms of a convex optimization problem, introduced by Freedman and Headrick. According to it,
+the holographic entanglement entropy associated to a boundary region is given by the maximum flux
+of a bounded, divergenceless vector field, through the corresponding region. Our work leads to
+two main results: (i) We present a general algorithm that allows the construction of explicit thread
+configurations in cases where the minimal surface is known. We illustrate the method with simple
+examples: spheres and strips in vacuum AdS, and strips in a black brane geometry. Studying more generic
+bulk metrics, we uncover a sufficient set of conditions on the geometry and matter fields that must
+hold to be able to use our prescription. (ii) Based on the nesting property of holographic entanglement
+entropy, we develop a method to construct bit threads that maximize the flux through a given bulk
+region. As a byproduct, we are able to construct more general thread configurations by combining
+(i) and (ii) in multiple patches. We apply our methods to study bit threads which simultaneously
+compute the entanglement entropy and the entanglement of purification of mixed states and comment
+on their interpretation in terms of entanglement distillation. We also consider the case of disjoint
+regions for which we can explicitly construct the so-called multi-commodity flows and show that
+the monogamy property of mutual information can be easily illustrated from our constructions.

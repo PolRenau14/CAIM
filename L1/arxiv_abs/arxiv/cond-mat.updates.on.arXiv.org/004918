@@ -1,0 +1,16 @@
+This chapter discusses contemporary quantum chemical methods and provides general insights into
+modern electronic structure theory with a focus on heavy-element-containing compounds. We first
+give a short overview of relativistic Hamiltonians that are frequently applied to account for relativistic
+effects. Then, we scrutinize various quantum chemistry methods that approximate the $N$-electron
+wave function. In this respect, we will review the most popular single- and multi-reference approaches
+that have been developed to model the multi-reference nature of heavy element compounds and their
+ground- and excited-state electronic structures. Specifically, we introduce various flavors
+of post-Hartree--Fock methods and optimization schemes like the complete active space self-consistent
+field method, the configuration interaction approach, the Fock-space coupled cluster model,
+the pair-coupled cluster doubles ansatz, also known as the antisymmetric product of 1 reference
+orbital geminal, and the density matrix renormalization group algorithm. Furthermore, we will
+illustrate how concepts of quantum information theory provide us with a qualitative understanding
+of complex electronic structures using the picture of interacting orbitals. While modern quantum
+chemistry facilitates a quantitative description of atoms and molecules as well as their properties,
+concepts of quantum information theory offer new strategies for a qualitative interpretation
+that can shed new light onto the chemistry of complex molecular compounds. 

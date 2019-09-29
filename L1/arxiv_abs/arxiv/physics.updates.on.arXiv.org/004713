@@ -1,0 +1,16 @@
+The PandaX-III experiment plans to search for neutrinoless double beta decay (0$\nu\beta\beta$)
+of $^{136}$Xe in the China JinPing underground Laboratory (CJPL). The experiment will use a high
+pressure gaseous Time Projection Chamber (TPC) to register both the energy and the electron track
+topology of an event. This article is devoted to the software side of the experiment. As software
+tool we use REST, a framework developed for the reconstruction and simulation of TPC-based detector
+systems. We study the potential for background reduction by introducing appropiate parameters
+based on the properties of 0$\nu\beta\beta$ events. We exploit for the first time not only the energy
+density of the electron track-ends, but also the electron scattering angles produced by an electron
+near the end of its trajectory. To implement this, we have added new algorithms for detector signal
+and track processing inside REST. Their assessment shows that background can be reduced by about
+7 orders of magnitude while keeping 0$\nu\beta\beta$ efficiency above 20% for the PandaX-III baseline
+readout scheme, a 2-dimensional 3mm-pitch stripped readout. More generally, we use the potential
+of REST to handle 2D/3D data to assess the impact on signal-to-background significance at different
+detector granularities, and to validate the PandaX-III baseline choice. Finally, we demonstrate
+the potential to discriminate surface background events generated at the readout plane in the absence
+of $t_o$, by making use of event parameters related with the diffusion of electrons. 

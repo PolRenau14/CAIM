@@ -1,0 +1,16 @@
+In this work we study the Ruelle Operator associated to continuous potentials on general compact
+spaces. We present a new criterion for uniqueness of the eigenmeasures associated to the spectral
+radius of this operator acting on the space of all real-valued continuous functions defined on some
+suitable compact metric space. This uniqueness result is obtained by showing that set of eigenmeasures
+for any continuous potential, coincides with the set of the DLR-Gibbs measures for a suitable quasilocal
+specification. In particular, we proved that the phase transition in the DLR sense is equivalent
+to existence of more than one eigenprobability for the dual of the Ruelle operator. The strongly
+non-null condition, for the specifications considered here, is analyzed, in the case of finite
+alphabets and on the Thermodynamic Formalism setting. We also consider bounded extensions of the
+Ruelle operator to the Lebesgue space of integrable functions with respect to the eigenmeasures.
+We give very general sufficient conditions for the existence of integrable and almost everywhere
+positive eigenfunctions associated to the spectral radius of the Ruelle operator. A perturbation
+theory is developed for sequences of Ruelle operators and some continuity results are obtained,
+among them a limit theorem for the topological pressure functional. Techniques of super and sub
+solutions to the eigenvalue problem is developed and employed to construct (semi-explicitly)
+eigenfunctions for a very large class of continuous potentials having low regularity. 

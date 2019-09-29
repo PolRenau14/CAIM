@@ -1,0 +1,17 @@
+Recently, edge caching and multicasting arise as two promising technologies to support high-data-rate
+and low-latency delivery in wireless communication networks. In this paper, we design three transmission
+schemes aiming to minimize the delivery latency for cache-enabled multigroup multicasting networks.
+In particular, full caching bulk transmission scheme is first designed as a performance benchmark
+for the ideal situation where the caching capability of each enhanced remote radio head (eRRH) is
+sufficient large to cache all files. For the practical situation where the caching capability of
+each eRRH is limited, we further design two transmission schemes, namely partial caching bulk transmission
+(PCBT) and partial caching pipelined transmission (PCPT) schemes. In the PCBT scheme, eRRHs first
+fetch the uncached requested files from the baseband unit (BBU) and then all requested files are
+simultaneously transmitted to the users. In the PCPT scheme, eRRHs first transmit the cached requested
+files while fetching the uncached requested files from the BBU. Then, the remaining cached requested
+files and fetched uncached requested files are simultaneously transmitted to the users. The design
+goal of the three transmission schemes is to minimize the delivery latency, subject to some practical
+constraints. Efficient algorithms are developed for the low-latency cloud-edge coordinated
+transmission strategies. Numerical results are provided to evaluate the performance of the proposed
+transmission schemes and show that the PCPT scheme outperforms the PCBT scheme in terms of the delivery
+latency criterion. 

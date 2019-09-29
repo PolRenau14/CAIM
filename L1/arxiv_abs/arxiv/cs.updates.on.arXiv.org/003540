@@ -1,0 +1,16 @@
+The Dulmage--Mendelsohn decomposition (or the DM-decomposition) gives a unique partition of
+the vertex set of a bipartite graph reflecting the structure of all the maximum matchings therein.
+A bipartite graph is said to be DM-irreducible if its DM-decomposition consists of a single component.
+In this paper, we focus on the problem of making a given bipartite graph DM-irreducible by adding
+edges. When the input bipartite graph is balanced (i.e., both sides have the same number of vertices)
+and has a perfect matching, this problem is equivalent to making a directed graph strongly connected
+by adding edges, for which the minimum number of additional edges was characterized by Eswaran and
+Tarjan (1976). We give a general solution to this problem, which is divided into three parts. We first
+show that our problem can be formulated as a special case of a general framework of covering supermodular
+functions, which was introduced by Frank and Jord\'an (1995) to investigate the directed connectivity
+augmentation problem. Secondly, when the input graph is not balanced, the problem is solved via
+matroid intersection. This result can be extended to the minimum cost version in which the addition
+of an edge gives rise to an individual cost. Thirdly, for balanced input graphs, we devise a combinatorial
+algorithm that finds a minimum number of additional edges to attain the DM-irreducibility, while
+the minimum cost version of this problem is NP-hard. These results also lead to min-max characterizations
+of the minimum number, which generalize the result of Eswaran and Tarjan. 

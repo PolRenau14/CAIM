@@ -1,0 +1,17 @@
+Built around the SMARDDA modules for magnetic field-line tracing [IEEE Tr. Plasma Sc. 42 (2014)
+1932], the SMITER code package (SMARDDA for ITER) is a new graphical user interface (GUI) framework
+for power deposition mapping on tokamak plasma-facing components (PFC) in the full 3-D CAD geometry
+of the machine, taking as input a user-defined specification for parallel heat flux in the scrape-off
+layer (SOL) and a description of the equilibrium magnetic flux. The software package provides CAD
+model import and integration with the ITER Integrated Modelling and Analysis Suite (IMAS), parametric
+CAD components catalogue and modelling, CAD de-featuring for PFC surface extraction, meshing,
+visualization (using an integrated ParaView module), Python scripting and batch processing,
+storage in hierarchical data files, with several simulation cases in one study running in parallel
+and using message passing interface (MPI) for code speed-up. An integrated ParaView module can
+combine CAD geometry, magnetic field equilibrium, meshes and results for detailed setup analysis
+and a module is under development for full finite element computation of surface temperatures resulting
+from the power deposition patterns on 3-D PFCs. The code package has been developed for ITER, but
+can be deployed for similar modelling of any tokamak. This paper presents and discusses key features
+of this field-line tracing environment, demonstrates benchmarking against existing field-line
+tracing code and provides specific examples of power deposition mapping in ITER for different plasma
+configurations. 

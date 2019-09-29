@@ -1,0 +1,17 @@
+The structure and vibrational density of states (VDOS) of polymer glasses are investigated using
+numerical simulations based on the classical Kremer-Grest bead-spring model. We focus on the roles
+of chain length and bending stiffness, the latter being set by imposing three-body angular potentials
+along chain backbones. Upon increasing the chain length and bending stiffness, structural reorganisation
+leads to volumetric expansion of the material and build-up of internal stresses. The VDOS has two
+dominant bands: a low frequency one corresponding to inter- and intra-chain non-bonding interactions
+and a high frequency one corresponding principally to vibrations of bonded beads that constitute
+skeletal chain backbones. Upon increasing the steepness of the angular potential, vibrational
+modes associated with chain bending gradually move from the low-frequency to the high-frequency
+band. This redistribution of modes is reflected in a reduction of the so-called Boson peak upon increasing
+chain stiffness. Remarkably, the finer structure and the peaks of the high-frequency band, and
+their variations with stiffness, can, for short chains, be explained using an analytical solution
+derived for a model triatomic molecule. For longer chains, the qualitative evolution of the VDOS
+with chain stiffness is similar, although the distinct peaks observed for short chains become increasingly
+smoothed-out. Our findings can be used to guide a systematic approach to interpretation of Brillouin
+and Raman scattering spectra of glassy polymers in future work, with applications in polymer processing
+diagnostics. 

@@ -1,0 +1,16 @@
+Many natural simulation tasks, such as generating a partition of a large integer $n$, choosing uniformly
+over the $p_n$ conceivable choices, might be done by proposing a random object from a larger set,
+and then checking for membership in the desired target set. The success probability, i.e., the probability
+that a proposed random object hits the target, may be very small. The cost of this simple strategy,
+waiting-to-get-lucky, is the reciprocal of the small probability. The usual method of rare event
+simulation, the exponential shift or Cram\'er twist, is analogous to the saddle point method, and
+can remove the exponentially decaying part of the success probability. But even after this, the
+success probability may still be so small as to be an obstacle to simulation. Here, we propose a new
+method, probabilistic divide-and-conquer, for dealing with the remaining small probability.
+For the example of integer partitions, there is an ideal recursive scheme, which improves the remaining
+cost from asymptotically order $n^{3/4}$ to O(1). There are other examples, including $k$-cores,
+set partitions, and plane partitions, for which there is no recursive scheme, but nevertheless
+a one-time application of divide-and-conquer, with a "trivial second half," removes a substantial
+fraction of the remaining cost. The cost of traditional sampling is linear in the number of samples.
+Another variation of the probabilistic divide-and-conquer idea exploits features of the coupon
+collector's problem, and has cost that is sublinear in the number of samples. 

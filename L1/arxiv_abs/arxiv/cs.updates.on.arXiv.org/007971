@@ -1,0 +1,16 @@
+We study asymptotic performance of distributed detection in large scale connected sensor networks.
+Contrasting to the canonical parallel network where a single node has access to local decisions
+from all other nodes, each node can only exchange information with its direct neighbors in the present
+setting. We establish that, with each node employing an identical one-bit quantizer for local information
+exchange, a novel consensus reaching approach can achieve the optimal asymptotic performance
+of centralized detection as the network size scales. The statement is true under three different
+detection frameworks: the Bayesian criterion where the maximum a posteriori detector is optimal,
+the Neyman-Pearson criterion with a constant type-I error probability constraint, and the Neyman-Pearson
+criterion with an exponential type-I error probability constraint. Leveraging recent development
+in distributed consensus reaching using bounded quantizers with possibly unbounded data (which
+are log-likelihood ratios of local observations in the context of distributed detection), we design
+a one-bit deterministic quantizer with controllable threshold that leads to desirable consensus
+error bounds. The obtained bounds are key to establishing the optimal asymptotic detection performance.
+In addition, we examine non-asymptotic performance of the proposed approach, and show that the
+type-I and type-II error probabilities at each node can be made arbitrarily close to the centralized
+ones simultaneously when a continuity condition is satisfied. 

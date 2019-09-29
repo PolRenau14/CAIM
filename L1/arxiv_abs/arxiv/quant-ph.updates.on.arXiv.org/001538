@@ -1,0 +1,16 @@
+Single nuclear spins in the solid state have long been envisaged as a platform for quantum computing,
+due to their long coherence times and excellent controllability. Measurements can be performed
+via localised electrons, for example those in single atom dopants or crystal defects. However,
+establishing long-range interactions between multiple dopants or defects is challenging. Conversely,
+in lithographically-defined quantum dots, tuneable interdot electron tunnelling allows direct
+coupling of electron spin-based qubits in neighbouring dots. Moreover, compatibility with semiconductor
+fabrication techniques provides a compelling route to scaling to large numbers of qubits. Unfortunately,
+hyperfine interactions are typically too weak to address single nuclei. Here we show that for electrons
+in silicon metal-oxide-semiconductor quantum dots the hyperfine interaction is sufficient to
+initialise, read-out and control single silicon-29 nuclear spins, yielding a combination of the
+long coherence times of nuclear spins with the flexibility and scalability of quantum dot systems.
+We demonstrate high-fidelity projective readout and control of the nuclear spin qubit, as well
+as entanglement between the nuclear and electron spins. Crucially, we find that both the nuclear
+spin and electron spin retain their coherence while moving the electron between quantum dots, paving
+the way to long range nuclear-nuclear entanglement via electron shuttling. Our results establish
+nuclear spins in quantum dots as a powerful new resource for quantum processing. 

@@ -1,0 +1,17 @@
+Given a sufficient statistic for a parametric family of distributions, one can estimate the parameter
+without access to the data. However, the memory or code size for storing the sufficient statistic
+may nonetheless still be prohibitive. Indeed, for $n$ independent samples drawn from a $k$-nomial
+distribution with $d=k-1$ degrees of freedom, the length of the code scales as $d\log n+O(1)$. In
+many applications, we may not have a useful notion of sufficient statistics (e.g., when the parametric
+family is not an exponential family) and we also may not need to reconstruct the generating distribution
+exactly. By adopting a Shannon-theoretic approach in which we allow a small error in estimating
+the generating distribution, we construct various {\em approximate sufficient statistics} and
+show that the code length can be reduced to $\frac{d}{2}\log n+O(1)$. We consider errors measured
+according to the relative entropy and variational distance criteria. For the code constructions,
+we leverage Rissanen's minimum description length principle, which yields a non-vanishing error
+measured according to the relative entropy. For the converse parts, we use Clarke and Barron's formula
+for the relative entropy of a parametrized distribution and the corresponding mixture distribution.
+However, this method only yields a weak converse for the variational distance. We develop new techniques
+to achieve vanishing errors and we also prove strong converses. The latter means that even if the
+code is allowed to have a non-vanishing error, its length must still be at least $\frac{d}{2}\log
+n$. 

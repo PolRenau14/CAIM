@@ -1,0 +1,17 @@
+We are witnessing an increasing growth of autonomous platforms such as self-driving cars and social
+robots around us. These mobile machines need to navigate dynamic human environments safely and
+in a socially acceptable way. Hence, understanding the human behavior and the physical constraints
+of the environment is crucial. To address the task of path prediction for multiple interacting agents
+in a scene, we present SoPhie; an interpretable framework based on Generative Adversarial Network
+(GAN). Sophie leverages two sources of information: the past trajectory of all the agents in the
+scene and a wide top-view image of the navigation scene. Our approach combines a physical attention
+mechanism with a social attention mechanism. The physical attention component helps the model
+to learn where to look in a large scene and extract the most salient parts of the image relevant to the
+path. Whereas, the social attention component is able to aggregate information across different
+involved agents and extract the most important trajectory information from the surrounding agents,
+enabling our method to predict socially aware paths. SoPhie is able to capture the multi-modal nature
+of the future prediction: given the history of trajectories and a navigation scene, there can be
+multiple acceptable paths in the future. Through experiments on several trajectory forecasting
+benchmarks, we show that SoPhie outperforms prior work in terms of accuracy, while predicting physically
+appropriate paths. We also show that SoPhie is able to classify traversable vs non-traversable
+locations in a scene. 

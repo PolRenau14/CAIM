@@ -1,0 +1,17 @@
+We study an idealized 1D model for the evolution of hot gas in dark matter halos for redshifts $z=[0,6]$.
+We introduce a numerical setup incorporating cosmological accretion of gas, along with the growth
+of the halo, based on the Van den Bosch model for the average growth of halos as a function of cosmic
+time. We evolve one-dimensional Lagrangian shells with radiative cooling of the gas and heating
+due to feedback from the gas cooling and moving in toward the center. A simple Bondi accretion model
+on to a central black hole is used to include feedback heating. The setup captures some of the key characteristics
+of spherically symmetric accretion onto the halos: formation of virial shocks slightly outside
+$r_{200}$ and long-term thermal balance in the form of cooling and heating cycles. The gas density
+outside our initial halos at $z=6$ is constrained by requiring that the baryon fraction within the
+virial radius for non-radiative evolution be equal to the universal value at almost all times. The
+total mass in the cold phase (taken to be $\sim 10^4$ K) within $40$ kpc is tracked as a function of the
+halo mass and redshift. We compare the evolution of the cold gas mass to the observed stellar-mass
+versus halo mass relations, following which, we can constrain the feedback energy required for
+different halo masses and redshifts. We also compare and match the hot gas density and temperature
+profiles for our most massive halo to those of clusters observed upto redshift $2$. Our model is thus
+an improvement over the semi-analytic models in which isothermal condition and $\rho \propto r^{-2}$
+are assumed. 

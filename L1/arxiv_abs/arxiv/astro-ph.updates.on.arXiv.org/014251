@@ -1,0 +1,17 @@
+Dense stellar systems such as globular clusters are believed to harbor merging binary black holes
+(BHs). The evolution of such binaries is driven by interactions with other stars, most notably,
+binary-single interactions. Traditionally, so-called `strong' interactions are believed to
+be the driving force in this evolution. However, we recently showed that more distant, i.e., "weak"
+or "secular" encounters, can have important implications for the properties of merging BH binaries
+in globular clusters. This motivates more detailed understanding of the effects of secular encounters
+on a binary. In another previous paper, we analytically calculated expressions for the changes
+of the eccentricity and angular-momentum vectors taking into account second-order (SO) perturbation
+theory, and showed that, for highly eccentric binaries, the new expressions give rise to behavior
+that is not captured by first-order (FO) theory. Here, we extend our previous work to third order
+(TO) perturbation theory. We also include terms up to and including octupole order. The latter are
+nonzero for binaries with unequal component masses. In addition, we consider the effects of post-Newtonian
+terms, and we determine the steady-state distribution due to the cumulative effect of secular encounters
+by computing the associated angular-momentum diffusion coefficients, and applying the Fokker-Planck
+equation. Together with our previous work, the results in this paper provide a framework for incorporating
+the effects of distant encounters on binaries in models of cluster evolution, such as Monte Carlo
+codes. 

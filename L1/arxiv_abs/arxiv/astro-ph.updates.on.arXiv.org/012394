@@ -1,0 +1,16 @@
+We present stellar wind modelling of the hot Jupiter host HD189733, and predict radio emission from
+the stellar wind and the planet, the latter arising from the interaction of the stellar wind with
+the planetary magnetosphere. Our stellar wind models incorporate surface stellar magnetic field
+maps at the epochs Jun/Jul 2013, Sep 2014, and Jul 2015 as boundary conditions. We find that the mass-loss
+rate, angular momentum-loss rate, and open magnetic flux of HD189733 vary by 9%, 40%, and 19% over
+these three epochs. Solving the equations of radiative transfer, we find that from 10 MHz-100 GHz
+the stellar wind emits fluxes in the range of $10^{-3}$-$5$ $\mu$Jy, and becomes optically thin
+above 10 GHz. Our planetary radio emission model uses the radiometric Bode's law, and neglects the
+presence of a planetary atmosphere. For assumed planetary magnetic fields of 1-10 G, we estimate
+that the planet emits at frequencies of 2-25 MHz, with peak flux densities of $\sim10^2$ mJy. We find
+that the planet orbits through regions of the stellar wind that are optically thick to the emitted
+frequency from the planet. As a result, unattenuated planetary radio emission can only propagate
+out of the system and reach the observer for 67% of the orbit for a 10 G planetary field, corresponding
+to when the planet is approaching and leaving primary transit. We also find that the plasma frequency
+of the stellar wind is too high to allow propagation of the planetary radio emission below 21 MHz.
+This means a planetary field of at least 8 G is required to produce detectable radio emission. 

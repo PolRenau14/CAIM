@@ -1,0 +1,16 @@
+A vertex set $D$ in a finite undirected graph $G$ is an {\em efficient dominating set} (\emph{e.d.s.}
+for short) of $G$ if every vertex of $G$ is dominated by exactly one vertex of $D$. The \emph{Efficient
+Domination} (ED) problem, which asks for the existence of an e.d.s. in $G$, is known to be NP-complete
+even for very restricted graph classes such as for $2P_3$-free chordal graphs while it is solvable
+in polynomial time for $P_6$-free chordal graphs (and even for $P_6$-free graphs). On the other
+hand, ED is solvable in linear time for $2P_2$-free and even for $P_5$-free graphs, and thus for $P_5$-free
+bipartite graphs. Lu and Tang showed that ED is NP-complete for chordal bipartite graphs and for
+planar bipartite graphs;actually, ED is \NP-complete even for planar bipartite graphs with vertex
+degree at most 3. Thus, ED is NP-complete for $K_{1,4}$-free bipartite graphs. For $K_{1,3}$-free
+bipartite graphs, however, ED is solvable in polynomial time: For classes of bounded clique-width,
+ED is solvable in polynomial time. Dabrowski and Paulusma published a dichotomy for clique-width
+of $H$-free bipartite graphs. For instance, clique-width of $S_{1,2,3}$-free bipartite graphs
+is bounded (which includes $K_{1,3}$-free bipartite graphs). We show that ED is NP-complete for
+$K_{3,3}$-free bipartite graphs. Moreover, we show that (weighted) ED can be solved in polynomial
+time for $H$-free bipartite graphs when $H$ is $P_7$ or $S_{1,2,4}$ or $\ell P_4$ for fixed $\ell$,
+and similarly for $P_9$-free bipartite graphs with vertex degree at most 3. 

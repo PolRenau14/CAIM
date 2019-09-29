@@ -1,0 +1,16 @@
+We present numerical simulations of steady, laminar, axisymmetric convection of a Boussinesq
+fluid in a shallow, rotating, cylindrical domain. The flow is driven by an imposed vertical heat
+flux and shaped by the background rotation of the domain. The geometry is inspired by that of tropical
+cyclones and the global flow pattern consists of a shallow, swirling vortex combined with a poloidal
+flow in the r-z plane which is predominantly inward near the bottom boundary and outward along the
+upper surface. Our numerical experiments confirm that, as suggested by Oruba et al 2017, an eye forms
+at the centre of the vortex which is reminiscent of that seen in a tropical cyclone and is characterised
+by a local reversal in the direction of the poloidal flow. We establish scaling laws for the flow and
+map out the conditions under which an eye will, or will not, form. We show that, to leading order, the
+velocity scales with V=(\alpha g \beta)^{1/2}H, where g is gravity, \alpha the expansion coefficient,
+\beta the background temperature gradient, and H is the depth of the domain. We also show that the
+two most important parameters controlling the flow are Re=VH/\nu and Ro=V/\Omega H, where \Omega
+is the background rotation rate and \nu the viscosity. The Prandtl number and aspect ratio also play
+an important, if secondary, role. Finally, and most importantly, we establish the criteria required
+for eye formation. These consist of a lower bound on Re, upper and lower bounds on Ro, and an upper bound
+on Ekman number. 

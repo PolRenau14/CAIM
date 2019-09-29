@@ -1,0 +1,17 @@
+We introduce the notion of a classical dihedral affine Gaudin model, associated with an untwisted
+affine Kac-Moody algebra $\widetilde{\mathfrak{g}}$ equipped with an action of the dihedral
+group $D_{2T}$, $T \geq 1$ through (anti-)linear automorphisms. We show that a very broad family
+of classical integrable field theories can be recast as examples of such classical dihedral affine
+Gaudin models. Among these are the principal chiral model on an arbitrary real Lie group $G_0$ and
+the $\mathbb{Z}_T$-graded coset $\sigma$-model on any coset of $G_0$ defined in terms of an order
+$T$ automorphism of its complexification. Most of the multi-parameter integrable deformations
+of these $\sigma$-models recently constructed in the literature provide further examples. The
+common feature shared by all these integrable field theories, which makes it possible to reformulate
+them as classical dihedral affine Gaudin models, is the fact that they are non-ultralocal. In particular,
+we also obtain affine Toda field theory in its lesser-known non-ultralocal formulation as another
+example of this construction. We propose that the interpretation of a given classical non-ultralocal
+integrable field theory as a classical dihedral affine Gaudin model provides a natural setting
+within which to address its quantisation. At the same time, it may also furnish a general framework
+for understanding the massive ODE/IM correspondence since the known examples of integrable field
+theories for which such a correspondence has been formulated can all be viewed as dihedral affine
+Gaudin models. 

@@ -1,0 +1,16 @@
+In this paper, we consider bounded width circuits and nondeterministic circuits in three somewhat
+new directions. In the first part of this paper, we mainly consider bounded width circuits. The main
+purpose of this part is to prove that there is a Boolean function $f$ which cannot be computed by any
+nondeterministic circuit of size $O(n)$ and width $o(n)$. To the best of our knowledge, this is the
+first result on the lower bound of (nonuniform) bounded width circuits computing an explicit Boolean
+function, even for deterministic circuits. Actually, we prove a more generalized lower bound.
+Our proof outline for the lower bound also provides a satisfiability algorithm for nondeterministic
+bounded width circuits. In the second part of this paper, we consider the power of nondeterministic
+circuits. We prove that there is a Boolean function $f$ such that the nondeterministic $U_2$-circuit
+complexity of $f$ is at most $2n + o(n)$ and the deterministic $U_2$-circuit complexity of $f$ is
+$3n - o(n)$. This is the first separation on the power of deterministic and nondeterministic circuits
+for general circuits. In the third part of this paper, we show a relation between deterministic bounded
+width circuits and nondeterministic bounded width circuits. As the main consequence, we prove
+that $\mathsf{L/quasipoly} \supseteq \mathsf{NL/poly}$. As a corollary, we obtain that $\mathsf{L/quasipoly}
+\supset \mathsf{NL}$. To the best of our knowledge, this is the first result on $\mathsf{L}$ with
+large (more precisely, superpolynomial size) advice. 

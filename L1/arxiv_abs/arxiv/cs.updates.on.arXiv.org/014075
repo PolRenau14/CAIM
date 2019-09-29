@@ -1,0 +1,17 @@
+In this paper, we study the leaderless consensus problem for multiple Lagrangian systems in the
+presence of parametric uncertainties and external disturbances under directed graphs. For achieving
+asymptotic behavior, a robust continuous term with adaptive varying gains is added to alleviate
+the effects of the external disturbances with unknown bounds. In the case of a fixed directed graph,
+by introducing an integrate term in the auxiliary variable design, the final consensus equilibrium
+can be explicitly derived. We show that the agents achieve weighted average consensus, where the
+final equilibrium is dependent on three factors, namely, the interactive topology, the initial
+positions of the agents, and the control gains of the proposed control algorithm. In the case of switching
+directed graphs, a model reference adaptive consensus based algorithm is proposed such that the
+agents achieve leaderless consensus if the infinite sequence of switching graphs is uniformly
+jointly connected. Motivated by the fact that the relative velocity information is difficult to
+obtain accurately, we further propose a leaderless consensus algorithm with gain adaptation for
+multiple Lagrangian systems without using neighbors' velocity information. We also propose a
+model reference adaptive consensus based algorithm without using neighbors' velocity information
+for switching directed graphs. The proposed algorithms are distributed in the sense of using local
+information from its neighbors and using no comment control gains. Numerical simulations are performed
+to show the effectiveness of the proposed algorithms. 

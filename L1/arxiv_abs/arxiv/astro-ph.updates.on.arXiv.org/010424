@@ -1,0 +1,16 @@
+Context: Astrometric gravitational microlensing is an excellent tool to determine the mass of
+stellar objects. Using precise astrometric measurements of the lensed position of a background
+source in combination with accurate predictions of the positions of the lens and the unlensed source
+it is possible to determine the mass of the lens with an accuracy of a few percent. Aims: Making use
+of the recently published Gaia Data Release 2 (DR2) catalogue, we want to predict astrometric microlensing
+events caused by foreground stars with high proper motion passing a background source in the coming
+decades. Methods: We selected roughly 148 000 high-proper-motion stars from Gaia DR2 with $\mu_{tot}
+> 150\,\mathrm{mas/yr}$ as potential lenses. We then searched for background sources close to
+their paths. Using the astrometric parameters of Gaia DR2, we calculated the future positions of
+source and lens. With a nested-intervals algorithm we determined the date and separation of the
+closest approach. Using Gaia DR2 photometry we determined an approximate mass of the lens, which
+we used to calculate the expected microlensing effects. Results: We predict 3914 microlensing
+events caused by 2875 different lenses between 2010 and 2065, with expected shifts larger than $0.1\,\mathrm{mas}$
+between the lensed and unlensed positions of the source. Of those, 513 events are expected to happen
+between 2014.5 - 2026.5 and might be measured by Gaia. For 127 events we also expect a magnification
+between $1\,\mathrm{mmag}$ and $3\,\mathrm{mag}$. 

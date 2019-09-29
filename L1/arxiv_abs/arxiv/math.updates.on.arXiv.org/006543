@@ -1,0 +1,16 @@
+Non-malleable codes protect against an adversary who can tamper with the coded message by using
+a tampering function in a specified function family, guaranteeing that the tampering result will
+only depend on the chosen function and not the coded message. The codes have been motivated for providing
+protection against tampering with hardware that stores the secret cryptographic keys, and have
+found significant attention in cryptography. Traditional Shannon model of communication systems
+assumes the communication channel is perfectly known to the transmitter and the receiver. Arbitrary
+Varying Channels (AVCs) remove this assumption and have been used to model adversarially controlled
+channels. Transmission over these channels has been originally studied with the goal of recovering
+the sent message, and more recently with the goal of detecting tampering with the sent messages.
+In this paper we introduce non-malleability as the protection goal of message transmission over
+these channels, and study binary (discrete memoryless) AVCs where possible tampering is modelled
+by the set of channel states. Our main result is that non-malleability for these channels is achievable
+at a rate asymptotically approaching 1. We also consider the setting of an AVC with a special state
+s*, and the additional requirement that the message must be recoverable if s* is applied to all the
+transmitted bits. We give the outline of a message encoding scheme that in addition to non-malleability,
+can provide recovery for all s* channel. 

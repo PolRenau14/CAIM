@@ -1,0 +1,16 @@
+By scanning with a $30\, \mathrm{keV}$ focused He ion beam (He-FIB) across YBa$_2$Cu$_3$O$_7$
+(YBCO) thin film microbridges, we create Josephson barriers with critical current density $j_\mathrm{c}$
+adjustable by irradiation dose $D$. The dependence $j_\mathrm{c} (D)$ yields an exponential decay.
+At $4.2\, \mathrm{K}$, a transition from flux-flow to Josephson behavior occurs when $j_\mathrm{c}$
+decreases below $\approx 2\, \mathrm{MA/cm^2}$. The Josephson junctions exhibit current-voltage
+characteristics (IVCs) that are well described by the resistively and capacitively shunted junction
+model, without excess current for characteristic voltages $V_\mathrm{c} \lesssim 1\, \mathrm{mV}$.
+Devices on MgO and LSAT substrates show non-hysteretic IVCs, while devices on SrTiO$_3$ show a small
+hysteresis. For all junctions an approximate scaling $V_\mathrm{c} \propto j_\mathrm{c}^{1/2}$
+is found. He-FIB irradiation with high dose produces barriers with $j_\mathrm{c}=0$ and high resistances
+of $10\, \mathrm{k\Omega} \ldots 1\, \mathrm{G\Omega}$. This provides the possibility to write
+highly resistive walls or areas into YBCO using a He-FIB. Transmission electron microscopy reveals
+an amorphous phase within the walls, whereas for lower doses the YBCO stays crystalline. We have
+also ``drawn'' superconducting quantum interference devices (SQUIDs) by using a He-FIB for definition
+of the SQUID hole and the junctions. The SQUIDs show high performance, with flux noise $< 500\, \mathrm{n
+\Phi_0/Hz^{1/2}}$ in the thermal white noise limit for a device with $19\, \mathrm{pH}$ inductance.

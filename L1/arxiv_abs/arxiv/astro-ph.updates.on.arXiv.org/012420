@@ -1,0 +1,16 @@
+We perform hydrodynamical simulations of the interaction between supernova (SN) ejecta and circumstellar
+medium (CSM) for SN 1993J and SN 2011dh, and calculate the radio and X-ray emissions expected from
+the shocked gas at late epochs ($t$). Considering the ejecta structure from multi-group radiation
+hydrodynamics simulation, we find that the observed rapid drop in radio and X-ray light curves of
+SN 1993J at $t>$3000 days can be due to a change in the mass-loss rate ($\dot M$) around $\sim$6500
+years prior to the explosion of the SN. The exact epoch scales inversely with the assumed wind velocity
+of $v_{\rm w}=10~ km~s^{-1}$. The progenitor of this SN very likely belonged to a binary system,
+where, during its evolution, the primary had transferred material to the secondary. It is argued
+in the paper that the change in $\dot M$ can happen because of a change in the mass accretion efficiency
+($\eta$) of the companion star. It is possible that before $\sim6500~(v_{\rm w}/10~km~s^{-1})^{-1}$years
+prior to the explosion, $\eta$ was high, thus the CSM was tenuous, which causes the late time downturn
+in fluxes. In the case of SN 2011dh, the late time evolution is found to be consistent with a wind medium
+with $\dot M/v_{\rm w}=4\times10^{-6 }~M_{\odot}~ yr^{-1}/10 ~{km ~s^{-1}}$. It is difficult
+from our analysis to predict whether the progenitor of this SN had a binary companion, however, if
+future observations show similar decrease in radio and X-ray fluxes, then that would give strong
+support to a scenario where both SNe had undergone similar kind of binary evolution before explosion.

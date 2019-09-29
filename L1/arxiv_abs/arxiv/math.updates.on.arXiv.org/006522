@@ -1,0 +1,17 @@
+The minimum-cost mass transport problem for a set of discrete probability measures, called the
+discrete barycenter problem, can be solved exactly using exponential-sized linear programs.
+In applications, the support sets of the probability measures have two common settings that exhibit
+the extremes of the problem's complexity: all support points lie on the same regular grid, or all
+support points are unique and dispersed without structure. In the first, best-case setting, the
+discrete barycenter problem is well understood and solvable through a polynomial-sized linear
+program. We are interested in the second, worst-case setting, in which the underlying linear program
+is exponential in the number of variables, but contains an extremely low number of constraints,
+making it a prime candidate for column generation. In this paper, we devise a column generation strategy
+for this setting through a Dantzig-Wolfe decomposition of the underlying linear program. We produce
+an efficiently solvable pricing problem - a classical transportation problem - by assigning all
+constraints associated with exactly two measures to the pricing problem. We give a vertex formulation
+for the master problem, and describe two efficient methods for constructing an initial feasible
+restricted master problem. Further, we use the structure of the constraints for a memory-efficient
+implementation of both the pricing and the master problem. We conclude with some computational
+experiments, demonstrating significant improvement in the memory requirements and running times
+compared to a computation using the full linear program. 

@@ -1,0 +1,16 @@
+Materials science is undergoing profound changes due to advances in characterization instrumentation
+that have resulted in an explosion of data in terms of volume, velocity, variety and complexity.
+Harnessing these data for scientific research requires an evolution of the associated computing
+and data infrastructure, bridging scientific instrumentation with super- and cloud- computing.
+Here, we describe Universal Spectroscopy and Imaging Data (USID), a data model capable of representing
+data from most common instruments, modalities, dimensionalities, and sizes. We pair this schema
+with the hierarchical data file format (HDF5) to maximize compatibility, exchangeability, traceability,
+and reproducibility. We discuss a family of community-driven, open-source, and free python software
+packages for storing, processing and visualizing data. The first is pyUSID which provides the tools
+to read and write USID HDF5 files in addition to a scalable framework for parallelizing data analysis.
+The second is Pycroscopy, which provides algorithms for scientific analysis of nanoscale imaging
+and spectroscopy modalities and is built on top of pyUSID and USID. The instrument-agnostic nature
+of USID facilitates the development of analysis code independent of instrumentation and task in
+Pycroscopy which in turn can bring scientific communities together and break down barriers in the
+age of open-science. The interested reader is encouraged to be a part of this ongoing community-driven
+effort to collectively accelerate materials research and discovery through the realms of big data.

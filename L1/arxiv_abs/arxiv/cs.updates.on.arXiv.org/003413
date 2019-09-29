@@ -1,0 +1,16 @@
+Fluoroscopic X-ray guidance is a cornerstone for percutaneous orthopaedic surgical procedures.
+However, two-dimensional observations of the three-dimensional anatomy suffer from the effects
+of projective simplification. Consequently, many X-ray images from various orientations need
+to be acquired for the surgeon to accurately assess the spatial relations between the patient's
+anatomy and the surgical tools. In this paper, we present an on-the-fly surgical support system
+that provides guidance using augmented reality and can be used in quasi-unprepared operating rooms.
+The proposed system builds upon a multi-modality marker and simultaneous localization and mapping
+technique to co-calibrate an optical see-through head mounted display to a C-arm fluoroscopy system.
+Then, annotations on the 2D X-ray images can be rendered as virtual objects in 3D providing surgical
+guidance. We quantitatively evaluate the components of the proposed system, and finally, design
+a feasibility study on a semi-anthropomorphic phantom. The accuracy of our system was comparable
+to the traditional image-guided technique while substantially reducing the number of acquired
+X-ray images as well as procedure time. Our promising results encourage further research on the
+interaction between virtual and real objects, that we believe will directly benefit the proposed
+method. Further, we would like to explore the capabilities of our on-the-fly augmented reality
+support system in a larger study directed towards common orthopaedic interventions. 

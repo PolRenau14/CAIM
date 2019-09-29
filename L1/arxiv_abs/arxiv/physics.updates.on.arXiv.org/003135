@@ -1,0 +1,16 @@
+High-quality flat optical elements require efficient light deflection to large angles and over
+a wide wavelength spectrum. Although phase gradient metasurfaces achieve this by continuously
+adding phase shifts in the range of 0 to 2{\pi} to the electric field with subwavelength-sized scatterers,
+their performance is limited by the spatial resolution of phase modulation at the interface. Here,
+we introduce a new class of metasurfaces based on a general formulation, where the phase shifts cover
+less than the full 0-2{\pi} range, offering significant advantages. More specifically, this approach
+allows the realization of metasurfaces with more compact and less mutually-interacting scatterers,
+thus more precise phase modulation, and advances the performance limits of metasurfaces to domains
+significantly beyond those of the full coverage phase gradient approach. Applying this concept
+to both plasmonic and dielectric surfaces, we demonstrate large phase gradients resulting in high-numerical-aperture
+immersion metalenses (NA=1.4) with near diffraction-limited resolution (~0.32{\lambda}) at
+visible wavelengths. Our concept enables added functionalities such as a broadband performance
+and wavelength de-multiplexing on a single layer, surpassing the theoretical cross-polarization
+transmission efficiency limit for single-layer plasmonic metasurfaces, and yields 67% efficiency
+for dielectric metasurfaces. This work paves the way toward realizing high-resolution flat optical
+elements and efficient plasmonic metadevices. 

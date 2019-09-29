@@ -1,0 +1,16 @@
+The existence of stellar halos around galaxies is a natural prediction of the hierarchical nature
+of the LambdaCDM model. Recent observations of Milky Way-like galaxies have revealed a wide range
+in stellar halo mass, including cases with no statistically significant detection of a stellar
+halo, as in the case of M101, NGC3351 and NGC1042. We use the Illustris simulation to investigate
+the scatter in stellar halo content and, in particular, to study the formation of galaxies with the
+smallest fraction of this diffuse component. Stellar halos are far from spherical, which diminishes
+the surface brightness of the stellar halo for face-on disks. Once accounting for projection effects,
+we find that the stellar halo fraction f_SH correlates strongly with galaxy morphology and star
+formation rate, but not with environment, in agreement with observations. Galaxies with the lowest
+stellar halo fractions are disk-dominated, star-forming and assemble their dark matter halos
+on average earlier than galaxies with similar stellar masses. Accreted satellites are also lower
+in stellar mass and have earlier infall times than centrals with high f_SH. In situ rather than accreted
+stars dominate the stellar halos of galaxies with the lowest stellar halo fractions, with a transition
+radius from in situ to accretion-dominated r~45 kpc. Our results extrapolated to real galaxies
+such as M101 may indicate that these galaxies inhabit old halos which endured mergers only at higher
+redshifts and evolved relatively unperturbed in the last ~10 Gyrs. 

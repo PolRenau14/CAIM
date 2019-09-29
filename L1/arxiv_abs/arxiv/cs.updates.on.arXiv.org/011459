@@ -1,0 +1,16 @@
+We introduce the mobile server problem, inspired by current trends to move computational tasks
+from cloud structures to multiple devices close to the end user. An example for this are embedded
+systems in autonomous cars that communicate in order to coordinate their actions. Our model is a
+variant of the classical Page Migration Problem. More formally, we consider a mobile server holding
+a data page. The server can move in the Euclidean space (of arbitrary dimension). In every round,
+requests for data items from the page pop up at arbitrary points in the space. The requests are served,
+each at a cost of the distance from the requesting point and the server, and the mobile server may move,
+at a cost $D$ times the distance traveled for some constant $D$. We assume a maximum distance $m$ the
+server is allowed to move per round. We show that no online algorithm can achieve a competitive ratio
+independent of the length of the input sequence in this setting. Hence we augment the maximum movement
+distance of the online algorithms to $(1+\delta)$ times the maximum distance of the offline solution.
+We provide a deterministic algorithm which is simple to describe and works for multiple variants
+of our problem. The algorithm achieves almost tight competitive ratios independent of the length
+of the input sequence. Our Algorithm also achieves a constant competitive ratio without resource
+augmentation in a variant where the distance between two consecutive requests is restricted to
+a constant smaller than the limit for the server. 

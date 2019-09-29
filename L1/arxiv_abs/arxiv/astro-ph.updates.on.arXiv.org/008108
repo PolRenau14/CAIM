@@ -1,0 +1,16 @@
+We report the discovery of a new relationship between a simple morphological characteristic of
+light curves produced by starspots and stellar rotation periods. The characteristic we examine
+is whether the light curve exhibits one dip or two during a single rotation. We analyze thousands
+of Kepler light curves of main sequence stars from 3200-6200K. Almost all the stars exhibit segments
+of their light curve that contain either single or double dip segments (very few have more than two
+significant dips per rotation). We define a variable, the "single/double ratio" (SDR) that expresses
+the ratio of the time spent in single mode to the time spent in double mode. Unexpectedly, there is
+a strong relationship between the SDR and the stellar rotation period, in the sense that longer periods
+come with a larger fraction of double segments. Even more unexpectedly, the slopes of the SDR-Period
+relations are a clear function of stellar temperature. We also show that the relationships of spot
+variability amplitude (R_var) to rotation period have similar levels of scatter, slopes, and dependence
+on temperature as the SDR-Period relations. Finally, the median R_var of single segments tends
+to be about twice that of double segments in a given light curve. We offer some tentative interpretations
+of these new results in terms of starspot coverage and lifetimes. It will be fruitful to look further
+into this novel "rotation-activity" relation, and better understand what information these aspects
+of light curve morphology bring to our knowledge of stellar magnetic activity. 

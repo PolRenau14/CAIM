@@ -1,0 +1,16 @@
+Long-range interacting N-particle systems get trapped into long-living out-of-equilibrium
+stationary states called quasi-stationary states (QSS). We study here the response to a small external
+perturbation when such systems are settled into a QSS. In the N to infinity limit the system is described
+by the Vlasov equation and QSS are mapped into stable stationary solutions of such equation. We consider
+this problem in the context of a model that has recently attracted considerable attention, the Hamiltonian
+Mean Field (HMF) model. For such a model, stationary inhomogeneous and homogeneous states determine
+an integrable dynamics in the mean-field effective potential and an action-angle transformation
+allows one to derive an exact linear response formula. However, such a result would be of limited
+interest if restricted to the integrable case. In this paper, we show how to derive a general linear
+response formula which does not use integrability as a requirement. The presence of conservation
+laws (mass, energy, momentum, etc.) and of further Casimir invariants can be imposed a-posteriori.
+We perform an analysis of the infinite time asymptotics of the response formula for a specific observable,
+the magnetization in the HMF model, as a result of the application of an external magnetic field,
+for two stationary stable distributions: the Boltzmann-Gibbs equilibrium distribution and the
+Fermi-Dirac one. When compared with numerical simulations, the predictions of the theory are very
+good away from the transition energy from inhomogeneous to homogeneous states. 

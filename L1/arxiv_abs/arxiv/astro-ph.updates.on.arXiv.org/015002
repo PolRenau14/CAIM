@@ -1,0 +1,17 @@
+The Carnegie-Chicago Hubble Program (CCHP) is building a direct path to the Hubble constant (H0)
+using Population II stars as the calibrator of the SN Ia-based distance scale. This path to calibrate
+the SN Ia is independent of the systematics in the traditional Cepheid-based technique. In this
+paper, we present the distance to M101, the host to SN2011fe, using the I-band tip of the red giant
+branch (TRGB) based on observations from the ACS/WFC instrument on the Hubble Space Telescope.
+The CCHP targets the halo of M101 where there is little to no host-galaxy dust, the red giant branch
+is isolated from nearly all other stellar populations, and there is virtually no source confusion
+or crowding at the magnitude of the tip. Applying the standard procedure for the TRGB method from
+the other works in the CCHP series, we find a foreground-extinction-corrected M101 distance modulus
+of {\mu_0}=29.07+/-0.04(stat)+/-0.05(sys) mag, which corresponds to a distance of D=6.52+/-0.12(stat)+/-0.15(sys)
+Mpc. This result is consistent with several recent Cepheid-based determinations, suggesting
+agreement between Population I and II distance scales for this nearby SN Ia-host galaxy. We further
+analyze four archival datasets for M101 that have targeted its outer disk to argue that targeting
+in the stellar halo provides much more reliable distance measurements from the TRGB method due to
+the combination of multiple structural components and heavily population contamination. Application
+of the TRGB in complex regions will have sources of uncertainty not accounted for in commonly used
+uncertainty measurement techniques. 

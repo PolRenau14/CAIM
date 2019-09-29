@@ -1,0 +1,17 @@
+Due to the gas rich environments of early circumstellar disks, the gravitational collapse of cool,
+dense regions of the disk form fragments largely composed of gas. During formation, disk fragments
+may attain increased metallicities as they interact with the surrounding disk material, whether
+through particle migration to pressure maxima or through mutual gravitational interaction. In
+this paper, we investigate the ability of fragments to collect and retain a significant solid component
+through gas-particle interactions in high-resolution 3D self-gravitating shearing box simulations.
+The formation of axissymmetric perturbations associated with gravitational instabilities allows
+particles of intermediate sizes to concentrate through aerodynamic drag forces. By the onset of
+fragmentation, the mass of local particle concentrations within the fragment are comparable to
+that of the gas component and the sebsequent gravitational collapse results in the formation of
+a solid core. We find that these cores can be up to several tens of Earth masses, depending on grain
+size, before the fragment center reaches temperatures which would sublimate solids. The solid
+fraction and total mass of the fragment also depend on the metallicity of the young parent protoplanetary
+disk, with higher initial metallicities resulting in larger fragments and larger solid cores.
+Additionally, the extended atmospheres of these soon-to-be gas giants or brown dwarfs are occasionally
+enriched above the initial metallicity, provided no solid core forms in the center and are otherwise
+lacking in heavier elements when a core does form. 

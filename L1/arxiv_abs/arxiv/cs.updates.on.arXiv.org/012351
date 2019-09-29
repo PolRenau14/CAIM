@@ -1,0 +1,16 @@
+The introduction of automated vehicles demands a way to prove their safe operation. However, validating
+the safety of automated vehicles is still an unsolved problem. While the scenario-based test approach
+seems to provide a possible solution, it requires the execution of a high amount of test cases. Several
+test benches, from actual test vehicles to partly or fully simulated environments, are available,
+but choosing the optimal test bench, e.g. in terms of required execution time and costs, is a difficult
+task. Every test bench provides different elements, e.g. simulation models which can be used for
+test case execution. The composition of elements at a specific test bench is called test bench configuration.
+This test bench configuration determines the actual performance of a test bench and, therefore,
+whether the run of a particular test case provides valid test case results with respect to the intended
+purpose, e.g. a safety validation. For an effective and efficient test case execution, a method
+is required to assign test cases to the most appropriate test bench configuration. Therefore, it
+is indispensable to have a method to classify test bench configurations in a clear and reproducible
+manner. In this paper, we propose a method for classifying test benches and test bench configurations
+and illustrate the classification method with some examples. The classification method serves
+as a basis for a systematic assignment of test cases to test bench configurations which allows for
+an effective and efficient test case execution. 

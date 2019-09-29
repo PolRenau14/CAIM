@@ -1,0 +1,16 @@
+With growing popularity, LoRa networks are pivotally enabling Long Range connectivity to low-cost
+and power-constrained user equipments (UEs). Due to its wide coverage area, a critical issue is
+to effectively allocate wireless resources to support potentially massive UEs in the cell while
+resolving the prominent near-far fairness problem for cell-edge UEs, which is challenging to address
+due to the lack of tractable analytical model for the LoRa network and its practical requirement
+for low-complexity and low-overhead design. To achieve massive connectivity with fairness, we
+investigate the problem of maximizing the minimum throughput of all UEs in the LoRa network, by jointly
+designing high-level policies of spreading factor (SF) allocation, power control, and duty cycle
+adjustment based only on average channel statistics and spatial UE distribution. By leveraging
+on the Poisson rain model along with tailored modifications to our considered LoRa network, we are
+able to account for channel fading, aggregate interference and accurate packet overlapping, and
+still obtain a tractable and yet accurate closed-form formula for the packet success probability
+and hence throughput. We further propose an iterative balancing (IB) method to allocate the SFs
+in the cell such that the overall max-min throughput can be achieved within the considered time period
+and cell area. Numerical results show that the proposed scheme with optimized design greatly alleviates
+the near-far fairness issue, and significantly improves the cell-edge throughput. 

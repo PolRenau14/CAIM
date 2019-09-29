@@ -1,0 +1,16 @@
+Unmanned aerial vehicles (UAVs) have found numerous applications and are expected to bring fertile
+business opportunities in the next decade. Among various enabling technologies for UAVs, wireless
+communication is essential and has drawn significantly growing attention in recent years. Compared
+to the conventional terrestrial communications, UAVs' communications face new challenges due
+to their high altitude above the ground and great flexibility of movement in the three-dimensional
+(3D) space. Several critical issues arise, including the line-of-sight (LoS) dominant UAV-ground
+channels and resultant strong aerial-terrestrial network interference, the distinct communication
+quality of service (QoS) requirements for UAV control messages versus payload data, the stringent
+constraints imposed by the size, weight and power (SWAP) limitations of UAVs, as well as the exploitation
+of the new design degree of freedom (DoF) brought by the highly controllable 3D UAV mobility. In this
+paper, we give a tutorial overview of the recent advances in UAV communications to address the above
+issues, with an emphasis on how to integrate UAVs into the forthcoming fifth-generation (5G) and
+future cellular networks. In particular, we partition our discussions into two promising research
+and application frameworks of UAV communications, namely UAV-assisted wireless communications
+and cellular-connected UAVs,where UAVs serve as aerial communication platforms and users, respectively.
+Furthermore, we point out promising directions for future research and investigation. 

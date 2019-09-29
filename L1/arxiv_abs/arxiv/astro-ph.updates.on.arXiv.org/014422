@@ -1,0 +1,16 @@
+Short gamma-ray bursts require a rotating black hole, surrounded by a magnetized relativistic
+accretion disk, such as the one formed by coalescing binary neutron stars or neutron star - black
+hole systems. The accretion onto a Kerr black hole is the mechanism of launching a baryon-free relativistic
+jet. An additional uncollimated outflow, consisting of sub-relativistic neutron-rich material
+which becomes unbound by thermal, magnetic and viscous forces, is responsible for blue and red kilonova.
+We explore the formation, composition and geometry of the secondary outflow by means of simulating
+accretion disks with relativistic magneto-hydrodynamics and employing realistic nuclear equation
+of state. We calculate the nucleosynthetic r-process yields by sampling the outflow with a dense
+set of tracer particles. Nuclear heating from the residual r-process radioactivities in the freshly
+synthesized nuclei is expected to power a red kilonova, contributing independently from the dynamical
+ejecta component, launched at the time of merger, and neutron-poor broad polar outflow, launched
+from the surface of the hypermassive neutron star by neutrino wind. Our simulations show that both
+magnetisation of the disk and high black hole spin are able to launch fast wind outflows ($v/c\sim
+0.11-0.23$) with a broad range of electron fraction $Y_{\rm e}\sim 0.1-0.4$, and help explain the
+multiple components observed in the kilonova lightcurves. The total mass loss from the post-merger
+disk via unbound outflows is between 2\% and 17\% of the initial disk mass. 

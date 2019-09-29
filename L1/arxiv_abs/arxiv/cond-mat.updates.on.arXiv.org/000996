@@ -1,0 +1,17 @@
+Nanowires have much potential application as it shows outstanding mechanical properties due to
+the size effect. Compared to the pure metallic counterparts Al and Cu, Al-Cu alloy nanowire posits
+enhanced mechanical properties like strength hardening. The mechanism of hardening coupled with
+the deformation process of Al-Cu alloy is of particular importance from its application point of
+view. In this paper, the effect of grain size on the hardening mechanism of Al-Cu polycrystalline
+alloy is elucidated by molecular dynamics simulation. Al-Cu (50-54% Cu by weight) alloy having
+an average grain size of 4.97 to 7.26 nm are investigated for tensile simulation at different strain
+rate using embedded atom method (EAM) potential at a temperature of 50~500K. It is found that the
+failure mechanism of the alloy is governed by the temperature, grain size as well as strain rate effect.
+At the high temperature of 300-500K, the failure strength of Al-Cu alloy increases with the decrease
+of average grain size following Hall-Petch relation. Dislocation motions are hindered significantly
+when the grain size is decreased which play a vital role on the hardening of the alloy. The failure
+is always found to initiate at a particular Al grain due to its weak link and propagates through grain
+boundary (GB) sliding, diffusion, dislocation nucleation and propagation. We also visualize
+the dislocation density at different grain size to show how the dislocation affects the material
+properties at the nanoscale. These results will aid further investigation on the deformation mechanism
+of polycrystalline alloy nanowires. 

@@ -1,0 +1,17 @@
+In this paper, we provide an analysis of self-organized network management, with an end-to-end
+perspective of the network. Self-organization as applied to cellular networks is usually referred
+to Self-organizing Networks (SONs), and it is a key driver for improving Operations, Administration,
+and Maintenance (OAM) activities. SON aims at reducing the cost of installation and management
+of 4G and future 5G networks, by simplifying operational tasks through the capability to configure,
+optimize and heal itself. To satisfy 5G network management requirements, this autonomous management
+vision has to be extended to the end to end network. In literature and also in some instances of products
+available in the market, Machine Learning (ML) has been identified as the key tool to implement autonomous
+adaptability and take advantage of experience when making decisions. In this paper, we survey how
+network management can significantly benefit from ML solutions. We review and provide the basic
+concepts and taxonomy for SON, network management and ML. We analyse the available state of the art
+in the literature, standardization, and in the market. We pay special attention to 3rd Generation
+Partnership Project (3GPP) evolution in the area of network management and to the data that can be
+extracted from 3GPP networks, in order to gain knowledge and experience in how the network is working,
+and improve network performance in a proactive way. Finally, we go through the main challenges associated
+with this line of research, in both 4G and in what 5G is getting designed, while identifying new directions
+for research. 

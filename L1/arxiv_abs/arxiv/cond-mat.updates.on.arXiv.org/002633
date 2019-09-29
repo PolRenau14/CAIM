@@ -1,0 +1,17 @@
+We study the relationship between the physics of topology and zero modes in frustrated systems and
+metama- terials. Zero modes that exist in topological matters are distinct from the ones arising
+from symmetry breaking. Incidentally, a prominent aspect of frustrated systems and metamaterials
+also is to harbor such kind of zero modes in form of an accidental degeneracy. Taking cues from these
+two apparently different phenomena, we ask a simple question: are the robust features of frustration
+topologically protected and if so can we classify different types of frustration using topology?
+In answering these questions we invoke the tools of topological mechanics to identify the key agent
+at play, namely the rigidity matrix, which is a non-Hermitian matrix and decides the topology of
+spin-wave zero modes in a frustrated magnet or phonon modes in metamaterials. Further developments
+of the theory rely on combining the recent developments in our understanding of Maxwell constraint
+counting and generalizing the ten-fold way classification of Hermitian matrices to non-Hermitian
+matrices. The result is a three-fold way classification for each Maxwell counting index. We illustrate
+the clas- sification by demonstrating the existence of a new vortex-like invariant for real rigidity
+matrices using random matrices and through example frustrated spin models. So by classifying all
+the rigidity matrices, we answer the question of the origin of frustration (i.e. zero modes in the
+form of accidental degeneracy) in a wide class of frustrated magnets and metamaterials by linking
+it to topological invariants. 

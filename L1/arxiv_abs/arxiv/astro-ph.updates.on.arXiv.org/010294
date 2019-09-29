@@ -1,0 +1,17 @@
+We investigate the use of estimators of weak lensing power spectra based on a flat-sky implementation
+of the Pseudo-Cl (PCl) technique, where the masked shear field is transformed without regard for
+masked regions of sky. This masking mixes power, and E-convergence and B-modes. To study the accuracy
+of forward-modelling and full-sky power spectrum recovery we consider both large-area survey
+geometries, and small-scale masking due to stars and a checkerboard model for field-of-view gaps.
+The power spectrum for the large-area survey geometry is sparsely-sampled and highly oscillatory,
+which makes modelling problematic. Instead, we derive an overall calibration for large-area mask
+bias using simulated fields. The effects of small-area star masks can be accurately corrected for,
+while the checkerboard mask has oscillatory and spiky behaviour which leads to percent biases.
+Apodisation of the masked fields leads to increased biases and a loss of information. We find that
+we can construct an unbiased forward-model of the raw PCls, and recover the full-sky convergence
+power to within a few percent accuracy for both Gaussian and lognormal-distributed shear fields.
+Propagating this through to cosmological parameters using a Fisher-Matrix formalism, we find
+we can make unbiased estimates of parameters for surveys up to 1,200 deg$^2$ with 30 galaxies per
+arcmin$^2$, beyond which the percent biases become larger than the statistical accuracy. This
+implies a flat-sky PCl analysis is accurate for current surveys but a Euclid-like survey will require
+higher accuracy. 

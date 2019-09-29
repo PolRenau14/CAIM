@@ -1,0 +1,17 @@
+Using integral field spectroscopic data of 24 nearby spiral galaxies obtained with the Multi-Unit
+Spectroscopic Explorer (MUSE), we derive empirical calibrations to determine the metallicity
+of the diffuse ionized gas (DIG) and/or of the low-ionisation emission region (LI(N)ER) in passive
+regions of galaxies. To do so, we identify a large number of HII--DIG/LIER pairs that are close enough
+to be chemically homogeneous and we measure the metallicity difference of each DIG/LIER region
+relative to its HII region companion when applying the same strong line calibrations. The O3N2 diagnostic
+($=$log [([O III]/H$\beta$)/([N II]/H$\alpha$)]) shows a minimal offset (0.01--0.04 dex) between
+DIG/LIER and HII regions and little dispersion of the metallicity differences (0.05 dex), suggesting
+that the O3N2 metallicity calibration for HII regions can be applied to DIG/LIER regions and that,
+when used on poorly resolved galaxies, this diagnostic provides reliable results by suffering
+little from DIG contamination. We also derive second-order corrections which further reduce the
+scatter (0.03--0.04 dex) in the differential metallicity of HII-DIG/LIER pairs. Similarly, we
+explore other metallicity diagnostics such as O3S2 ($=$log([O III]/H$\beta$+[S II]/H$\alpha$))
+and N2S2H$\alpha$ ($=$ log([N II]/[S II]) + 0.264log([N II]/H$\alpha$)) and provide corrections
+for O3S2 to measure the metallicity of DIG/LIER regions. We propose that the corrected O3N2 and O3S2
+diagnostics are used to measure the gas-phase metallicity in quiescent galaxies or in quiescent
+regions of star-forming galaxies. 
