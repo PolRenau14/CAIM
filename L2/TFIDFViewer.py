@@ -26,6 +26,8 @@ from elasticsearch_dsl.query import Q
 import argparse
 
 import numpy as np
+import math
+
 
 __author__ = 'bejar'
 
@@ -38,15 +40,9 @@ def search_file_by_path(client, index, path):
     """
     s = Search(using=client, index=index)
     q = Q('match', path=path)  # exact search in the path field
-    print("----------------------------------------")
-    print(q)
     s = s.query(q)
 
-    print("----------------------------------------")
-    print(s)
     result = s.execute()
-    print("----------------------------------------")
-    print(result)
 
     lfiles = [r for r in result]
     if len(lfiles) == 0:
@@ -96,15 +92,12 @@ def toTFIDF(client, index, file_id):
 
     tfidfw = []
     for (t, w),(_, df) in zip(file_tv, file_df):
-        print("\n \n voy a pintar")
-        print(t)
-        print(w)
-        print(df)
-        #
-        # Something happens here
-        #
-        pass
+        tf = w/max_freq
+        idf =   math.log(dcount/df)
 
+        tfidfw.append((t,tf*idf))
+
+        pass
     return normalize(tfidfw)
 
 def print_term_weigth_vector(twv):
@@ -113,10 +106,8 @@ def print_term_weigth_vector(twv):
     :param twv:
     :return:
     """
-    #
-    # Program something here
-    #
-    pass
+    for x in twv:
+        print(x)
 
 
 def normalize(tw):
@@ -126,10 +117,16 @@ def normalize(tw):
     :param tw:
     :return:
     """
-    #
-    # Program something here
-    #
-    return None
+
+    sum = 0
+    twn = []
+    for (_,x) in tw:
+        sum += math.pow(x,2)
+    norm = math.sqrt(sum)
+    for (t,x) in tw:
+        twn.append((t,x/norm))
+
+    return twn
 
 
 def cosine_similarity(tw1, tw2):
@@ -139,10 +136,20 @@ def cosine_similarity(tw1, tw2):
     :param tw2:
     :return:
     """
-    #
-    # Program something here
-    #
-    return 0
+    sum = 0
+    i = 0
+    j = 0
+    while i <  len(tw1) and j < len(tw2):
+        if tw1[i][0] == tw2[j][0] :
+            sum += tw1[i][1] * tw2[j][1]
+            j += 1
+            i += 1
+        elif tw1[i][0] > tw2[j][0]:
+            j += 1
+        else:
+            i += 1
+
+    return sum
 
 def doc_count(client, index):
     """

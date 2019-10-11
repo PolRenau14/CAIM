@@ -148,8 +148,3 @@ if __name__ == '__main__':
       archivo_a_guardar="Heaps",
       log = 0
     )
-
-
- # Aquest conjunt de dades no troba un optim per una a fixada = 1
- # make_plot("arxivs.txt")
- # make_plot("news.txt")
