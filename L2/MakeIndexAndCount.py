@@ -23,9 +23,10 @@ if __name__ == '__main__':
     parser=argparse.ArgumentParser()
     parser.add_argument('--path',required=True, default=None, help='Path to the files')
     parser.add_argument('--index', required=True, default=None, help='Index for the files')
-    parser.add_argument('--token', default='standard',choices=['standard','whitespace', 'classic', 'letter'],
+    parser.add_argument('--token', required=False,default='standard',choices=['standard','whitespace', 'classic', 'letter'],
                         help='Text tokenizer')
-    parser.add_argument('--filter', default=['lowercase'], nargs=argparse.REMAINDER, help='Text tokenizer: lowercase, '
+
+    parser.add_argument('--filter', required=False,default=['lowercase'], nargs=argparse.REMAINDER, help='Text tokenizer: lowercase, '
                                                                                           'asciifolding, stop, porter_stem, kstem, snowball')
     parser.add_argument('--output', required=True, default=None)
 
@@ -37,10 +38,13 @@ if __name__ == '__main__':
     token = args.token
     if len(args.filter):
         filter = ' '.join(args.filter)
+
     outputPath = args.output
+    print(outputPath)
 
     added =""
     if token != None:
+
         added = " \\--token " + token + " --filter " + filter
     else:
         added = " \\--filter " + filter
