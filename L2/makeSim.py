@@ -3,6 +3,8 @@ import subprocess
 import struct
 import numpy as np
 import matplotlib.pyplot as plt
+import argparse
+import random
 
 """
 :Description: MakeSim
@@ -18,27 +20,40 @@ import matplotlib.pyplot as plt
 :Date: 04/10/2019
 """
 
+def getListOfFiles(path):
+    lfiles = []
+    for lf in os.walk(path):
+        if lf[2]:
+            for f in lf[2]:
+                lfiles.append(lf[0]  + f)
+    return lfiles
+
 
 
 
 if __name__ == '__main__':
-    path = "~/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/00150"
+
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--path',required=True, default=None, help='Path to the files')
+    parser.add_argument('--tam',required=False, default=10, help='Number of documents')
+    args = parser.parse_args()
+
+    path = args.path
+    tam = int(args.tam)
     sum = 0
     cont = 0
-    for i in range(10) :
-        s0 = ""
-        if ( i < 10):
-            s0= "0"
-        s0 += str(i)
-        for j in range(i+1,11):
-            s1 = ""
-            if( j < 10):
-                s1 = "0"
-            s1 += str(j)
-            command = "python3 TFIDFViewer.py --index news --files " + path+s0 +" " +path + s1
+    lfiles = getListOfFiles(path)
+
+    lfiles = random.choices(lfiles,k = tam)
+
+    for i in range(len(lfiles)) :
+        for j in range(i+1,len(lfiles)):
+            command = "python3 TFIDFViewer.py --index news --files " +lfiles[i] +" " +lfiles[j]
+
             var = subprocess.check_output(command,shell=True)
             varlist = var.split()
             k = varlist[2]
             sum += float(k.decode("utf-8"))
             cont +=1
+
     print("La puta merda de outut mitjana es ",sum/cont)
