@@ -39,9 +39,11 @@ if __name__ == '__main__':
         if lf[2]:
             for f in lf[2]:
                 lfiles.append(lf[0] + '/' + f)
+                print(f)
                 words.append(getlastNumber(lf[0] + '/' + f))
 
     y_pos = np.arange(4)
+
     plt.bar(y_pos, words[0:4], align='center', alpha=0.75)
     plt.xticks(y_pos,["letter","standard","classic","whitespace"])
     plt.ylabel("Different words")
