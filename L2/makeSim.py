@@ -36,19 +36,23 @@ if __name__ == '__main__':
     parser=argparse.ArgumentParser()
     parser.add_argument('--path',required=True, default=None, help='Path to the files')
     parser.add_argument('--tam',required=False, default=10, help='Number of documents')
+    parser.add_argument('--index',required=True, default = None, help= ' el index en el que hem fet index search')
     args = parser.parse_args()
 
     path = args.path
     tam = int(args.tam)
+    index = args.index
     sum = 0
     cont = 0
     lfiles = getListOfFiles(path)
 
     lfiles = random.choices(lfiles,k = tam)
+    for l in lfiles:
+        print(l)
 
     for i in range(len(lfiles)) :
         for j in range(i+1,len(lfiles)):
-            command = "python3 TFIDFViewer.py --index news --files " +lfiles[i] +" " +lfiles[j]
+            command = "python3 TFIDFViewer.py --index "+ index+ " --files " +lfiles[i] +" " +lfiles[j]
 
             var = subprocess.check_output(command,shell=True)
             varlist = var.split()
