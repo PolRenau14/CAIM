@@ -1,0 +1,3069 @@
+1.0
+QUERY:
+['run^2', 'gun^3']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=25.344656
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=24.31779
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=23.98035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=23.7745
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=23.171743
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8467443508511652', 'run^0.5058362046593071', 'san^0.14041955230722544', 'fran^0.0862327529848431']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=33.131134
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=32.297035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=26.892624
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.7832270855071486', 'run^0.4555030827604349', 'san^0.3381871594128457', 'fran^0.2543653265128493']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=45.021404
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=43.606895
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=37.996277
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.6919926474419699', 'san^0.47707528854504383', 'run^0.39184046113004956', 'fran^0.3741742882231582']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=58.72597
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=56.53212
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=51.293888
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.6004747963013433', 'san^0.5687603986821078', 'fran^0.45442745974823', 'run^0.33081310694197236']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=73.395645
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=70.29413
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=65.8605
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['san^0.6277263277946856', 'gun^0.5208503075742081', 'fran^0.5068128765898819', 'run^0.27895397938717587']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=88.531685
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=84.44195
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=81.124245
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['san^0.6654815896140209', 'fran^0.5408594212893562', 'gun^0.4562871497250877', 'run^0.23750237321570894']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=103.86538
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=98.73715
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=96.75654
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['san^0.6898494933476137', 'fran^0.5631578217572821', 'gun^0.4058945521315368', 'run^0.2054520792583345']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=119.261826
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=113.06348
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=112.576706
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['san^0.7058060542006422', 'fran^0.5779632589388722', 'gun^0.3674067830606475', 'run^0.18113128093044653']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=134.65855
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=128.48845
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=127.36991
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+QUERY:
+['san^0.7164351746879021', 'fran^0.5879513040115871', 'gun^0.33838619418677207', 'run^0.16287629712386523']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=150.03032
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=144.44179
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=141.63828
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+3 Documents
+1.0
+QUERY:
+['run^2', 'gun^3']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=25.344656
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=24.31779
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=23.98035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=23.7745
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=23.171743
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSVI SCORE=22.112494
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016707
+TEXT: In <C5wI8x.Cqs@skates.gsfc.nasa.gov> dsc@gemini.gs
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=22.112494
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=22.023184
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=21.940668
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=21.630886
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=21.343407
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=21.332867
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=21.161333
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=21.04261
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=20.960842
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=20.430088
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=20.21301
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=19.841957
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=19.624552
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=19.532707
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=19.293512
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNjjDk SCORE=19.293512
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002909
+TEXT: 1. Fire up Microsoft Word for Windows (version 2.0
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=18.743046
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=18.715483
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=18.553604
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=18.285004
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=18.005493
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 5kqTJ24BOUjwC5BNiiU0 SCORE=17.804327
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016000
+TEXT: Open letter by Dr. Paul H. Blackman, Research Coor
+-----------------------------------------------------------------
+ID= RkqTJ24BOUjwC5BNiic0 SCORE=17.775806
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016042
+TEXT: Does anyone really believe the Swiss have had no w
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=17.704002
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=17.674982
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=17.674982
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=17.674982
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= JEqTJ24BOUjwC5BNmUkt SCORE=17.346296
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.space/0014588
+TEXT: In article <C5x86o.8p4@zoo.toronto.edu>, henry@zoo
+-----------------------------------------------------------------
+ID= VEqTJ24BOUjwC5BNkDQT SCORE=16.974628
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003502
+TEXT: x90sanson@gw.wmich.edu wrote:
+> What's the differe
+-----------------------------------------------------------------
+ID= 10qTJ24BOUjwC5BNmEhU SCORE=16.725248
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.space/0014340
+TEXT: matthew@phantom.gatech.edu (Matthew DeLuca) writes
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=16.479464
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=16.479464
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=16.327042
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=15.9895935
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= HUqTJ24BOUjwC5BNfQrb SCORE=15.571021
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019577
+TEXT: In article <1993Apr21.045548.17418@news.cs.brandei
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiSVI SCORE=15.571021
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016641
+TEXT: In article <1993Apr21.045548.17418@news.cs.brandei
+-----------------------------------------------------------------
+ID= ekqTJ24BOUjwC5BNiSVI SCORE=15.571021
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0019577
+TEXT: In article <1993Apr21.045548.17418@news.cs.brandei
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=15.571021
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= MUqTJ24BOUjwC5BNlUHs SCORE=14.789559
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009454
+TEXT: Went to the Dodgers game tonight -- it was cap nig
+-----------------------------------------------------------------
+ID= uUqTJ24BOUjwC5BNiSVI SCORE=14.7575035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016044
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com> dduff@
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=14.7575035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=14.7575035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= GkqTJ24BOUjwC5BNjzOD SCORE=14.381809
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002054
+TEXT: Mark Woodruff <CDA90038@UCF1VM.BITNET> writes:
+>I'
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=14.2320385
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=14.198879
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=14.196446
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=14.189026
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=14.024771
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNlUHt SCORE=14.024771
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009966
+TEXT: In article <1qn6tqINNmnf@senator-bedfellow.MIT.EDU
+-----------------------------------------------------------------
+ID= SkqTJ24BOUjwC5BNiic0 SCORE=13.781284
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016703
+TEXT: In article <CMM.0.90.2.735386976.thomasp@surt.ifi.
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=13.638035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= hkqTJ24BOUjwC5BNjCtR SCORE=13.56819
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017641
+TEXT: Found this in soc.culture.pakistan
+Might be of int
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=12.671612
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=12.476122
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=11.463465
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNjCtR SCORE=11.463465
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017884
+TEXT: In article <1sufneINNe4f@CURIE.SYSTEMSY.CS.YALE.ED
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=11.463465
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=11.0163765
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=10.84628
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=10.666085
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSRI SCORE=10.2192545
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016934
+TEXT: In article <1993Apr23.044544.24559@CSD-NewsHost.St
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiSVI SCORE=9.998638
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016058
+TEXT: Mere presence of a firearm, without a shot being f
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=9.610124
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=9.100937
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=8.653822
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=8.653822
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=8.298631
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=8.154184
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=8.154184
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=7.938218
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=7.041022
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=7.0243206
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=6.6243305
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=6.327544
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=5.8071904
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=5.2408457
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=4.369775
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=4.224699
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=4.1226835
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=4.115127
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=3.6855755
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=3.049036
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=2.91335
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= qEqTJ24BOUjwC5BNjCpR SCORE=2.8066654
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017252
+TEXT:                          by Theodore J. O'Keefe
+HA
+-----------------------------------------------------------------
+ID= H0qTJ24BOUjwC5BNkThW SCORE=2.8066654
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018799
+TEXT:                          by Theodore J. O'Keefe
+HA
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=2.2128959
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=1.7343369
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8356764147023595', 'run^0.5491615295920242', 'you^0.0058334738153679655', 'they^0.005702184634331648']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=31.073647
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=30.381313
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=29.6118
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=28.2601
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=28.148386
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=28.053982
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=27.658226
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=27.280577
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=27.270416
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=27.057697
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=26.906649
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=26.803078
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=26.125721
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=25.84183
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=25.36823
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=25.076769
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=23.956903
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=23.9237
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=23.715881
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=23.380682
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=23.026793
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=22.638504
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=22.593666
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=22.591972
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=22.591354
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=21.062456
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=21.061646
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=20.873203
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=20.43045
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=19.904
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=18.862616
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=18.860113
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=18.203403
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=18.15248
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=18.148756
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=18.142904
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=17.92588
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=17.44135
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=16.20136
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=15.949935
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=14.655445
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=14.651666
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=14.08033
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=13.873952
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=13.633564
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=12.279168
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=11.639163
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=11.068454
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=11.066274
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=10.606173
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=10.428233
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=10.425855
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=10.150873
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=9.009615
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=8.981059
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=8.465398
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=8.095066
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=7.428219
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=6.702938
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=5.595687
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=5.4034395
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=5.2748632
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=5.2661734
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=4.7150908
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=3.9057095
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=3.7307372
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=2.8412025
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=2.2228477
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8387762433279163', 'run^0.5442589033933943', 'they^0.01094846531569674', 'you^0.010806979825971005']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=37.83889
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=36.998905
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=36.06312
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=34.42024
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=34.288048
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=34.19151
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=33.709682
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=33.23274
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=33.225975
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=32.977627
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=32.79467
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=32.67021
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=31.84668
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=31.490255
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=30.914518
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=30.536808
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=29.183954
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=29.14682
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=28.892408
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=28.497238
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=28.071943
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=27.593987
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=27.526575
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=27.521608
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=27.519846
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=25.656143
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=25.653706
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=25.434801
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=24.876392
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=24.249435
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=22.978182
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=22.97091
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=22.195786
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=22.124735
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=22.112904
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=22.10887
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=21.836647
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=21.2627
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=19.744339
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=19.435581
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=17.858404
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=17.847368
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=17.151573
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=16.918718
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=16.60916
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=14.951212
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=14.189476
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=13.495819
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=13.489541
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=12.918873
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=12.7132435
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=12.706255
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=12.373249
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=10.992011
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=10.945299
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=10.309707
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=9.873687
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=9.058382
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=8.17245
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=6.834047
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=6.5883226
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=6.4347706
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=6.4258223
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=5.751197
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=4.7721553
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=4.5565853
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=3.482533
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=2.7182007
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8417580608656882', 'run^0.5393858913329804', 'they^0.016113252551154568', 'you^0.01570319364924091']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=44.612804
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=43.626556
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=42.524986
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=40.592194
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=40.44143
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=40.352364
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=39.784367
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=39.19916
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=39.19876
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=38.92026
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=38.705803
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=38.561363
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=37.592087
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=37.157513
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=36.480038
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=36.004093
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=34.42355
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=34.384174
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=34.082523
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=33.633915
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=33.14015
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=32.5697
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=32.47307
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=32.463276
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=32.459854
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=30.259974
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=30.255104
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=30.01121
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=29.326963
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=28.606768
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=27.103687
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=27.089417
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=26.208525
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=26.112627
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=26.098436
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=26.078722
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=25.756588
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=25.101484
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=23.300045
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=22.932585
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=21.071901
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=21.050188
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=20.229734
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=19.980057
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=19.592495
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=17.62598
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=16.751472
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=15.935516
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=15.92325
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=15.236455
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=15.008853
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=14.995057
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=14.605006
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=12.987827
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=12.916758
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=12.157052
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=11.663085
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=10.697401
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=9.649141
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=8.084559
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=7.779155
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=7.602188
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=7.593843
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=6.7937036
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=5.6481495
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=5.3906946
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=4.1366334
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=3.2202487
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8446253525544725', 'run^0.5345442233570775', 'they^0.021196992041288346', 'you^0.020522539467948398']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=51.394707
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=50.26357
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=48.99671
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=46.775288
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=46.60782
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=46.53568
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=45.88143
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=45.188023
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=45.17914
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=44.884773
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=44.639214
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=44.47569
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=43.3611
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=42.84285
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=42.06404
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=41.478058
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=39.675076
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=39.63512
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=39.285603
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=38.789986
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=38.230644
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=37.564938
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=37.432537
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=37.416397
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=37.410797
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=34.873417
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=34.865322
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=34.601833
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=33.781727
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=32.975464
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=31.23865
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=31.215187
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=30.240982
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=30.115591
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=30.098944
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=30.05785
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=29.685253
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=28.957123
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=26.867994
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=26.440489
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=24.295517
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=24.259754
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=23.314457
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=23.057467
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=22.583206
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=20.303215
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=19.324768
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=18.387157
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=18.367046
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=17.558657
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=17.314713
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=17.291948
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=16.845823
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=14.996699
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=14.895164
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=14.007237
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=13.462949
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=12.345006
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=11.132784
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=9.346937
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=8.975746
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=8.776905
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=8.770012
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=7.8424287
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=6.5334744
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=6.23287
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=4.803253
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=3.728848
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8473815440907648', 'run^0.5297355230511687', 'they^0.026200179702449745', 'you^0.025265489023866907']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=58.183937
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=56.90928
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=55.477634
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=52.968857
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=52.786533
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=52.740627
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=52.000046
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=51.19304
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=51.171986
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=50.870346
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=50.594093
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=50.412357
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=49.1529
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=48.545536
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=47.665806
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=46.95818
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=44.937927
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=44.899033
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=44.501026
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=43.964752
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=43.342678
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=42.579
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=42.40439
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=42.380394
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=42.372124
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=39.49596
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=39.483864
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=39.20609
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=38.240273
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=37.355003
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=35.382595
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=35.34778
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=34.292534
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=34.133076
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=34.113876
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=34.045788
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=33.622185
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=32.82905
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=30.447716
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=29.958845
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=27.528837
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=27.47571
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=26.4054
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=26.150454
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=25.580944
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=22.982668
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=21.908981
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=20.850367
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=20.820578
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=19.885223
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=19.630482
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=19.596617
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=19.095379
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=17.018263
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=16.880255
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=15.860073
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=15.272976
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=14.000936
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=12.623151
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=10.620894
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=10.177915
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=9.958715
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=9.95411
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=8.897192
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=7.427914
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=7.08292
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=5.482146
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=4.243856
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8500299997680755', 'run^0.5249613109720157', 'they^0.031123358224562893', 'you^0.029932558354638792']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=64.97987
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=63.563038
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=61.967117
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=59.172264
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=58.976906
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=58.96639
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=58.139416
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=57.2131
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=57.177048
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=56.876198
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=56.569645
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=56.370575
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=54.96669
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=54.26487
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=53.284626
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=52.44393
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=50.211536
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=50.175304
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=49.72821
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=49.157516
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=48.475536
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=47.611206
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=47.388058
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=47.354725
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=47.343285
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=44.127106
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=44.110245
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=43.823414
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=42.702198
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=41.744873
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=39.535065
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=39.48677
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=38.36257
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=38.16455
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=38.142704
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=38.042095
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=37.566967
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=36.716717
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=34.03875
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=33.487225
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=30.771461
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=30.69771
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=29.502222
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=29.258537
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=28.585373
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=25.664097
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=24.503746
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=23.324772
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=23.283506
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=22.215908
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=21.955828
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=21.908772
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=21.353365
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=19.052168
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=18.871775
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=17.715376
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=17.092869
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=15.664931
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=14.120025
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=11.906154
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=11.38548
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=11.147419
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=11.145923
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=9.95782
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=8.33126
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=7.940656
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=6.173068
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=4.7651343
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8525740208773128', 'run^0.5202230079898598', 'they^0.03596711375227135', 'you^0.03452430464766824']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=71.78189
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=70.224236
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=68.46454
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=65.3849
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=65.21219
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=65.1783
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=64.298744
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=63.24753
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=63.193695
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=62.901566
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=62.565105
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=62.349556
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=60.801693
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=60.000168
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=58.91982
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=57.934834
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=55.495335
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=55.463356
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=54.96658
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=54.36761
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=53.6285
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=52.660908
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=52.38298
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=52.33886
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=52.323765
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=48.76638
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=48.744
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=48.453255
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=47.167126
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=46.1446
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=43.695618
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=43.63176
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=42.450504
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=42.209503
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=42.184906
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=42.046352
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=41.519173
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=40.61959
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=37.64066
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=37.025208
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=34.02301
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=33.925423
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=32.60461
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=32.381256
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=31.596163
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=28.347277
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=27.108706
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=25.810015
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=25.755503
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=24.550478
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=24.29043
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=24.22812
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=23.619488
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=21.098068
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=20.869474
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=19.57297
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=18.922337
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=17.336744
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=15.623193
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=13.202443
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=12.598269
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=12.345242
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=12.342819
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=11.024141
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=9.243304
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=8.805896
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=6.87578
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=5.292546
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8550168443531615', 'run^0.5155219386297836', 'they^0.040732072690109526', 'you^0.039041323211678795']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=78.58942
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=76.892265
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=74.96932
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=71.60617
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=71.47725
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=71.39008
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=70.47729
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=69.29566
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=69.2213
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=68.94571
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=68.579735
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=68.34854
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=66.65715
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=65.750755
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=64.57072
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=63.4304
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=60.788784
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=60.76262
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=60.215584
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=59.5944
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=58.800888
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=57.72746
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=57.388622
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=57.33228
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=57.31305
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=53.41332
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=53.384674
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=53.095093
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=51.634678
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=50.553707
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=47.86383
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=47.782345
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=46.55576
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=46.267418
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=46.239986
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=46.058136
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=45.478405
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=44.537144
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=41.253006
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=40.572388
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=37.283104
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=37.15852
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=35.71225
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=35.51815
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=34.612995
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=31.031986
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=29.72351
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=28.30575
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=28.236246
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=26.888699
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=26.633976
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=26.554386
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=25.893452
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=23.155628
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=22.873114
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=21.432684
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=20.761099
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=19.016132
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=17.132448
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=14.509496
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=13.8161125
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=13.551863
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=13.544725
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=12.09599
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=10.163845
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=9.678458
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=7.5900464
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=5.8259563
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8573616416516963', 'run^0.5108593344022413', 'they^0.04541889863182189', 'you^0.043484244566044924']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=85.401886
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=83.56656
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=81.48087
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiiY0 SCORE=77.8355
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016333
+TEXT: In <CMM.0.90.2.735315429.thomasp@holmenkollen.ifi.
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=77.76083
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiSRI SCORE=77.61167
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016594
+TEXT: Here's something Preston Covey (professor of ethic
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=76.67431
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNiSRI SCORE=75.356865
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016087
+TEXT: In article <1993Apr13.221936.28301@watson.ibm.com>
+-----------------------------------------------------------------
+ID= WEqTJ24BOUjwC5BNiSVI SCORE=75.25928
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016067
+TEXT: In article <C4tsHu.Ew6@magpie.linknet.com>, manes@
+-----------------------------------------------------------------
+ID= FkqTJ24BOUjwC5BNiiY0 SCORE=75.00791
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016029
+TEXT: In article <12741@news.duke.edu> eyc@acpub.duke.ed
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=74.6128
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= ukqTJ24BOUjwC5BNiiY0 SCORE=74.36681
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016940
+TEXT: In article <16BB8E4C0.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= i0qTJ24BOUjwC5BNiSRI SCORE=72.53234
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016580
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= AEqTJ24BOUjwC5BNiSRI SCORE=71.51601
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016303
+TEXT: In article <121415@netnews.upenn.edu> egedi@ahwena
+-----------------------------------------------------------------
+ID= 5UqTJ24BOUjwC5BNiSNI SCORE=70.23668
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016179
+TEXT: Excerpts from netnews.talk.politics.guns: 18-Apr-9
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=68.93017
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+ID= ZkqTJ24BOUjwC5BNiSVI SCORE=66.09136
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016521
+TEXT: In <53930421052235/0005111312NA3EM@mcimail.com> 00
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNiSRI SCORE=66.07255
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016154
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= jkqTJ24BOUjwC5BNjSx2 SCORE=65.474686
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.hockey/0010151
+TEXT: In article <BSON.93Apr14154548@hal.gnu.ai.mit.edu>
+-----------------------------------------------------------------
+ID= d0qTJ24BOUjwC5BNiSVI SCORE=64.83724
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016646
+TEXT: Try the firearms archive.  Larry Cipriani's instru
+-----------------------------------------------------------------
+ID= KEqTJ24BOUjwC5BNiic0 SCORE=63.992035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016223
+TEXT: scottj@magic.dml.georgetown.edu (John L. Scott) wr
+-----------------------------------------------------------------
+ID= 30qTJ24BOUjwC5BNiiY0 SCORE=62.81024
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016116
+TEXT: / iftccu:talk.politics.guns / mikey@ccwf.cc.utexas
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiSNI SCORE=62.40447
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016279
+TEXT: In article <CMM.0.90.2.735315429.thomasp@holmenkol
+-----------------------------------------------------------------
+ID= JkqTJ24BOUjwC5BNiSRI SCORE=62.3345
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016234
+TEXT: In article <1qanj0$22d@usenet.INS.CWRU.Edu> cj195@
+-----------------------------------------------------------------
+ID= MkqTJ24BOUjwC5BNhh0F SCORE=62.310665
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011213
+TEXT: In article <C5pGFu.IA4@dscomsa.desy.de> hallam@zeu
+-----------------------------------------------------------------
+ID= 7UqTJ24BOUjwC5BNkTdW SCORE=58.067474
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018955
+TEXT: In article <20APR199308471949@rigel.tamu.edu>, mst
+-----------------------------------------------------------------
+ID= bkqTJ24BOUjwC5BNiic1 SCORE=58.031837
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016517
+TEXT: In a previous article, jdurbin@nl.oracle.com (Jaso
+-----------------------------------------------------------------
+ID= l0qTJ24BOUjwC5BNhh7s SCORE=57.748405
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011519
+TEXT: In article <19APR199313020883@charon.gsfc.nasa.gov
+-----------------------------------------------------------------
+ID= DEqTJ24BOUjwC5BNkDax SCORE=56.104504
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003622
+TEXT: RYAN JEFFREY BAUCOM (rjbaucom@eos.ncsu.edu) wrote:
+-----------------------------------------------------------------
+ID= Y0qTJ24BOUjwC5BNjjHk SCORE=54.97173
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.os.ms-windows.misc/0002168
+TEXT: ludes@hubcap.clemson.edu (Larry "Ludes" Ludwig) wr
+-----------------------------------------------------------------
+ID= IEqTJ24BOUjwC5BNiic0 SCORE=52.03929
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016075
+TEXT: In article <1pqsruINNiae@hp-col.col.hp.com>, dduff
+-----------------------------------------------------------------
+ID= wEqTJ24BOUjwC5BNiiU0 SCORE=51.938156
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016065
+TEXT: As quoted from <1993Apr5.172734.8744@icd.ab.com> b
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiyco SCORE=50.677776
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016191
+TEXT: In article <1993Apr14.221646.2332@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= 0kqTJ24BOUjwC5BNiiY0 SCORE=50.337814
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016078
+TEXT: Jason Kratz (U28037@uicvm.uic.edu) writes:
+> PA146
+-----------------------------------------------------------------
+ID= skqTJ24BOUjwC5BNiCOD SCORE=50.307457
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016142
+TEXT: In article <1qpavfINN2jp@clem.handheld.com> jmd@cu
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiiY0 SCORE=50.077057
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016536
+TEXT: This was posted to the firearms-politics mailing l
+-----------------------------------------------------------------
+ID= gkqTJ24BOUjwC5BNiSRI SCORE=49.444283
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016561
+TEXT: In article <93108.025818U28037@uicvm.uic.edu> Jaso
+-----------------------------------------------------------------
+ID= 0UqTJ24BOUjwC5BNiiY0 SCORE=48.46888
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016410
+TEXT: Awesley wrote:
+  That was the entire point to *you
+-----------------------------------------------------------------
+ID= QEqTJ24BOUjwC5BNiic0 SCORE=44.87538
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016085
+TEXT: In article <1993Apr14.184448.2331@gnv.ifas.ufl.edu
+-----------------------------------------------------------------
+ID= nUqTJ24BOUjwC5BNfgvm SCORE=44.128372
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.religion.misc/0019774
+TEXT: In article <C5srEw.FCG@noose.ecn.purdue.edu> tbren
+-----------------------------------------------------------------
+ID= ykqTJ24BOUjwC5BNiyco SCORE=40.55138
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017071
+TEXT: In article <1993Apr14.125813.21737@ncsu.edu> hernl
+-----------------------------------------------------------------
+ID= sUqTJ24BOUjwC5BNkztl SCORE=40.396698
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018644
+TEXT: In article <mvpC5rB2H.D2F@netcom.com>, mvp@netcom.
+-----------------------------------------------------------------
+ID= aUqTJ24BOUjwC5BNgRFR SCORE=38.82484
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012708
+TEXT: verity@jack.sns.com (Steve Verity) writes:
+> I am 
+-----------------------------------------------------------------
+ID= jEqTJ24BOUjwC5BNiSRI SCORE=38.668777
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016291
+TEXT: >Does anyone have any idea about the size of Waco?
+-----------------------------------------------------------------
+ID= t0qTJ24BOUjwC5BNkThW SCORE=37.63557
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018909
+TEXT: In article <C5wKyG.3Fy@dscomsa.desy.de>, hallam@ze
+-----------------------------------------------------------------
+ID= E0qTJ24BOUjwC5BNlULt SCORE=33.71801
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009727
+TEXT: In article <13664@news.duke.edu> fls@keynes.econ.d
+-----------------------------------------------------------------
+ID= o0qTJ24BOUjwC5BNhh7s SCORE=32.347824
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011408
+TEXT: In article <1993Apr19.130132.12650@afterlife.ncsc.
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNhRpV SCORE=30.811632
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008884
+TEXT: In article <csundh30.735398449@ursa>, csundh30@urs
+-----------------------------------------------------------------
+ID= K0qTJ24BOUjwC5BNiic0 SCORE=30.725424
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016473
+TEXT: In article <C5n0vy.EJ6@ulowell.ulowell.edu> jrutle
+-----------------------------------------------------------------
+ID= YUqTJ24BOUjwC5BNlUAp SCORE=29.23035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.sport.baseball/0009340
+TEXT: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu> wri
+-----------------------------------------------------------------
+ID= WUqTJ24BOUjwC5BNhh0F SCORE=28.986158
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011409
+TEXT: In article <bontchev.735232729@fbihh> bontchev@fbi
+-----------------------------------------------------------------
+ID= n0qTJ24BOUjwC5BNkTdW SCORE=28.887293
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018242
+TEXT: In article <1ql7tuINN8j8@MINERVA.CIS.YALE.EDU> cha
+-----------------------------------------------------------------
+ID= 7kqTJ24BOUjwC5BNiSNI SCORE=28.174973
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016523
+TEXT: Mark 'Mark' Sachs <MBS110@psuvm.psu.edu>, represen
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNkjlV SCORE=25.224524
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018657
+TEXT: In article <1993Apr19.183819.5324@gordian.com> mik
+-----------------------------------------------------------------
+ID= YEqTJ24BOUjwC5BNhh0F SCORE=24.88246
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011877
+TEXT: In article <C62oJM.CJH@News.MR.Net> tmplee@TIS.COM
+-----------------------------------------------------------------
+ID= bUqTJ24BOUjwC5BNhBi7 SCORE=23.294355
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008480
+TEXT: Sixteen days I had put off test driving the Honda 
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNkThW SCORE=22.60888
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018155
+TEXT: In article <C51qr5.Duu@encore.com> rcollins@encore
+-----------------------------------------------------------------
+ID= zEqTJ24BOUjwC5BNghIN SCORE=20.702858
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.electronics/0012652
+TEXT: In article <1993Apr22.163605.24784@csus.edu> kscha
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNhh7s SCORE=18.647587
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/sci.crypt/0011955
+TEXT: Please note that the following speech was made by 
+-----------------------------------------------------------------
+ID= 4kqTJ24BOUjwC5BNiygo SCORE=15.827052
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017248
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= F0qTJ24BOUjwC5BNhBm7 SCORE=15.038845
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/rec.motorcycles/0008001
+TEXT: This is a periodic posting intended to answer the 
+-----------------------------------------------------------------
+ID= IkqTJ24BOUjwC5BNghW- SCORE=14.765585
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/soc.religion.christian/0015785
+TEXT: In article <May.11.05.06.28.1993.5458@geneva.rutge
+-----------------------------------------------------------------
+ID= fUqTJ24BOUjwC5BNjCtR SCORE=14.75295
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017974
+TEXT:   Excerpts from netnews.talk.politics.mideast: 16-
+-----------------------------------------------------------------
+ID= rUqTJ24BOUjwC5BNjClR SCORE=13.173203
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017925
+TEXT: In article <1993May15.021746.9527@seas.smu.edu> pt
+-----------------------------------------------------------------
+ID= 40qTJ24BOUjwC5BNkTdW SCORE=11.092684
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018412
+TEXT: Who wants to look through the bars at some reactio
+-----------------------------------------------------------------
+ID= R0qTJ24BOUjwC5BNjCtR SCORE=10.5581665
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017659
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= aEqTJ24BOUjwC5BNiygo SCORE=8.315635
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.mideast/0017572
+TEXT:      Accounts of Anti-Armenian Human Right Violati
+-----------------------------------------------------------------
+ID= KUqTJ24BOUjwC5BNkjtV SCORE=6.3652334
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.misc/0018087
+TEXT: SECRET PURPOSE OF FALKLANDS WAR;  [with IN-VISIBIL
+-----------------------------------------------------------------
+68 Documents
+#####################################
+#####################################
+#####################################
+#####################################
+#####################################
+#####################################
+#####################################
+#####################################
+#####################################
+#####################################

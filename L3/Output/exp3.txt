@@ -1,0 +1,246 @@
+1.0
+QUERY:
+['run^2', 'gun^3']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=25.344656
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=24.31779
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=23.98035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=23.7745
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=23.171743
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=31.202072
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=30.203573
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=30.021515
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=29.602423
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=28.698792
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=37.05949
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=36.4268
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=35.725243
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=35.430347
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=34.698494
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=42.91691
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=42.65003
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=41.428974
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=41.258274
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=41.07741
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=48.87325
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=48.774323
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=47.456326
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=47.31988
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=47.1327
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=55.096474
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=54.63174
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=53.83524
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=53.74213
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=52.91412
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=61.319702
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=60.48916
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=60.214153
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=60.164383
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=59.06488
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=67.54292
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=66.59306
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=66.58663
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=66.34657
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=65.401924
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=73.76614
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=73.00888
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=72.97198
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=72.20399
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=71.73897
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+QUERY:
+['gun^1.0']
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=79.98938
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= Z0qTJ24BOUjwC5BNiic1 SCORE=79.43114
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016881
+TEXT: In article <1993Apr22.134330.9761@rti.rti.org>
+jbs
+-----------------------------------------------------------------
+ID= sEqTJ24BOUjwC5BNiSVI SCORE=79.3509
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016658
+TEXT: In article <1r6qqcINN8j4@clem.handheld.com>
+jmd@cu
+-----------------------------------------------------------------
+ID= IUqTJ24BOUjwC5BNiiY0 SCORE=78.07602
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016900
+TEXT: In article <16BB8B194.R1328@vmcms.csuohio.edu> R13
+-----------------------------------------------------------------
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=78.06141
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+93 Documents

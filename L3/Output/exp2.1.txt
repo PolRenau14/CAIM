@@ -1,0 +1,160 @@
+100.0
+QUERY:
+['run^2', 'gun^3']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=25.344656
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=24.31779
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=23.98035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=23.7745
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=23.171743
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8323884945519503', 'run^0.5541886936946006', 'san^0.0017641468326855295', 'fran^0.001083376463977921']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=31.089567
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=30.393808
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=24.6738
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8324747416821116', 'run^0.5540358861886439', 'san^0.004404012656151811', 'fran^0.0032628130485806697']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=37.90881
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=37.056698
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=30.105652
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.832551136076213', 'run^0.5538767312898789', 'san^0.0070411909770762855', 'fran^0.005440035245356426']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=44.775402
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=43.76305
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=35.588955
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8326177054488125', 'run^0.5537112521485955', 'san^0.009675622859388902', 'fran^0.007614994384218072']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=51.6892
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=50.51274
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=41.123592
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8326744780245166', 'run^0.5535394722272673', 'san^0.012307249712103863', 'fran^0.00978764207975169']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=58.65008
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=57.30565
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=46.709442
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8327214825330239', 'run^0.5533614152969054', 'san^0.01493601329365851', 'fran^0.01195793023480098']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=65.65792
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=64.14165
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=52.346394
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8327587482041208', 'run^0.5531771054333857', 'san^0.017561855716178878', 'fran^0.01412581104399113']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=72.712585
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=71.020615
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=58.034325
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8327863047626253', 'run^0.5529865670137486', 'san^0.020184719449671394', 'fran^0.016291236997191774']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=79.813934
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=77.94242
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=63.773113
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8328041824232827', 'run^0.5527898247124713', 'san^0.0228045473261403', 'fran^0.018454160882918614']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=86.961845
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=84.906944
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= s0qTJ24BOUjwC5BNiSVI SCORE=69.56264
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016225
+TEXT: Andy Freeman (andy@SAIL.Stanford.EDU) wrote:
+: >Sa
+-----------------------------------------------------------------
+3 Documents

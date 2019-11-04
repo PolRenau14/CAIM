@@ -2,6 +2,8 @@ from __future__ import print_function
 from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import NotFoundError
 
+import argparse
+
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import Q
 from elasticsearch import Elasticsearch
@@ -145,7 +147,7 @@ if __name__ == '__main__':
     alpha = args.alpha
     beta = args.beta
     R = args.R
-    print(alpha)
+
     try:
         client = Elasticsearch()
         s = Search(using=client, index=index)

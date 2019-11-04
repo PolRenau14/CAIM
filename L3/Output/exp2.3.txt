@@ -1,0 +1,187 @@
+100.0
+QUERY:
+['run^2', 'gun^3']
+ID= HEqTJ24BOUjwC5BNiSRI SCORE=25.344656
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016049
+TEXT: In article <1993Apr5.213034.10706@gtephx.UUCP> for
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=24.31779
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= xUqTJ24BOUjwC5BNiSRI SCORE=23.98035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016233
+TEXT:   UPI Washington DC, Update Desk			4/15/93
+  For t
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=23.7745
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= tUqTJ24BOUjwC5BNkDMT SCORE=23.171743
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/comp.sys.ibm.pc.hardware/0003767
+TEXT: In article <93042013138@jester.GUN.de> michael@jes
+-----------------------------------------------------------------
+QUERY:
+['gun^0.8467443508511652', 'run^0.505836204659307', 'san^0.14041955230722544', 'trader^0.0862327529848431']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=33.131134
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=32.297035
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=26.948032
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=26.938297
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['gun^0.7737400542309286', 'run^0.44724224923919154', 'trader^0.3432444591564747', 'san^0.28893587564123624']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=45.651737
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=44.11037
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=38.35987
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=38.068993
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['gun^0.66917619212979', 'trader^0.5153793866030209', 'san^0.3826171466057418', 'run^0.3744214615572249']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=60.171623
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=57.653717
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=52.060257
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=51.37061
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['trader^0.6231868025198445', 'gun^0.5699452182660261', 'san^0.4377808334258957', 'run^0.30846166573127437']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=75.6505
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=71.99326
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=66.9587
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=65.79822
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['trader^0.6893634834905645', 'gun^0.4887769221952215', 'san^0.4695364127998687', 'run^0.25575508795359636']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=91.54204
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=86.649055
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=82.45132
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=80.776726
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['trader^0.7301700590304449', 'san^0.48787665564544064', 'gun^0.4267886344791303', 'run^0.21605442659463373']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=107.58433
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=101.39822
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=98.227104
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=96.012276
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['trader^0.755740267669814', 'san^0.4986546939982269', 'gun^0.38107558768917704', 'run^0.18703352759128755']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=123.6614
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=116.14739
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=114.13242
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=111.36133
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['trader^0.7720879239336358', 'san^0.5051446573258542', 'gun^0.3479964197427036', 'run^0.16615536325154667']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=139.72722
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=130.86375
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=130.09369
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=126.75625
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+QUERY:
+['trader^0.7827492899223426', 'san^0.5091579159717123', 'gun^0.32431455842408907', 'run^0.15126742188455206']
+ID= tUqTJ24BOUjwC5BNiSVI SCORE=155.76738
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016209
+TEXT: >The newspapers have now decided to censor gun ads
+-----------------------------------------------------------------
+ID= akqTJ24BOUjwC5BNiic1 SCORE=146.07674
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016244
+TEXT: I don't know what Traders is claiming, but it appe
+-----------------------------------------------------------------
+ID= qkqTJ24BOUjwC5BNiSVI SCORE=145.54077
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016108
+TEXT: Recently while looking around in Traders Sporting 
+-----------------------------------------------------------------
+ID= P0qTJ24BOUjwC5BNiSVI SCORE=142.16647
+PATH= /home/pol/FIB/CAIM/Entrada/20_newsgroups/talk.politics.guns/0016197
+TEXT: In article <81930415084418/0005111312NA3EM@mcimail
+-----------------------------------------------------------------
+4 Documents
