@@ -14,7 +14,7 @@ ProcessPrototype
 :Authors:
     bejar
 
-:Version: 
+:Version:
 
 :Date:  14/07/2017
 """
@@ -37,4 +37,3 @@ if __name__ == '__main__':
         print(cl)
         latt = sorted([(float(at.split('+')[1]), at.split('+')[0]) for at in attr.split()], reverse=True)
         print(latt[:args.natt])
-

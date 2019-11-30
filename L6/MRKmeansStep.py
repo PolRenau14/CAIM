@@ -6,14 +6,14 @@ MRKmeansDef
 
 :Description: MRKmeansDef
 
-    
+
 
 :Authors: bejar
-    
 
-:Version: 
 
-:Created on: 17/07/2017 7:42 
+:Version:
+
+:Created on: 17/07/2017 7:42
 
 """
 
@@ -35,7 +35,22 @@ class MRKmeansStep(MRJob):
 
         The result should be always a value in the range [0,1]
         """
-        return 1
+        # Jaccard index es : tam(Intersecció) / ( Summ (Long conjunts) -  tam Intersecció)
+        lenProt = len(prot)
+        lenDoc = len(doc)
+        union = lenProt + lenDoc
+        i = j = intersection = 0
+        while i < lenProt and j < lenDoc:
+            if prot[i][0] == doc[j]:
+                i +=1
+                j +=1
+                intersection += 1
+            elif prot[i][0] > doc[j]:
+                j += 1
+            else:
+                i += 1
+
+        return float(intersection / ( union - intersection))
 
     def configure_args(self):
         """
@@ -78,9 +93,16 @@ class MRKmeansStep(MRJob):
         #
         # Compute map here
         #
+        minDistance = 2 # dist maxima per index de jaccard == 1. per tant el primer cas sempre l'aceptarem.
+        assignedPrototype = None
+        for key in self.prototypes:
+            auxDistance = self.jaccard(self.prototypes[key],lwords)
+            if( auxDistance < minDistance):
+                minDistance = auxDistance
+                assignedPrototype = key
 
         # Return pair key, value
-        yield None, None
+        yield assignedPrototype, (doc,lwords)
 
     def aggregate_prototype(self, key, values):
         """
@@ -99,8 +121,25 @@ class MRKmeansStep(MRJob):
         :param values:
         :return:
         """
+        myKey = key
+        nextPrototype = {}
+        nextPrototypeDocs = []
+        docsInCluster = 0
+        for doc in values:
+            docsInCluster += 1
+            nextPrototypeDocs.append(doc[0])
+            for word in doc[1]:
+                if word in nextPrototype:
+                    nextPrototype[word] += 1
+                else:
+                    nextPrototype[word] = 1
 
-        yield None, None
+        returnPrototype = []
+        for word in nextPrototype:
+            returnPrototype.append((word,nextPrototype[word]/float(docsInCluster)))
+
+        yield myKey, (sorted(nextPrototypeDocs),sorted(returnPrototype, key=lambda x: x[0]))
+
 
     def steps(self):
         return [MRStep(mapper_init=self.load_data, mapper=self.assign_prototype,
