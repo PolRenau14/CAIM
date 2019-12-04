@@ -11,7 +11,7 @@ GeneratePrototypes
 :Authors:
     bejar
 
-:Version: 
+:Version:
 
 :Date:  14/07/2017
 """
@@ -25,7 +25,7 @@ __author__ = 'bejar'
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data', default='documents.txt',  help='Data with the examples')
-    parser.add_argument('--nclust', default=2, type=int, help='Number of clusters')
+    parser.add_argument('--nclust', default=20, type=int, help='Number of clusters')
 
     args = parser.parse_args()
 
@@ -46,4 +46,3 @@ if __name__ == '__main__':
         f.write('CLASS'+str(i) + ':' + docvec.encode('ascii','replace').decode() + '\n')
     f.flush()
     f.close()
-

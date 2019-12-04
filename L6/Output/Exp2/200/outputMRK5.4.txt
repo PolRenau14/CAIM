@@ -1,0 +1,13 @@
+Experimento jugando con los valores para iter y ncores
+20 clases, iter: 5, ncores: 4
+MRK MEANS: 
+Iteration 1 ...
+Time= 5.227508 seconds
+Iteration 2 ...
+Time= 12.681040 seconds
+Iteration 3 ...
+Time= 6.003151 seconds
+Algorithm converged
+PROCESS RESULTS: 
+CLASS4
+[(0.4116337427595706, 'also'), (0.3886719118507198, 'have'), (0.37876643836908735, 'two'), (0.3768419463783702, 'time'), (0.37004962170525085, 'studi')]

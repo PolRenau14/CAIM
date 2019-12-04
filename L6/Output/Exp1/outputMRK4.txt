@@ -1,0 +1,16 @@
+ExtractData.py --index arxiv --minfreq 0.3 --maxfreq 0.4 --numwords 200
+MRK MEANS: 
+Iteration 1 ...
+Time= 3.175290 seconds
+Iteration 2 ...
+Time= 4.000032 seconds
+Iteration 3 ...
+Time= 2.873244 seconds
+Iteration 4 ...
+Time= 4.455336 seconds
+Iteration 5 ...
+Time= 4.248366 seconds
+Algorithm converged
+PROCESS RESULTS: 
+CLASS11
+[(0.34918953679710996, 'between'), (0.34495280966881653, 'base'), (0.3255849142251896, 'one'), (0.3253012048192771, 'has'), (0.3229747876907946, 'observ')]

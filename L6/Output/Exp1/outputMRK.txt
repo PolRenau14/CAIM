@@ -1,0 +1,21 @@
+ExtractData.py --index  --minfreq  --maxfreq  --numwords 
+MRK MEANS: 
+Iteration 1 ...
+Time= 2.300980 seconds
+Iteration 2 ...
+Time= 5.579206 seconds
+Iteration 3 ...
+Time= 4.620611 seconds
+Iteration 4 ...
+Time= 4.672408 seconds
+Iteration 5 ...
+Time= 3.864050 seconds
+PROCESS RESULTS: 
+CLASS18
+[(0.12151536812008577, 'mail'), (0.10873838456040029, 'interest'), (0.09783774124374553, 'run'), (0.0971229449606862, 'inform'), (0.09667619728377412, 'might')]
+CLASS13
+[(1.0, 'power'), (0.21238938053097345, 'off'), (0.20648967551622419, 'while'), (0.20058997050147492, 'both'), (0.19542772861356933, 'own')]
+CLASS15
+[(0.22760333510732658, 'far'), (0.2178463721837857, 'file'), (0.21731417420613802, 'old'), (0.19992904026964697, 'heard'), (0.19762284903317368, 'suggest')]
+CLASS19
+[(0.7256687535571997, 'god'), (0.3966989186112692, 'feel'), (0.24530449630051224, 'our'), (0.23562891291974958, 'person'), (0.22993739328400684, 'own')]

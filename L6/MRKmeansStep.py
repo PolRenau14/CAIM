@@ -20,7 +20,7 @@ MRKmeansDef
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 
-__author__ = 'bejar'
+__author__ = 'Pol Renau'
 
 
 class MRKmeansStep(MRJob):
@@ -93,11 +93,11 @@ class MRKmeansStep(MRJob):
         #
         # Compute map here
         #
-        minDistance = 2 # dist maxima per index de jaccard == 1. per tant el primer cas sempre l'aceptarem.
+        minDistance = -1 # dist maxima per index de jaccard == 1. per tant el primer cas sempre l'aceptarem.
         assignedPrototype = None
         for key in self.prototypes:
             auxDistance = self.jaccard(self.prototypes[key],lwords)
-            if( auxDistance < minDistance):
+            if( auxDistance > minDistance):
                 minDistance = auxDistance
                 assignedPrototype = key
 
@@ -121,7 +121,6 @@ class MRKmeansStep(MRJob):
         :param values:
         :return:
         """
-        myKey = key
         nextPrototype = {}
         nextPrototypeDocs = []
         docsInCluster = 0
@@ -138,7 +137,7 @@ class MRKmeansStep(MRJob):
         for word in nextPrototype:
             returnPrototype.append((word,nextPrototype[word]/float(docsInCluster)))
 
-        yield myKey, (sorted(nextPrototypeDocs),sorted(returnPrototype, key=lambda x: x[0]))
+        yield key, (sorted(nextPrototypeDocs),sorted(returnPrototype, key=lambda x: x[0]))
 
 
     def steps(self):

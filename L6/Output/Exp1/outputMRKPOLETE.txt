@@ -1,0 +1,19 @@
+ExtractData.py --index arxiv --minfreq 0.01 --maxfreq 0.03 --numwords 200
+MRK MEANS: 
+Iteration 1 ...
+Time= 2.598457 seconds
+Iteration 2 ...
+Time= 17.752362 seconds
+Iteration 3 ...
+Time= 5.009027 seconds
+Iteration 4 ...
+Time= 6.339044 seconds
+Iteration 5 ...
+Time= 5.676701 seconds
+PROCESS RESULTS: 
+CLASS9
+[(0.30677737881508077, 'spars'), (0.2706463195691203, 'mobil'), (0.2502244165170557, 'deploy'), (0.24281867145421904, 'adversari'), (0.09223518850987433, 'servic')]
+CLASS13
+[(0.6756756756756757, 'dissip'), (0.6486486486486487, 'mobil'), (0.32432432432432434, 'gaug'), (0.1891891891891892, 'deploy'), (0.13513513513513514, 'spars')]
+CLASS4
+[(0.028946707939429432, 'hot'), (0.0288212164310215, 'relativist'), (0.02871664017401489, 'supernova'), (0.028256504643185812, 'kinet'), (0.028110097883376556, 'phenomena')]
